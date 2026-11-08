@@ -1,0 +1,13 @@
+node_modules
+.env
+*.log
+.env.test
+
+# Segredos e arquivos locais (nunca versionar)
+.env.*
+!.env.example
+.DS_Store
+
+# Documentação fica fora do repositório
+src/documentacao/
+*.md
