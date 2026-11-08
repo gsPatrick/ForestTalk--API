@@ -1,0 +1,1015 @@
+{
+ "language": "ru",
+ "scenarios": {
+  "sc01": {
+   "npcName": "Анна",
+   "turns": [
+    {
+     "npc": "Здравствуйте! Паспорт, пожалуйста.",
+     "npcPt": "Olá! Passaporte, por favor.",
+     "translit": "Zdravstvuyte! Pasport, pozhaluysta.",
+     "options": [
+      {
+       "text": "Вот, пожалуйста.",
+       "textPt": "Aqui está.",
+       "translit": "Vot, pozhaluysta."
+      },
+      {
+       "text": "Я — паспорт.",
+       "textPt": "Eu sou um passaporte.",
+       "translit": "Ya — pasport.",
+       "hint": "Soa como se você fosse o documento. Em russo, ao entregar, diga «Вот, пожалуйста» (aqui está)."
+      },
+      {
+       "text": "Спасибо, до свидания.",
+       "textPt": "Obrigado, tchau.",
+       "translit": "Spasibo, do svidaniya.",
+       "hint": "Ainda não é hora de se despedir: primeiro entregue o documento."
+      }
+     ]
+    },
+    {
+     "npc": "У вас есть багаж?",
+     "npcPt": "Você tem uma mala?",
+     "translit": "U vas yest bagazh?",
+     "options": [
+      {
+       "text": "Да, я счастлив.",
+       "textPt": "Sim, estou feliz.",
+       "translit": "Da, ya schastliv.",
+       "hint": "Não responde ao que foi perguntado."
+      },
+      {
+       "text": "Да, один чемодан.",
+       "textPt": "Sim, uma mala.",
+       "translit": "Da, odin chemodan."
+      },
+      {
+       "text": "Я люблю чемоданы.",
+       "textPt": "Eu gosto de malas.",
+       "translit": "Ya lyublyu chemodany.",
+       "hint": "É uma frase possível, mas não responde: diga se tem ou não mala."
+      }
+     ]
+    },
+    {
+     "npc": "Окно или проход?",
+     "npcPt": "Janela ou corredor?",
+     "translit": "Okno ili prokhod?",
+     "options": [
+      {
+       "text": "Да, пожалуйста.",
+       "textPt": "Sim, por favor.",
+       "translit": "Da, pozhaluysta.",
+       "hint": "A pergunta oferece duas opções; «Да» não escolhe nenhuma. Responda «Окно» ou «Проход»."
+      },
+      {
+       "text": "Место хорошее.",
+       "textPt": "Assento é bom.",
+       "translit": "Mesto khoroshee.",
+       "hint": "Frase estranha e sem escolha. Diga qual lugar você quer."
+      },
+      {
+       "text": "Окно, пожалуйста.",
+       "textPt": "Janela, por favor.",
+       "translit": "Okno, pozhaluysta."
+      }
+     ]
+    },
+    {
+     "npc": "Вот ваш посадочный талон.",
+     "npcPt": "Aqui está seu cartão de embarque.",
+     "translit": "Vot vash posadochnyy talon.",
+     "options": [
+      {
+       "text": "Спасибо! Какой выход?",
+       "textPt": "Obrigado! Qual é o portão?",
+       "translit": "Spasibo! Kakoy vykhod?"
+      },
+      {
+       "text": "Пожалуйста.",
+       "textPt": "De nada.",
+       "translit": "Pozhaluysta.",
+       "hint": "«Пожалуйста» (de nada) é fala de quem atende, não de quem recebe. O passageiro agradece: «Спасибо»."
+      },
+      {
+       "text": "Добрый вечер, господин.",
+       "textPt": "Boa noite, senhor.",
+       "translit": "Dobryy vecher, gospodin.",
+       "hint": "Fora de contexto: você ainda precisa saber o portão."
+      }
+     ]
+    }
+   ]
+  },
+  "sc02": {
+   "npcName": "Андрей",
+   "turns": [
+    {
+     "npc": "Добро пожаловать! Сколько вас?",
+     "npcPt": "Bem-vindo! Quantas pessoas?",
+     "translit": "Dobro pozhalovat! Skolko vas?",
+     "options": [
+      {
+       "text": "Я хорошо.",
+       "textPt": "Estou bem.",
+       "translit": "Ya khorosho.",
+       "hint": "«Я хорошо» responde a «Как дела?», não a «Сколько вас?». Diga o número: «Двое»."
+      },
+      {
+       "text": "Двое, пожалуйста.",
+       "textPt": "Duas, por favor.",
+       "translit": "Dvoe, pozhaluysta."
+      },
+      {
+       "text": "Стол большой.",
+       "textPt": "Uma mesa é grande.",
+       "translit": "Stol bolshoy.",
+       "hint": "Não responde à pergunta. Diga o número de pessoas."
+      }
+     ]
+    },
+    {
+     "npc": "Что вы будете заказывать?",
+     "npcPt": "O que você gostaria?",
+     "translit": "Chto vy budete zakazyvat?",
+     "options": [
+      {
+       "text": "Я люблю пиццу.",
+       "textPt": "Eu gosto de pizza.",
+       "translit": "Ya lyublyu pitstsu.",
+       "hint": "«Я люблю пиццу» fala de gosto geral. Para pedir, use o acusativo: «Пиццу, пожалуйста»."
+      },
+      {
+       "text": "Дай мне пиццу!",
+       "textPt": "Me dá pizza!",
+       "translit": "Day mne pitstsu!",
+       "hint": "«Дай мне» é seco e mandão com o garçom. Prefira «Пиццу, пожалуйста» ou «Можно пиццу?»."
+      },
+      {
+       "text": "Пиццу, пожалуйста.",
+       "textPt": "Uma pizza, por favor.",
+       "translit": "Pitstsu, pozhaluysta."
+      }
+     ]
+    },
+    {
+     "npc": "Что-нибудь выпить?",
+     "npcPt": "Algo para beber?",
+     "translit": "Chto-nibud vypit?",
+     "options": [
+      {
+       "text": "Воду, пожалуйста.",
+       "textPt": "Água, por favor.",
+       "translit": "Vodu, pozhaluysta."
+      },
+      {
+       "text": "Я пью, да.",
+       "textPt": "Eu bebo, sim.",
+       "translit": "Ya pyu, da.",
+       "hint": "Estranho: diga o que você quer beber."
+      },
+      {
+       "text": "Не есть, спасибо.",
+       "textPt": "Não comer, obrigado.",
+       "translit": "Ne yest, spasibo.",
+       "hint": "«Не есть» usa o infinitivo, e «есть» é comer; a pergunta é sobre beber: «Воду, пожалуйста»."
+      }
+     ]
+    },
+    {
+     "npc": "Вот ваша еда. Приятного аппетита!",
+     "npcPt": "Aqui está sua comida. Aproveite!",
+     "translit": "Vot vasha yeda. Priyatnogo appetita!",
+     "options": [
+      {
+       "text": "Извините.",
+       "textPt": "Sinto muito.",
+       "translit": "Izvinite.",
+       "hint": "Não há motivo para pedir desculpas aqui."
+      },
+      {
+       "text": "Спасибо! Выглядит вкусно.",
+       "textPt": "Obrigado! Parece bom.",
+       "translit": "Spasibo! Vyglyadit vkusno."
+      },
+      {
+       "text": "Пока!",
+       "textPt": "Tchau!",
+       "translit": "Poka!",
+       "hint": "Você acabou de receber a comida; ainda não vai embora."
+      }
+     ]
+    }
+   ]
+  },
+  "sc03": {
+   "npcName": "Макс",
+   "turns": [
+    {
+     "npc": "Привет! Я Макс. Как тебя зовут?",
+     "npcPt": "Oi! Eu sou o Sam. Qual é o seu nome?",
+     "translit": "Privet! Ya Maks. Kak tebya zovut?",
+     "options": [
+      {
+       "text": "Я называю себя Алекс.",
+       "textPt": "Eu me chamo Alex.",
+       "translit": "Ya nazyvayu sebya Aleks.",
+       "hint": "Calque do PT: soa como apelido. Diga «Меня зовут Алекс» ou só «Я Алекс»."
+      },
+      {
+       "text": "Приятно! Я Алекс.",
+       "textPt": "Prazer! Eu sou o Alex.",
+       "translit": "Priyatno! Ya Aleks."
+      },
+      {
+       "text": "Хорошо, спасибо.",
+       "textPt": "Bem, obrigado.",
+       "translit": "Khorosho, spasibo.",
+       "hint": "Responde a «Как дела?», não a «Как тебя зовут?». Diga seu nome."
+      }
+     ]
+    },
+    {
+     "npc": "Приятно познакомиться! Откуда ты?",
+     "npcPt": "Prazer! De onde você é?",
+     "translit": "Priyatno poznakomitsya! Otkuda ty?",
+     "options": [
+      {
+       "text": "Я Бразилия.",
+       "textPt": "Eu sou Brasil.",
+       "translit": "Ya Braziliya.",
+       "hint": "Diz que você É o país. Use «Я из Бразилии» (из + genitivo)."
+      },
+      {
+       "text": "Я из бразильский.",
+       "textPt": "Eu sou de brasileiro.",
+       "translit": "Ya iz brazilskiy.",
+       "hint": "«Из» pede o país no genitivo («из Бразилии»); «бразильский» é adjetivo. Ou «Я бразилец»."
+      },
+      {
+       "text": "Я из Бразилии.",
+       "textPt": "Sou do Brasil.",
+       "translit": "Ya iz Brazilii."
+      }
+     ]
+    },
+    {
+     "npc": "Что ты любишь делать?",
+     "npcPt": "O que você gosta de fazer?",
+     "translit": "Chto ty lyubish delat?",
+     "options": [
+      {
+       "text": "Я люблю музыку и футбол.",
+       "textPt": "Eu gosto de música e futebol.",
+       "translit": "Ya lyublyu muzyku i futbol."
+      },
+      {
+       "text": "Я люблю футбола.",
+       "textPt": "Eu estou gostando de futebol.",
+       "translit": "Ya lyublyu futbola.",
+       "hint": "«Любить» pede acusativo: «люблю футбол», sem o -а final do genitivo."
+      },
+      {
+       "text": "У меня хобби футбол.",
+       "textPt": "Eu tenho hobby futebol.",
+       "translit": "U menya khobbi futbol.",
+       "hint": "Calque do PT. Diga «Моё хобби — футбол» ou «Я люблю футбол»."
+      }
+     ]
+    },
+    {
+     "npc": "Давай общаться. Какой у тебя номер?",
+     "npcPt": "Vamos manter contato. Qual é o seu número?",
+     "translit": "Davay obshchatsya. Kakoy u tebya nomer?",
+     "options": [
+      {
+       "text": "Да, я остаюсь на связи.",
+       "textPt": "Sim, eu fico em contato.",
+       "translit": "Da, ya ostayus na svyazi.",
+       "hint": "Não responde à pergunta: diga o seu número."
+      },
+      {
+       "text": "Это 555-0123. А у тебя?",
+       "textPt": "É 555-0123. E o seu?",
+       "translit": "Eto 555-0123. A u tebya?"
+      },
+      {
+       "text": "Это 555-0123. А ты?",
+       "textPt": "É 555-0123. E você?",
+       "translit": "Eto 555-0123. A ty?",
+       "hint": "«А ты?» pergunta pela pessoa. Para o número, diga «А у тебя?»."
+      }
+     ]
+    }
+   ]
+  },
+  "sc04": {
+   "npcName": "Дмитрий",
+   "turns": [
+    {
+     "npc": "Добрый вечер. Ваше имя, пожалуйста?",
+     "npcPt": "Boa noite. Seu nome, por favor?",
+     "translit": "Dobryy vecher. Vashe imya, pozhaluysta?",
+     "options": [
+      {
+       "text": "Я устал.",
+       "textPt": "Estou cansado.",
+       "translit": "Ya ustal.",
+       "hint": "Pode ser verdade, mas pediram seu nome."
+      },
+      {
+       "text": "Меня зовут Алекс.",
+       "textPt": "Meu nome é Alex.",
+       "translit": "Menya zovut Aleks."
+      },
+      {
+       "text": "Добрый вечер, до свидания.",
+       "textPt": "Boa noite, tchau.",
+       "translit": "Dobryy vecher, do svidaniya.",
+       "hint": "Você acabou de chegar; não é hora de se despedir."
+      }
+     ]
+    },
+    {
+     "npc": "У вас есть бронь?",
+     "npcPt": "Você tem uma reserva?",
+     "translit": "U vas yest bron?",
+     "options": [
+      {
+       "text": "Да, на две ночи.",
+       "textPt": "Sim, para duas noites.",
+       "translit": "Da, na dve nochi."
+      },
+      {
+       "text": "Да, у меня есть комната.",
+       "textPt": "Sim, eu tenho um quarto.",
+       "translit": "Da, u menya yest komnata.",
+       "hint": "Soa como se você já tivesse o quarto. Diga que tem uma reserva."
+      },
+      {
+       "text": "Нет, спасибо.",
+       "textPt": "Não, obrigado.",
+       "translit": "Net, spasibo.",
+       "hint": "«Нет, спасибо» recusa uma oferta; a pergunta é sobre reserva: «Да, на две ночи»."
+      }
+     ]
+    },
+    {
+     "npc": "Вот ваш ключ. Номер 204.",
+     "npcPt": "Aqui está sua chave. Quarto 204.",
+     "translit": "Vot vash klyuch. Nomer dvesti chetyre.",
+     "options": [
+      {
+       "text": "Где ключ?",
+       "textPt": "Onde está a chave?",
+       "translit": "Gde klyuch?",
+       "hint": "Ela acabou de entregar a chave."
+      },
+      {
+       "text": "Я — 204.",
+       "textPt": "Eu sou 204.",
+       "translit": "Ya — dvesti chetyre.",
+       "hint": "Você não é o número do quarto."
+      },
+      {
+       "text": "Спасибо. Где лифт?",
+       "textPt": "Obrigado. Onde fica o elevador?",
+       "translit": "Spasibo. Gde lift?"
+      }
+     ]
+    },
+    {
+     "npc": "Вон там, налево.",
+     "npcPt": "Ali, à esquerda.",
+     "translit": "Von tam, nalevo.",
+     "options": [
+      {
+       "text": "Простите, что?",
+       "textPt": "Desculpe, o quê?",
+       "translit": "Prostite, chto?",
+       "hint": "Pedir para repetir é válido, mas a explicação foi simples; agradecer é mais natural."
+      },
+      {
+       "text": "Отлично, спасибо!",
+       "textPt": "Ótimo, obrigado!",
+       "translit": "Otlichno, spasibo!"
+      },
+      {
+       "text": "Да, я люблю налево.",
+       "textPt": "Sim, eu gosto de esquerda.",
+       "translit": "Da, ya lyublyu nalevo.",
+       "hint": "Não responde nem agradece. Fora de contexto."
+      }
+     ]
+    }
+   ]
+  },
+  "sc05": {
+   "npcName": "Ирина Сергеевна",
+   "turns": [
+    {
+     "npc": "Доброе утро. Что нового по проекту?",
+     "npcPt": "Bom dia. Pode nos atualizar sobre o projeto?",
+     "translit": "Dobroe utro. Chto novogo po proektu?",
+     "options": [
+      {
+       "text": "Конечно. Проект идёт хорошо.",
+       "textPt": "Claro. O projeto está indo bem.",
+       "translit": "Konechno. Proekt idyot khorosho."
+      },
+      {
+       "text": "Проект на хорошей дороге.",
+       "textPt": "O projeto está em bom caminho.",
+       "translit": "Proekt na khoroshey doroge.",
+       "hint": "Calque de «em bom caminho». Em russo: «Проект идёт по плану» ou «идёт хорошо»."
+      },
+      {
+       "text": "Нет, я не хочу.",
+       "textPt": "Não, eu não quero.",
+       "translit": "Net, ya ne khochu.",
+       "hint": "Seco demais para uma reunião com a chefe. Responda «Конечно»."
+      }
+     ]
+    },
+    {
+     "npc": "Что нам ещё нужно сделать?",
+     "npcPt": "O que ainda precisamos fazer?",
+     "translit": "Chto nam yeshchyo nuzhno sdelat?",
+     "options": [
+      {
+       "text": "Нам нужен тестировать приложение.",
+       "textPt": "Precisamos testar o app.",
+       "translit": "Nam nuzhen testirovat prilozhenie.",
+       "hint": "Com infinitivo use «нужно» (impessoal): «Нам нужно протестировать»."
+      },
+      {
+       "text": "Нам надо тестировать приложение вчера.",
+       "textPt": "Temos que testar o app ontem.",
+       "translit": "Nam nado testirovat prilozhenie vchera.",
+       "hint": "«Вчера» é passado, mas você fala do que ainda falta fazer."
+      },
+      {
+       "text": "Нам ещё нужно протестировать приложение.",
+       "textPt": "Ainda precisamos testar o aplicativo.",
+       "translit": "Nam yeshchyo nuzhno protestirovat prilozhenie."
+      }
+     ]
+    },
+    {
+     "npc": "Что Вы думаете о новом дизайне?",
+     "npcPt": "O que você acha do novo design?",
+     "translit": "Chto Vy dumaete o novom dizayne?",
+     "options": [
+      {
+       "text": "Я согласный, это классно.",
+       "textPt": "Eu sou de acordo, é legal.",
+       "translit": "Ya soglasnyy, eto klassno.",
+       "hint": "Falta a forma certa: diga «Я согласен» (adjetivo curto), não «согласный»."
+      },
+      {
+       "text": "Думаю, он ясный и современный.",
+       "textPt": "Acho que está claro e moderno.",
+       "translit": "Dumayu, on yasnyy i sovremennyy."
+      },
+      {
+       "text": "Не знаю, мне всё равно.",
+       "textPt": "Não sei, tanto faz.",
+       "translit": "Ne znayu, mne vsyo ravno.",
+       "hint": "Soa desinteressado numa reunião. Dê uma opinião: «Мне кажется, ...»."
+      }
+     ]
+    },
+    {
+     "npc": "Когда Вы сможете закончить?",
+     "npcPt": "Quando você consegue terminar?",
+     "translit": "Kogda Vy smozhete zakonchit?",
+     "options": [
+      {
+       "text": "Я закончу к пятница.",
+       "textPt": "Eu termino até sexta.",
+       "translit": "Ya zakonchu k pyatnitsa.",
+       "hint": "«К» pede dativo: «к пятнице». Para prazo também serve «до пятницы»."
+      },
+      {
+       "text": "Смогу закончить в пятницу.",
+       "textPt": "Consigo terminar em sexta.",
+       "translit": "Smogu zakonchit v pyatnitsu.",
+       "hint": "«В пятницу» é o dia exato. Para prazo (até sexta) diga «до пятницы» ou «к пятнице»."
+      },
+      {
+       "text": "Смогу закончить до пятницы.",
+       "textPt": "Consigo terminar até sexta.",
+       "translit": "Smogu zakonchit do pyatnitsy."
+      }
+     ]
+    }
+   ]
+  },
+  "sc06": {
+   "npcName": "Паша",
+   "turns": [
+    {
+     "npc": "Привет! Тебе нужна помощь?",
+     "npcPt": "Oi! Você precisa de ajuda?",
+     "translit": "Privet! Tebe nuzhna pomoshch?",
+     "options": [
+      {
+       "text": "Да. Какое время урок?",
+       "textPt": "Sim. Qual hora é a aula?",
+       "translit": "Da. Kakoe vremya urok?",
+       "hint": "Calque do PT. Para horário diga «Во сколько занятие?»."
+      },
+      {
+       "text": "Да. Сколько стоит занятие?",
+       "textPt": "Sim. Quanto custa a aula?",
+       "translit": "Da. Skolko stoit zanyatie?",
+       "hint": "«Сколько стоит» pergunta o preço, não o horário. Use «Во сколько?»."
+      },
+      {
+       "text": "Да. Во сколько занятие?",
+       "textPt": "Sim. Que horas é a aula?",
+       "translit": "Da. Vo skolko zanyatie?"
+      }
+     ]
+    },
+    {
+     "npc": "Занятие в десять. Ещё вопросы?",
+     "npcPt": "A aula é às dez. Mais alguma dúvida?",
+     "translit": "Zanyatie v desyat. Yeshchyo voprosy?",
+     "options": [
+      {
+       "text": "Да. Когда сдавать работу?",
+       "textPt": "Sim. Quando é a entrega do trabalho?",
+       "translit": "Da. Kogda sdavat rabotu?"
+      },
+      {
+       "text": "Да. Когда работа для сдавать?",
+       "textPt": "Sim. Quando é o trabalho para entregar?",
+       "translit": "Da. Kogda rabota dlya sdavat?",
+       "hint": "Calque de «para entregar». Diga «Когда сдавать работу?» ou «Какой срок сдачи?»."
+      },
+      {
+       "text": "Да. У меня есть сомнение.",
+       "textPt": "Sim. Eu tenho uma dúvida.",
+       "translit": "Da. U menya yest somnenie.",
+       "hint": "Falso amigo: «сомнение» é incerteza. Para dúvida/pergunta diga «У меня вопрос»."
+      }
+     ]
+    },
+    {
+     "npc": "К понедельнику. Что-нибудь ещё?",
+     "npcPt": "É para segunda. Mais alguma coisa?",
+     "translit": "K ponedelniku. Chto-nibud yeshchyo?",
+     "options": [
+      {
+       "text": "Да. Где книжный магазин?",
+       "textPt": "Sim. Onde fica a livraria?",
+       "translit": "Da. Gde knizhnyy magazin?",
+       "hint": "«Книжный магазин» é livraria. Biblioteca é «библиотека»."
+      },
+      {
+       "text": "Да. Где библиотека?",
+       "textPt": "Sim. Onde fica a biblioteca?",
+       "translit": "Da. Gde biblioteka?"
+      },
+      {
+       "text": "Да. Где библиотеку?",
+       "textPt": "Sim. Biblioteca onde fica?",
+       "translit": "Da. Gde biblioteku?",
+       "hint": "Depois de «Где» o substantivo fica no nominativo: «Где библиотека?»."
+      }
+     ]
+    },
+    {
+     "npc": "В конце коридора, налево.",
+     "npcPt": "No fim do corredor, à esquerda.",
+     "translit": "V kontse koridora, nalevo.",
+     "options": [
+      {
+       "text": "Отлично, спасибо! Она сейчас открыта?",
+       "textPt": "Ótimo, obrigado! Está aberta agora?",
+       "translit": "Otlichno, spasibo! Ona seychas otkryta?"
+      },
+      {
+       "text": "Спасибо. Она открыто сейчас?",
+       "textPt": "Obrigado. Está aberta agora?",
+       "translit": "Spasibo. Ona otkryto seychas?",
+       "hint": "Concordância: «библиотека» é feminino, então «открыта», não «открыто»."
+      },
+      {
+       "text": "Пожалуйста.",
+       "textPt": "De nada.",
+       "translit": "Pozhaluysta.",
+       "hint": "«Пожалуйста» responde a um agradecimento; aqui é você quem agradece: «Спасибо!»."
+      }
+     ]
+    }
+   ]
+  },
+  "sc07": {
+   "npcName": "Лиза",
+   "turns": [
+    {
+     "npc": "Здравствуйте! Вы что-то ищете?",
+     "npcPt": "Oi! Você procura algo?",
+     "translit": "Zdravstvuyte! Vy chto-to ishchete?",
+     "options": [
+      {
+       "text": "Да, мне нужна куртка.",
+       "textPt": "Sim, preciso de uma jaqueta.",
+       "translit": "Da, mne nuzhna kurtka."
+      },
+      {
+       "text": "Я смотрю на вас.",
+       "textPt": "Eu olho para você.",
+       "translit": "Ya smotryu na vas.",
+       "hint": "«Смотреть на» é olhar para algo; a pergunta é sobre procurar: «Я ищу» ou «Мне нужна»."
+      },
+      {
+       "text": "Да, я смотрю куртка.",
+       "textPt": "Sim, eu olho jaqueta.",
+       "translit": "Da, ya smotryu kurtka.",
+       "hint": "Falta o caso certo: «я ищу куртку» (acusativo). «Смотрю куртка» também usa o verbo errado."
+      }
+     ]
+    },
+    {
+     "npc": "Какой у вас размер?",
+     "npcPt": "Qual é o seu tamanho?",
+     "translit": "Kakoy u vas razmer?",
+     "options": [
+      {
+       "text": "Мне двадцать лет.",
+       "textPt": "Tenho vinte anos.",
+       "translit": "Mne dvadtsat let.",
+       "hint": "Tamanho não é idade."
+      },
+      {
+       "text": "Мой размер синий.",
+       "textPt": "Meu tamanho é azul.",
+       "translit": "Moy razmer siniy.",
+       "hint": "Azul é cor; diga o tamanho (S, M, L)."
+      },
+      {
+       "text": "Средний, наверное.",
+       "textPt": "Médio, acho.",
+       "translit": "Sredniy, navernoe."
+      }
+     ]
+    },
+    {
+     "npc": "Примерочная вон там.",
+     "npcPt": "O provador é ali.",
+     "translit": "Primerochnaya von tam.",
+     "options": [
+      {
+       "text": "Хочу там спать.",
+       "textPt": "Quero dormir lá.",
+       "translit": "Khochu tam spat.",
+       "hint": "Estranho: provador é só para experimentar roupas."
+      },
+      {
+       "text": "Спасибо. Пойду примерю.",
+       "textPt": "Obrigado. Vou experimentar.",
+       "translit": "Spasibo. Poydu primeryu."
+      },
+      {
+       "text": "Комната красивая.",
+       "textPt": "O quarto é bonito.",
+       "translit": "Komnata krasivaya.",
+       "hint": "Não é um quarto; agradeça e vá experimentar."
+      }
+     ]
+    },
+    {
+     "npc": "Как сидит?",
+     "npcPt": "Como ficou?",
+     "translit": "Kak sidit?",
+     "options": [
+      {
+       "text": "Маловато. Есть побольше?",
+       "textPt": "Está pequeno. Tem um maior?",
+       "translit": "Malovato. Yest pobolshe?"
+      },
+      {
+       "text": "Очень дорого.",
+       "textPt": "É muito caro.",
+       "translit": "Ochen dorogo.",
+       "hint": "Ela perguntou do caimento, não do preço."
+      },
+      {
+       "text": "Я помещаюсь, спасибо.",
+       "textPt": "Eu caibo, obrigado.",
+       "translit": "Ya pomeshchayus, spasibo.",
+       "hint": "«Я помещаюсь» fala de você, não da roupa. Descreva a jaqueta: «Она мне как раз»."
+      }
+     ]
+    }
+   ]
+  },
+  "sc08": {
+   "npcName": "Игорь",
+   "turns": [
+    {
+     "npc": "Вы заблудились? Вам помочь?",
+     "npcPt": "Você parece perdido. Posso ajudar?",
+     "translit": "Vy zabludilis? Vam pomoch?",
+     "options": [
+      {
+       "text": "Нет, я турист.",
+       "textPt": "Não, sou turista.",
+       "translit": "Net, ya turist.",
+       "hint": "Não é errado, mas você perde a chance de pedir ajuda."
+      },
+      {
+       "text": "Да, где станция метро?",
+       "textPt": "Sim, onde fica a estação de metrô?",
+       "translit": "Da, gde stantsiya metro?"
+      },
+      {
+       "text": "Да, я заблудился улица.",
+       "textPt": "Sim, estou perdido a rua.",
+       "translit": "Da, ya zabludilsya ulitsa.",
+       "hint": "Falta a preposição e o caso: «Я заблудился» basta, ou «Я потерялся на улице»."
+      }
+     ]
+    },
+    {
+     "npc": "Идите прямо два квартала.",
+     "npcPt": "Siga reto por duas quadras.",
+     "translit": "Idite pryamo dva kvartala.",
+     "options": [
+      {
+       "text": "Прямо два квартала. А потом?",
+       "textPt": "Reto duas quadras. E depois?",
+       "translit": "Pryamo dva kvartala. A potom?"
+      },
+      {
+       "text": "Я шёл прямо вчера.",
+       "textPt": "Eu fui reto ontem.",
+       "translit": "Ya shyol pryamo vchera.",
+       "hint": "Ela deu uma instrução, não falou do passado."
+      },
+      {
+       "text": "Два квартала — далеко.",
+       "textPt": "Duas quadras é longe.",
+       "translit": "Dva kvartala — daleko.",
+       "hint": "É um comentário; confirme e pergunte o próximo passo."
+      }
+     ]
+    },
+    {
+     "npc": "Потом налево у банка.",
+     "npcPt": "Depois vire à esquerda no banco.",
+     "translit": "Potom nalevo u banka.",
+     "options": [
+      {
+       "text": "Налево это банк?",
+       "textPt": "Vire esquerda é banco?",
+       "translit": "Nalevo eto bank?",
+       "hint": "Pergunta confusa: «Налево это банк?» mistura as ideias. Confirme: «Налево у банка, да?»."
+      },
+      {
+       "text": "Я поверну направо.",
+       "textPt": "Eu viro à direita.",
+       "translit": "Ya povernu napravo.",
+       "hint": "Ela disse esquerda (left), não direita."
+      },
+      {
+       "text": "Налево у банка. Понял.",
+       "textPt": "Esquerda no banco. Entendi.",
+       "translit": "Nalevo u banka. Ponyal."
+      }
+     ]
+    },
+    {
+     "npc": "Это рядом с парком.",
+     "npcPt": "Fica ao lado do parque.",
+     "translit": "Eto ryadom s parkom.",
+     "options": [
+      {
+       "text": "Рядом это парк.",
+       "textPt": "Ao lado é um parque.",
+       "translit": "Ryadom eto park.",
+       "hint": "Frase invertida; não é preciso repetir."
+      },
+      {
+       "text": "Отлично! Спасибо за помощь.",
+       "textPt": "Ótimo! Obrigado pela ajuda.",
+       "translit": "Otlichno! Spasibo za pomoshch."
+      },
+      {
+       "text": "Я не люблю парки.",
+       "textPt": "Não gosto de parques.",
+       "translit": "Ya ne lyublyu parki.",
+       "hint": "Fora de contexto: agradeça pela ajuda."
+      }
+     ]
+    }
+   ]
+  },
+  "sc09": {
+   "npcName": "Доктор Смирнов",
+   "turns": [
+    {
+     "npc": "Доброе утро. Что Вас беспокоит?",
+     "npcPt": "Bom dia. O que traz você aqui?",
+     "translit": "Dobroe utro. Chto Vas bespokoit?",
+     "options": [
+      {
+       "text": "Я имею температуру с понедельника.",
+       "textPt": "Estou com febre desde segunda.",
+       "translit": "Ya imeyu temperaturu s ponedelnika.",
+       "hint": "«Я имею» é calque do PT/inglês. Em russo: «У меня температура с понедельника»."
+      },
+      {
+       "text": "Мне надоело моё горло.",
+       "textPt": "Estou farto da minha garganta.",
+       "translit": "Mne nadoelo moyo gorlo.",
+       "hint": "«Мне надоело» = estou farto (de aborrecimento). Para dor: «У меня болит горло»."
+      },
+      {
+       "text": "Горло болит уже несколько дней.",
+       "textPt": "Estou com dor de garganta há dias.",
+       "translit": "Gorlo bolit uzhe neskolko dney."
+      }
+     ]
+    },
+    {
+     "npc": "У Вас есть аллергия?",
+     "npcPt": "Você tem alguma alergia?",
+     "translit": "U Vas yest allergiya?",
+     "options": [
+      {
+       "text": "Нет, я не аллергия.",
+       "textPt": "Não, eu não sou alergia.",
+       "translit": "Net, ya ne allergiya.",
+       "hint": "«Я не аллергия» diz que você É uma alergia. Diga «У меня нет аллергии»."
+      },
+      {
+       "text": "Нет, насколько я знаю.",
+       "textPt": "Não, nenhuma que eu saiba.",
+       "translit": "Net, naskolko ya znayu."
+      },
+      {
+       "text": "Да, у меня аллергия от орехов.",
+       "textPt": "Sim, tenho alergia de nozes.",
+       "translit": "Da, u menya allergiya ot orekhov.",
+       "hint": "A preposição é «на»: «аллергия на орехи». «От» está errado aqui."
+      }
+     ]
+    },
+    {
+     "npc": "Откройте рот и скажите «А-а-а».",
+     "npcPt": "Abra a boca e diga aah.",
+     "translit": "Otkroyte rot i skazhite «A-a-a».",
+     "options": [
+      {
+       "text": "А-а-а... Это серьёзно, доктор?",
+       "textPt": "Aah... É sério, doutor?",
+       "translit": "A-a-a... Eto serezno, doktor?"
+      },
+      {
+       "text": "А-а-а... Это серьёзный?",
+       "textPt": "Aah... É sério?",
+       "translit": "A-a-a... Eto sereznyy?",
+       "hint": "«Серьёзный» é masculino e sem sujeito. Diga «Это серьёзно?» (neutro, com «это»)."
+      },
+      {
+       "text": "Не хочу, извините.",
+       "textPt": "Não quero, desculpe.",
+       "translit": "Ne khochu, izvinite.",
+       "hint": "Seco e incompleto para um exame importante. Seja gentil: «Хорошо, доктор»."
+      }
+     ]
+    },
+    {
+     "npc": "Лёгкая инфекция. Отдыхайте и пейте воду.",
+     "npcPt": "É uma infecção leve. Descanse e beba água.",
+     "translit": "Lyogkaya infektsiya. Otdykhayte i peyte vodu.",
+     "options": [
+      {
+       "text": "Мне должен отдыхать, спасибо.",
+       "textPt": "Eu devo descansar, obrigado.",
+       "translit": "Mne dolzhen otdykhat, spasibo.",
+       "hint": "Com «должен» o sujeito fica no nominativo: «Я должен отдыхать», não «Мне»."
+      },
+      {
+       "text": "Мне надо идти в работу?",
+       "textPt": "Eu tenho que ir ao trabalho?",
+       "translit": "Mne nado idti v rabotu?",
+       "hint": "Com «на работу» vai a preposição «на», não «в»: «идти на работу» (acusativo)."
+      },
+      {
+       "text": "Спасибо, доктор. Нужно принимать лекарство?",
+       "textPt": "Obrigado, doutor. Devo tomar remédio?",
+       "translit": "Spasibo, doktor. Nuzhno prinimat lekarstvo?"
+      }
+     ]
+    }
+   ]
+  },
+  "sc10": {
+   "npcName": "Ольга Петровна",
+   "turns": [
+    {
+     "npc": "Спасибо, что пришли. Расскажите о себе.",
+     "npcPt": "Obrigada por vir. Fale sobre você.",
+     "translit": "Spasibo, chto prishli. Rasskazhite o sebe.",
+     "options": [
+      {
+       "text": "Я 25 лет и люблю пиццу.",
+       "textPt": "Tenho 25 anos e gosto de pizza.",
+       "translit": "Ya 25 let i lyublyu pitstsu.",
+       "hint": "A idade usa o dativo: «Мне 25 лет», não «Я 25 лет». Além disso, foque no lado profissional."
+      },
+      {
+       "text": "Я дизайнер с трёхлетним опытом.",
+       "textPt": "Sou designer com três anos de experiência.",
+       "translit": "Ya dizayner s tryokhletnim opytom."
+      },
+      {
+       "text": "Моё имя на бумаге.",
+       "textPt": "Meu nome está no papel.",
+       "translit": "Moyo imya na bumage.",
+       "hint": "Fora de contexto: ela quer saber da sua experiência."
+      }
+     ]
+    },
+    {
+     "npc": "Почему Вы хотите эту работу?",
+     "npcPt": "Por que você quer este emprego?",
+     "translit": "Pochemu Vy khotite etu rabotu?",
+     "options": [
+      {
+       "text": "Люблю командную работу и хочу расти.",
+       "textPt": "Gosto de trabalho em equipe e quero crescer.",
+       "translit": "Lyublyu komandnuyu rabotu i khochu rasti."
+      },
+      {
+       "text": "Потому что мне нужны деньги, всё.",
+       "textPt": "Porque preciso de dinheiro, só isso.",
+       "translit": "Potomu chto mne nuzhny dengi, vsyo.",
+       "hint": "Honesto, mas mostra pouco interesse pela vaga."
+      },
+      {
+       "text": "Я хочу, потому что классный.",
+       "textPt": "Quero porque é legal.",
+       "translit": "Ya khochu, potomu chto klassnyy.",
+       "hint": "«Классный» é adjetivo masculino solto e vago. Seja específico: «Мне нравится эта компания»."
+      }
+     ]
+    },
+    {
+     "npc": "Какая Ваша главная сильная сторона?",
+     "npcPt": "Qual é o seu maior ponto forte?",
+     "translit": "Kakaya Vasha glavnaya silnaya storona?",
+     "options": [
+      {
+       "text": "Я лучший в мире.",
+       "textPt": "Sou o melhor do mundo.",
+       "translit": "Ya luchshiy v mire.",
+       "hint": "Exagerado; prefira algo concreto e humilde."
+      },
+      {
+       "text": "Моя сильная сторона — поднимать тяжести.",
+       "textPt": "Meu ponto forte é levantar peso.",
+       "translit": "Moya silnaya storona — podnimat tyazhesti.",
+       "hint": "Possível, mas não é relevante para a vaga."
+      },
+      {
+       "text": "Я организованный и быстро учусь.",
+       "textPt": "Sou organizado e aprendo rápido.",
+       "translit": "Ya organizovannyy i bystro uchus."
+      }
+     ]
+    },
+    {
+     "npc": "У Вас есть вопросы к нам?",
+     "npcPt": "Você tem alguma pergunta para nós?",
+     "translit": "U Vas yest voprosy k nam?",
+     "options": [
+      {
+       "text": "Вопросов нет. Пока.",
+       "textPt": "Sem perguntas. Tchau.",
+       "translit": "Voprosov net. Poka.",
+       "hint": "Seco demais; mostre interesse."
+      },
+      {
+       "text": "Да. Как выглядит обычный день?",
+       "textPt": "Sim. Como é um dia típico?",
+       "translit": "Da. Kak vyglyadit obychnyy den?"
+      },
+      {
+       "text": "Да, сколько я заработать завтра?",
+       "textPt": "Sim, quanto vou ganhar amanhã?",
+       "translit": "Da, skolko ya zarabotat zavtra?",
+       "hint": "Depois de «сколько» use verbo conjugado: «Сколько я буду получать?». Salário agora soa precipitado."
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

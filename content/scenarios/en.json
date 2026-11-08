@@ -1,0 +1,855 @@
+{
+ "language": "en",
+ "scenarios": {
+  "sc01": {
+   "npcName": "Anna",
+   "turns": [
+    {
+     "npc": "Hello! Passport, please.",
+     "npcPt": "Olá! Passaporte, por favor.",
+     "options": [
+      {
+       "text": "Here you are.",
+       "textPt": "Aqui está."
+      },
+      {
+       "text": "I am a passport.",
+       "textPt": "Eu sou um passaporte.",
+       "hint": "Soa como se você fosse o documento. Ao entregar, diga 'Here you are'."
+      },
+      {
+       "text": "Thank you, goodbye.",
+       "textPt": "Obrigado, tchau.",
+       "hint": "Ainda não é hora de se despedir: primeiro entregue o documento."
+      }
+     ]
+    },
+    {
+     "npc": "Do you have a bag?",
+     "npcPt": "Você tem uma mala?",
+     "options": [
+      {
+       "text": "Yes, I am happy.",
+       "textPt": "Sim, estou feliz.",
+       "hint": "Não responde ao que foi perguntado."
+      },
+      {
+       "text": "Yes, one suitcase.",
+       "textPt": "Sim, uma mala."
+      },
+      {
+       "text": "I like bags.",
+       "textPt": "Eu gosto de malas.",
+       "hint": "É uma frase possível, mas não responde: diga se tem ou não mala."
+      }
+     ]
+    },
+    {
+     "npc": "Window or aisle?",
+     "npcPt": "Janela ou corredor?",
+     "options": [
+      {
+       "text": "Yes, please.",
+       "textPt": "Sim, por favor.",
+       "hint": "A pergunta oferece duas opções; 'yes' não escolhe nenhuma."
+      },
+      {
+       "text": "Seat is good.",
+       "textPt": "Assento é bom.",
+       "hint": "Frase estranha e sem escolha. Diga qual lugar você quer."
+      },
+      {
+       "text": "Window, please.",
+       "textPt": "Janela, por favor."
+      }
+     ]
+    },
+    {
+     "npc": "Here is your boarding pass.",
+     "npcPt": "Aqui está seu cartão de embarque.",
+     "options": [
+      {
+       "text": "Thank you! Which gate?",
+       "textPt": "Obrigado! Qual é o portão?"
+      },
+      {
+       "text": "You are welcome.",
+       "textPt": "De nada.",
+       "hint": "'You are welcome' é o que quem atende diz, não o passageiro."
+      },
+      {
+       "text": "Good night, sir.",
+       "textPt": "Boa noite, senhor.",
+       "hint": "Fora de contexto: você ainda precisa saber o portão."
+      }
+     ]
+    }
+   ]
+  },
+  "sc02": {
+   "npcName": "Tom",
+   "turns": [
+    {
+     "npc": "Welcome! How many people?",
+     "npcPt": "Bem-vindo! Quantas pessoas?",
+     "options": [
+      {
+       "text": "I am fine.",
+       "textPt": "Estou bem.",
+       "hint": "Responde a 'How are you?', não à quantidade de pessoas."
+      },
+      {
+       "text": "Two, please.",
+       "textPt": "Duas, por favor."
+      },
+      {
+       "text": "A table is big.",
+       "textPt": "Uma mesa é grande.",
+       "hint": "Não responde à pergunta. Diga o número de pessoas."
+      }
+     ]
+    },
+    {
+     "npc": "What would you like?",
+     "npcPt": "O que você gostaria?",
+     "options": [
+      {
+       "text": "I like pizza.",
+       "textPt": "Eu gosto de pizza.",
+       "hint": "'I like' fala de gosto geral. Para pedir, use 'I want' ou 'A ..., please'."
+      },
+      {
+       "text": "Give me pizza!",
+       "textPt": "Me dá pizza!",
+       "hint": "Soa seco e mandão. Prefira 'A pizza, please.'"
+      },
+      {
+       "text": "A pizza, please.",
+       "textPt": "Uma pizza, por favor."
+      }
+     ]
+    },
+    {
+     "npc": "Anything to drink?",
+     "npcPt": "Algo para beber?",
+     "options": [
+      {
+       "text": "Water, please.",
+       "textPt": "Água, por favor."
+      },
+      {
+       "text": "I drink, yes.",
+       "textPt": "Eu bebo, sim.",
+       "hint": "Estranho: diga o que você quer beber."
+      },
+      {
+       "text": "No eat, thanks.",
+       "textPt": "Não comer, obrigado.",
+       "hint": "'Eat' é comer, e a pergunta é sobre bebida. Além disso a gramática está incorreta."
+      }
+     ]
+    },
+    {
+     "npc": "Here is your food. Enjoy!",
+     "npcPt": "Aqui está sua comida. Aproveite!",
+     "options": [
+      {
+       "text": "I am sorry.",
+       "textPt": "Sinto muito.",
+       "hint": "Não há motivo para pedir desculpas aqui."
+      },
+      {
+       "text": "Thank you! It looks good.",
+       "textPt": "Obrigado! Parece bom."
+      },
+      {
+       "text": "Goodbye!",
+       "textPt": "Tchau!",
+       "hint": "Você acabou de receber a comida; ainda não vai embora."
+      }
+     ]
+    }
+   ]
+  },
+  "sc03": {
+   "npcName": "Sam",
+   "turns": [
+    {
+     "npc": "Hi! I'm Sam. What's your name?",
+     "npcPt": "Oi! Eu sou o Sam. Qual é o seu nome?",
+     "options": [
+      {
+       "text": "I call me Alex.",
+       "textPt": "Eu me chamo Alex.",
+       "hint": "Calque de 'eu me chamo'. Em inglês diga 'I'm Alex' ou 'My name is Alex'."
+      },
+      {
+       "text": "Nice to meet you! I'm Alex.",
+       "textPt": "Prazer! Eu sou o Alex."
+      },
+      {
+       "text": "Fine, thanks.",
+       "textPt": "Bem, obrigado.",
+       "hint": "Responde a 'How are you?', não ao nome."
+      }
+     ]
+    },
+    {
+     "npc": "Nice to meet you! Where are you from?",
+     "npcPt": "Prazer! De onde você é?",
+     "options": [
+      {
+       "text": "I am Brazil.",
+       "textPt": "Eu sou Brasil.",
+       "hint": "Diz que você É o país. Use 'I'm from Brazil' ou 'I'm Brazilian'."
+      },
+      {
+       "text": "I am from Brazilian.",
+       "textPt": "Eu sou de brasileiro.",
+       "hint": "'Brazil' é o país; 'Brazilian' é a nacionalidade. Diga 'from Brazil' ou 'I'm Brazilian'."
+      },
+      {
+       "text": "I'm from Brazil.",
+       "textPt": "Sou do Brasil."
+      }
+     ]
+    },
+    {
+     "npc": "What do you like to do?",
+     "npcPt": "O que você gosta de fazer?",
+     "options": [
+      {
+       "text": "I like music and soccer.",
+       "textPt": "Eu gosto de música e futebol."
+      },
+      {
+       "text": "I am liking soccer.",
+       "textPt": "Eu estou gostando de futebol.",
+       "hint": "'Like' normalmente não vai no continuous: diga 'I like soccer'."
+      },
+      {
+       "text": "I have hobby soccer.",
+       "textPt": "Eu tenho hobby futebol.",
+       "hint": "Calque do português. Diga 'My hobby is soccer' ou 'I like soccer'."
+      }
+     ]
+    },
+    {
+     "npc": "Let's stay in touch. What's your number?",
+     "npcPt": "Vamos manter contato. Qual é o seu número?",
+     "options": [
+      {
+       "text": "Yes, I stay in touch.",
+       "textPt": "Sim, eu fico em contato.",
+       "hint": "Não responde à pergunta: diga o seu número."
+      },
+      {
+       "text": "It's 555-0123. What's yours?",
+       "textPt": "É 555-0123. E o seu?"
+      },
+      {
+       "text": "Is 555-0123. And you?",
+       "textPt": "É 555-0123. E você?",
+       "hint": "Em inglês o sujeito é obrigatório: 'It's 555-0123'."
+      }
+     ]
+    }
+   ]
+  },
+  "sc04": {
+   "npcName": "Daniel",
+   "turns": [
+    {
+     "npc": "Good evening. Your name, please?",
+     "npcPt": "Boa noite. Seu nome, por favor?",
+     "options": [
+      {
+       "text": "I am tired.",
+       "textPt": "Estou cansado.",
+       "hint": "Pode ser verdade, mas pediram seu nome."
+      },
+      {
+       "text": "My name is Alex.",
+       "textPt": "Meu nome é Alex."
+      },
+      {
+       "text": "Good evening, goodbye.",
+       "textPt": "Boa noite, tchau.",
+       "hint": "Você acabou de chegar; não é hora de se despedir."
+      }
+     ]
+    },
+    {
+     "npc": "Do you have a reservation?",
+     "npcPt": "Você tem uma reserva?",
+     "options": [
+      {
+       "text": "Yes, for two nights.",
+       "textPt": "Sim, para duas noites."
+      },
+      {
+       "text": "Yes, I have a room.",
+       "textPt": "Sim, eu tenho um quarto.",
+       "hint": "Soa como se você já tivesse o quarto. Diga que tem uma reserva."
+      },
+      {
+       "text": "No, thank you.",
+       "textPt": "Não, obrigado.",
+       "hint": "'No, thank you' recusa uma oferta; aqui a pergunta é sobre reserva."
+      }
+     ]
+    },
+    {
+     "npc": "Here is your key. Room 204.",
+     "npcPt": "Aqui está sua chave. Quarto 204.",
+     "options": [
+      {
+       "text": "Where is the key?",
+       "textPt": "Onde está a chave?",
+       "hint": "Ela acabou de entregar a chave."
+      },
+      {
+       "text": "I am 204.",
+       "textPt": "Eu sou 204.",
+       "hint": "Você não é o número do quarto."
+      },
+      {
+       "text": "Thanks. Where is the elevator?",
+       "textPt": "Obrigado. Onde fica o elevador?"
+      }
+     ]
+    },
+    {
+     "npc": "Over there, on the left.",
+     "npcPt": "Ali, à esquerda.",
+     "options": [
+      {
+       "text": "Sorry, what?",
+       "textPt": "Desculpe, o quê?",
+       "hint": "Pedir para repetir é válido, mas a explicação foi simples; agradecer é mais natural."
+      },
+      {
+       "text": "Great, thank you!",
+       "textPt": "Ótimo, obrigado!"
+      },
+      {
+       "text": "Yes, I like left.",
+       "textPt": "Sim, eu gosto de esquerda.",
+       "hint": "Não responde nem agradece. Fora de contexto."
+      }
+     ]
+    }
+   ]
+  },
+  "sc05": {
+   "npcName": "Karen",
+   "turns": [
+    {
+     "npc": "Good morning. Can you update us on the project?",
+     "npcPt": "Bom dia. Pode nos atualizar sobre o projeto?",
+     "options": [
+      {
+       "text": "Sure. The project is going well.",
+       "textPt": "Claro. O projeto está indo bem."
+      },
+      {
+       "text": "The project is in good way.",
+       "textPt": "O projeto está em bom caminho.",
+       "hint": "Calque de 'em bom caminho'. Em inglês: 'on track' ou 'going well'."
+      },
+      {
+       "text": "No, I don't want.",
+       "textPt": "Não, eu não quero.",
+       "hint": "Seco demais para uma reunião. Diga 'Sure' ou 'Of course'."
+      }
+     ]
+    },
+    {
+     "npc": "What do we still need to do?",
+     "npcPt": "O que ainda precisamos fazer?",
+     "options": [
+      {
+       "text": "We need test the app.",
+       "textPt": "Precisamos testar o app.",
+       "hint": "Depois de 'need' use 'to': 'We need to test the app'."
+      },
+      {
+       "text": "We have to test the app yesterday.",
+       "textPt": "Temos que testar o app ontem.",
+       "hint": "'Yesterday' é passado; aqui você fala do que falta fazer."
+      },
+      {
+       "text": "We still need to test the app.",
+       "textPt": "Ainda precisamos testar o aplicativo."
+      }
+     ]
+    },
+    {
+     "npc": "What do you think about the new design?",
+     "npcPt": "O que você acha do novo design?",
+     "options": [
+      {
+       "text": "I am agree, it is nice.",
+       "textPt": "Eu sou de acordo, é legal.",
+       "hint": "'Agree' é verbo: diga 'I agree'. 'I am agree' é calque do português."
+      },
+      {
+       "text": "I think it's clear and modern.",
+       "textPt": "Acho que está claro e moderno."
+      },
+      {
+       "text": "I don't know, whatever.",
+       "textPt": "Não sei, tanto faz.",
+       "hint": "Soa desinteressado numa reunião; dê uma opinião, como 'I think...'."
+      }
+     ]
+    },
+    {
+     "npc": "When can you finish it?",
+     "npcPt": "Quando você consegue terminar?",
+     "options": [
+      {
+       "text": "I finish it until Friday.",
+       "textPt": "Eu termino até sexta.",
+       "hint": "'Until' é até quando algo continua; para prazo use 'by Friday'."
+      },
+      {
+       "text": "I can finish it in Friday.",
+       "textPt": "Consigo terminar em sexta.",
+       "hint": "Com dia da semana use 'on' (on Friday); para prazo, 'by Friday'."
+      },
+      {
+       "text": "I can finish it by Friday.",
+       "textPt": "Consigo terminar até sexta."
+      }
+     ]
+    }
+   ]
+  },
+  "sc06": {
+   "npcName": "Jake",
+   "turns": [
+    {
+     "npc": "Hi! Do you need help?",
+     "npcPt": "Oi! Você precisa de ajuda?",
+     "options": [
+      {
+       "text": "Yes. Which hour is the class?",
+       "textPt": "Sim. Qual hora é a aula?",
+       "hint": "Calque de 'qual hora'. Para horário diga 'What time is the class?'."
+      },
+      {
+       "text": "Yes. How much is the class?",
+       "textPt": "Sim. Quanto custa a aula?",
+       "hint": "'How much' pergunta preço, não horário."
+      },
+      {
+       "text": "Yes. What time is the class?",
+       "textPt": "Sim. Que horas é a aula?"
+      }
+     ]
+    },
+    {
+     "npc": "Class is at ten. Any other questions?",
+     "npcPt": "A aula é às dez. Mais alguma dúvida?",
+     "options": [
+      {
+       "text": "Yes. When is the assignment due?",
+       "textPt": "Sim. Quando é a entrega do trabalho?"
+      },
+      {
+       "text": "Yes. When is the homework to deliver?",
+       "textPt": "Sim. Quando é o trabalho para entregar?",
+       "hint": "Calque de 'para entregar'. Prazo de entrega é 'due'."
+      },
+      {
+       "text": "Yes. I have a doubt.",
+       "textPt": "Sim. Eu tenho uma dúvida.",
+       "hint": "Falso cognato: 'doubt' é incerteza. Para dúvida diga 'I have a question'."
+      }
+     ]
+    },
+    {
+     "npc": "It's due on Monday. Anything else?",
+     "npcPt": "É para segunda. Mais alguma coisa?",
+     "options": [
+      {
+       "text": "Yes. Where is the bookstore?",
+       "textPt": "Sim. Onde fica a livraria?",
+       "hint": "Falso amigo: 'bookstore' é livraria. Biblioteca é 'library'."
+      },
+      {
+       "text": "Yes. Where is the library?",
+       "textPt": "Sim. Onde fica a biblioteca?"
+      },
+      {
+       "text": "Yes. Library where is?",
+       "textPt": "Sim. Biblioteca onde fica?",
+       "hint": "Ordem errada. Em inglês: 'Where is the library?'."
+      }
+     ]
+    },
+    {
+     "npc": "Down the hall, on the left.",
+     "npcPt": "No fim do corredor, à esquerda.",
+     "options": [
+      {
+       "text": "Great, thanks! Is it open now?",
+       "textPt": "Ótimo, obrigado! Está aberta agora?"
+      },
+      {
+       "text": "Thanks. It is open now?",
+       "textPt": "Obrigado. Está aberta agora?",
+       "hint": "Pergunta pede inversão: 'Is it open now?'."
+      },
+      {
+       "text": "You are welcome.",
+       "textPt": "De nada.",
+       "hint": "'You're welcome' responde a um agradecimento; aqui é você quem agradece."
+      }
+     ]
+    }
+   ]
+  },
+  "sc07": {
+   "npcName": "Lily",
+   "turns": [
+    {
+     "npc": "Hi! Are you looking for something?",
+     "npcPt": "Oi! Você procura algo?",
+     "options": [
+      {
+       "text": "Yes, I need a jacket.",
+       "textPt": "Sim, preciso de uma jaqueta."
+      },
+      {
+       "text": "I look at you.",
+       "textPt": "Eu olho para você.",
+       "hint": "'Look at' é olhar para algo; a pergunta é sobre procurar."
+      },
+      {
+       "text": "Yes, I look jacket.",
+       "textPt": "Sim, eu olho jaqueta.",
+       "hint": "Faltam verbo e artigo: 'I'm looking for a jacket'."
+      }
+     ]
+    },
+    {
+     "npc": "What size are you?",
+     "npcPt": "Qual é o seu tamanho?",
+     "options": [
+      {
+       "text": "I am twenty years.",
+       "textPt": "Tenho vinte anos.",
+       "hint": "Tamanho não é idade."
+      },
+      {
+       "text": "My size is blue.",
+       "textPt": "Meu tamanho é azul.",
+       "hint": "Azul é cor; diga o tamanho (S, M, L)."
+      },
+      {
+       "text": "Medium, I think.",
+       "textPt": "Médio, acho."
+      }
+     ]
+    },
+    {
+     "npc": "The fitting room is over there.",
+     "npcPt": "O provador é ali.",
+     "options": [
+      {
+       "text": "I want to sleep there.",
+       "textPt": "Quero dormir lá.",
+       "hint": "Estranho: provador é só para experimentar roupas."
+      },
+      {
+       "text": "Thanks. I'll try it on.",
+       "textPt": "Obrigado. Vou experimentar."
+      },
+      {
+       "text": "The room is nice.",
+       "textPt": "O quarto é bonito.",
+       "hint": "Não é um quarto; agradeça e vá experimentar."
+      }
+     ]
+    },
+    {
+     "npc": "How does it fit?",
+     "npcPt": "Como ficou?",
+     "options": [
+      {
+       "text": "It's too small. A bigger one?",
+       "textPt": "Está pequeno. Tem um maior?"
+      },
+      {
+       "text": "It is very expensive.",
+       "textPt": "É muito caro.",
+       "hint": "Ela perguntou do caimento, não do preço."
+      },
+      {
+       "text": "I fit, thank you.",
+       "textPt": "Eu caibo, obrigado.",
+       "hint": "Não diga 'I fit'; descreva a roupa: 'It fits well'."
+      }
+     ]
+    }
+   ]
+  },
+  "sc08": {
+   "npcName": "Jack",
+   "turns": [
+    {
+     "npc": "You look lost. Can I help?",
+     "npcPt": "Você parece perdido. Posso ajudar?",
+     "options": [
+      {
+       "text": "No, I am a tourist.",
+       "textPt": "Não, sou turista.",
+       "hint": "Não é errado, mas você perde a chance de pedir ajuda."
+      },
+      {
+       "text": "Yes, where is the subway station?",
+       "textPt": "Sim, onde fica a estação de metrô?"
+      },
+      {
+       "text": "Yes, I am lost the street.",
+       "textPt": "Sim, estou perdido a rua.",
+       "hint": "Gramática errada. Diga 'I'm lost' ou pergunte onde fica o lugar."
+      }
+     ]
+    },
+    {
+     "npc": "Go straight for two blocks.",
+     "npcPt": "Siga reto por duas quadras.",
+     "options": [
+      {
+       "text": "Straight two blocks. And then?",
+       "textPt": "Reto duas quadras. E depois?"
+      },
+      {
+       "text": "I go straight yesterday.",
+       "textPt": "Eu fui reto ontem.",
+       "hint": "Ela deu uma instrução, não falou do passado."
+      },
+      {
+       "text": "Two blocks is far.",
+       "textPt": "Duas quadras é longe.",
+       "hint": "É um comentário; confirme e pergunte o próximo passo."
+      }
+     ]
+    },
+    {
+     "npc": "Then turn left at the bank.",
+     "npcPt": "Depois vire à esquerda no banco.",
+     "options": [
+      {
+       "text": "Turn left is bank?",
+       "textPt": "Vire esquerda é banco?",
+       "hint": "Pergunta confusa. Confirme: 'Left at the bank, right?'"
+      },
+      {
+       "text": "I turn right.",
+       "textPt": "Eu viro à direita.",
+       "hint": "Ela disse esquerda (left), não direita."
+      },
+      {
+       "text": "Left at the bank. Got it.",
+       "textPt": "Esquerda no banco. Entendi."
+      }
+     ]
+    },
+    {
+     "npc": "It's next to the park.",
+     "npcPt": "Fica ao lado do parque.",
+     "options": [
+      {
+       "text": "Next to is a park.",
+       "textPt": "Ao lado é um parque.",
+       "hint": "Frase invertida; não é preciso repetir."
+      },
+      {
+       "text": "Great! Thank you for your help.",
+       "textPt": "Ótimo! Obrigado pela ajuda."
+      },
+      {
+       "text": "I don't like parks.",
+       "textPt": "Não gosto de parques.",
+       "hint": "Fora de contexto: agradeça pela ajuda."
+      }
+     ]
+    }
+   ]
+  },
+  "sc09": {
+   "npcName": "Dr. Brown",
+   "turns": [
+    {
+     "npc": "Good morning. What brings you in?",
+     "npcPt": "Bom dia. O que traz você aqui?",
+     "options": [
+      {
+       "text": "I have a fever since Monday.",
+       "textPt": "Estou com febre desde segunda.",
+       "hint": "Com 'since' use o presente perfeito: 'I've had a fever since Monday'."
+      },
+      {
+       "text": "I am sick of my throat.",
+       "textPt": "Estou farto da minha garganta.",
+       "hint": "'Sick of' = farto de. Diga 'I have a sore throat'."
+      },
+      {
+       "text": "I've had a sore throat for days.",
+       "textPt": "Estou com dor de garganta há dias."
+      }
+     ]
+    },
+    {
+     "npc": "Do you have any allergies?",
+     "npcPt": "Você tem alguma alergia?",
+     "options": [
+      {
+       "text": "No, I am not allergy.",
+       "textPt": "Não, eu não sou alergia.",
+       "hint": "O adjetivo é 'allergic': 'I'm not allergic to anything'."
+      },
+      {
+       "text": "No, none that I know of.",
+       "textPt": "Não, nenhuma que eu saiba."
+      },
+      {
+       "text": "Yes, I have allergy of nuts.",
+       "textPt": "Sim, tenho alergia de nozes.",
+       "hint": "Diz-se 'allergic to nuts' ou 'an allergy to nuts'."
+      }
+     ]
+    },
+    {
+     "npc": "Open your mouth and say ahh.",
+     "npcPt": "Abra a boca e diga aah.",
+     "options": [
+      {
+       "text": "Ahh... Is it serious, doctor?",
+       "textPt": "Aah... É sério, doutor?"
+      },
+      {
+       "text": "Ahh... Is serious?",
+       "textPt": "Aah... É sério?",
+       "hint": "Em inglês o sujeito 'it' é obrigatório: 'Is it serious?'"
+      },
+      {
+       "text": "I don't want, sorry.",
+       "textPt": "Não quero, desculpe.",
+       "hint": "Seco e incompleto; recusar com educação seria 'I'd rather not', mas o exame é importante."
+      }
+     ]
+    },
+    {
+     "npc": "It's a mild infection. Rest and drink water.",
+     "npcPt": "É uma infecção leve. Descanse e beba água.",
+     "options": [
+      {
+       "text": "I must to rest, thanks.",
+       "textPt": "Eu devo descansar, obrigado.",
+       "hint": "Depois de 'must' não se usa 'to'."
+      },
+      {
+       "text": "Do I have to go to the work?",
+       "textPt": "Eu tenho que ir ao trabalho?",
+       "hint": "Diz-se 'go to work', sem 'the'."
+      },
+      {
+       "text": "Thanks, doctor. Should I take medicine?",
+       "textPt": "Obrigado, doutor. Devo tomar remédio?"
+      }
+     ]
+    }
+   ]
+  },
+  "sc10": {
+   "npcName": "Ms. Taylor",
+   "turns": [
+    {
+     "npc": "Thanks for coming. Tell me about yourself.",
+     "npcPt": "Obrigada por vir. Fale sobre você.",
+     "options": [
+      {
+       "text": "I am 25 years and I like pizza.",
+       "textPt": "Tenho 25 anos e gosto de pizza.",
+       "hint": "Diz-se 'I'm 25' (sem 'years'), e a entrevista pede foco profissional."
+      },
+      {
+       "text": "I'm a designer with three years' experience.",
+       "textPt": "Sou designer com três anos de experiência."
+      },
+      {
+       "text": "My name is on the paper.",
+       "textPt": "Meu nome está no papel.",
+       "hint": "Fora de contexto: ela quer saber da sua experiência."
+      }
+     ]
+    },
+    {
+     "npc": "Why do you want this job?",
+     "npcPt": "Por que você quer este emprego?",
+     "options": [
+      {
+       "text": "I enjoy teamwork, and I want to grow.",
+       "textPt": "Gosto de trabalho em equipe e quero crescer."
+      },
+      {
+       "text": "Because I need money, only.",
+       "textPt": "Porque preciso de dinheiro, só isso.",
+       "hint": "Honesto, mas mostra pouco interesse pela vaga."
+      },
+      {
+       "text": "I want because is nice.",
+       "textPt": "Quero porque é legal.",
+       "hint": "Gramática: 'I want it because...' e a resposta é vaga."
+      }
+     ]
+    },
+    {
+     "npc": "What is your biggest strength?",
+     "npcPt": "Qual é o seu maior ponto forte?",
+     "options": [
+      {
+       "text": "I am the best of the world.",
+       "textPt": "Sou o melhor do mundo.",
+       "hint": "Exagerado; prefira algo concreto e humilde."
+      },
+      {
+       "text": "My strength is to lift weights.",
+       "textPt": "Meu ponto forte é levantar peso.",
+       "hint": "Possível, mas não é relevante para a vaga."
+      },
+      {
+       "text": "I'm organized and I learn quickly.",
+       "textPt": "Sou organizado e aprendo rápido."
+      }
+     ]
+    },
+    {
+     "npc": "Do you have any questions for us?",
+     "npcPt": "Você tem alguma pergunta para nós?",
+     "options": [
+      {
+       "text": "No questions. Bye.",
+       "textPt": "Sem perguntas. Tchau.",
+       "hint": "Seco demais; mostre interesse."
+      },
+      {
+       "text": "Yes. What does a typical day look like?",
+       "textPt": "Sim. Como é um dia típico?"
+      },
+      {
+       "text": "Yes, how much I will earn tomorrow?",
+       "textPt": "Sim, quanto vou ganhar amanhã?",
+       "hint": "Gramática ('how much will I earn') e salário logo assim soam pouco naturais."
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

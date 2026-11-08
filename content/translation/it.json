@@ -1,0 +1,2407 @@
+{
+  "game": "translation",
+  "language": "it",
+  "version": 1,
+  "entries": {
+    "tr01-01": {
+      "word": "chi?",
+      "translit": null,
+      "example": "Chi ha mangiato tutta la torta?",
+      "examplePt": "Quem comeu o bolo todo?",
+      "pron": "KI — o 'ch' antes de 'i' soa como K",
+      "curiosity": "Em italiano, 'ch' diante de e/i sempre faz som de K: chi, che, perché."
+    },
+    "tr01-02": {
+      "word": "dove?",
+      "translit": null,
+      "example": "Dove sono le mie scarpe?",
+      "examplePt": "Onde estão meus sapatos?",
+      "pron": "DÔ-ve — o 'e' final se pronuncia",
+      "curiosity": "Na fala, 'dove è' vira 'dov'è', a forma mais ouvida para perguntar lugares."
+    },
+    "tr01-03": {
+      "word": "quando?",
+      "translit": null,
+      "example": "Quando parte il treno?",
+      "examplePt": "Quando sai o trem?",
+      "pron": "cuán-do — o 'qu' soa 'cu' e o 'a' é bem aberto",
+      "curiosity": "Quando também é conjunção: 'quando piove' é 'quando chove'."
+    },
+    "tr01-04": {
+      "word": "perché?",
+      "translit": null,
+      "example": "Perché il cielo è blu?",
+      "examplePt": "Por que o céu é azul?",
+      "pron": "per-QUÊ — acento no fim, o 'ch' soa K",
+      "curiosity": "Perché serve para perguntar e para responder: significa 'por quê' e 'porque'."
+    },
+    "tr01-05": {
+      "word": "come?",
+      "translit": null,
+      "example": "Come si chiama il tuo cane?",
+      "examplePt": "Como se chama o seu cachorro?",
+      "pron": "CÔ-me — o 'e' final se pronuncia",
+      "curiosity": "Sozinho, 'Come?' também pede para repetir, igual ao nosso 'Como?'."
+    },
+    "tr01-06": {
+      "word": "quale?",
+      "translit": null,
+      "example": "Quale vuoi, il rosso o il blu?",
+      "examplePt": "Qual você quer, o vermelho ou o azul?",
+      "pron": "cuá-le — o 'qu' soa 'cu'",
+      "curiosity": "Diante de 'è' o 'quale' perde o 'e' sem apóstrofo: 'qual è'."
+    },
+    "tr01-07": {
+      "word": "che cosa?",
+      "translit": null,
+      "example": "Che cosa c'è nella scatola?",
+      "examplePt": "O que tem na caixa?",
+      "pron": "ke CÓ-za — o 'ch' soa K e o 's' de 'cosa' soa Z",
+      "curiosity": "Dá para encurtar: 'che cosa', 'cosa' e só 'che' significam o mesmo."
+    },
+    "tr01-08": {
+      "word": "di dove?",
+      "translit": null,
+      "example": "Di dove sei, di Roma?",
+      "examplePt": "De onde você é, de Roma?",
+      "pron": "di DÔ-ve — 'di' com i fechado",
+      "curiosity": "Para a origem se diz 'Di dove sei?', com o verbo essere."
+    },
+    "tr01-09": {
+      "word": "dove vai?",
+      "translit": null,
+      "example": "Dove vai così di corsa?",
+      "examplePt": "Aonde você vai com tanta pressa?",
+      "pron": "DÔ-ve VAI — o 'ai' soa como em 'pai'",
+      "curiosity": "Italiano não separa 'onde' de 'para onde': usa 'dove' com o verbo andare ou ir."
+    },
+    "tr01-10": {
+      "word": "con chi?",
+      "translit": null,
+      "example": "Con chi vai al cinema?",
+      "examplePt": "Com quem você vai ao cinema?",
+      "pron": "con KI — o 'ch' soa K",
+      "curiosity": "A preposição vem antes: 'con chi', 'con me', 'con te'."
+    },
+    "tr02-01": {
+      "word": "io",
+      "translit": null,
+      "example": "Io ho fame, e tu?",
+      "examplePt": "Eu tenho fome, e você?",
+      "pron": "Í-o — duas sílabas curtas",
+      "curiosity": "Em italiano o 'io' costuma sumir: 'Sono stanco' já quer dizer 'eu estou cansado'."
+    },
+    "tr02-02": {
+      "word": "tu",
+      "translit": null,
+      "example": "Tu vieni alla mia festa?",
+      "examplePt": "Você vem à minha festa?",
+      "pron": "TU — o 'u' é como em 'tudo'",
+      "curiosity": "Tu é informal; com desconhecidos se usa 'Lei', o tratamento formal."
+    },
+    "tr02-03": {
+      "word": "lui",
+      "translit": null,
+      "example": "Lui suona il pianoforte benissimo.",
+      "examplePt": "Ele toca piano muito bem.",
+      "pron": "LU-i — duas sílabas, com o 'u' forte",
+      "curiosity": "Depois de preposição se diz 'con lui', 'per lui', nunca 'con egli'."
+    },
+    "tr02-04": {
+      "word": "lei",
+      "translit": null,
+      "example": "Lei è la nostra nuova maestra.",
+      "examplePt": "Ela é a nossa nova professora.",
+      "pron": "LÉ-i — o 'e' é aberto",
+      "curiosity": "Com L maiúsculo, 'Lei' vira o tratamento formal para 'o senhor' ou 'a senhora'."
+    },
+    "tr02-05": {
+      "word": "noi",
+      "translit": null,
+      "example": "Noi andiamo al mare domani.",
+      "examplePt": "Nós vamos à praia amanhã.",
+      "pron": "NÓ-i — o 'o' é aberto",
+      "curiosity": "Noi (nós) e voi (vocês) rimam: fica fácil lembrar das duas."
+    },
+    "tr02-06": {
+      "word": "loro",
+      "translit": null,
+      "example": "Loro abitano vicino al parco.",
+      "examplePt": "Eles moram perto do parque.",
+      "pron": "LÓ-ro — o 'r' é vibrante, curto",
+      "curiosity": "Loro serve para eles e para elas: não existe plural separado por gênero."
+    },
+    "tr02-07": {
+      "word": "questo",
+      "translit": null,
+      "example": "Questo è il mio zaino nuovo.",
+      "examplePt": "Esta é a minha mochila nova.",
+      "pron": "CUÉS-to — 'qu' soa 'cu'",
+      "curiosity": "Muda com o gênero e o número: questo, questa, questi, queste."
+    },
+    "tr02-08": {
+      "word": "quello",
+      "translit": null,
+      "example": "Quello è il mio amico Luca.",
+      "examplePt": "Aquele é o meu amigo Luca.",
+      "pron": "CUÉL-lo — o 'll' é um L longo",
+      "curiosity": "Quello se transforma como o artigo: quel libro, quell'albero, quello zaino."
+    },
+    "tr02-09": {
+      "word": "qui",
+      "translit": null,
+      "example": "Il gatto dorme qui, sul divano.",
+      "examplePt": "O gato dorme aqui, no sofá.",
+      "pron": "cu-Í — duas sílabas, força no fim",
+      "curiosity": "Qui e qua significam 'aqui' e quase sempre podem ser trocados."
+    },
+    "tr02-10": {
+      "word": "là",
+      "translit": null,
+      "example": "Il bar è là, vicino al ponte.",
+      "examplePt": "O bar fica lá, perto da ponte.",
+      "pron": "LÁ — o acento no papel marca a palavra",
+      "curiosity": "O acento em 'là' o diferencia do artigo 'la'."
+    },
+    "tr03-01": {
+      "word": "avere",
+      "translit": null,
+      "example": "Hai un fratello o una sorella?",
+      "examplePt": "Você tem um irmão ou uma irmã?",
+      "pron": "a-VÊ-re — o 'v' é como em 'vaca'",
+      "curiosity": "Em italiano se diz 'ho fame' (tenho fome) e 'ho vent'anni' (tenho vinte anos)."
+    },
+    "tr03-02": {
+      "word": "volere",
+      "translit": null,
+      "example": "Voglio un gelato al cioccolato!",
+      "examplePt": "Quero um sorvete de chocolate!",
+      "pron": "vo-LÊ-re — o 'r' é vibrante",
+      "curiosity": "Voglio é irregular: 'vogliamo' (queremos) mantém o som do 'gli'."
+    },
+    "tr03-03": {
+      "word": "potere",
+      "translit": null,
+      "example": "Posso entrare, per favore?",
+      "examplePt": "Posso entrar, por favor?",
+      "pron": "po-TÊ-re — o 'e' final se pronuncia",
+      "curiosity": "Potere serve também para pedir licença: 'Posso?' já é um pedido educado."
+    },
+    "tr03-04": {
+      "word": "avere bisogno",
+      "translit": null,
+      "example": "Ho bisogno di un abbraccio.",
+      "examplePt": "Preciso de um abraço.",
+      "pron": "a-VÊ-re bi-ZÔ-nho — o 'gn' final não existe, o 's' soa Z",
+      "curiosity": "Italiano diz literalmente 'ter necessidade de': avere bisogno di."
+    },
+    "tr03-05": {
+      "word": "sapere",
+      "translit": null,
+      "example": "Sai dove abita la nonna?",
+      "examplePt": "Você sabe onde a vovó mora?",
+      "pron": "sa-PÊ-re — o 'e' final se pronuncia",
+      "curiosity": "Sapere é saber um fato; para 'conhecer' uma pessoa se usa 'conoscere'."
+    },
+    "tr03-06": {
+      "word": "piacere",
+      "translit": null,
+      "example": "Mi piace la pizza calda.",
+      "examplePt": "Eu gosto de pizza quente.",
+      "pron": "pia-TCHÊ-re — o 'c' diante de 'e' soa TCH",
+      "curiosity": "Em italiano a coisa 'agrada' a pessoa: 'mi piace' é literalmente 'me agrada'."
+    },
+    "tr03-07": {
+      "word": "fare",
+      "translit": null,
+      "example": "Faccio i compiti dopo cena.",
+      "examplePt": "Faço a lição de casa depois do jantar.",
+      "pron": "FÁ-re — o 'a' é aberto",
+      "curiosity": "Fare vale também para o clima: 'fa freddo' é 'faz frio'."
+    },
+    "tr03-08": {
+      "word": "andare",
+      "translit": null,
+      "example": "Andiamo al parco in bicicletta?",
+      "examplePt": "Vamos ao parque de bicicleta?",
+      "pron": "an-DÁ-re — o 'a' final aberto",
+      "curiosity": "Andare pede 'a' para cidades e lugares: 'vado a Roma', 'vado al mare'."
+    },
+    "tr03-09": {
+      "word": "venire",
+      "translit": null,
+      "example": "Vieni a casa mia domani?",
+      "examplePt": "Você vem à minha casa amanhã?",
+      "pron": "ve-NÍ-re — o 'i' tônico é longo",
+      "curiosity": "Venire é irregular: 'vengo', 'vieni', 'viene', 'veniamo'."
+    },
+    "tr03-10": {
+      "word": "dare",
+      "translit": null,
+      "example": "Dammi la mano, piccolo.",
+      "examplePt": "Dê-me a mão, pequeno.",
+      "pron": "DÁ-re — o 'a' é aberto",
+      "curiosity": "Em 'dammi' o verbo gruda no pronome e dobra a consoante: dà + mi."
+    },
+    "tr04-01": {
+      "word": "mangiare",
+      "translit": null,
+      "example": "Mangiamo la pasta insieme stasera?",
+      "examplePt": "Comemos macarrão juntos hoje à noite?",
+      "pron": "man-DJÁ-re — o 'gi' soa DJ",
+      "curiosity": "Buon appetito! é o que se diz antes de comer em qualquer mesa italiana."
+    },
+    "tr04-02": {
+      "word": "bere",
+      "translit": null,
+      "example": "Bevo un bicchiere di latte.",
+      "examplePt": "Bebo um copo de leite.",
+      "pron": "BÊ-re — o 'e' final se pronuncia",
+      "curiosity": "Bere é irregular: 'bevo', 'bevi', 'beve' vêm de uma forma antiga, 'bevere'."
+    },
+    "tr04-03": {
+      "word": "cucinare",
+      "translit": null,
+      "example": "La nonna cucina il sugo da ore.",
+      "examplePt": "A vovó cozinha o molho há horas.",
+      "pron": "cu-tchi-NÁ-re — o 'c' diante de 'i' soa TCH",
+      "curiosity": "Cucina é cozinha e também culinária: 'la cucina italiana'."
+    },
+    "tr04-04": {
+      "word": "tagliare",
+      "translit": null,
+      "example": "Taglia il pane con attenzione!",
+      "examplePt": "Corte o pão com cuidado!",
+      "pron": "ta-LHÁ-re — o 'gli' soa como 'lh'",
+      "curiosity": "Em italiano o 'gli' vira 'lh': tagliare, figlio, famiglia."
+    },
+    "tr04-05": {
+      "word": "mescolare",
+      "translit": null,
+      "example": "Mescola bene la salsa, per favore.",
+      "examplePt": "Misture bem o molho, por favor.",
+      "pron": "mes-co-LÁ-re — o 'sc' diante de 'o' soa SC",
+      "curiosity": "Mescolare vale para colher na panela e também para embaralhar cartas."
+    },
+    "tr04-06": {
+      "word": "cuocere al forno",
+      "translit": null,
+      "example": "Mamma cuoce al forno una torta.",
+      "examplePt": "Mamãe assa um bolo no forno.",
+      "pron": "cuó-tche-re al FOR-no — o 'c' diante de 'e' soa TCH",
+      "curiosity": "Cuocere é 'cozinhar' em geral; 'al forno' diz que é no forno."
+    },
+    "tr04-07": {
+      "word": "friggere",
+      "translit": null,
+      "example": "Fritti le patate in olio caldo.",
+      "examplePt": "Você frita as batatas em óleo quente.",
+      "pron": "FRÍD-dje-re — o 'gg' soa DJ forte",
+      "curiosity": "Friggere é irregular: o particípio é 'fritto', como em 'fritto misto'."
+    },
+    "tr04-08": {
+      "word": "congelare",
+      "translit": null,
+      "example": "Posso congelare questa minestra?",
+      "examplePt": "Posso congelar esta sopa?",
+      "pron": "con-dje-LÁ-re — o 'g' diante de 'e' soa DJ",
+      "curiosity": "Il congelatore é o freezer, e il frigorifero é a geladeira."
+    },
+    "tr04-09": {
+      "word": "bollire",
+      "translit": null,
+      "example": "L'acqua bolle, butta la pasta!",
+      "examplePt": "A água ferve, jogue o macarrão!",
+      "pron": "bol-LÍ-re — o 'll' é um L longo",
+      "curiosity": "Na cozinha italiana, 'buttare la pasta' é pôr o macarrão na água fervendo."
+    },
+    "tr04-10": {
+      "word": "sbucciare",
+      "translit": null,
+      "example": "Sbuccio la mela con il coltello.",
+      "examplePt": "Descasco a maçã com a faca.",
+      "pron": "sbu-TCHÁ-re — o 'cci' soa TCH forte",
+      "curiosity": "Sbucciare tira a casca (buccia); com ervilhas se usa 'sgranare'."
+    },
+    "tr05-01": {
+      "word": "aprire",
+      "translit": null,
+      "example": "Apri la finestra, c'è troppo caldo!",
+      "examplePt": "Abra a janela, está muito quente!",
+      "pron": "a-PRÍ-re — o 'i' tônico é longo",
+      "curiosity": "Aprire é irregular no particípio: 'aperto', como em 'aperto' (aberto)."
+    },
+    "tr05-02": {
+      "word": "chiudere",
+      "translit": null,
+      "example": "Chiudi la porta, per piacere.",
+      "examplePt": "Feche a porta, por favor.",
+      "pron": "quiú-de-re — o 'chi' soa 'qui'",
+      "curiosity": "O particípio é 'chiuso': 'chiuso' na porta de loja quer dizer fechado."
+    },
+    "tr05-03": {
+      "word": "sedersi",
+      "translit": null,
+      "example": "Mi siedo accanto alla finestra.",
+      "examplePt": "Eu me sento ao lado da janela.",
+      "pron": "se-DÉR-si — o 'si' final é o 'se'",
+      "curiosity": "Sedersi é reflexivo: 'mi siedo' é literalmente 'eu me sento'."
+    },
+    "tr05-04": {
+      "word": "vestirsi",
+      "translit": null,
+      "example": "Mi vesto in fretta stamattina.",
+      "examplePt": "Eu me visto rápido nesta manhã.",
+      "pron": "ves-TÍR-si — o 's' do início é suave",
+      "curiosity": "Vestirsi é reflexivo: se veste a si mesmo, como 'lavarsi' (lavar-se)."
+    },
+    "tr05-05": {
+      "word": "pulire",
+      "translit": null,
+      "example": "Puliamo la cucina prima di cena?",
+      "examplePt": "Limpamos a cozinha antes do jantar?",
+      "pron": "pu-LÍ-re — o 'i' tônico é longo",
+      "curiosity": "Pulire e 'pulito' (limpo) vêm da mesma família de 'polir'."
+    },
+    "tr05-06": {
+      "word": "spazzare",
+      "translit": null,
+      "example": "Spazza il pavimento con la scopa.",
+      "examplePt": "Varra o chão com a vassoura.",
+      "pron": "spat-SÁ-re — o 'zz' soa TS",
+      "curiosity": "La scopa é a vassoura, e a 'scopa' é também um jogo de cartas italiano."
+    },
+    "tr05-07": {
+      "word": "lavare",
+      "translit": null,
+      "example": "Laviamo i piatti dopo pranzo.",
+      "examplePt": "Lavamos a louça depois do almoço.",
+      "pron": "la-VÁ-re — o 'v' é como em 'vaca'",
+      "curiosity": "La lavatrice é a máquina de lavar roupas."
+    },
+    "tr05-08": {
+      "word": "asciugare",
+      "translit": null,
+      "example": "Asciuga bene le mani, grazie.",
+      "examplePt": "Seque bem as mãos, obrigado.",
+      "pron": "a-chu-GÁ-re — o 'sci' soa X",
+      "curiosity": "L'asciugamano é a toalha: literalmente 'seca-mão'."
+    },
+    "tr05-09": {
+      "word": "piegare",
+      "translit": null,
+      "example": "Piego le magliette e le metto via.",
+      "examplePt": "Dobro as camisetas e as guardo.",
+      "pron": "pie-GÁ-re — o 'g' diante de 'a' é duro",
+      "curiosity": "Piegare pode ser dobrar roupa ou dobrar o corpo."
+    },
+    "tr05-10": {
+      "word": "appendere",
+      "translit": null,
+      "example": "Appendi il cappotto all'attaccapanni.",
+      "examplePt": "Pendure o casaco no cabide.",
+      "pron": "ap-PÊN-de-re — o 'pp' é um P forte",
+      "curiosity": "L'attaccapanni, o cabide, significa literalmente 'prende-panos'."
+    },
+    "tr06-01": {
+      "word": "giocare",
+      "translit": null,
+      "example": "I bambini giocano a palla in cortile.",
+      "examplePt": "As crianças jogam bola no pátio.",
+      "pron": "dji-o-CÁ-re — o 'gi' soa DJ",
+      "curiosity": "Em italiano se 'gioca a calcio' (joga futebol) e se 'suona la chitarra'."
+    },
+    "tr06-02": {
+      "word": "cantare",
+      "translit": null,
+      "example": "Cantiamo una canzone tutti insieme!",
+      "examplePt": "Cantemos uma canção todos juntos!",
+      "pron": "can-TÁ-re — o 'a' final aberto",
+      "curiosity": "Em italiano 'canzone' é canção, e 'cantante' é o cantor."
+    },
+    "tr06-03": {
+      "word": "disegnare",
+      "translit": null,
+      "example": "Disegni un cavallo per me?",
+      "examplePt": "Você desenha um cavalo para mim?",
+      "pron": "di-ze-NHÁ-re — o 'gn' soa 'nh'",
+      "curiosity": "Il disegno é o desenho e também o 'design': 'disegno industriale'."
+    },
+    "tr06-04": {
+      "word": "dipingere",
+      "translit": null,
+      "example": "Dipingo il mare con tanto blu.",
+      "examplePt": "Pinto o mar com muito azul.",
+      "pron": "di-PÍN-dje-re — o 'g' diante de 'e' soa DJ",
+      "curiosity": "Il pittore é o pintor, mas il dipinto é o quadro pintado."
+    },
+    "tr06-05": {
+      "word": "guardare",
+      "translit": null,
+      "example": "Guardiamo un film dopo cena?",
+      "examplePt": "Assistimos a um filme depois do jantar?",
+      "pron": "guar-DÁ-re — o 'gu' soa 'gu' de 'guarda'",
+      "curiosity": "Guardare vale para olhar e para assistir TV ou filmes."
+    },
+    "tr06-06": {
+      "word": "passeggiare",
+      "translit": null,
+      "example": "Passeggiamo sul lungomare al tramonto.",
+      "examplePt": "Passeamos pela orla ao pôr do sol.",
+      "pron": "pas-sed-DJÁ-re — o 'gg' soa DJ forte",
+      "curiosity": "La passeggiata, o passeio à noite, é um hábito típico dos italianos."
+    },
+    "tr06-07": {
+      "word": "viaggiare",
+      "translit": null,
+      "example": "Mi piace viaggiare in treno.",
+      "examplePt": "Gosto de viajar de trem.",
+      "pron": "via-DJÁ-re — o 'gg' soa DJ",
+      "curiosity": "Viaggio é viagem; 'Buon viaggio!' é a despedida de quem parte."
+    },
+    "tr06-08": {
+      "word": "ridere",
+      "translit": null,
+      "example": "Rido sempre con i miei cugini.",
+      "examplePt": "Eu sempre rio com meus primos.",
+      "pron": "RÍ-de-re — força no primeiro 'ri'",
+      "curiosity": "Ridere tem o particípio 'riso', que também é a palavra para 'riso' (risada)."
+    },
+    "tr06-09": {
+      "word": "piangere",
+      "translit": null,
+      "example": "Il bimbo piange perché ha sonno.",
+      "examplePt": "O bebê chora porque está com sono.",
+      "pron": "PIAN-dje-re — o 'g' diante de 'e' soa DJ",
+      "curiosity": "Piangere é irregular: o particípio é 'pianto', que também é 'choro'."
+    },
+    "tr06-10": {
+      "word": "abbracciare",
+      "translit": null,
+      "example": "Posso abbracciare il mio cane?",
+      "examplePt": "Posso abraçar o meu cachorro?",
+      "pron": "ab-brat-TCHÁ-re — o 'bb' e o 'cc' são longos",
+      "curiosity": "Abbraccio vem de 'braccio' (braço): abraçar é cobrir com os braços."
+    },
+    "tr07-01": {
+      "word": "portare",
+      "translit": null,
+      "example": "Porta qui il tuo zaino, per favore.",
+      "examplePt": "Traga a sua mochila aqui, por favor.",
+      "pron": "por-TÁ-re — o 'r' é vibrante",
+      "curiosity": "Portare serve para trazer e para levar; 'portare via' deixa claro que é levar embora."
+    },
+    "tr07-02": {
+      "word": "portare via",
+      "translit": null,
+      "example": "Porto via la spazzatura stasera.",
+      "examplePt": "Levo o lixo embora hoje à noite.",
+      "pron": "por-TÁ-re VÍ-a — duas palavras",
+      "curiosity": "A pizza 'da portare via' é a pizza para viagem: o mesmo verbo!"
+    },
+    "tr07-03": {
+      "word": "ricevere",
+      "translit": null,
+      "example": "Ricevo una lettera dalla nonna.",
+      "examplePt": "Recebo uma carta da vovó.",
+      "pron": "ri-tchê-VÊ-re — o 'ce' soa TCHE",
+      "curiosity": "Ricevuta é o recibo: o que você recebe quando paga."
+    },
+    "tr07-04": {
+      "word": "mandare",
+      "translit": null,
+      "example": "Mi mandi un messaggio stasera?",
+      "examplePt": "Você me manda uma mensagem hoje à noite?",
+      "pron": "man-DÁ-re — o 'a' final aberto",
+      "curiosity": "Mandare serve para enviar mensagens e também para mandar alguém a algum lugar."
+    },
+    "tr07-05": {
+      "word": "prestare",
+      "translit": null,
+      "example": "Mi presti la tua matita?",
+      "examplePt": "Você me empresta o seu lápis?",
+      "pron": "pres-TÁ-re — o 'e' é aberto",
+      "curiosity": "Em italiano é igual: 'prestare' empresta, 'prendere in prestito' pega emprestado."
+    },
+    "tr07-06": {
+      "word": "restituire",
+      "translit": null,
+      "example": "Restituisco il libro domani, promesso.",
+      "examplePt": "Devolvo o livro amanhã, prometo.",
+      "pron": "res-ti-tu-Í-re — o 'u' pronuncia-se",
+      "curiosity": "Restituire é como 'restituir' em português: devolver algo que era do outro."
+    },
+    "tr07-07": {
+      "word": "cercare",
+      "translit": null,
+      "example": "Cerco le chiavi da dieci minuti.",
+      "examplePt": "Procuro as chaves há dez minutos.",
+      "pron": "tchêr-CÁ-re — começa com TCH, depois K",
+      "curiosity": "Cercare é procurar; trovare é encontrar: a diferença é a mesma do português."
+    },
+    "tr07-08": {
+      "word": "trovare",
+      "translit": null,
+      "example": "Dove hai trovato questa bella conchiglia?",
+      "examplePt": "Onde você achou esta concha bonita?",
+      "pron": "tro-VÁ-re — o 'r' é vibrante",
+      "curiosity": "Trovare também é opinar: 'Come trovi il film?' quer dizer 'o que achou do filme?'."
+    },
+    "tr07-09": {
+      "word": "perdere",
+      "translit": null,
+      "example": "Non perdere il tuo biglietto!",
+      "examplePt": "Não perca o seu bilhete!",
+      "pron": "PÉR-de-re — força no 'pér'",
+      "curiosity": "Perdere é irregular: o particípio é 'perso' (perdido)."
+    },
+    "tr07-10": {
+      "word": "nascondere",
+      "translit": null,
+      "example": "Nascondo il regalo nell'armadio.",
+      "examplePt": "Escondo o presente no armário.",
+      "pron": "nas-CÔN-de-re — 'sc' diante de 'o' soa SC",
+      "curiosity": "Il nascondino é o jogo de esconde-esconde das crianças italianas."
+    },
+    "tr08-01": {
+      "word": "cominciare",
+      "translit": null,
+      "example": "Comincio il lavoro alle otto.",
+      "examplePt": "Começo o trabalho às oito.",
+      "pron": "co-min-TCHÁ-re — o 'ci' soa TCH",
+      "curiosity": "Cominciare e 'iniziare' são sinônimos; cominciare é o mais comum na fala."
+    },
+    "tr08-02": {
+      "word": "finire",
+      "translit": null,
+      "example": "Finisco i compiti e poi gioco.",
+      "examplePt": "Termino a lição e depois brinco.",
+      "pron": "fi-NÍ-re — o 'i' tônico é longo",
+      "curiosity": "Finire usa o -isc-: 'finisco', 'finisci', 'finisce'."
+    },
+    "tr08-03": {
+      "word": "fermarsi",
+      "translit": null,
+      "example": "Mi fermo qui, il bus è lento.",
+      "examplePt": "Eu paro aqui, o ônibus é lento.",
+      "pron": "fer-MÁR-si — o 'si' final é o 'se'",
+      "curiosity": "Fermarsi é parar a si mesmo; 'fermare' sozinho para algo ou alguém."
+    },
+    "tr08-04": {
+      "word": "continuare",
+      "translit": null,
+      "example": "Continuiamo a camminare fino al lago.",
+      "examplePt": "Continuamos a caminhar até o lago.",
+      "pron": "con-ti-nu-Á-re — 4 sílabas, o 'u' pronuncia-se",
+      "curiosity": "Continuare pede a preposição 'a' antes de outro verbo."
+    },
+    "tr08-05": {
+      "word": "arrivare",
+      "translit": null,
+      "example": "Il treno arriva tra due minuti.",
+      "examplePt": "O trem chega em dois minutos.",
+      "pron": "ar-ri-VÁ-re — o 'rr' é vibrante forte",
+      "curiosity": "Arrivederci! vem de 'arrivare': literalmente 'até nos reencontrarmos'."
+    },
+    "tr08-06": {
+      "word": "uscire",
+      "translit": null,
+      "example": "A che ora esci di casa?",
+      "examplePt": "A que horas você sai de casa?",
+      "pron": "u-CHÍ-re — o 'sc' diante de 'i' soa X",
+      "curiosity": "Uscire é irregular: 'esco', 'esci', 'esce'; a porta de saída é 'uscita'."
+    },
+    "tr08-07": {
+      "word": "tornare",
+      "translit": null,
+      "example": "Torno a casa dopo la scuola.",
+      "examplePt": "Volto para casa depois da escola.",
+      "pron": "tor-NÁ-re — o 'o' é aberto",
+      "curiosity": "Tornare e 'ritornare' são quase iguais; tornare é o mais usado."
+    },
+    "tr08-08": {
+      "word": "entrare",
+      "translit": null,
+      "example": "Entra pure, la porta è aperta.",
+      "examplePt": "Entre, a porta está aberta.",
+      "pron": "en-TRÁ-re — o 'r' é vibrante",
+      "curiosity": "Em italiano se diz 'entrare in casa', com 'in', e não 'a'."
+    },
+    "tr08-09": {
+      "word": "abitare",
+      "translit": null,
+      "example": "Abito in un piccolo paese di montagna.",
+      "examplePt": "Moro numa pequena cidade de montanha.",
+      "pron": "a-bi-TÁ-re — o 'a' final aberto",
+      "curiosity": "Abitare e 'vivere' ambos podem ser 'morar': abito a Roma, vivo a Roma."
+    },
+    "tr08-10": {
+      "word": "visitare",
+      "translit": null,
+      "example": "Visitiamo il museo domenica mattina.",
+      "examplePt": "Visitamos o museu no domingo de manhã.",
+      "pron": "vi-zi-TÁ-re — o 's' soa Z",
+      "curiosity": "Visitare é para lugares; para pessoas se usa 'andare a trovare'."
+    },
+    "tr09-01": {
+      "word": "imparare",
+      "translit": null,
+      "example": "Imparo l'italiano guardando i cartoni.",
+      "examplePt": "Aprendo italiano vendo desenhos animados.",
+      "pron": "im-pa-RÁ-re — o 'a' final aberto",
+      "curiosity": "Imparare é aprender; 'studiare' é estudar: dois verbos bem diferentes."
+    },
+    "tr09-02": {
+      "word": "insegnare",
+      "translit": null,
+      "example": "Mia zia insegna musica ai bambini.",
+      "examplePt": "Minha tia ensina música às crianças.",
+      "pron": "in-se-NHÁ-re — o 'gn' soa 'nh'",
+      "curiosity": "Insegna também é placa: a 'insegna' do bar é o letreiro."
+    },
+    "tr09-03": {
+      "word": "lavorare",
+      "translit": null,
+      "example": "Papà lavora in un grande ospedale.",
+      "examplePt": "Papai trabalha num grande hospital.",
+      "pron": "la-vo-RÁ-re — o 'v' é como em 'vaca'",
+      "curiosity": "Il lavoro é o trabalho; 'Buon lavoro!' desejam aos colegas."
+    },
+    "tr09-04": {
+      "word": "esercitarsi",
+      "translit": null,
+      "example": "Mi esercito con il pianoforte ogni sera.",
+      "examplePt": "Eu pratico piano toda noite.",
+      "pron": "e-zer-tchi-TÁR-si — o 'c' diante de 'i' soa TCH",
+      "curiosity": "Esercitarsi é treinar a si mesmo: a 'esercizio' vira exercício."
+    },
+    "tr09-05": {
+      "word": "spiegare",
+      "translit": null,
+      "example": "Mi spieghi questa parola nuova?",
+      "examplePt": "Você me explica esta palavra nova?",
+      "pron": "spie-GÁ-re — o 'g' é duro",
+      "curiosity": "Spiegare também significa desdobrar: spiegare una cartina."
+    },
+    "tr09-06": {
+      "word": "correggere",
+      "translit": null,
+      "example": "La maestra corregge il mio dettato.",
+      "examplePt": "A professora corrige o meu ditado.",
+      "pron": "cor-RÉD-dje-re — o 'gg' soa DJ forte",
+      "curiosity": "Correggere tem o particípio 'corretto', que também é o adjetivo 'correto'."
+    },
+    "tr09-07": {
+      "word": "copiare",
+      "translit": null,
+      "example": "Non copiare dal compagno di banco!",
+      "examplePt": "Não copie do colega da carteira!",
+      "pron": "co-PIÁ-re — o 'pia' é uma sílaba",
+      "curiosity": "Copiare vale para copiar texto; a fotocópia é 'la fotocopia'."
+    },
+    "tr09-08": {
+      "word": "mostrare",
+      "translit": null,
+      "example": "Ti mostro la mia camera nuova.",
+      "examplePt": "Mostro a você meu quarto novo.",
+      "pron": "mos-TRÁ-re — o 'r' é vibrante",
+      "curiosity": "Mostrare também é 'exibir': la mostra é uma exposição de arte."
+    },
+    "tr09-09": {
+      "word": "decidere",
+      "translit": null,
+      "example": "Decido io: stasera si mangia pizza!",
+      "examplePt": "Eu decido: hoje à noite é pizza!",
+      "pron": "de-TCHÍ-de-re — o 'ci' soa TCH",
+      "curiosity": "Decidere é irregular: o particípio é 'deciso'."
+    },
+    "tr09-10": {
+      "word": "aiutare",
+      "translit": null,
+      "example": "Aiuto mia madre con la spesa.",
+      "examplePt": "Ajudo minha mãe com as compras.",
+      "pron": "ai-u-TÁ-re — o 'ai' é um ditongo",
+      "curiosity": "Aiuto! é também o grito de socorro em italiano."
+    },
+    "tr10-01": {
+      "word": "respirare",
+      "translit": null,
+      "example": "Respira piano e profondo, ecco.",
+      "examplePt": "Respire devagar e fundo, assim.",
+      "pron": "res-pi-RÁ-re — o 'a' final aberto",
+      "curiosity": "Il respiro é a respiração, mas 'un respiro' também é um fôlego curto."
+    },
+    "tr10-02": {
+      "word": "annusare",
+      "translit": null,
+      "example": "Il cane annusa ogni cespuglio.",
+      "examplePt": "O cachorro cheira cada arbusto.",
+      "pron": "an-nu-ZÁ-re — o 's' soa Z",
+      "curiosity": "Annusare é cheirar com o nariz ativo; sentire un odore é perceber um cheiro."
+    },
+    "tr10-03": {
+      "word": "starnutire",
+      "translit": null,
+      "example": "Starnutisco quando c'è la polvere.",
+      "examplePt": "Eu espirro quando tem poeira.",
+      "pron": "star-nu-TÍ-re — o 'u' pronuncia-se",
+      "curiosity": "Quando alguém espirra, os italianos dizem 'Salute!'."
+    },
+    "tr10-04": {
+      "word": "tossire",
+      "translit": null,
+      "example": "Tossisco ancora un po' di notte.",
+      "examplePt": "Ainda tusso um pouco à noite.",
+      "pron": "tos-SÍ-re — o 'ss' soa um S forte",
+      "curiosity": "La tosse é a tosse; o xarope para tosse é 'lo sciroppo per la tosse'."
+    },
+    "tr10-05": {
+      "word": "sbadigliare",
+      "translit": null,
+      "example": "Sbadiglio sempre quando ho sonno.",
+      "examplePt": "Eu sempre bocejo quando tenho sono.",
+      "pron": "sba-di-LHÁ-re — o 'gli' soa 'lh'",
+      "curiosity": "Sbadiglio é o bocejo, e 'sbadato' descreve quem é distraído."
+    },
+    "tr10-06": {
+      "word": "battere le palpebre",
+      "translit": null,
+      "example": "Batti le palpebre se mi senti.",
+      "examplePt": "Pisque se você me ouvir.",
+      "pron": "BÁT-te-re le PÁL-pe-bre — são três palavras",
+      "curiosity": "Le palpebre são as pálpebras: palavra quase igual à portuguesa."
+    },
+    "tr10-07": {
+      "word": "masticare",
+      "translit": null,
+      "example": "Mastica lentamente il pane, bimbo.",
+      "examplePt": "Mastigue o pão devagar, criança.",
+      "pron": "mas-ti-CÁ-re — o 'c' diante de 'a' soa K",
+      "curiosity": "A goma de mascar se chama 'gomma da masticare', literalmente 'goma de mastigar'."
+    },
+    "tr10-08": {
+      "word": "inghiottire",
+      "translit": null,
+      "example": "Inghiotto la pillola con un sorso.",
+      "examplePt": "Engulo a pílula com um gole.",
+      "pron": "in-guiot-TÍ-re — 'ghi' soa 'gui'",
+      "curiosity": "'Inghiottire il rospo' (engolir o sapo) é aguentar algo desagradável, como em português."
+    },
+    "tr10-09": {
+      "word": "indicare",
+      "translit": null,
+      "example": "Indica la strada con il dito.",
+      "examplePt": "Aponte o caminho com o dedo.",
+      "pron": "in-di-CÁ-re — o 'c' diante de 'a' soa K",
+      "curiosity": "L'indice é o dedo indicador, o dedo com que se aponta."
+    },
+    "tr10-10": {
+      "word": "applaudire",
+      "translit": null,
+      "example": "Applaudiamo tutti la piccola cantante!",
+      "examplePt": "Todos aplaudimos a pequena cantora!",
+      "pron": "ap-plau-DÍ-re — o 'au' é ditongo",
+      "curiosity": "Applaudire usa -isc-: 'applaudisco', 'applaudisci', 'applaudisce'."
+    },
+    "tr11-01": {
+      "word": "comprare",
+      "translit": null,
+      "example": "Compro il pane fresco ogni mattina.",
+      "examplePt": "Compro pão fresco toda manhã.",
+      "pron": "com-PRÁ-re — o 'a' final aberto",
+      "curiosity": "Fare la spesa é fazer as compras do dia a dia, como supermercado."
+    },
+    "tr11-02": {
+      "word": "vendere",
+      "translit": null,
+      "example": "Il nonno vende frutta al mercato.",
+      "examplePt": "O vovô vende fruta no mercado.",
+      "pron": "VÊN-de-re — força no 'vên'",
+      "curiosity": "Il venditore é quem vende; le vendite são as vendas."
+    },
+    "tr11-03": {
+      "word": "pagare",
+      "translit": null,
+      "example": "Pago io il conto, tranquillo!",
+      "examplePt": "Eu pago a conta, tranquilo!",
+      "pron": "pa-GÁ-re — o 'g' é duro",
+      "curiosity": "Pagare alla romana é dividir a conta igualmente entre todos."
+    },
+    "tr11-04": {
+      "word": "spendere",
+      "translit": null,
+      "example": "Spendo troppo quando vado al mercatino.",
+      "examplePt": "Gasto demais quando vou à feirinha.",
+      "pron": "SPÊN-de-re — força no 'spên'",
+      "curiosity": "Spendere é gastar dinheiro; passare é gastar tempo: 'passo il tempo'."
+    },
+    "tr11-05": {
+      "word": "risparmiare",
+      "translit": null,
+      "example": "Risparmio ogni mese per una bici.",
+      "examplePt": "Economizo todo mês para uma bicicleta.",
+      "pron": "ris-par-MIÁ-re — o 'rmi' une-se numa sílaba",
+      "curiosity": "Il salvadanaio é o cofrinho de porquinho dos italianos."
+    },
+    "tr11-06": {
+      "word": "cambiare",
+      "translit": null,
+      "example": "Posso cambiare questa maglia con un'altra?",
+      "examplePt": "Posso trocar esta camiseta por outra?",
+      "pron": "cam-BIÁ-re — o 'bia' é uma sílaba",
+      "curiosity": "Cambiare serve para trocar roupas, dinheiro e até de ideia."
+    },
+    "tr11-07": {
+      "word": "provare",
+      "translit": null,
+      "example": "Provo i pantaloni nel camerino.",
+      "examplePt": "Experimento as calças no provador.",
+      "pron": "pro-VÁ-re — o 'v' é como em 'vaca'",
+      "curiosity": "Il camerino é o provador, e também o camarim de um teatro."
+    },
+    "tr11-08": {
+      "word": "ordinare",
+      "translit": null,
+      "example": "Ordiniamo due panini e una limonata.",
+      "examplePt": "Pedimos dois sanduíches e uma limonada.",
+      "pron": "or-di-NÁ-re — o 'a' final aberto",
+      "curiosity": "Ordinare serve para pedir comida e também para pôr em ordem."
+    },
+    "tr11-09": {
+      "word": "prenotare",
+      "translit": null,
+      "example": "Prenoto un tavolo per sabato sera.",
+      "examplePt": "Reservo uma mesa para sábado à noite.",
+      "pron": "pre-no-TÁ-re — o 'a' final aberto",
+      "curiosity": "Prenotare é reservar; a 'prenotazione' é a reserva em hotéis e restaurantes."
+    },
+    "tr11-10": {
+      "word": "incartare",
+      "translit": null,
+      "example": "Lo può incartare per regalo, per favore?",
+      "examplePt": "O senhor pode embrulhar para presente?",
+      "pron": "in-car-TÁ-re — o 'c' diante de 'a' soa K",
+      "curiosity": "Incartare vem de 'carta' (papel): é cobrir com papel."
+    },
+    "tr12-01": {
+      "word": "conoscere",
+      "translit": null,
+      "example": "Conosco la sorella di Marta da anni.",
+      "examplePt": "Conheço a irmã dela há anos.",
+      "pron": "co-NÔ-chê-re — o 'sc' diante de 'e' soa X",
+      "curiosity": "Conoscere é conhecer pessoas e lugares; sapere é saber fatos."
+    },
+    "tr12-02": {
+      "word": "invitare",
+      "translit": null,
+      "example": "Invito tutta la classe alla mia festa.",
+      "examplePt": "Convido a turma toda para a minha festa.",
+      "pron": "in-vi-TÁ-re — o 'v' é como em 'vaca'",
+      "curiosity": "L'invito é o convite, e 'invitare a cena' é convidar para o jantar."
+    },
+    "tr12-03": {
+      "word": "salutare",
+      "translit": null,
+      "example": "Saluto sempre il vicino con un sorriso.",
+      "examplePt": "Sempre cumprimento o vizinho com um sorriso.",
+      "pron": "sa-lu-TÁ-re — o 'a' final aberto",
+      "curiosity": "Salve! e Ciao! são cumprimentos; 'salutare' é o verbo de dizê-los."
+    },
+    "tr12-04": {
+      "word": "ringraziare",
+      "translit": null,
+      "example": "Ringrazio la maestra per l'aiuto.",
+      "examplePt": "Agradeço à professora pela ajuda.",
+      "pron": "rin-gra-tsi-Á-re — o 'zi' soa TSI",
+      "curiosity": "Grazie vem da mesma raiz de 'grazia' (graça) e dá 'ringraziare'."
+    },
+    "tr12-05": {
+      "word": "promettere",
+      "translit": null,
+      "example": "Prometto che torno presto, ok?",
+      "examplePt": "Prometto que volto cedo, ok?",
+      "pron": "pro-MÉT-te-re — o 'tt' é um T forte",
+      "curiosity": "Promettere tem o particípio 'promesso', o que se diz quando se promete."
+    },
+    "tr12-06": {
+      "word": "essere d'accordo",
+      "translit": null,
+      "example": "Sono d'accordo con te al cento per cento.",
+      "examplePt": "Concordo com você cem por cento.",
+      "pron": "ÉS-se-re dac-CÓR-do — 'ccord' soa K forte",
+      "curiosity": "Italiano diz literalmente 'estar de acordo': essere d'accordo."
+    },
+    "tr12-07": {
+      "word": "avvisare",
+      "translit": null,
+      "example": "Ti avviso appena arrivo, va bene?",
+      "examplePt": "Eu te aviso assim que chegar, certo?",
+      "pron": "av-vi-ZÁ-re — o 'vv' é um V longo, o 's' soa Z",
+      "curiosity": "L'avviso é o aviso, como o que se lê na porta de uma loja."
+    },
+    "tr12-08": {
+      "word": "presentare",
+      "translit": null,
+      "example": "Ti presento il mio miglior amico.",
+      "examplePt": "Apresento a você meu melhor amigo.",
+      "pron": "pre-zen-TÁ-re — o 's' soa Z",
+      "curiosity": "Presentare vale para pessoas; 'regalare' é dar um presente."
+    },
+    "tr12-09": {
+      "word": "fare i complimenti",
+      "translit": null,
+      "example": "Faccio i complimenti al cuoco, era ottimo!",
+      "examplePt": "Elogio o cozinheiro, estava ótimo!",
+      "pron": "FÁ-tcho i com-pli-MÊN-ti — o 'cc' soa TCH forte",
+      "curiosity": "Complimenti! é o jeito italiano de dizer 'parabéns' por algo bem feito."
+    },
+    "tr12-10": {
+      "word": "convincere",
+      "translit": null,
+      "example": "Mi convinci a venire con voi?",
+      "examplePt": "Você me convence a ir com vocês?",
+      "pron": "con-VÍN-tche-re — o 'ci' soa TCH",
+      "curiosity": "Convincere é irregular: o particípio é 'convinto' (convencido)."
+    },
+    "tr13-01": {
+      "word": "fare campeggio",
+      "translit": null,
+      "example": "Facciamo campeggio vicino al lago, ti va?",
+      "examplePt": "Acampamos perto do lago, topa?",
+      "pron": "FÁ-tcha-mo cam-PÊD-dje-o — o 'gg' soa DJ forte",
+      "curiosity": "Il campeggio é a área de camping; 'tenda' é a barraca."
+    },
+    "tr13-02": {
+      "word": "pescare",
+      "translit": null,
+      "example": "Pesco una trota nel fiume freddo.",
+      "examplePt": "Pesco uma truta no rio frio.",
+      "pron": "pes-CÁ-re — o 'sc' diante de 'a' soa SC",
+      "curiosity": "Pescare e pesca (a fruta) são grafias iguais: 'la pesca' é pesca e pêssego."
+    },
+    "tr13-03": {
+      "word": "andare a cavallo",
+      "translit": null,
+      "example": "Vado a cavallo ogni sabato mattina.",
+      "examplePt": "Eu cavalgo todo sábado de manhã.",
+      "pron": "an-DÁ-re a ca-VÁL-lo — o 'll' é um L longo",
+      "curiosity": "Em italiano se diz 'andare a cavallo', literalmente 'ir a cavalo'."
+    },
+    "tr13-04": {
+      "word": "pattinare",
+      "translit": null,
+      "example": "Pattiniamo sul ghiaccio domenica pomeriggio?",
+      "examplePt": "Patinamos no gelo no domingo à tarde?",
+      "pron": "pat-ti-NÁ-re — o 'tt' é um T forte",
+      "curiosity": "I pattini são os patins, e 'pattinaggio' é a patinação."
+    },
+    "tr13-05": {
+      "word": "fare immersioni",
+      "translit": null,
+      "example": "Faccio immersioni nel mare dell'isola.",
+      "examplePt": "Faço mergulho no mar da ilha.",
+      "pron": "FÁ-tcho im-mer-SIÔ-ni — o 'mm' é um M longo",
+      "curiosity": "Immersione é mergulho e também 'imersão' em português."
+    },
+    "tr13-06": {
+      "word": "andare in bicicletta",
+      "translit": null,
+      "example": "Andiamo in bicicletta lungo il fiume?",
+      "examplePt": "Vamos pedalar ao longo do rio?",
+      "pron": "an-DIÁ-mo in bi-tchi-CLÉT-ta — o 'ci' soa TCH",
+      "curiosity": "Dizem 'in bici' no dia a dia, forma abreviada de 'bicicletta'."
+    },
+    "tr13-07": {
+      "word": "fotografare",
+      "translit": null,
+      "example": "Fotografo i tramonti con il telefono.",
+      "examplePt": "Fotografo os pores do sol com o celular.",
+      "pron": "fo-to-gra-FÁ-re — o 'f' é como em 'faca'",
+      "curiosity": "La foto é feminina, pois é abreviação de 'la fotografia'."
+    },
+    "tr13-08": {
+      "word": "collezionare",
+      "translit": null,
+      "example": "Colleziono conchiglie dalle mie vacanze.",
+      "examplePt": "Coleciono conchas das minhas férias.",
+      "pron": "col-le-tsio-NÁ-re — o 'zi' soa TSI",
+      "curiosity": "La collezione é a coleção; o colecionador é 'il collezionista'."
+    },
+    "tr13-09": {
+      "word": "piantare",
+      "translit": null,
+      "example": "Piantiamo un albero nel giardino insieme.",
+      "examplePt": "Plantamos uma árvore juntos no jardim.",
+      "pron": "pian-TÁ-re — o 'a' final aberto",
+      "curiosity": "La pianta é a planta, mas também a planta (o mapa) de uma casa ou cidade."
+    },
+    "tr13-10": {
+      "word": "annaffiare",
+      "translit": null,
+      "example": "Annaffio i fiori ogni sera.",
+      "examplePt": "Eu rego as flores toda noite.",
+      "pron": "an-naf-FIÁ-re — o 'ff' é um F forte",
+      "curiosity": "L'annaffiatoio é o regador, a ferramenta de regar plantas."
+    },
+    "tr14-01": {
+      "word": "preferire",
+      "translit": null,
+      "example": "Preferisco il gelato alla fragola.",
+      "examplePt": "Prefiro o sorvete de morango.",
+      "pron": "pre-fe-RÍ-re — o 'i' tônico é longo",
+      "curiosity": "Preferire usa -isc-: 'preferisco', 'preferisci', 'preferisce'."
+    },
+    "tr14-02": {
+      "word": "immaginare",
+      "translit": null,
+      "example": "Immagina un castello sulle nuvole!",
+      "examplePt": "Imagine um castelo nas nuvens!",
+      "pron": "im-ma-dji-NÁ-re — o 'gi' soa DJ",
+      "curiosity": "L'immaginazione é a imaginação, com dois 'm' em italiano."
+    },
+    "tr14-03": {
+      "word": "dubitare",
+      "translit": null,
+      "example": "Dubito che piova oggi, guarda il cielo.",
+      "examplePt": "Duvido que chova hoje, olhe o céu.",
+      "pron": "du-bi-TÁ-re — o 'u' pronuncia-se",
+      "curiosity": "Dubitare pede o congiuntivo: 'dubito che sia vero'."
+    },
+    "tr14-04": {
+      "word": "credere",
+      "translit": null,
+      "example": "Credo che sia una buona idea.",
+      "examplePt": "Acho que é uma boa ideia.",
+      "pron": "CRÊ-de-re — o 'e' do meio é aberto",
+      "curiosity": "Credere é crer, mas o italiano usa também 'credo' como 'acho que'."
+    },
+    "tr14-05": {
+      "word": "adorare",
+      "translit": null,
+      "example": "Adoro il cioccolato fondente, e tu?",
+      "examplePt": "Adoro chocolate amargo, e você?",
+      "pron": "a-do-RÁ-re — o 'a' final aberto",
+      "curiosity": "Adorare se usa para coisas comuns, como comida, no dia a dia."
+    },
+    "tr14-06": {
+      "word": "detestare",
+      "translit": null,
+      "example": "Detesto svegliarmi prima delle sei.",
+      "examplePt": "Detesto acordar antes das seis.",
+      "pron": "de-tes-TÁ-re — o 'a' final aberto",
+      "curiosity": "Detestare é mais forte que 'non mi piace'."
+    },
+    "tr14-07": {
+      "word": "sentire",
+      "translit": null,
+      "example": "Sento un buon profumo di pane.",
+      "examplePt": "Sinto um bom cheiro de pão.",
+      "pron": "sen-TÍ-re — o 'i' tônico é longo",
+      "curiosity": "Sentire significa sentir e também ouvir: 'ti sento bene' é te ouço bem."
+    },
+    "tr14-08": {
+      "word": "notare",
+      "translit": null,
+      "example": "Noto subito il tuo nuovo cappello.",
+      "examplePt": "Noto logo o seu chapéu novo.",
+      "pron": "no-TÁ-re — o 'a' final aberto",
+      "curiosity": "Una nota é uma nota musical, mas 'notare' é perceber."
+    },
+    "tr14-09": {
+      "word": "perdonare",
+      "translit": null,
+      "example": "Ti perdono, ma non farlo più.",
+      "examplePt": "Eu te perdoo, mas não faça mais.",
+      "pron": "per-do-NÁ-re — o 'a' final aberto",
+      "curiosity": "Perdonare tem o 'dono' dentro, que vem de 'dar': per-donare."
+    },
+    "tr14-10": {
+      "word": "sorprendere",
+      "translit": null,
+      "example": "Mi sorprendi sempre con le tue idee.",
+      "examplePt": "Você sempre me surpreende com suas ideias.",
+      "pron": "sor-PRÊN-de-re — 'sor-prên'",
+      "curiosity": "Sorprendere é irregular: o particípio é 'sorpreso'."
+    },
+    "tr15-01": {
+      "word": "Un tavolo per due",
+      "translit": null,
+      "example": "Un tavolo per due, vicino alla finestra?",
+      "examplePt": "Uma mesa para dois, perto da janela?",
+      "pron": "um TÁ-vo-lo per DÚ-e — o 'v' é como em 'vaca'",
+      "curiosity": "Em italiano pede-se 'un tavolo per due' sem o verbo."
+    },
+    "tr15-02": {
+      "word": "Il menù, per favore",
+      "translit": null,
+      "example": "Certo, ecco il menù con i piatti del giorno.",
+      "examplePt": "Claro, aqui está o cardápio com os pratos do dia.",
+      "pron": "il me-NÚ per fa-VÔ-re — o 'u' tônico",
+      "curiosity": "A palavra 'menù' leva acento no 'u' e é masculina, em italiano."
+    },
+    "tr15-03": {
+      "word": "Qual è il piatto del giorno?",
+      "translit": null,
+      "example": "Oggi c'è lasagna o risotto ai funghi.",
+      "examplePt": "Hoje tem lasanha ou risoto de cogumelos.",
+      "pron": "cual É il PIAT-to del DJOR-no — 'qual è' sem apóstrofo",
+      "curiosity": "Piatto é prato e também adjetivo: 'piatto' quer dizer plano, liso."
+    },
+    "tr15-04": {
+      "word": "Senza cipolla, per favore",
+      "translit": null,
+      "example": "Va bene, senza cipolla e senza aglio.",
+      "examplePt": "Tudo bem, sem cebola e sem alho.",
+      "pron": "SÊN-za tchi-PÓL-la — o 'ci' soa TCH",
+      "curiosity": "Senza (sem) é o oposto de 'con' (com): senza zucchero, con latte."
+    },
+    "tr15-05": {
+      "word": "È squisito!",
+      "translit": null,
+      "example": "Che buono, è squisito! Complimenti allo chef!",
+      "examplePt": "Que gostoso, está delicioso! Parabéns ao chef!",
+      "pron": "é skui-ZÍ-to — o 's' soa Z",
+      "curiosity": "Squisito vem do latim 'exquisitus', que quer dizer escolhido, requintado."
+    },
+    "tr15-06": {
+      "word": "Ancora acqua, per favore",
+      "translit": null,
+      "example": "Sì, ancora acqua frizzante, grazie.",
+      "examplePt": "Sim, mais água com gás, obrigado.",
+      "pron": "an-CÓ-ra ÁC-cua per fa-VÔ-re — 'qu' soa 'cu'",
+      "curiosity": "Acqua frizzante é com gás; acqua naturale é sem gás."
+    },
+    "tr15-07": {
+      "word": "Sono vegetariano",
+      "translit": null,
+      "example": "Sono vegetariano, c'è qualcosa senza carne?",
+      "examplePt": "Sou vegetariano, tem algo sem carne?",
+      "pron": "SÔ-no ve-dje-ta-ri-Á-no — o 'g' diante de 'e' soa DJ",
+      "curiosity": "Mulher diz 'Sono vegetariana': o adjetivo concorda com o gênero."
+    },
+    "tr15-08": {
+      "word": "Da portare via, per favore",
+      "translit": null,
+      "example": "Da portare via? Subito, signora!",
+      "examplePt": "Para viagem? Já, senhora!",
+      "pron": "da por-TÁ-re VÍ-a — 'portare via'",
+      "curiosity": "Em Roma pede-se também 'da asporto' para levar comida embora."
+    },
+    "tr15-09": {
+      "word": "Il cibo è freddo",
+      "translit": null,
+      "example": "Scusi, il cibo è freddo, può scaldarlo?",
+      "examplePt": "Com licença, a comida está fria, pode esquentá-la?",
+      "pron": "il TCHÍ-bo é FRÊD-do — o 'ci' soa TCH",
+      "curiosity": "Il cibo é a comida; o gelado fica 'freddo', e o quente 'caldo'."
+    },
+    "tr15-10": {
+      "word": "Vorrei il dolce",
+      "translit": null,
+      "example": "Vorrei il dolce: una fetta di tiramisù.",
+      "examplePt": "Queria a sobremesa: uma fatia de tiramisu.",
+      "pron": "vor-RÉ-i il DÓL-tche — o 'ce' soa TCHE",
+      "curiosity": "Vorrei é a forma educada de pedir: 'eu queria', mais suave que 'voglio'."
+    },
+    "tr16-01": {
+      "word": "Ho una prenotazione",
+      "translit": null,
+      "example": "Buongiorno, ho una prenotazione a mio nome.",
+      "examplePt": "Bom dia, tenho uma reserva no meu nome.",
+      "pron": "ô U-na pre-no-ta-tsi-Ô-ne — o 'h' é mudo",
+      "curiosity": "Em italiano o 'h' de 'ho' é mudo: soa só 'ô'."
+    },
+    "tr16-02": {
+      "word": "Una camera per due notti",
+      "translit": null,
+      "example": "Una camera per due notti, con balcone, per favore.",
+      "examplePt": "Um quarto para duas noites, com sacada, por favor.",
+      "pron": "U-na CÁ-me-ra per DÚ-e NÓT-ti — o 'tt' é um T forte",
+      "curiosity": "Camera é quarto e câmara; a câmera fotográfica é 'fotocamera'."
+    },
+    "tr16-03": {
+      "word": "Mi serve un asciugamano",
+      "translit": null,
+      "example": "Mi serve un asciugamano pulito, grazie.",
+      "examplePt": "Preciso de uma toalha limpa, obrigado.",
+      "pron": "mi SÉR-ve un a-chu-ga-MÁ-no — o 'sci' soa X",
+      "curiosity": "Servire significa servir e também 'ser necessário': 'mi serve' é preciso."
+    },
+    "tr16-04": {
+      "word": "La doccia non funziona",
+      "translit": null,
+      "example": "La doccia non funziona, esce solo acqua fredda.",
+      "examplePt": "O chuveiro não funciona, sai só água fria.",
+      "pron": "la DÓT-tcha non fun-tsi-Ô-na — o 'cc' soa TCH forte",
+      "curiosity": "O chuveiro é 'la doccia' e a banheira é 'la vasca da bagno'."
+    },
+    "tr16-05": {
+      "word": "Qual è la password del wi-fi?",
+      "translit": null,
+      "example": "Certo! La password è scritta sulla tessera.",
+      "examplePt": "Claro! A senha está escrita no cartão.",
+      "pron": "cual É la PÁS-uord del uai-fai — 'qual è' sem apóstrofo",
+      "curiosity": "Em italiano diz-se 'la password' em inglês mesmo, no feminino."
+    },
+    "tr16-06": {
+      "word": "C'è la colazione?",
+      "translit": null,
+      "example": "C'è la colazione dalle sette alle dieci.",
+      "examplePt": "Tem café da manhã das sete às dez.",
+      "pron": "tchê la co-la-tsi-Ô-ne — 'c'è' soa TCHÊ",
+      "curiosity": "'C'è' significa 'há/tem' e vem de 'ci è': 'c'è un problema'."
+    },
+    "tr16-07": {
+      "word": "La chiave, per favore",
+      "translit": null,
+      "example": "Ecco la chiave, camera numero venti.",
+      "examplePt": "Aqui está a chave, quarto número vinte.",
+      "pron": "la QUIÁ-ve per fa-VÔ-re — o 'chi' soa 'qui'",
+      "curiosity": "Chiave é chave e também clave musical: 'chiave di violino'."
+    },
+    "tr16-08": {
+      "word": "Posso lasciare la valigia qui?",
+      "translit": null,
+      "example": "Certo, la lasci pure alla reception.",
+      "examplePt": "Claro, pode deixá-la na recepção.",
+      "pron": "PÓS-so la-SHÁ-re la va-LÍ-dja qui — o 'sci' soa X",
+      "curiosity": "Lasciare é deixar ou largar: 'lasciami stare' é me deixe em paz."
+    },
+    "tr16-09": {
+      "word": "C'è l'ascensore?",
+      "translit": null,
+      "example": "Sì, l'ascensore è in fondo al corridoio.",
+      "examplePt": "Sim, o elevador fica no fim do corredor.",
+      "pron": "tchê la-shen-SÔ-re — 'sc' diante de 'e' soa X",
+      "curiosity": "Ascensore vem de 'ascendere' (subir): é o que faz subir."
+    },
+    "tr16-10": {
+      "word": "Mi può svegliare alle sette?",
+      "translit": null,
+      "example": "Certo! Domani alle sette in punto, signore.",
+      "examplePt": "Claro! Amanhã às sete em ponto, senhor.",
+      "pron": "mi pu-Ó zvê-LHÁ-re — 'gli' soa 'lh'",
+      "curiosity": "Svegliare é acordar alguém; 'svegliarsi' é acordar sozinho."
+    },
+    "tr17-01": {
+      "word": "Pronto?",
+      "translit": null,
+      "example": "Pronto? Sono io, mi senti bene?",
+      "examplePt": "Alô? Sou eu, você me ouve bem?",
+      "pron": "PRÔN-to — o 'r' é vibrante",
+      "curiosity": "Pronto significa 'pronto' e também 'alô' ao atender o telefone."
+    },
+    "tr17-02": {
+      "word": "Chi parla?",
+      "translit": null,
+      "example": "Chi parla? Non riconosco il numero.",
+      "examplePt": "Quem fala? Não reconheço o número.",
+      "pron": "ki PAR-la — o 'ch' soa K",
+      "curiosity": "Quem liga e é perguntado 'Chi parla?' costuma responder: 'Sono io'."
+    },
+    "tr17-03": {
+      "word": "Un attimo, per favore",
+      "translit": null,
+      "example": "Un attimo, per favore, glielo passo subito.",
+      "examplePt": "Um instante, por favor, já passo a ele.",
+      "pron": "un AT-ti-mo per fa-VÔ-re — o 'tt' é um T forte",
+      "curiosity": "Un attimo (um instante) também é dito pelos garçons."
+    },
+    "tr17-04": {
+      "word": "Richiamo più tardi",
+      "translit": null,
+      "example": "Sono a lavoro, richiamo più tardi, ciao!",
+      "examplePt": "Estou no trabalho, ligo mais tarde, tchau!",
+      "pron": "ri-QUIÁ-mo piu TAR-di — o 'chi' soa 'qui'",
+      "curiosity": "Richiamare é chamar de volta: ligar de novo para quem ligou."
+    },
+    "tr17-05": {
+      "word": "Lasci un messaggio",
+      "translit": null,
+      "example": "Non c'è. Vuole che lasci un messaggio?",
+      "examplePt": "Ele não está. Quer deixar um recado?",
+      "pron": "LÁ-chi un mes-SÁD-djo — o 'sci' soa X, o 'ggi' soa DJ",
+      "curiosity": "Il messaggio vem de 'messo' (mensageiro) e é o recado ou a mensagem."
+    },
+    "tr17-06": {
+      "word": "Numero sbagliato",
+      "translit": null,
+      "example": "Mi scusi, ho sbagliato: numero sbagliato!",
+      "examplePt": "Desculpe, errei: número errado!",
+      "pron": "NÚ-me-ro zba-LHÁ-to — o 'gli' soa 'lh'",
+      "curiosity": "Sbagliato é errado; sbagliare é errar; 'Mi sono sbagliato' é errei."
+    },
+    "tr17-07": {
+      "word": "La linea è occupata",
+      "translit": null,
+      "example": "Riprovo dopo, la linea è occupata.",
+      "examplePt": "Tento depois, a linha está ocupada.",
+      "pron": "la LÍ-ne-a é oc-cu-PÁ-ta — o 'cc' soa K forte",
+      "curiosity": "Occupato vale para telefone, banheiro e lugar: tudo 'ocupado'."
+    },
+    "tr17-08": {
+      "word": "Ho la batteria scarica",
+      "translit": null,
+      "example": "Aspetta, ho la batteria scarica, richiamo.",
+      "examplePt": "Espere, estou sem bateria, ligo de volta.",
+      "pron": "ô la bat-te-RÍ-a SCÁ-ri-ca — o 'sc' soa SC",
+      "curiosity": "Scarica vem de 'scaricare' (descarregar): bateria descarregada."
+    },
+    "tr17-09": {
+      "word": "Non c'è campo",
+      "translit": null,
+      "example": "Non c'è campo qui, vado sul balcone.",
+      "examplePt": "Não tem sinal aqui, vou para a sacada.",
+      "pron": "non tchê CÃM-po — 'c'è' soa TCHÊ",
+      "curiosity": "'Campo' também é o sinal do celular: 'non c'è campo' é estar sem sinal."
+    },
+    "tr17-10": {
+      "word": "Mi puoi chiamare?",
+      "translit": null,
+      "example": "Mi puoi chiamare dopo cena, per favore?",
+      "examplePt": "Você pode me ligar depois do jantar?",
+      "pron": "mi pu-Ói quia-MÁ-re — o 'chi' soa 'qui'",
+      "curiosity": "Chiamare serve para ligar, chamar e se chamar: 'mi chiamo...'."
+    },
+    "tr18-01": {
+      "word": "Ha una taglia più grande?",
+      "translit": null,
+      "example": "Ha una taglia più grande di questa?",
+      "examplePt": "Tem um tamanho maior que este?",
+      "pron": "a U-na TÁ-lha piu GRÃN-de — 'gl' soa 'lh'",
+      "curiosity": "Taglia é tamanho de roupa; para sapatos se diz 'numero'."
+    },
+    "tr18-02": {
+      "word": "È troppo caro",
+      "translit": null,
+      "example": "È troppo caro, non ho abbastanza soldi.",
+      "examplePt": "É caro demais, não tenho dinheiro suficiente.",
+      "pron": "é TROP-po CÁ-ro — o 'pp' é forte",
+      "curiosity": "Caro em italiano também significa 'querido': 'caro amico'."
+    },
+    "tr18-03": {
+      "word": "C'è lo sconto?",
+      "translit": null,
+      "example": "C'è lo sconto per i bambini?",
+      "examplePt": "Tem desconto para crianças?",
+      "pron": "tchê lo SCÓN-to — o 'sc' soa SC",
+      "curiosity": "Sconto é desconto; os saldos de fim de estação são 'i saldi'."
+    },
+    "tr18-04": {
+      "word": "Sto solo guardando",
+      "translit": null,
+      "example": "Grazie, sto solo guardando, non compro nulla.",
+      "examplePt": "Obrigado, só estou olhando, não compro nada.",
+      "pron": "sto SÔ-lo guar-DÁN-do — 'gu' soa 'gu' de 'guarda'",
+      "curiosity": "Em italiano, 'sto + gerúndio' é a forma contínua do verbo: sto guardando."
+    },
+    "tr18-05": {
+      "word": "Prendo questo",
+      "translit": null,
+      "example": "Prendo questo, ma in blu, per favore.",
+      "examplePt": "Vou levar este, mas em azul, por favor.",
+      "pron": "PRÊN-do cuês-to — 'qu' soa 'cu'",
+      "curiosity": "Prendere é pegar: nas lojas, 'prendo questo' é 'vou levar este'."
+    },
+    "tr18-06": {
+      "word": "Accettate carte?",
+      "translit": null,
+      "example": "Accettate carte o solo contanti?",
+      "examplePt": "Vocês aceitam cartão ou só dinheiro?",
+      "pron": "at-tchet-TÁ-te CÁR-te — 'cc' soa TCH",
+      "curiosity": "Contanti é dinheiro em espécie; 'in contanti' é pagar com notas."
+    },
+    "tr18-07": {
+      "word": "Ce l'avete in un altro colore?",
+      "translit": null,
+      "example": "Ce l'avete in un altro colore, magari verde?",
+      "examplePt": "Vocês têm em outra cor, talvez verde?",
+      "pron": "tche la-VÊ-te in un AL-tro co-LÔ-re — 'ce' soa TCHE",
+      "curiosity": "'Ce l'avete?' é 'vocês têm isso?': 'ci' + 'lo' + 'avete'."
+    },
+    "tr18-08": {
+      "word": "Mi serve una busta",
+      "translit": null,
+      "example": "Mi serve una busta grande, grazie.",
+      "examplePt": "Preciso de uma sacola grande, obrigado.",
+      "pron": "mi SÉR-ve U-na BÚS-ta — 'u' tônico",
+      "curiosity": "Busta é envelope e também sacola pequena: 'busta di plastica'."
+    },
+    "tr18-09": {
+      "word": "È un regalo",
+      "translit": null,
+      "example": "È un regalo, può fare un bel fiocco?",
+      "examplePt": "É um presente, pode fazer um laço bonito?",
+      "pron": "é un re-GÁ-lo — o 'g' é duro",
+      "curiosity": "Regalo vem do verbo regalare; um 'pacco regalo' é um embrulho de presente."
+    },
+    "tr18-10": {
+      "word": "Dov'è la cassa?",
+      "translit": null,
+      "example": "Dov'è la cassa? Vorrei pagare, per favore.",
+      "examplePt": "Onde fica o caixa? Quero pagar, por favor.",
+      "pron": "do-VÉ la CÁS-sa — 'dov'è' soa 'dovê'",
+      "curiosity": "La cassa é o caixa e também a caixa de som e a caixa de madeira."
+    },
+    "tr19-01": {
+      "word": "Gira a sinistra",
+      "translit": null,
+      "example": "Gira a sinistra al semaforo, poi dritto.",
+      "examplePt": "Vire à esquerda no semáforo, depois siga reto.",
+      "pron": "DJÍ-ra a si-NÍS-tra — 'gi' soa DJ",
+      "curiosity": "Sinistra e destra são femininos: 'a sinistra' é à esquerda, 'a destra' à direita."
+    },
+    "tr19-02": {
+      "word": "Gira a destra",
+      "translit": null,
+      "example": "Gira a destra dopo la farmacia, vedrai.",
+      "examplePt": "Vire à direita depois da farmácia, você verá.",
+      "pron": "DJÍ-ra a DÉS-tra — 'gi' soa DJ",
+      "curiosity": "'Destro' é quem usa a mão direita, e 'mancino' é quem usa a esquerda."
+    },
+    "tr19-03": {
+      "word": "Vai dritto",
+      "translit": null,
+      "example": "Vai dritto fino alla piazza grande.",
+      "examplePt": "Siga em frente até a praça grande.",
+      "pron": "VAI DRÍT-to — 'ai' como em 'pai'",
+      "curiosity": "Dritto (reto) também se escreve 'diritto' e quer dizer direito, de lei."
+    },
+    "tr19-04": {
+      "word": "Attraversa la strada",
+      "translit": null,
+      "example": "Attraversa la strada sulle strisce, con attenzione!",
+      "examplePt": "Atravesse a rua na faixa, com atenção!",
+      "pron": "at-tra-VÉR-sa la STRÁ-da — o 'tt' é um T forte",
+      "curiosity": "Le strisce pedonali são a faixa de pedestres, 'listras'."
+    },
+    "tr19-05": {
+      "word": "Indicalo sulla mappa",
+      "translit": null,
+      "example": "Indicalo sulla mappa, non lo trovo!",
+      "examplePt": "Aponte no mapa, não o encontro!",
+      "pron": "in-DÍ-ca-lo SUL-la MÁP-pa — 'pp' forte",
+      "curiosity": "Mappa é o mapa; 'mappamondo' é o globo terrestre."
+    },
+    "tr19-06": {
+      "word": "Dov'è la stazione?",
+      "translit": null,
+      "example": "Dov'è la stazione dei treni, per favore?",
+      "examplePt": "Onde fica a estação de trem, por favor?",
+      "pron": "do-VÉ la sta-tsi-Ô-ne — 'zi' soa TSI",
+      "curiosity": "Stazione serve para trem, mas 'fermata' é a parada de ônibus."
+    },
+    "tr19-07": {
+      "word": "È lontano da qui?",
+      "translit": null,
+      "example": "È lontano da qui o posso andare a piedi?",
+      "examplePt": "Fica longe daqui, ou posso ir a pé?",
+      "pron": "é lon-TÁ-no da qui — 'qu' soa 'cu'",
+      "curiosity": "'A piedi' é 'a pé'; 'in macchina' é de carro."
+    },
+    "tr19-08": {
+      "word": "Quanto ci vuole?",
+      "translit": null,
+      "example": "Quanto ci vuole per arrivare al mare?",
+      "examplePt": "Quanto tempo leva para chegar ao mar?",
+      "pron": "CUÃN-to tchi vu-Ó-le — 'qu' soa 'cu', 'ci' soa TCHI",
+      "curiosity": "'Ci vuole' é uma forma impessoal: 'ci vuole un'ora' é leva uma hora."
+    },
+    "tr19-09": {
+      "word": "Sono in ritardo",
+      "translit": null,
+      "example": "Sono in ritardo, il bus non passa!",
+      "examplePt": "Estou atrasado, o ônibus não passa!",
+      "pron": "SÔ-no in ri-TÁR-do — força no 'tár'",
+      "curiosity": "Ritardo é atraso; 'in anticipo' é adiantado, e 'in orario' é pontual."
+    },
+    "tr19-10": {
+      "word": "Ho perso l'autobus",
+      "translit": null,
+      "example": "Ho perso l'autobus, arrivo dopo di voi.",
+      "examplePt": "Perdi o ônibus, chego depois de vocês.",
+      "pron": "ô PÉR-so lau-TÔ-bus — 'au' é ditongo",
+      "curiosity": "Autobus é masculino; a abreviação familiar é 'il bus'."
+    },
+    "tr20-01": {
+      "word": "Che ore sono?",
+      "translit": null,
+      "example": "Scusi, che ore sono? Il treno parte alle tre.",
+      "examplePt": "Com licença, que horas são? O trem sai às três.",
+      "pron": "ke Ô-re SÔ-no — 'ch' soa K",
+      "curiosity": "Em italiano se pergunta 'Che ore sono?' no plural, pois são várias horas."
+    },
+    "tr20-02": {
+      "word": "Che giorno è oggi?",
+      "translit": null,
+      "example": "Che giorno è oggi? Giovedì o venerdì?",
+      "examplePt": "Que dia é hoje? Quinta ou sexta?",
+      "pron": "ke DJÓR-no é ÓD-dji — 'gi' soa DJ",
+      "curiosity": "Os dias da semana são masculinos, menos 'la domenica' (domingo)."
+    },
+    "tr20-03": {
+      "word": "Sta piovendo",
+      "translit": null,
+      "example": "Sta piovendo forte, prendi l'ombrello!",
+      "examplePt": "Está chovendo forte, leve o guarda-chuva!",
+      "pron": "sta pio-VÊN-do — 'v' como em 'vaca'",
+      "curiosity": "Piovere é um verbo impessoal: 'piove' sem sujeito."
+    },
+    "tr20-04": {
+      "word": "Fa caldo",
+      "translit": null,
+      "example": "Fa caldo oggi, andiamo a fare il bagno?",
+      "examplePt": "Faz calor hoje, vamos tomar banho de mar?",
+      "pron": "fa CÁL-do — o 'a' é aberto",
+      "curiosity": "Para o tempo se diz 'fa caldo' e 'fa freddo', usando o verbo fare."
+    },
+    "tr20-05": {
+      "word": "Ho fretta",
+      "translit": null,
+      "example": "Ho fretta, ci vediamo domani, ciao!",
+      "examplePt": "Estou com pressa, nos vemos amanhã, tchau!",
+      "pron": "ô FRÉT-ta — o 'tt' é forte",
+      "curiosity": "Fretta é pressa; 'in fretta' é o modo de dizer 'rapidamente'."
+    },
+    "tr20-06": {
+      "word": "Sono occupato",
+      "translit": null,
+      "example": "Sono occupato adesso, ti chiamo dopo.",
+      "examplePt": "Estou ocupado agora, te ligo depois.",
+      "pron": "SÔ-no oc-cu-PÁ-to — 'cc' soa K forte",
+      "curiosity": "Occupato é ocupado; feminino é 'occupata'."
+    },
+    "tr20-07": {
+      "word": "Sono in vacanza",
+      "translit": null,
+      "example": "Sono in vacanza al mare con la famiglia.",
+      "examplePt": "Estou de férias na praia com a família.",
+      "pron": "SÔ-no in va-CÃN-tsa — 'v' como em 'vaca'",
+      "curiosity": "Vacanza, em italiano, tem o 'z': 'vacanze' no plural."
+    },
+    "tr20-08": {
+      "word": "Ho un'idea",
+      "translit": null,
+      "example": "Ho un'idea! Facciamo una torta insieme?",
+      "examplePt": "Tenho uma ideia! Fazemos um bolo juntos?",
+      "pron": "ô un i-DÉ-a — o 'h' é mudo",
+      "curiosity": "Idea é feminino e começa com vogal: un'idea com apóstrofo."
+    },
+    "tr20-09": {
+      "word": "Sto arrivando",
+      "translit": null,
+      "example": "Sto arrivando, ancora cinque minuti!",
+      "examplePt": "Estou chegando, mais cinco minutos!",
+      "pron": "sto ar-ri-VÃN-do — 'rr' vibrante",
+      "curiosity": "Sto arrivando é a forma contínua e também vale para 'já vou'."
+    },
+    "tr20-10": {
+      "word": "Non ho fame",
+      "translit": null,
+      "example": "Non ho fame, ho mangiato troppo prima.",
+      "examplePt": "Não estou com fome, comi demais antes.",
+      "pron": "non ô FÁ-me — 'h' mudo",
+      "curiosity": "Fame é fome, e 'avere una fame da lupo' é ter fome de lobo."
+    },
+    "tr21-01": {
+      "word": "poiché",
+      "translit": null,
+      "example": "Rimango a casa poiché fuori piove tanto.",
+      "examplePt": "Fico em casa porque lá fora chove muito.",
+      "pron": "poi-KÊ — o 'ch' soa K",
+      "curiosity": "Poiché é mais formal que 'perché' e aparece mais na escrita."
+    },
+    "tr21-02": {
+      "word": "ma",
+      "translit": null,
+      "example": "Mi piace il mare, ma non nuoto.",
+      "examplePt": "Gosto do mar, mas não nado.",
+      "pron": "MÁ — curto e aberto",
+      "curiosity": "Ma é a palavra para 'mas'; 'però' significa o mesmo e pode ir no meio da frase."
+    },
+    "tr21-03": {
+      "word": "quindi",
+      "translit": null,
+      "example": "Ho sonno, quindi vado a letto.",
+      "examplePt": "Estou com sono, então vou dormir.",
+      "pron": "CUÍN-di — 'qu' soa 'cu'",
+      "curiosity": "Quindi serve para concluir, como 'então', mas não é 'quando'."
+    },
+    "tr21-04": {
+      "word": "sebbene",
+      "translit": null,
+      "example": "Sebbene sia stanco, vengo alla festa.",
+      "examplePt": "Embora esteja cansado, vou à festa.",
+      "pron": "seb-BÊ-ne — o 'bb' é um B longo",
+      "curiosity": "Sebbene exige o congiuntivo: 'sebbene sia', e não 'sebbene è'."
+    },
+    "tr21-05": {
+      "word": "mentre",
+      "translit": null,
+      "example": "Mentre cucino, ascolto la radio.",
+      "examplePt": "Enquanto cozinho, escuto o rádio.",
+      "pron": "MÊN-tre — força no 'mên'",
+      "curiosity": "Mentre também funciona com 'intanto' (enquanto isso)."
+    },
+    "tr21-06": {
+      "word": "cioè",
+      "translit": null,
+      "example": "Vado dal dentista, cioè, domani mattina.",
+      "examplePt": "Vou ao dentista, ou seja, amanhã de manhã.",
+      "pron": "tcho-É — o acento marca a última sílaba",
+      "curiosity": "Cioè é 'ciò è' (isto é) escrito junto, por isso tem acento."
+    },
+    "tr21-07": {
+      "word": "inoltre",
+      "translit": null,
+      "example": "Inoltre, c'è anche una piscina grande.",
+      "examplePt": "Além disso, também tem uma piscina grande.",
+      "pron": "i-nól-TRE — 'ol' é aberto",
+      "curiosity": "Inoltre é formal; na fala se usa mais 'poi' ou 'in più'."
+    },
+    "tr21-08": {
+      "word": "comunque",
+      "translit": null,
+      "example": "Piove, ma esco comunque con l'ombrello.",
+      "examplePt": "Está chovendo, mas saio mesmo assim com guarda-chuva.",
+      "pron": "co-MÚN-cue — 'qu' soa 'cue'",
+      "curiosity": "Comunque também quer dizer 'de todo modo' e pode abrir uma frase."
+    },
+    "tr21-09": {
+      "word": "altrimenti",
+      "translit": null,
+      "example": "Corri, altrimenti perdiamo il treno!",
+      "examplePt": "Corra, caso contrário perdemos o trem!",
+      "pron": "al-tri-MÊN-ti — o 'r' é vibrante",
+      "curiosity": "Altrimenti vem de 'altri modi' (de outros modos)."
+    },
+    "tr21-10": {
+      "word": "appena",
+      "translit": null,
+      "example": "Ti chiamo appena arrivo a casa.",
+      "examplePt": "Eu te ligo assim que chegar em casa.",
+      "pron": "ap-PÊ-na — o 'pp' é forte",
+      "curiosity": "Appena também significa 'apenas, mal': 'appena sveglio' é mal acordado."
+    },
+    "tr22-01": {
+      "word": "sempre",
+      "translit": null,
+      "example": "Mia nonna dice sempre la verità.",
+      "examplePt": "Minha avó sempre diz a verdade.",
+      "pron": "SÊM-pre — o 'e' final se pronuncia",
+      "curiosity": "Sempre também aparece em 'per sempre', que quer dizer 'para sempre'."
+    },
+    "tr22-02": {
+      "word": "mai",
+      "translit": null,
+      "example": "Non vado mai al cinema da solo.",
+      "examplePt": "Nunca vou ao cinema sozinho.",
+      "pron": "MAI — como em 'mais' sem o 's'",
+      "curiosity": "Em italiano o 'mai' pede 'non' antes do verbo: 'non vado mai'."
+    },
+    "tr22-03": {
+      "word": "a volte",
+      "translit": null,
+      "example": "A volte mangio il gelato a colazione.",
+      "examplePt": "Às vezes tomo sorvete no café da manhã.",
+      "pron": "a VÓL-te — o 'v' como em 'vaca'",
+      "curiosity": "A volte é literalmente 'a vezes': 'volta' é vez em italiano."
+    },
+    "tr22-04": {
+      "word": "quasi",
+      "translit": null,
+      "example": "Ho quasi finito i compiti, aspetta.",
+      "examplePt": "Quase terminei a lição, espere.",
+      "pron": "CUÁ-zi — o 's' soa Z",
+      "curiosity": "Quasi é 'quase', mas 'quasi' sozinho também responde 'quase!'."
+    },
+    "tr22-05": {
+      "word": "ancora",
+      "translit": null,
+      "example": "Hai ancora fame dopo tutta quella pasta?",
+      "examplePt": "Você ainda está com fome depois de tanto macarrão?",
+      "pron": "an-CÓ-ra — o 'c' é duro",
+      "curiosity": "Ancora = ainda, mas também 'de novo': 'ancora una volta'."
+    },
+    "tr22-06": {
+      "word": "già",
+      "translit": null,
+      "example": "Hai già finito? Sei velocissimo!",
+      "examplePt": "Já terminou? Você é rapidíssimo!",
+      "pron": "DJÁ — o acento marca a sílaba",
+      "curiosity": "Già leva acento no 'a' para ficar diferente de 'gia'."
+    },
+    "tr22-07": {
+      "word": "fra poco",
+      "translit": null,
+      "example": "Fra poco arriviamo, guarda il mare!",
+      "examplePt": "Em breve chegamos, olha o mar!",
+      "pron": "fra PÓ-co — o 'r' é vibrante",
+      "curiosity": "Fra e tra são sinônimos: 'fra poco' e 'tra poco' valem igual."
+    },
+    "tr22-08": {
+      "word": "presto",
+      "translit": null,
+      "example": "Domani mi alzo presto per l'escursione.",
+      "examplePt": "Amanhã me levanto cedo para a excursão.",
+      "pron": "PRÉS-to — o 'e' é aberto",
+      "curiosity": "Presto também é termo musical: 'presto' pede andamento rápido."
+    },
+    "tr22-09": {
+      "word": "di solito",
+      "translit": null,
+      "example": "Di solito faccio colazione alle sette.",
+      "examplePt": "Geralmente tomo café da manhã às sete.",
+      "pron": "di SÔ-li-to — 'o' fechado",
+      "curiosity": "Di solito literalmente é 'do costume': 'solito' é o habitual."
+    },
+    "tr22-10": {
+      "word": "raramente",
+      "translit": null,
+      "example": "Raramente mangio dolci prima di cena.",
+      "examplePt": "Raramente como doces antes do jantar.",
+      "pron": "ra-ra-MÊN-te — o 'r' é vibrante",
+      "curiosity": "Raramente se forma de 'raro' + '-mente', como 'lentamente'."
+    },
+    "tr23-01": {
+      "word": "Secondo me",
+      "translit": null,
+      "example": "Secondo me, la torta è già pronta.",
+      "examplePt": "Na minha opinião, o bolo já está pronto.",
+      "pron": "se-CÔN-do mê — o 'e' final é fechado",
+      "curiosity": "Secondo é 'segundo' como ordinal e também 'de acordo com'."
+    },
+    "tr23-02": {
+      "word": "Dipende",
+      "translit": null,
+      "example": "Vieni domani? Dipende dal tempo.",
+      "examplePt": "Você vem amanhã? Depende do tempo.",
+      "pron": "di-PÊN-de — o 'e' final se pronuncia",
+      "curiosity": "Dipende é a resposta mais usada pelos italianos quando não decidem."
+    },
+    "tr23-03": {
+      "word": "Non sono sicuro",
+      "translit": null,
+      "example": "Non sono sicuro, forse è quella casa.",
+      "examplePt": "Não tenho certeza, talvez seja aquela casa.",
+      "pron": "non SÔ-no si-CÚ-ro — o 'c' diante de 'u' é K",
+      "curiosity": "Sicuro é seguro e também certo: 'sono sicuro' é 'tenho certeza'."
+    },
+    "tr23-04": {
+      "word": "Hai ragione",
+      "translit": null,
+      "example": "Hai ragione, avevo capito male io.",
+      "examplePt": "Você tem razão, entendi mal.",
+      "pron": "ai ra-DJÔ-ne — o 'gi' soa DJ",
+      "curiosity": "Em italiano se 'ha ragione' (tem razão) e se 'ha torto' (está errado)."
+    },
+    "tr23-05": {
+      "word": "Mi sono sbagliato",
+      "translit": null,
+      "example": "Mi sono sbagliato: non era martedì, era lunedì.",
+      "examplePt": "Eu me enganei: não era terça, era segunda.",
+      "pron": "mi SÔ-no zba-LHÁ-to — o 'gli' soa 'lh'",
+      "curiosity": "Sbagliare é errar; 'sbagliato' é errado e também errou o jeito."
+    },
+    "tr23-06": {
+      "word": "Non è così grave",
+      "translit": null,
+      "example": "Non è così grave, è solo un graffio.",
+      "examplePt": "Não é para tanto, é só um arranhão.",
+      "pron": "non é co-ZÍ GRÁ-ve — 'gr' é como em 'grande'",
+      "curiosity": "Il graffio é o arranhão; 'grave' também significa sério."
+    },
+    "tr23-07": {
+      "word": "Stai tranquillo",
+      "translit": null,
+      "example": "Stai tranquillo, l'esame va benissimo, vedrai.",
+      "examplePt": "Fique tranquilo, o exame vai muito bem.",
+      "pron": "STAI tran-CUÍL-lo — 'qu' soa 'cu', 'll' longo",
+      "curiosity": "Stare é 'ficar' e 'estar': 'stai tranquillo' é literalmente 'fica tranquilo'."
+    },
+    "tr23-08": {
+      "word": "Penso di sì",
+      "translit": null,
+      "example": "Piove domani? Penso di sì, guarda le nuvole.",
+      "examplePt": "Vai chover amanhã? Acho que sim, olha as nuvens.",
+      "pron": "PÊN-so di SÍ — o acento no 'sì'",
+      "curiosity": "Sì com acento é 'sim'; sem acento, 'si' é o pronome 'se'."
+    },
+    "tr23-09": {
+      "word": "Penso di no",
+      "translit": null,
+      "example": "Vieni con noi? Penso di no, grazie.",
+      "examplePt": "Você vem com a gente? Acho que não, obrigado.",
+      "pron": "PÊN-so di NÓ — o 'o' é aberto",
+      "curiosity": "Em italiano é 'penso di no', e não 'penso que não'."
+    },
+    "tr23-10": {
+      "word": "Non mi importa",
+      "translit": null,
+      "example": "Non mi importa se piove, esco lo stesso.",
+      "examplePt": "Não me importo se chove, eu saio assim mesmo.",
+      "pron": "non mi im-PÓR-ta — o 'o' é aberto",
+      "curiosity": "Importare é importar e também 'importar-se': 'non importa' é 'não importa'."
+    },
+    "tr24-01": {
+      "word": "Mi puoi aiutare?",
+      "translit": null,
+      "example": "Mi puoi aiutare con questa borsa pesante?",
+      "examplePt": "Pode me ajudar com esta bolsa pesada?",
+      "pron": "mi pu-Ói ai-u-TÁ-re — 'ai' ditongo",
+      "curiosity": "Aiuto! pede socorro, e 'Mi aiuti?' pede um favor."
+    },
+    "tr24-02": {
+      "word": "Posso farti una domanda?",
+      "translit": null,
+      "example": "Posso farti una domanda sul compito di domani?",
+      "examplePt": "Posso te fazer uma pergunta sobre a tarefa de amanhã?",
+      "pron": "PÓS-so FAR-ti U-na do-MÃN-da — 'a' aberto",
+      "curiosity": "Fare una domanda é fazer uma pergunta, mas 'domandare' é perguntar."
+    },
+    "tr24-03": {
+      "word": "È colpa mia",
+      "translit": null,
+      "example": "È colpa mia, ho lasciato aperta la finestra.",
+      "examplePt": "A culpa é minha, deixei a janela aberta.",
+      "pron": "é CÓL-pa MÍ-a — 'ol' é aberto",
+      "curiosity": "Colpa e 'colpevole' vêm do latim 'culpa', irmã da nossa 'culpa'."
+    },
+    "tr24-04": {
+      "word": "Non l'ho fatto apposta",
+      "translit": null,
+      "example": "Scusa, non l'ho fatto apposta, mi è scivolato.",
+      "examplePt": "Desculpe, foi sem querer, escorregou.",
+      "pron": "non lô FÁT-to ap-PÓS-ta — 'h' mudo",
+      "curiosity": "Apposta é de propósito: 'non l'ho fatto apposta' = sem querer."
+    },
+    "tr24-05": {
+      "word": "Mi sono dimenticato",
+      "translit": null,
+      "example": "Scusa, mi sono dimenticato il tuo compleanno.",
+      "examplePt": "Desculpa, esqueci o seu aniversário.",
+      "pron": "mi SÔ-no di-men-ti-CÁ-to — o 'c' diante de 'a' é K",
+      "curiosity": "Dimenticare significa esquecer e 'dimenticarsi' é esquecer-se de algo."
+    },
+    "tr24-06": {
+      "word": "Ho un problema",
+      "translit": null,
+      "example": "Aiuto! Ho un problema con il computer.",
+      "examplePt": "Socorro! Tenho um problema com o computador.",
+      "pron": "ô un pro-BLÉ-ma — 'h' mudo",
+      "curiosity": "Il problema é masculino, apesar de terminar em -a: 'i problemi'."
+    },
+    "tr24-07": {
+      "word": "Non so cosa fare",
+      "translit": null,
+      "example": "Non so cosa fare, ho perso la mappa.",
+      "examplePt": "Não sei o que fazer, perdi o mapa.",
+      "pron": "non SÓ CÓ-za FÁ-re — 'cosa' com Z",
+      "curiosity": "'Cosa' sozinho já significa 'o quê': 'cosa fai?'."
+    },
+    "tr24-08": {
+      "word": "Ci penso io",
+      "translit": null,
+      "example": "Tranquillo, ci penso io, non ti preoccupare.",
+      "examplePt": "Tranquilo, eu cuido disso, não se preocupe.",
+      "pron": "tchi PÊN-so Í-o — 'ci' soa TCHI",
+      "curiosity": "Ci penso io é literalmente 'penso nisso eu': prometem cuidar do assunto."
+    },
+    "tr24-09": {
+      "word": "Grazie di tutto",
+      "translit": null,
+      "example": "Grazie di tutto, sei stato un vero amico.",
+      "examplePt": "Obrigado por tudo, você foi um amigo de verdade.",
+      "pron": "GRÁ-tsie di TÚT-to — 'zie' soa TSIE",
+      "curiosity": "Ao agradecer, o italiano responde 'Prego!' (de nada)."
+    },
+    "tr24-10": {
+      "word": "Andrà tutto bene",
+      "translit": null,
+      "example": "Andrà tutto bene, vedrai: ce la faremo!",
+      "examplePt": "Tudo vai dar certo, você verá: vamos conseguir!",
+      "pron": "an-DRÁ TÚT-to BÊ-ne — acento no 'drà'",
+      "curiosity": "Durante a pandemia de 2020 'Andrà tutto bene' virou slogan nas janelas da Itália."
+    },
+    "tr25-01": {
+      "word": "Ho mal di testa",
+      "translit": null,
+      "example": "Ho mal di testa, posso riposare?",
+      "examplePt": "Estou com dor de cabeça, posso descansar?",
+      "pron": "ô mal di TÉS-ta — 'h' mudo",
+      "curiosity": "Italiano diz 'ter mal de cabeça': ho mal di testa."
+    },
+    "tr25-02": {
+      "word": "Ho mal di pancia",
+      "translit": null,
+      "example": "Ho mal di pancia, ho mangiato troppo gelato.",
+      "examplePt": "Estou com dor de barriga, comi sorvete demais.",
+      "pron": "ô mal di PÃN-tcha — 'ncia' soa TCHA",
+      "curiosity": "Pancia é barriga e 'panciotto' é o colete."
+    },
+    "tr25-03": {
+      "word": "Mi fa male qui",
+      "translit": null,
+      "example": "Mi fa male qui, vicino al ginocchio.",
+      "examplePt": "Dói aqui, perto do joelho.",
+      "pron": "mi fa MÁ-le cui — 'qui' soa 'cui'",
+      "curiosity": "Com partes do corpo se diz 'mi fa male la gamba'."
+    },
+    "tr25-04": {
+      "word": "Mi sento male",
+      "translit": null,
+      "example": "Mi sento male, posso sedermi un attimo?",
+      "examplePt": "Estou me sentindo mal, posso sentar um instante?",
+      "pron": "mi SÊN-to MÁ-le — 'e' fechado",
+      "curiosity": "Stare male e sentirsi male são quase iguais em italiano."
+    },
+    "tr25-05": {
+      "word": "Ho bisogno di un medico",
+      "translit": null,
+      "example": "Ho bisogno di un medico, per favore, presto!",
+      "examplePt": "Preciso de um médico, por favor, depressa!",
+      "pron": "ô bi-ZÔ-nho di un MÉ-di-co — 'gn' soa 'nh'",
+      "curiosity": "Il medico trabalha em 'l'ambulatorio', e a urgência é 'il pronto soccorso'."
+    },
+    "tr25-06": {
+      "word": "Sono allergico alle arachidi",
+      "translit": null,
+      "example": "Sono allergico alle arachidi, c'è qualche dolce senza?",
+      "examplePt": "Sou alérgico a amendoim, tem algum doce sem?",
+      "pron": "SÔ-no al-LÉR-dji-co al-le a-RÁ-ki-di — 'gi' soa DJ",
+      "curiosity": "Arachidi é o amendoim, e também se diz 'noccioline americane'."
+    },
+    "tr25-07": {
+      "word": "Ho un appuntamento dal medico",
+      "translit": null,
+      "example": "Ho un appuntamento dal medico alle quattro.",
+      "examplePt": "Tenho uma consulta no médico às quatro.",
+      "pron": "ô un ap-pun-ta-MÊN-to — 'h' mudo",
+      "curiosity": "Appuntamento serve para consulta e para encontros marcados."
+    },
+    "tr25-08": {
+      "word": "Sono raffreddato",
+      "translit": null,
+      "example": "Sono raffreddato, ho il naso che cola.",
+      "examplePt": "Estou resfriado, meu nariz está escorrendo.",
+      "pron": "SÔ-no raf-fred-DÁ-to — o 'ff' é forte",
+      "curiosity": "Raffreddore é o resfriado e vem de 'freddo' (frio)."
+    },
+    "tr25-09": {
+      "word": "Devo riposare",
+      "translit": null,
+      "example": "Devo riposare, oggi sono troppo stanco.",
+      "examplePt": "Preciso descansar, hoje estou cansado demais.",
+      "pron": "DÊ-vo ri-po-ZÁ-re — 's' soa Z",
+      "curiosity": "Dovere indica obrigação: 'devo' é 'preciso' e também 'devo'."
+    },
+    "tr25-10": {
+      "word": "Sto già meglio",
+      "translit": null,
+      "example": "Sto già meglio, grazie, è passata la febbre.",
+      "examplePt": "Já estou melhor, obrigado, a febre passou.",
+      "pron": "sto djá MÉ-lho — 'gli' soa 'lh'",
+      "curiosity": "Meglio é melhor (advérbio) e 'migliore' é melhor (adjetivo)."
+    },
+    "tr26-01": {
+      "word": "Qual è il mio gate?",
+      "translit": null,
+      "example": "Qual è il mio gate? Il volo parte alle dieci.",
+      "examplePt": "Qual é o meu portão? O voo sai às dez.",
+      "pron": "cual É il MÍ-o guêit — 'qual è' sem apóstrofo",
+      "curiosity": "Em aeroportos italianos aparece 'gate' em inglês mesmo."
+    },
+    "tr26-02": {
+      "word": "Il mio volo è stato cancellato",
+      "translit": null,
+      "example": "Il mio volo è stato cancellato per il maltempo.",
+      "examplePt": "Meu voo foi cancelado por causa do mau tempo.",
+      "pron": "il MÍ-o VÓ-lo é STÁ-to can-tchel-LÁ-to — 'ce' soa TCHE",
+      "curiosity": "Il volo é o voo, e 'volare' é voar."
+    },
+    "tr26-03": {
+      "word": "Il volo è in ritardo",
+      "translit": null,
+      "example": "Il volo è in ritardo di un'ora.",
+      "examplePt": "O voo está atrasado uma hora.",
+      "pron": "il VÓ-lo é in ri-TÁR-do — 'tár' tônico",
+      "curiosity": "Ritardo = atraso; 'in orario' = no horário, pontual."
+    },
+    "tr26-04": {
+      "word": "Ho perso il bagaglio",
+      "translit": null,
+      "example": "Ho perso il bagaglio, dove devo andare?",
+      "examplePt": "Perdi a bagagem, aonde devo ir?",
+      "pron": "ô PÉR-so il ba-GÁ-lio — 'gli' soa 'lh'",
+      "curiosity": "Il bagaglio é a bagagem e vem do francês 'bagage'."
+    },
+    "tr26-05": {
+      "word": "Dove ritiro i bagagli?",
+      "translit": null,
+      "example": "Dove ritiro i bagagli? Il nastro due, signora.",
+      "examplePt": "Onde pego as malas? Na esteira dois, senhora.",
+      "pron": "DÔ-ve ri-TÍ-ro i ba-GÁ-lhi — 'gli' soa 'lh'",
+      "curiosity": "Ritirare é retirar ou pegar algo: 'ritirare i bagagli'."
+    },
+    "tr26-06": {
+      "word": "Ho qualcosa da dichiarare",
+      "translit": null,
+      "example": "Ho qualcosa da dichiarare: un orologio nuovo.",
+      "examplePt": "Tenho algo a declarar: um relógio novo.",
+      "pron": "ô cual-CÓ-za da di-quia-RÁ-re — 'qualcosa' com Z",
+      "curiosity": "Dichiarare vem do latim 'declarare', como o nosso 'declarar'."
+    },
+    "tr26-07": {
+      "word": "Sono qui per turismo",
+      "translit": null,
+      "example": "Sono qui per turismo, resto una settimana.",
+      "examplePt": "Estou aqui a passeio, fico uma semana.",
+      "pron": "SÔ-no cui per tu-RÍZ-mo — 's' soa Z",
+      "curiosity": "Turismo e 'vacanza' são as respostas comuns na alfândega."
+    },
+    "tr26-08": {
+      "word": "Preferisco il finestrino",
+      "translit": null,
+      "example": "Preferisco il finestrino, così guardo le nuvole.",
+      "examplePt": "Prefiro a janela, assim olho as nuvens.",
+      "pron": "pre-fe-RÍS-co il fi-nes-TRÍ-no — 'sc' soa SC",
+      "curiosity": "Finestrino é a janelinha de carros, trens e aviões."
+    },
+    "tr26-09": {
+      "word": "Devo cambiare dei soldi",
+      "translit": null,
+      "example": "Devo cambiare dei soldi, c'è un cambio qui?",
+      "examplePt": "Preciso trocar dinheiro, tem uma casa de câmbio aqui?",
+      "pron": "DÊ-vo cam-BIÁ-re dei SÓL-di — o 'o' de 'soldi' é aberto",
+      "curiosity": "Soldi (dinheiro) vem de 'soldo', antiga moeda romana."
+    },
+    "tr26-10": {
+      "word": "Ecco il mio passaporto",
+      "translit": null,
+      "example": "Ecco il mio passaporto e il biglietto.",
+      "examplePt": "Aqui está meu passaporte e a passagem.",
+      "pron": "ÉK-co il MÍ-o pas-sa-PÓR-to — 'cc' soa K",
+      "curiosity": "Ecco significa 'eis aqui': serve para entregar algo ao outro."
+    },
+    "tr27-01": {
+      "word": "rompere il ghiaccio",
+      "translit": null,
+      "example": "Una barzelletta serve a rompere il ghiaccio.",
+      "examplePt": "Uma piada serve para quebrar o gelo.",
+      "pron": "RÔM-pe-re il GUIÁT-tcho — 'ghi' soa 'gui'",
+      "curiosity": "Rompere il ghiaccio é igual ao português, com o mesmo gelo."
+    },
+    "tr27-02": {
+      "word": "costare un occhio della testa",
+      "translit": null,
+      "example": "Quella borsa costa un occhio della testa!",
+      "examplePt": "Aquela bolsa custa os olhos da cara!",
+      "pron": "cos-TÁ-re un ÓC-quio — 'cchi' soa K",
+      "curiosity": "Em italiano o preço é 'um olho da cabeça'."
+    },
+    "tr27-03": {
+      "word": "dormire come un ghiro",
+      "translit": null,
+      "example": "Dopo la gita dormo come un ghiro.",
+      "examplePt": "Depois do passeio durmo como uma pedra.",
+      "pron": "dor-MÍ-re CÔ-me un GUÍ-ro — 'ghi' soa 'gui'",
+      "curiosity": "O ghiro é um pequeno roedor que hiberna: por isso 'dorme tanto'."
+    },
+    "tr27-04": {
+      "word": "parlare a macchinetta",
+      "translit": null,
+      "example": "Mia sorella parla a macchinetta quando è felice!",
+      "examplePt": "Minha irmã fala pelos cotovelos quando está feliz!",
+      "pron": "par-LÁ-re a mac-qui-NÉT-ta — 'cch' soa K",
+      "curiosity": "Macchinetta é 'máquina pequena', e a imagem é a de um motorzinho."
+    },
+    "tr27-05": {
+      "word": "avere la testa fra le nuvole",
+      "translit": null,
+      "example": "Non ascolti: hai la testa fra le nuvole!",
+      "examplePt": "Você não escuta: está nas nuvens!",
+      "pron": "a-VÊ-re la TÉS-ta fra le NU-vo-le — 'v' como em 'vaca'",
+      "curiosity": "O italiano põe a 'cabeça' entre as nuvens, não o corpo todo."
+    },
+    "tr27-06": {
+      "word": "far venire l'acquolina in bocca",
+      "translit": null,
+      "example": "Quel profumo fa venire l'acquolina in bocca!",
+      "examplePt": "Esse cheiro dá água na boca!",
+      "pron": "far ve-NÍ-re lac-cuo-LÍ-na in BÔC-ca — 'qu' soa 'cu'",
+      "curiosity": "Acquolina é 'aguinha' (diminutivo de acqua)."
+    },
+    "tr27-07": {
+      "word": "tanto di cappello",
+      "translit": null,
+      "example": "Hai vinto tu? Tanto di cappello!",
+      "examplePt": "Você ganhou? Tiro o chapéu!",
+      "pron": "TÃN-to di cap-PÉL-lo — 'pp' e 'll' fortes",
+      "curiosity": "Cappello e 'cappella' vêm do mesmo latim, mas são palavras diferentes."
+    },
+    "tr27-08": {
+      "word": "tenere d'occhio",
+      "translit": null,
+      "example": "Tieni d'occhio la pentola, per favore.",
+      "examplePt": "Fique de olho na panela, por favor.",
+      "pron": "te-NÊ-re DÓC-quio — 'cch' soa K",
+      "curiosity": "Tenere significa segurar, manter: 'tenere' em frases como 'tenere compagnia'."
+    },
+    "tr27-09": {
+      "word": "piovere a catinelle",
+      "translit": null,
+      "example": "Esci con l'ombrello: piove a catinelle!",
+      "examplePt": "Saia com guarda-chuva: está chovendo canivete!",
+      "pron": "PIÓ-ve-re a ca-ti-NÉL-le — 'v' como em 'vaca'",
+      "curiosity": "A 'catinella' é uma bacia: chove como se despejassem bacias."
+    },
+    "tr27-10": {
+      "word": "mettere le mani in pasta",
+      "translit": null,
+      "example": "Basta chiacchiere: mettiamo le mani in pasta!",
+      "examplePt": "Chega de conversa: vamos pôr a mão na massa!",
+      "pron": "MÉT-te-re le MÃ-ni in PÁS-ta — 'tt' forte",
+      "curiosity": "Pasta aqui é massa/dough, e a imagem é de amassar com as mãos."
+    },
+    "tr28-01": {
+      "word": "Mamma mia!",
+      "translit": null,
+      "example": "Mamma mia! Hai visto quel fulmine enorme?",
+      "examplePt": "Nossa! Você viu aquele raio enorme?",
+      "pron": "MÃM-ma MÍ-a — o 'mm' é longo",
+      "curiosity": "Mamma mia! vale para espanto, susto e também alegria."
+    },
+    "tr28-02": {
+      "word": "Dai!",
+      "translit": null,
+      "example": "Dai! Muoviamoci, il film comincia tra poco!",
+      "examplePt": "Bora! Vamos nos mexer, o filme já vai começar!",
+      "pron": "DAI — como 'dai' em português",
+      "curiosity": "Dai vem de 'dare' (dar) e também incentiva: 'Dai, forza!'."
+    },
+    "tr28-03": {
+      "word": "Tutto a posto!",
+      "translit": null,
+      "example": "Tutto a posto! La festa è andata benissimo.",
+      "examplePt": "Beleza! A festa foi ótima.",
+      "pron": "TÚT-to a PÓS-to — 'tt' longo",
+      "curiosity": "Posto é lugar: 'tutto a posto' é tudo no lugar."
+    },
+    "tr28-04": {
+      "word": "Ho una gran pigrizia",
+      "translit": null,
+      "example": "Oggi ho una gran pigrizia, non esco proprio.",
+      "examplePt": "Hoje tô com muita preguiça, não saio mesmo.",
+      "pron": "ô U-na gran pi-GRÍ-tsia — 'zia' soa TSIA",
+      "curiosity": "Pigrizia é a preguiça, e 'pigro' é quem a tem."
+    },
+    "tr28-05": {
+      "word": "Io passo",
+      "translit": null,
+      "example": "Andiamo a nuotare? Io passo, fa freddo.",
+      "examplePt": "Vamos nadar? Tô fora, está frio.",
+      "pron": "Í-o PÁS-so — 'ss' forte",
+      "curiosity": "Em italiano 'passo' é como passar a vez, como em jogos de cartas."
+    },
+    "tr28-06": {
+      "word": "Capito?",
+      "translit": null,
+      "example": "Domani si parte alle sei, capito?",
+      "examplePt": "Amanhã partimos às seis, sacou?",
+      "pron": "ca-PÍ-to — 'p' seco",
+      "curiosity": "Capito é o particípio de 'capire' (entender)."
+    },
+    "tr28-07": {
+      "word": "Niente panico!",
+      "translit": null,
+      "example": "Niente panico, il treno parte ancora tra dieci minuti.",
+      "examplePt": "Fica frio, o trem ainda parte em dez minutos.",
+      "pron": "NIÊN-te PÁ-ni-co — 'ie' ditongo",
+      "curiosity": "Niente é nada: 'niente panico' é literalmente 'nada de pânico'."
+    },
+    "tr28-08": {
+      "word": "Smettila!",
+      "translit": null,
+      "example": "Smettila di ridere, è una cosa seria!",
+      "examplePt": "Dá um tempo de rir, é coisa séria!",
+      "pron": "SMÉT-ti-la — 'tt' forte",
+      "curiosity": "Smettila! (pare!) vem de 'smettere', o verbo para parar."
+    },
+    "tr28-09": {
+      "word": "Che noia!",
+      "translit": null,
+      "example": "Che noia questa lezione, quanto dura ancora?",
+      "examplePt": "Que chato esta aula, quanto tempo dura ainda?",
+      "pron": "ke NÓ-ia — 'oia' é uma sílaba",
+      "curiosity": "Noia é tédio e dá 'annoiarsi' (entediar-se)."
+    },
+    "tr28-10": {
+      "word": "Che fortuna!",
+      "translit": null,
+      "example": "Hai vinto un viaggio a Venezia? Che fortuna!",
+      "examplePt": "Ganhou uma viagem para Veneza? Que sorte!",
+      "pron": "ke for-TÚ-na — o 'u' tônico",
+      "curiosity": "Fortuna e 'sorte' são sinônimos, mas 'fortuna' é o mais comum."
+    },
+    "tr29-01": {
+      "word": "Meglio tardi che mai",
+      "translit": null,
+      "example": "Sei arrivato tardi? Meglio tardi che mai!",
+      "examplePt": "Chegou tarde? Antes tarde do que nunca!",
+      "pron": "MÉ-lho TAR-di ke MAI — 'gli' soa 'lh'",
+      "curiosity": "Em italiano o provérbio é exatamente 'Meglio tardi che mai'."
+    },
+    "tr29-02": {
+      "word": "Ride bene chi ride ultimo",
+      "translit": null,
+      "example": "Hai vinto tu oggi, ma ride bene chi ride ultimo.",
+      "examplePt": "Você ganhou hoje, mas quem ri por último ri melhor.",
+      "pron": "RÍ-de BÊ-ne ki RÍ-de ÚL-ti-mo — 'ch' soa K",
+      "curiosity": "Em italiano o provérbio fala 'chi ride ultimo' (quem ri por último)."
+    },
+    "tr29-03": {
+      "word": "La pratica rende perfetti",
+      "translit": null,
+      "example": "Suona ogni giorno: la pratica rende perfetti.",
+      "examplePt": "Toque todo dia: a prática leva à perfeição.",
+      "pron": "la PRÁ-ti-ca RÊN-de per-FÉT-ti — 'tt' forte",
+      "curiosity": "Perfetto é perfeito e 'perfetti' o plural masculino."
+    },
+    "tr29-04": {
+      "word": "Can che abbaia non morde",
+      "translit": null,
+      "example": "Non temere il suo urlo: can che abbaia non morde.",
+      "examplePt": "Não tema o grito dele: cão que ladra não morde.",
+      "pron": "can ke ab-BÁ-ia non MÓR-de — 'bb' longo",
+      "curiosity": "Can é uma forma antiga de 'cane': 'can che abbaia'."
+    },
+    "tr29-05": {
+      "word": "Una mano lava l'altra",
+      "translit": null,
+      "example": "Mi aiuti e ti aiuto: una mano lava l'altra.",
+      "examplePt": "Você me ajuda e eu te ajudo: uma mão lava a outra.",
+      "pron": "U-na MÁ-no LÁ-va LAL-tra",
+      "curiosity": "Mano é feminino e termina em -o: 'la mano', 'le mani'."
+    },
+    "tr29-06": {
+      "word": "L'unione fa la forza",
+      "translit": null,
+      "example": "Tutti insieme vinciamo: l'unione fa la forza!",
+      "examplePt": "Todos juntos vencemos: a união faz a força!",
+      "pron": "lu-ni-Ô-ne fa la FÓR-tsa — 'z' soa TS",
+      "curiosity": "O provérbio italiano é igualmente curto e rima: 'unione' e 'forza'."
+    },
+    "tr29-07": {
+      "word": "Chi non risica non rosica",
+      "translit": null,
+      "example": "Provaci! Chi non risica non rosica.",
+      "examplePt": "Tente! Quem não arrisca não ganha.",
+      "pron": "ki non RÍ-zi-ca non RÓ-zi-ca — 'ch' soa K",
+      "curiosity": "Rosicare é roer, e 'risicare' é a forma antiga de arriscar."
+    },
+    "tr29-08": {
+      "word": "Chi va piano va sano e va lontano",
+      "translit": null,
+      "example": "Calma, chi va piano va sano e va lontano.",
+      "examplePt": "Calma, devagar se vai ao longe.",
+      "pron": "ki va PIÁ-no va SÁ-no e va lon-TÁ-no",
+      "curiosity": "Piano pode ser 'devagar' ou o instrumento musical."
+    },
+    "tr29-09": {
+      "word": "Il tempo è denaro",
+      "translit": null,
+      "example": "Non perdere tempo: il tempo è denaro!",
+      "examplePt": "Não perca tempo: tempo é dinheiro!",
+      "pron": "il TÊM-po é de-NÁ-ro — 'e' fechado",
+      "curiosity": "Denaro é dinheiro e vem do 'denarius', moeda romana."
+    },
+    "tr29-10": {
+      "word": "Il riso fa buon sangue",
+      "translit": null,
+      "example": "Fai una risata: il riso fa buon sangue!",
+      "examplePt": "Dê uma risada: rir é o melhor remédio!",
+      "pron": "il RÍ-zo fa buon SÃN-gue — 'gue' com U pronunciado",
+      "curiosity": "Riso é riso, mas também arroz: o contexto muda tudo!"
+    },
+    "tr30-01": {
+      "word": "restare senza parole",
+      "translit": null,
+      "example": "Quel panorama mi ha fatto restare senza parole.",
+      "examplePt": "Aquela vista me deixou sem palavras.",
+      "pron": "res-TÁ-re SÊN-za pa-RÓ-le — 'z' soa TS",
+      "curiosity": "Restare é ficar, e 'senza parole' diz quando alguém não sabe o que falar."
+    },
+    "tr30-02": {
+      "word": "rialzarsi",
+      "translit": null,
+      "example": "Sono caduto, ma mi rialzo sempre!",
+      "examplePt": "Caí, mas sempre dou a volta por cima!",
+      "pron": "ri-al-TSÁR-si — 'z' soa TS",
+      "curiosity": "Rialzarsi é literalmente 'levantar-se de novo'."
+    },
+    "tr30-03": {
+      "word": "essere appeso a un filo",
+      "translit": null,
+      "example": "La partita è appesa a un filo, che suspense!",
+      "examplePt": "O jogo está por um fio, que suspense!",
+      "pron": "ÉS-se-re ap-PÊ-zo a un FÍ-lo",
+      "curiosity": "Filo é fio, e 'il filo' do telefone é o cabo."
+    },
+    "tr30-04": {
+      "word": "cambiare idea",
+      "translit": null,
+      "example": "Voglio il rosso... no, cambio idea: il blu!",
+      "examplePt": "Quero o vermelho... não, mudo de ideia: o azul!",
+      "pron": "cam-BIÁ-re i-DÉ-a — 'bia' é uma sílaba",
+      "curiosity": "Em italiano se 'cambia idea', sem artigo."
+    },
+    "tr30-05": {
+      "word": "perdere il filo del discorso",
+      "translit": null,
+      "example": "Scusa, ho perso il filo del discorso.",
+      "examplePt": "Desculpe, perdi o fio da meada.",
+      "pron": "PÉR-de-re il FÍ-lo del dis-CÓR-so",
+      "curiosity": "O 'filo del discorso' é o fio da conversa, a ideia que se segue."
+    },
+    "tr30-06": {
+      "word": "sulla punta della lingua",
+      "translit": null,
+      "example": "Ce l'ho sulla punta della lingua, aspetta!",
+      "examplePt": "Está na ponta da língua, espere!",
+      "pron": "SUL-la PÚN-ta DÉL-la LÍN-gua — 'gua' com U",
+      "curiosity": "Lingua é língua e também idioma: 'la lingua italiana'."
+    },
+    "tr30-07": {
+      "word": "essere nella stessa barca",
+      "translit": null,
+      "example": "Siamo nella stessa barca, quindi aiutiamoci.",
+      "examplePt": "Estamos no mesmo barco, então vamos nos ajudar.",
+      "pron": "ÉS-se-re NÉL-la STÉS-sa BÁR-ca — 'ss' forte",
+      "curiosity": "A imagem é igual à portuguesa: todos em um barco."
+    },
+    "tr30-08": {
+      "word": "scervellarsi",
+      "translit": null,
+      "example": "Mi scervello da un'ora su questo indovinello.",
+      "examplePt": "Quebro a cabeça há uma hora com esta adivinha.",
+      "pron": "sher-vel-LÁR-si — 'sce' soa XE",
+      "curiosity": "Scervellarsi vem de 'cervello' (cérebro): tirar o cérebro de tanto pensar."
+    },
+    "tr30-09": {
+      "word": "sentirsi a casa",
+      "translit": null,
+      "example": "Con voi mi sento subito a casa.",
+      "examplePt": "Com vocês me sinto logo em casa.",
+      "pron": "sen-TÍR-si a CÁ-za — 'sa' com Z",
+      "curiosity": "Em italiano se diz 'sentirsi a casa' e não 'em casa'."
+    },
+    "tr30-10": {
+      "word": "vedere il lato positivo",
+      "translit": null,
+      "example": "Cerco sempre di vedere il lato positivo.",
+      "examplePt": "Sempre tento olhar pelo lado bom.",
+      "pron": "ve-DÊ-re il LÁ-to po-zi-TÍ-vo — 'v' como em 'vaca'",
+      "curiosity": "Il lato è lado, mas 'il latte' é leite: cuidado com a troca."
+    }
+  }
+}

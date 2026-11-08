@@ -1,0 +1,855 @@
+{
+ "language": "it",
+ "scenarios": {
+  "sc01": {
+   "npcName": "Giulia",
+   "turns": [
+    {
+     "npc": "Buongiorno! Passaporto, per favore.",
+     "npcPt": "Olá! Passaporte, por favor.",
+     "options": [
+      {
+       "text": "Ecco qui.",
+       "textPt": "Aqui está."
+      },
+      {
+       "text": "Io sono un passaporto.",
+       "textPt": "Eu sou um passaporte.",
+       "hint": "Soa como se você fosse o documento. Ao entregar, diga \"Ecco qui\"."
+      },
+      {
+       "text": "Grazie, arrivederci.",
+       "textPt": "Obrigado, tchau.",
+       "hint": "Ainda não é hora de se despedir: primeiro entregue o documento."
+      }
+     ]
+    },
+    {
+     "npc": "Ha una valigia?",
+     "npcPt": "Você tem uma mala?",
+     "options": [
+      {
+       "text": "Sì, sono felice.",
+       "textPt": "Sim, estou feliz.",
+       "hint": "Não responde ao que foi perguntado."
+      },
+      {
+       "text": "Sì, una valigia.",
+       "textPt": "Sim, uma mala."
+      },
+      {
+       "text": "Mi piacciono le valigie.",
+       "textPt": "Eu gosto de malas.",
+       "hint": "É uma frase possível, mas não responde: diga se tem ou não mala."
+      }
+     ]
+    },
+    {
+     "npc": "Finestrino o corridoio?",
+     "npcPt": "Janela ou corredor?",
+     "options": [
+      {
+       "text": "Sì, per favore.",
+       "textPt": "Sim, por favor.",
+       "hint": "A pergunta oferece duas opções; \"sì\" não escolhe nenhuma. Diga \"Finestrino, per favore\"."
+      },
+      {
+       "text": "Il posto va bene.",
+       "textPt": "Assento é bom.",
+       "hint": "Frase estranha e sem escolha. Diga qual lugar você quer."
+      },
+      {
+       "text": "Finestrino, per favore.",
+       "textPt": "Janela, por favor."
+      }
+     ]
+    },
+    {
+     "npc": "Ecco la sua carta d'imbarco.",
+     "npcPt": "Aqui está seu cartão de embarque.",
+     "options": [
+      {
+       "text": "Grazie! Qual è il gate?",
+       "textPt": "Obrigado! Qual é o portão?"
+      },
+      {
+       "text": "Prego.",
+       "textPt": "De nada.",
+       "hint": "\"Prego\" é o que quem atende diz. O passageiro agradece com \"Grazie\"."
+      },
+      {
+       "text": "Buonasera, signore.",
+       "textPt": "Boa noite, senhor.",
+       "hint": "Fora de contexto: você ainda precisa saber o portão."
+      }
+     ]
+    }
+   ]
+  },
+  "sc02": {
+   "npcName": "Marco",
+   "turns": [
+    {
+     "npc": "Benvenuti! Quante persone siete?",
+     "npcPt": "Bem-vindo! Quantas pessoas?",
+     "options": [
+      {
+       "text": "Sto bene.",
+       "textPt": "Estou bem.",
+       "hint": "Isso responde a \"Come stai?\", não a quantas pessoas. Diga o número: \"Due, per favore\"."
+      },
+      {
+       "text": "Due, per favore.",
+       "textPt": "Duas, por favor."
+      },
+      {
+       "text": "Un tavolo è grande.",
+       "textPt": "Uma mesa é grande.",
+       "hint": "Não responde à pergunta. Diga o número de pessoas."
+      }
+     ]
+    },
+    {
+     "npc": "Cosa desidera?",
+     "npcPt": "O que você gostaria?",
+     "options": [
+      {
+       "text": "Mi piace la pizza.",
+       "textPt": "Eu gosto de pizza.",
+       "hint": "\"Mi piace\" fala de gosto geral. Para pedir, use \"Vorrei...\" ou \"Una pizza, per favore\"."
+      },
+      {
+       "text": "Dammi una pizza!",
+       "textPt": "Me dá pizza!",
+       "hint": "\"Dammi\" soa seco e mandão. Prefira \"Una pizza, per favore\" ou \"Vorrei una pizza\"."
+      },
+      {
+       "text": "Una pizza, per favore.",
+       "textPt": "Uma pizza, por favor."
+      }
+     ]
+    },
+    {
+     "npc": "Qualcosa da bere?",
+     "npcPt": "Algo para beber?",
+     "options": [
+      {
+       "text": "Acqua, per favore.",
+       "textPt": "Água, por favor."
+      },
+      {
+       "text": "Io bevo, sì.",
+       "textPt": "Eu bebo, sim.",
+       "hint": "Estranho: diga o que você quer beber."
+      },
+      {
+       "text": "No mangio, grazie.",
+       "textPt": "Não comer, obrigado.",
+       "hint": "A pergunta é sobre bebida, e \"mangiare\" é comer. Diga \"Acqua, per favore\"."
+      }
+     ]
+    },
+    {
+     "npc": "Ecco il suo piatto. Buon appetito!",
+     "npcPt": "Aqui está sua comida. Aproveite!",
+     "options": [
+      {
+       "text": "Mi dispiace.",
+       "textPt": "Sinto muito.",
+       "hint": "Não há motivo para pedir desculpas aqui."
+      },
+      {
+       "text": "Grazie! Sembra buono.",
+       "textPt": "Obrigado! Parece bom."
+      },
+      {
+       "text": "Ciao!",
+       "textPt": "Tchau!",
+       "hint": "Você acabou de receber a comida; ainda não vai embora."
+      }
+     ]
+    }
+   ]
+  },
+  "sc03": {
+   "npcName": "Matteo",
+   "turns": [
+    {
+     "npc": "Ciao! Sono Matteo. Come ti chiami?",
+     "npcPt": "Oi! Eu sou o Sam. Qual é o seu nome?",
+     "options": [
+      {
+       "text": "Io chiamo Alex.",
+       "textPt": "Eu me chamo Alex.",
+       "hint": "Falta o reflexivo: o verbo é \"chiamarsi\". Diga \"Mi chiamo Alex\"."
+      },
+      {
+       "text": "Piacere! Sono Alex.",
+       "textPt": "Prazer! Eu sou o Alex."
+      },
+      {
+       "text": "Sto bene, grazie.",
+       "textPt": "Bem, obrigado.",
+       "hint": "Responde a \"Come stai?\", não ao nome. Diga \"Mi chiamo...\"."
+      }
+     ]
+    },
+    {
+     "npc": "Piacere! Di dove sei?",
+     "npcPt": "Prazer! De onde você é?",
+     "options": [
+      {
+       "text": "Sono Brasile.",
+       "textPt": "Eu sou Brasil.",
+       "hint": "Diz que você É o país. Use \"Sono del Brasile\" ou \"Sono brasiliano\"."
+      },
+      {
+       "text": "Sono di brasiliano.",
+       "textPt": "Eu sou de brasileiro.",
+       "hint": "\"Brasile\" é o país; \"brasiliano\" é a nacionalidade: \"Sono brasiliano\"."
+      },
+      {
+       "text": "Sono del Brasile.",
+       "textPt": "Sou do Brasil."
+      }
+     ]
+    },
+    {
+     "npc": "Cosa ti piace fare?",
+     "npcPt": "O que você gosta de fazer?",
+     "options": [
+      {
+       "text": "Mi piacciono la musica e il calcio.",
+       "textPt": "Eu gosto de música e futebol."
+      },
+      {
+       "text": "Sto gustando il calcio.",
+       "textPt": "Eu estou gostando de futebol.",
+       "hint": "\"Gustare\" é degustar (comida). Para gostar use \"piacere\": \"Mi piace il calcio\"."
+      },
+      {
+       "text": "Ho hobby calcio.",
+       "textPt": "Eu tenho hobby futebol.",
+       "hint": "Calque do português. Diga \"Il mio hobby è il calcio\" ou \"Mi piace il calcio\"."
+      }
+     ]
+    },
+    {
+     "npc": "Restiamo in contatto. Qual è il tuo numero?",
+     "npcPt": "Vamos manter contato. Qual é o seu número?",
+     "options": [
+      {
+       "text": "Sì, resto in contatto.",
+       "textPt": "Sim, eu fico em contato.",
+       "hint": "Não responde à pergunta: diga o seu número."
+      },
+      {
+       "text": "È 555-0123. E il tuo?",
+       "textPt": "É 555-0123. E o seu?"
+      },
+      {
+       "text": "È 555-0123. E tuo?",
+       "textPt": "É 555-0123. E você?",
+       "hint": "Falta o artigo: \"E il tuo?\" (e o seu?). Em italiano o possessivo leva artigo."
+      }
+     ]
+    }
+   ]
+  },
+  "sc04": {
+   "npcName": "Luca",
+   "turns": [
+    {
+     "npc": "Buonasera. Il suo nome, per favore?",
+     "npcPt": "Boa noite. Seu nome, por favor?",
+     "options": [
+      {
+       "text": "Sono stanco.",
+       "textPt": "Estou cansado.",
+       "hint": "Pode ser verdade, mas pediram seu nome."
+      },
+      {
+       "text": "Mi chiamo Alex.",
+       "textPt": "Meu nome é Alex."
+      },
+      {
+       "text": "Buonasera, arrivederci.",
+       "textPt": "Boa noite, tchau.",
+       "hint": "Você acabou de chegar; não é hora de se despedir."
+      }
+     ]
+    },
+    {
+     "npc": "Ha una prenotazione?",
+     "npcPt": "Você tem uma reserva?",
+     "options": [
+      {
+       "text": "Sì, per due notti.",
+       "textPt": "Sim, para duas noites."
+      },
+      {
+       "text": "Sì, ho una camera.",
+       "textPt": "Sim, eu tenho um quarto.",
+       "hint": "Soa como se você já tivesse o quarto. Diga que tem uma reserva."
+      },
+      {
+       "text": "No, grazie.",
+       "textPt": "Não, obrigado.",
+       "hint": "\"No, grazie\" recusa uma oferta; aqui a pergunta é sobre reserva. Diga \"Sì, ho una prenotazione\"."
+      }
+     ]
+    },
+    {
+     "npc": "Ecco la chiave. Camera 204.",
+     "npcPt": "Aqui está sua chave. Quarto 204.",
+     "options": [
+      {
+       "text": "Dov'è la chiave?",
+       "textPt": "Onde está a chave?",
+       "hint": "Ela acabou de entregar a chave."
+      },
+      {
+       "text": "Io sono 204.",
+       "textPt": "Eu sou 204.",
+       "hint": "Você não é o número do quarto."
+      },
+      {
+       "text": "Grazie. Dov'è l'ascensore?",
+       "textPt": "Obrigado. Onde fica o elevador?"
+      }
+     ]
+    },
+    {
+     "npc": "Là, a sinistra.",
+     "npcPt": "Ali, à esquerda.",
+     "options": [
+      {
+       "text": "Scusi, come?",
+       "textPt": "Desculpe, o quê?",
+       "hint": "Pedir para repetir é válido, mas a explicação foi simples; agradecer é mais natural."
+      },
+      {
+       "text": "Perfetto, grazie!",
+       "textPt": "Ótimo, obrigado!"
+      },
+      {
+       "text": "Sì, mi piace la sinistra.",
+       "textPt": "Sim, eu gosto de esquerda.",
+       "hint": "Não responde nem agradece. Fora de contexto."
+      }
+     ]
+    }
+   ]
+  },
+  "sc05": {
+   "npcName": "Dott.ssa Moretti",
+   "turns": [
+    {
+     "npc": "Buongiorno. Può aggiornarci sul progetto?",
+     "npcPt": "Bom dia. Pode nos atualizar sobre o projeto?",
+     "options": [
+      {
+       "text": "Certo. Il progetto sta andando bene.",
+       "textPt": "Claro. O projeto está indo bem."
+      },
+      {
+       "text": "Il progetto è in buona strada.",
+       "textPt": "O projeto está em bom caminho.",
+       "hint": "Calque de \"em bom caminho\". Em italiano: \"sulla buona strada\" ou \"va bene\"."
+      },
+      {
+       "text": "No, non voglio.",
+       "textPt": "Não, eu não quero.",
+       "hint": "Seco demais para uma reunião. Diga \"Certo\" ou \"Certamente\"."
+      }
+     ]
+    },
+    {
+     "npc": "Cosa dobbiamo ancora fare?",
+     "npcPt": "O que ainda precisamos fazer?",
+     "options": [
+      {
+       "text": "Dobbiamo di testare l'app.",
+       "textPt": "Precisamos testar o app.",
+       "hint": "Depois de \"dovere\" não se usa \"di\": \"Dobbiamo testare l'app\"."
+      },
+      {
+       "text": "Dobbiamo testare l'app ieri.",
+       "textPt": "Temos que testar o app ontem.",
+       "hint": "\"Ieri\" é passado; aqui você fala do que falta fazer. Use \"ancora\" ou \"domani\"."
+      },
+      {
+       "text": "Dobbiamo ancora testare l'app.",
+       "textPt": "Ainda precisamos testar o aplicativo."
+      }
+     ]
+    },
+    {
+     "npc": "Cosa pensa del nuovo design?",
+     "npcPt": "O que você acha do novo design?",
+     "options": [
+      {
+       "text": "Sono accordo, è carino.",
+       "textPt": "Eu sou de acordo, é legal.",
+       "hint": "A expressão é \"essere d'accordo\", com \"d'\": \"Sono d'accordo\"."
+      },
+      {
+       "text": "Mi sembra chiaro e moderno.",
+       "textPt": "Acho que está claro e moderno."
+      },
+      {
+       "text": "Non so, fa lo stesso.",
+       "textPt": "Não sei, tanto faz.",
+       "hint": "Soa desinteressado numa reunião; dê uma opinião, como \"Mi sembra...\"."
+      }
+     ]
+    },
+    {
+     "npc": "Quando riesce a finirlo?",
+     "npcPt": "Quando você consegue terminar?",
+     "options": [
+      {
+       "text": "Lo finisco fino a venerdì.",
+       "textPt": "Eu termino até sexta.",
+       "hint": "\"Fino a\" é até quando algo dura; para prazo use \"entro venerdì\"."
+      },
+      {
+       "text": "Riesco a finirlo in venerdì.",
+       "textPt": "Consigo terminar em sexta.",
+       "hint": "Com dia da semana não se usa \"in\"; para prazo, \"entro venerdì\"."
+      },
+      {
+       "text": "Riesco a finirlo entro venerdì.",
+       "textPt": "Consigo terminar até sexta."
+      }
+     ]
+    }
+   ]
+  },
+  "sc06": {
+   "npcName": "Davide",
+   "turns": [
+    {
+     "npc": "Ciao! Hai bisogno di aiuto?",
+     "npcPt": "Oi! Você precisa de ajuda?",
+     "options": [
+      {
+       "text": "Sì. Quale ora è la lezione?",
+       "textPt": "Sim. Qual hora é a aula?",
+       "hint": "Calque de \"qual hora\". Para horário diga \"A che ora è la lezione?\"."
+      },
+      {
+       "text": "Sì. Quanto costa la lezione?",
+       "textPt": "Sim. Quanto custa a aula?",
+       "hint": "\"Quanto costa\" pergunta o preço, não o horário."
+      },
+      {
+       "text": "Sì. A che ora è la lezione?",
+       "textPt": "Sim. Que horas é a aula?"
+      }
+     ]
+    },
+    {
+     "npc": "La lezione è alle dieci. Altri dubbi?",
+     "npcPt": "A aula é às dez. Mais alguma dúvida?",
+     "options": [
+      {
+       "text": "Sì. Quando è la consegna del lavoro?",
+       "textPt": "Sim. Quando é a entrega do trabalho?"
+      },
+      {
+       "text": "Sì. Quando è il lavoro per consegnare?",
+       "textPt": "Sim. Quando é o trabalho para entregar?",
+       "hint": "Calque de \"para entregar\". Diga \"da consegnare\" ou \"la consegna\"."
+      },
+      {
+       "text": "Sì. Ho un domanda.",
+       "textPt": "Sim. Eu tenho uma dúvida.",
+       "hint": "\"Domanda\" é feminino: \"una domanda\" (ou \"un dubbio\")."
+      }
+     ]
+    },
+    {
+     "npc": "È per lunedì. Altro?",
+     "npcPt": "É para segunda. Mais alguma coisa?",
+     "options": [
+      {
+       "text": "Sì. Dov'è la libreria?",
+       "textPt": "Sim. Onde fica a livraria?",
+       "hint": "Falso amigo: \"libreria\" é livraria. Biblioteca em italiano é \"biblioteca\"."
+      },
+      {
+       "text": "Sì. Dov'è la biblioteca?",
+       "textPt": "Sim. Onde fica a biblioteca?"
+      },
+      {
+       "text": "Sì. Dov'è biblioteca?",
+       "textPt": "Sim. Biblioteca onde fica?",
+       "hint": "Falta o artigo: \"Dov'è la biblioteca?\"."
+      }
+     ]
+    },
+    {
+     "npc": "In fondo al corridoio, a sinistra.",
+     "npcPt": "No fim do corredor, à esquerda.",
+     "options": [
+      {
+       "text": "Ottimo, grazie! È aperta adesso?",
+       "textPt": "Ótimo, obrigado! Está aberta agora?"
+      },
+      {
+       "text": "Grazie. Sta aperta adesso?",
+       "textPt": "Obrigado. Está aberta agora?",
+       "hint": "Calque de \"está aberta\": em italiano é \"È aperta adesso?\" (essere, não stare)."
+      },
+      {
+       "text": "Prego.",
+       "textPt": "De nada.",
+       "hint": "\"Prego\" responde a um agradecimento; aqui quem agradece é você."
+      }
+     ]
+    }
+   ]
+  },
+  "sc07": {
+   "npcName": "Sofia",
+   "turns": [
+    {
+     "npc": "Salve! Cerca qualcosa?",
+     "npcPt": "Oi! Você procura algo?",
+     "options": [
+      {
+       "text": "Sì, mi serve una giacca.",
+       "textPt": "Sim, preciso de uma jaqueta."
+      },
+      {
+       "text": "Io guardo te.",
+       "textPt": "Eu olho para você.",
+       "hint": "\"Guardare\" é olhar para algo; a pergunta é sobre procurar. Diga \"Cerco una giacca\"."
+      },
+      {
+       "text": "Sì, io cerco giacca.",
+       "textPt": "Sim, eu olho jaqueta.",
+       "hint": "Falta o artigo: é \"una giacca\", e \"mi serve\" soa mais natural que \"io cerco\"."
+      }
+     ]
+    },
+    {
+     "npc": "Che taglia porta?",
+     "npcPt": "Qual é o seu tamanho?",
+     "options": [
+      {
+       "text": "Ho vent'anni.",
+       "textPt": "Tenho vinte anos.",
+       "hint": "Tamanho não é idade."
+      },
+      {
+       "text": "La mia taglia è blu.",
+       "textPt": "Meu tamanho é azul.",
+       "hint": "Azul é cor; diga o tamanho (S, M, L)."
+      },
+      {
+       "text": "Media, credo.",
+       "textPt": "Médio, acho."
+      }
+     ]
+    },
+    {
+     "npc": "Il camerino è là.",
+     "npcPt": "O provador é ali.",
+     "options": [
+      {
+       "text": "Voglio dormire là.",
+       "textPt": "Quero dormir lá.",
+       "hint": "Estranho: provador é só para experimentar roupas."
+      },
+      {
+       "text": "Grazie. La provo.",
+       "textPt": "Obrigado. Vou experimentar."
+      },
+      {
+       "text": "La camera è bella.",
+       "textPt": "O quarto é bonito.",
+       "hint": "Não é um quarto; agradeça e vá experimentar."
+      }
+     ]
+    },
+    {
+     "npc": "Come le sta?",
+     "npcPt": "Como ficou?",
+     "options": [
+      {
+       "text": "È piccola. Ne ha una più grande?",
+       "textPt": "Está pequeno. Tem um maior?"
+      },
+      {
+       "text": "È molto cara.",
+       "textPt": "É muito caro.",
+       "hint": "Ela perguntou do caimento, não do preço."
+      },
+      {
+       "text": "Io entro, grazie.",
+       "textPt": "Eu caibo, obrigado.",
+       "hint": "Ninguém \"entra\" na roupa: descreva a peça com \"Mi sta bene\" ou \"È piccola\"."
+      }
+     ]
+    }
+   ]
+  },
+  "sc08": {
+   "npcName": "Andrea",
+   "turns": [
+    {
+     "npc": "Sembra perso. Posso aiutarla?",
+     "npcPt": "Você parece perdido. Posso ajudar?",
+     "options": [
+      {
+       "text": "No, sono un turista.",
+       "textPt": "Não, sou turista.",
+       "hint": "Não é errado, mas você perde a chance de pedir ajuda."
+      },
+      {
+       "text": "Sì, dov'è la stazione della metro?",
+       "textPt": "Sim, onde fica a estação de metrô?"
+      },
+      {
+       "text": "Sì, mi sono perso la strada.",
+       "textPt": "Sim, estou perdido a rua.",
+       "hint": "Gramática errada. Diga \"Mi sono perso\" ou pergunte \"Dov'è la stazione?\"."
+      }
+     ]
+    },
+    {
+     "npc": "Vada dritto per due isolati.",
+     "npcPt": "Siga reto por duas quadras.",
+     "options": [
+      {
+       "text": "Dritto due isolati. E poi?",
+       "textPt": "Reto duas quadras. E depois?"
+      },
+      {
+       "text": "Ieri sono andato dritto.",
+       "textPt": "Eu fui reto ontem.",
+       "hint": "Ela deu uma instrução, não falou do passado."
+      },
+      {
+       "text": "Due isolati sono lontani.",
+       "textPt": "Duas quadras é longe.",
+       "hint": "É um comentário; confirme e pergunte o próximo passo."
+      }
+     ]
+    },
+    {
+     "npc": "Poi giri a sinistra alla banca.",
+     "npcPt": "Depois vire à esquerda no banco.",
+     "options": [
+      {
+       "text": "Giri sinistra è banca?",
+       "textPt": "Vire esquerda é banco?",
+       "hint": "Pergunta confusa. Confirme com \"A sinistra alla banca, giusto?\"."
+      },
+      {
+       "text": "Io giro a destra.",
+       "textPt": "Eu viro à direita.",
+       "hint": "Ela disse esquerda (left), não direita."
+      },
+      {
+       "text": "Sinistra alla banca. Capito.",
+       "textPt": "Esquerda no banco. Entendi."
+      }
+     ]
+    },
+    {
+     "npc": "È accanto al parco.",
+     "npcPt": "Fica ao lado do parque.",
+     "options": [
+      {
+       "text": "Accanto è un parco.",
+       "textPt": "Ao lado é um parque.",
+       "hint": "Frase invertida; não é preciso repetir."
+      },
+      {
+       "text": "Ottimo! Grazie dell'aiuto.",
+       "textPt": "Ótimo! Obrigado pela ajuda."
+      },
+      {
+       "text": "Non mi piacciono i parchi.",
+       "textPt": "Não gosto de parques.",
+       "hint": "Fora de contexto: agradeça pela ajuda."
+      }
+     ]
+    }
+   ]
+  },
+  "sc09": {
+   "npcName": "Dott.ssa Rossi",
+   "turns": [
+    {
+     "npc": "Buongiorno. Cosa La porta qui?",
+     "npcPt": "Bom dia. O que traz você aqui?",
+     "options": [
+      {
+       "text": "Ho avuto la febbre da lunedì.",
+       "textPt": "Estou com febre desde segunda.",
+       "hint": "Com \"da\" (desde) o italiano usa o presente: \"Ho la febbre da lunedì\", não \"ho avuto\"."
+      },
+      {
+       "text": "Sono stufo della mia gola.",
+       "textPt": "Estou farto da minha garganta.",
+       "hint": "\"Stufo di\" é estar farto de algo. Para dor, diga \"Ho mal di gola\"."
+      },
+      {
+       "text": "Ho mal di gola da giorni.",
+       "textPt": "Estou com dor de garganta há dias."
+      }
+     ]
+    },
+    {
+     "npc": "Ha qualche allergia?",
+     "npcPt": "Você tem alguma alergia?",
+     "options": [
+      {
+       "text": "No, io non sono allergia.",
+       "textPt": "Não, eu não sou alergia.",
+       "hint": "\"Allergia\" é substantivo; o adjetivo é \"allergico\": \"Non sono allergico a niente\"."
+      },
+      {
+       "text": "No, nessuna che io sappia.",
+       "textPt": "Não, nenhuma que eu saiba."
+      },
+      {
+       "text": "Sì, ho allergia di noci.",
+       "textPt": "Sim, tenho alergia de nozes.",
+       "hint": "A preposição certa é \"a\": \"allergia alle noci\" ou \"sono allergico alle noci\"."
+      }
+     ]
+    },
+    {
+     "npc": "Apra la bocca e dica aaah.",
+     "npcPt": "Abra a boca e diga aah.",
+     "options": [
+      {
+       "text": "Aaah... È grave, dottoressa?",
+       "textPt": "Aah... É sério, doutor?"
+      },
+      {
+       "text": "Aaah... Esso è grave?",
+       "textPt": "Aah... É sério?",
+       "hint": "\"Esso\" soa artificial. Em italiano o sujeito costuma ser omitido: \"È grave?\"."
+      },
+      {
+       "text": "Non voglio, mi scusi.",
+       "textPt": "Não quero, desculpe.",
+       "hint": "Seco e incompleto. O exame é importante: faça \"Aaah\" e pergunte se é grave."
+      }
+     ]
+    },
+    {
+     "npc": "È un'infezione lieve. Riposi e beva acqua.",
+     "npcPt": "É uma infecção leve. Descanse e beba água.",
+     "options": [
+      {
+       "text": "Io devo di riposare, grazie.",
+       "textPt": "Eu devo descansar, obrigado.",
+       "hint": "Depois de \"dovere\" vem o infinitivo direto, sem \"di\": \"Devo riposare\"."
+      },
+      {
+       "text": "Ho che andare al lavoro?",
+       "textPt": "Eu tenho que ir ao trabalho?",
+       "hint": "\"Tenho que\" não vira \"ho che\" (calque). Diga \"Devo andare al lavoro?\"."
+      },
+      {
+       "text": "Grazie, dottoressa. Devo prendere farmaci?",
+       "textPt": "Obrigado, doutor. Devo tomar remédio?"
+      }
+     ]
+    }
+   ]
+  },
+  "sc10": {
+   "npcName": "Dott.ssa Bianchi",
+   "turns": [
+    {
+     "npc": "Grazie per essere venuto. Mi parli di sé.",
+     "npcPt": "Obrigada por vir. Fale sobre você.",
+     "options": [
+      {
+       "text": "Sono 25 anni e mi piace la pizza.",
+       "textPt": "Tenho 25 anos e gosto de pizza.",
+       "hint": "Idade se diz \"Ho 25 anni\" (avere), não \"sono\"; e a entrevista pede foco profissional."
+      },
+      {
+       "text": "Sono un designer con tre anni di esperienza.",
+       "textPt": "Sou designer com três anos de experiência."
+      },
+      {
+       "text": "Il mio nome è sul foglio.",
+       "textPt": "Meu nome está no papel.",
+       "hint": "Fora de contexto: ela quer saber da sua experiência."
+      }
+     ]
+    },
+    {
+     "npc": "Perché vuole questo lavoro?",
+     "npcPt": "Por que você quer este emprego?",
+     "options": [
+      {
+       "text": "Mi piace lavorare in squadra e voglio crescere.",
+       "textPt": "Gosto de trabalho em equipe e quero crescer."
+      },
+      {
+       "text": "Perché ho bisogno di soldi, solo questo.",
+       "textPt": "Porque preciso de dinheiro, só isso.",
+       "hint": "Honesto, mas mostra pouco interesse pela vaga."
+      },
+      {
+       "text": "Voglio perché è bello.",
+       "textPt": "Quero porque é legal.",
+       "hint": "Resposta vaga e sem o objeto. Diga \"Lo voglio perché...\" e dê um motivo profissional."
+      }
+     ]
+    },
+    {
+     "npc": "Qual è il suo maggior punto di forza?",
+     "npcPt": "Qual é o seu maior ponto forte?",
+     "options": [
+      {
+       "text": "Sono il migliore del mondo.",
+       "textPt": "Sou o melhor do mundo.",
+       "hint": "Exagerado; prefira algo concreto e humilde."
+      },
+      {
+       "text": "Il mio punto forte è sollevare pesi.",
+       "textPt": "Meu ponto forte é levantar peso.",
+       "hint": "Possível, mas não é relevante para a vaga."
+      },
+      {
+       "text": "Sono organizzato e imparo velocemente.",
+       "textPt": "Sou organizado e aprendo rápido."
+      }
+     ]
+    },
+    {
+     "npc": "Ha qualche domanda per noi?",
+     "npcPt": "Você tem alguma pergunta para nós?",
+     "options": [
+      {
+       "text": "Nessuna domanda. Ciao.",
+       "textPt": "Sem perguntas. Tchau.",
+       "hint": "Seco demais; mostre interesse."
+      },
+      {
+       "text": "Sì. Com'è una giornata tipo?",
+       "textPt": "Sim. Como é um dia típico?"
+      },
+      {
+       "text": "Sì, quanto guadagno domani?",
+       "textPt": "Sim, quanto vou ganhar amanhã?",
+       "hint": "Perguntar quanto vai ganhar \"domani\" soa abrupto e pouco profissional; deixe o salário para depois."
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,1927 @@
+{
+ "game": "pronunciation",
+ "language": "fr",
+ "version": 1,
+ "entries": {
+  "sp01-01": {
+   "word": "génial",
+   "translit": null,
+   "example": "Ce match est vraiment génial !",
+   "examplePt": "Esse jogo é realmente ótimo!",
+   "pron": "jê-ni-AL — o 'g' soa como 'j' e os dois 'é' são fechados",
+   "curiosity": "'Génial' vem de 'génie' (gênio): é algo digno de um gênio."
+  },
+  "sp01-02": {
+   "word": "joli",
+   "translit": null,
+   "example": "Elle porte un joli chapeau rouge.",
+   "examplePt": "Ela usa um lindo chapéu vermelho.",
+   "pron": "jo-LI — o 'j' é o de 'já' e a força cai no 'li' final",
+   "curiosity": "'Joli' descreve o gracioso e delicado; para o imponente, diga 'magnifique'."
+  },
+  "sp01-03": {
+   "word": "incroyable",
+   "translit": null,
+   "example": "Tu as vu ce saut incroyable ?",
+   "examplePt": "Você viu esse salto incrível?",
+   "pron": "ẽ-krua-IÁ-bl — 'in' nasal, 'oy' vira 'uai' e o 'e' final é quase mudo",
+   "curiosity": "'Incroyable' é 'in-' + 'croyable': aquilo em que não dá para acreditar."
+  },
+  "sp01-04": {
+   "word": "parfait",
+   "translit": null,
+   "example": "Tout est parfait pour la fête.",
+   "examplePt": "Tudo está perfeito para a festa.",
+   "pron": "par-FÉ — o 'r' é gutural e o 't' final é mudo",
+   "curiosity": "'Parfait' também é uma sobremesa gelada francesa, servida em camadas."
+  },
+  "sp01-05": {
+   "word": "délicieux",
+   "translit": null,
+   "example": "Ce gâteau est vraiment délicieux !",
+   "examplePt": "Este bolo é realmente delicioso!",
+   "pron": "dê-li-SIÔ — o 'x' final é mudo e 'eux' é um 'ê' de lábios redondos",
+   "curiosity": "Para comida boa, os franceses dizem 'bon'; 'délicieux' é um degrau acima."
+  },
+  "sp01-06": {
+   "word": "amusant",
+   "translit": null,
+   "example": "Ce jeu est-il amusant ?",
+   "examplePt": "Esse jogo é divertido?",
+   "pron": "a-mü-ZÃ — 'u' é 'i' com lábios em 'u', 'an' nasal e o 't' é mudo",
+   "curiosity": "O 'amuse-bouche' é o petisco de abertura que 'diverte a boca'."
+  },
+  "sp01-07": {
+   "word": "malin",
+   "translit": null,
+   "example": "Le renard est très malin.",
+   "examplePt": "A raposa é muito esperta.",
+   "pron": "ma-LÉ — 'in' é um 'é' nasal e o 'n' não soa",
+   "curiosity": "O feminino de 'malin' é 'maligne': 'une fille maligne' é uma menina esperta."
+  },
+  "sp01-08": {
+   "word": "fort",
+   "translit": null,
+   "example": "Qui est le plus fort ici ?",
+   "examplePt": "Quem é o mais forte aqui?",
+   "pron": "FÓR — 'r' gutural, 'o' aberto e o 't' final é mudo",
+   "curiosity": "'Fort' também é advérbio literário: 'fort bien' quer dizer 'muito bem'."
+  },
+  "sp02-01": {
+   "word": "de l'aide",
+   "translit": null,
+   "example": "Tu peux me donner de l'aide ?",
+   "examplePt": "Você pode me dar uma ajuda?",
+   "pron": "dë LÉD — 'ai' soa 'é' e o 'e' final é mudo",
+   "curiosity": "'Au secours !' é o grito de emergência; 'de l'aide' é o pedido do dia a dia."
+  },
+  "sp02-02": {
+   "word": "le silence",
+   "translit": null,
+   "example": "Silence, le bébé dort !",
+   "examplePt": "Silêncio, o bebê dorme!",
+   "pron": "lë si-LÃS — 'en' nasal e o 's' final soa",
+   "curiosity": "Em música, 'un silence' é o nome da pausa escrita na partitura."
+  },
+  "sp02-03": {
+   "word": "la patience",
+   "translit": null,
+   "example": "Il faut de la patience pour pêcher.",
+   "examplePt": "É preciso paciência para pescar.",
+   "pron": "la pa-SIÃS — 'ti' soa 'si' e 'en' é nasal",
+   "curiosity": "La Fontaine escreveu que 'patience et longueur de temps font plus que force ni que rage'."
+  },
+  "sp02-04": {
+   "word": "l'attention",
+   "translit": null,
+   "example": "Fais attention à la marche !",
+   "examplePt": "Preste atenção no degrau!",
+   "pron": "la-tã-SIÕ — 'tt' é um 't' só; 'en' e 'on' são nasais",
+   "curiosity": "'Faire attention' é o jeito comum de dizer 'prestar atenção' ou 'tomar cuidado'."
+  },
+  "sp02-05": {
+   "word": "la prudence",
+   "translit": null,
+   "example": "Roule avec prudence sous la pluie.",
+   "examplePt": "Dirija com prudência na chuva.",
+   "pron": "prü-DÃS — 'r' gutural, 'u' é 'i' com lábios em 'u' e 'en' nasal",
+   "curiosity": "'Prudence' é parente próximo de 'prudência', mas 'attention !' é o aviso mais comum."
+  },
+  "sp02-06": {
+   "word": "le calme",
+   "translit": null,
+   "example": "Garde ton calme, tout va bien.",
+   "examplePt": "Mantenha a calma, está tudo bem.",
+   "pron": "KALM — uma sílaba só e o 'e' final é mudo",
+   "curiosity": "'Du calme !' é o jeito curto e direto de pedir calma."
+  },
+  "sp02-07": {
+   "word": "le respect",
+   "translit": null,
+   "example": "Le respect commence par un bonjour.",
+   "examplePt": "O respeito começa com um bom-dia.",
+   "pron": "rês-PÉ — 'r' gutural e o 'ct' final é mudo",
+   "curiosity": "'Sauf votre respect' é a fórmula educada de quem vai discordar."
+  },
+  "sp02-08": {
+   "word": "la chance",
+   "translit": null,
+   "example": "Quelle chance, j'ai gagné !",
+   "examplePt": "Que sorte, eu ganhei!",
+   "pron": "CHÃS — 'ch' como 'x' de xale e 'an' nasal",
+   "curiosity": "Falso amigo: 'chance' em francês é 'sorte', e não 'oportunidade'."
+  },
+  "sp03-01": {
+   "word": "le voisin",
+   "translit": null,
+   "example": "Mon voisin arrose ses fleurs.",
+   "examplePt": "Meu vizinho rega as flores.",
+   "pron": "lë vua-ZÉ — 'oi' soa 'uá', 's' vale 'z' e 'in' é nasal",
+   "curiosity": "'Voisin' vem do latim 'vicinus', a mesma origem do nosso 'vizinho'."
+  },
+  "sp03-02": {
+   "word": "l'enfant",
+   "translit": null,
+   "example": "L'enfant dessine un grand soleil.",
+   "examplePt": "A criança desenha um grande sol.",
+   "pron": "lã-FÃ — duas nasais, 'en' e 'an', e o 't' final é mudo",
+   "curiosity": "'Enfant' vem do latim 'infans', 'que não fala'; serve para menino ou menina."
+  },
+  "sp03-03": {
+   "word": "le bébé",
+   "translit": null,
+   "example": "Le bébé dort dans son berceau.",
+   "examplePt": "O bebê dorme no berço.",
+   "pron": "lë be-BÊ — os dois 'é' são fechados e a força cai no último",
+   "curiosity": "'Bébé' é sempre masculino em francês, mesmo para uma bebê menina."
+  },
+  "sp03-04": {
+   "word": "le garçon",
+   "translit": null,
+   "example": "Le garçon joue au ballon.",
+   "examplePt": "O menino brinca com a bola.",
+   "pron": "lë gar-SÕ — 'r' gutural, 'ç' vale 's' e 'on' é nasal",
+   "curiosity": "Em cafés, 'garçon' também quer dizer garçom."
+  },
+  "sp03-05": {
+   "word": "la petite fille",
+   "translit": null,
+   "example": "La petite fille saute à la corde.",
+   "examplePt": "A menina pula corda.",
+   "pron": "la pë-tit FIÏ — 'ille' soa 'i' + 'i' curto; o 'e' de 'pe' é fraco",
+   "curiosity": "Com hífen, 'petite-fille' é neta; sem hífen, é uma menina pequena."
+  },
+  "sp03-06": {
+   "word": "monsieur",
+   "translit": null,
+   "example": "Merci monsieur, bonne journée !",
+   "examplePt": "Obrigado, senhor, bom dia!",
+   "pron": "mê-SIÔ — 'eu' final é 'ê' com lábios redondos; 'r' e 's' não soam",
+   "curiosity": "'Monsieur' nasceu de 'mon sieur' (meu senhor); o plural é 'messieurs'."
+  },
+  "sp03-07": {
+   "word": "madame",
+   "translit": null,
+   "example": "Bonsoir madame, voulez-vous du thé ?",
+   "examplePt": "Boa noite, senhora, quer chá?",
+   "pron": "ma-DAM — 'a' aberto e o 'e' final é mudo",
+   "curiosity": "Desde 2012 a França tirou 'mademoiselle' dos formulários oficiais."
+  },
+  "sp03-08": {
+   "word": "le jeune homme",
+   "translit": null,
+   "example": "Le jeune homme tient la porte.",
+   "examplePt": "O rapaz segura a porta.",
+   "pron": "lë JÂN OM — 'j' como em 'já', 'eu' arredondado e 'h' mudo",
+   "curiosity": "'Les jeunes' é o que os franceses dizem para falar da juventude em geral."
+  },
+  "sp04-01": {
+   "word": "lundi",
+   "translit": null,
+   "example": "Lundi, j'ai un cours de piano.",
+   "examplePt": "Na segunda, tenho aula de piano.",
+   "pron": "lẽ-DI — 'un' é vogal nasal e o 'n' não soa",
+   "curiosity": "Os dias vêm dos astros: 'lundi' é o 'dia da Lua' (lune)."
+  },
+  "sp04-02": {
+   "word": "mardi",
+   "translit": null,
+   "example": "Mardi, nous allons à la piscine.",
+   "examplePt": "Na terça, vamos à piscina.",
+   "pron": "mar-DI — 'r' gutural e a força cai no 'di'",
+   "curiosity": "'Mardi' vem de Marte, o planeta e deus romano da guerra."
+  },
+  "sp04-03": {
+   "word": "mercredi",
+   "translit": null,
+   "example": "Que fais-tu mercredi après-midi ?",
+   "examplePt": "O que você faz na quarta à tarde?",
+   "pron": "mér-krë-DI — 'r' gutural e o 'e' do meio é fraquinho",
+   "curiosity": "'Mercredi' vem de Mercúrio, o deus romano mensageiro."
+  },
+  "sp04-04": {
+   "word": "jeudi",
+   "translit": null,
+   "example": "Jeudi soir, on dîne chez mamie.",
+   "examplePt": "Na quinta à noite, jantamos na casa da vovó.",
+   "pron": "jê-DI — 'j' como em 'já' e 'eu' com lábios redondos",
+   "curiosity": "Em francês, os dias da semana são masculinos e vão em letra minúscula."
+  },
+  "sp04-05": {
+   "word": "vendredi",
+   "translit": null,
+   "example": "Vendredi, c'est le dernier jour d'école.",
+   "examplePt": "Na sexta é o último dia de escola.",
+   "pron": "vã-drë-DI — 'en' nasal, 'r' gutural e 'e' do meio fraco",
+   "curiosity": "'Vendredi' vem de Vênus, a deusa romana do amor."
+  },
+  "sp04-06": {
+   "word": "samedi",
+   "translit": null,
+   "example": "Samedi, on dort jusqu'à midi.",
+   "examplePt": "No sábado, dormimos até meio-dia.",
+   "pron": "sam-DI — 'a' aberto e o 'e' do meio quase some",
+   "curiosity": "Os franceses dizem 'le week-end' em vez de 'fim de semana'."
+  },
+  "sp04-07": {
+   "word": "dimanche",
+   "translit": null,
+   "example": "Dimanche, la famille mange ensemble.",
+   "examplePt": "No domingo, a família come junta.",
+   "pron": "di-MÃCH — 'an' nasal e 'ch' como o 'x' de xale",
+   "curiosity": "Na França, muitas lojas fecham aos domingos."
+  },
+  "sp04-08": {
+   "word": "le jour férié",
+   "translit": null,
+   "example": "Demain est un jour férié, on dort !",
+   "examplePt": "Amanhã é feriado, vamos dormir!",
+   "pron": "lë JUR fe-RIÊ — 'ou' soa 'u', 'j' como em 'já' e 'r' gutural",
+   "curiosity": "Quando o feriado cai numa terça, muitos 'font le pont' e emendam a semana."
+  },
+  "sp05-01": {
+   "word": "janvier",
+   "translit": null,
+   "example": "Il neige souvent en janvier.",
+   "examplePt": "Neva muito em janeiro.",
+   "pron": "jã-VIÊ — 'j' como em 'já', 'an' nasal e o 'r' final é mudo",
+   "curiosity": "Em francês, os meses não levam letra maiúscula: 'janvier', 'mars'."
+  },
+  "sp05-02": {
+   "word": "mars",
+   "translit": null,
+   "example": "Au mois de mars, les fleurs arrivent.",
+   "examplePt": "Em março, as flores chegam.",
+   "pron": "MARS — 'a' aberto, 'r' gutural e o 's' final soa",
+   "curiosity": "A primavera francesa começa por volta de vinte de março."
+  },
+  "sp05-03": {
+   "word": "avril",
+   "translit": null,
+   "example": "Il pleut souvent en avril.",
+   "examplePt": "Chove muito em abril.",
+   "pron": "a-VRIL — 'r' gutural e o 'l' final soa",
+   "curiosity": "Em primeiro de abril, os franceses gritam 'poisson d'avril' e colam peixes de papel."
+  },
+  "sp05-04": {
+   "word": "le mois de mai",
+   "translit": null,
+   "example": "Le mois de mai est très joli.",
+   "examplePt": "O mês de maio é muito bonito.",
+   "pron": "lë MUA dë MÉ — 'oi' soa 'uá' e 'mai' soa 'mé'",
+   "curiosity": "Em primeiro de maio, os franceses dão ramos de lírio-do-vale (muguet) de presente."
+  },
+  "sp05-05": {
+   "word": "juin",
+   "translit": null,
+   "example": "Il fait déjà chaud en juin.",
+   "examplePt": "Já faz calor em junho.",
+   "pron": "ju-É — 'j' como em 'já' e 'uin' é um 'ué' nasal",
+   "curiosity": "Em vinte e um de junho, a França faz a 'Fête de la musique' nas ruas."
+  },
+  "sp05-06": {
+   "word": "juillet",
+   "translit": null,
+   "example": "Quand commencent les vacances de juillet ?",
+   "examplePt": "Quando começam as férias de julho?",
+   "pron": "jui-YÊ — 'j' como em 'já' e 'ill' soa 'i'",
+   "curiosity": "Julho homenageia Júlio César, o romano que reformou o calendário."
+  },
+  "sp05-07": {
+   "word": "août",
+   "translit": null,
+   "example": "Beaucoup de Français partent en août.",
+   "examplePt": "Muitos franceses viajam em agosto.",
+   "pron": "U — só se ouve um 'u': 'a' e 'o' são mudos",
+   "curiosity": "Agosto homenageia o imperador Augusto; antes chamava-se 'sextilis'."
+  },
+  "sp05-08": {
+   "word": "décembre",
+   "translit": null,
+   "example": "En décembre, on décore le sapin.",
+   "examplePt": "Em dezembro, enfeitamos o pinheiro.",
+   "pron": "dê-SÃN-br — 'é' fechado, 'em' nasal e o 'e' final quase mudo",
+   "curiosity": "'Décembre' vem de 'decem' (dez), pois já foi o décimo mês romano."
+  },
+  "sp06-01": {
+   "word": "attendez",
+   "translit": null,
+   "example": "Attendez-moi devant l'école, s'il vous plaît.",
+   "examplePt": "Esperem por mim na frente da escola, por favor.",
+   "pron": "a-tã-DÊ — 'tt' é um 't' só, 'en' nasal e 'ez' soa 'ê'",
+   "curiosity": "Falso amigo: 'attendre' é esperar, e não 'atender'."
+  },
+  "sp06-02": {
+   "word": "regardez",
+   "translit": null,
+   "example": "Regardez ce bel oiseau !",
+   "examplePt": "Olhem esse lindo pássaro!",
+   "pron": "rë-gar-DÊ — 'r' gutural e 'ez' final soa 'ê'",
+   "curiosity": "'Regarder' é olhar com intenção; 'voir' é só ver."
+  },
+  "sp06-03": {
+   "word": "écoutez",
+   "translit": null,
+   "example": "Écoutez bien cette chanson.",
+   "examplePt": "Escutem bem esta canção.",
+   "pron": "é-ku-TÊ — 'é' fechado e 'ou' soa 'u'",
+   "curiosity": "'Écouter' é ouvir com atenção; 'entendre' é só ouvir."
+  },
+  "sp06-04": {
+   "word": "essayez",
+   "translit": null,
+   "example": "Essayez ce gâteau, il est bon.",
+   "examplePt": "Tente este bolo, está bom.",
+   "pron": "é-sê-IÊ — 'ay' soa 'ei' e 'ez' final soa 'ê'",
+   "curiosity": "'Essayer' também é provar roupa: 'essayer une robe'."
+  },
+  "sp06-05": {
+   "word": "venez",
+   "translit": null,
+   "example": "Venez voir mon jardin !",
+   "examplePt": "Venha ver meu jardim!",
+   "pron": "vë-NÊ — o primeiro 'e' é fraco e 'ez' soa 'ê'",
+   "curiosity": "'Venir' é irregular: 'je viens', 'nous venons', 'ils viennent'."
+  },
+  "sp06-06": {
+   "word": "allons-y",
+   "translit": null,
+   "example": "Allons-y, le bus arrive !",
+   "examplePt": "Vamos, o ônibus está chegando!",
+   "pron": "a-lõ-ZI — 'on' nasal e o 's' liga com 'y' soando 'z'",
+   "curiosity": "No 'allons-y', o 'y' quer dizer 'lá': literalmente 'vamos lá'."
+  },
+  "sp06-07": {
+   "word": "restez",
+   "translit": null,
+   "example": "Restez ici, je reviens vite.",
+   "examplePt": "Fique aqui, volto logo.",
+   "pron": "rês-TÊ — 'r' gutural e 'ez' final soa 'ê'",
+   "curiosity": "'Rester' vem do latim 'restare', 'permanecer', e é parente do nosso 'restar'."
+  },
+  "sp06-08": {
+   "word": "prenez",
+   "translit": null,
+   "example": "Prenez un fruit, c'est gratuit.",
+   "examplePt": "Pegue uma fruta, é de graça.",
+   "pron": "prë-NÊ — 'r' gutural e 'ez' final soa 'ê'",
+   "curiosity": "'Prendre' vale por pegar, tomar e comer: 'prendre un café'."
+  },
+  "sp07-01": {
+   "word": "le riz",
+   "translit": null,
+   "example": "Ce soir, on mange du riz.",
+   "examplePt": "Hoje à noite, comemos arroz.",
+   "pron": "lë RI — 'r' gutural e o 'z' final é mudo",
+   "curiosity": "Na França, o arroz-doce se chama 'riz au lait'."
+  },
+  "sp07-02": {
+   "word": "les haricots",
+   "translit": null,
+   "example": "Les haricots verts sont croquants.",
+   "examplePt": "As vagens são crocantes.",
+   "pron": "lê a-ri-KÔ — 'h' mudo e o 't' final é mudo",
+   "curiosity": "'Haricots verts' são vagens, não feijões verdes."
+  },
+  "sp07-03": {
+   "word": "le poulet",
+   "translit": null,
+   "example": "Le poulet rôti sent très bon.",
+   "examplePt": "O frango assado está cheirosíssimo.",
+   "pron": "lë pu-LÊ — 'ou' soa 'u' e o 't' final é mudo",
+   "curiosity": "'Mon poulet' é um apelido carinhoso francês, como 'meu frango'."
+  },
+  "sp07-04": {
+   "word": "la viande",
+   "translit": null,
+   "example": "Tu manges de la viande ?",
+   "examplePt": "Você come carne?",
+   "pron": "la vi-ÃD — 'an' nasal e o 'e' final é mudo",
+   "curiosity": "Na cozinha francesa, peixe é 'poisson' e não conta como 'viande'."
+  },
+  "sp07-05": {
+   "word": "les pâtes",
+   "translit": null,
+   "example": "Les pâtes cuisent en dix minutes.",
+   "examplePt": "O macarrão cozinha em dez minutos.",
+   "pron": "lê PÂT — 'â' é um 'a' longo e o 'es' de 'les' soa 'lê'",
+   "curiosity": "'La pâte' é massa de pão ou bolo; no plural, 'les pâtes' é macarrão."
+  },
+  "sp07-06": {
+   "word": "la soupe",
+   "translit": null,
+   "example": "La soupe de légumes est chaude.",
+   "examplePt": "A sopa de legumes está quente.",
+   "pron": "la SUP — 'ou' soa 'u' e o 'e' final é mudo",
+   "curiosity": "A 'soupe à l'oignon' gratinada é um clássico da cozinha francesa."
+  },
+  "sp07-07": {
+   "word": "la salade",
+   "translit": null,
+   "example": "Tu veux de la salade verte ?",
+   "examplePt": "Você quer salada verde?",
+   "pron": "la sa-LAD — 'a' aberto e 'e' final mudo",
+   "curiosity": "'Raconter des salades' quer dizer contar mentiras, literalmente 'contar saladas'."
+  },
+  "sp07-08": {
+   "word": "la pizza",
+   "translit": null,
+   "example": "On partage une pizza ce soir ?",
+   "examplePt": "Dividimos uma pizza hoje à noite?",
+   "pron": "la PID-za — o 'zz' soa 'dz' e o 'a' final é claro",
+   "curiosity": "Em francês, 'pizza' é feminino: 'la pizza', 'une pizza'."
+  },
+  "sp08-01": {
+   "word": "le sandwich",
+   "translit": null,
+   "example": "Je prends un sandwich au jambon.",
+   "examplePt": "Vou pegar um sanduíche de presunto.",
+   "pron": "lë sãd-UITCH — 'an' é nasal e 'wich' soa 'uitch'",
+   "curiosity": "O sanduíche clássico francês é o 'jambon-beurre', no pão baguete."
+  },
+  "sp08-02": {
+   "word": "le hamburger",
+   "translit": null,
+   "example": "Le hamburger arrive avec des frites.",
+   "examplePt": "O hambúrguer chega com batatas fritas.",
+   "pron": "lë ãm-bur-GUÉR — 'h' mudo, 'am' nasal e 'r' gutural",
+   "curiosity": "'Hamburger' vem de Hamburgo, a cidade alemã."
+  },
+  "sp08-03": {
+   "word": "les frites",
+   "translit": null,
+   "example": "Les frites sont croustillantes.",
+   "examplePt": "As batatas fritas estão crocantes.",
+   "pron": "lê FRIT — 'r' gutural e o 'es' final é mudo",
+   "curiosity": "França e Bélgica disputam a invenção das 'frites'."
+  },
+  "sp08-04": {
+   "word": "le hot-dog",
+   "translit": null,
+   "example": "Un hot-dog avec de la moutarde ?",
+   "examplePt": "Um cachorro-quente com mostarda?",
+   "pron": "lë ot-DOG — 'h' mudo e 'o' aberto",
+   "curiosity": "No Canadá francês também se diz 'chien chaud', tradução literal."
+  },
+  "sp08-05": {
+   "word": "les chips",
+   "translit": null,
+   "example": "Tu veux des chips ?",
+   "examplePt": "Quer batatinhas?",
+   "pron": "lê CHIPS — 'ch' soa 'x' de xale e o 'ps' final soa",
+   "curiosity": "Em francês, 'chips' é palavra do inglês e se usa no plural: 'des chips'."
+  },
+  "sp08-06": {
+   "word": "la glace à l'eau",
+   "translit": null,
+   "example": "Je veux une glace à l'eau.",
+   "examplePt": "Quero um picolé de gelo.",
+   "pron": "la GLAS a LÔ — 'a' aberto e 'eau' soa 'ô'",
+   "curiosity": "A 'Galerie des Glaces' do palácio de Versalhes é o salão dos espelhos."
+  },
+  "sp08-07": {
+   "word": "le beignet salé",
+   "translit": null,
+   "example": "Ce beignet salé est tout chaud.",
+   "examplePt": "Este pastel salgado está quentinho.",
+   "pron": "lë bê-NHÊ sa-LÊ — 'gn' soa 'nh' e 'ei' soa 'ê'",
+   "curiosity": "Na Louisiana, os 'beignets' são uma sobremesa herdada dos franceses."
+  },
+  "sp08-08": {
+   "word": "le flan",
+   "translit": null,
+   "example": "Le flan est doux et tremblant.",
+   "examplePt": "O pudim é macio e trêmulo.",
+   "pron": "lë FLÃ — 'an' nasal e o 'n' não soa",
+   "curiosity": "Na França, 'flan' é uma torta de creme; o pudim de caramelo é 'crème caramel'."
+  },
+  "sp09-01": {
+   "word": "le parc",
+   "translit": null,
+   "example": "Le parc est plein d'enfants.",
+   "examplePt": "O parque está cheio de crianças.",
+   "pron": "lë PARK — 'r' gutural e o 'c' final soa 'k'",
+   "curiosity": "Paris tem dois enormes parques de bosque, o de Boulogne e o de Vincennes."
+  },
+  "sp09-02": {
+   "word": "le zoo",
+   "translit": null,
+   "example": "Le zoo ouvre à dix heures.",
+   "examplePt": "O zoológico abre às dez horas.",
+   "pron": "lë ZÔ — um 'o' fechado só, sem 'u' no final",
+   "curiosity": "'Zoo' é a abreviação de 'jardin zoologique', o nome completo dos zoológicos."
+  },
+  "sp09-03": {
+   "word": "la piscine",
+   "translit": null,
+   "example": "La piscine est froide aujourd'hui.",
+   "examplePt": "A piscina está fria hoje.",
+   "pron": "la pi-SIN — 'sc' soa 's' e 'ine' é 'in' oral, não nasal",
+   "curiosity": "'Piscine' vem do latim 'piscina', que era um tanque de peixes."
+  },
+  "sp09-04": {
+   "word": "les magasins",
+   "translit": null,
+   "example": "Les magasins ferment à vingt heures.",
+   "examplePt": "As lojas fecham às vinte horas.",
+   "pron": "lê ma-ga-ZÉ — 'g' duro, 'in' nasal e o 's' final mudo",
+   "curiosity": "'Magasin' vem do árabe 'makhazin' (depósitos) e é parente de 'magazine'."
+  },
+  "sp09-05": {
+   "word": "le stade",
+   "translit": null,
+   "example": "Le stade est rempli de fans.",
+   "examplePt": "O estádio está lotado de fãs.",
+   "pron": "lë STAD — 'a' aberto e o 'e' final é mudo",
+   "curiosity": "'Stade' vem do grego 'stádion', uma antiga medida de distância."
+  },
+  "sp09-06": {
+   "word": "l'aéroport",
+   "translit": null,
+   "example": "L'aéroport est à vingt minutes.",
+   "examplePt": "O aeroporto fica a vinte minutos.",
+   "pron": "la-é-ro-PÓR — 'r' gutural e o 't' final é mudo",
+   "curiosity": "Perto de Paris há dois grandes aeroportos, Roissy e Orly."
+  },
+  "sp09-07": {
+   "word": "le restaurant",
+   "translit": null,
+   "example": "Le restaurant ouvre à midi.",
+   "examplePt": "O restaurante abre ao meio-dia.",
+   "pron": "lë rês-to-RÃ — 'au' soa 'ô', 'an' nasal e 't' mudo",
+   "curiosity": "'Restaurant' vem de 'restaurer', restaurar as forças de quem come."
+  },
+  "sp09-08": {
+   "word": "le glacier",
+   "translit": null,
+   "example": "Le glacier vend des glaces.",
+   "examplePt": "O sorveteiro vende sorvetes.",
+   "pron": "lë gla-SIÊ — 'c' soa 's' e o 'r' final é mudo",
+   "curiosity": "'Glacier' é o sorveteiro e também a geleira de montanha."
+  },
+  "sp10-01": {
+   "word": "aujourd'hui",
+   "translit": null,
+   "example": "Aujourd'hui, il fait beau.",
+   "examplePt": "Hoje faz tempo bom.",
+   "pron": "o-jur-DUI — 'au' soa 'ô', 'j' como em 'já' e 'ui' é 'u'+'i' juntos",
+   "curiosity": "Literalmente 'au jour d'hui', 'no dia de hoje': o 'hoje' aparece duas vezes."
+  },
+  "sp10-02": {
+   "word": "hier",
+   "translit": null,
+   "example": "Hier, il a plu toute la nuit.",
+   "examplePt": "Ontem choveu a noite toda.",
+   "pron": "IÉR — 'h' mudo e 'r' gutural",
+   "curiosity": "'Hier soir' é o jeito de dizer 'ontem à noite'."
+  },
+  "sp10-03": {
+   "word": "demain",
+   "translit": null,
+   "example": "Demain, nous partons en voyage.",
+   "examplePt": "Amanhã, viajamos.",
+   "pron": "dë-MÉ — 'ain' é um 'é' nasal e o 'n' não soa",
+   "curiosity": "'Après-demain' é o jeito francês de dizer 'depois de amanhã'."
+  },
+  "sp10-04": {
+   "word": "maintenant",
+   "translit": null,
+   "example": "Maintenant, c'est ton tour !",
+   "examplePt": "Agora é a sua vez!",
+   "pron": "mét-NÃ — 'ain' nasal e 'ant' nasal; os 't' finais são mudos",
+   "curiosity": "'Maintenant' vem de 'main' + 'tenant': literalmente 'a mão segurando'."
+  },
+  "sp10-05": {
+   "word": "après",
+   "translit": null,
+   "example": "Après l'école, on joue.",
+   "examplePt": "Depois da escola, brincamos.",
+   "pron": "a-PRÉ — 'è' aberto e o 's' final é mudo",
+   "curiosity": "'Après-midi' é a tarde e pode ser masculino ou feminino."
+  },
+  "sp10-06": {
+   "word": "avant",
+   "translit": null,
+   "example": "Lave-toi avant le dîner.",
+   "examplePt": "Lave-se antes do jantar.",
+   "pron": "a-VÃ — 'an' nasal e o 't' final é mudo",
+   "curiosity": "'Avant' vira prefixo: 'avant-hier' é anteontem."
+  },
+  "sp10-07": {
+   "word": "ce soir",
+   "translit": null,
+   "example": "Ce soir, on regarde un film.",
+   "examplePt": "Hoje à noite, assistimos a um filme.",
+   "pron": "së SUAR — 'oi' soa 'uá' e 'r' gutural",
+   "curiosity": "'Bonsoir' se diz ao chegar e 'bonne soirée' ao se despedir."
+  },
+  "sp10-08": {
+   "word": "dans la matinée",
+   "translit": null,
+   "example": "Je t'appelle dans la matinée.",
+   "examplePt": "Ligo para você durante a manhã.",
+   "pron": "dã la ma-ti-NÊ — 'an' nasal e 't' duro",
+   "curiosity": "Como 'jour/journée', 'matin' é o momento e 'matinée' é a manhã toda."
+  },
+  "sp11-01": {
+   "word": "Tu en veux ?",
+   "translit": null,
+   "example": "Tu en veux un autre biscuit ?",
+   "examplePt": "Você quer outro biscoito?",
+   "pron": "tü ã VÊ — 'u' é 'i' com lábios em 'u'; 'en' nasal e 'eux' arredondado",
+   "curiosity": "O pronome 'en' substitui 'disso': 'Tu en veux ?' é 'Quer (disso)?'."
+  },
+  "sp11-02": {
+   "word": "Un peu de thé ?",
+   "translit": null,
+   "example": "Un peu de thé avec du miel ?",
+   "examplePt": "Um pouco de chá com mel?",
+   "pron": "ẽ pê dë TÊ — 'un' nasal e 'th' soa 't' simples",
+   "curiosity": "Os 'salons de thé' são casas de chá elegantes das cidades francesas."
+  },
+  "sp11-03": {
+   "word": "Servez-vous donc",
+   "translit": null,
+   "example": "Servez-vous donc de la salade !",
+   "examplePt": "Sirva-se de salada!",
+   "pron": "sér-vê-VU DÕK — 'ez' soa 'ê', 'ous' soa 'u' e 'on' nasal",
+   "curiosity": "Em 'servez-vous', o 'vous' é reflexivo: literalmente 'sirva a si mesmo'."
+  },
+  "sp11-04": {
+   "word": "Tu veux entrer ?",
+   "translit": null,
+   "example": "Tu veux entrer prendre un thé ?",
+   "examplePt": "Quer entrar para tomar um chá?",
+   "pron": "tü VÊ ã-TRÊ — 'eux' arredondado e 'an' nasal",
+   "curiosity": "Na França, 'l'entrée' é a entrada do cardápio, e não o prato principal."
+  },
+  "sp11-05": {
+   "word": "Je peux aider ?",
+   "translit": null,
+   "example": "Je peux aider à porter les sacs ?",
+   "examplePt": "Posso ajudar a carregar as sacolas?",
+   "pron": "jë PÊ é-DÊ — 'j' como em 'já', 'eux' arredondado e 'ai' soa 'é'",
+   "curiosity": "'Puis-je' é a forma mais formal de 'je peux' em perguntas."
+  },
+  "sp11-06": {
+   "word": "On va manger ?",
+   "translit": null,
+   "example": "On va manger des crêpes ?",
+   "examplePt": "Vamos comer crepes?",
+   "pron": "õ va mã-JÊ — 'on' nasal e 'ge' soa 'j'",
+   "curiosity": "Na fala, 'on' substitui 'nous': 'on va' é 'nós vamos'."
+  },
+  "sp11-07": {
+   "word": "Tu veux partager ?",
+   "translit": null,
+   "example": "Tu veux partager mon dessert ?",
+   "examplePt": "Quer dividir minha sobremesa?",
+   "pron": "tü vê par-ta-JÊ — 'r' gutural e 'g' soa 'j'",
+   "curiosity": "Em francês, 'partager' é dividir e também compartilhar nas redes."
+  },
+  "sp11-08": {
+   "word": "Tu veux goûter ?",
+   "translit": null,
+   "example": "Tu veux goûter ma soupe ?",
+   "examplePt": "Quer provar minha sopa?",
+   "pron": "tü vê gu-TÊ — 'oû' soa 'u' e 'g' duro",
+   "curiosity": "'Le goûter' é o lanche das crianças francesas por volta das quatro da tarde."
+  },
+  "sp12-01": {
+   "word": "C'était un plaisir",
+   "translit": null,
+   "example": "C'était un plaisir de vous aider.",
+   "examplePt": "Foi um prazer ajudar você.",
+   "pron": "sê-tê tẽ plê-ZIR — 'ai' soa 'ê', 'un' nasal e 'r' gutural",
+   "curiosity": "'Avec plaisir' é o 'com prazer' que se diz ao aceitar um pedido."
+  },
+  "sp12-02": {
+   "word": "Merci à vous",
+   "translit": null,
+   "example": "Non, merci à vous pour l'accueil.",
+   "examplePt": "Não, eu agradeço pela recepção.",
+   "pron": "mér-SI a VU — 'r' gutural e 'ous' soa 'u'",
+   "curiosity": "'Merci' vem do latim 'merces', 'recompensa', parente de 'mercê'."
+  },
+  "sp12-03": {
+   "word": "Il ne fallait pas",
+   "translit": null,
+   "example": "Il ne fallait pas, c'est adorable !",
+   "examplePt": "Não precisava, é adorável!",
+   "pron": "il nê fa-LÊ PÁ — 'll' é 'l' simples e 'ai' soa 'ê'",
+   "curiosity": "Ao ganhar um presente, 'Il ne fallait pas !' é pura gentileza francesa."
+  },
+  "sp12-04": {
+   "word": "Je suis ravi",
+   "translit": null,
+   "example": "Je suis ravi de te voir !",
+   "examplePt": "Fico feliz em ver você!",
+   "pron": "jë suí ra-VI — 'j' como em 'já' e 'ui' é 'u'+'i' juntos",
+   "curiosity": "Em 'être ravi', o verbo 'ravir' é encantar; 'ravissant' é encantador."
+  },
+  "sp12-05": {
+   "word": "Compte sur moi",
+   "translit": null,
+   "example": "Compte sur moi pour demain.",
+   "examplePt": "Conte comigo para amanhã.",
+   "pron": "kõt sür MUA — 'on' nasal, 'u' é 'i' com lábios em 'u' e 'oi' soa 'uá'",
+   "curiosity": "'Compter' vale por contar números e por confiar: 'compter sur'."
+  },
+  "sp12-06": {
+   "word": "J'ai beaucoup aimé",
+   "translit": null,
+   "example": "J'ai beaucoup aimé ce spectacle.",
+   "examplePt": "Gostei muito deste espetáculo.",
+   "pron": "jê bô-KU ê-MÊ — 'eau' soa 'ô' e o 'p' de 'beaucoup' é mudo",
+   "curiosity": "'Beaucoup' se escreve com 'coup' (golpe), mas só quer dizer 'muito'."
+  },
+  "sp12-07": {
+   "word": "Ça m'a beaucoup aidé",
+   "translit": null,
+   "example": "Ça m'a beaucoup aidé, ton conseil.",
+   "examplePt": "Seu conselho me ajudou muito.",
+   "pron": "sa ma bô-KU ê-DÊ — 'ç' soa 's' e 'ai' soa 'ê'",
+   "curiosity": "O verbo 'aider' pede objeto direto: 'aider quelqu'un'."
+  },
+  "sp12-08": {
+   "word": "C'était très utile",
+   "translit": null,
+   "example": "C'était très utile, ce guide.",
+   "examplePt": "Foi muito útil, esse guia.",
+   "pron": "sê-TÊ trê ü-TIL — 'u' é 'i' com lábios em 'u' e 'r' gutural",
+   "curiosity": "'Joindre l'utile à l'agréable' é a expressão para unir o útil ao agradável."
+  },
+  "sp13-01": {
+   "word": "C'est magnifique",
+   "translit": null,
+   "example": "C'est magnifique, ce tableau !",
+   "examplePt": "É magnífico, esse quadro!",
+   "pron": "sê ma-nhi-FIK — 'gn' soa 'nh' e o 'ue' final é mudo",
+   "curiosity": "'Magnifique' vem do latim 'magnificus', 'que faz grandes coisas'."
+  },
+  "sp13-02": {
+   "word": "Tu chantes bien",
+   "translit": null,
+   "example": "Tu chantes bien, comme un rossignol.",
+   "examplePt": "Você canta bem, como um rouxinol.",
+   "pron": "tü CHÃT biẼ — 'ch' soa 'x', 'an' nasal e 'ien' soa 'ié' nasal",
+   "curiosity": "'Chanter faux' é cantar desafinado; 'chanter juste' é cantar afinado."
+  },
+  "sp13-03": {
+   "word": "Beau travail",
+   "translit": null,
+   "example": "Beau travail, tout le monde !",
+   "examplePt": "Bom trabalho, pessoal!",
+   "pron": "bô tra-VAI — 'eau' soa 'ô' e 'ail' soa 'ai'",
+   "curiosity": "'Beau' vira 'bel' antes de vogal: 'un bel enfant', mas 'un beau travail'."
+  },
+  "sp13-04": {
+   "word": "Quelle belle tenue",
+   "translit": null,
+   "example": "Quelle belle tenue pour la fête !",
+   "examplePt": "Que roupa linda para a festa!",
+   "pron": "kél bél të-NÜ — 'u' é 'i' com lábios em 'u' e o 'e' final é mudo",
+   "curiosity": "'Tenue' é o traje: 'tenue de soirée' é traje de gala."
+  },
+  "sp13-05": {
+   "word": "Tu es gentil",
+   "translit": null,
+   "example": "Tu es gentil avec tout le monde.",
+   "examplePt": "Você é gentil com todo mundo.",
+   "pron": "tü ê jã-TI — 'g' soa 'j', 'en' nasal e o 'l' final é mudo",
+   "curiosity": "'Gentil' é bonzinho; a gentileza em si se chama 'gentillesse'."
+  },
+  "sp13-06": {
+   "word": "Très bien",
+   "translit": null,
+   "example": "Très bien, tu as réussi !",
+   "examplePt": "Muito bem, você conseguiu!",
+   "pron": "trê BIẼ — 'r' gutural e 'ien' soa 'ié' nasal",
+   "curiosity": "No 'baccalauréat', a 'mention très bien' é a mais alta nota de honra."
+  },
+  "sp13-07": {
+   "word": "Tu es rapide",
+   "translit": null,
+   "example": "Tu es rapide, tu as gagné !",
+   "examplePt": "Você é rápido, ganhou!",
+   "pron": "tü ê ra-PID — 'r' gutural e 'i' tônico",
+   "curiosity": "'Rapide' é o adjetivo; como advérbio, 'depressa' diz-se 'vite'."
+  },
+  "sp13-08": {
+   "word": "Bonne idée",
+   "translit": null,
+   "example": "Bonne idée, allons au parc !",
+   "examplePt": "Boa ideia, vamos ao parque!",
+   "pron": "bón i-DÊ — 'nn' soa um 'n' leve e 'ée' soa 'ê'",
+   "curiosity": "'Idée' é feminino em francês, por isso é 'bonne idée' e não 'bon idée'."
+  },
+  "sp14-01": {
+   "word": "On sort ?",
+   "translit": null,
+   "example": "On sort ce soir ?",
+   "examplePt": "Vamos sair hoje à noite?",
+   "pron": "õ SÓR — 'on' nasal e 'r' final gutural",
+   "curiosity": "'Sortir' é sair e também lançar: 'un film sort au cinéma'."
+  },
+  "sp14-02": {
+   "word": "On se retrouve où ?",
+   "translit": null,
+   "example": "On se retrouve où, devant le cinéma ?",
+   "examplePt": "Nos encontramos onde, em frente ao cinema?",
+   "pron": "õ së rë-TRUV U — 'ou' soa 'u' e 'on' é nasal",
+   "curiosity": "'Où' com acento é 'onde'; 'ou' sem acento é 'ou' de alternativa."
+  },
+  "sp14-03": {
+   "word": "À quelle heure ?",
+   "translit": null,
+   "example": "À quelle heure commence le film ?",
+   "examplePt": "A que horas começa o filme?",
+   "pron": "a kél ÊR — 'h' mudo e 'eu' arredondado",
+   "curiosity": "Por escrito, os franceses usam 24 horas: 'seize heures' é quatro da tarde."
+  },
+  "sp14-04": {
+   "word": "Je t'attends là-bas",
+   "translit": null,
+   "example": "Je t'attends là-bas, devant l'entrée.",
+   "examplePt": "Espero você lá, em frente à entrada.",
+   "pron": "jë ta-TÃ la-BA — 'tt' é um 't' só e 'en' nasal",
+   "curiosity": "'Là-bas' é literalmente 'lá embaixo', mas serve para qualquer lugar distante."
+  },
+  "sp14-05": {
+   "word": "J'arrive dans dix minutes",
+   "translit": null,
+   "example": "J'arrive dans dix minutes, ne bouge pas.",
+   "examplePt": "Chego em dez minutos, não saia daí.",
+   "pron": "ja-RIV dã DI mi-NÜT — 'dix' soa 'di'; 'dans' tem 'an' nasal",
+   "curiosity": "'Dans dix minutes' indica o futuro; 'il y a dix minutes' indica o passado."
+  },
+  "sp14-06": {
+   "word": "Préviens-moi plus tard",
+   "translit": null,
+   "example": "Préviens-moi plus tard si tu viens.",
+   "examplePt": "Me avise depois se você vier.",
+   "pron": "pré-viẼ MUA plü TAR — 'ien' soa 'ié' nasal e 'u' é lábios em 'u'",
+   "curiosity": "'Mieux vaut prévenir que guérir' é o provérbio francês para 'prevenir é melhor'."
+  },
+  "sp14-07": {
+   "word": "Ça marche",
+   "translit": null,
+   "example": "Ça marche, à samedi !",
+   "examplePt": "Combinado, até sábado!",
+   "pron": "sa MARCH — 'ç' soa 's' e 'ch' soa 'x'",
+   "curiosity": "Literalmente 'isso anda': é o jeito francês de dizer 'combinado'."
+  },
+  "sp14-08": {
+   "word": "J'apporte quelque chose ?",
+   "translit": null,
+   "example": "J'apporte quelque chose à manger ?",
+   "examplePt": "Levo algo para comer?",
+   "pron": "ja-PÓRT kél-kë CHÔZ — 'pp' é um 'p' só e 'ch' soa 'x'",
+   "curiosity": "'Apporter' é trazer algo para um lugar; 'emporter' é levar embora."
+  },
+  "sp15-01": {
+   "word": "Quelle bonne nouvelle",
+   "translit": null,
+   "example": "Quelle bonne nouvelle pour ta famille !",
+   "examplePt": "Que ótima notícia para sua família!",
+   "pron": "kél bón nu-VÉL — 'ou' soa 'u' e 'lle' soa 'l'",
+   "curiosity": "'Une nouvelle' é uma notícia, mas também um conto curto."
+  },
+  "sp15-02": {
+   "word": "Je n'y crois pas",
+   "translit": null,
+   "example": "Je n'y crois pas, tu as gagné ?",
+   "examplePt": "Não acredito, você ganhou?",
+   "pron": "jë ni KRUÁ PÁ — 'r' gutural e 'oi' soa 'uá'",
+   "curiosity": "Em 'Je n'y crois pas', o 'y' substitui 'nisso': 'não acredito nisso'."
+  },
+  "sp15-03": {
+   "word": "C'est vrai ?",
+   "translit": null,
+   "example": "C'est vrai, ton chat parle ?",
+   "examplePt": "É verdade, seu gato fala?",
+   "pron": "sê VRÊ — 'r' gutural e 'ai' soa 'ê'",
+   "curiosity": "'Pour de vrai' é o 'de verdade' das crianças francesas."
+  },
+  "sp15-04": {
+   "word": "Quelle peur",
+   "translit": null,
+   "example": "Quelle peur, un chien a aboyé !",
+   "examplePt": "Que susto, um cachorro latiu!",
+   "pron": "kél PÂR — diga 'é' com lábios arredondados e 'r' gutural",
+   "curiosity": "Em francês se 'tem' medo: 'avoir peur', com o verbo 'avoir'."
+  },
+  "sp15-05": {
+   "word": "Quelle surprise",
+   "translit": null,
+   "example": "Quelle surprise, tu es là !",
+   "examplePt": "Que surpresa, você está aqui!",
+   "pron": "kél sür-PRIZ — 'u' é 'i' com lábios em 'u' e 's' soa 'z'",
+   "curiosity": "'Surprise' é 'sur-' + 'prendre': pegar alguém desprevenido."
+  },
+  "sp15-06": {
+   "word": "C'est drôle",
+   "translit": null,
+   "example": "C'est drôle, ton chapeau !",
+   "examplePt": "Que engraçado, seu chapéu!",
+   "pron": "sê DRÔL — 'ô' fechado e 'r' gutural",
+   "curiosity": "'Drôle' também pode ser estranho: 'c'est drôle' às vezes quer dizer 'que esquisito'."
+  },
+  "sp15-07": {
+   "word": "Trop mignon",
+   "translit": null,
+   "example": "Trop mignon, ce petit chaton !",
+   "examplePt": "Que fofo, esse gatinho!",
+   "pron": "trô mi-NHÕ — 'gn' soa 'nh' e 'on' nasal",
+   "curiosity": "Na gíria, 'trop' deixou de ser 'demais' e virou 'muito', como em 'trop bien'."
+  },
+  "sp15-08": {
+   "word": "Quel délice",
+   "translit": null,
+   "example": "Quel délice, ce chocolat fondant !",
+   "examplePt": "Que delícia, esse chocolate derretendo!",
+   "pron": "kél dê-LIS — 'é' fechado e o 'ce' final soa 's'",
+   "curiosity": "'Délice' é masculino no singular, mas feminino no plural: 'de belles délices'."
+  },
+  "sp16-01": {
+   "word": "Un aller-retour",
+   "translit": null,
+   "example": "Un aller-retour pour Nice, s'il vous plaît.",
+   "examplePt": "Uma passagem de ida e volta para Nice, por favor.",
+   "pron": "ẽ a-LÊ rë-TUR — 'un' nasal, 'er' soa 'ê' e 'r' gutural",
+   "curiosity": "'Un aller simple' é só ida; 'aller-retour' é ida e volta."
+  },
+  "sp16-02": {
+   "word": "Quel quai ?",
+   "translit": null,
+   "example": "Quel quai pour le train de Paris ?",
+   "examplePt": "Qual plataforma para o trem de Paris?",
+   "pron": "kél KÊ — 'quai' soa 'kê'",
+   "curiosity": "'Quai' também é a margem do rio: 'les quais de la Seine'."
+  },
+  "sp16-03": {
+   "word": "Il part quand ?",
+   "translit": null,
+   "example": "Il part quand, le prochain train ?",
+   "examplePt": "Quando parte o próximo trem?",
+   "pron": "il PAR KÃ — 'quand' tem 'an' nasal e 'd' mudo",
+   "curiosity": "'Partir' é irregular: 'je pars', 'tu pars', 'il part'."
+  },
+  "sp16-04": {
+   "word": "Je descends ici",
+   "translit": null,
+   "example": "Je descends ici, merci monsieur !",
+   "examplePt": "Desço aqui, obrigado, senhor!",
+   "pron": "jë dê-SÃ i-SI — 'sc' soa 's' e 'en' nasal",
+   "curiosity": "Nos ônibus franceses, acende-se o aviso 'arrêt demandé' quando alguém pede parada."
+  },
+  "sp16-05": {
+   "word": "Ici, s'il vous plaît",
+   "translit": null,
+   "example": "Ici, s'il vous plaît, c'est parfait.",
+   "examplePt": "Aqui, por favor, está ótimo.",
+   "pron": "i-SI sil vu PLÊ — 'ou' soa 'u' e 'aî' soa 'ê'",
+   "curiosity": "'S'il vous plaît' é 'se lhe agrada': a frase abreviou 'si il vous plaît'."
+  },
+  "sp16-06": {
+   "word": "Cette place est libre ?",
+   "translit": null,
+   "example": "Cette place est libre, asseyez-vous.",
+   "examplePt": "Este lugar está livre, sente-se.",
+   "pron": "sét PLAS ê LIBR — 'ette' soa 'ét' e o 'r' de 'libre' é fraquinho",
+   "curiosity": "'Place' é lugar e também praça: 'la place' central da cidade."
+  },
+  "sp16-07": {
+   "word": "Attachez votre ceinture",
+   "translit": null,
+   "example": "Attachez votre ceinture, nous décollons.",
+   "examplePt": "Apertem o cinto, vamos decolar.",
+   "pron": "a-ta-CHÊ vótr sẽ-TÜR — 'ch' soa 'x', 'ein' nasal e 'u' com lábios em 'u'",
+   "curiosity": "'Ceinture noire' é a faixa preta nas artes marciais."
+  },
+  "sp16-08": {
+   "word": "Il reste une place ?",
+   "translit": null,
+   "example": "Il reste une place dans le wagon ?",
+   "examplePt": "Sobrou um lugar no vagão?",
+   "pron": "il rést ün PLAS — 'u' é 'i' com lábios em 'u'",
+   "curiosity": "'Rester' também é sobrar: 'il reste du temps' é 'sobra tempo'."
+  },
+  "sp17-01": {
+   "word": "Sans sucre",
+   "translit": null,
+   "example": "Un café sans sucre, merci.",
+   "examplePt": "Um café sem açúcar, obrigado.",
+   "pron": "sã SÜKR — 'an' nasal, 'u' com lábios em 'u' e 'cre' quase mudo",
+   "curiosity": "'Sucre' vem do árabe 'sukkar', e 'açúcar' também."
+  },
+  "sp17-02": {
+   "word": "Avec des glaçons",
+   "translit": null,
+   "example": "Un jus d'orange avec des glaçons.",
+   "examplePt": "Um suco de laranja com gelo.",
+   "pron": "a-VÉK dê gla-SÕ — 'ç' soa 's' e 'on' nasal",
+   "curiosity": "'Glaçon' é 'glace' mais o sufixo '-on', o cubinho de gelo."
+  },
+  "sp17-03": {
+   "word": "Un peu plus",
+   "translit": null,
+   "example": "Un peu plus de sauce, s'il vous plaît.",
+   "examplePt": "Um pouco mais de molho, por favor.",
+   "pron": "ẽ pê PLÜS — 'un' nasal, 'eu' arredondado e 'u' com lábios em 'u'",
+   "curiosity": "'Plus' tem dois usos: 'plus de' (mais) e 'ne... plus' (não mais)."
+  },
+  "sp17-04": {
+   "word": "Pour moi aussi",
+   "translit": null,
+   "example": "Pour moi aussi, un jus de pomme.",
+   "examplePt": "Para mim também, um suco de maçã.",
+   "pron": "pur MUA ô-SI — 'ou' soa 'u', 'oi' soa 'uá' e 'au' soa 'ô'",
+   "curiosity": "'Moi aussi' é 'eu também'; 'moi non plus' é 'eu também não'."
+  },
+  "sp17-05": {
+   "word": "La même chose",
+   "translit": null,
+   "example": "La même chose pour mon frère.",
+   "examplePt": "A mesma coisa para meu irmão.",
+   "pron": "la mém CHÔZ — 'ê' aberto, 'ch' soa 'x' e 's' soa 'z'",
+   "curiosity": "'Même' serve para 'mesmo', 'até' e 'moi-même' (eu mesmo)."
+  },
+  "sp17-06": {
+   "word": "Juste une part",
+   "translit": null,
+   "example": "Juste une part de tarte, merci.",
+   "examplePt": "Só uma fatia de torta, obrigado.",
+   "pron": "JÜST ün PAR — 'j' como em 'já' e 'u' com lábios em 'u'",
+   "curiosity": "'Une part' é a fatia de bolo; 'une tranche' é a fatia fina de pão ou presunto."
+  },
+  "sp17-07": {
+   "word": "Un verre plein",
+   "translit": null,
+   "example": "Un verre plein de jus d'orange.",
+   "examplePt": "Um copo cheio de suco de laranja.",
+   "pron": "ẽ VÉR plẼ — 'un' e 'ein' são nasais e 'r' gutural",
+   "curiosity": "'Verre' também é o vidro, o material de que o copo é feito."
+  },
+  "sp17-08": {
+   "word": "C'est chaud ?",
+   "translit": null,
+   "example": "C'est chaud, ce café ?",
+   "examplePt": "Esse café está quente?",
+   "pron": "sê CHÔ — 'ch' soa 'x' e 'aud' soa 'ô' com o 'd' mudo",
+   "curiosity": "'Chaud' vira 'chaude' no feminino: 'la soupe est chaude'."
+  },
+  "sp18-01": {
+   "word": "J'ai froid",
+   "translit": null,
+   "example": "J'ai froid, donne-moi ton pull.",
+   "examplePt": "Estou com frio, me dê seu suéter.",
+   "pron": "jê FRUÁ — 'oi' soa 'uá' e o 'd' final é mudo",
+   "curiosity": "Em francês se 'tem' frio: 'avoir froid', e nunca 'être froid'."
+  },
+  "sp18-02": {
+   "word": "J'ai chaud",
+   "translit": null,
+   "example": "J'ai chaud, ouvre la fenêtre.",
+   "examplePt": "Estou com calor, abra a janela.",
+   "pron": "jê CHÔ — 'ch' soa 'x' e 'aud' soa 'ô'",
+   "curiosity": "'Il fait chaud' é o tempo; 'j'ai chaud' é a sensação da pessoa."
+  },
+  "sp18-03": {
+   "word": "Je suis inquiet",
+   "translit": null,
+   "example": "Je suis inquiet pour l'examen.",
+   "examplePt": "Estou preocupado com a prova.",
+   "pron": "jë suí ẽ-KIÊ — 'in' nasal, 'qu' soa 'k' e 't' mudo",
+   "curiosity": "No feminino, 'inquiet' vira 'inquiète', com acento grave."
+  },
+  "sp18-04": {
+   "word": "Je suis satisfait",
+   "translit": null,
+   "example": "Je suis satisfait de mon travail.",
+   "examplePt": "Estou satisfeito com meu trabalho.",
+   "pron": "jë suí sa-tis-FÊ — 'ait' soa 'ê' e o 't' final é mudo",
+   "curiosity": "'Satisfait' é particípio de 'satisfaire', verbo irregular."
+  },
+  "sp18-05": {
+   "word": "Je m'amuse bien",
+   "translit": null,
+   "example": "Je m'amuse bien avec mes amis.",
+   "examplePt": "Estou me divertindo com meus amigos.",
+   "pron": "jë ma-MÜZ BIẼ — 'u' com lábios em 'u', 's' soa 'z' e 'ien' nasal",
+   "curiosity": "'S'amuser' é reflexivo: literalmente 'divirto a mim mesmo'."
+  },
+  "sp18-06": {
+   "word": "Je vais très bien",
+   "translit": null,
+   "example": "Je vais très bien, merci, et toi ?",
+   "examplePt": "Vou muito bem, obrigado, e você?",
+   "pron": "jë VÊ trê BIẼ — 'ai' soa 'ê' e 'ien' nasal",
+   "curiosity": "À pergunta 'ça va ?', os franceses respondem 'ça va bien' ou 'comme ci, comme ça'."
+  },
+  "sp18-07": {
+   "word": "Je suis perplexe",
+   "translit": null,
+   "example": "Je suis perplexe devant ce puzzle.",
+   "examplePt": "Estou perplexo diante desse quebra-cabeça.",
+   "pron": "jë suí pér-PLÉKS — 'x' soa 'ks' e 'r' gutural",
+   "curiosity": "'Perplexe' vem do latim 'perplexus', 'entrelaçado'."
+  },
+  "sp18-08": {
+   "word": "Je tousse",
+   "translit": null,
+   "example": "Je tousse depuis ce matin.",
+   "examplePt": "Estou tossindo desde esta manhã.",
+   "pron": "jë TUS — 'ou' soa 'u' e 'sse' soa 's'",
+   "curiosity": "'Toussoter' é dar uma tossidinha discreta, como quem chama atenção."
+  },
+  "sp19-01": {
+   "word": "Comment était ta journée ?",
+   "translit": null,
+   "example": "Comment était ta journée à l'école ?",
+   "examplePt": "Como foi seu dia na escola?",
+   "pron": "ko-MÃ ê-tê ta jur-NÊ — 'an' nasal, 'ai' soa 'ê' e 'j' como em 'já'",
+   "curiosity": "'Bonne journée !' é a despedida francesa que deseja um bom dia inteiro."
+  },
+  "sp19-02": {
+   "word": "Tu habites ici ?",
+   "translit": null,
+   "example": "Tu habites ici depuis longtemps ?",
+   "examplePt": "Você mora aqui há muito tempo?",
+   "pron": "tü a-BIT i-SI — 'h' mudo e 'u' com lábios em 'u'",
+   "curiosity": "'Habiter' é morar e 'habitant' é o morador."
+  },
+  "sp19-03": {
+   "word": "Tu fais quoi ?",
+   "translit": null,
+   "example": "Tu fais quoi ce week-end ?",
+   "examplePt": "O que você faz neste fim de semana?",
+   "pron": "tü FÊ KUÁ — 'ai' soa 'ê' e 'quoi' soa 'kuá'",
+   "curiosity": "'Tu fais quoi ?' é informal; a versão formal é 'Que faites-vous ?'."
+  },
+  "sp19-04": {
+   "word": "Des frères ou sœurs ?",
+   "translit": null,
+   "example": "J'ai deux frères et une petite sœur.",
+   "examplePt": "Tenho dois irmãos e uma irmãzinha.",
+   "pron": "dê FRÉR u SÂR — 'r' gutural e 'œu' é um 'é' com lábios redondos",
+   "curiosity": "O 'œ' de 'sœur' é uma ligatura: as letras 'o' e 'e' grudadas."
+  },
+  "sp19-05": {
+   "word": "Quel âge as-tu ?",
+   "translit": null,
+   "example": "Quel âge as-tu, mon grand ?",
+   "examplePt": "Quantos anos você tem, rapaz?",
+   "pron": "kél AJ a-TÜ — 'â' é um 'a' longo e 'ge' soa 'j'",
+   "curiosity": "Em francês se 'tem' idade: 'j'ai dix ans', nunca 'je suis dix ans'."
+  },
+  "sp19-06": {
+   "word": "Comment tu t'appelles ?",
+   "translit": null,
+   "example": "Comment tu t'appelles, toi ?",
+   "examplePt": "Como você se chama?",
+   "pron": "ko-MÃ tü ta-PÉL — 'an' nasal e 'lles' soa 'l'",
+   "curiosity": "Literalmente: 'como você se chama a si mesmo?', pois 's'appeler' é reflexivo."
+  },
+  "sp19-07": {
+   "word": "Tu aimes la musique ?",
+   "translit": null,
+   "example": "Tu aimes la musique rock ?",
+   "examplePt": "Você gosta de rock?",
+   "pron": "tü ÉM la mü-ZIK — 'ai' soa 'é' e 'u' com lábios em 'u'",
+   "curiosity": "'Aimer' serve para gostar e amar: 'j'aime ma mère', 'j'aime le chocolat'."
+  },
+  "sp19-08": {
+   "word": "Qu'est-ce que tu aimes ?",
+   "translit": null,
+   "example": "Qu'est-ce que tu aimes manger ?",
+   "examplePt": "O que você gosta de comer?",
+   "pron": "kés-kë tü ÉM — 'qu'est-ce que' soa 'késk' e 'ai' soa 'é'",
+   "curiosity": "'Qu'est-ce que' permite perguntar sem inverter o sujeito."
+  },
+  "sp20-01": {
+   "word": "On joue au ballon",
+   "translit": null,
+   "example": "On joue au ballon dans le jardin ?",
+   "examplePt": "Jogamos bola no jardim?",
+   "pron": "õ JU ô ba-LÕ — 'ou' soa 'u' e 'on' nasal",
+   "curiosity": "'Jouer à' vale para jogos e esportes; 'jouer de' vale para instrumentos."
+  },
+  "sp20-02": {
+   "word": "Allons au parc",
+   "translit": null,
+   "example": "Allons au parc après le déjeuner.",
+   "examplePt": "Vamos ao parque depois do almoço.",
+   "pron": "a-LÕ ô PARK — 'on' nasal e 'au' soa 'ô'",
+   "curiosity": "'Au' é a fusão de 'à' + 'le': 'au parc', 'au cinéma'."
+  },
+  "sp20-03": {
+   "word": "Allons peindre",
+   "translit": null,
+   "example": "Allons peindre un grand arc-en-ciel.",
+   "examplePt": "Vamos pintar um grande arco-íris.",
+   "pron": "a-LÕ PẼDR — 'on' e 'ein' nasais; o 'r' final é quase mudo",
+   "curiosity": "'Peindre' é irregular: 'je peins', 'nous peignons'."
+  },
+  "sp20-04": {
+   "word": "Allons nager",
+   "translit": null,
+   "example": "Allons nager dans la mer !",
+   "examplePt": "Vamos nadar no mar!",
+   "pron": "a-LÕ na-JÊ — 'g' soa 'j' e 'er' final soa 'ê'",
+   "curiosity": "'Nager' mantém o 'e': 'nous nageons'."
+  },
+  "sp20-05": {
+   "word": "Allons chanter",
+   "translit": null,
+   "example": "Allons chanter à la fête !",
+   "examplePt": "Vamos cantar na festa!",
+   "pron": "a-LÕ chã-TÊ — 'ch' soa 'x' e 'an' nasal",
+   "curiosity": "A 'chanson française' é um gênero de canções com letras poéticas."
+  },
+  "sp20-06": {
+   "word": "Faisons un gâteau",
+   "translit": null,
+   "example": "Faisons un gâteau au chocolat !",
+   "examplePt": "Vamos fazer um bolo de chocolate!",
+   "pron": "fê-ZÕ ẽ ga-TÔ — 'ai' soa 'ê', 'â' é 'a' longo e 'eau' soa 'ô'",
+   "curiosity": "'Faire' vale por fazer e por preparar: 'faire un gâteau'."
+  },
+  "sp20-07": {
+   "word": "Regardons un film",
+   "translit": null,
+   "example": "Regardons un film d'animation.",
+   "examplePt": "Vamos ver um filme de animação.",
+   "pron": "rë-gar-DÕ ẽ FILM — 'r' gutural e 'on' nasal",
+   "curiosity": "As primeiras sessões de cinema pagas ao público foram em Paris, em 1895."
+  },
+  "sp20-08": {
+   "word": "Faisons du vélo",
+   "translit": null,
+   "example": "Faisons du vélo au bord du lac.",
+   "examplePt": "Vamos pedalar à beira do lago.",
+   "pron": "fê-ZÕ dü vê-LÔ — 'u' com lábios em 'u' e 'é' fechado",
+   "curiosity": "O Tour de France é a corrida de bicicleta mais famosa e acontece todo verão."
+  },
+  "sp21-01": {
+   "word": "Pouvez-vous me dire l'heure ?",
+   "translit": null,
+   "example": "Il est presque midi, monsieur.",
+   "examplePt": "É quase meio-dia, senhor.",
+   "pron": "pu-vê-VU më DIR LÂR — 'ou' soa 'u', 'h' mudo e 'eu' arredondado",
+   "curiosity": "Com 'vous' a pergunta fica educada para desconhecidos; amigos usam 'tu'."
+  },
+  "sp21-02": {
+   "word": "Je cherche cette rue",
+   "translit": null,
+   "example": "Je cherche cette rue depuis vingt minutes.",
+   "examplePt": "Procuro esta rua há vinte minutos.",
+   "pron": "jë CHÉRCH sét RÜ — 'ch' soa 'x' e 'u' é 'i' com lábios em 'u'",
+   "curiosity": "'Chercher' é procurar e também buscar: 'chercher les enfants'."
+  },
+  "sp21-03": {
+   "word": "Comment aller au centre-ville ?",
+   "translit": null,
+   "example": "Prenez le tram, c'est direct.",
+   "examplePt": "Pegue o bonde, é direto.",
+   "pron": "ko-MÃ a-LÊ ô sãn-trë-VIL — 'an' nasais e 'lle' final soa 'l'",
+   "curiosity": "'Centre-ville' leva hífen e é masculino: 'le centre-ville'."
+  },
+  "sp21-04": {
+   "word": "Pouvez-vous appeler un taxi ?",
+   "translit": null,
+   "example": "Oui, bien sûr. Où allez-vous ?",
+   "examplePt": "Sim, claro. Aonde vão?",
+   "pron": "pu-vê-VU a-pê-LÊ ẽ tak-SI — 'pp' é um 'p' só e 'un' nasal",
+   "curiosity": "'Taxi' é abreviação de 'taximètre', o aparelho que calcula a tarifa."
+  },
+  "sp21-05": {
+   "word": "Mon téléphone n'a plus de batterie",
+   "translit": null,
+   "example": "J'ai un chargeur dans mon sac.",
+   "examplePt": "Tenho um carregador na minha bolsa.",
+   "pron": "mõ té-lé-FÓN na plü dë ba-trí — 'on' nasal e 'u' com lábios em 'u'",
+   "curiosity": "Na França, o celular costuma ser chamado de 'le portable'."
+  },
+  "sp21-06": {
+   "word": "Pouvez-vous me prendre en photo ?",
+   "translit": null,
+   "example": "Bien sûr, souriez bien !",
+   "examplePt": "Claro, sorriam!",
+   "pron": "pu-vê-VU më PRÃDR ã fo-TÔ — 'an' nasais e 'ph' soa 'f'",
+   "curiosity": "'Photo' é abreviação de 'photographie' e é feminino: 'une photo'."
+  },
+  "sp21-07": {
+   "word": "Cette rue mène à la place ?",
+   "translit": null,
+   "example": "Oui, elle débouche sur la place.",
+   "examplePt": "Sim, ela desemboca na praça.",
+   "pron": "sét RÜ MÉN a la PLAS — 'ette' soa 'ét' e 'è' é aberto",
+   "curiosity": "'Tous les chemins mènent à Rome' é o provérbio francês para 'todos os caminhos'."
+  },
+  "sp21-08": {
+   "word": "Y a-t-il une pharmacie près d'ici ?",
+   "translit": null,
+   "example": "Oui, il y en a une au coin.",
+   "examplePt": "Sim, tem uma na esquina.",
+   "pron": "i a-TIL ün far-ma-SI prê di-SI — 'ph' soa 'f' e 'pr' é gutural",
+   "curiosity": "A farmácia francesa tem como símbolo uma cruz verde luminosa."
+  },
+  "sp22-01": {
+   "word": "J'ai besoin de te parler",
+   "translit": null,
+   "example": "Bien sûr, entre, je t'écoute.",
+   "examplePt": "Claro, entre, estou ouvindo.",
+   "pron": "jê bë-ZUẼ dë të par-LÊ — 'oin' soa 'uẽ' nasal e 's' vale 'z'",
+   "curiosity": "'Avoir besoin de' é 'precisar de': literalmente 'ter necessidade de'."
+  },
+  "sp22-02": {
+   "word": "Puis-je fixer un rendez-vous ?",
+   "translit": null,
+   "example": "Oui, demain à neuf heures ?",
+   "examplePt": "Sim, amanhã às nove horas?",
+   "pron": "puí-jë fik-SÊ ẽ rã-dê-VU — 'ui' soa 'u'+'i' e 'x' soa 'ks'",
+   "curiosity": "'Rendez-vous' é um imperativo: literalmente 'apresentem-se'."
+  },
+  "sp22-03": {
+   "word": "Peux-tu envoyer le fichier ?",
+   "translit": null,
+   "example": "Je te l'envoie dans une minute.",
+   "examplePt": "Mando para você em um minuto.",
+   "pron": "pê-TÜ ã-vua-IÊ lë fi-CHIÊ — 'oi' soa 'uá' e 'ch' soa 'x'",
+   "curiosity": "Em informática, 'fichier' é arquivo e 'dossier' é pasta."
+  },
+  "sp22-04": {
+   "word": "Je termine ça avant vendredi",
+   "translit": null,
+   "example": "D'accord, c'est parfait pour nous.",
+   "examplePt": "Certo, está perfeito para nós.",
+   "pron": "jë tér-MIN sa a-VÃ vã-drë-DI — 'ç' soa 's' e 'an' nasal",
+   "curiosity": "Sem artigo, 'vendredi' já indica este dia: 'on se voit vendredi'."
+  },
+  "sp22-05": {
+   "word": "Internet est encore en panne",
+   "translit": null,
+   "example": "On appelle le technicien ?",
+   "examplePt": "Chamamos o técnico?",
+   "pron": "ẽ-tér-NÉT ê tã-KÓR ã PAN — 'in', 'en' e 'an' são nasais",
+   "curiosity": "'Être en panne' vale para carro, internet ou qualquer máquina que parou."
+  },
+  "sp22-06": {
+   "word": "Je vais arriver un peu en retard",
+   "translit": null,
+   "example": "Pas de souci, on t'attend.",
+   "examplePt": "Sem problemas, esperamos você.",
+   "pron": "jë vê a-ri-VÊ ẽ pê ã rë-TAR — 'ai' soa 'ê' e 'en' nasal",
+   "curiosity": "'En retard' é atrasado; 'en avance' é adiantado; 'à l'heure' é pontual."
+  },
+  "sp22-07": {
+   "word": "On revoit le plan ensemble",
+   "translit": null,
+   "example": "Oui, avec les notes de l'équipe.",
+   "examplePt": "Sim, com as anotações da equipe.",
+   "pron": "õ rë-VUÁ lë PLÃ ã-SÃMBL — 'on' e 'an' nasais e 'oi' soa 'uá'",
+   "curiosity": "'Au revoir' significa literalmente 'até rever'."
+  },
+  "sp22-08": {
+   "word": "Merci pour votre patience",
+   "translit": null,
+   "example": "Je vous en prie, ce n'est rien.",
+   "examplePt": "De nada, não foi nada.",
+   "pron": "mér-SI pur vótr pa-SIÃS — 'ou' soa 'u' e 'ti' soa 'si'",
+   "curiosity": "Em 'merci pour', o 'pour' introduz o motivo do agradecimento."
+  },
+  "sp23-01": {
+   "word": "J'ai adoré ce film",
+   "translit": null,
+   "example": "Moi aussi, surtout la fin.",
+   "examplePt": "Eu também, principalmente o final.",
+   "pron": "jê a-do-RÊ së FILM — 'r' gutural e o 'lm' final soa",
+   "curiosity": "'Adorer' é amar muito, e 'j'adore' é bem comum para gostar."
+  },
+  "sp23-02": {
+   "word": "J'ai trouvé ce livre très long",
+   "translit": null,
+   "example": "Moi, je l'ai lu en deux jours.",
+   "examplePt": "Eu li em dois dias.",
+   "pron": "jê tru-VÊ së LIVR trê LÕ — 'ou' soa 'u' e 'on' nasal",
+   "curiosity": "'Livre' é masculino quando é livro e feminino quando é a libra: 'une livre'."
+  },
+  "sp23-03": {
+   "word": "Je préfère l'été à l'hiver",
+   "translit": null,
+   "example": "Moi, je préfère la neige.",
+   "examplePt": "Eu prefiro a neve.",
+   "pron": "jë pré-FÉR lê-TÊ a li-VÉR — 'è' aberto, 'h' mudo e 'r' gutural",
+   "curiosity": "'Préférer' troca o acento: 'je préfère', mas 'nous préférons'."
+  },
+  "sp23-04": {
+   "word": "Cette musique est très entraînante",
+   "translit": null,
+   "example": "On a envie de danser !",
+   "examplePt": "Dá vontade de dançar!",
+   "pron": "sét mü-ZIK ê trê ã-trê-NÃT — 'u' com lábios em 'u' e 'an' nasal",
+   "curiosity": "'Entraînant' vem de 'entraîner', arrastar: a música 'arrasta' quem ouve."
+  },
+  "sp23-05": {
+   "word": "Je ne suis pas d'accord",
+   "translit": null,
+   "example": "Désolé, mais je pense autrement.",
+   "examplePt": "Desculpe, mas penso diferente.",
+   "pron": "jë në suí pa da-KÓR — 'ui' soa 'u'+'i' e 'cc' soa 'k'",
+   "curiosity": "'D'accord' é 'de acordo' e também o 'ok' da fala francesa."
+  },
+  "sp23-06": {
+   "word": "Ça me semble une bonne idée",
+   "translit": null,
+   "example": "Alors on le fait demain ?",
+   "examplePt": "Então fazemos amanhã?",
+   "pron": "sa më SÃMBL ün bón i-DÊ — 'ç' soa 's', 'em' nasal e 'ble' quase mudo",
+   "curiosity": "'Sembler' é parecer, e 'ressembler' é parecer-se com alguém."
+  },
+  "sp23-07": {
+   "word": "J'ai trouvé la nourriture trop salée",
+   "translit": null,
+   "example": "Moi, j'ai trouvé la soupe parfaite.",
+   "examplePt": "Eu achei a sopa perfeita.",
+   "pron": "jê tru-VÊ la nu-ri-TÜR trô sa-LÊ — 'ou' soa 'u' e 'u' com lábios em 'u'",
+   "curiosity": "'Nourriture' vem de 'nourrir' (alimentar); um bebê de peito é 'nourrisson'."
+  },
+  "sp23-08": {
+   "word": "J'aime mieux les chiens que les chats",
+   "translit": null,
+   "example": "Mon chien dort toute la journée.",
+   "examplePt": "Meu cachorro dorme o dia todo.",
+   "pron": "jém MIÔ lê CHIẼ kë lê CHA — 'ch' soa 'x' e 'ien' nasal",
+   "curiosity": "'Aimer mieux' é a forma coloquial de 'préférer'."
+  },
+  "sp24-01": {
+   "word": "Je veux apprendre la guitare",
+   "translit": null,
+   "example": "Commence par trois accords simples.",
+   "examplePt": "Comece com três acordes simples.",
+   "pron": "jë vê a-PRÃDR la gui-TAR — 'an' nasal e 'gu' diante de 'i' soa 'g'",
+   "curiosity": "Em francês não há 'violão': 'guitare' serve para a acústica e a elétrica."
+  },
+  "sp24-02": {
+   "word": "Je vais déménager dans une autre ville",
+   "translit": null,
+   "example": "Moi aussi, je cherche un appartement.",
+   "examplePt": "Eu também procuro um apartamento.",
+   "pron": "jë vê dê-mê-na-JÊ dãz ün OTR VIL — 'dans une' liga com 'z'",
+   "curiosity": "'Déménager' é mudar de casa e 'emménager' é entrar na casa nova."
+  },
+  "sp24-03": {
+   "word": "L'an prochain, je vais étudier",
+   "translit": null,
+   "example": "Elle étudie la biologie à Lyon.",
+   "examplePt": "Ela estuda biologia em Lyon.",
+   "pron": "lã pro-CHẼ jë vê é-tü-DIÊ — 'an' e 'ain' nasais e 'ch' soa 'x'",
+   "curiosity": "'L'an prochain' e 'l'année prochaine' querem dizer a mesma coisa."
+  },
+  "sp24-04": {
+   "word": "Je compte ouvrir une boulangerie",
+   "translit": null,
+   "example": "Quel beau projet ! Quand ouvre-t-elle ?",
+   "examplePt": "Que belo projeto! Quando ela abre?",
+   "pron": "jë KÕT u-VRIR ün bu-lã-jë-RI — 'on' e 'an' nasais e 'ou' soa 'u'",
+   "curiosity": "A 'boulangerie' vende pão e a 'pâtisserie' vende doces; muitas fazem os dois."
+  },
+  "sp24-05": {
+   "word": "Un jour, je verrai la mer",
+   "translit": null,
+   "example": "Au bord de la mer, j'ai vu des dauphins.",
+   "examplePt": "Na beira do mar, vi golfinhos.",
+   "pron": "ẽ JUR jë vé-RÊ la MÉR — 'r' gutural e 'ai' final soa 'ê'",
+   "curiosity": "'Au bord de la mer' é a expressão para 'à beira-mar'."
+  },
+  "sp24-06": {
+   "word": "Je veux avoir un chien",
+   "translit": null,
+   "example": "Mon voisin a un chien énorme.",
+   "examplePt": "Meu vizinho tem um cachorro enorme.",
+   "pron": "jë vê a-VUAR ẽ CHIẼ — 'oi' soa 'uá' e 'ien' soa 'ié' nasal",
+   "curiosity": "'Chien' é o cão, 'chienne' é a cadela e 'chiot' é o filhote."
+  },
+  "sp24-07": {
+   "word": "Je vais courir chaque matin",
+   "translit": null,
+   "example": "Courir le matin donne de l'énergie.",
+   "examplePt": "Correr de manhã dá energia.",
+   "pron": "jë vê ku-RIR chák ma-TẼ — 'ou' soa 'u', 'ch' soa 'x' e 'ain' nasal",
+   "curiosity": "'Chaque' é 'cada' e vem com substantivo; 'chacun' é 'cada um'."
+  },
+  "sp24-08": {
+   "word": "Je vais lire plus de livres",
+   "translit": null,
+   "example": "Moi, je lis un chapitre par jour.",
+   "examplePt": "Eu leio um capítulo por dia.",
+   "pron": "jë vê LIR plü dë LIVR — 'u' com lábios em 'u' e 'r' gutural",
+   "curiosity": "Hoje, muitas bibliotecas francesas se chamam 'médiathèques'."
+  },
+  "sp25-01": {
+   "word": "Samedi, je suis allé à la plage",
+   "translit": null,
+   "example": "Moi, je suis resté à la maison.",
+   "examplePt": "Eu fiquei em casa.",
+   "pron": "sam-DI jë suí za-LÊ a la PLAJ — 'ui' soa 'u'+'i' e liga o 'z'",
+   "curiosity": "Com 'aller' usa-se 'être': 'je suis allé', e nunca 'j'ai allé'."
+  },
+  "sp25-02": {
+   "word": "J'ai passé la journée à la maison",
+   "translit": null,
+   "example": "On a regardé des dessins animés.",
+   "examplePt": "Assistimos a desenhos animados.",
+   "pron": "jê pa-SÊ la jur-NÊ a la mé-ZÕ — 'j' como em 'já' e 'on' nasal",
+   "curiosity": "'Passer un examen' é fazer uma prova, e não 'passar' nela."
+  },
+  "sp25-03": {
+   "word": "J'ai retrouvé un vieil ami",
+   "translit": null,
+   "example": "Quelle belle surprise, non ?",
+   "examplePt": "Que bela surpresa, não?",
+   "pron": "jê rë-tru-VÊ ẽ viÉI a-MI — 'ou' soa 'u' e 'ieil' soa 'iéi'",
+   "curiosity": "'Vieux' vira 'vieil' antes de vogal: 'un vieil ami'."
+  },
+  "sp25-04": {
+   "word": "Il a plu toute la journée",
+   "translit": null,
+   "example": "Heureusement, on a des parapluies.",
+   "examplePt": "Felizmente, temos guarda-chuvas.",
+   "pron": "il a PLÜ tut la jur-NÊ — 'u' com lábios em 'u' e 'ou' soa 'u'",
+   "curiosity": "'Il pleut' é presente; 'il a plu' é passado, do verbo 'pleuvoir'."
+  },
+  "sp25-05": {
+   "word": "J'ai regardé un film génial",
+   "translit": null,
+   "example": "Il y avait des dragons dedans !",
+   "examplePt": "Tinha dragões nele!",
+   "pron": "jê rë-gar-DÊ ẽ FILM jê-ni-AL — 'r' gutural e 'g' soa 'j'",
+   "curiosity": "No cinema francês, a sessão se chama 'séance'."
+  },
+  "sp25-06": {
+   "word": "J'ai cuisiné pour ma famille",
+   "translit": null,
+   "example": "Tout le monde a repris du riz.",
+   "examplePt": "Todo mundo repetiu o arroz.",
+   "pron": "jê kui-zi-NÊ pur ma fa-MIÏ — 'ui' soa 'u'+'i' e 'ille' soa 'i'",
+   "curiosity": "A refeição gastronômica dos franceses é Patrimônio Imaterial da Unesco desde 2010."
+  },
+  "sp25-07": {
+   "word": "J'ai très bien dormi hier",
+   "translit": null,
+   "example": "Moi, j'ai rêvé d'un château !",
+   "examplePt": "Eu sonhei com um castelo!",
+   "pron": "jê trê BIẼ dor-MI IÉR — 'ien' nasal e 'h' mudo",
+   "curiosity": "'S'endormir' é adormecer; 'dormir' é estar dormindo."
+  },
+  "sp25-08": {
+   "word": "Je me suis levé très tôt",
+   "translit": null,
+   "example": "Moi, je me suis réveillé à six heures.",
+   "examplePt": "Eu acordei às seis horas.",
+   "pron": "jë më suí lë-VÊ trê TÔ — 'ui' soa 'u'+'i' e o 't' final é mudo",
+   "curiosity": "'Tôt' e 'tard' são opostos: 'se lever tôt', 'se coucher tard'."
+  },
+  "sp26-01": {
+   "word": "Enchanté de faire ta connaissance",
+   "translit": null,
+   "example": "Moi de même, bienvenue dans le groupe !",
+   "examplePt": "Igualmente, bem-vindo ao grupo!",
+   "pron": "ã-chã-TÊ dë FÉR ta ko-nê-SÃS — 'en' e 'an' são nasais",
+   "curiosity": "'Enchanté' vem de 'enchanter', encantar; mulheres dizem 'enchantée'."
+  },
+  "sp26-02": {
+   "word": "Tu veux un café avec moi ?",
+   "translit": null,
+   "example": "Oui, mais je prends un chocolat chaud.",
+   "examplePt": "Sim, mas eu pego um chocolate quente.",
+   "pron": "tü vê ẽ ka-FÊ a-VÉK MUA — 'un' nasal e 'oi' soa 'uá'",
+   "curiosity": "Num café francês, 'un café' sozinho é um expresso curto."
+  },
+  "sp26-03": {
+   "word": "On peut devenir amis ?",
+   "translit": null,
+   "example": "Bien sûr, on est déjà amis !",
+   "examplePt": "Claro, já somos amigos!",
+   "pron": "õ PÊ dë-vë-NIR a-MI — 'on' nasal e o 's' de 'amis' é mudo",
+   "curiosity": "'Devenir' conjuga como 'venir': 'je deviens', 'nous devenons'."
+  },
+  "sp26-04": {
+   "word": "On se parle plus souvent",
+   "translit": null,
+   "example": "Je t'envoie un message ce soir.",
+   "examplePt": "Mando uma mensagem hoje à noite.",
+   "pron": "õ së PARL plü su-VÃ — 'u' com lábios em 'u', 'ou' soa 'u' e 'ent' nasal",
+   "curiosity": "'Se parler' é recíproco: 'on se parle' é 'falamos um com o outro'."
+  },
+  "sp26-05": {
+   "word": "Je m'amuse toujours avec toi",
+   "translit": null,
+   "example": "Moi aussi, tu me fais rire.",
+   "examplePt": "Eu também, você me faz rir.",
+   "pron": "jë ma-MÜZ tu-JUR a-VÉK TUA — 'ou' soa 'u' e 'oi' soa 'uá'",
+   "curiosity": "'Toujours' vem de 'tous jours', 'todos os dias'."
+  },
+  "sp26-06": {
+   "word": "Je peux te présenter mon amie ?",
+   "translit": null,
+   "example": "Avec plaisir, elle a l'air sympa.",
+   "examplePt": "Com prazer, ela parece simpática.",
+   "pron": "jë pê të pré-zã-TÊ mõ na-MI — 'on' nasal, liga o 'n' e 'en' nasal",
+   "curiosity": "'Sympa' é abreviação de 'sympathique', muito usada na fala."
+  },
+  "sp26-07": {
+   "word": "J'ai adoré discuter avec toi",
+   "translit": null,
+   "example": "Moi aussi, on recommence bientôt !",
+   "examplePt": "Eu também, repetimos em breve!",
+   "pron": "jê a-do-RÊ dis-kü-TÊ a-VÉK TUA — 'u' com lábios em 'u'",
+   "curiosity": "Falso amigo: 'discuter' é bater papo e debater, não necessariamente brigar."
+  },
+  "sp26-08": {
+   "word": "Merci d'être venu aujourd'hui",
+   "translit": null,
+   "example": "De rien, c'était un vrai bonheur.",
+   "examplePt": "De nada, foi uma verdadeira alegria.",
+   "pron": "mér-SI DÉ-trë vë-NÜ o-jur-DUI — 'ê' aberto e 'u' com lábios em 'u'",
+   "curiosity": "'Merci de' + infinitivo agradece uma ação: 'merci d'être venu'."
+  },
+  "sp27-01": {
+   "word": "Vous voulez boire quelque chose ?",
+   "translit": null,
+   "example": "Un verre d'eau fraîche, s'il vous plaît.",
+   "examplePt": "Um copo de água gelada, por favor.",
+   "pron": "vu vu-LÊ BUAR kél-kë CHÔZ — 'oi' soa 'uá' e 'ch' soa 'x'",
+   "curiosity": "'Quelque chose' é neutro e leva 'de' + masculino: 'quelque chose de bon'."
+  },
+  "sp27-02": {
+   "word": "Le dîner est déjà prêt",
+   "translit": null,
+   "example": "Super, j'ai très faim !",
+   "examplePt": "Ótimo, estou com muita fome!",
+   "pron": "lë di-NÊ ê dê-JA PRÊ — 'j' como em 'já', 'ê' aberto e 't' mudo",
+   "curiosity": "Na França, 'dîner' é a refeição da noite e 'déjeuner' a do meio-dia."
+  },
+  "sp27-03": {
+   "word": "Vous pouvez vous asseoir ici",
+   "translit": null,
+   "example": "Merci, la chaise est confortable.",
+   "examplePt": "Obrigado, a cadeira é confortável.",
+   "pron": "vu pu-VÊ vu zas-SUAR i-SI — 'ous' soa 'u' e 'oi' soa 'uá'",
+   "curiosity": "'S'asseoir' é irregular: 'je m'assieds', 'ils s'asseyent'."
+  },
+  "sp27-04": {
+   "word": "Vous voulez vous resservir ?",
+   "translit": null,
+   "example": "Oui, juste un petit peu, merci.",
+   "examplePt": "Sim, só um pouquinho, obrigado.",
+   "pron": "vu vu-LÊ vu rë-sér-VIR — 'ou' soa 'u' e 'r' gutural",
+   "curiosity": "Na gíria, 'du rab' é a porção extra de comida."
+  },
+  "sp27-05": {
+   "word": "Cette soupe est très chaude",
+   "translit": null,
+   "example": "Attention, souffle dessus avant de goûter.",
+   "examplePt": "Cuidado, sopre antes de provar.",
+   "pron": "sét SUP ê trê CHÔD — 'ch' soa 'x' e o 'd' final soa",
+   "curiosity": "'Soufflé' vem de 'souffler' (soprar): o prato cresce como se fosse inflado."
+  },
+  "sp27-06": {
+   "word": "Il manquait un peu de sel",
+   "translit": null,
+   "example": "Je vais chercher la salière.",
+   "examplePt": "Vou buscar o saleiro.",
+   "pron": "il mã-KÊ ẽ pê dë SÉL — 'qu' soa 'k' e 'ait' soa 'ê'",
+   "curiosity": "'Salé-sucré' mistura os sabores salgado e doce no mesmo prato."
+  },
+  "sp27-07": {
+   "word": "Peux-tu passer le sel, s'il te plaît ?",
+   "translit": null,
+   "example": "Voilà, tu veux aussi du poivre ?",
+   "examplePt": "Aqui está, quer também pimenta?",
+   "pron": "pê-TÜ pa-SÊ lë SÉL sil të PLÊ — 'eu' arredondado e 'u' com lábios em 'u'",
+   "curiosity": "A 'fleur de sel' é o sal fino colhido nas salinas."
+  },
+  "sp27-08": {
+   "word": "Aujourd'hui, je paie l'addition",
+   "translit": null,
+   "example": "Non, non, laisse, c'est pour moi.",
+   "examplePt": "Não, deixa, é por minha conta.",
+   "pron": "o-jur-DUI jë PÉ la-di-SIÕ — 'ai' soa 'é', 'ti' soa 'si' e 'on' nasal",
+   "curiosity": "Em francês, 'addition' é a conta do restaurante e também a soma da matemática."
+  },
+  "sp28-01": {
+   "word": "Je dois boire plus d'eau",
+   "translit": null,
+   "example": "Une carafe d'eau, ça aide beaucoup.",
+   "examplePt": "Uma jarra de água ajuda muito.",
+   "pron": "jë DUA BUAR plü DÔ — 'oi' soa 'uá', 'u' com lábios em 'u' e 'eau' soa 'ô'",
+   "curiosity": "Nos restaurantes franceses, 'une carafe d'eau' é água de torneira, de graça."
+  },
+  "sp28-02": {
+   "word": "Je vais dormir plus tôt aujourd'hui",
+   "translit": null,
+   "example": "Bonne idée, tu as l'air fatigué.",
+   "examplePt": "Boa ideia, você parece cansado.",
+   "pron": "jë vê dor-MIR plü TÔ o-jur-DUI — 'u' com lábios em 'u' e 't' final mudo",
+   "curiosity": "'Faire la grasse matinée' é dormir até tarde: literalmente 'manhã gorda'."
+  },
+  "sp28-03": {
+   "word": "J'ai fait de l'exercice ce matin",
+   "translit": null,
+   "example": "Bravo, moi j'ai juste marché.",
+   "examplePt": "Parabéns, eu só caminhei.",
+   "pron": "jê fê dë légz-ér-SIS së ma-TẼ — 'x' soa 'gz' e 'ain' nasal",
+   "curiosity": "'Exercice' vale por exercício físico e por exercício escolar."
+  },
+  "sp28-04": {
+   "word": "J'essaie de mieux manger",
+   "translit": null,
+   "example": "Moins de sucre et plus de légumes.",
+   "examplePt": "Menos açúcar e mais legumes.",
+   "pron": "jé-SÉ dë MIÔ mã-JÊ — 'ai' soa 'é', 'eux' arredondado e 'ge' soa 'j'",
+   "curiosity": "Nos mercados franceses, 'fruits et légumes' ficam sempre lado a lado."
+  },
+  "sp28-05": {
+   "word": "Je dois aller chez le dentiste",
+   "translit": null,
+   "example": "Ne t'inquiète pas, ça va aller.",
+   "examplePt": "Não se preocupe, vai dar tudo certo.",
+   "pron": "jë DUA a-LÊ chê lë dã-TIST — 'oi' soa 'uá', 'chez' soa 'chê' e 'an' nasal",
+   "curiosity": "'Chez' quer dizer 'na casa de': 'chez le dentiste' é no consultório dele."
+  },
+  "sp28-06": {
+   "word": "Lave-toi les mains avant de manger",
+   "translit": null,
+   "example": "Oui, avec du savon pendant vingt secondes.",
+   "examplePt": "Sim, com sabão por vinte segundos.",
+   "pron": "lav-TUA lê MẼ a-VÃ dë mã-JÊ — 'oi' soa 'uá' e 'ain' nasal",
+   "curiosity": "O 'savon de Marseille' é um sabão tradicional francês, feito há séculos."
+  },
+  "sp28-07": {
+   "word": "Je vais prendre un thé chaud",
+   "translit": null,
+   "example": "Avec du miel et du citron.",
+   "examplePt": "Com mel e limão.",
+   "pron": "jë vê PRÃDR ẽ TÊ CHÔ — 'an' nasal, 'th' soa 't' e 'ch' soa 'x'",
+   "curiosity": "'Tisane' é o chá de ervas; 'thé' é o chá da planta do chá."
+  },
+  "sp28-08": {
+   "word": "Fais une pause et respire",
+   "translit": null,
+   "example": "Bonne idée, regarde par la fenêtre.",
+   "examplePt": "Boa ideia, olhe pela janela.",
+   "pron": "fê ün POZ ê rês-PIR — 'ai' soa 'ê' e 'u' com lábios em 'u'",
+   "curiosity": "'Inspirer' e 'expirer' são inspirar e expirar, parentes de 'respirer'."
+  },
+  "sp29-01": {
+   "word": "Je veux découvrir d'autres pays",
+   "translit": null,
+   "example": "Moi, je rêve de voir le Japon.",
+   "examplePt": "Eu sonho em ver o Japão.",
+   "pron": "jë vê dê-ku-VRIR DOTR pé-I — 'ou' soa 'u' e 'pays' soa 'pê-i'",
+   "curiosity": "'Pays' é igual no singular e no plural: 'un pays', 'des pays'."
+  },
+  "sp29-02": {
+   "word": "On va réserver l'hôtel aujourd'hui",
+   "translit": null,
+   "example": "Regarde, il y a une chambre vue sur mer.",
+   "examplePt": "Olhe, tem um quarto com vista para o mar.",
+   "pron": "õ va ré-zér-VÊ lo-TÉL o-jur-DUI — 'on' nasal e 'h' mudo",
+   "curiosity": "'Hôtel de ville' é o nome da prefeitura na França."
+  },
+  "sp29-03": {
+   "word": "Combien coûte le billet ?",
+   "translit": null,
+   "example": "Il coûte soixante euros.",
+   "examplePt": "Custa sessenta euros.",
+   "pron": "kõ-BIẼ KUT lë bi-IÊ — 'on' e 'ien' nasais e 'ill' soa 'i'",
+   "curiosity": "O euro é a moeda da França desde 2002."
+  },
+  "sp29-04": {
+   "word": "Il faut préparer les valises",
+   "translit": null,
+   "example": "N'oublie pas ton chapeau !",
+   "examplePt": "Não esqueça seu chapéu!",
+   "pron": "il FÔ pré-pa-RÊ lê va-LIZ — 'au' soa 'ô', 'r' gutural e 's' soa 'z'",
+   "curiosity": "'Falloir' só existe na 3ª pessoa: 'il faut' quer dizer 'é preciso'."
+  },
+  "sp29-05": {
+   "word": "On arrive tôt à l'aéroport",
+   "translit": null,
+   "example": "Oui, pour éviter la file d'attente.",
+   "examplePt": "Sim, para evitar a fila de espera.",
+   "pron": "õ na-RIV tô a la-é-ro-PÓR — 'on' nasal, liga o 'n' e 'r' gutural",
+   "curiosity": "'Arriver' também quer dizer acontecer: 'ça arrive' é 'isso acontece'."
+  },
+  "sp29-06": {
+   "word": "Où peut-on louer une voiture ?",
+   "translit": null,
+   "example": "Près de la gare, il y a une agence.",
+   "examplePt": "Perto da estação, tem uma agência.",
+   "pron": "u pê-TÕ lu-Ê ün vua-TÜR — 'ou' soa 'u', 'on' nasal e 'oi' soa 'uá'",
+   "curiosity": "'Louer' vale para alugar nos dois sentidos: o dono e o cliente 'louent'."
+  },
+  "sp29-07": {
+   "word": "Je veux visiter les musées de la ville",
+   "translit": null,
+   "example": "Surtout les musées de peinture.",
+   "examplePt": "Principalmente os museus de pintura.",
+   "pron": "jë vê vi-zi-TÊ lê mü-ZÊ dë la VIL — 'u' com lábios em 'u'",
+   "curiosity": "O Louvre, em Paris, é geralmente o museu mais visitado do mundo."
+  },
+  "sp29-08": {
+   "word": "La visite commence à neuf heures",
+   "translit": null,
+   "example": "On y sera, ne t'inquiète pas.",
+   "examplePt": "Estaremos lá, não se preocupe.",
+   "pron": "la vi-ZIT ko-MÃS a nê-VÂR — 'neuf heures' liga o 'f' em 'v'",
+   "curiosity": "A 'visite guidée' é a visita guiada, comum em monumentos franceses."
+  },
+  "sp30-01": {
+   "word": "C'était super de te voir",
+   "translit": null,
+   "example": "Pour moi aussi, à bientôt !",
+   "examplePt": "Para mim também, até breve!",
+   "pron": "sê-TÊ sü-PÉR dë të VUAR — 'u' com lábios em 'u' e 'oi' soa 'uá'",
+   "curiosity": "'Super' é adjetivo invariável em francês falado: 'des vacances super'."
+  },
+  "sp30-02": {
+   "word": "Envoie-moi un petit message",
+   "translit": null,
+   "example": "Promis, je t'écris ce soir.",
+   "examplePt": "Prometo, escrevo hoje à noite.",
+   "pron": "ã-vua-MUA ẽ pë-TI mé-SAJ — 'en' nasal, 'oi' soa 'uá' e 'ge' soa 'j'",
+   "curiosity": "Na França, 'un texto' é uma mensagem de celular."
+  },
+  "sp30-03": {
+   "word": "On garde le contact",
+   "translit": null,
+   "example": "Oui, écris-moi quand tu veux.",
+   "examplePt": "Sim, escreva quando quiser.",
+   "pron": "õ GARD lë kõ-TAKT — 'on' nasal e 'ct' final soa",
+   "curiosity": "'Garder le contact' e 'rester en contact' são as duas formas de manter contato."
+  },
+  "sp30-04": {
+   "word": "Dis bonjour à ta famille",
+   "translit": null,
+   "example": "Je le ferai, merci beaucoup !",
+   "examplePt": "Farei isso, muito obrigado!",
+   "pron": "di bõ-JUR a ta fa-MIÏ — 'on' nasal, 'j' como em 'já' e 'ille' soa 'i'",
+   "curiosity": "Com 'vous', o imperativo de 'dire' é irregular: 'dites', e não 'disez'."
+  },
+  "sp30-05": {
+   "word": "Reviens vite nous voir",
+   "translit": null,
+   "example": "Promis, je reviens en été.",
+   "examplePt": "Prometo, volto no verão.",
+   "pron": "rë-viẼ VIT nu VUAR — 'ien' soa 'ié' nasal e 'oi' soa 'uá'",
+   "curiosity": "'Revenir' é voltar para onde se está; 'retourner' é voltar a um lugar."
+  },
+  "sp30-06": {
+   "word": "Tu vas me manquer",
+   "translit": null,
+   "example": "Moi aussi, tu vas beaucoup me manquer.",
+   "examplePt": "Eu também sentirei muito sua falta.",
+   "pron": "tü va më mã-KÊ — 'u' com lábios em 'u', 'an' nasal e 'qu' soa 'k'",
+   "curiosity": "Em 'tu me manques', quem faz falta é o 'tu', e não quem sente."
+  },
+  "sp30-07": {
+   "word": "À la prochaine fois",
+   "translit": null,
+   "example": "Salut, et bon voyage !",
+   "examplePt": "Tchau, e boa viagem!",
+   "pron": "a la pro-CHÉN FUA — 'ch' soa 'x', 'è' aberto e 'oi' soa 'uá'",
+   "curiosity": "'Il était une fois' é o 'era uma vez' que abre os contos de fadas."
+  },
+  "sp30-08": {
+   "word": "Passe une bonne semaine",
+   "translit": null,
+   "example": "Merci, toi aussi !",
+   "examplePt": "Obrigado, você também!",
+   "pron": "PAS ün bón së-MÉN — 'u' com lábios em 'u' e 'e' de 'semaine' fraco",
+   "curiosity": "Os franceses desejam sem cerimônia 'bonne journée', 'bonne soirée' e 'bonne semaine'."
+  }
+ }
+}

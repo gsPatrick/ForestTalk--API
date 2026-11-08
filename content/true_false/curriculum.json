@@ -1,0 +1,1776 @@
+{
+ "game": "true_false",
+ "version": 2,
+ "phases": [
+  {
+   "phase": 1,
+   "globalPhase": 1,
+   "chapter": 1,
+   "level": "A1",
+   "theme": "Animais da fazenda",
+   "concepts": [
+    {
+     "id": "tf01-01",
+     "emoji": "🐄",
+     "pt": "vaca"
+    },
+    {
+     "id": "tf01-02",
+     "emoji": "🐖",
+     "pt": "porco"
+    },
+    {
+     "id": "tf01-03",
+     "emoji": "🐔",
+     "pt": "galinha"
+    },
+    {
+     "id": "tf01-04",
+     "emoji": "🐴",
+     "pt": "cavalo"
+    },
+    {
+     "id": "tf01-05",
+     "emoji": "🐑",
+     "pt": "ovelha"
+    },
+    {
+     "id": "tf01-06",
+     "emoji": "🦆",
+     "pt": "pato"
+    },
+    {
+     "id": "tf01-07",
+     "emoji": "🐐",
+     "pt": "cabra"
+    },
+    {
+     "id": "tf01-08",
+     "emoji": "🫏",
+     "pt": "burro"
+    },
+    {
+     "id": "tf01-09",
+     "emoji": "🐇",
+     "pt": "coelho"
+    },
+    {
+     "id": "tf01-10",
+     "emoji": "🦃",
+     "pt": "peru"
+    }
+   ]
+  },
+  {
+   "phase": 2,
+   "globalPhase": 2,
+   "chapter": 1,
+   "level": "A1",
+   "theme": "Bichos da floresta",
+   "concepts": [
+    {
+     "id": "tf02-01",
+     "emoji": "🐺",
+     "pt": "lobo"
+    },
+    {
+     "id": "tf02-02",
+     "emoji": "🐻",
+     "pt": "urso"
+    },
+    {
+     "id": "tf02-03",
+     "emoji": "🦊",
+     "pt": "raposa"
+    },
+    {
+     "id": "tf02-04",
+     "emoji": "🦌",
+     "pt": "veado"
+    },
+    {
+     "id": "tf02-05",
+     "emoji": "🐿️",
+     "pt": "esquilo"
+    },
+    {
+     "id": "tf02-06",
+     "emoji": "🦉",
+     "pt": "coruja"
+    },
+    {
+     "id": "tf02-07",
+     "emoji": "🐗",
+     "pt": "javali"
+    },
+    {
+     "id": "tf02-08",
+     "emoji": "🦡",
+     "pt": "texugo"
+    },
+    {
+     "id": "tf02-09",
+     "emoji": "🦝",
+     "pt": "guaxinim"
+    },
+    {
+     "id": "tf02-10",
+     "emoji": "🫎",
+     "pt": "alce"
+    }
+   ]
+  },
+  {
+   "phase": 3,
+   "globalPhase": 3,
+   "chapter": 1,
+   "level": "A1",
+   "theme": "Plantas e árvores",
+   "concepts": [
+    {
+     "id": "tf03-01",
+     "emoji": "🌳",
+     "pt": "árvore"
+    },
+    {
+     "id": "tf03-02",
+     "emoji": "🌸",
+     "pt": "flor"
+    },
+    {
+     "id": "tf03-03",
+     "emoji": "🍃",
+     "pt": "folha"
+    },
+    {
+     "id": "tf03-04",
+     "emoji": "🌱",
+     "pt": "grama"
+    },
+    {
+     "id": "tf03-05",
+     "emoji": "🍄",
+     "pt": "cogumelo"
+    },
+    {
+     "id": "tf03-06",
+     "emoji": "🌿",
+     "pt": "raiz"
+    },
+    {
+     "id": "tf03-07",
+     "emoji": "🌰",
+     "pt": "semente"
+    },
+    {
+     "id": "tf03-08",
+     "emoji": "🪵",
+     "pt": "galho"
+    },
+    {
+     "id": "tf03-09",
+     "emoji": "🌵",
+     "pt": "cacto"
+    },
+    {
+     "id": "tf03-10",
+     "emoji": "🌷",
+     "pt": "tulipa"
+    }
+   ]
+  },
+  {
+   "phase": 4,
+   "globalPhase": 4,
+   "chapter": 1,
+   "level": "A1",
+   "theme": "Clima e céu",
+   "concepts": [
+    {
+     "id": "tf04-01",
+     "emoji": "☀️",
+     "pt": "sol"
+    },
+    {
+     "id": "tf04-02",
+     "emoji": "🌙",
+     "pt": "lua"
+    },
+    {
+     "id": "tf04-03",
+     "emoji": "⭐",
+     "pt": "estrela"
+    },
+    {
+     "id": "tf04-04",
+     "emoji": "☁️",
+     "pt": "nuvem"
+    },
+    {
+     "id": "tf04-05",
+     "emoji": "🌧️",
+     "pt": "chuva"
+    },
+    {
+     "id": "tf04-06",
+     "emoji": "❄️",
+     "pt": "neve"
+    },
+    {
+     "id": "tf04-07",
+     "emoji": "💨",
+     "pt": "vento"
+    },
+    {
+     "id": "tf04-08",
+     "emoji": "🌈",
+     "pt": "arco-íris"
+    },
+    {
+     "id": "tf04-09",
+     "emoji": "⚡",
+     "pt": "trovão"
+    },
+    {
+     "id": "tf04-10",
+     "emoji": "🌫️",
+     "pt": "nevoeiro"
+    }
+   ]
+  },
+  {
+   "phase": 5,
+   "globalPhase": 5,
+   "chapter": 1,
+   "level": "A1",
+   "theme": "Frutas",
+   "concepts": [
+    {
+     "id": "tf05-01",
+     "emoji": "🍎",
+     "pt": "maçã"
+    },
+    {
+     "id": "tf05-02",
+     "emoji": "🍌",
+     "pt": "banana"
+    },
+    {
+     "id": "tf05-03",
+     "emoji": "🍇",
+     "pt": "uva"
+    },
+    {
+     "id": "tf05-04",
+     "emoji": "🍓",
+     "pt": "morango"
+    },
+    {
+     "id": "tf05-05",
+     "emoji": "🍉",
+     "pt": "melancia"
+    },
+    {
+     "id": "tf05-06",
+     "emoji": "🍋",
+     "pt": "limão"
+    },
+    {
+     "id": "tf05-07",
+     "emoji": "🍐",
+     "pt": "pera"
+    },
+    {
+     "id": "tf05-08",
+     "emoji": "🍍",
+     "pt": "abacaxi"
+    },
+    {
+     "id": "tf05-09",
+     "emoji": "🍒",
+     "pt": "cereja"
+    },
+    {
+     "id": "tf05-10",
+     "emoji": "🍈",
+     "pt": "melão"
+    }
+   ]
+  },
+  {
+   "phase": 6,
+   "globalPhase": 6,
+   "chapter": 1,
+   "level": "A1",
+   "theme": "Bebidas",
+   "concepts": [
+    {
+     "id": "tf06-01",
+     "emoji": "💧",
+     "pt": "água"
+    },
+    {
+     "id": "tf06-02",
+     "emoji": "🥛",
+     "pt": "leite"
+    },
+    {
+     "id": "tf06-03",
+     "emoji": "🧃",
+     "pt": "suco"
+    },
+    {
+     "id": "tf06-04",
+     "emoji": "☕",
+     "pt": "café"
+    },
+    {
+     "id": "tf06-05",
+     "emoji": "🍵",
+     "pt": "chá"
+    },
+    {
+     "id": "tf06-06",
+     "emoji": "🥤",
+     "pt": "refrigerante"
+    },
+    {
+     "id": "tf06-07",
+     "emoji": "🍋‍🟩",
+     "pt": "limonada"
+    },
+    {
+     "id": "tf06-08",
+     "emoji": "🍫",
+     "pt": "chocolate quente"
+    },
+    {
+     "id": "tf06-09",
+     "emoji": "🥥",
+     "pt": "água de coco"
+    },
+    {
+     "id": "tf06-10",
+     "emoji": "🥤",
+     "pt": "milkshake"
+    }
+   ]
+  },
+  {
+   "phase": 7,
+   "globalPhase": 7,
+   "chapter": 1,
+   "level": "A1",
+   "theme": "Comidas do café da manhã",
+   "concepts": [
+    {
+     "id": "tf07-01",
+     "emoji": "🍞",
+     "pt": "pão"
+    },
+    {
+     "id": "tf07-02",
+     "emoji": "🥚",
+     "pt": "ovo"
+    },
+    {
+     "id": "tf07-03",
+     "emoji": "🧀",
+     "pt": "queijo"
+    },
+    {
+     "id": "tf07-04",
+     "emoji": "🧈",
+     "pt": "manteiga"
+    },
+    {
+     "id": "tf07-05",
+     "emoji": "🥓",
+     "pt": "presunto"
+    },
+    {
+     "id": "tf07-06",
+     "emoji": "🥣",
+     "pt": "cereal"
+    },
+    {
+     "id": "tf07-07",
+     "emoji": "🍯",
+     "pt": "geleia"
+    },
+    {
+     "id": "tf07-08",
+     "emoji": "🍞",
+     "pt": "torrada"
+    },
+    {
+     "id": "tf07-09",
+     "emoji": "🥞",
+     "pt": "panqueca"
+    },
+    {
+     "id": "tf07-10",
+     "emoji": "🥛",
+     "pt": "iogurte"
+    }
+   ]
+  },
+  {
+   "phase": 8,
+   "globalPhase": 8,
+   "chapter": 1,
+   "level": "A1",
+   "theme": "Cumprimentos básicos",
+   "concepts": [
+    {
+     "id": "tf08-01",
+     "emoji": "👋",
+     "pt": "olá"
+    },
+    {
+     "id": "tf08-02",
+     "emoji": "🤚",
+     "pt": "tchau"
+    },
+    {
+     "id": "tf08-03",
+     "emoji": "🌅",
+     "pt": "bom dia"
+    },
+    {
+     "id": "tf08-04",
+     "emoji": "🌤️",
+     "pt": "boa tarde"
+    },
+    {
+     "id": "tf08-05",
+     "emoji": "🌙",
+     "pt": "boa noite"
+    },
+    {
+     "id": "tf08-06",
+     "emoji": "🙋",
+     "pt": "tudo bem?"
+    },
+    {
+     "id": "tf08-07",
+     "emoji": "🔜",
+     "pt": "até logo"
+    },
+    {
+     "id": "tf08-08",
+     "emoji": "📅",
+     "pt": "até amanhã"
+    },
+    {
+     "id": "tf08-09",
+     "emoji": "🤗",
+     "pt": "bem-vindo"
+    },
+    {
+     "id": "tf08-10",
+     "emoji": "🎉",
+     "pt": "bom fim de semana"
+    }
+   ]
+  },
+  {
+   "phase": 9,
+   "globalPhase": 9,
+   "chapter": 1,
+   "level": "A1",
+   "theme": "Palavras de cortesia",
+   "concepts": [
+    {
+     "id": "tf09-01",
+     "emoji": "🙏",
+     "pt": "obrigado"
+    },
+    {
+     "id": "tf09-02",
+     "emoji": "🥺",
+     "pt": "por favor"
+    },
+    {
+     "id": "tf09-03",
+     "emoji": "😔",
+     "pt": "desculpa"
+    },
+    {
+     "id": "tf09-04",
+     "emoji": "🚪",
+     "pt": "com licença"
+    },
+    {
+     "id": "tf09-05",
+     "emoji": "🤝",
+     "pt": "de nada"
+    },
+    {
+     "id": "tf09-06",
+     "emoji": "🎊",
+     "pt": "parabéns"
+    },
+    {
+     "id": "tf09-07",
+     "emoji": "✅",
+     "pt": "sim"
+    },
+    {
+     "id": "tf09-08",
+     "emoji": "❌",
+     "pt": "não"
+    },
+    {
+     "id": "tf09-09",
+     "emoji": "🤷",
+     "pt": "talvez"
+    },
+    {
+     "id": "tf09-10",
+     "emoji": "👍",
+     "pt": "com certeza"
+    }
+   ]
+  },
+  {
+   "phase": 10,
+   "globalPhase": 10,
+   "chapter": 1,
+   "level": "A1",
+   "theme": "Dados pessoais",
+   "concepts": [
+    {
+     "id": "tf10-01",
+     "emoji": "🏷️",
+     "pt": "nome"
+    },
+    {
+     "id": "tf10-02",
+     "emoji": "📛",
+     "pt": "sobrenome"
+    },
+    {
+     "id": "tf10-03",
+     "emoji": "🎂",
+     "pt": "idade"
+    },
+    {
+     "id": "tf10-04",
+     "emoji": "🌎",
+     "pt": "país"
+    },
+    {
+     "id": "tf10-05",
+     "emoji": "🏙️",
+     "pt": "cidade"
+    },
+    {
+     "id": "tf10-06",
+     "emoji": "🗣️",
+     "pt": "idioma"
+    },
+    {
+     "id": "tf10-07",
+     "emoji": "🎈",
+     "pt": "aniversário"
+    },
+    {
+     "id": "tf10-08",
+     "emoji": "🏠",
+     "pt": "endereço"
+    },
+    {
+     "id": "tf10-09",
+     "emoji": "📞",
+     "pt": "telefone"
+    },
+    {
+     "id": "tf10-10",
+     "emoji": "🧑‍🤝‍🧑",
+     "pt": "amigo"
+    }
+   ]
+  },
+  {
+   "phase": 11,
+   "globalPhase": 11,
+   "chapter": 2,
+   "level": "A2",
+   "theme": "Cores básicas",
+   "concepts": [
+    {
+     "id": "tf11-01",
+     "emoji": "🔴",
+     "pt": "vermelho"
+    },
+    {
+     "id": "tf11-02",
+     "emoji": "🔵",
+     "pt": "azul"
+    },
+    {
+     "id": "tf11-03",
+     "emoji": "🟡",
+     "pt": "amarelo"
+    },
+    {
+     "id": "tf11-04",
+     "emoji": "🟢",
+     "pt": "verde"
+    },
+    {
+     "id": "tf11-05",
+     "emoji": "🟠",
+     "pt": "laranja"
+    },
+    {
+     "id": "tf11-06",
+     "emoji": "🟣",
+     "pt": "roxo"
+    },
+    {
+     "id": "tf11-07",
+     "emoji": "🌸",
+     "pt": "rosa"
+    },
+    {
+     "id": "tf11-08",
+     "emoji": "⚫",
+     "pt": "preto"
+    },
+    {
+     "id": "tf11-09",
+     "emoji": "⚪",
+     "pt": "branco"
+    },
+    {
+     "id": "tf11-10",
+     "emoji": "🟤",
+     "pt": "marrom"
+    }
+   ]
+  },
+  {
+   "phase": 12,
+   "globalPhase": 12,
+   "chapter": 2,
+   "level": "A2",
+   "theme": "Números de 1 a 10",
+   "concepts": [
+    {
+     "id": "tf12-01",
+     "emoji": "1️⃣",
+     "pt": "um"
+    },
+    {
+     "id": "tf12-02",
+     "emoji": "2️⃣",
+     "pt": "dois"
+    },
+    {
+     "id": "tf12-03",
+     "emoji": "3️⃣",
+     "pt": "três"
+    },
+    {
+     "id": "tf12-04",
+     "emoji": "4️⃣",
+     "pt": "quatro"
+    },
+    {
+     "id": "tf12-05",
+     "emoji": "5️⃣",
+     "pt": "cinco"
+    },
+    {
+     "id": "tf12-06",
+     "emoji": "6️⃣",
+     "pt": "seis"
+    },
+    {
+     "id": "tf12-07",
+     "emoji": "7️⃣",
+     "pt": "sete"
+    },
+    {
+     "id": "tf12-08",
+     "emoji": "8️⃣",
+     "pt": "oito"
+    },
+    {
+     "id": "tf12-09",
+     "emoji": "9️⃣",
+     "pt": "nove"
+    },
+    {
+     "id": "tf12-10",
+     "emoji": "🔟",
+     "pt": "dez"
+    }
+   ]
+  },
+  {
+   "phase": 13,
+   "globalPhase": 13,
+   "chapter": 2,
+   "level": "A2",
+   "theme": "Formas geométricas",
+   "concepts": [
+    {
+     "id": "tf13-01",
+     "emoji": "⭕",
+     "pt": "círculo"
+    },
+    {
+     "id": "tf13-02",
+     "emoji": "🟦",
+     "pt": "quadrado"
+    },
+    {
+     "id": "tf13-03",
+     "emoji": "🔺",
+     "pt": "triângulo"
+    },
+    {
+     "id": "tf13-04",
+     "emoji": "▬",
+     "pt": "retângulo"
+    },
+    {
+     "id": "tf13-05",
+     "emoji": "❤️",
+     "pt": "coração"
+    },
+    {
+     "id": "tf13-06",
+     "emoji": "🔶",
+     "pt": "losango"
+    },
+    {
+     "id": "tf13-07",
+     "emoji": "🥚",
+     "pt": "oval"
+    },
+    {
+     "id": "tf13-08",
+     "emoji": "🧊",
+     "pt": "cubo"
+    },
+    {
+     "id": "tf13-09",
+     "emoji": "🔮",
+     "pt": "esfera"
+    },
+    {
+     "id": "tf13-10",
+     "emoji": "🥫",
+     "pt": "cilindro"
+    }
+   ]
+  },
+  {
+   "phase": 14,
+   "globalPhase": 14,
+   "chapter": 2,
+   "level": "A2",
+   "theme": "Números maiores",
+   "concepts": [
+    {
+     "id": "tf14-01",
+     "emoji": "1️⃣1️⃣",
+     "pt": "onze"
+    },
+    {
+     "id": "tf14-02",
+     "emoji": "🕛",
+     "pt": "doze"
+    },
+    {
+     "id": "tf14-03",
+     "emoji": "🖐️",
+     "pt": "quinze"
+    },
+    {
+     "id": "tf14-04",
+     "emoji": "🔢",
+     "pt": "vinte"
+    },
+    {
+     "id": "tf14-05",
+     "emoji": "🎳",
+     "pt": "trinta"
+    },
+    {
+     "id": "tf14-06",
+     "emoji": "🪙",
+     "pt": "cinquenta"
+    },
+    {
+     "id": "tf14-07",
+     "emoji": "💯",
+     "pt": "cem"
+    },
+    {
+     "id": "tf14-08",
+     "emoji": "📊",
+     "pt": "duzentos"
+    },
+    {
+     "id": "tf14-09",
+     "emoji": "🏆",
+     "pt": "mil"
+    },
+    {
+     "id": "tf14-10",
+     "emoji": "💰",
+     "pt": "milhão"
+    }
+   ]
+  },
+  {
+   "phase": 15,
+   "globalPhase": 15,
+   "chapter": 2,
+   "level": "A2",
+   "theme": "Rotina diária",
+   "concepts": [
+    {
+     "id": "tf15-01",
+     "emoji": "⏰",
+     "pt": "acordar"
+    },
+    {
+     "id": "tf15-02",
+     "emoji": "🛏️",
+     "pt": "levantar"
+    },
+    {
+     "id": "tf15-03",
+     "emoji": "🚿",
+     "pt": "tomar banho"
+    },
+    {
+     "id": "tf15-04",
+     "emoji": "🪥",
+     "pt": "escovar os dentes"
+    },
+    {
+     "id": "tf15-05",
+     "emoji": "💇",
+     "pt": "pentear"
+    },
+    {
+     "id": "tf15-06",
+     "emoji": "🥗",
+     "pt": "almoçar"
+    },
+    {
+     "id": "tf15-07",
+     "emoji": "🍽️",
+     "pt": "jantar"
+    },
+    {
+     "id": "tf15-08",
+     "emoji": "📚",
+     "pt": "estudar"
+    },
+    {
+     "id": "tf15-09",
+     "emoji": "😴",
+     "pt": "dormir"
+    },
+    {
+     "id": "tf15-10",
+     "emoji": "💭",
+     "pt": "sonhar"
+    }
+   ]
+  },
+  {
+   "phase": 16,
+   "globalPhase": 16,
+   "chapter": 2,
+   "level": "A2",
+   "theme": "Verbos de movimento",
+   "concepts": [
+    {
+     "id": "tf16-01",
+     "emoji": "🏃",
+     "pt": "correr"
+    },
+    {
+     "id": "tf16-02",
+     "emoji": "🚶",
+     "pt": "andar"
+    },
+    {
+     "id": "tf16-03",
+     "emoji": "🦘",
+     "pt": "pular"
+    },
+    {
+     "id": "tf16-04",
+     "emoji": "🏊",
+     "pt": "nadar"
+    },
+    {
+     "id": "tf16-05",
+     "emoji": "⬆️",
+     "pt": "subir"
+    },
+    {
+     "id": "tf16-06",
+     "emoji": "⬇️",
+     "pt": "descer"
+    },
+    {
+     "id": "tf16-07",
+     "emoji": "💃",
+     "pt": "dançar"
+    },
+    {
+     "id": "tf16-08",
+     "emoji": "🫸",
+     "pt": "empurrar"
+    },
+    {
+     "id": "tf16-09",
+     "emoji": "🫷",
+     "pt": "puxar"
+    },
+    {
+     "id": "tf16-10",
+     "emoji": "🧗",
+     "pt": "escalar"
+    }
+   ]
+  },
+  {
+   "phase": 17,
+   "globalPhase": 17,
+   "chapter": 2,
+   "level": "A2",
+   "theme": "Comunicar e pensar",
+   "concepts": [
+    {
+     "id": "tf17-01",
+     "emoji": "🗣️",
+     "pt": "falar"
+    },
+    {
+     "id": "tf17-02",
+     "emoji": "👂",
+     "pt": "ouvir"
+    },
+    {
+     "id": "tf17-03",
+     "emoji": "📖",
+     "pt": "ler"
+    },
+    {
+     "id": "tf17-04",
+     "emoji": "✍️",
+     "pt": "escrever"
+    },
+    {
+     "id": "tf17-05",
+     "emoji": "❓",
+     "pt": "perguntar"
+    },
+    {
+     "id": "tf17-06",
+     "emoji": "💬",
+     "pt": "responder"
+    },
+    {
+     "id": "tf17-07",
+     "emoji": "🤔",
+     "pt": "pensar"
+    },
+    {
+     "id": "tf17-08",
+     "emoji": "🧠",
+     "pt": "lembrar"
+    },
+    {
+     "id": "tf17-09",
+     "emoji": "🫥",
+     "pt": "esquecer"
+    },
+    {
+     "id": "tf17-10",
+     "emoji": "💡",
+     "pt": "entender"
+    }
+   ]
+  },
+  {
+   "phase": 18,
+   "globalPhase": 18,
+   "chapter": 2,
+   "level": "A2",
+   "theme": "Lugares da cidade",
+   "concepts": [
+    {
+     "id": "tf18-01",
+     "emoji": "🏦",
+     "pt": "banco"
+    },
+    {
+     "id": "tf18-02",
+     "emoji": "💊",
+     "pt": "farmácia"
+    },
+    {
+     "id": "tf18-03",
+     "emoji": "🥖",
+     "pt": "padaria"
+    },
+    {
+     "id": "tf18-04",
+     "emoji": "🏫",
+     "pt": "escola"
+    },
+    {
+     "id": "tf18-05",
+     "emoji": "🏥",
+     "pt": "hospital"
+    },
+    {
+     "id": "tf18-06",
+     "emoji": "⛲",
+     "pt": "praça"
+    },
+    {
+     "id": "tf18-07",
+     "emoji": "🛒",
+     "pt": "mercado"
+    },
+    {
+     "id": "tf18-08",
+     "emoji": "📚",
+     "pt": "biblioteca"
+    },
+    {
+     "id": "tf18-09",
+     "emoji": "🎬",
+     "pt": "cinema"
+    },
+    {
+     "id": "tf18-10",
+     "emoji": "🏛️",
+     "pt": "museu"
+    }
+   ]
+  },
+  {
+   "phase": 19,
+   "globalPhase": 19,
+   "chapter": 2,
+   "level": "A2",
+   "theme": "Meios de transporte",
+   "concepts": [
+    {
+     "id": "tf19-01",
+     "emoji": "🚌",
+     "pt": "ônibus"
+    },
+    {
+     "id": "tf19-02",
+     "emoji": "🚆",
+     "pt": "trem"
+    },
+    {
+     "id": "tf19-03",
+     "emoji": "✈️",
+     "pt": "avião"
+    },
+    {
+     "id": "tf19-04",
+     "emoji": "🚇",
+     "pt": "metrô"
+    },
+    {
+     "id": "tf19-05",
+     "emoji": "🚲",
+     "pt": "bicicleta"
+    },
+    {
+     "id": "tf19-06",
+     "emoji": "🚕",
+     "pt": "táxi"
+    },
+    {
+     "id": "tf19-07",
+     "emoji": "⛵",
+     "pt": "barco"
+    },
+    {
+     "id": "tf19-08",
+     "emoji": "🚚",
+     "pt": "caminhão"
+    },
+    {
+     "id": "tf19-09",
+     "emoji": "🏍️",
+     "pt": "moto"
+    },
+    {
+     "id": "tf19-10",
+     "emoji": "🚁",
+     "pt": "helicóptero"
+    }
+   ]
+  },
+  {
+   "phase": 20,
+   "globalPhase": 20,
+   "chapter": 2,
+   "level": "A2",
+   "theme": "Viagem e hotel",
+   "concepts": [
+    {
+     "id": "tf20-01",
+     "emoji": "🧳",
+     "pt": "mala"
+    },
+    {
+     "id": "tf20-02",
+     "emoji": "🛂",
+     "pt": "passaporte"
+    },
+    {
+     "id": "tf20-03",
+     "emoji": "🎫",
+     "pt": "passagem"
+    },
+    {
+     "id": "tf20-04",
+     "emoji": "🏨",
+     "pt": "hotel"
+    },
+    {
+     "id": "tf20-05",
+     "emoji": "🗺️",
+     "pt": "mapa"
+    },
+    {
+     "id": "tf20-06",
+     "emoji": "📝",
+     "pt": "reserva"
+    },
+    {
+     "id": "tf20-07",
+     "emoji": "🧑‍✈️",
+     "pt": "turista"
+    },
+    {
+     "id": "tf20-08",
+     "emoji": "🚧",
+     "pt": "fronteira"
+    },
+    {
+     "id": "tf20-09",
+     "emoji": "🛃",
+     "pt": "alfândega"
+    },
+    {
+     "id": "tf20-10",
+     "emoji": "🎁",
+     "pt": "lembrança"
+    }
+   ]
+  },
+  {
+   "phase": 21,
+   "globalPhase": 21,
+   "chapter": 3,
+   "level": "B1",
+   "theme": "Família próxima",
+   "concepts": [
+    {
+     "id": "tf21-01",
+     "emoji": "👩",
+     "pt": "mãe"
+    },
+    {
+     "id": "tf21-02",
+     "emoji": "👨",
+     "pt": "pai"
+    },
+    {
+     "id": "tf21-03",
+     "emoji": "👦",
+     "pt": "irmão"
+    },
+    {
+     "id": "tf21-04",
+     "emoji": "👧",
+     "pt": "irmã"
+    },
+    {
+     "id": "tf21-05",
+     "emoji": "🧒",
+     "pt": "filho"
+    },
+    {
+     "id": "tf21-06",
+     "emoji": "👶",
+     "pt": "filha"
+    },
+    {
+     "id": "tf21-07",
+     "emoji": "👴",
+     "pt": "avô"
+    },
+    {
+     "id": "tf21-08",
+     "emoji": "👵",
+     "pt": "avó"
+    },
+    {
+     "id": "tf21-09",
+     "emoji": "🧔",
+     "pt": "tio"
+    },
+    {
+     "id": "tf21-10",
+     "emoji": "👩‍🦰",
+     "pt": "tia"
+    }
+   ]
+  },
+  {
+   "phase": 22,
+   "globalPhase": 22,
+   "chapter": 3,
+   "level": "B1",
+   "theme": "Emoções básicas",
+   "concepts": [
+    {
+     "id": "tf22-01",
+     "emoji": "😄",
+     "pt": "feliz"
+    },
+    {
+     "id": "tf22-02",
+     "emoji": "😢",
+     "pt": "triste"
+    },
+    {
+     "id": "tf22-03",
+     "emoji": "😠",
+     "pt": "irritado"
+    },
+    {
+     "id": "tf22-04",
+     "emoji": "😨",
+     "pt": "com medo"
+    },
+    {
+     "id": "tf22-05",
+     "emoji": "😮",
+     "pt": "surpreso"
+    },
+    {
+     "id": "tf22-06",
+     "emoji": "😩",
+     "pt": "cansado"
+    },
+    {
+     "id": "tf22-07",
+     "emoji": "🥱",
+     "pt": "com sono"
+    },
+    {
+     "id": "tf22-08",
+     "emoji": "😑",
+     "pt": "entediado"
+    },
+    {
+     "id": "tf22-09",
+     "emoji": "🤩",
+     "pt": "animado"
+    },
+    {
+     "id": "tf22-10",
+     "emoji": "😬",
+     "pt": "nervoso"
+    }
+   ]
+  },
+  {
+   "phase": 23,
+   "globalPhase": 23,
+   "chapter": 3,
+   "level": "B1",
+   "theme": "Traços de personalidade",
+   "concepts": [
+    {
+     "id": "tf23-01",
+     "emoji": "😊",
+     "pt": "simpático"
+    },
+    {
+     "id": "tf23-02",
+     "emoji": "🙈",
+     "pt": "tímido"
+    },
+    {
+     "id": "tf23-03",
+     "emoji": "🦸",
+     "pt": "corajoso"
+    },
+    {
+     "id": "tf23-04",
+     "emoji": "🦥",
+     "pt": "preguiçoso"
+    },
+    {
+     "id": "tf23-05",
+     "emoji": "🎁",
+     "pt": "generoso"
+    },
+    {
+     "id": "tf23-06",
+     "emoji": "🐂",
+     "pt": "teimoso"
+    },
+    {
+     "id": "tf23-07",
+     "emoji": "🤞",
+     "pt": "honesto"
+    },
+    {
+     "id": "tf23-08",
+     "emoji": "🔍",
+     "pt": "curioso"
+    },
+    {
+     "id": "tf23-09",
+     "emoji": "⏳",
+     "pt": "paciente"
+    },
+    {
+     "id": "tf23-10",
+     "emoji": "🤡",
+     "pt": "engraçado"
+    }
+   ]
+  },
+  {
+   "phase": 24,
+   "globalPhase": 24,
+   "chapter": 3,
+   "level": "B1",
+   "theme": "Sentimentos e vínculos",
+   "concepts": [
+    {
+     "id": "tf24-01",
+     "emoji": "🌧️",
+     "pt": "saudade"
+    },
+    {
+     "id": "tf24-02",
+     "emoji": "💚",
+     "pt": "ciúme"
+    },
+    {
+     "id": "tf24-03",
+     "emoji": "🏅",
+     "pt": "orgulho"
+    },
+    {
+     "id": "tf24-04",
+     "emoji": "🫣",
+     "pt": "vergonha"
+    },
+    {
+     "id": "tf24-05",
+     "emoji": "🌟",
+     "pt": "esperança"
+    },
+    {
+     "id": "tf24-06",
+     "emoji": "🤝",
+     "pt": "confiança"
+    },
+    {
+     "id": "tf24-07",
+     "emoji": "👫",
+     "pt": "amizade"
+    },
+    {
+     "id": "tf24-08",
+     "emoji": "❤️",
+     "pt": "amor"
+    },
+    {
+     "id": "tf24-09",
+     "emoji": "😡",
+     "pt": "raiva"
+    },
+    {
+     "id": "tf24-10",
+     "emoji": "😮‍💨",
+     "pt": "alívio"
+    }
+   ]
+  },
+  {
+   "phase": 25,
+   "globalPhase": 25,
+   "chapter": 3,
+   "level": "B1",
+   "theme": "Profissões",
+   "concepts": [
+    {
+     "id": "tf25-01",
+     "emoji": "🧑‍⚕️",
+     "pt": "médico"
+    },
+    {
+     "id": "tf25-02",
+     "emoji": "🧑‍🏫",
+     "pt": "professor"
+    },
+    {
+     "id": "tf25-03",
+     "emoji": "🧑‍🍳",
+     "pt": "cozinheiro"
+    },
+    {
+     "id": "tf25-04",
+     "emoji": "🚖",
+     "pt": "motorista"
+    },
+    {
+     "id": "tf25-05",
+     "emoji": "🧑‍🚒",
+     "pt": "bombeiro"
+    },
+    {
+     "id": "tf25-06",
+     "emoji": "👮",
+     "pt": "policial"
+    },
+    {
+     "id": "tf25-07",
+     "emoji": "🦷",
+     "pt": "dentista"
+    },
+    {
+     "id": "tf25-08",
+     "emoji": "💉",
+     "pt": "enfermeiro"
+    },
+    {
+     "id": "tf25-09",
+     "emoji": "🧑‍🔧",
+     "pt": "engenheiro"
+    },
+    {
+     "id": "tf25-10",
+     "emoji": "⚖️",
+     "pt": "advogado"
+    }
+   ]
+  },
+  {
+   "phase": 26,
+   "globalPhase": 26,
+   "chapter": 3,
+   "level": "B1",
+   "theme": "Escritório e carreira",
+   "concepts": [
+    {
+     "id": "tf26-01",
+     "emoji": "👥",
+     "pt": "reunião"
+    },
+    {
+     "id": "tf26-02",
+     "emoji": "💵",
+     "pt": "salário"
+    },
+    {
+     "id": "tf26-03",
+     "emoji": "🧑‍💼",
+     "pt": "chefe"
+    },
+    {
+     "id": "tf26-04",
+     "emoji": "🧑‍🤝‍🧑",
+     "pt": "colega"
+    },
+    {
+     "id": "tf26-05",
+     "emoji": "📄",
+     "pt": "contrato"
+    },
+    {
+     "id": "tf26-06",
+     "emoji": "📋",
+     "pt": "currículo"
+    },
+    {
+     "id": "tf26-07",
+     "emoji": "🎤",
+     "pt": "entrevista"
+    },
+    {
+     "id": "tf26-08",
+     "emoji": "📧",
+     "pt": "e-mail"
+    },
+    {
+     "id": "tf26-09",
+     "emoji": "⏱️",
+     "pt": "prazo"
+    },
+    {
+     "id": "tf26-10",
+     "emoji": "🏢",
+     "pt": "empresa"
+    }
+   ]
+  },
+  {
+   "phase": 27,
+   "globalPhase": 27,
+   "chapter": 3,
+   "level": "B1",
+   "theme": "Emergências",
+   "concepts": [
+    {
+     "id": "tf27-01",
+     "emoji": "🚑",
+     "pt": "ambulância"
+    },
+    {
+     "id": "tf27-02",
+     "emoji": "🔥",
+     "pt": "incêndio"
+    },
+    {
+     "id": "tf27-03",
+     "emoji": "💥",
+     "pt": "acidente"
+    },
+    {
+     "id": "tf27-04",
+     "emoji": "🤕",
+     "pt": "ferido"
+    },
+    {
+     "id": "tf27-05",
+     "emoji": "🤒",
+     "pt": "febre"
+    },
+    {
+     "id": "tf27-06",
+     "emoji": "💊",
+     "pt": "remédio"
+    },
+    {
+     "id": "tf27-07",
+     "emoji": "🚨",
+     "pt": "alarme"
+    },
+    {
+     "id": "tf27-08",
+     "emoji": "🏥",
+     "pt": "pronto-socorro"
+    },
+    {
+     "id": "tf27-09",
+     "emoji": "🌊",
+     "pt": "enchente"
+    },
+    {
+     "id": "tf27-10",
+     "emoji": "🔌",
+     "pt": "apagão"
+    }
+   ]
+  },
+  {
+   "phase": 28,
+   "globalPhase": 28,
+   "chapter": 3,
+   "level": "B1",
+   "theme": "Frases para se virar",
+   "concepts": [
+    {
+     "id": "tf28-01",
+     "emoji": "💲",
+     "pt": "Quanto custa?"
+    },
+    {
+     "id": "tf28-02",
+     "emoji": "🚻",
+     "pt": "Onde fica o banheiro?"
+    },
+    {
+     "id": "tf28-03",
+     "emoji": "🙇",
+     "pt": "Não entendi"
+    },
+    {
+     "id": "tf28-04",
+     "emoji": "🐢",
+     "pt": "Fale mais devagar"
+    },
+    {
+     "id": "tf28-05",
+     "emoji": "🔁",
+     "pt": "Pode repetir?"
+    },
+    {
+     "id": "tf28-06",
+     "emoji": "🆘",
+     "pt": "Preciso de ajuda"
+    },
+    {
+     "id": "tf28-07",
+     "emoji": "🧭",
+     "pt": "Estou perdido"
+    },
+    {
+     "id": "tf28-08",
+     "emoji": "🧾",
+     "pt": "Pode trazer a conta?"
+    },
+    {
+     "id": "tf28-09",
+     "emoji": "🍴",
+     "pt": "Estou com fome"
+    },
+    {
+     "id": "tf28-10",
+     "emoji": "🥵",
+     "pt": "Estou com sede"
+    }
+   ]
+  },
+  {
+   "phase": 29,
+   "globalPhase": 29,
+   "chapter": 3,
+   "level": "B1",
+   "theme": "Votos e reações",
+   "concepts": [
+    {
+     "id": "tf29-01",
+     "emoji": "🍀",
+     "pt": "Boa sorte!"
+    },
+    {
+     "id": "tf29-02",
+     "emoji": "😌",
+     "pt": "Sem problemas"
+    },
+    {
+     "id": "tf29-03",
+     "emoji": "🎂",
+     "pt": "Feliz aniversário!"
+    },
+    {
+     "id": "tf29-04",
+     "emoji": "😞",
+     "pt": "Que pena!"
+    },
+    {
+     "id": "tf29-05",
+     "emoji": "😎",
+     "pt": "Que legal!"
+    },
+    {
+     "id": "tf29-06",
+     "emoji": "🛋️",
+     "pt": "Fique à vontade"
+    },
+    {
+     "id": "tf29-07",
+     "emoji": "🤧",
+     "pt": "Saúde!"
+    },
+    {
+     "id": "tf29-08",
+     "emoji": "😋",
+     "pt": "Bom apetite!"
+    },
+    {
+     "id": "tf29-09",
+     "emoji": "🛫",
+     "pt": "Boa viagem!"
+    },
+    {
+     "id": "tf29-10",
+     "emoji": "🫶",
+     "pt": "Cuide-se!"
+    }
+   ]
+  },
+  {
+   "phase": 30,
+   "globalPhase": 30,
+   "chapter": 3,
+   "level": "B1",
+   "theme": "Expressões de conversa",
+   "concepts": [
+    {
+     "id": "tf30-01",
+     "emoji": "🔎",
+     "pt": "Na verdade"
+    },
+    {
+     "id": "tf30-02",
+     "emoji": "📌",
+     "pt": "Por exemplo"
+    },
+    {
+     "id": "tf30-03",
+     "emoji": "➖",
+     "pt": "Pelo menos"
+    },
+    {
+     "id": "tf30-04",
+     "emoji": "🤷‍♂️",
+     "pt": "Tanto faz"
+    },
+    {
+     "id": "tf30-05",
+     "emoji": "🚫",
+     "pt": "De jeito nenhum"
+    },
+    {
+     "id": "tf30-06",
+     "emoji": "💎",
+     "pt": "Vale a pena"
+    },
+    {
+     "id": "tf30-07",
+     "emoji": "💯",
+     "pt": "Sem dúvida"
+    },
+    {
+     "id": "tf30-08",
+     "emoji": "🤔",
+     "pt": "Pode ser"
+    },
+    {
+     "id": "tf30-09",
+     "emoji": "🐌",
+     "pt": "Aos poucos"
+    },
+    {
+     "id": "tf30-10",
+     "emoji": "⚡",
+     "pt": "De repente"
+    }
+   ]
+  }
+ ]
+}

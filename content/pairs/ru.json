@@ -1,0 +1,1927 @@
+{
+  "game": "pairs",
+  "language": "ru",
+  "version": 1,
+  "entries": {
+    "pr01-01": {
+      "word": "лев",
+      "translit": "lev",
+      "example": "Лев громко зевает на скале.",
+      "examplePt": "O leão boceja alto na pedra.",
+      "pron": "LIÉF — o 'в' final soa como 'f' e o 'л' é firme",
+      "curiosity": "A moeda da Bulgária, o 'lev', tem o mesmo nome: em búlgaro significa 'leão'."
+    },
+    "pr01-02": {
+      "word": "тигр",
+      "translit": "tigr",
+      "example": "Тигр тихо ходит по джунглям.",
+      "examplePt": "O tigre anda em silêncio pela selva.",
+      "pron": "TÍ-gr — o 'г' é de 'gato' e o 'р' vibra bem forte",
+      "curiosity": "O tigre-de-amur, que vive no leste da Rússia, é o maior felino do mundo."
+    },
+    "pr01-03": {
+      "word": "слон",
+      "translit": "slon",
+      "example": "Слон пьёт воду хоботом.",
+      "examplePt": "O elefante bebe água com a tromba.",
+      "pron": "SLÓN — 'сл' juntos, sem vogal no meio; o 'о' é aberto",
+      "curiosity": "'Как слон в посудной лавке' é o nosso 'elefante em loja de cristal': desajeitado."
+    },
+    "pr01-04": {
+      "word": "жираф",
+      "translit": "zhiraf",
+      "example": "Жираф ест листья высоко на дереве.",
+      "examplePt": "A girafa come folhas bem no alto da árvore.",
+      "pron": "zhi-RÁF — o 'ж' é como o 'j' de 'jovem'; força no fim",
+      "curiosity": "O pescoço da girafa tem só sete vértebras, o mesmo número que o nosso."
+    },
+    "pr01-05": {
+      "word": "обезьяна",
+      "translit": "obez'yana",
+      "example": "Обезьяна украла мою шляпу!",
+      "examplePt": "A macaca roubou meu chapéu!",
+      "pron": "a-bi-ZYÁ-na — o 'о' inicial vira 'a' e 'зья' soa 'zia'",
+      "curiosity": "Em russo 'обезьяна' é feminino, mesmo quando se fala de um macaco macho."
+    },
+    "pr01-06": {
+      "word": "зебра",
+      "translit": "zebra",
+      "example": "Почему зебра такая полосатая?",
+      "examplePt": "Por que a zebra é tão listrada?",
+      "pron": "ZIÉ-bra — o 'е' soa 'ié' e o 'р' vibra",
+      "curiosity": "Cada zebra tem um desenho de listras único, como a nossa impressão digital."
+    },
+    "pr01-07": {
+      "word": "бегемот",
+      "translit": "begemot",
+      "example": "Бегемот открывает огромную пасть!",
+      "examplePt": "O hipopótamo abre uma boca enorme!",
+      "pron": "bi-gui-MÓT — o 'е' átono quase vira 'i' e o 'г' é de 'gato'",
+      "curiosity": "O nome científico é 'гиппопотам', mas no dia a dia todos preferem o curto 'бегемот'."
+    },
+    "pr01-08": {
+      "word": "крокодил",
+      "translit": "krokodil",
+      "example": "Крокодил лежит на берегу и улыбается.",
+      "examplePt": "O crocodilo está deitado na margem e sorri.",
+      "pron": "kra-ka-DÍL — os dois 'о' sem acento viram 'a'",
+      "curiosity": "'Крокодиловы слёзы' são as lágrimas de crocodilo, um choro falso, como em português."
+    },
+    "pr02-01": {
+      "word": "орёл",
+      "translit": "oryol",
+      "example": "Орёл высоко кружит над горами.",
+      "examplePt": "A águia gira bem alto sobre as montanhas.",
+      "pron": "a-RYÓL — o 'о' inicial vira 'a'; o 'ё' é sempre tônico, 'io'",
+      "curiosity": "No brasão da Rússia aparece uma águia de duas cabeças."
+    },
+    "pr02-02": {
+      "word": "пингвин",
+      "translit": "pingvin",
+      "example": "Пингвин скользит на животе по льду.",
+      "examplePt": "O pinguim desliza de barriga no gelo.",
+      "pron": "pin-GVÍN — 'гв' juntos; força no 'вин'",
+      "curiosity": "Pinguins não vivem no Polo Norte: quem mora lá são os ursos-polares."
+    },
+    "pr02-03": {
+      "word": "попугай",
+      "translit": "popugay",
+      "example": "Почему попугай повторяет каждое моё слово?",
+      "examplePt": "Por que o papagaio repete cada palavra minha?",
+      "pron": "pa-pu-GÁI — o 'о' inicial vira 'a'; 'ай' final como 'ai'",
+      "curiosity": "'Повторять как попугай' é repetir sem pensar, igualzinho ao português 'feito papagaio'."
+    },
+    "pr02-04": {
+      "word": "лебедь",
+      "translit": "lebed'",
+      "example": "Лебедь плывёт по тихому озеру.",
+      "examplePt": "O cisne nada no lago tranquilo.",
+      "pron": "LIÉ-bit' — o 'ь' final deixa o último som suave, curtinho",
+      "curiosity": "'Лебединая песня', o canto do cisne, também existe em russo: a última grande obra."
+    },
+    "pr02-05": {
+      "word": "фламинго",
+      "translit": "flamingo",
+      "example": "Фламинго стоит на одной ноге.",
+      "examplePt": "O flamingo fica numa perna só.",
+      "pron": "fla-MÍN-go — o 'г' é de 'gato' e a força cai no 'мин'",
+      "curiosity": "'Фламинго' é neutro e nunca muda de forma, como 'кино' e 'пальто'."
+    },
+    "pr02-06": {
+      "word": "павлин",
+      "translit": "pavlin",
+      "example": "Павлин раскрывает яркий хвост веером.",
+      "examplePt": "O pavão abre a cauda colorida como um leque.",
+      "pron": "pav-LÍN — o 'л' é firme e a força cai no fim",
+      "curiosity": "Só o pavão macho tem aquela cauda enorme; a fêmea é bem discreta."
+    },
+    "pr02-07": {
+      "word": "голубь",
+      "translit": "golub'",
+      "example": "Голубь ворует крошки со стола!",
+      "examplePt": "O pombo rouba as migalhas da mesa!",
+      "pron": "GÓ-lup' — o 'б' final soa 'p' e o 'ь' suaviza",
+      "curiosity": "'Голубь мира', pombo da paz, é a expressão russa para o símbolo da paz."
+    },
+    "pr02-08": {
+      "word": "страус",
+      "translit": "straus",
+      "example": "Страус бежит очень быстро, но не летает.",
+      "examplePt": "O avestruz corre muito rápido, mas não voa.",
+      "pron": "STRÁ-us — 'стр' junto, sem vogal; o 'р' vibra",
+      "curiosity": "'Политика страуса' é fingir que o problema não existe, como esconder a cabeça na areia."
+    },
+    "pr03-01": {
+      "word": "пчела",
+      "translit": "pchela",
+      "example": "Пчела собирает сладкий нектар.",
+      "examplePt": "A abelha coleta néctar doce.",
+      "pron": "pchi-LÁ — 'пч' junto, o 'ч' é 'tch'; força no fim",
+      "curiosity": "Para fazer um quilo de mel, as abelhas visitam milhões de flores."
+    },
+    "pr03-02": {
+      "word": "бабочка",
+      "translit": "babochka",
+      "example": "Бабочка садится мне на нос!",
+      "examplePt": "A borboleta pousa no meu nariz!",
+      "pron": "BÁ-boch-ka — o 'ч' é um 'tch' como em 'tchau'",
+      "curiosity": "Em russo, 'бабочка' também é a gravata-borboleta."
+    },
+    "pr03-03": {
+      "word": "муравей",
+      "translit": "muravey",
+      "example": "Муравей тащит лист больше себя!",
+      "examplePt": "A formiga arrasta uma folha maior que ela!",
+      "pron": "mu-ra-VIÉI — o 'ей' final soa 'iei'",
+      "curiosity": "Em português a formiga é feminina, mas em russo 'муравей' é masculino."
+    },
+    "pr03-04": {
+      "word": "паук",
+      "translit": "pauk",
+      "example": "Паук плетёт паутину в углу.",
+      "examplePt": "A aranha tece a teia no canto.",
+      "pron": "pa-ÚK — 'у' puro e o 'к' final bem seco",
+      "curiosity": "A aranha é masculina em russo, e a teia, 'паутина', tem a mesma raiz."
+    },
+    "pr03-05": {
+      "word": "муха",
+      "translit": "mukha",
+      "example": "Почему муха летает вокруг моей тарелки?",
+      "examplePt": "Por que a mosca voa em volta do meu prato?",
+      "pron": "MÚ-kha — o 'х' é um 'r' forte, como em 'rato'",
+      "curiosity": "'Делать из мухи слона', fazer de uma mosca um elefante, é exagerar um problema."
+    },
+    "pr03-06": {
+      "word": "божья коровка",
+      "translit": "bozh'ya korovka",
+      "example": "Божья коровка ползёт по моему пальцу.",
+      "examplePt": "A joaninha anda no meu dedo.",
+      "pron": "BÓ-zhia ka-RÓF-ka — 'ж' como 'j'; o 'в' final de 'коров' vira 'f'",
+      "curiosity": "As crianças russas cantam: 'joaninha, voa até o céu e traz pão para nós!'"
+    },
+    "pr03-07": {
+      "word": "червяк",
+      "translit": "chervyak",
+      "example": "Червяк выползает после дождя.",
+      "examplePt": "A minhoca sai depois da chuva.",
+      "pron": "chir-VIÁK — o 'ч' é 'tch' e o 'я' tônico soa 'ia'",
+      "curiosity": "Minhocas não têm olhos nem pulmões: elas respiram pela pele."
+    },
+    "pr03-08": {
+      "word": "улитка",
+      "translit": "ulitka",
+      "example": "Улитка несёт дом на спине.",
+      "examplePt": "O caracol carrega a casa nas costas.",
+      "pron": "u-LÍT-ka — o 'у' inicial é curtinho; força no 'лит'",
+      "curiosity": "Sem casca é outro bicho e outra palavra: a lesma se chama 'слизень'."
+    },
+    "pr04-01": {
+      "word": "рыба",
+      "translit": "ryba",
+      "example": "Золотая рыба исполняет желания!",
+      "examplePt": "O peixe dourado realiza desejos!",
+      "pron": "RÍ-ba — o 'ы' é um 'i' grosso, com a língua recuada",
+      "curiosity": "'Как рыба в воде' existe em russo: sentir-se completamente à vontade."
+    },
+    "pr04-02": {
+      "word": "акула",
+      "translit": "akula",
+      "example": "Акула показывает острые зубы.",
+      "examplePt": "O tubarão mostra os dentes afiados.",
+      "pron": "a-KÚ-la — o 'у' é puro e tônico",
+      "curiosity": "Os tubarões são mais antigos que as árvores: já existiam antes delas."
+    },
+    "pr04-03": {
+      "word": "кит",
+      "translit": "kit",
+      "example": "Сколько тонн весит синий кит?",
+      "examplePt": "Quantas toneladas pesa a baleia-azul?",
+      "pron": "KIT — igual ao 'kit' do português, só que bem curtinho",
+      "curiosity": "A baleia-azul é o maior animal que já existiu, mais pesado que qualquer dinossauro."
+    },
+    "pr04-04": {
+      "word": "дельфин",
+      "translit": "del'fin",
+      "example": "Дельфин прыгает через обруч!",
+      "examplePt": "O golfinho pula através do arco!",
+      "pron": "diel-FÍN — o 'ль' é suave, com a língua no céu da boca",
+      "curiosity": "Golfinhos dormem com só metade do cérebro por vez, para continuar a respirar."
+    },
+    "pr04-05": {
+      "word": "осьминог",
+      "translit": "os'minog",
+      "example": "Сколько рук у осьминога?",
+      "examplePt": "Quantos braços tem o polvo?",
+      "pron": "a-si-mi-NÓK — o 'сь' é suave e o 'г' final soa 'k'",
+      "curiosity": "O polvo tem três corações e sangue azul."
+    },
+    "pr04-06": {
+      "word": "черепаха",
+      "translit": "cherepakha",
+      "example": "Черепаха медленно ползёт к морю.",
+      "examplePt": "A tartaruga rasteja devagar até o mar.",
+      "pron": "chi-ri-PÁ-kha — 'ч' é 'tch' e o 'х' é um 'r' forte",
+      "curiosity": "Muitas tartarugas-marinhas voltam à praia onde nasceram para botar seus ovos."
+    },
+    "pr04-07": {
+      "word": "краб",
+      "translit": "krab",
+      "example": "Краб идёт боком по тёплому песку.",
+      "examplePt": "O caranguejo anda de lado na areia morna.",
+      "pron": "KRAP — o 'б' final soa 'p'",
+      "curiosity": "O caranguejo anda de lado porque as articulações das pernas dobram para os lados."
+    },
+    "pr04-08": {
+      "word": "тюлень",
+      "translit": "tyulen'",
+      "example": "Тюлень лежит на льдине и дремлет.",
+      "examplePt": "A foca está deitada no gelo e cochila.",
+      "pron": "tyu-LIÉN' — 'тю' soa 'tiu' e o 'нь' final é suave",
+      "curiosity": "A foca verdadeira não tem orelha externa; já o leão-marinho tem."
+    },
+    "pr05-01": {
+      "word": "морковь",
+      "translit": "morkov'",
+      "example": "Заяц грызёт сладкую морковь.",
+      "examplePt": "A lebre rói uma cenoura doce.",
+      "pron": "mar-KOF' — o 'в' final vira 'f' e o 'ь' suaviza",
+      "curiosity": "As cenouras antigas eram roxas ou amarelas; a laranja veio bem depois."
+    },
+    "pr05-02": {
+      "word": "картофель",
+      "translit": "kartofel'",
+      "example": "Мама жарит картофель на сковороде.",
+      "examplePt": "Mamãe frita batata na frigideira.",
+      "pron": "kar-TÓ-fil' — o 'ль' final é suave; força no 'то'",
+      "curiosity": "No dia a dia dizem 'картошка'; 'картофель' é a forma mais formal."
+    },
+    "pr05-03": {
+      "word": "помидор",
+      "translit": "pomidor",
+      "example": "Спелый помидор падает со стола!",
+      "examplePt": "O tomate maduro cai da mesa!",
+      "pron": "pa-mi-DÓR — o 'о' inicial vira 'a'; força no fim",
+      "curiosity": "'Помидор' vem do italiano 'pomodoro', que significa 'maçã de ouro'."
+    },
+    "pr05-04": {
+      "word": "лук",
+      "translit": "luk",
+      "example": "Почему лук заставляет всех плакать?",
+      "examplePt": "Por que a cebola faz todo mundo chorar?",
+      "pron": "LUK — 'у' puro, sem virar 'o'",
+      "curiosity": "Cuidado, falso amigo: 'лук' é cebola e também o arco de flecha!"
+    },
+    "pr05-05": {
+      "word": "кукуруза",
+      "translit": "kukuruza",
+      "example": "Кукуруза растёт выше моего папы.",
+      "examplePt": "O milho cresce mais alto que meu pai.",
+      "pron": "ku-ku-RÚ-za — os três 'у' são puros; força no 'ру'",
+      "curiosity": "A pipoca vem de um tipo especial de milho, de casca bem dura."
+    },
+    "pr05-06": {
+      "word": "брокколи",
+      "translit": "brokkoli",
+      "example": "Брокколи похоже на маленькое дерево.",
+      "examplePt": "O brócolis parece uma arvorezinha.",
+      "pron": "BRÓ-ko-li — o 'кк' é um 'k' mais longo",
+      "curiosity": "Veio do italiano 'broccoli' e não muda de forma, nem no plural."
+    },
+    "pr05-07": {
+      "word": "чеснок",
+      "translit": "chesnok",
+      "example": "Чеснок пугает вампиров из сказок!",
+      "examplePt": "O alho assusta os vampiros dos contos!",
+      "pron": "chis-NÓK — o 'ч' é 'tch' e o 'к' final é seco",
+      "curiosity": "O alho é parente da cebola e do alho-poró."
+    },
+    "pr05-08": {
+      "word": "огурец",
+      "translit": "ogurets",
+      "example": "Ты любишь хрустящий огурец?",
+      "examplePt": "Você gosta de pepino crocante?",
+      "pron": "a-gu-RIÉTS — o 'ц' é um 'ts' e o 'е' soa 'ié'",
+      "curiosity": "O 'е' é fugitivo: огурец vira огурцы no plural, e a vogal desaparece."
+    },
+    "pr06-01": {
+      "word": "торт",
+      "translit": "tort",
+      "example": "Папа несёт торт со свечками.",
+      "examplePt": "Papai traz um bolo com velinhas.",
+      "pron": "TORT — o 'о' é aberto e o 'р' vibra",
+      "curiosity": "'Торт' é o bolo de festa com creme; o bolo caseiro simples costuma ser 'пирог' ou 'кекс'."
+    },
+    "pr06-02": {
+      "word": "мороженое",
+      "translit": "morozhenoe",
+      "example": "Мороженое тает на жарком солнце!",
+      "examplePt": "O sorvete derrete no sol quente!",
+      "pron": "ma-RÓ-zhe-na-ie — o 'ж' é como o 'j' de 'jovem'",
+      "curiosity": "É um adjetivo neutro: literalmente 'o congelado', de 'мороз' (geada)."
+    },
+    "pr06-03": {
+      "word": "печенье",
+      "translit": "pechen'e",
+      "example": "Кто съел всё моё печенье?",
+      "examplePt": "Quem comeu todos os meus biscoitos?",
+      "pron": "pi-CHÉ-nie — o 'ч' é 'tch' e o 'нье' é macio",
+      "curiosity": "'Печенье' vem de 'печь' (assar): literalmente 'o assado'."
+    },
+    "pr06-04": {
+      "word": "пончик",
+      "translit": "ponchik",
+      "example": "Пончик с розовой глазурью очень вкусный.",
+      "examplePt": "A rosquinha com cobertura rosa é deliciosa.",
+      "pron": "PÓN-chik — o 'ч' é 'tch' e o 'и' final é curtinho",
+      "curiosity": "Vem do polonês 'pączek', um bolinho frito e recheado."
+    },
+    "pr06-05": {
+      "word": "леденец",
+      "translit": "ledenets",
+      "example": "Леденец прилип к моей руке!",
+      "examplePt": "O pirulito grudou na minha mão!",
+      "pron": "li-di-NIÉTS — o 'ц' final é 'ts'; os 'е' átonos viram 'i'",
+      "curiosity": "Vem de 'лёд' (gelo): doce duro e brilhante como gelo."
+    },
+    "pr06-06": {
+      "word": "шоколад",
+      "translit": "shokolad",
+      "example": "Шоколад тает у меня в кармане!",
+      "examplePt": "O chocolate derrete no meu bolso!",
+      "pron": "sha-ka-LÁT — o 'ш' é 'ch' e o 'д' final soa 't'",
+      "curiosity": "O cacau nasceu na América; os europeus só o conheceram há uns 500 anos."
+    },
+    "pr06-07": {
+      "word": "попкорн",
+      "translit": "popkorn",
+      "example": "Попкорн взрывается в горячей кастрюле!",
+      "examplePt": "A pipoca estoura na panela quente!",
+      "pron": "pap-KÓRN — o 'о' inicial vira 'a'; o 'р' vibra",
+      "curiosity": "Palavra importada do inglês 'popcorn', escrita em russo do jeito que se ouve."
+    },
+    "pr06-08": {
+      "word": "пирог",
+      "translit": "pirog",
+      "example": "Бабушка печёт пирог с яблоками.",
+      "examplePt": "A vovó assa uma torta de maçã.",
+      "pron": "pi-RÓK — o 'г' final soa 'k'",
+      "curiosity": "Os russos adoram 'пирожки', tortinhas recheadas de repolho, carne ou geleia."
+    },
+    "pr07-01": {
+      "word": "кухня",
+      "translit": "kukhnya",
+      "example": "На кухне пахнет свежим хлебом.",
+      "examplePt": "Na cozinha cheira a pão fresco.",
+      "pron": "KÚKH-nya — o 'х' é um 'r' forte e 'хн' vêm juntos",
+      "curiosity": "Na cultura russa, as conversas importantes costumam rolar na cozinha, com chá."
+    },
+    "pr07-02": {
+      "word": "ванная",
+      "translit": "vannaya",
+      "example": "В ванной живёт резиновая уточка.",
+      "examplePt": "No banheiro mora um patinho de borracha.",
+      "pron": "VÁN-na-ya — o 'нн' é um 'n' mais longo",
+      "curiosity": "'Ванная' é um adjetivo ('de banho'); o vaso fica no 'туалет', quase sempre separado."
+    },
+    "pr07-03": {
+      "word": "спальня",
+      "translit": "spal'nya",
+      "example": "В спальне я читаю перед сном.",
+      "examplePt": "No quarto eu leio antes de dormir.",
+      "pron": "SPAL'-nya — 'сп' junto e o 'ль' suave",
+      "curiosity": "Vem de 'спать' (dormir): literalmente 'o lugar de dormir'."
+    },
+    "pr07-04": {
+      "word": "гостиная",
+      "translit": "gostinaya",
+      "example": "Где гостиная в вашем доме?",
+      "examplePt": "Onde fica a sala na sua casa?",
+      "pron": "ga-STÍ-na-ya — 'о' inicial vira 'a'; o 'т' é suave",
+      "curiosity": "Vem de 'гость' (convidado): é a sala onde se recebem visitas."
+    },
+    "pr07-05": {
+      "word": "гараж",
+      "translit": "garazh",
+      "example": "Машина спит в тёмном гараже.",
+      "examplePt": "O carro dorme na garagem escura.",
+      "pron": "ga-RÁSH — o 'ж' final soa 'sh', como 'ch' em 'chá'",
+      "curiosity": "Vem do francês 'garage', e o 'ж' é o mesmo som do 'j' francês."
+    },
+    "pr07-06": {
+      "word": "сад",
+      "translit": "sad",
+      "example": "В саду прячется ленивый кот.",
+      "examplePt": "Um gato preguiçoso se esconde no jardim.",
+      "pron": "SAT — o 'д' final soa 't'",
+      "curiosity": "'Детский сад' é o jardim de infância: 'jardim das crianças', como o alemão 'Kindergarten'."
+    },
+    "pr07-07": {
+      "word": "дверь",
+      "translit": "dver'",
+      "example": "Кто стучит в мою дверь?",
+      "examplePt": "Quem bate na minha porta?",
+      "pron": "DVIÉR' — 'дв' junto; o 'ь' final suaviza",
+      "curiosity": "'Дверь' é feminina, mesmo terminando em 'ь' sem cara de feminino."
+    },
+    "pr07-08": {
+      "word": "окно",
+      "translit": "okno",
+      "example": "Кот смотрит в окно весь день.",
+      "examplePt": "O gato olha pela janela o dia todo.",
+      "pron": "ak-NÓ — o 'о' inicial vira 'a'; força no fim",
+      "curiosity": "'Окно' vem de 'око' (olho antigo): a janela é o 'olhinho' da casa."
+    },
+    "pr08-01": {
+      "word": "кровать",
+      "translit": "krovat'",
+      "example": "Моя кровать мягкая, как облако.",
+      "examplePt": "Minha cama é macia como uma nuvem.",
+      "pron": "kra-VÁT' — o 'ть' final é suave",
+      "curiosity": "'Кровать' é a estrutura; lençóis e colchão formam a 'постель'."
+    },
+    "pr08-02": {
+      "word": "стол",
+      "translit": "stol",
+      "example": "Что стоит на столе?",
+      "examplePt": "O que tem em cima da mesa?",
+      "pron": "STOL — 'ст' junto e o 'о' aberto",
+      "curiosity": "De 'стол' vem 'столовая', a sala de jantar ou o refeitório."
+    },
+    "pr08-03": {
+      "word": "стул",
+      "translit": "stul",
+      "example": "Кот сидит на моём стуле!",
+      "examplePt": "O gato está sentado na minha cadeira!",
+      "pron": "STUL — 'у' puro e o 'л' firme",
+      "curiosity": "O russo separa 'стул' (cadeira) de 'кресло' (poltrona, com braços)."
+    },
+    "pr08-04": {
+      "word": "диван",
+      "translit": "divan",
+      "example": "Мы смотрим кино на диване.",
+      "examplePt": "Assistimos filme no sofá.",
+      "pron": "di-VÁN — força no fim",
+      "curiosity": "É primo do português 'divã': as duas palavras vêm do persa 'divan'."
+    },
+    "pr08-05": {
+      "word": "зеркало",
+      "translit": "zerkalo",
+      "example": "Что видит зеркало ночью?",
+      "examplePt": "O que o espelho vê à noite?",
+      "pron": "ZIÉR-ka-la — o 'з' vibra como em 'zebra'",
+      "curiosity": "Vem do verbo antigo 'зреть' (ver), da família de 'зрение' (visão)."
+    },
+    "pr08-06": {
+      "word": "холодильник",
+      "translit": "kholodil'nik",
+      "example": "Холодильник гудит всю ночь.",
+      "examplePt": "A geladeira zumbe a noite inteira.",
+      "pron": "kha-la-DÍL'-nik — 'х' é um 'r' forte; o 'ль' é suave",
+      "curiosity": "Na gíria, as crianças e os adultos dizem 'холодос' para a geladeira."
+    },
+    "pr08-07": {
+      "word": "телевизор",
+      "translit": "televizor",
+      "example": "Телевизор показывает смешных пингвинов!",
+      "examplePt": "A televisão mostra pinguins engraçados!",
+      "pron": "ti-li-VÍ-zar — o 'о' final vira 'a'; 'з' vibra",
+      "curiosity": "O aparelho é 'телевизор'; a TV como meio de comunicação é 'телевидение'."
+    },
+    "pr08-08": {
+      "word": "лампочка",
+      "translit": "lampochka",
+      "example": "Лампочка мигает и гаснет.",
+      "examplePt": "A lâmpada pisca e apaga.",
+      "pron": "LÁM-poch-ka — o 'ч' é 'tch'",
+      "curiosity": "'Лампа' é a luminária inteira; 'лампочка' é só a lâmpada, a 'lampadinha'."
+    },
+    "pr09-01": {
+      "word": "вилка",
+      "translit": "vilka",
+      "example": "Спагетти крутятся на вилке.",
+      "examplePt": "O espaguete enrola no garfo.",
+      "pron": "VÍL-ka — o 'л' é firme",
+      "curiosity": "'Вилка' também é o plugue da tomada, porque tem pontas como um garfo."
+    },
+    "pr09-02": {
+      "word": "нож",
+      "translit": "nozh",
+      "example": "Осторожно, нож очень острый!",
+      "examplePt": "Cuidado, a faca é muito afiada!",
+      "pron": "NÓSH — o 'ж' final soa 'sh'; 'о' fechado",
+      "curiosity": "'Нож в спину', faca nas costas, é traição, como a 'facada nas costas' em português."
+    },
+    "pr09-03": {
+      "word": "ложка",
+      "translit": "lozhka",
+      "example": "Ложка плавает в моём чае.",
+      "examplePt": "A colher flutua no meu chá.",
+      "pron": "LÓSH-ka — o 'ж' antes de 'к' soa 'sh'",
+      "curiosity": "'Ложка дёгтя в бочке мёда': uma colher de piche num barril de mel estraga tudo."
+    },
+    "pr09-04": {
+      "word": "тарелка",
+      "translit": "tarelka",
+      "example": "Что лежит на твоей тарелке?",
+      "examplePt": "O que tem no seu prato?",
+      "pron": "ta-RIÉL-ka — o 'е' soa 'ié' e o 'р' vibra",
+      "curiosity": "'Летающая тарелка' é o disco voador: literalmente 'prato voador'."
+    },
+    "pr09-05": {
+      "word": "стакан",
+      "translit": "stakan",
+      "example": "Стакан молока и печенье — идеально!",
+      "examplePt": "Um copo de leite e biscoito: perfeito!",
+      "pron": "sta-KÁN — 'ст' junto; força no fim",
+      "curiosity": "O 'гранёный стакан', copo facetado, virou um ícone da cultura russa."
+    },
+    "pr09-06": {
+      "word": "кастрюля",
+      "translit": "kastryulya",
+      "example": "Кастрюля кипит, и крышка прыгает!",
+      "examplePt": "A panela ferve e a tampa pula!",
+      "pron": "kas-TRÚ-lya — 'трю' soa 'triu'",
+      "curiosity": "Vem do francês 'casserole', parente da nossa 'caçarola'."
+    },
+    "pr09-07": {
+      "word": "чашка",
+      "translit": "chashka",
+      "example": "Чашка горячего чая согревает руки.",
+      "examplePt": "A xícara de chá quente aquece as mãos.",
+      "pron": "CHÁSH-ka — o 'ч' é 'tch' e o 'ш' é 'ch' de 'chá'",
+      "curiosity": "O russo separa 'чашка' (xícara) de 'кружка' (caneca grande)."
+    },
+    "pr09-08": {
+      "word": "миска",
+      "translit": "miska",
+      "example": "Кошка ест из голубой миски.",
+      "examplePt": "A gata come de uma tigela azul.",
+      "pron": "MÍS-ka — 'и' curto e 'ск' juntos",
+      "curiosity": "Cuidado: 'миска' é tigela, e 'мишка' (com ш) é ursinho!"
+    },
+    "pr10-01": {
+      "word": "рука",
+      "translit": "ruka",
+      "example": "Моя рука рисует смешные рожицы.",
+      "examplePt": "Minha mão desenha carinhas engraçadas.",
+      "pron": "ru-KÁ — o 'у' é puro; força no fim",
+      "curiosity": "O russo não separa mão de braço: 'рука' é tudo; só a palma é 'ладонь'."
+    },
+    "pr10-02": {
+      "word": "ступня",
+      "translit": "stupnya",
+      "example": "Трава щекочет мою ступню.",
+      "examplePt": "A grama faz cócegas no meu pé.",
+      "pron": "stup-NYÁ — 'ступ' junto e 'ня' soa 'nhia'",
+      "curiosity": "Vem do verbo 'ступать' (pisar): é a parte do corpo que pisa o chão."
+    },
+    "pr10-03": {
+      "word": "глаз",
+      "translit": "glaz",
+      "example": "С глазу на глаз мы быстро помирились.",
+      "examplePt": "Olho no olho, fizemos as pazes rápido.",
+      "pron": "GLAS — 'гл' junto; o 'з' final soa 's'",
+      "curiosity": "'С глазу на глаз' é conversar a sós, olho no olho, como em português."
+    },
+    "pr10-04": {
+      "word": "нос",
+      "translit": "nos",
+      "example": "Почему у собаки мокрый нос?",
+      "examplePt": "Por que o nariz do cachorro é molhado?",
+      "pron": "NOS — 'о' aberto e 'с' final",
+      "curiosity": "'Водить за нос', levar pelo nariz, é enganar alguém."
+    },
+    "pr10-05": {
+      "word": "рот",
+      "translit": "rot",
+      "example": "Не говори с полным ртом!",
+      "examplePt": "Não fale de boca cheia!",
+      "pron": "ROT — o 'р' vibra forte",
+      "curiosity": "Parece o 'rot' inglês (podre), mas em russo é só a boca!"
+    },
+    "pr10-06": {
+      "word": "ухо",
+      "translit": "ukho",
+      "example": "Заяц поднимает длинное ухо.",
+      "examplePt": "A lebre ergue a orelha comprida.",
+      "pron": "Ú-kha — o 'х' é um 'r' forte, como em 'rato'",
+      "curiosity": "'Держать ухо востро', manter a orelha afiada, é ficar bem atento."
+    },
+    "pr10-07": {
+      "word": "нога",
+      "translit": "noga",
+      "example": "Моя нога прыгает сама по себе!",
+      "examplePt": "Minha perna pula sozinha!",
+      "pron": "na-GÁ — o 'о' inicial vira 'a'; força no fim",
+      "curiosity": "'Нога' vale para perna e pé; 'встать с левой ноги' é acordar com o pé esquerdo."
+    },
+    "pr10-08": {
+      "word": "зуб",
+      "translit": "zub",
+      "example": "Мой зуб шатается!",
+      "examplePt": "Meu dente está mole!",
+      "pron": "ZUP — o 'б' final soa 'p'",
+      "curiosity": "'Зуб на зуб не попадает' é tremer de frio a ponto de os dentes baterem."
+    },
+    "pr11-01": {
+      "word": "футболка",
+      "translit": "futbolka",
+      "example": "Я надену эту футболку на праздник.",
+      "examplePt": "Vou vestir esta camiseta na festa.",
+      "pron": "fud-BÓL-ka — o 'т' soa 'd' antes do 'б'",
+      "curiosity": "Vem de 'футбол': era a camiseta que os jogadores usavam."
+    },
+    "pr11-02": {
+      "word": "брюки",
+      "translit": "bryuki",
+      "example": "Вчера мои брюки порвались на заборе.",
+      "examplePt": "Ontem minha calça rasgou na cerca.",
+      "pron": "BRYU-ki — 'рю' soa 'riu'",
+      "curiosity": "'Брюки' só existe no plural em russo: a calça tem duas pernas!"
+    },
+    "pr11-03": {
+      "word": "ботинок",
+      "translit": "botinok",
+      "example": "Вчера мой ботинок застрял в грязи.",
+      "examplePt": "Ontem meu sapato ficou preso na lama.",
+      "pron": "ba-TÍ-nak — o 'о' átono vira 'a'; o 'к' final é seco",
+      "curiosity": "O russo tem vários 'sapatos': ботинки (fechados), туфли (sociais) e кроссовки (tênis)."
+    },
+    "pr11-04": {
+      "word": "носок",
+      "translit": "nosok",
+      "example": "Куда исчез мой носок?",
+      "examplePt": "Para onde sumiu minha meia?",
+      "pron": "nas-NÓK — o 'о' inicial vira 'a'; o 'к' final é seco",
+      "curiosity": "'Носок' também é a ponta do sapato ou do pé, da mesma raiz de 'нос' (nariz)."
+    },
+    "pr11-05": {
+      "word": "куртка",
+      "translit": "kurtka",
+      "example": "Завтра мы наденем куртки, потому что будет холодно.",
+      "examplePt": "Amanhã vamos vestir jaquetas porque vai fazer frio.",
+      "pron": "KÚRT-ka — 'у' puro e 'рт' vibrando junto",
+      "curiosity": "Para uma jaqueta de inverno bem fofa, os russos dizem 'пуховик'."
+    },
+    "pr11-06": {
+      "word": "платье",
+      "translit": "plat'e",
+      "example": "Вчера она танцевала в красном платье.",
+      "examplePt": "Ontem ela dançou de vestido vermelho.",
+      "pron": "PLÁT'-ye — o 'ть' é suave",
+      "curiosity": "Vem de 'плат', antigo pedaço de pano, que também deu 'платок' (lenço)."
+    },
+    "pr11-07": {
+      "word": "перчатки",
+      "translit": "perchatki",
+      "example": "Я потерял перчатки, и руки замёрзли.",
+      "examplePt": "Perdi as luvas e as mãos congelaram.",
+      "pron": "pir-CHÁT-ki — o 'ч' é 'tch'",
+      "curiosity": "'Варежки' são as luvas de lã sem dedos separados, as mitenes."
+    },
+    "pr11-08": {
+      "word": "кепка",
+      "translit": "kepka",
+      "example": "Кто взял мою кепку?",
+      "examplePt": "Quem pegou meu boné?",
+      "pron": "KIÉP-ka — o 'е' soa 'ié'; 'пк' juntos",
+      "curiosity": "A 'кепка' clássica tem aba curta; o boné de beisebol se chama 'бейсболка'."
+    },
+    "pr12-01": {
+      "word": "очки",
+      "translit": "ochki",
+      "example": "Вчера я сел на свои очки!",
+      "examplePt": "Ontem sentei nos meus óculos!",
+      "pron": "a-CHKI — o 'о' inicial vira 'a'; 'чк' juntos",
+      "curiosity": "'Очки' só existe no plural, e também significa 'pontos' num jogo."
+    },
+    "pr12-02": {
+      "word": "сумка",
+      "translit": "sumka",
+      "example": "Что лежит в твоей сумке?",
+      "examplePt": "O que tem na sua bolsa?",
+      "pron": "SÚM-ka — o 'у' é puro",
+      "curiosity": "Em zoologia, 'сумка' é a bolsa do canguru: marsupiais são 'сумчатые'."
+    },
+    "pr12-03": {
+      "word": "зонт",
+      "translit": "zont",
+      "example": "Завтра я возьму зонт на прогулку.",
+      "examplePt": "Amanhã levarei o guarda-chuva no passeio.",
+      "pron": "ZONT — o 'з' vibra; 'нт' final firme",
+      "curiosity": "O mesmo 'зонт' serve para a chuva e para o sol."
+    },
+    "pr12-04": {
+      "word": "кольцо",
+      "translit": "kol'tso",
+      "example": "Вчера он потерял кольцо в песке.",
+      "examplePt": "Ontem ele perdeu o anel na areia.",
+      "pron": "kal'-TSÓ — o 'ль' é suave e o 'ц' soa 'ts'",
+      "curiosity": "O 'Золотое кольцо' (Anel de Ouro) é uma rota turística de cidades antigas perto de Moscou."
+    },
+    "pr12-05": {
+      "word": "часы",
+      "translit": "chasy",
+      "example": "Мои часы остановились ночью.",
+      "examplePt": "Meu relógio parou durante a noite.",
+      "pron": "chi-SÝ — o 'ч' é 'tch' e o 'ы' é um 'i' grosso",
+      "curiosity": "'Часы' é plural, mesmo para um relógio só; e também quer dizer 'horas'."
+    },
+    "pr12-06": {
+      "word": "навесной замок",
+      "translit": "navesnoy zamok",
+      "example": "Завтра я куплю навесной замок для велосипеда.",
+      "examplePt": "Amanhã comprarei um cadeado para a bicicleta.",
+      "pron": "na-vis-NÓI za-MÓK — os 'о' átonos viram 'a'; tônicas em 'ной' e 'мок'",
+      "curiosity": "Só o acento muda: ЗАмок é castelo, замОк é fechadura ou cadeado!"
+    },
+    "pr12-07": {
+      "word": "рюкзак",
+      "translit": "ryukzak",
+      "example": "Вчера мой рюкзак упал в реку.",
+      "examplePt": "Ontem minha mochila caiu no rio.",
+      "pron": "ryuk-ZÁK — 'рю' soa 'riu'",
+      "curiosity": "Vem do alemão 'Rucksack', literalmente 'saco das costas'."
+    },
+    "pr12-08": {
+      "word": "фонарик",
+      "translit": "fonarik",
+      "example": "Вечером я включил фонарик в палатке.",
+      "examplePt": "À noite liguei a lanterna na barraca.",
+      "pron": "fa-NÁ-rik — o 'о' inicial vira 'a'; força no 'на'",
+      "curiosity": "'Фонарь' é poste de rua ou lanterna grande; 'фонарик' é a de bolso."
+    },
+    "pr13-01": {
+      "word": "футбол",
+      "translit": "futbol",
+      "example": "Вчера наша команда выиграла в футбол!",
+      "examplePt": "Ontem nosso time ganhou no futebol!",
+      "pron": "fud-BÓL — o 'т' soa 'd'; o 'л' final é firme",
+      "curiosity": "A Copa do Mundo de 2018 aconteceu na Rússia, em onze cidades."
+    },
+    "pr13-02": {
+      "word": "баскетбол",
+      "translit": "basketbol",
+      "example": "Завтра мы сыграем в баскетбол во дворе.",
+      "examplePt": "Amanhã jogaremos basquete no pátio.",
+      "pron": "bas-kit-BÓL — o 'е' átono vira 'i'; o 'л' final é firme",
+      "curiosity": "Em russo se joga 'EM' basquete: 'играть в баскетбол', com a preposição 'в'."
+    },
+    "pr13-03": {
+      "word": "теннис",
+      "translit": "tennis",
+      "example": "Ты будешь играть в теннис завтра?",
+      "examplePt": "Você vai jogar tênis amanhã?",
+      "pron": "TÉ-nis — o 'нн' é um 'n' longo",
+      "curiosity": "Falso amigo: 'теннис' é o esporte; o calçado 'tênis' em russo é 'кроссовки'."
+    },
+    "pr13-04": {
+      "word": "плавание",
+      "translit": "plavanie",
+      "example": "Завтра у нас урок плавания в бассейне.",
+      "examplePt": "Amanhã temos aula de natação na piscina.",
+      "pron": "PLÁ-va-nie — o 'в' é um 'v' normal",
+      "curiosity": "O russo tem dois verbos para nadar: 'плавать' (ir e vir) e 'плыть' (numa direção)."
+    },
+    "pr13-05": {
+      "word": "волейбол",
+      "translit": "voleybol",
+      "example": "Вчера мы играли в волейбол на пляже.",
+      "examplePt": "Ontem jogamos vôlei na praia.",
+      "pron": "va-lei-BÓL — o 'ей' soa 'ei'; o 'л' final é firme",
+      "curiosity": "O vôlei foi inventado nos Estados Unidos, em 1895."
+    },
+    "pr13-06": {
+      "word": "велоспорт",
+      "translit": "velosport",
+      "example": "Мой брат обожает велоспорт, а я нет.",
+      "examplePt": "Meu irmão adora ciclismo, eu não.",
+      "pron": "VIÉ-la-sport — o 'о' átono vira 'a'; o 'р' vibra",
+      "curiosity": "'Вело' vem de 'велосипед', do francês 'vélocipède', o 'pé veloz'."
+    },
+    "pr13-07": {
+      "word": "лыжи",
+      "translit": "lyzhi",
+      "example": "Зимой мы катались на лыжах в горах.",
+      "examplePt": "No inverno esquiamos nas montanhas.",
+      "pron": "LÝ-zhi — o 'ы' é um 'i' grosso; o 'ж' é como 'j'",
+      "curiosity": "'Навострить лыжи', afiar os esquis, é sair correndo."
+    },
+    "pr13-08": {
+      "word": "бейсбол",
+      "translit": "beysbol",
+      "example": "Мы пойдём смотреть бейсбол в субботу.",
+      "examplePt": "Vamos assistir a um jogo de beisebol no sábado.",
+      "pron": "beis-BÓL — o 'ей' soa 'ei'",
+      "curiosity": "Na Rússia o beisebol é raro: o hóquei no gelo é que rouba a cena."
+    },
+    "pr14-01": {
+      "word": "кукла",
+      "translit": "kukla",
+      "example": "Вчера моя кукла потеряла туфельку.",
+      "examplePt": "Ontem minha boneca perdeu um sapatinho.",
+      "pron": "KÚK-la — o 'у' é puro",
+      "curiosity": "'Кукольный театр' é teatro de bonecos; 'кукла' serve para boneca e fantoche."
+    },
+    "pr14-02": {
+      "word": "воздушный шар",
+      "translit": "vozdushnyy shar",
+      "example": "Мой воздушный шар улетел в небо!",
+      "examplePt": "Meu balão voou para o céu!",
+      "pron": "vaz-DÚSH-nyi shar — 'зд' junto; o 'ы' é um 'i' grosso",
+      "curiosity": "Literalmente 'esfera de ar': a mesma expressão nomeia o balão de ar quente."
+    },
+    "pr14-03": {
+      "word": "пазл",
+      "translit": "pazl",
+      "example": "Завтра мы соберём пазл на тысячу деталей.",
+      "examplePt": "Amanhã montaremos um quebra-cabeça de mil peças.",
+      "pron": "PÁZL — 'зл' juntos, sem vogal no meio",
+      "curiosity": "O russo também diz 'головоломка', literalmente 'quebra-cabeça' (golova = cabeça)."
+    },
+    "pr14-04": {
+      "word": "мишка",
+      "translit": "mishka",
+      "example": "Вчера мой мишка заснул под одеялом.",
+      "examplePt": "Ontem meu ursinho adormeceu debaixo do cobertor.",
+      "pron": "MÍSH-ka — o 'ш' é 'ch' de 'chá'",
+      "curiosity": "O urso é tão querido na Rússia que ganhou apelido de gente: 'мишка' soa carinhoso."
+    },
+    "pr14-05": {
+      "word": "игральная кость",
+      "translit": "igral'naya kost'",
+      "example": "Я бросаю игральную кость и выигрываю!",
+      "examplePt": "Eu jogo o dado e ganho!",
+      "pron": "ig-RÁL'-na-ya KOST' — o 'ль' é suave; o 'ь' final suaviza",
+      "curiosity": "Literalmente 'osso de jogo': os primeiros dados eram feitos de osso!"
+    },
+    "pr14-06": {
+      "word": "мяч",
+      "translit": "myach",
+      "example": "Кто видел мой красный мяч?",
+      "examplePt": "Quem viu minha bola vermelha?",
+      "pron": "MYACH — 'мя' soa 'mia'; o 'ч' final é 'tch'",
+      "curiosity": "'Гонять мяч', perseguir a bola, é bater uma bolinha com os amigos."
+    },
+    "pr14-07": {
+      "word": "ролики",
+      "translit": "roliki",
+      "example": "Завтра я покатаюсь на роликах в парке.",
+      "examplePt": "Amanhã vou andar de patins no parque.",
+      "pron": "RÓ-li-ki — o 'о' é aberto",
+      "curiosity": "'Ролики' têm rodas; os patins de lâmina para o gelo se chamam 'коньки'."
+    },
+    "pr14-08": {
+      "word": "карусель",
+      "translit": "karusel'",
+      "example": "Карусель крутится всё быстрее и быстрее!",
+      "examplePt": "O carrossel gira cada vez mais rápido!",
+      "pron": "ka-ru-SIÉL' — o 'ль' final é suave",
+      "curiosity": "Vem do francês 'carrousel' e, em russo, é feminina e termina em 'ь'."
+    },
+    "pr15-01": {
+      "word": "карандаш",
+      "translit": "karandash",
+      "example": "Вчера мой карандаш сломался на контрольной.",
+      "examplePt": "Ontem meu lápis quebrou na prova.",
+      "pron": "ka-ran-DÁSH — o 'ш' final é 'ch'; o 'д' soa 't' no fim",
+      "curiosity": "Vem do turco 'kara taş': literalmente 'pedra negra'."
+    },
+    "pr15-02": {
+      "word": "ручка",
+      "translit": "ruchka",
+      "example": "Завтра я напишу письмо новой ручкой.",
+      "examplePt": "Amanhã escreverei uma carta com a caneta nova.",
+      "pron": "RÚCH-ka — o 'ч' é 'tch'",
+      "curiosity": "'Ручка' é diminutivo de 'рука': serve para caneta, maçaneta e alça."
+    },
+    "pr15-03": {
+      "word": "тетрадь",
+      "translit": "tetrad'",
+      "example": "Я забыл тетрадь дома, и учитель удивился.",
+      "examplePt": "Esqueci o caderno em casa, e o professor se surpreendeu.",
+      "pron": "ti-TRÁT' — o 'дь' final soa 't' suave",
+      "curiosity": "Vem do grego 'tetrádion', ligado ao 'quatro' (tetra-), como 'tetraedro'."
+    },
+    "pr15-04": {
+      "word": "книга",
+      "translit": "kniga",
+      "example": "Завтра я начну читать эту книгу.",
+      "examplePt": "Amanhã começarei a ler este livro.",
+      "pron": "KNÍ-ga — 'кн' juntos, sem vogal no meio",
+      "curiosity": "A 'Красная книга' é a lista oficial de espécies ameaçadas de extinção."
+    },
+    "pr15-05": {
+      "word": "линейка",
+      "translit": "lineyka",
+      "example": "Вчера учитель измерил стол линейкой.",
+      "examplePt": "Ontem o professor mediu a mesa com a régua.",
+      "pron": "li-NIÉI-ka — o 'ей' soa 'iei'",
+      "curiosity": "Em 1º de setembro, a 'линейка' é a cerimônia escolar em que os alunos formam fila."
+    },
+    "pr15-06": {
+      "word": "ножницы",
+      "translit": "nozhnitsy",
+      "example": "Дети вырезали из бумаги звезду ножницами.",
+      "examplePt": "As crianças recortaram uma estrela de papel com a tesoura.",
+      "pron": "NÓ-zhni-tsy — 'ж' como 'j'; 'ц' soa 'ts'; 'ы' é um 'i' grosso",
+      "curiosity": "'Ножницы' só existe no plural, como as 'tesouras' de duas lâminas, e vem de 'нож'."
+    },
+    "pr15-07": {
+      "word": "калькулятор",
+      "translit": "kal'kulyator",
+      "example": "Мой калькулятор вчера ошибся!",
+      "examplePt": "Minha calculadora errou ontem!",
+      "pron": "kal'-ku-LÁ-tor — o 'ль' é suave; o 'о' final vira 'a'",
+      "curiosity": "Vem do latim 'calculus', a pedrinha usada para contar: parente do nosso 'cálculo'."
+    },
+    "pr15-08": {
+      "word": "бумага",
+      "translit": "bumaga",
+      "example": "Вчера я сделал из бумаги самолётик.",
+      "examplePt": "Ontem fiz um aviãozinho de papel.",
+      "pron": "bu-MÁ-ga — 'у' puro; força no 'ма'",
+      "curiosity": "Vem de uma antiga palavra europeia para 'algodão', a matéria do papel antigo."
+    },
+    "pr16-01": {
+      "word": "река",
+      "translit": "reka",
+      "example": "Вчера мы переплыли реку на лодке.",
+      "examplePt": "Ontem atravessamos o rio de barco.",
+      "pron": "ri-KÁ — o 'е' átono vira 'i'; força no fim",
+      "curiosity": "O Volga é o maior rio da Europa e corta a Rússia de ponta a ponta."
+    },
+    "pr16-02": {
+      "word": "гора",
+      "translit": "gora",
+      "example": "Мы успеем подняться на гору до вечера?",
+      "examplePt": "Será que vamos conseguir subir a montanha até a noite?",
+      "pron": "ga-RÁ — o 'о' inicial vira 'a'; força no fim",
+      "curiosity": "'Гора с плеч', montanha tirada das costas, é o alívio quando um problema acaba."
+    },
+    "pr16-03": {
+      "word": "пляж",
+      "translit": "plyazh",
+      "example": "Вчера на пляже я нашёл большую ракушку.",
+      "examplePt": "Ontem na praia achei uma concha grande.",
+      "pron": "PLYASH — 'ляж' soa 'liásh'; o 'ж' final é 'sh'",
+      "curiosity": "É o francês 'plage' com letras russas: 'пляж' e 'plage' são a mesma palavra."
+    },
+    "pr16-04": {
+      "word": "пустыня",
+      "translit": "pustynya",
+      "example": "В пустыне мы увидим верблюда.",
+      "examplePt": "No deserto veremos um camelo.",
+      "pron": "pus-TÝ-nya — 'ы' é um 'i' grosso; 'ня' soa 'nia'",
+      "curiosity": "Vem de 'пустой' (vazio): deserto é, literalmente, um lugar vazio."
+    },
+    "pr16-05": {
+      "word": "остров",
+      "translit": "ostrov",
+      "example": "Вчера мы нашли необитаемый остров.",
+      "examplePt": "Ontem encontramos uma ilha deserta.",
+      "pron": "ÓS-traf — o 'в' final vira 'f'",
+      "curiosity": "'Остров' é masculino em russo, ao contrário da 'ilha' feminina em português!"
+    },
+    "pr16-06": {
+      "word": "вулкан",
+      "translit": "vulkan",
+      "example": "Вчера вулкан выпустил облако пепла.",
+      "examplePt": "Ontem o vulcão soltou uma nuvem de cinzas.",
+      "pron": "vul-KÁN — o 'л' é firme",
+      "curiosity": "A península russa de Kamchatka tem dezenas de vulcões ativos."
+    },
+    "pr16-07": {
+      "word": "море",
+      "translit": "more",
+      "example": "Мы поплывём по тёплому морю на закате.",
+      "examplePt": "Navegaremos pelo mar quente ao pôr do sol.",
+      "pron": "MÓ-rie — 'ре' final soa 'rie'",
+      "curiosity": "'Море' é neutro em russo, por causa da terminação -е."
+    },
+    "pr16-08": {
+      "word": "поле",
+      "translit": "pole",
+      "example": "По цветущему полю мы бежали до вечера.",
+      "examplePt": "Corremos pelo campo florido até a noite.",
+      "pron": "PÓ-lie — 'ле' soa 'lie'",
+      "curiosity": "O mesmo 'поле' serve para campo de trigo, de futebol e até 'campo de visão'."
+    },
+    "pr17-01": {
+      "word": "весна",
+      "translit": "vesna",
+      "example": "Весной птицы вернутся с юга.",
+      "examplePt": "Na primavera os pássaros voltarão do sul.",
+      "pron": "vis-NÁ — o 'е' átono vira 'i'; força no fim",
+      "curiosity": "A festa russa 'Масленица' recebe a primavera com muitas panquecas."
+    },
+    "pr17-02": {
+      "word": "лето",
+      "translit": "leto",
+      "example": "Что ты будешь делать летом?",
+      "examplePt": "O que você vai fazer no verão?",
+      "pron": "LIÉ-ta — o 'е' soa 'ié'; o 'о' final vira 'a'",
+      "curiosity": "Em 'Сколько тебе лет?' (idade), 'лет' vem de 'лето': contam-se os verões!"
+    },
+    "pr17-03": {
+      "word": "осень",
+      "translit": "osen'",
+      "example": "Осенью мы собирали грибы в лесу.",
+      "examplePt": "No outono colhemos cogumelos na floresta.",
+      "pron": "Ó-sien' — o 'нь' final é suave",
+      "curiosity": "Colher cogumelos é a 'тихая охота', a 'caça silenciosa' dos russos."
+    },
+    "pr17-04": {
+      "word": "зима",
+      "translit": "zima",
+      "example": "Зимой снег закрыл всю улицу.",
+      "examplePt": "No inverno a neve cobriu a rua inteira.",
+      "pron": "zi-MÁ — o 'з' vibra; o 'и' é curto",
+      "curiosity": "Na Sibéria, o inverno pode passar de 50 graus negativos."
+    },
+    "pr17-05": {
+      "word": "утро",
+      "translit": "utro",
+      "example": "Завтра утром мы пойдём на рыбалку.",
+      "examplePt": "Amanhã de manhã vamos pescar.",
+      "pron": "Ú-tra — o 'о' final vira 'a'",
+      "curiosity": "'Утро вечера мудренее': a manhã é mais sábia que a noite, ou seja, durma sobre o problema."
+    },
+    "pr17-06": {
+      "word": "ночь",
+      "translit": "noch'",
+      "example": "Вчера ночью я видел падающую звезду!",
+      "examplePt": "Ontem à noite vi uma estrela cadente!",
+      "pron": "NOCH — o 'ч' final é 'tch'",
+      "curiosity": "Em São Petersburgo, no verão, há 'белые ночи': noites quase tão claras quanto o dia."
+    },
+    "pr17-07": {
+      "word": "неделя",
+      "translit": "nedelya",
+      "example": "Через неделю мы поедем к бабушке.",
+      "examplePt": "Daqui a uma semana vamos à casa da vovó.",
+      "pron": "ni-DIÉ-lya — o 'е' inicial vira 'i'; 'ля' soa 'lia'",
+      "curiosity": "Antigamente 'неделя' era o domingo, 'dia de não fazer nada'; depois virou a semana."
+    },
+    "pr17-08": {
+      "word": "месяц",
+      "translit": "mesyats",
+      "example": "Прошёл месяц, и цветы выросли.",
+      "examplePt": "Passou um mês e as flores cresceram.",
+      "pron": "MIÉ-sits — 'ц' final soa 'ts'",
+      "curiosity": "'Месяц' é mês e também a lua em crescente, como em 'молодой месяц'."
+    },
+    "pr18-01": {
+      "word": "большой",
+      "translit": "bol'shoy",
+      "example": "Почему у тебя такой большой рюкзак?",
+      "examplePt": "Por que sua mochila é tão grande?",
+      "pron": "bal-SHÓI — o 'о' inicial vira 'a'; 'ой' final soa 'oi'",
+      "curiosity": "O famoso 'Большой театр' é o 'Teatro Grande': 'bolshoi' significa grande."
+    },
+    "pr18-02": {
+      "word": "маленький",
+      "translit": "malen'kiy",
+      "example": "Завтра я покажу тебе маленького ёжика.",
+      "examplePt": "Amanhã te mostro um ouriço pequenininho.",
+      "pron": "MÁ-lin'-kii — o 'нь' é suave; o 'и' final é curtinho",
+      "curiosity": "'Мал мала меньше' descreve irmãos em escadinha, do maior ao menorzinho."
+    },
+    "pr18-03": {
+      "word": "длинный",
+      "translit": "dlinnyy",
+      "example": "Вчера мы видели очень длинный поезд.",
+      "examplePt": "Ontem vimos um trem muito comprido.",
+      "pron": "DLÍN-nyi — 'дл' junto; o 'нн' é longo; 'ы' é um 'i' grosso",
+      "curiosity": "'Длинный' é comprido no espaço; para o tempo comprido se diz 'долгий'."
+    },
+    "pr18-04": {
+      "word": "короткий",
+      "translit": "korotkiy",
+      "example": "Завтра у нас будет короткий урок.",
+      "examplePt": "Amanhã teremos uma aula curta.",
+      "pron": "ka-RÓT-kii — o 'о' inicial vira 'a'",
+      "curiosity": "'Короче' virou gíria para 'resumindo': literalmente, 'mais curto'."
+    },
+    "pr18-05": {
+      "word": "тяжёлый",
+      "translit": "tyazhyolyy",
+      "example": "Вчера мой рюкзак был таким тяжёлым!",
+      "examplePt": "Ontem minha mochila estava tão pesada!",
+      "pron": "ti-ZHÓ-lyi — o 'ж' é como 'j'; 'ё' é tônico, 'io'",
+      "curiosity": "'Тяжёлый рок' é o rock pesado, o 'heavy' das guitarras."
+    },
+    "pr18-06": {
+      "word": "полный",
+      "translit": "polnyy",
+      "example": "Стакан был полный, и вода пролилась.",
+      "examplePt": "O copo estava cheio e a água transbordou.",
+      "pron": "PÓL-nyi — o 'л' é firme; 'ы' é um 'i' grosso",
+      "curiosity": "'Полнолуние' junta 'полный' e 'луна' numa palavra só: lua cheia."
+    },
+    "pr18-07": {
+      "word": "пустой",
+      "translit": "pustoy",
+      "example": "Холодильник был пустой, и кот грустил.",
+      "examplePt": "A geladeira estava vazia e o gato ficou triste.",
+      "pron": "pus-TÓI — força no 'той'",
+      "curiosity": "'Пустой разговор' é papo furado: conversa sem conteúdo."
+    },
+    "pr18-08": {
+      "word": "широкий",
+      "translit": "shirokiy",
+      "example": "Река была такой широкой, что берега не видно.",
+      "examplePt": "O rio era tão largo que não se via a margem.",
+      "pron": "shi-RÓ-kii — 'ши' soa 'chy'; o 'о' é tônico",
+      "curiosity": "Escolares russos aprendem 'жи-ши пиши с и': depois de ж e ш se escreve 'и'."
+    },
+    "pr19-01": {
+      "word": "горячий",
+      "translit": "goryachiy",
+      "example": "Вчера я обжёгся горячим чаем.",
+      "examplePt": "Ontem me queimei com chá quente.",
+      "pron": "ga-RIÁ-chii — o 'ч' é 'tch'",
+      "curiosity": "'Горячая линия' é a linha direta, o 'disque-ajuda' dos russos."
+    },
+    "pr19-02": {
+      "word": "холодный",
+      "translit": "kholodnyy",
+      "example": "Ты возьмёшь шарф, если будет холодный ветер?",
+      "examplePt": "Você leva o cachecol se ventar frio?",
+      "pron": "kha-LÓD-nyi — 'х' é um 'r' forte; 'ы' é um 'i' grosso",
+      "curiosity": "'Холодный расчёт', cálculo frio, é decidir com a cabeça, sem emoção."
+    },
+    "pr19-03": {
+      "word": "новый",
+      "translit": "novyy",
+      "example": "Вчера бабушка подарила мне новый самокат.",
+      "examplePt": "Ontem a vovó me deu um patinete novo.",
+      "pron": "NÓ-vyi — o 'ы' é um 'i' grosso",
+      "curiosity": "Na Rússia, o 'Новый год' é a festa de inverno mais esperada, com árvore e presentes."
+    },
+    "pr19-04": {
+      "word": "старый",
+      "translit": "staryy",
+      "example": "Мой дедушка рассказал старую сказку.",
+      "examplePt": "Meu avô contou um conto antigo.",
+      "pron": "STÁ-ryi — o 'ы' é um 'i' grosso",
+      "curiosity": "Os russos ainda festejam o 'Старый Новый год' (Velho Ano Novo) em 14 de janeiro!"
+    },
+    "pr19-05": {
+      "word": "быстрый",
+      "translit": "bystryy",
+      "example": "Быстрый заяц проспал гонку с черепахой!",
+      "examplePt": "A lebre veloz dormiu na corrida com a tartaruga!",
+      "pron": "BÝS-tryi — o 'ы' é um 'i' grosso; 'стр' junto",
+      "curiosity": "'Быстро' fala de velocidade e 'скоро' de tempo: 'скоро' é 'em breve'."
+    },
+    "pr19-06": {
+      "word": "медленный",
+      "translit": "medlennyy",
+      "example": "Медленный лифт ехал целую вечность!",
+      "examplePt": "O elevador lento levou uma eternidade!",
+      "pron": "MIÉD-lin-nyi — 'дл' junto; 'нн' longo",
+      "curiosity": "'Тише едешь — дальше будешь': quem vai devagar chega mais longe."
+    },
+    "pr19-07": {
+      "word": "чистый",
+      "translit": "chistyy",
+      "example": "Машину вымыли, и она стала чистой.",
+      "examplePt": "Lavaram o carro e ele ficou limpo.",
+      "pron": "CHÍS-tyi — o 'ч' é 'tch'; 'ы' é um 'i' grosso",
+      "curiosity": "'Начать с чистого листа', começar de uma folha limpa, é recomeçar do zero."
+    },
+    "pr19-08": {
+      "word": "грязный",
+      "translit": "gryaznyy",
+      "example": "Вчера грязный пёс прыгнул в мою ванну!",
+      "examplePt": "Ontem o cachorro sujo pulou na minha banheira!",
+      "pron": "GRIÁZ-nyi — 'гря' soa 'gria'; o 'з' vibra",
+      "curiosity": "O adjetivo vem de 'грязь' (lama): sujo é, literalmente, 'cheio de lama'."
+    },
+    "pr20-01": {
+      "word": "серый",
+      "translit": "seryy",
+      "example": "Вчера серый кот исчез в тумане.",
+      "examplePt": "Ontem o gato cinza sumiu na névoa.",
+      "pron": "SIÉ-ryi — o 'е' soa 'ié'; 'ы' é um 'i' grosso",
+      "curiosity": "O 'Серый волк' (lobo cinzento) é o ajudante clássico dos contos russos."
+    },
+    "pr20-02": {
+      "word": "золотой",
+      "translit": "zolotoy",
+      "example": "Завтра мы найдём золотой ключ!",
+      "examplePt": "Amanhã vamos encontrar uma chave dourada!",
+      "pron": "za-la-TÓI — os 'о' átonos viram 'a'; força no fim",
+      "curiosity": "'Золотая осень' (outono dourado) é como os russos chamam a época das folhas amarelas."
+    },
+    "pr20-03": {
+      "word": "серебряный",
+      "translit": "serebryanyy",
+      "example": "Луна сделала озеро серебряным.",
+      "examplePt": "A lua deixou o lago prateado.",
+      "pron": "si-RIÉB-ria-nyi — 'бр' junto; o 'ы' é um 'i' grosso",
+      "curiosity": "O 'Серебряный век' é o período de ouro da poesia russa, no começo do século XX."
+    },
+    "pr20-04": {
+      "word": "бежевый",
+      "translit": "bezhevyy",
+      "example": "Мы увидим бежевого верблюда.",
+      "examplePt": "Vamos ver um camelo bege.",
+      "pron": "BIÉ-zhe-vyi — o 'ж' é como 'j'; o 'ы' é um 'i' grosso",
+      "curiosity": "Vem do francês 'beige', e a cor é a mesma: a da lã natural."
+    },
+    "pr20-05": {
+      "word": "бирюзовый",
+      "translit": "biryuzovyy",
+      "example": "В бирюзовой воде мы плавали весь день.",
+      "examplePt": "Nadamos o dia todo na água turquesa.",
+      "pron": "bi-riu-ZÓ-vyi — 'рю' soa 'riu'; 'ы' é um 'i' grosso",
+      "curiosity": "'Бирюза' é a pedra turquesa, e a cor leva o nome dela."
+    },
+    "pr20-06": {
+      "word": "сиреневый",
+      "translit": "sirenevyy",
+      "example": "Вчера сиреневые облака окрасили закат.",
+      "examplePt": "Ontem nuvens lilases coloriram o pôr do sol.",
+      "pron": "si-RIÉ-nie-vyi — o 'и' inicial é curto; 'ы' final é um 'i' grosso",
+      "curiosity": "'Сирень' é a flor lilás; por isso a cor leva o nome dela, como 'rosa'."
+    },
+    "pr20-07": {
+      "word": "тёмно-синий",
+      "translit": "tyomno-siniy",
+      "example": "Матрос надел тёмно-синюю форму.",
+      "examplePt": "O marinheiro vestiu o uniforme azul-marinho.",
+      "pron": "TIÓM-na SÍ-nii — o 'ё' é tônico e soa 'io'",
+      "curiosity": "O russo trata 'синий' (azul escuro) e 'голубой' (azul claro) como cores diferentes."
+    },
+    "pr20-08": {
+      "word": "разноцветный",
+      "translit": "raznotsvetnyy",
+      "example": "Завтра на празднике будут разноцветные шарики.",
+      "examplePt": "Amanhã haverá balões coloridos na festa.",
+      "pron": "raz-na-TSVIÉT-nyi — 'цв' junto, o 'ц' soa 'ts'",
+      "curiosity": "É uma palavra composta: 'разный' (vário) + 'цвет' (цвет = cor)."
+    },
+    "pr21-01": {
+      "word": "гитара",
+      "translit": "gitara",
+      "example": "Если бы у тебя была гитара, что бы ты сыграл?",
+      "examplePt": "Se você tivesse um violão, o que tocaria?",
+      "pron": "gi-TÁ-ra — o 'г' é de 'gato'; força no 'та'",
+      "curiosity": "Os russos adoram a 'семиструнная гитара', o violão de sete cordas."
+    },
+    "pr21-02": {
+      "word": "пианино",
+      "translit": "pianino",
+      "example": "Когда соседи играют на пианино, мне хочется петь.",
+      "examplePt": "Quando os vizinhos tocam piano, tenho vontade de cantar.",
+      "pron": "pi-a-NÍ-no — o 'и' é curto; força no 'ни'",
+      "curiosity": "'Пианино' é o piano de parede e 'рояль', o de cauda; o termo geral é 'фортепиано'."
+    },
+    "pr21-03": {
+      "word": "барабаны",
+      "translit": "barabany",
+      "example": "Сосед так громко играет на барабанах, что дрожат стёкла.",
+      "examplePt": "O vizinho toca bateria tão alto que os vidros tremem.",
+      "pron": "ba-ra-BÁ-ny — o 'ы' final é um 'i' grosso",
+      "curiosity": "O verbo 'барабанить' é bater sem parar, como a chuva na janela: tamborilar."
+    },
+    "pr21-04": {
+      "word": "скрипка",
+      "translit": "skripka",
+      "example": "Скрипка звучит так нежно, будто она поёт.",
+      "examplePt": "O violino soa tão suave, como se estivesse cantando.",
+      "pron": "SKRÍP-ka — 'скр' juntos, sem vogal; o 'р' vibra",
+      "curiosity": "'Скрипичный ключ' é a clave de sol, literalmente 'chave de violino'."
+    },
+    "pr21-05": {
+      "word": "труба",
+      "translit": "truba",
+      "example": "Он играет на трубе так громко, что птицы улетают.",
+      "examplePt": "Ele toca trompete tão alto que os pássaros fogem.",
+      "pron": "tru-BÁ — o 'у' é puro; força no fim",
+      "curiosity": "'Труба' é trompete, cano e chaminé; 'дело — труба' é gíria para 'estamos perdidos'."
+    },
+    "pr21-06": {
+      "word": "флейта",
+      "translit": "fleyta",
+      "example": "Флейта звучит как птица, поющая на рассвете.",
+      "examplePt": "A flauta soa como um pássaro cantando ao amanhecer.",
+      "pron": "FLIÉI-ta — 'ей' soa 'iei'",
+      "curiosity": "O russo tem 'флейта' (de orquestra) e 'дудка' (flautinha folclórica, de pastor)."
+    },
+    "pr21-07": {
+      "word": "саксофон",
+      "translit": "saksofon",
+      "example": "Если бы кот играл на саксофоне, двор слушал бы.",
+      "examplePt": "Se o gato tocasse saxofone, o pátio ouviria.",
+      "pron": "sak-sa-FÓN — o 'о' final é tônico e aberto",
+      "curiosity": "Foi inventado na Bélgica, no século XIX, e leva o nome do seu inventor."
+    },
+    "pr21-08": {
+      "word": "аккордеон",
+      "translit": "akkordeon",
+      "example": "Дедушка достал аккордеон, и все начали танцевать.",
+      "examplePt": "Vovô pegou o acordeão e todos começaram a dançar.",
+      "pron": "a-kar-di-ÓN — o 'кк' é um 'k' longo; 'де' soa 'di'",
+      "curiosity": "A 'гармонь' é o parente folclórico do acordeão e símbolo das festas no campo."
+    },
+    "pr22-01": {
+      "word": "молоток",
+      "translit": "molotok",
+      "example": "Папа забил гвоздь молотком, но попал по пальцу.",
+      "examplePt": "Papai bateu o prego com o martelo, mas acertou o dedo.",
+      "pron": "ma-la-TÓK — os 'о' átonos viram 'a'; o 'к' final é seco",
+      "curiosity": "'Молоток' é o diminutivo de 'молот', a marreta grande."
+    },
+    "pr22-02": {
+      "word": "дрель",
+      "translit": "drel'",
+      "example": "Дрель шумит так, что соседи закрывают окна.",
+      "examplePt": "A furadeira faz tanto barulho que os vizinhos fecham as janelas.",
+      "pron": "DRIEL' — 'др' junto; o 'ль' final é suave",
+      "curiosity": "A broca da furadeira se chama 'сверло', do verbo 'сверлить' (furar)."
+    },
+    "pr22-03": {
+      "word": "шуруп",
+      "translit": "shurup",
+      "example": "Шуруп вкручивают отвёрткой, а не молотком.",
+      "examplePt": "O parafuso se enrosca com chave de fenda, não com martelo.",
+      "pron": "shu-RÚP — o 'ш' é 'ch'; o 'п' final é seco",
+      "curiosity": "A chave de fenda é a 'отвёртка', do verbo 'отвернуть' (desenroscar)."
+    },
+    "pr22-04": {
+      "word": "лестница",
+      "translit": "lestnitsa",
+      "example": "Лестница слишком короткая, чтобы достать до крыши.",
+      "examplePt": "A escada é curta demais para alcançar o telhado.",
+      "pron": "LIÉS-nitsa — o 'т' não se ouve; 'ц' soa 'ts'",
+      "curiosity": "Em russo também se sobe a 'карьерная лестница', a escada da carreira."
+    },
+    "pr22-05": {
+      "word": "кисть",
+      "translit": "kist'",
+      "example": "Художник провёл кистью по холсту, и появился закат.",
+      "examplePt": "O artista passou o pincel na tela e surgiu um pôr do sol.",
+      "pron": "KIST' — o 'ь' final deixa o 'т' suave",
+      "curiosity": "'Кисть' é pincel, mas também o pulso até a ponta da mão e um cacho de uvas!"
+    },
+    "pr22-06": {
+      "word": "верёвка",
+      "translit": "veryovka",
+      "example": "Мы связали плот верёвкой и поплыли.",
+      "examplePt": "Amarramos a jangada com corda e navegamos.",
+      "pron": "vi-RIÓF-ka — o 'ё' é tônico, 'io'; o 'в' antes de 'к' soa 'f'",
+      "curiosity": "'Вить верёвки из кого-то', torcer cordas com alguém, é manipular quem é manso demais."
+    },
+    "pr22-07": {
+      "word": "магнит",
+      "translit": "magnit",
+      "example": "Магнит притягивает скрепки, но не притягивает кота.",
+      "examplePt": "O ímã atrai clipes, mas não atrai o gato.",
+      "pron": "mag-NÍT — o 'г' é de 'gato'; força no fim",
+      "curiosity": "Vem do grego: a 'pedra de Magnésia', região onde o ímã era encontrado."
+    },
+    "pr22-08": {
+      "word": "ведро",
+      "translit": "vedro",
+      "example": "Он принёс ведро воды, чтобы полить сад.",
+      "examplePt": "Ele trouxe um balde d'água para regar o jardim.",
+      "pron": "vi-DRÓ — o 'е' átono vira 'i'; força no fim",
+      "curiosity": "'Льёт как из ведра' é chover a cântaros: literalmente, 'como de um balde'."
+    },
+    "pr23-01": {
+      "word": "компьютер",
+      "translit": "komp'yuter",
+      "example": "Мой компьютер включается медленнее, чем просыпается кот.",
+      "examplePt": "Meu computador liga mais devagar do que o gato acorda.",
+      "pron": "kam-PYU-tir — 'пью' soa 'piu'; o 'е' átono soa 'i'",
+      "curiosity": "Na era soviética o computador era a 'ЭВМ', a 'máquina de cálculo eletrônica'."
+    },
+    "pr23-02": {
+      "word": "смартфон",
+      "translit": "smartfon",
+      "example": "Что бы ты делал целый день без смартфона?",
+      "examplePt": "O que você faria o dia inteiro sem smartphone?",
+      "pron": "smart-FÓN — 'смарт' junto; o 'о' final é tônico",
+      "curiosity": "No dia a dia o smartphone também vira 'мобильник'."
+    },
+    "pr23-03": {
+      "word": "клавиатура",
+      "translit": "klaviatura",
+      "example": "Если пролить сок на клавиатуру, она сломается.",
+      "examplePt": "Se derramar suco no teclado, ele quebra.",
+      "pron": "kla-vi-a-TÚ-ra — o 'л' é firme; o 'у' é tônico",
+      "curiosity": "Vem de 'клавиша' (tecla), do latim 'clavis' (chave): parente de 'clave'."
+    },
+    "pr23-04": {
+      "word": "камера",
+      "translit": "kamera",
+      "example": "Эта камера снимает даже ночью, хотя света нет.",
+      "examplePt": "Esta câmera filma até de noite, mesmo sem luz.",
+      "pron": "KÁ-mi-ra — o 'е' átono soa 'i'",
+      "curiosity": "'Камера хранения' é o guarda-volumes; 'камера' também é cela e compartimento."
+    },
+    "pr23-05": {
+      "word": "наушники",
+      "translit": "naushniki",
+      "example": "Когда я надеваю наушники, мир вокруг исчезает.",
+      "examplePt": "Quando ponho os fones, o mundo ao redor some.",
+      "pron": "na-ÚSH-ni-ki — o 'у' é tônico; 'ш' é 'ch'",
+      "curiosity": "'Наушники' são, literalmente, 'os que ficam nas orelhas' (на + уши)."
+    },
+    "pr23-06": {
+      "word": "принтер",
+      "translit": "printer",
+      "example": "Принтер всегда ломается именно тогда, когда мне нужно распечатать.",
+      "examplePt": "A impressora sempre quebra justo quando preciso imprimir.",
+      "pron": "PRIN-ter — o 'е' soa 'e' curto",
+      "curiosity": "'Печатать' (imprimir, digitar) vem de 'печать', que é selo ou carimbo."
+    },
+    "pr23-07": {
+      "word": "робот",
+      "translit": "robot",
+      "example": "Мой брат мечтает построить робота, который убирает комнату.",
+      "examplePt": "Meu irmão sonha em construir um robô que arruma o quarto.",
+      "pron": "RÓ-bot — o 'о' é aberto; o 'т' final é seco",
+      "curiosity": "'Robô' vem do tcheco 'robota' (trabalho forçado), numa peça de teatro de 1920."
+    },
+    "pr23-08": {
+      "word": "зарядка",
+      "translit": "zaryadka",
+      "example": "Если не найду зарядку, телефон выключится.",
+      "examplePt": "Se eu não achar o carregador, o celular desliga.",
+      "pron": "za-RIÁT-ka — 'ря' soa 'ria'; o 'д' antes de 'к' soa 't'",
+      "curiosity": "'Зарядка' também é a ginástica matinal: os russos 'carregam as baterias' do corpo!"
+    },
+    "pr24-01": {
+      "word": "мозг",
+      "translit": "mozg",
+      "example": "Почему мозг устаёт от экрана?",
+      "examplePt": "Por que o cérebro se cansa da tela?",
+      "pron": "MOSK — 'зг' final soa 'sk'",
+      "curiosity": "'Шевелить мозгами', mexer os miolos, é pensar com esforço."
+    },
+    "pr24-02": {
+      "word": "кость",
+      "translit": "kost'",
+      "example": "Собака нашла кость и спрятала её в саду.",
+      "examplePt": "A cachorra achou um osso e o escondeu no jardim.",
+      "pron": "KOST' — o 'ь' final suaviza o 'т'",
+      "curiosity": "De 'кость' vem 'косточка', o caroço da cereja e de outras frutas."
+    },
+    "pr24-03": {
+      "word": "мышца",
+      "translit": "myshtsa",
+      "example": "Чтобы вырастить мышцы, нужно есть и тренироваться.",
+      "examplePt": "Para ganhar músculos, é preciso comer e treinar.",
+      "pron": "MÝ-shtsa — o 'ы' é um 'i' grosso; 'шц' vêm juntos",
+      "curiosity": "Vem de 'мышь' (camundongo), como o latim 'musculus' (ratinho) que deu 'músculo'."
+    },
+    "pr24-04": {
+      "word": "волосы",
+      "translit": "volosy",
+      "example": "Когда дует ветер, мои волосы летают во все стороны.",
+      "examplePt": "Quando venta, meu cabelo voa para todos os lados.",
+      "pron": "VÓ-la-sy — o 'ы' final é um 'i' grosso",
+      "curiosity": "Em russo 'cabelo' é plural, 'волосы'; um fio só é 'волос'."
+    },
+    "pr24-05": {
+      "word": "ноготь",
+      "translit": "nogot'",
+      "example": "Мой ноготь сломался, когда я открывал банку.",
+      "examplePt": "Minha unha quebrou quando eu abria o pote.",
+      "pron": "NÓ-gat' — o 'ть' final é suave; o 'о' final vira 'a'",
+      "curiosity": "No plural a vogal desaparece: ноготь vira ногти."
+    },
+    "pr24-06": {
+      "word": "колено",
+      "translit": "koleno",
+      "example": "Я ударился коленом о стол и подпрыгнул.",
+      "examplePt": "Bati o joelho na mesa e dei um pulo.",
+      "pron": "ka-LIÉ-na — o 'о' inicial vira 'a'; o 'е' soa 'ié'",
+      "curiosity": "'Море по колено' diz de quem não tem medo de nada: o mar só chega ao joelho."
+    },
+    "pr24-07": {
+      "word": "палец",
+      "translit": "palets",
+      "example": "Мой палец всегда находит угол стола!",
+      "examplePt": "Meu dedo sempre acha a quina da mesa!",
+      "pron": "PÁ-lits — o 'ц' final soa 'ts'; o 'е' vira 'i'",
+      "curiosity": "'Попасть пальцем в небо' é chutar errado: acertar o dedo no céu."
+    },
+    "pr24-08": {
+      "word": "лёгкое",
+      "translit": "Lyogkoe",
+      "example": "Моё лёгкое наполняется воздухом, когда я смеюсь.",
+      "examplePt": "Meu pulmão se enche de ar quando eu rio.",
+      "pron": "LYÓKH-ka-ye — \"ё\" soa \"iô\"; o \"гк\" vira \"khk\", com \"h\" aspirado",
+      "curiosity": "\"Лёгкое\" nasce de \"лёгкий\" (leve): o pulmão é o órgão \"leve\" do corpo!"
+    },
+    "pr25-01": {
+      "word": "прививка",
+      "translit": "privivka",
+      "example": "Прививка — это секунда боли, но годы защиты.",
+      "examplePt": "A vacina é um segundo de dor e anos de proteção.",
+      "pron": "pri-VÍF-ka — o 'в' antes de 'к' soa 'f'",
+      "curiosity": "Vem de 'привить' (enxertar): a vacina é como enxertar defesa no corpo, como numa planta."
+    },
+    "pr25-02": {
+      "word": "градусник",
+      "translit": "gradusnik",
+      "example": "Если градусник показывает больше тридцати восьми, нужен врач.",
+      "examplePt": "Se o termômetro marca mais de 38, é preciso ir ao médico.",
+      "pron": "GRÁ-dus-nik — 'д' antes de 'с' é leve; 'ник' curto",
+      "curiosity": "Vem de 'градус' (grau): literalmente, 'o medidor de graus'."
+    },
+    "pr25-03": {
+      "word": "пластырь",
+      "translit": "plastyr'",
+      "example": "Я наклеил пластырь с динозавром на колено.",
+      "examplePt": "Colei um curativo de dinossauro no joelho.",
+      "pron": "PLÁS-tyr' — o 'ы' é um 'i' grosso; o 'рь' final é suave",
+      "curiosity": "Vem do grego 'émplastron', parente do português 'emplastro'."
+    },
+    "pr25-04": {
+      "word": "грипп",
+      "translit": "gripp",
+      "example": "Что делать, если в классе у всех грипп?",
+      "examplePt": "O que fazer se na sala todo mundo está gripado?",
+      "pron": "GRIP — o 'пп' é um 'p' longo; 'гр' junto",
+      "curiosity": "'Грипп' é a gripe de verdade; o resfriado comum se chama 'простуда'."
+    },
+    "pr25-05": {
+      "word": "кашель",
+      "translit": "kashel'",
+      "example": "Мёд помогает, когда кашель не проходит.",
+      "examplePt": "O mel ajuda quando a tosse não passa.",
+      "pron": "KÁ-shil' — o 'ш' é 'ch'; o 'ль' final é suave",
+      "curiosity": "O remédio caseiro russo clássico contra tosse é chá quente com mel e limão."
+    },
+    "pr25-06": {
+      "word": "боль",
+      "translit": "bol'",
+      "example": "Если боль не проходит, надо сказать маме.",
+      "examplePt": "Se a dor não passa, é preciso contar à mamãe.",
+      "pron": "BOL' — o 'ль' final é suave",
+      "curiosity": "Da mesma família: 'больной' (doente) e 'больница' (hospital)."
+    },
+    "pr25-07": {
+      "word": "костыли",
+      "translit": "kostyli",
+      "example": "Он ходил на костылях два месяца, но не грустил.",
+      "examplePt": "Ele andou de muletas por dois meses, mas não ficou triste.",
+      "pron": "kas-ty-LÍ — o 'ы' é um 'i' grosso; força no fim",
+      "curiosity": "Na informática, 'костыль' (muleta) é a gambiarra, um remendo improvisado."
+    },
+    "pr25-08": {
+      "word": "стетоскоп",
+      "translit": "stetoskop",
+      "example": "Врач приложил стетоскоп к груди и попросил глубоко дышать.",
+      "examplePt": "O médico encostou o estetoscópio no peito e pediu para respirar fundo.",
+      "pron": "ste-tas-KÓP — o 'о' final é tônico e aberto",
+      "curiosity": "Vem do grego: 'stethos' (peito) + 'skopein' (observar)."
+    },
+    "pr26-01": {
+      "word": "деньги",
+      "translit": "den'gi",
+      "example": "Куда делись все мои деньги?",
+      "examplePt": "Para onde foi todo o meu dinheiro?",
+      "pron": "DIÉN'-gi — o 'нь' é suave; o 'г' é de 'gato'",
+      "curiosity": "'Деньги' é sempre plural em russo: o dinheiro 'acabaram', dizem eles."
+    },
+    "pr26-02": {
+      "word": "монета",
+      "translit": "moneta",
+      "example": "В фонтане блестит монета, которую кто-то бросил.",
+      "examplePt": "No chafariz brilha uma moeda que alguém jogou.",
+      "pron": "ma-NÉ-ta — o 'о' inicial vira 'a'",
+      "curiosity": "'Копейка рубль бережёт': o centavo guarda o rublo, como o nosso 'de grão em grão'."
+    },
+    "pr26-03": {
+      "word": "банковская карта",
+      "translit": "bankovskaya karta",
+      "example": "Я оплатил покупку банковской картой, а не наличными.",
+      "examplePt": "Paguei a compra com cartão, e não em dinheiro vivo.",
+      "pron": "BAN-kaf-ska-ya KÁR-ta — o 'в' antes de 'с' soa 'f'",
+      "curiosity": "'Карта' em russo é mapa, cartão e carta de baralho: o contexto decide."
+    },
+    "pr26-04": {
+      "word": "кошелёк",
+      "translit": "koshelyok",
+      "example": "Мой кошелёк пустой, а аппетит огромный!",
+      "examplePt": "Minha carteira está vazia, mas o apetite é enorme!",
+      "pron": "ka-sha-LIÓK — o 'ё' é tônico, 'io'; o 'к' final é seco",
+      "curiosity": "É o diminutivo de 'кошель', uma bolsa antiga de couro."
+    },
+    "pr26-05": {
+      "word": "цена",
+      "translit": "tsena",
+      "example": "Мы ушли из магазина: цена оказалась слишком высокой.",
+      "examplePt": "Saímos da loja: o preço era alto demais.",
+      "pron": "tse-NÁ — o 'ц' soa 'ts'; força no fim",
+      "curiosity": "O russo 'дорогой' é caro e também querido: 'дорогая мама' é 'querida mamãe'."
+    },
+    "pr26-06": {
+      "word": "копилка",
+      "translit": "kopilka",
+      "example": "Я бросаю монеты в копилку, чтобы купить велосипед.",
+      "examplePt": "Jogo moedas no cofrinho para comprar uma bicicleta.",
+      "pron": "ka-PÍL-ka — o 'о' inicial vira 'a'; força no 'пил'",
+      "curiosity": "Vem de 'копить' (juntar, poupar): 'копилка' é a juntadora de moedinhas."
+    },
+    "pr26-07": {
+      "word": "скидка",
+      "translit": "skidka",
+      "example": "Почему скидка всегда кончается, когда я прихожу?",
+      "examplePt": "Por que o desconto sempre acaba quando eu chego?",
+      "pron": "SKÍT-ka — o 'д' antes de 'к' soa 't'",
+      "curiosity": "Vem de 'скинуть' (tirar): o desconto é o que o vendedor 'tira' do preço."
+    },
+    "pr26-08": {
+      "word": "чек",
+      "translit": "chek",
+      "example": "Без чека магазин не примет обратно игрушку.",
+      "examplePt": "Sem o recibo a loja não aceita o brinquedo de volta.",
+      "pron": "TCHIEK — o 'ч' é 'tch'; o 'е' soa 'ié'",
+      "curiosity": "Vem do inglês 'check': 'чек' é recibo de loja e também cheque bancário."
+    },
+    "pr27-01": {
+      "word": "ученик",
+      "translit": "uchenik",
+      "example": "Новый ученик пришёл в класс с огромным рюкзаком.",
+      "examplePt": "O aluno novo chegou à sala com uma mochila enorme.",
+      "pron": "u-chi-NÍK — o 'ч' é 'tch'; força no fim",
+      "curiosity": "Além de aluno, 'ученик' é aprendiz, como em 'ученик мастера'."
+    },
+    "pr27-02": {
+      "word": "урок",
+      "translit": "urok",
+      "example": "Какой урок самый интересный в твоём расписании?",
+      "examplePt": "Qual aula é a mais interessante do seu horário?",
+      "pron": "u-RÓK — o 'о' tônico é aberto; o 'к' final é seco",
+      "curiosity": "'Извлечь урок', tirar uma lição, vale para a escola e para a vida."
+    },
+    "pr27-03": {
+      "word": "экзамен",
+      "translit": "ekzamen",
+      "example": "Ты волнуешься перед экзаменом?",
+      "examplePt": "Você fica nervoso antes da prova?",
+      "pron": "ek-ZÁ-min — o 'э' é um 'é' aberto; o 'з' vibra",
+      "curiosity": "'Сдать экзамен', literalmente 'entregar a prova', é fazer o exame e passar."
+    },
+    "pr27-04": {
+      "word": "доска",
+      "translit": "doska",
+      "example": "Учитель стёр доску, но мел остался на рукаве.",
+      "examplePt": "O professor apagou o quadro, mas o giz ficou na manga.",
+      "pron": "das-KÁ — o 'о' inicial vira 'a'; força no fim",
+      "curiosity": "'Доска почёта' é o mural de honra com os melhores alunos da escola."
+    },
+    "pr27-05": {
+      "word": "словарь",
+      "translit": "slovar'",
+      "example": "Если не знаешь слово, найди его в словаре.",
+      "examplePt": "Se não sabe a palavra, procure no dicionário.",
+      "pron": "sla-VÁR' — o 'о' inicial vira 'a'; o 'рь' final é suave",
+      "curiosity": "Vem de 'слово' (palavra): é o 'livro de palavras'."
+    },
+    "pr27-06": {
+      "word": "диплом",
+      "translit": "diplom",
+      "example": "После университета он получил диплом и устроил праздник.",
+      "examplePt": "Depois da universidade ele recebeu o diploma e fez uma festa.",
+      "pron": "di-PLÓM — o 'о' é tônico e aberto",
+      "curiosity": "Em russo 'писать диплом' é escrever a monografia final, não o papel!"
+    },
+    "pr27-07": {
+      "word": "математика",
+      "translit": "matematika",
+      "example": "Математика кажется трудной, пока не поймёшь трюк.",
+      "examplePt": "A matemática parece difícil até você entender o truque.",
+      "pron": "ma-ti-MÁ-ti-ka — o 'т' é suave, quase 'ti'",
+      "curiosity": "Existe a frase: 'Математика — царица наук', a rainha das ciências."
+    },
+    "pr27-08": {
+      "word": "наука",
+      "translit": "nauka",
+      "example": "Благодаря науке мы знаем, из чего сделаны звёзды.",
+      "examplePt": "Graças à ciência sabemos do que as estrelas são feitas.",
+      "pron": "na-Ú-ka — o 'у' é tônico e puro",
+      "curiosity": "Vem de 'научить' (ensinar): ciência é o que se aprende e se ensina."
+    },
+    "pr28-01": {
+      "word": "живопись",
+      "translit": "zhivopis'",
+      "example": "Живопись помогает увидеть то, что обычно проходит незамеченным.",
+      "examplePt": "A pintura ajuda a ver o que costuma passar despercebido.",
+      "pron": "ZHÝ-va-pis' — o 'ж' é como 'j'; o 'ы' é um 'i' grosso",
+      "curiosity": "Junta 'жить' (viver) + 'писать' (pintar): literalmente, 'escrever a vida'."
+    },
+    "pr28-02": {
+      "word": "рисунок",
+      "translit": "risunok",
+      "example": "Каждый детский рисунок рассказывает целую историю о мире ребёнка.",
+      "examplePt": "Cada desenho infantil conta uma história inteira do mundo da criança.",
+      "pron": "ri-SÚ-nak — o 'у' é tônico; o 'о' final vira 'a'",
+      "curiosity": "Além de desenho, 'рисунок' é a estampa de um tecido ou o padrão da pelagem."
+    },
+    "pr28-03": {
+      "word": "скульптура",
+      "translit": "skul'ptura",
+      "example": "Скульптура из снега простояла неделю, пока не потеплело.",
+      "examplePt": "A escultura de neve durou uma semana, até esquentar.",
+      "pron": "skul'p-TÚ-ra — 'скул' junto; o 'ь' suaviza o 'л'",
+      "curiosity": "No inverno, cidades russas fazem festivais de esculturas de gelo e neve."
+    },
+    "pr28-04": {
+      "word": "театр",
+      "translit": "teatr",
+      "example": "Хочешь пойти в театр, где актёры играют без микрофонов?",
+      "examplePt": "Quer ir ao teatro, onde os atores atuam sem microfone?",
+      "pron": "ti-ÁTR — o 'те' soa 'tie'; 'тр' final junto",
+      "curiosity": "Em teatros russos, o casaco costuma ir para o 'гардероб' (chapelaria) antes do espetáculo."
+    },
+    "pr28-05": {
+      "word": "музыка",
+      "translit": "muzyka",
+      "example": "Музыка может заставить нас смеяться, плакать и танцевать.",
+      "examplePt": "A música pode nos fazer rir, chorar e dançar.",
+      "pron": "MÚ-zy-ka — o 'ы' é um 'i' grosso",
+      "curiosity": "'Кто платит, тот заказывает музыку': quem paga escolhe a música, igual ao português."
+    },
+    "pr28-06": {
+      "word": "танец",
+      "translit": "tanets",
+      "example": "Народный танец требует хорошего настроения и крепких ног.",
+      "examplePt": "A dança folclórica pede bom humor e pernas firmes.",
+      "pron": "TÁ-nits — o 'ц' final soa 'ts'; o 'е' vira 'i'",
+      "curiosity": "Para dança folclórica cheia de pulos, os russos usam 'пляска', não 'танец'."
+    },
+    "pr28-07": {
+      "word": "фильм",
+      "translit": "fil'm",
+      "example": "Мы смотрели фильм, который заставил смеяться весь зал.",
+      "examplePt": "Assistimos a um filme que fez a sala toda rir.",
+      "pron": "FIL'M — o 'ль' é suave e o 'м' vem colado",
+      "curiosity": "Desenho animado em russo é 'мультфильм', de 'мультипликация'."
+    },
+    "pr28-08": {
+      "word": "стихотворение",
+      "translit": "stikhotvorenie",
+      "example": "В школе нам задали выучить стихотворение наизусть до пятницы.",
+      "examplePt": "Na escola mandaram decorar um poema até sexta.",
+      "pron": "sti-kha-tva-RIÉ-nie — o 'х' é um 'r' forte; força em 'ре'",
+      "curiosity": "Cuidado: 'поэма' não é poema curto, e sim um poema longo e narrativo."
+    },
+    "pr29-01": {
+      "word": "планета",
+      "translit": "planeta",
+      "example": "Есть ли жизнь на другой планете?",
+      "examplePt": "Existe vida em outro planeta?",
+      "pron": "pla-NIÉ-ta — o 'е' soa 'ié'; o 'л' é firme",
+      "curiosity": "Vem do grego 'planetes', 'errante': os antigos viam luzes que vagavam entre as estrelas."
+    },
+    "pr29-02": {
+      "word": "ракета",
+      "translit": "raketa",
+      "example": "Когда ракета взлетает, земля дрожит, а люди аплодируют.",
+      "examplePt": "Quando o foguete decola, o chão treme e as pessoas aplaudem.",
+      "pron": "ra-KIÉ-ta — o 'е' soa 'ié'; força no 'ке'",
+      "curiosity": "Cuidado: 'ракета' é foguete e 'ракетка' (com -ка) é raquete!"
+    },
+    "pr29-03": {
+      "word": "космонавт",
+      "translit": "kosmonavt",
+      "example": "Космонавт спит в космосе, привязанный к стене.",
+      "examplePt": "O astronauta dorme no espaço, preso à parede.",
+      "pron": "kas-ma-NÁFT — o 'в' final soa 'f'; os 'о' átonos viram 'a'",
+      "curiosity": "Os russos dizem 'космонавт' (navegante do cosmos); nos EUA o termo é 'astronauta'."
+    },
+    "pr29-04": {
+      "word": "телескоп",
+      "translit": "teleskop",
+      "example": "Через телескоп видно кольца Сатурна, если небо ясное.",
+      "examplePt": "Pelo telescópio se veem os anéis de Saturno, se o céu estiver limpo.",
+      "pron": "ti-li-SKÓP — o 'о' final é tônico e aberto",
+      "curiosity": "O telescópio não aumenta as estrelas: ele junta mais luz fraca para você ver."
+    },
+    "pr29-05": {
+      "word": "галактика",
+      "translit": "galaktika",
+      "example": "Наша галактика содержит сотни миллиардов звёзд.",
+      "examplePt": "Nossa galáxia tem centenas de bilhões de estrelas.",
+      "pron": "ga-LÁK-ti-ka — o 'л' é firme; força no 'лак'",
+      "curiosity": "Vem do grego 'gala' (leite): a Via Láctea é 'Млечный Путь' em russo."
+    },
+    "pr29-06": {
+      "word": "комета",
+      "translit": "kometa",
+      "example": "Хвост кометы всегда смотрит в сторону от Солнца.",
+      "examplePt": "A cauda do cometa sempre aponta para longe do Sol.",
+      "pron": "ka-MIÉ-ta — o 'о' inicial vira 'a'; o 'е' soa 'ié'",
+      "curiosity": "O núcleo de um cometa é uma 'bola de neve suja' com poucos quilômetros."
+    },
+    "pr29-07": {
+      "word": "спутник",
+      "translit": "sputnik",
+      "example": "Первый спутник Земли был не больше пляжного мяча.",
+      "examplePt": "O primeiro satélite da Terra não era maior que uma bola de praia.",
+      "pron": "SPÚT-nik — 'спу' junto; o 'т' é seco",
+      "curiosity": "'Спутник' também é 'companheiro de viagem': o satélite acompanha a Terra."
+    },
+    "pr29-08": {
+      "word": "затмение",
+      "translit": "zatmenie",
+      "example": "Во время затмения птицы замолкают, а небо темнеет среди дня.",
+      "examplePt": "Durante o eclipse as aves se calam e o céu escurece em pleno dia.",
+      "pron": "zat-MIÉ-nie — 'тм' vêm juntos; o 'е' soa 'ié'",
+      "curiosity": "Vem de 'тьма' (escuridão): затмение é, literalmente, um 'escurecimento'."
+    },
+    "pr30-01": {
+      "word": "мусор",
+      "translit": "musor",
+      "example": "Куда ты выбросишь мусор, если урны нет рядом?",
+      "examplePt": "Onde você jogará o lixo se não houver lixeira por perto?",
+      "pron": "MÚ-sar — o 'о' final vira 'a'",
+      "curiosity": "Em prédios russos há o 'мусоропровод', um duto por onde se joga o lixo."
+    },
+    "pr30-02": {
+      "word": "переработка",
+      "translit": "pererabotka",
+      "example": "Переработка бумаги спасает деревья и экономит воду.",
+      "examplePt": "A reciclagem de papel salva árvores e economiza água.",
+      "pron": "pi-ri-ra-BÓT-ka — o 'т' antes de 'к' é seco",
+      "curiosity": "É 'retrabalho' (пере- 'de novo' + работа): reciclar é trabalhar de novo!"
+    },
+    "pr30-03": {
+      "word": "энергия",
+      "translit": "energiya",
+      "example": "Ветер и солнце дают чистую энергию, которая никогда не кончается.",
+      "examplePt": "Vento e sol dão energia limpa, que nunca acaba.",
+      "pron": "e-NIÉR-gi-ya — o 'э' é um 'é' aberto",
+      "curiosity": "O Sol manda à Terra, em cerca de uma hora, a energia que o mundo gasta num ano."
+    },
+    "pr30-04": {
+      "word": "загрязнение",
+      "translit": "zagryaznenie",
+      "example": "Загрязнение воды вредит рыбам, птицам и самим людям.",
+      "examplePt": "A poluição da água prejudica peixes, aves e as próprias pessoas.",
+      "pron": "za-gria-ZNIÉ-nie — 'гря' soa 'gria'; 'зн' vêm juntos",
+      "curiosity": "O Lago Baikal, na Rússia, guarda cerca de 20% da água doce líquida da Terra."
+    },
+    "pr30-05": {
+      "word": "нефть",
+      "translit": "neft'",
+      "example": "Из нефти делают бензин, пластик и даже жвачку.",
+      "examplePt": "Do petróleo se faz gasolina, plástico e até chiclete.",
+      "pron": "NIEFT' — o 'е' soa 'ié'; o 'ть' final é suave",
+      "curiosity": "A Rússia está entre os maiores produtores de petróleo do mundo."
+    },
+    "pr30-06": {
+      "word": "солнечная панель",
+      "translit": "solnechnaya panel'",
+      "example": "Солнечная панель на крыше превращает свет в электричество.",
+      "examplePt": "O painel solar no telhado transforma luz em eletricidade.",
+      "pron": "SÓ-nich-na-ya pa-NIÉL' — o 'л' de 'солн' não se ouve",
+      "curiosity": "Painéis solares rendem bem em dias frios e claros; o calor demais os deixa menos eficientes."
+    },
+    "pr30-07": {
+      "word": "пластик",
+      "translit": "plastik",
+      "example": "Пластик может лежать в земле сотни лет, не исчезая.",
+      "examplePt": "O plástico pode ficar centenas de anos na terra sem sumir.",
+      "pron": "PLÁS-tik — o 'л' é firme; o 'и' é curto",
+      "curiosity": "Vem do grego 'plastikos' (moldável): parente de 'пластилин', a massinha."
+    },
+    "pr30-08": {
+      "word": "металл",
+      "translit": "metall",
+      "example": "Металл можно переплавить много раз и сделать новую вещь.",
+      "examplePt": "O metal pode ser derretido muitas vezes para fazer algo novo.",
+      "pron": "mi-TÁLL — o 'е' átono vira 'i'; o 'лл' é um 'l' longo",
+      "curiosity": "Sucata de metal é 'металлолом', e 'лом' também é o pé de cabra."
+    }
+  }
+}

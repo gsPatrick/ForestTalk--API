@@ -1,0 +1,2407 @@
+{
+  "game": "translation",
+  "language": "en",
+  "version": 1,
+  "entries": {
+    "tr01-01": {
+      "word": "who?",
+      "translit": null,
+      "example": "Who is knocking at the door?",
+      "examplePt": "Quem está batendo na porta?",
+      "pron": "RU — o 'w' é mudo e o 'o' soa como 'u' longo",
+      "curiosity": "Em inglês, \"whom\" é formal; na fala do dia a dia quase todo mundo usa só \"who\"."
+    },
+    "tr01-02": {
+      "word": "where?",
+      "translit": null,
+      "example": "Where did I leave my keys?",
+      "examplePt": "Onde deixei minhas chaves?",
+      "pron": "UÉR — o 'wh' vira 'u' e o 'r' final é suave",
+      "curiosity": "\"Where\" e \"there\" rimam, mas \"here\" não rima com elas."
+    },
+    "tr01-03": {
+      "word": "when?",
+      "translit": null,
+      "example": "When does the movie start?",
+      "examplePt": "Quando o filme começa?",
+      "pron": "UÉN — o 'wh' soa como 'u' e termina em 'n' claro",
+      "curiosity": "Perguntas como when, where e why começam com \"wh\"; a exceção é \"how\"."
+    },
+    "tr01-04": {
+      "word": "why?",
+      "translit": null,
+      "example": "Why is the sky blue?",
+      "examplePt": "Por que o céu é azul?",
+      "pron": "UAI — soa parecido com o 'uai' mineiro",
+      "curiosity": "\"Why\" soa igual ao nome da letra Y em inglês."
+    },
+    "tr01-05": {
+      "word": "how?",
+      "translit": null,
+      "example": "How do you spell your name?",
+      "examplePt": "Como você soletra seu nome?",
+      "pron": "RÁU — o 'h' é aspirado, como um 'r' bem suave",
+      "curiosity": "\"How\" forma muitas perguntas úteis: how much, how many, how old, how long."
+    },
+    "tr01-06": {
+      "word": "which?",
+      "translit": null,
+      "example": "Which door is the exit?",
+      "examplePt": "Qual porta é a saída?",
+      "pron": "UÍTCH — 'wh' como 'u' e 'tch' como em 'tchau'",
+      "curiosity": "\"Which\" costuma ser usado quando há poucas opções; \"what\" vale para opções abertas."
+    },
+    "tr01-07": {
+      "word": "what?",
+      "translit": null,
+      "example": "What is in the box?",
+      "examplePt": "O que tem na caixa?",
+      "pron": "UÓT — o 'a' vira um 'ó' curto e o 't' final é leve",
+      "curiosity": "\"What?\" seco pode soar rude; \"Sorry?\" ou \"Excuse me?\" é mais educado."
+    },
+    "tr01-08": {
+      "word": "where from?",
+      "translit": null,
+      "example": "Where are you from?",
+      "examplePt": "De onde você é?",
+      "pron": "UÉR FRÂM — 'from' com o 'o' fraco, quase 'frâm'",
+      "curiosity": "Os americanos deixam o \"from\" no fim: \"Where are you from?\", e não \"From where?\"."
+    },
+    "tr01-09": {
+      "word": "where to?",
+      "translit": null,
+      "example": "Where to? asks the taxi driver.",
+      "examplePt": "\"Para onde?\", pergunta o motorista.",
+      "pron": "UÉR TU — 'to' fraco, quase 'tâ'",
+      "curiosity": "\"Where to?\" é a pergunta típica do motorista para saber o destino da corrida."
+    },
+    "tr01-10": {
+      "word": "who with?",
+      "translit": null,
+      "example": "Who are you going with?",
+      "examplePt": "Com quem você vai?",
+      "pron": "RU UÍDH — 'th' de 'with' com a língua entre os dentes",
+      "curiosity": "Formalmente se diz \"with whom?\", mas no dia a dia o \"with\" vai para o fim da frase."
+    },
+    "tr02-01": {
+      "word": "I",
+      "translit": null,
+      "example": "I love pizza on Fridays.",
+      "examplePt": "Eu adoro pizza às sextas.",
+      "pron": "ÁI — igual ao 'ai' de 'pai'",
+      "curiosity": "O \"I\" é sempre escrito em maiúscula, mesmo no meio da frase."
+    },
+    "tr02-02": {
+      "word": "you",
+      "translit": null,
+      "example": "Can you see the rainbow?",
+      "examplePt": "Você consegue ver o arco-íris?",
+      "pron": "IU — soa como 'iú'",
+      "curiosity": "\"You\" serve para singular e plural, formal e informal: não há \"tu\" nem \"vocês\" separados."
+    },
+    "tr02-03": {
+      "word": "he",
+      "translit": null,
+      "example": "He plays guitar every night.",
+      "examplePt": "Ele toca violão toda noite.",
+      "pron": "RI — o 'h' é aspirado, como um 'r' suave, e o 'i' é longo",
+      "curiosity": "\"He\", \"she\" e \"it\" são os que pedem -s no verbo no presente: he plays."
+    },
+    "tr02-04": {
+      "word": "she",
+      "translit": null,
+      "example": "She sings louder than the radio.",
+      "examplePt": "Ela canta mais alto que o rádio.",
+      "pron": "XI — 'sh' como 'ch' de 'chá' e 'i' longo",
+      "curiosity": "Tradicionalmente, navios são chamados de \"she\" em inglês, e não de \"it\"."
+    },
+    "tr02-05": {
+      "word": "we",
+      "translit": null,
+      "example": "We build a sandcastle together.",
+      "examplePt": "Nós construímos um castelo de areia juntos.",
+      "pron": "UI — soa como 'ui' esticado",
+      "curiosity": "\"We're\" é a contração de \"we are\" e é bem mais comum na fala."
+    },
+    "tr02-06": {
+      "word": "they",
+      "translit": null,
+      "example": "They wave from the big bus.",
+      "examplePt": "Eles acenam do ônibus grande.",
+      "pron": "DHÊI — o 'th' é com a língua entre os dentes, vibrando",
+      "curiosity": "\"They\" também é usado no singular para uma pessoa de gênero desconhecido."
+    },
+    "tr02-07": {
+      "word": "this",
+      "translit": null,
+      "example": "This soup smells amazing!",
+      "examplePt": "Esta sopa está com um cheiro incrível!",
+      "pron": "DHIS — 'th' com a língua entre os dentes e 'i' curto",
+      "curiosity": "O plural de \"this\" é \"these\" e o de \"that\" é \"those\"."
+    },
+    "tr02-08": {
+      "word": "that",
+      "translit": null,
+      "example": "What is that on the roof?",
+      "examplePt": "O que é aquilo no telhado?",
+      "pron": "DHÉT — 'th' vibrante e 'a' aberto",
+      "curiosity": "\"That\" ainda serve como conectivo: \"I think that it works\", e nesse caso é fraco."
+    },
+    "tr02-09": {
+      "word": "here",
+      "translit": null,
+      "example": "Here comes the school bus!",
+      "examplePt": "Lá vem o ônibus escolar!",
+      "pron": "RÍR — 'h' aspirado, 'ee' longo e 'r' final suave",
+      "curiosity": "\"Here you go\" é o que se diz ao entregar algo a alguém."
+    },
+    "tr02-10": {
+      "word": "there",
+      "translit": null,
+      "example": "Is there a cat up there?",
+      "examplePt": "Tem um gato lá em cima?",
+      "pron": "DHÉR — 'th' vibrante e 'e' aberto",
+      "curiosity": "\"There\", \"their\" e \"they're\" soam iguais, mas têm significados diferentes."
+    },
+    "tr03-01": {
+      "word": "have",
+      "translit": null,
+      "example": "I have a tiny pet snail.",
+      "examplePt": "Eu tenho um carachol de estimação minúsculo.",
+      "pron": "RÉV — 'h' aspirado, 'a' aberto e 'v' vibrado",
+      "curiosity": "\"Have\" também é comer ou beber: \"have lunch\" é almoçar."
+    },
+    "tr03-02": {
+      "word": "want",
+      "translit": null,
+      "example": "Do you want some ice cream?",
+      "examplePt": "Você quer um pouco de sorvete?",
+      "pron": "UÓNT — o 'a' vira um 'ó' curto",
+      "curiosity": "Na fala informal, \"want to\" vira \"wanna\": \"I wanna go\"."
+    },
+    "tr03-03": {
+      "word": "can",
+      "translit": null,
+      "example": "She can swim underwater.",
+      "examplePt": "Ela consegue nadar debaixo d'água.",
+      "pron": "KÉN — 'a' aberto e fraco dentro da frase",
+      "curiosity": "\"Can\" nunca leva \"to\" nem -s: \"she can swim\"."
+    },
+    "tr03-04": {
+      "word": "need",
+      "translit": null,
+      "example": "We need more marshmallows tonight.",
+      "examplePt": "Precisamos de mais marshmallows hoje à noite.",
+      "pron": "NÍD — 'ee' longo, como um 'i' esticado",
+      "curiosity": "\"Need\" soa igual a \"knead\", que é amassar massa."
+    },
+    "tr03-05": {
+      "word": "know",
+      "translit": null,
+      "example": "I know a secret path home.",
+      "examplePt": "Eu conheço um caminho secreto para casa.",
+      "pron": "NÔU — o 'k' é mudo; começa direto com 'n'",
+      "curiosity": "\"Know\" (saber) e \"no\" (não) soam exatamente iguais."
+    },
+    "tr03-06": {
+      "word": "like",
+      "translit": null,
+      "example": "Cats like warm laundry baskets.",
+      "examplePt": "Gatos gostam de cestos de roupa quentinha.",
+      "pron": "LÁIK — 'ai' como em 'pai'",
+      "curiosity": "\"Would like\" é a forma educada de pedir algo: \"I would like water\"."
+    },
+    "tr03-07": {
+      "word": "do",
+      "translit": null,
+      "example": "Magic tricks? Do you know any?",
+      "examplePt": "Truques de mágica? Você conhece algum?",
+      "pron": "DU — 'u' longo, como em 'duro' esticado",
+      "curiosity": "Diz-se \"do homework\" e \"do the dishes\", mas \"make a mistake\" e \"make the bed\"."
+    },
+    "tr03-08": {
+      "word": "go",
+      "translit": null,
+      "example": "Let's go to the beach!",
+      "examplePt": "Vamos à praia!",
+      "pron": "GÔU — o 'o' termina num 'u' leve",
+      "curiosity": "O passado de \"go\" é \"went\", totalmente diferente: um verbo irregular famoso."
+    },
+    "tr03-09": {
+      "word": "come",
+      "translit": null,
+      "example": "Come and see my treehouse!",
+      "examplePt": "Venha ver minha casa na árvore!",
+      "pron": "KÂM — o 'o' soa como 'â' curto",
+      "curiosity": "Escreve-se \"come\", mas não rima com \"home\": soa como \"cum\"."
+    },
+    "tr03-10": {
+      "word": "give",
+      "translit": null,
+      "example": "Please give me a high five.",
+      "examplePt": "Por favor, me dê um toca aqui.",
+      "pron": "GUIV — 'i' curto e 'v' final sonoro",
+      "curiosity": "\"Give\" não rima com \"five\": o 'i' é curto."
+    },
+    "tr04-01": {
+      "word": "eat",
+      "translit": null,
+      "example": "We eat pancakes on Sundays.",
+      "examplePt": "Comemos panquecas aos domingos.",
+      "pron": "ÍT — 'ea' vira um 'i' longo",
+      "curiosity": "O passado de \"eat\" é \"ate\", que soa como \"eit\"."
+    },
+    "tr04-02": {
+      "word": "drink",
+      "translit": null,
+      "example": "Do cats really drink milk?",
+      "examplePt": "Os gatos realmente bebem leite?",
+      "pron": "DRINK — 'dr' juntos e 'nk' nasal",
+      "curiosity": "Drink, drank, drunk: o passado e o particípio mudam a vogal."
+    },
+    "tr04-03": {
+      "word": "cook dinner",
+      "translit": null,
+      "example": "I cook dinner with my dad.",
+      "examplePt": "Eu faço o jantar com meu pai.",
+      "pron": "KUK — 'oo' curto, como o 'u' de 'puxa'",
+      "curiosity": "\"Cook\" é verbo e também a pessoa que cozinha: \"a cook\"."
+    },
+    "tr04-04": {
+      "word": "cut",
+      "translit": null,
+      "example": "Cut the pizza into eight slices.",
+      "examplePt": "Corte a pizza em oito fatias.",
+      "pron": "KÂT — o 'u' soa como 'â' curto",
+      "curiosity": "\"Cut\" é igual no presente, no passado e no particípio."
+    },
+    "tr04-05": {
+      "word": "mix",
+      "translit": null,
+      "example": "Mix the flour and the eggs.",
+      "examplePt": "Misture a farinha e os ovos.",
+      "pron": "MIKS — 'i' curto, terminando em 'ks'",
+      "curiosity": "A batedeira elétrica se chama \"mixer\" em inglês."
+    },
+    "tr04-06": {
+      "word": "bake",
+      "translit": null,
+      "example": "We bake bread every Saturday.",
+      "examplePt": "Assamos pão todo sábado.",
+      "pron": "BÊIK — 'a' vira 'êi'",
+      "curiosity": "\"Baker\" é padeiro e \"bakery\" é padaria: tudo vem de \"bake\"."
+    },
+    "tr04-07": {
+      "word": "fry",
+      "translit": null,
+      "example": "Fry the eggs until golden.",
+      "examplePt": "Frite os ovos até dourar.",
+      "pron": "FRÁI — 'y' soa como 'ai'",
+      "curiosity": "Nos EUA, batata frita é \"french fries\", ou só \"fries\"."
+    },
+    "tr04-08": {
+      "word": "freeze",
+      "translit": null,
+      "example": "Water will freeze in the cold.",
+      "examplePt": "A água vai congelar no frio.",
+      "pron": "FRÍZ — 'ee' longo e 'z' final",
+      "curiosity": "Freeze, froze, frozen; \"Freeze!\" também é a ordem \"parado!\"."
+    },
+    "tr04-09": {
+      "word": "boil",
+      "translit": null,
+      "example": "Boil the water for the tea.",
+      "examplePt": "Ferva a água para o chá.",
+      "pron": "BÓIL — 'oi' como em 'boi'",
+      "curiosity": "A água ferve a 100 °C ao nível do mar."
+    },
+    "tr04-10": {
+      "word": "peel",
+      "translit": null,
+      "example": "Please peel this orange for me.",
+      "examplePt": "Descasque esta laranja para mim, por favor.",
+      "pron": "PÍL — 'ee' longo",
+      "curiosity": "\"Peel\" é verbo e também a casca: \"banana peel\"."
+    },
+    "tr05-01": {
+      "word": "open",
+      "translit": null,
+      "example": "Can you open the window?",
+      "examplePt": "Você pode abrir a janela?",
+      "pron": "Ô-pen — o 'o' vira 'ô' e o 'e' final é fraco",
+      "curiosity": "\"Open\" é verbo e adjetivo: a placa \"Open\" avisa que a loja está aberta."
+    },
+    "tr05-02": {
+      "word": "close",
+      "translit": null,
+      "example": "Close the door quietly.",
+      "examplePt": "Feche a porta em silêncio.",
+      "pron": "KLÔUZ — como verbo, termina em 'z'",
+      "curiosity": "Como verbo, \"close\" soa \"clôuz\"; como adjetivo (perto), soa \"clôus\"."
+    },
+    "tr05-03": {
+      "word": "sit",
+      "translit": null,
+      "example": "Sit here by the fire.",
+      "examplePt": "Sente aqui perto da fogueira.",
+      "pron": "SIT — 'i' curto, não alongue",
+      "curiosity": "\"Sit\" (sentar) tem 'i' curto; \"seat\" (assento) tem 'i' longo."
+    },
+    "tr05-04": {
+      "word": "put on",
+      "translit": null,
+      "example": "Put on your jacket, it's cold.",
+      "examplePt": "Vista a jaqueta, está frio.",
+      "pron": "PUT ON — 'u' curto, como em 'puxa'",
+      "curiosity": "\"Put\" é igual no passado e no particípio: put, put, put."
+    },
+    "tr05-05": {
+      "word": "clean up",
+      "translit": null,
+      "example": "We clean the kitchen together.",
+      "examplePt": "Limpamos a cozinha juntos.",
+      "pron": "KLÍN — 'ea' longo",
+      "curiosity": "\"Clean\" é verbo e adjetivo: \"a clean room\" é um quarto limpo."
+    },
+    "tr05-06": {
+      "word": "sweep",
+      "translit": null,
+      "example": "Sweep the leaves off the porch.",
+      "examplePt": "Varra as folhas da varanda.",
+      "pron": "SUÍP — 'sw' como 'su' e 'ee' longo",
+      "curiosity": "Sweep, swept, swept: o passado é irregular."
+    },
+    "tr05-07": {
+      "word": "wash",
+      "translit": null,
+      "example": "Wash your hands before lunch.",
+      "examplePt": "Lave as mãos antes do almoço.",
+      "pron": "UÓSH — 'a' vira 'ó' e 'sh' como 'ch' de 'chá'",
+      "curiosity": "A máquina de lavar roupa em inglês se chama \"washing machine\"."
+    },
+    "tr05-08": {
+      "word": "dry",
+      "translit": null,
+      "example": "Dry the dishes with this towel.",
+      "examplePt": "Seque a louça com esta toalha.",
+      "pron": "DRÁI — 'y' soa como 'ai'",
+      "curiosity": "\"Dry cleaning\" é lavagem a seco, feita sem água."
+    },
+    "tr05-09": {
+      "word": "fold",
+      "translit": null,
+      "example": "Fold the towels in thirds.",
+      "examplePt": "Dobre as toalhas em três partes.",
+      "pron": "FÔULD — 'ol' soa 'ôul' e termina em 'd'",
+      "curiosity": "O sufixo \"-fold\" quer dizer \"vezes\": twofold é \"duas vezes\"."
+    },
+    "tr05-10": {
+      "word": "hang",
+      "translit": null,
+      "example": "Hang the picture above the sofa.",
+      "examplePt": "Pendure o quadro acima do sofá.",
+      "pron": "RÉNG — 'h' aspirado e 'ng' nasal",
+      "curiosity": "O passado de \"hang\" é \"hung\": hang, hung, hung."
+    },
+    "tr06-01": {
+      "word": "play",
+      "translit": null,
+      "example": "Which instrument do you play?",
+      "examplePt": "Qual instrumento você toca?",
+      "pron": "PLÊI — 'ay' soa como 'êi'",
+      "curiosity": "Com instrumentos e esportes usa-se \"play\": play the piano, play soccer."
+    },
+    "tr06-02": {
+      "word": "sing",
+      "translit": null,
+      "example": "We sing louder in the car.",
+      "examplePt": "Cantamos mais alto no carro.",
+      "pron": "SING — 'ng' nasal, sem 'g' forte",
+      "curiosity": "Sing, sang, sung: a vogal muda a cada tempo."
+    },
+    "tr06-03": {
+      "word": "draw",
+      "translit": null,
+      "example": "Draw a dragon with blue chalk.",
+      "examplePt": "Desenhe um dragão com giz azul.",
+      "pron": "DRÓ — 'aw' soa como 'ó'",
+      "curiosity": "\"Draw\" também é empate num jogo: \"It's a draw\"."
+    },
+    "tr06-04": {
+      "word": "paint",
+      "translit": null,
+      "example": "Time to paint the fence green.",
+      "examplePt": "Hora de pintar a cerca de verde.",
+      "pron": "PÊINT — 'ai' soa como 'êi'",
+      "curiosity": "\"Wet paint\" é o aviso de tinta fresca, bem comum em portas e bancos."
+    },
+    "tr06-05": {
+      "word": "watch TV",
+      "translit": null,
+      "example": "We watch TV after dinner.",
+      "examplePt": "Assistimos TV depois do jantar.",
+      "pron": "UÓTCH — 'a' vira 'ó' e 'tch' como em 'tchau'",
+      "curiosity": "\"Watch\" também é o relógio de pulso."
+    },
+    "tr06-06": {
+      "word": "go for a walk",
+      "translit": null,
+      "example": "Let's go for a walk by the lake.",
+      "examplePt": "Vamos passear à beira do lago.",
+      "pron": "GÔU for a UÓK — o 'l' de 'walk' é mudo",
+      "curiosity": "O 'l' é mudo em walk, talk e chalk."
+    },
+    "tr06-07": {
+      "word": "travel",
+      "translit": null,
+      "example": "Where would you travel next?",
+      "examplePt": "Para onde você viajaria agora?",
+      "pron": "TRÉ-vel — 'a' aberto e 'el' fraco",
+      "curiosity": "Em inglês não se diz \"a travel\", e sim \"a trip\"."
+    },
+    "tr06-08": {
+      "word": "laugh",
+      "translit": null,
+      "example": "We laugh at silly jokes.",
+      "examplePt": "Rimos de piadas bobas.",
+      "pron": "LÉF — 'gh' soa como 'f'",
+      "curiosity": "\"Laugh\" tem 'gh' com som de 'f', como em \"enough\"."
+    },
+    "tr06-09": {
+      "word": "cry",
+      "translit": null,
+      "example": "Babies cry when they are sleepy.",
+      "examplePt": "Bebês choram quando estão com sono.",
+      "pron": "KRÁI — 'y' soa como 'ai'",
+      "curiosity": "\"Cry\" também é gritar: \"a cry for help\" é um pedido de socorro."
+    },
+    "tr06-10": {
+      "word": "hug",
+      "translit": null,
+      "example": "Can I give you a hug?",
+      "examplePt": "Posso te dar um abraço?",
+      "pron": "RÂG — 'h' aspirado e 'u' vira 'â'",
+      "curiosity": "Em inglês você \"dá\" um abraço: give a hug."
+    },
+    "tr07-01": {
+      "word": "bring",
+      "translit": null,
+      "example": "Please bring your umbrella tomorrow.",
+      "examplePt": "Por favor, traga seu guarda-chuva amanhã.",
+      "pron": "BRING — 'ng' nasal, sem 'g' forte",
+      "curiosity": "\"Bring\" é trazer para cá; \"take\" é levar para lá."
+    },
+    "tr07-02": {
+      "word": "take",
+      "translit": null,
+      "example": "Take me to the zoo!",
+      "examplePt": "Leve-me ao zoológico!",
+      "pron": "TÊIK — 'a' vira 'êi'",
+      "curiosity": "\"Take\" também é tomar: take a shower, take a nap."
+    },
+    "tr07-03": {
+      "word": "receive",
+      "translit": null,
+      "example": "Did you receive my message?",
+      "examplePt": "Você recebeu minha mensagem?",
+      "pron": "ri-SÍV — 'ei' soa como 'i' longo",
+      "curiosity": "Regra de ortografia: \"i\" antes de \"e\", exceto depois de \"c\", como em receive."
+    },
+    "tr07-04": {
+      "word": "send",
+      "translit": null,
+      "example": "I send my grandma a postcard.",
+      "examplePt": "Mando um cartão-postal para minha avó.",
+      "pron": "SEND — o 'e' é aberto, como em 'sé'",
+      "curiosity": "Send, sent, sent: o passado é irregular."
+    },
+    "tr07-05": {
+      "word": "lend",
+      "translit": null,
+      "example": "Could you lend me a pencil?",
+      "examplePt": "Você pode me emprestar um lápis?",
+      "pron": "LEND — 'e' aberto",
+      "curiosity": "\"Lend\" é emprestar a alguém; \"borrow\" é pegar emprestado."
+    },
+    "tr07-06": {
+      "word": "give back",
+      "translit": null,
+      "example": "Give back my red pen, please.",
+      "examplePt": "Devolva minha caneta vermelha, por favor.",
+      "pron": "GUIV BÉK — 'i' curto em 'give'",
+      "curiosity": "\"Give back\" é o jeito mais comum de dizer devolver na fala."
+    },
+    "tr07-07": {
+      "word": "look for",
+      "translit": null,
+      "example": "I look for my socks every morning.",
+      "examplePt": "Procuro minhas meias toda manhã.",
+      "pron": "LUK for — 'oo' curto",
+      "curiosity": "\"Look\" sozinho é olhar; com \"for\" vira procurar."
+    },
+    "tr07-08": {
+      "word": "find",
+      "translit": null,
+      "example": "Can you find the hidden coin?",
+      "examplePt": "Você consegue achar a moeda escondida?",
+      "pron": "FÁIND — 'i' soa como 'ai'",
+      "curiosity": "Find, found, found: o passado é \"found\"."
+    },
+    "tr07-09": {
+      "word": "lose",
+      "translit": null,
+      "example": "Don't lose your ticket.",
+      "examplePt": "Não perca seu bilhete.",
+      "pron": "LUZ — 'oo' longo e 'z' final",
+      "curiosity": "Não confunda \"lose\" (perder) com \"loose\" (frouxo)."
+    },
+    "tr07-10": {
+      "word": "hide",
+      "translit": null,
+      "example": "The cat likes to hide in boxes.",
+      "examplePt": "O gato gosta de se esconder em caixas.",
+      "pron": "RÁID — 'h' aspirado e 'i' como 'ai'",
+      "curiosity": "\"Hide and seek\" é o esconde-esconde dos americanos."
+    },
+    "tr08-01": {
+      "word": "start",
+      "translit": null,
+      "example": "Time to start the game!",
+      "examplePt": "Hora de começar o jogo!",
+      "pron": "START — 'ar' com 'r' suave e 't' final leve",
+      "curiosity": "\"Start\" é mais comum na fala; \"begin\" é um pouco mais formal."
+    },
+    "tr08-02": {
+      "word": "finish",
+      "translit": null,
+      "example": "Finish your homework, then play.",
+      "examplePt": "Termine a lição, depois brinque.",
+      "pron": "FÍ-nish — 'sh' como 'ch' de 'chá'",
+      "curiosity": "Depois de \"finish\", o verbo vem com -ing: finish reading."
+    },
+    "tr08-03": {
+      "word": "stop",
+      "translit": null,
+      "example": "Stop at the red light.",
+      "examplePt": "Pare no sinal vermelho.",
+      "pron": "STÓP — 'o' aberto, 'p' final leve",
+      "curiosity": "As placas \"STOP\" dos EUA têm oito lados."
+    },
+    "tr08-04": {
+      "word": "continue",
+      "translit": null,
+      "example": "Please continue your story.",
+      "examplePt": "Por favor, continue sua história.",
+      "pron": "kon-TÍN-iu — força na sílaba do meio",
+      "curiosity": "\"To be continued\" é a frase de fim de episódio que deixa o suspense."
+    },
+    "tr08-05": {
+      "word": "arrive",
+      "translit": null,
+      "example": "We arrive at noon.",
+      "examplePt": "Chegamos ao meio-dia.",
+      "pron": "a-RÁIV — 'i' soa como 'ai'",
+      "curiosity": "Usa-se \"arrive at\" para lugares e \"arrive in\" para cidades e países."
+    },
+    "tr08-06": {
+      "word": "leave",
+      "translit": null,
+      "example": "We leave for school at eight.",
+      "examplePt": "Saímos para a escola às oito.",
+      "pron": "LÍV — 'ea' longo",
+      "curiosity": "Leave, left, left; \"left\" também é \"esquerda\"."
+    },
+    "tr08-07": {
+      "word": "come back",
+      "translit": null,
+      "example": "Come back soon, my friend!",
+      "examplePt": "Volte logo, meu amigo!",
+      "pron": "KÂM BÉK — 'o' de 'come' vira 'â'",
+      "curiosity": "\"Be right back\" é o aviso de quem volta já, usado em chats."
+    },
+    "tr08-08": {
+      "word": "enter",
+      "translit": null,
+      "example": "Please knock before you enter.",
+      "examplePt": "Por favor, bata antes de entrar.",
+      "pron": "ÉN-târ — 'e' aberto e 'r' final suave",
+      "curiosity": "A tecla \"Enter\" do teclado vem do verbo \"entrar\"."
+    },
+    "tr08-09": {
+      "word": "live",
+      "translit": null,
+      "example": "We live near a big park.",
+      "examplePt": "Moramos perto de um parque grande.",
+      "pron": "LIV — 'i' curto, como verbo",
+      "curiosity": "Como verbo, \"live\" tem 'i' curto; como adjetivo (ao vivo), soa \"láiv\"."
+    },
+    "tr08-10": {
+      "word": "visit",
+      "translit": null,
+      "example": "We visit Grandma every weekend.",
+      "examplePt": "Visitamos a vovó todo fim de semana.",
+      "pron": "VI-zit — 's' soa como 'z'",
+      "curiosity": "Diz-se \"visit Grandma\", sem preposição."
+    },
+    "tr09-01": {
+      "word": "learn",
+      "translit": null,
+      "example": "Kids learn fast by playing.",
+      "examplePt": "Crianças aprendem rápido brincando.",
+      "pron": "LÂRN — 'ear' soa como 'âr'",
+      "curiosity": "Nos EUA, o passado mais comum de \"learn\" é \"learned\"."
+    },
+    "tr09-02": {
+      "word": "teach",
+      "translit": null,
+      "example": "Teach me how to juggle!",
+      "examplePt": "Me ensine a fazer malabarismo!",
+      "pron": "TÍTCH — 'ea' longo e 'ch' como em 'tchau'",
+      "curiosity": "Teach, taught, taught: o passado é bem irregular."
+    },
+    "tr09-03": {
+      "word": "work",
+      "translit": null,
+      "example": "Does your mom work on weekends?",
+      "examplePt": "Sua mãe trabalha nos fins de semana?",
+      "pron": "UÂRK — 'or' soa como 'âr'",
+      "curiosity": "\"Work\" é verbo e substantivo; \"homework\" é lição de casa."
+    },
+    "tr09-04": {
+      "word": "practice",
+      "translit": null,
+      "example": "I practice guitar after school.",
+      "examplePt": "Pratico violão depois da aula.",
+      "pron": "PRÉK-tis — força no 'pré'",
+      "curiosity": "Nos EUA o verbo se escreve \"practice\"; no Reino Unido, \"practise\"."
+    },
+    "tr09-05": {
+      "word": "explain",
+      "translit": null,
+      "example": "Can you explain this riddle?",
+      "examplePt": "Você pode explicar esta charada?",
+      "pron": "ik-SPLÊIN — 'ai' soa como 'êi'",
+      "curiosity": "Diz-se \"explain it to me\", e nunca \"explain me\"."
+    },
+    "tr09-06": {
+      "word": "correct",
+      "translit": null,
+      "example": "Please correct my spelling mistakes.",
+      "examplePt": "Por favor, corrija meus erros de ortografia.",
+      "pron": "ko-RÉKT — força no 'rékt'",
+      "curiosity": "\"Correct\" também é adjetivo: \"correct answer\" é resposta certa."
+    },
+    "tr09-07": {
+      "word": "copy",
+      "translit": null,
+      "example": "Don't copy your friend's answers.",
+      "examplePt": "Não copie as respostas do seu amigo.",
+      "pron": "KÓ-pi — 'o' aberto",
+      "curiosity": "Quem imita tudo é chamado de \"copycat\", o \"gato copiador\"."
+    },
+    "tr09-08": {
+      "word": "show",
+      "translit": null,
+      "example": "Show me your drawing!",
+      "examplePt": "Mostre-me seu desenho!",
+      "pron": "XÔU — 'sh' como 'ch' de 'chá'",
+      "curiosity": "\"Show\" é verbo e também substantivo, como em \"TV show\"."
+    },
+    "tr09-09": {
+      "word": "decide",
+      "translit": null,
+      "example": "We need to decide quickly.",
+      "examplePt": "Precisamos decidir rápido.",
+      "pron": "di-SÁID — 'i' soa como 'ai'",
+      "curiosity": "Diz-se \"decide on a name\" ou \"decide to go\"."
+    },
+    "tr09-10": {
+      "word": "help",
+      "translit": null,
+      "example": "Help me carry this, please.",
+      "examplePt": "Me ajude a carregar isto, por favor.",
+      "pron": "RÉLP — 'h' aspirado e 'lp' no fim",
+      "curiosity": "\"Help yourself\" é o convite para se servir, em inglês."
+    },
+    "tr10-01": {
+      "word": "breathe",
+      "translit": null,
+      "example": "Breathe in slowly, then out.",
+      "examplePt": "Inspire devagar, depois expire.",
+      "pron": "BRÍDH — 'th' sonoro, com a língua entre os dentes",
+      "curiosity": "O substantivo é \"breath\" e o verbo é \"breathe\", com 'e' no fim."
+    },
+    "tr10-02": {
+      "word": "smell",
+      "translit": null,
+      "example": "Do you smell fresh bread?",
+      "examplePt": "Você sente o cheiro de pão fresco?",
+      "pron": "SMÉL — 'e' aberto e 'll' como um 'l' só",
+      "curiosity": "\"Smell\" serve tanto para sentir cheiro quanto para o próprio cheiro."
+    },
+    "tr10-03": {
+      "word": "sneeze",
+      "translit": null,
+      "example": "Cover your mouth when you sneeze.",
+      "examplePt": "Cubra a boca quando espirrar.",
+      "pron": "SNÍZ — 'ee' longo e 'z' final",
+      "curiosity": "Depois de um espirro, os americanos dizem \"Bless you!\"."
+    },
+    "tr10-04": {
+      "word": "cough loudly",
+      "translit": null,
+      "example": "I cough loudly when I laugh too hard.",
+      "examplePt": "Eu tusso alto quando rio demais.",
+      "pron": "KÓF — 'gh' soa como 'f'",
+      "curiosity": "\"Cough\" rima com \"off\", apesar de ter 'ough'."
+    },
+    "tr10-05": {
+      "word": "yawn",
+      "translit": null,
+      "example": "Why do we yawn so much?",
+      "examplePt": "Por que bocejamos tanto?",
+      "pron": "IÓN — 'aw' soa como 'ó'",
+      "curiosity": "Bocejar é contagioso: ver alguém bocejar faz muita gente bocejar."
+    },
+    "tr10-06": {
+      "word": "blink",
+      "translit": null,
+      "example": "Don't blink or you'll miss it!",
+      "examplePt": "Não pisque ou você vai perder!",
+      "pron": "BLINK — 'bl' juntos e 'nk' nasal",
+      "curiosity": "\"In the blink of an eye\" quer dizer \"num piscar de olhos\"."
+    },
+    "tr10-07": {
+      "word": "chew",
+      "translit": null,
+      "example": "Chew your food slowly.",
+      "examplePt": "Mastigue a comida devagar.",
+      "pron": "TCHU — 'ch' como em 'tchau'",
+      "curiosity": "\"Chewing gum\" é o chiclete, literalmente \"goma de mascar\"."
+    },
+    "tr10-08": {
+      "word": "swallow",
+      "translit": null,
+      "example": "Please swallow before you talk.",
+      "examplePt": "Por favor, engula antes de falar.",
+      "pron": "SUÓ-lou — 'a' vira 'ó' e o final soa 'lou'",
+      "curiosity": "\"Swallow\" também é o nome da ave andorinha."
+    },
+    "tr10-09": {
+      "word": "point",
+      "translit": null,
+      "example": "Point at the answer, please.",
+      "examplePt": "Aponte para a resposta, por favor.",
+      "pron": "PÓINT — 'oi' como em 'boi'",
+      "curiosity": "\"What's the point?\" quer dizer \"qual é o sentido?\"."
+    },
+    "tr10-10": {
+      "word": "clap",
+      "translit": null,
+      "example": "Everyone clap for the band!",
+      "examplePt": "Todos aplaudam a banda!",
+      "pron": "KLÉP — 'a' aberto",
+      "curiosity": "\"Thunderclap\" é um estrondo de trovão."
+    },
+    "tr11-01": {
+      "word": "buy",
+      "translit": null,
+      "example": "I want to buy a kite.",
+      "examplePt": "Quero comprar uma pipa.",
+      "pron": "BÁI — 'uy' soa como 'ai'",
+      "curiosity": "\"Buy\", \"by\" e \"bye\" soam exatamente iguais."
+    },
+    "tr11-02": {
+      "word": "sell",
+      "translit": null,
+      "example": "Kids sell lemonade on hot days.",
+      "examplePt": "Crianças vendem limonada em dias quentes.",
+      "pron": "SÉL — 'e' aberto",
+      "curiosity": "\"Sell\" soa igual a \"cell\" (célula, cela)."
+    },
+    "tr11-03": {
+      "word": "pay",
+      "translit": null,
+      "example": "Who will pay for lunch?",
+      "examplePt": "Quem vai pagar o almoço?",
+      "pron": "PÊI — 'ay' soa como 'êi'",
+      "curiosity": "\"Pay attention\" é \"prestar atenção\", literalmente \"pagar atenção\"."
+    },
+    "tr11-04": {
+      "word": "spend",
+      "translit": null,
+      "example": "Don't spend it all on candy.",
+      "examplePt": "Não gaste tudo em doces.",
+      "pron": "SPEND — 'sp' juntos, sem 'i' antes",
+      "curiosity": "\"Spend\" serve para dinheiro e para tempo: spend time."
+    },
+    "tr11-05": {
+      "word": "save",
+      "translit": null,
+      "example": "I save coins in a jar.",
+      "examplePt": "Guardo moedas num pote.",
+      "pron": "SÊIV — 'a' vira 'êi'",
+      "curiosity": "\"Save\" é economizar, mas também salvar: save a file, save a life."
+    },
+    "tr11-06": {
+      "word": "exchange",
+      "translit": null,
+      "example": "Can I exchange this shirt?",
+      "examplePt": "Posso trocar esta camisa?",
+      "pron": "iks-TCHÊINJ — 'ch' de 'tchau' e 'ge' como 'dj'",
+      "curiosity": "\"Exchange student\" é o estudante de intercâmbio."
+    },
+    "tr11-07": {
+      "word": "try on",
+      "translit": null,
+      "example": "Can I try on these shoes?",
+      "examplePt": "Posso experimentar estes sapatos?",
+      "pron": "TRÁI ON — 'y' soa como 'ai'",
+      "curiosity": "\"Try on\" é só para roupas e calçados; \"try\" sozinho é tentar."
+    },
+    "tr11-08": {
+      "word": "order",
+      "translit": null,
+      "example": "May I order a smoothie?",
+      "examplePt": "Posso pedir uma vitamina?",
+      "pron": "ÓR-dâr — 'or' aberto e 'r' final suave",
+      "curiosity": "\"Order\" é pedido e também ordem: \"in order\" é em ordem."
+    },
+    "tr11-09": {
+      "word": "reserve",
+      "translit": null,
+      "example": "I'd like to reserve a table.",
+      "examplePt": "Gostaria de reservar uma mesa.",
+      "pron": "ri-ZÂRV — força no 'zârv'",
+      "curiosity": "\"Reservation\" é o substantivo de \"reserve\", a reserva."
+    },
+    "tr11-10": {
+      "word": "wrap",
+      "translit": null,
+      "example": "Please wrap it as a gift.",
+      "examplePt": "Por favor, embrulhe como presente.",
+      "pron": "RÉP — o 'w' é mudo",
+      "curiosity": "O 'w' é mudo em wrap, write e wrong."
+    },
+    "tr12-01": {
+      "word": "meet",
+      "translit": null,
+      "example": "Where did you two meet?",
+      "examplePt": "Onde vocês dois se conheceram?",
+      "pron": "MÍT — 'ee' longo",
+      "curiosity": "\"Nice to meet you\" é a saudação clássica ao conhecer alguém."
+    },
+    "tr12-02": {
+      "word": "invite",
+      "translit": null,
+      "example": "We invite everyone to the picnic.",
+      "examplePt": "Convidamos todos para o piquenique.",
+      "pron": "in-VÁIT — força no 'váit'",
+      "curiosity": "O substantivo de \"invite\" é \"invitation\", o convite."
+    },
+    "tr12-03": {
+      "word": "greet",
+      "translit": null,
+      "example": "Dogs greet you with wagging tails.",
+      "examplePt": "Cães te cumprimentam abanando o rabo.",
+      "pron": "GRÍT — 'ee' longo",
+      "curiosity": "\"Greeting card\" é o cartão de felicitações."
+    },
+    "tr12-04": {
+      "word": "thank",
+      "translit": null,
+      "example": "Thank your aunt for the gift.",
+      "examplePt": "Agradeça à sua tia pelo presente.",
+      "pron": "THÉNK — língua entre os dentes, sem som de 't'",
+      "curiosity": "\"Thanks\" é a forma curta e informal de \"thank you\"."
+    },
+    "tr12-05": {
+      "word": "promise",
+      "translit": null,
+      "example": "I promise to feed the fish.",
+      "examplePt": "Prometo alimentar os peixes.",
+      "pron": "PRÓ-mis — 'o' aberto e o final fraco",
+      "curiosity": "\"Pinky promise\" é a promessa feita com o dedo mindinho."
+    },
+    "tr12-06": {
+      "word": "agree",
+      "translit": null,
+      "example": "Do you agree with me?",
+      "examplePt": "Você concorda comigo?",
+      "pron": "a-GRÍ — 'ee' longo no fim",
+      "curiosity": "Diz-se \"I agree\", e nunca \"I am agree\"."
+    },
+    "tr12-07": {
+      "word": "warn",
+      "translit": null,
+      "example": "Warn them about the wet floor.",
+      "examplePt": "Avise-os sobre o chão molhado.",
+      "pron": "UÓRN — 'wa' vira 'uó' e o 'r' é suave",
+      "curiosity": "\"Warning sign\" é a placa de aviso."
+    },
+    "tr12-08": {
+      "word": "introduce",
+      "translit": null,
+      "example": "Let me introduce my sister.",
+      "examplePt": "Deixe-me apresentar minha irmã.",
+      "pron": "in-tro-DÚS — força no 'dús'",
+      "curiosity": "\"Introduce\" é apresentar pessoas; \"present\" é apresentar um trabalho."
+    },
+    "tr12-09": {
+      "word": "compliment",
+      "translit": null,
+      "example": "I want to compliment your cooking.",
+      "examplePt": "Quero elogiar sua comida.",
+      "pron": "KÓM-pli-ment — força no 'kóm'",
+      "curiosity": "\"Compliment\" (elogio) e \"complement\" (complemento) soam iguais."
+    },
+    "tr12-10": {
+      "word": "convince",
+      "translit": null,
+      "example": "Try to convince Dad to stay.",
+      "examplePt": "Tente convencer o papai a ficar.",
+      "pron": "kon-VINS — 'c' final soa como 's'",
+      "curiosity": "\"I'm convinced\" quer dizer \"tenho certeza\"."
+    },
+    "tr13-01": {
+      "word": "camp",
+      "translit": null,
+      "example": "We camp by a quiet lake.",
+      "examplePt": "Acampamos perto de um lago tranquilo.",
+      "pron": "KÉMP — 'a' aberto",
+      "curiosity": "\"Campfire\" é a fogueira de acampamento."
+    },
+    "tr13-02": {
+      "word": "go fishing",
+      "translit": null,
+      "example": "Dad goes fishing at dawn.",
+      "examplePt": "Papai vai pescar ao amanhecer.",
+      "pron": "GÔU FI-xing — 'sh' como 'ch' de 'chá'",
+      "curiosity": "Atividades de lazer usam \"go\" + -ing: go fishing, go camping, go shopping."
+    },
+    "tr13-03": {
+      "word": "ride a horse",
+      "translit": null,
+      "example": "Can you ride a horse?",
+      "examplePt": "Você sabe cavalgar?",
+      "pron": "RÁID a HÓRS — 'r' suave em 'horse'",
+      "curiosity": "\"Horseback riding\" é o nome da equitação."
+    },
+    "tr13-04": {
+      "word": "skate",
+      "translit": null,
+      "example": "We skate at the ice rink.",
+      "examplePt": "Patinamos na pista de gelo.",
+      "pron": "SKÊIT — 'sk' juntos",
+      "curiosity": "\"Ice skates\" são patins de gelo e \"skateboard\" é o skate."
+    },
+    "tr13-05": {
+      "word": "dive",
+      "translit": null,
+      "example": "Dolphins dive deep into the sea.",
+      "examplePt": "Golfinhos mergulham fundo no mar.",
+      "pron": "DÁIV — 'i' soa como 'ai'",
+      "curiosity": "O passado de \"dive\" pode ser \"dived\" ou \"dove\" nos EUA."
+    },
+    "tr13-06": {
+      "word": "ride a bike",
+      "translit": null,
+      "example": "Do you ride a bike to school?",
+      "examplePt": "Você vai de bicicleta para a escola?",
+      "pron": "RÁID a BÁIK — 'i' soa como 'ai' nas duas",
+      "curiosity": "Ride, rode, ridden: o passado de \"ride\" é \"rode\"."
+    },
+    "tr13-07": {
+      "word": "take pictures",
+      "translit": null,
+      "example": "We take pictures of the snow.",
+      "examplePt": "Tiramos fotos da neve.",
+      "pron": "TÊIK PIK-tchârs — 'ture' soa 'tchâr'",
+      "curiosity": "\"Selfie\" é a foto que você tira de si mesmo."
+    },
+    "tr13-08": {
+      "word": "collect",
+      "translit": null,
+      "example": "I collect shiny rocks and shells.",
+      "examplePt": "Coleciono pedras brilhantes e conchas.",
+      "pron": "ko-LÉKT — força no 'lékt'",
+      "curiosity": "Quem coleciona selos é um \"stamp collector\"."
+    },
+    "tr13-09": {
+      "word": "plant",
+      "translit": null,
+      "example": "Plant tomatoes in early spring.",
+      "examplePt": "Plante tomates no início da primavera.",
+      "pron": "PLÉNT — 'a' aberto",
+      "curiosity": "\"Plant\" é verbo (plantar) e substantivo (planta ou fábrica)."
+    },
+    "tr13-10": {
+      "word": "water the plants",
+      "translit": null,
+      "example": "Remember to water the plants daily.",
+      "examplePt": "Lembre-se de regar as plantas todo dia.",
+      "pron": "UÓ-dâr — nos EUA o 't' soa como um 'd' leve",
+      "curiosity": "Como verbo, \"water\" é regar, igual ao substantivo água."
+    },
+    "tr14-01": {
+      "word": "prefer",
+      "translit": null,
+      "example": "I prefer tea over coffee.",
+      "examplePt": "Prefiro chá a café.",
+      "pron": "pri-FÂR — força no 'fâr'",
+      "curiosity": "Usa-se \"prefer X to Y\" ou \"prefer to do\"."
+    },
+    "tr14-02": {
+      "word": "imagine",
+      "translit": null,
+      "example": "Imagine a cat on the moon.",
+      "examplePt": "Imagine um gato na lua.",
+      "pron": "i-MÉ-djin — 'g' soa como 'dj'",
+      "curiosity": "\"Imagine\" vem de \"image\", a imagem que você cria na cabeça."
+    },
+    "tr14-03": {
+      "word": "doubt",
+      "translit": null,
+      "example": "I doubt it will rain today.",
+      "examplePt": "Duvido que chova hoje.",
+      "pron": "DÁUT — o 'b' é mudo",
+      "curiosity": "O 'b' é mudo em doubt, debt e lamb."
+    },
+    "tr14-04": {
+      "word": "believe",
+      "translit": null,
+      "example": "Do you believe in luck?",
+      "examplePt": "Você acredita em sorte?",
+      "pron": "bi-LÍV — 'ie' soa como 'i' longo",
+      "curiosity": "\"Believe in\" é crer em algo; \"believe someone\" é acreditar numa pessoa."
+    },
+    "tr14-05": {
+      "word": "adore",
+      "translit": null,
+      "example": "I adore rainy Sundays.",
+      "examplePt": "Adoro domingos chuvosos.",
+      "pron": "a-DÓR — força no 'dór', 'r' suave",
+      "curiosity": "\"Adore\" é mais forte e mais formal do que \"love\" no dia a dia."
+    },
+    "tr14-06": {
+      "word": "hate",
+      "translit": null,
+      "example": "I hate cold soup.",
+      "examplePt": "Detesto sopa fria.",
+      "pron": "RÊIT — 'h' aspirado e 'a' vira 'êi'",
+      "curiosity": "\"Dislike\" é uma forma bem mais suave que \"hate\"."
+    },
+    "tr14-07": {
+      "word": "feel",
+      "translit": null,
+      "example": "How do you feel today?",
+      "examplePt": "Como você se sente hoje?",
+      "pron": "FÍL — 'ee' longo",
+      "curiosity": "\"I feel like pizza\" quer dizer \"estou com vontade de pizza\"."
+    },
+    "tr14-08": {
+      "word": "notice",
+      "translit": null,
+      "example": "Did you notice the new poster?",
+      "examplePt": "Você reparou no pôster novo?",
+      "pron": "NÔU-tis — 'o' vira 'ôu'",
+      "curiosity": "\"Notice\" também é aviso, como em \"notice board\" (mural)."
+    },
+    "tr14-09": {
+      "word": "forgive",
+      "translit": null,
+      "example": "Please forgive me, I was late.",
+      "examplePt": "Por favor, me perdoe, eu me atrasei.",
+      "pron": "for-GUIV — força no 'guiv'",
+      "curiosity": "Forgive, forgave, forgiven: o passado é irregular."
+    },
+    "tr14-10": {
+      "word": "surprise",
+      "translit": null,
+      "example": "We surprise Mom with a cake.",
+      "examplePt": "Surpreendemos a mamãe com um bolo.",
+      "pron": "sâr-PRÁIZ — 's' final soa como 'z'",
+      "curiosity": "\"Surprise party\" é a festa-surpresa."
+    },
+    "tr15-01": {
+      "word": "A table for two, please.",
+      "translit": null,
+      "example": "Certainly. Right this way.",
+      "examplePt": "Claro. Por aqui.",
+      "pron": "a TÊI-bol for TU, pliz — 'table' soa 'têibol'",
+      "curiosity": "\"Party of two\" é como o restaurante chama um grupo de duas pessoas."
+    },
+    "tr15-02": {
+      "word": "The menu, please.",
+      "translit": null,
+      "example": "Here you go. Take your time.",
+      "examplePt": "Aqui está. Fique à vontade.",
+      "pron": "dhâ MÉN-iu, pliz — 'menu' soa 'mén-iu'",
+      "curiosity": "\"Menu\" veio do francês, mas em inglês se fala \"MÉN-iu\"."
+    },
+    "tr15-03": {
+      "word": "What's today's special?",
+      "translit": null,
+      "example": "Grilled salmon with lemon butter.",
+      "examplePt": "Salmão grelhado com manteiga de limão.",
+      "pron": "UÓTS tu-DÊIZ SPÉ-xal — 'special' soa 'spéxal'",
+      "curiosity": "Nos cardápios, \"special\" é o prato especial do dia."
+    },
+    "tr15-04": {
+      "word": "No onions, please.",
+      "translit": null,
+      "example": "Sure. Anything else for you?",
+      "examplePt": "Claro. Mais alguma coisa?",
+      "pron": "NÔU Â-niânz, pliz — 'onions' soa 'âniânz'",
+      "curiosity": "\"Hold the onions\" é um jeito americano de pedir sem cebola."
+    },
+    "tr15-05": {
+      "word": "It's delicious!",
+      "translit": null,
+      "example": "Thanks! My grandma made it.",
+      "examplePt": "Obrigada! Minha avó fez.",
+      "pron": "Its di-LÍ-xâs — 'cious' soa 'xâs'",
+      "curiosity": "\"Yummy\" é a palavra infantil para delicioso."
+    },
+    "tr15-06": {
+      "word": "More water, please.",
+      "translit": null,
+      "example": "Sure. With ice or without?",
+      "examplePt": "Claro. Com gelo ou sem?",
+      "pron": "MÓR UÓ-dâr, pliz — 'water' com 'd' leve",
+      "curiosity": "\"Water\" é incontável em inglês: \"more water\", e nunca \"more waters\"."
+    },
+    "tr15-07": {
+      "word": "I'm a vegetarian.",
+      "translit": null,
+      "example": "No problem. We have veggie burgers.",
+      "examplePt": "Sem problema. Temos hambúrgueres vegetarianos.",
+      "pron": "Áim a vé-dji-TÉ-ri-ân — força no 'té'",
+      "curiosity": "\"Vegan\" não come nenhum produto de origem animal, nem leite ou ovos."
+    },
+    "tr15-08": {
+      "word": "To go, please.",
+      "translit": null,
+      "example": "Sure. Do you need a bag?",
+      "examplePt": "Claro. Você precisa de uma sacola?",
+      "pron": "TU GÔU, pliz — 'go' com 'ôu'",
+      "curiosity": "\"To go\" é o termo dos EUA; no Reino Unido se diz \"takeaway\"."
+    },
+    "tr15-09": {
+      "word": "The food is cold.",
+      "translit": null,
+      "example": "I'm sorry. I'll heat it up.",
+      "examplePt": "Sinto muito. Vou esquentar.",
+      "pron": "dhâ FUD iz KÔULD — 'food' com 'u' longo",
+      "curiosity": "Para reclamar com educação, comece com \"Excuse me\" ou \"I'm sorry, but\"."
+    },
+    "tr15-10": {
+      "word": "I'd like dessert.",
+      "translit": null,
+      "example": "Great choice! Chocolate cake or ice cream?",
+      "examplePt": "Ótima escolha! Bolo de chocolate ou sorvete?",
+      "pron": "Áid LÁIK di-ZÂRT — 'dessert' soa 'dizârt'",
+      "curiosity": "\"Dessert\" tem dois 's' e é sobremesa; \"desert\" com um 's' é deserto."
+    },
+    "tr16-01": {
+      "word": "I have a reservation.",
+      "translit": null,
+      "example": "Of course. What's your last name?",
+      "examplePt": "Claro. Qual é seu sobrenome?",
+      "pron": "Ái RÉV a rez-âr-VÊI-xân — 'tion' soa 'xân'",
+      "curiosity": "\"Check in\" é fazer o registro de entrada no hotel."
+    },
+    "tr16-02": {
+      "word": "A room for two nights.",
+      "translit": null,
+      "example": "Certainly. Is a king bed okay?",
+      "examplePt": "Claro. Pode ser cama king size?",
+      "pron": "a RUM for TU NÁITS — 'gh' mudo em 'nights'",
+      "curiosity": "\"Nightly rate\" é o preço por noite no hotel."
+    },
+    "tr16-03": {
+      "word": "I need a towel.",
+      "translit": null,
+      "example": "Sure. I'll bring one up.",
+      "examplePt": "Claro. Vou levar uma aí.",
+      "pron": "Ái NÍD a TÁU-el — 'ow' soa 'áu'",
+      "curiosity": "\"Housekeeping\" é o serviço de limpeza do hotel."
+    },
+    "tr16-04": {
+      "word": "The shower doesn't work.",
+      "translit": null,
+      "example": "Sorry! I'll send someone right away.",
+      "examplePt": "Desculpe! Vou mandar alguém agora mesmo.",
+      "pron": "dhâ XÁU-âr DÂ-zent UÂRK — 'doesn't' soa 'dâzent'",
+      "curiosity": "\"Doesn't work\" é o jeito mais comum de dizer que algo quebrou."
+    },
+    "tr16-05": {
+      "word": "What's the wi-fi password?",
+      "translit": null,
+      "example": "It's on the card in your room.",
+      "examplePt": "Está no cartão do seu quarto.",
+      "pron": "UÓTS dhâ UAI-fai PÉS-uârd — 'pass' com 'é'",
+      "curiosity": "\"Password\" junta \"pass\" (passar) e \"word\" (palavra)."
+    },
+    "tr16-06": {
+      "word": "Is breakfast included?",
+      "translit": null,
+      "example": "Yes, from seven to ten.",
+      "examplePt": "Sim, das sete às dez.",
+      "pron": "IZ BRÉK-fâst in-KLU-did — 'breakfast' soa 'brékfâst'",
+      "curiosity": "\"B&B\" significa \"bed and breakfast\": cama e café da manhã."
+    },
+    "tr16-07": {
+      "word": "The key, please.",
+      "translit": null,
+      "example": "Room 305. Enjoy your stay!",
+      "examplePt": "Quarto 305. Boa estadia!",
+      "pron": "dhâ KÍ, pliz — 'key' com 'i' longo",
+      "curiosity": "Hoje muitos hotéis usam \"key card\" em vez de chave de metal."
+    },
+    "tr16-08": {
+      "word": "Can I leave my bag here?",
+      "translit": null,
+      "example": "Of course. We'll keep it safe.",
+      "examplePt": "Claro. Vamos guardá-la com segurança.",
+      "pron": "Kén Ái LÍV mái BÉG RÍR — 'bag' com 'é' aberto",
+      "curiosity": "\"Luggage\" e \"baggage\" são incontáveis; \"bag\" é uma peça só."
+    },
+    "tr16-09": {
+      "word": "Is there an elevator?",
+      "translit": null,
+      "example": "Yes, down the hall on the left.",
+      "examplePt": "Sim, no fim do corredor à esquerda.",
+      "pron": "IZ DHÉR an É-le-vei-târ — força no 'é'",
+      "curiosity": "Nos EUA é \"elevator\"; no Reino Unido, \"lift\"."
+    },
+    "tr16-10": {
+      "word": "Can you wake me at seven?",
+      "translit": null,
+      "example": "Certainly. A wake-up call at seven.",
+      "examplePt": "Claro. Uma chamada para acordar às sete.",
+      "pron": "Kén IU UÊIK mi ét SÉ-ven — 'wake' soa 'uêik'",
+      "curiosity": "\"Wake-up call\" é a ligação que o hotel faz para acordar o hóspede."
+    },
+    "tr17-01": {
+      "word": "Hello?",
+      "translit": null,
+      "example": "Hello? Is anyone there?",
+      "examplePt": "Alô? Tem alguém aí?",
+      "pron": "rê-LÔU — 'h' aspirado e 'o' final com 'ôu'",
+      "curiosity": "\"Hello\" e \"hi\" servem para atender; \"Hello?\" com tom de pergunta é o mais comum."
+    },
+    "tr17-02": {
+      "word": "Who's calling?",
+      "translit": null,
+      "example": "It's your cousin from Texas.",
+      "examplePt": "É seu primo do Texas.",
+      "pron": "RUZ KÓ-ling — 'who's' soa 'ruz'",
+      "curiosity": "\"Who's\" é a contração de \"who is\"."
+    },
+    "tr17-03": {
+      "word": "One moment, please.",
+      "translit": null,
+      "example": "Thanks, I'll hold.",
+      "examplePt": "Obrigado, vou aguardar.",
+      "pron": "UÂN MÔU-ment, pliz — 'one' soa 'uân'",
+      "curiosity": "\"Hold on\" e \"hang on\" também pedem para esperar na linha."
+    },
+    "tr17-04": {
+      "word": "I'll call back later.",
+      "translit": null,
+      "example": "Okay, talk to you soon!",
+      "examplePt": "Certo, falo com você logo!",
+      "pron": "Áil KÓL BÉK LEI-târ — 'call' com 'ó'",
+      "curiosity": "\"Call back\" é retornar uma ligação."
+    },
+    "tr17-05": {
+      "word": "Leave a message.",
+      "translit": null,
+      "example": "Please leave a message after the beep.",
+      "examplePt": "Deixe um recado após o sinal.",
+      "pron": "LÍV a MÉ-sij — 'message' soa 'méssidj'",
+      "curiosity": "O \"beep\" é o sinal sonoro da caixa postal, o \"voicemail\"."
+    },
+    "tr17-06": {
+      "word": "Wrong number.",
+      "translit": null,
+      "example": "Sorry, I dialed the wrong number.",
+      "examplePt": "Desculpe, liguei para o número errado.",
+      "pron": "RÓNG NÂM-bâr — o 'w' de 'wrong' é mudo",
+      "curiosity": "\"Dial\" (discar) vem dos telefones antigos, que tinham um disco giratório."
+    },
+    "tr17-07": {
+      "word": "The line is busy.",
+      "translit": null,
+      "example": "I'll try again in five minutes.",
+      "examplePt": "Tento de novo em cinco minutos.",
+      "pron": "dhâ LÁIN iz BI-zi — 'busy' soa 'bízi'",
+      "curiosity": "O sinal de ocupado se chama \"busy signal\"."
+    },
+    "tr17-08": {
+      "word": "My phone is dead.",
+      "translit": null,
+      "example": "Use my charger, it's right here.",
+      "examplePt": "Use meu carregador, está bem aqui.",
+      "pron": "MÁI FÔUN iz DÉD — 'ph' soa como 'f'",
+      "curiosity": "Dizer que o celular está \"dead\" é o jeito comum de falar que descarregou."
+    },
+    "tr17-09": {
+      "word": "I have no signal.",
+      "translit": null,
+      "example": "Try walking closer to the window.",
+      "examplePt": "Tente chegar mais perto da janela.",
+      "pron": "Ái RÉV nôu SIG-nâl — 'g' de 'signal' é pronunciado",
+      "curiosity": "As barrinhas de sinal do celular são chamadas de \"bars\"."
+    },
+    "tr17-10": {
+      "word": "Can you call me?",
+      "translit": null,
+      "example": "Sure, I'll call you in ten minutes.",
+      "examplePt": "Claro, ligo para você em dez minutos.",
+      "pron": "Kén IU KÓL mi — 'call' com 'ó'",
+      "curiosity": "\"Give me a call\" é um jeito informal de pedir uma ligação."
+    },
+    "tr18-01": {
+      "word": "Do you have a bigger size?",
+      "translit": null,
+      "example": "Let me check in the back.",
+      "examplePt": "Vou ver no estoque.",
+      "pron": "Du IU RÉV a BI-gâr SÁIZ — 'size' soa 'sáiz'",
+      "curiosity": "\"One size fits all\" é o \"tamanho único\"."
+    },
+    "tr18-02": {
+      "word": "It's too expensive.",
+      "translit": null,
+      "example": "Yes, but it's very good quality.",
+      "examplePt": "Sim, mas é de ótima qualidade.",
+      "pron": "Its TU iks-PÉN-siv — 'expensive' soa 'ikspénsiv'",
+      "curiosity": "\"Too\" (demais), \"to\" e \"two\" soam iguais."
+    },
+    "tr18-03": {
+      "word": "Is there a discount?",
+      "translit": null,
+      "example": "Yes, twenty percent off today.",
+      "examplePt": "Sim, vinte por cento de desconto hoje.",
+      "pron": "IZ DHÉR a DIS-káunt — força no 'dis'",
+      "curiosity": "\"On sale\" quer dizer \"em promoção\"."
+    },
+    "tr18-04": {
+      "word": "I'm just looking.",
+      "translit": null,
+      "example": "Sure. Let me know if you need help.",
+      "examplePt": "Claro. Me avise se precisar de ajuda.",
+      "pron": "Áim DJÂST LU-king — 'j' soa como 'dj'",
+      "curiosity": "\"Just looking\" é a resposta educada quando o vendedor oferece ajuda."
+    },
+    "tr18-05": {
+      "word": "I'll take this one.",
+      "translit": null,
+      "example": "Great. Cash or card?",
+      "examplePt": "Ótimo. Dinheiro ou cartão?",
+      "pron": "Áil TÊIK dhis UÂN — 'one' soa 'uân'",
+      "curiosity": "\"I'll take it\" é como o cliente fecha uma compra em inglês."
+    },
+    "tr18-06": {
+      "word": "Do you take cards?",
+      "translit": null,
+      "example": "Yes, we accept all major cards.",
+      "examplePt": "Sim, aceitamos os principais cartões.",
+      "pron": "Du IU TÊIK KÁRDZ — 'r' suave",
+      "curiosity": "\"Cash only\" é o aviso de lojas que só aceitam dinheiro vivo."
+    },
+    "tr18-07": {
+      "word": "Do you have it in another color?",
+      "translit": null,
+      "example": "We have it in blue and green.",
+      "examplePt": "Temos em azul e em verde.",
+      "pron": "Du IU RÉV it in a-NÂ-dhâr KÂ-lâr — 'color' soa 'kâlâr'",
+      "curiosity": "Nos EUA se escreve \"color\"; no Reino Unido, \"colour\"."
+    },
+    "tr18-08": {
+      "word": "I need a bag.",
+      "translit": null,
+      "example": "Paper or plastic?",
+      "examplePt": "Papel ou plástico?",
+      "pron": "Ái NÍD a BÉG — 'bag' com 'é' aberto",
+      "curiosity": "\"Paper or plastic?\" é a pergunta clássica dos caixas americanos."
+    },
+    "tr18-09": {
+      "word": "It's a gift.",
+      "translit": null,
+      "example": "Would you like it gift wrapped?",
+      "examplePt": "Quer que embrulhe para presente?",
+      "pron": "Its a GUIFT — 'gift' tem 'g' duro",
+      "curiosity": "Em inglês, presente é \"gift\" ou \"present\"; \"gift\" é mais comum em lojas."
+    },
+    "tr18-10": {
+      "word": "Where is the checkout?",
+      "translit": null,
+      "example": "Straight ahead, next to the exit.",
+      "examplePt": "Em frente, ao lado da saída.",
+      "pron": "UÉR iz dhâ TCHÉK-aut — 'check' soa 'tchék'",
+      "curiosity": "Nos EUA, o caixa do mercado costuma ser chamado de \"checkout\" ou \"register\"."
+    },
+    "tr19-01": {
+      "word": "Turn left.",
+      "translit": null,
+      "example": "Turn left at the next light.",
+      "examplePt": "Vire à esquerda no próximo semáforo.",
+      "pron": "TÂRN LÉFT — 'ur' soa 'âr'",
+      "curiosity": "Nos EUA, quem dirige senta no lado esquerdo do carro."
+    },
+    "tr19-02": {
+      "word": "Turn right.",
+      "translit": null,
+      "example": "Turn right after the gas station.",
+      "examplePt": "Vire à direita depois do posto de gasolina.",
+      "pron": "TÂRN RÁIT — 'gh' mudo e 'i' como 'ai'",
+      "curiosity": "\"Right\" significa direita e também certo: \"You're right\"."
+    },
+    "tr19-03": {
+      "word": "Go straight ahead.",
+      "translit": null,
+      "example": "Go straight ahead for two blocks.",
+      "examplePt": "Siga em frente por dois quarteirões.",
+      "pron": "GÔU STRÊIT a-RÉD — 'ai' soa 'êi' em 'straight'",
+      "curiosity": "Nos EUA, as distâncias na cidade são medidas em \"blocks\", os quarteirões."
+    },
+    "tr19-04": {
+      "word": "Cross the street.",
+      "translit": null,
+      "example": "Cross the street at the crosswalk.",
+      "examplePt": "Atravesse a rua na faixa de pedestres.",
+      "pron": "KRÓS dhâ STRÍT — 'cross' com 'ó'",
+      "curiosity": "\"Crosswalk\" é a faixa de pedestres nos EUA; no Reino Unido é \"zebra crossing\"."
+    },
+    "tr19-05": {
+      "word": "Show me on the map.",
+      "translit": null,
+      "example": "Here we are, and here's the park.",
+      "examplePt": "Estamos aqui, e aqui fica o parque.",
+      "pron": "XÔU mi on dhâ MÉP — 'map' com 'é' aberto",
+      "curiosity": "Nos apps, o marcador no mapa se chama \"pin\"."
+    },
+    "tr19-06": {
+      "word": "Where is the station?",
+      "translit": null,
+      "example": "Two blocks down, on your right.",
+      "examplePt": "Dois quarteirões à frente, à direita.",
+      "pron": "UÉR iz dhâ STÊI-xân — 'station' soa 'stêixân'",
+      "curiosity": "Nos EUA, \"train station\" é a de trem e \"bus station\" é a de ônibus."
+    },
+    "tr19-07": {
+      "word": "Is it far from here?",
+      "translit": null,
+      "example": "No, it's a five-minute walk.",
+      "examplePt": "Não, é uma caminhada de cinco minutos.",
+      "pron": "IZ it FÁR frâm RÍR — 'far' com 'r' suave",
+      "curiosity": "Em frases afirmativas, é comum dizer \"a long way\" em vez de \"far\"."
+    },
+    "tr19-08": {
+      "word": "How long does it take?",
+      "translit": null,
+      "example": "About twenty minutes by bus.",
+      "examplePt": "Cerca de vinte minutos de ônibus.",
+      "pron": "RÁU LÓNG dâz it TÊIK — 'long' com 'ng' nasal",
+      "curiosity": "\"How long\" pergunta duração; \"how far\" pergunta distância."
+    },
+    "tr19-09": {
+      "word": "I'm late.",
+      "translit": null,
+      "example": "Hurry up, the show starts soon!",
+      "examplePt": "Anda logo, o show começa já!",
+      "pron": "Áim LÊIT — 'a' soa 'êi'",
+      "curiosity": "\"Late\" é atrasado; \"lately\" não é \"tardiamente\", e sim \"ultimamente\"."
+    },
+    "tr19-10": {
+      "word": "I missed the bus.",
+      "translit": null,
+      "example": "Take the next one, in ten minutes.",
+      "examplePt": "Pegue o próximo, daqui a dez minutos.",
+      "pron": "Ái MIST dhâ BÂS — 'bus' soa 'bâs'",
+      "curiosity": "\"Miss\" é perder um transporte, mas também sentir saudade: \"I miss you\"."
+    },
+    "tr20-01": {
+      "word": "What time is it?",
+      "translit": null,
+      "example": "It's half past three.",
+      "examplePt": "São três e meia.",
+      "pron": "UÓT TÁIM iz it — 'time' soa 'táim'",
+      "curiosity": "\"Half past three\" é três e meia; \"quarter to\" é faltando um quarto."
+    },
+    "tr20-02": {
+      "word": "What day is it today?",
+      "translit": null,
+      "example": "It's Friday, finally!",
+      "examplePt": "É sexta, finalmente!",
+      "pron": "UÓT DÊI iz it tu-DÊI — 'day' soa 'dêi'",
+      "curiosity": "Os dias da semana em inglês sempre começam com letra maiúscula."
+    },
+    "tr20-03": {
+      "word": "It's raining.",
+      "translit": null,
+      "example": "Grab an umbrella before you go.",
+      "examplePt": "Pegue um guarda-chuva antes de sair.",
+      "pron": "Its RÊI-ning — 'rain' soa 'rêin'",
+      "curiosity": "Em \"It's raining\", o \"it\" não se refere a nada: só completa a frase."
+    },
+    "tr20-04": {
+      "word": "It's hot.",
+      "translit": null,
+      "example": "So hot today, let's go swimming!",
+      "examplePt": "Está tão quente, vamos nadar!",
+      "pron": "Its RÓT — 'hot' com 'h' aspirado",
+      "curiosity": "Nos EUA a temperatura é em Fahrenheit: 90 °F equivalem a uns 32 °C."
+    },
+    "tr20-05": {
+      "word": "I'm in a hurry.",
+      "translit": null,
+      "example": "Sorry, no time to chat!",
+      "examplePt": "Desculpe, sem tempo para papo!",
+      "pron": "Áim in a RÂ-ri — 'hurry' soa 'râri'",
+      "curiosity": "\"Hurry up!\" é o clássico \"anda logo!\"."
+    },
+    "tr20-06": {
+      "word": "I'm busy.",
+      "translit": null,
+      "example": "Can we talk later? I'm busy.",
+      "examplePt": "Podemos falar depois? Estou ocupado.",
+      "pron": "Áim BI-zi — 'busy' soa 'bízi'",
+      "curiosity": "\"Busy\" tem 'u' no meio, mas soa como 'i': BI-zi."
+    },
+    "tr20-07": {
+      "word": "I'm on vacation.",
+      "translit": null,
+      "example": "No emails this week, I'm away!",
+      "examplePt": "Sem e-mails esta semana, estou fora!",
+      "pron": "Áim on vei-KÊI-xân — força no 'kêi'",
+      "curiosity": "Nos EUA se diz \"vacation\"; no Reino Unido, \"holiday\"."
+    },
+    "tr20-08": {
+      "word": "I have an idea.",
+      "translit": null,
+      "example": "Tell me! I love your ideas.",
+      "examplePt": "Conte! Adoro suas ideias.",
+      "pron": "Ái RÉV an ai-DÍ-a — 'idea' soa 'aidía'",
+      "curiosity": "Diz-se \"an idea\", e não \"a idea\", porque o som inicial é de vogal."
+    },
+    "tr20-09": {
+      "word": "I'm on my way.",
+      "translit": null,
+      "example": "Great! We'll wait by the door.",
+      "examplePt": "Ótimo! Esperamos perto da porta.",
+      "pron": "Áim on mái UÊI — 'way' soa 'uêi'",
+      "curiosity": "\"OMW\" é a sigla de \"on my way\" nas mensagens de texto."
+    },
+    "tr20-10": {
+      "word": "I'm not hungry.",
+      "translit": null,
+      "example": "Thanks, I just ate lunch.",
+      "examplePt": "Obrigado, acabei de almoçar.",
+      "pron": "Áim nót RÂN-gri — 'hungry' soa 'rângri'",
+      "curiosity": "\"Hungry\" e \"angry\" são as palavras comuns que terminam em -gry."
+    },
+    "tr21-01": {
+      "word": "because",
+      "translit": null,
+      "example": "I stayed home because it rained.",
+      "examplePt": "Fiquei em casa porque choveu.",
+      "pron": "bi-KÓZ — 'au' soa 'ó', termina em 'z'",
+      "curiosity": "Na fala, \"because\" costuma ser encurtado para \"cuz\"."
+    },
+    "tr21-02": {
+      "word": "but",
+      "translit": null,
+      "example": "I like tea, but not hot.",
+      "examplePt": "Gosto de chá, mas não quente.",
+      "pron": "BÂT — o 'u' soa 'â'",
+      "curiosity": "\"But\" também significa exceto: \"everyone but me\"."
+    },
+    "tr21-03": {
+      "word": "so",
+      "translit": null,
+      "example": "It's late, so let's go home.",
+      "examplePt": "Está tarde, então vamos para casa.",
+      "pron": "SÔU — 'o' termina em 'u' leve",
+      "curiosity": "\"So\" também intensifica: \"so cold\" é \"muito frio\"."
+    },
+    "tr21-04": {
+      "word": "although",
+      "translit": null,
+      "example": "Although it's cold, we're swimming.",
+      "examplePt": "Embora esteja frio, estamos nadando.",
+      "pron": "ol-DHÔU — 'gh' mudo, 'th' vibrante",
+      "curiosity": "\"Although\" e \"though\" são quase iguais; \"though\" é mais informal."
+    },
+    "tr21-05": {
+      "word": "while",
+      "translit": null,
+      "example": "Mom reads while I draw.",
+      "examplePt": "Mamãe lê enquanto eu desenho.",
+      "pron": "UÁIL — 'wh' soa 'u' e 'i' soa 'ai'",
+      "curiosity": "\"While\" também é substantivo: \"a while\" é um tempinho."
+    },
+    "tr21-06": {
+      "word": "that is",
+      "translit": null,
+      "example": "Dinner is at six, that is, soon.",
+      "examplePt": "O jantar é às seis, ou seja, logo.",
+      "pron": "DHÉT IZ — 'th' vibrante",
+      "curiosity": "A sigla \"i.e.\" significa \"that is\" e vem do latim \"id est\"."
+    },
+    "tr21-07": {
+      "word": "besides",
+      "translit": null,
+      "example": "Besides, we have no more snacks.",
+      "examplePt": "Além disso, não temos mais lanches.",
+      "pron": "bi-SÁIDZ — força no 'sáidz'",
+      "curiosity": "\"Besides\" (além disso) não é \"beside\" (ao lado de)."
+    },
+    "tr21-08": {
+      "word": "even so",
+      "translit": null,
+      "example": "It rained; even so, we played.",
+      "examplePt": "Choveu; mesmo assim, jogamos.",
+      "pron": "Í-ven SÔU — 'even' soa 'íven'",
+      "curiosity": "\"Even\" sozinho também é \"par\": \"even numbers\" são os números pares."
+    },
+    "tr21-09": {
+      "word": "otherwise",
+      "translit": null,
+      "example": "Hurry, otherwise we'll miss the train.",
+      "examplePt": "Corra, caso contrário perderemos o trem.",
+      "pron": "Á-dhâr-uaiz — 'th' vibrante e 'wise' soa 'uaiz'",
+      "curiosity": "O sufixo \"-wise\" quer dizer \"de modo\": \"otherwise\" é \"de outro modo\"."
+    },
+    "tr21-10": {
+      "word": "as soon as",
+      "translit": null,
+      "example": "Call me as soon as you arrive.",
+      "examplePt": "Ligue-me assim que chegar.",
+      "pron": "éz SUN éz — 'soon' com 'u' longo",
+      "curiosity": "\"ASAP\" é a sigla de \"as soon as possible\"."
+    },
+    "tr22-01": {
+      "word": "always",
+      "translit": null,
+      "example": "She always wears yellow socks.",
+      "examplePt": "Ela sempre usa meias amarelas.",
+      "pron": "ÓL-uêiz — 'al' soa 'ól'",
+      "curiosity": "Advérbios de frequência vêm antes do verbo principal: \"I always sing\"."
+    },
+    "tr22-02": {
+      "word": "never",
+      "translit": null,
+      "example": "I never eat spicy peppers.",
+      "examplePt": "Nunca como pimentas picantes.",
+      "pron": "NÉ-vâr — 'e' aberto",
+      "curiosity": "Com \"never\" o verbo fica afirmativo: \"I never lie\", e não \"I don't never lie\"."
+    },
+    "tr22-03": {
+      "word": "sometimes",
+      "translit": null,
+      "example": "Sometimes we eat dinner outside.",
+      "examplePt": "Às vezes jantamos ao ar livre.",
+      "pron": "SÂM-táimz — 'some' soa 'sâm'",
+      "curiosity": "\"Sometimes\" (às vezes) é diferente de \"sometime\" (algum dia)."
+    },
+    "tr22-04": {
+      "word": "almost",
+      "translit": null,
+      "example": "We're almost there!",
+      "examplePt": "Quase chegamos!",
+      "pron": "ÓL-môust — 'al' soa 'ól'",
+      "curiosity": "\"Almost there!\" é o incentivo clássico no fim de uma viagem."
+    },
+    "tr22-05": {
+      "word": "still",
+      "translit": null,
+      "example": "Is it still raining outside?",
+      "examplePt": "Ainda está chovendo lá fora?",
+      "pron": "STIL — 'i' curto",
+      "curiosity": "\"Still\" também é adjetivo: \"stay still\" é \"fique parado\"."
+    },
+    "tr22-06": {
+      "word": "already",
+      "translit": null,
+      "example": "Have you already eaten lunch?",
+      "examplePt": "Você já almoçou?",
+      "pron": "ol-RÉ-di — 'al' soa 'ol'",
+      "curiosity": "\"Already\" (já) se escreve junto; \"all ready\" (todos prontos) é separado."
+    },
+    "tr22-07": {
+      "word": "soon",
+      "translit": null,
+      "example": "See you soon!",
+      "examplePt": "Até logo!",
+      "pron": "SUN — 'oo' longo",
+      "curiosity": "\"The sooner, the better\" quer dizer \"quanto antes, melhor\"."
+    },
+    "tr22-08": {
+      "word": "early",
+      "translit": null,
+      "example": "Birds wake up early.",
+      "examplePt": "Os pássaros acordam cedo.",
+      "pron": "ÂR-li — 'ear' soa 'âr'",
+      "curiosity": "\"The early bird catches the worm\" é o \"Deus ajuda quem cedo madruga\"."
+    },
+    "tr22-09": {
+      "word": "usually",
+      "translit": null,
+      "example": "We usually walk to school.",
+      "examplePt": "Geralmente vamos a pé para a escola.",
+      "pron": "IU-jua-li — 'u' inicial soa 'iú'",
+      "curiosity": "\"Usually\" e \"normally\" são quase sinônimos."
+    },
+    "tr22-10": {
+      "word": "rarely",
+      "translit": null,
+      "example": "He rarely eats fast food.",
+      "examplePt": "Ele raramente come fast food.",
+      "pron": "RÉR-li — 'a' aberto, 'r' suave",
+      "curiosity": "\"Rarely\" e \"seldom\" são parecidos, mas \"seldom\" é mais formal."
+    },
+    "tr23-01": {
+      "word": "In my opinion",
+      "translit": null,
+      "example": "In my opinion, summer is the best.",
+      "examplePt": "Na minha opinião, o verão é o melhor.",
+      "pron": "in mái o-PIN-ion — força no 'pin'",
+      "curiosity": "Também se diz \"I think\" ou \"If you ask me\" para dar opinião."
+    },
+    "tr23-02": {
+      "word": "It depends.",
+      "translit": null,
+      "example": "Pizza or salad? It depends!",
+      "examplePt": "Pizza ou salada? Depende!",
+      "pron": "It di-PÉNDZ — força no 'pénds'",
+      "curiosity": "\"Depends\" vai com \"on\": \"it depends on the weather\"."
+    },
+    "tr23-03": {
+      "word": "I'm not sure.",
+      "translit": null,
+      "example": "Is it Tuesday? I'm not sure.",
+      "examplePt": "É terça? Não tenho certeza.",
+      "pron": "Áim NÓT XUR — 'sure' soa 'xur'",
+      "curiosity": "\"Sure\" começa com som de 'x': xur."
+    },
+    "tr23-04": {
+      "word": "You're right.",
+      "translit": null,
+      "example": "You're right, I forgot my hat.",
+      "examplePt": "Você tem razão, esqueci meu chapéu.",
+      "pron": "IUR RÁIT — 'you're' soa 'iur'",
+      "curiosity": "\"You're\" (you are) soa quase igual a \"your\" (seu)."
+    },
+    "tr23-05": {
+      "word": "I was wrong.",
+      "translit": null,
+      "example": "Oops, I was wrong about the date.",
+      "examplePt": "Opa, eu me enganei com a data.",
+      "pron": "Ái UÓZ RÓNG — 'was' soa 'uóz'",
+      "curiosity": "\"My bad\" é uma gíria curta e simpática para admitir um erro."
+    },
+    "tr23-06": {
+      "word": "It's no big deal.",
+      "translit": null,
+      "example": "Late again? Nah, no big deal.",
+      "examplePt": "Atrasou de novo? Nada, não é nada.",
+      "pron": "Its NÔU BIG DÍL — 'deal' com 'i' longo",
+      "curiosity": "Na fala, \"big deal\" é \"grande coisa\"."
+    },
+    "tr23-07": {
+      "word": "Don't worry.",
+      "translit": null,
+      "example": "Take your time. No worries.",
+      "examplePt": "Sem pressa. Tranquilo.",
+      "pron": "DÔUNT UÂ-ri — 'worry' soa 'uâri'",
+      "curiosity": "\"No worries\" é outro jeito muito comum de dizer \"tranquilo\"."
+    },
+    "tr23-08": {
+      "word": "I think so.",
+      "translit": null,
+      "example": "Will it rain? I think so.",
+      "examplePt": "Vai chover? Acho que sim.",
+      "pron": "Ái THINK SÔU — 'th' com a língua entre os dentes",
+      "curiosity": "Usa-se \"so\" para não repetir a ideia: \"I hope so\", \"I think so\"."
+    },
+    "tr23-09": {
+      "word": "I don't think so.",
+      "translit": null,
+      "example": "Is he home? I don't think so.",
+      "examplePt": "Ele está em casa? Acho que não.",
+      "pron": "Ái DÔUNT THINK SÔU — 'think' com 'th' sem vibrar",
+      "curiosity": "Em inglês nega-se o verbo \"think\", e não a opinião."
+    },
+    "tr23-10": {
+      "word": "I don't mind.",
+      "translit": null,
+      "example": "Pizza or pasta? I don't mind.",
+      "examplePt": "Pizza ou macarrão? Tanto faz.",
+      "pron": "Ái DÔUNT MÁIND — 'mind' soa 'máind'",
+      "curiosity": "\"Never mind\" quer dizer \"esquece, não importa\"."
+    },
+    "tr24-01": {
+      "word": "Can you help me?",
+      "translit": null,
+      "example": "Sure, what do you need?",
+      "examplePt": "Claro, do que você precisa?",
+      "pron": "Kén IU RÉLP mi — 'help' com 'h' aspirado",
+      "curiosity": "\"Could you help me?\" é ainda mais educado."
+    },
+    "tr24-02": {
+      "word": "Can I ask you something?",
+      "translit": null,
+      "example": "Of course, go ahead.",
+      "examplePt": "Claro, pode falar.",
+      "pron": "Kén Ái ÉSK iu SÂM-thing — 'ask' com 'é' aberto",
+      "curiosity": "\"Go ahead\" é o \"pode falar\" ou \"pode ir\" em inglês."
+    },
+    "tr24-03": {
+      "word": "It's my fault.",
+      "translit": null,
+      "example": "I broke the vase, it's my fault.",
+      "examplePt": "Quebrei o vaso, a culpa é minha.",
+      "pron": "Its mái FÓLT — 'fault' soa 'fólt'",
+      "curiosity": "\"It's not your fault\" é uma frase de conforto muito usada."
+    },
+    "tr24-04": {
+      "word": "I didn't mean to.",
+      "translit": null,
+      "example": "Oops, I didn't mean to push you!",
+      "examplePt": "Opa, não quis te empurrar!",
+      "pron": "Ái DI-dent MÍN tu — 'didn't' soa 'dident'",
+      "curiosity": "\"Mean\" quer dizer querer dizer: \"What do you mean?\"."
+    },
+    "tr24-05": {
+      "word": "I forgot.",
+      "translit": null,
+      "example": "Where's your homework? I forgot!",
+      "examplePt": "Cadê sua lição? Esqueci!",
+      "pron": "Ái for-GÓT — 'forgot' soa 'forgót'",
+      "curiosity": "Forget, forgot, forgotten são as três formas do verbo."
+    },
+    "tr24-06": {
+      "word": "I have a problem.",
+      "translit": null,
+      "example": "My phone is broken, I have a problem.",
+      "examplePt": "Meu celular quebrou, tenho um problema.",
+      "pron": "Ái RÉV a PRÓ-blem — 'problem' com 'ó'",
+      "curiosity": "\"No problem\" é a resposta casual a \"thank you\"."
+    },
+    "tr24-07": {
+      "word": "I don't know what to do.",
+      "translit": null,
+      "example": "Calm down, we'll find a solution.",
+      "examplePt": "Calma, vamos achar uma solução.",
+      "pron": "Ái DÔUNT NÔU uót tu DU — 'know' sem o 'k'",
+      "curiosity": "Depois de \"what\" vem o infinitivo: what to say, what to eat."
+    },
+    "tr24-08": {
+      "word": "I'll take care of it.",
+      "translit": null,
+      "example": "Dishes? Leave it to me!",
+      "examplePt": "Louça? Deixa comigo!",
+      "pron": "Áil TÊIK KÉR âv it — 'care' soa 'kér'",
+      "curiosity": "\"Take care!\" é uma despedida que quer dizer \"se cuida\"."
+    },
+    "tr24-09": {
+      "word": "Thanks for everything.",
+      "translit": null,
+      "example": "Bye, Grandma! Thanks for everything!",
+      "examplePt": "Tchau, vovó! Obrigado por tudo!",
+      "pron": "THÉNKS for É-vri-thing — 'th' sem vibrar",
+      "curiosity": "Depois de \"thanks for\" vem substantivo ou verbo com -ing: \"thanks for coming\"."
+    },
+    "tr24-10": {
+      "word": "Everything will be fine.",
+      "translit": null,
+      "example": "Stay calm, the storm will pass.",
+      "examplePt": "Fique calmo, a tempestade vai passar.",
+      "pron": "É-vri-thing uil bi FÁIN — 'fine' soa 'fáin'",
+      "curiosity": "\"OK\" é uma das palavras americanas mais espalhadas pelo mundo."
+    },
+    "tr25-01": {
+      "word": "I have a headache.",
+      "translit": null,
+      "example": "Take a rest and drink water.",
+      "examplePt": "Descanse e beba água.",
+      "pron": "Ái RÉV a RÉD-êik — 'ache' soa 'êik'",
+      "curiosity": "\"Headache\", \"toothache\" e \"stomachache\" seguem o mesmo molde com \"ache\"."
+    },
+    "tr25-02": {
+      "word": "I have a stomachache.",
+      "translit": null,
+      "example": "Maybe you ate too much candy.",
+      "examplePt": "Talvez você tenha comido doce demais.",
+      "pron": "Ái RÉV a STÂ-mak-êik — 'stomach' soa 'stâmak'",
+      "curiosity": "\"Stomach\" tem 'ch' com som de 'k'."
+    },
+    "tr25-03": {
+      "word": "It hurts here.",
+      "translit": null,
+      "example": "Here? Does it hurt when I press?",
+      "examplePt": "Aqui? Dói quando eu aperto?",
+      "pron": "It RÂRTS RÍR — 'hurts' soa 'râts'",
+      "curiosity": "\"Hurt\" é igual no passado: hurt, hurt, hurt."
+    },
+    "tr25-04": {
+      "word": "I don't feel well.",
+      "translit": null,
+      "example": "Sit down, I'll get you some water.",
+      "examplePt": "Sente-se, vou pegar água para você.",
+      "pron": "Ái DÔUNT FÍL UÉL — 'well' soa 'uél'",
+      "curiosity": "Nesse caso \"well\" é advérbio (bem), mas \"I feel good\" também é usado."
+    },
+    "tr25-05": {
+      "word": "I need a doctor.",
+      "translit": null,
+      "example": "Hold on, I'll call one now.",
+      "examplePt": "Aguarde, vou chamar um agora.",
+      "pron": "Ái NÍD a DÓK-târ — 'doctor' soa 'dóktâr'",
+      "curiosity": "Nos EUA, o número de emergência é 911."
+    },
+    "tr25-06": {
+      "word": "I'm allergic to peanuts.",
+      "translit": null,
+      "example": "Thanks for telling us. No peanuts here.",
+      "examplePt": "Obrigado por avisar. Aqui não tem amendoim.",
+      "pron": "Áim a-LÂR-djik tu PÍ-nâts — 'allergic' soa 'alârdjik'",
+      "curiosity": "\"Allergic\" tem 'g' com som de 'dj'."
+    },
+    "tr25-07": {
+      "word": "I have an appointment.",
+      "translit": null,
+      "example": "Take a seat, the doctor is coming.",
+      "examplePt": "Sente-se, o médico já vem.",
+      "pron": "Ái RÉV an a-PÓINT-ment — 'point' como 'póint'",
+      "curiosity": "\"Appointment\" é hora marcada; \"date\" é encontro romântico."
+    },
+    "tr25-08": {
+      "word": "I have a cold.",
+      "translit": null,
+      "example": "Drink warm tea and rest.",
+      "examplePt": "Beba chá quente e descanse.",
+      "pron": "Ái RÉV a KÔULD — 'cold' soa 'kôuld'",
+      "curiosity": "\"Catch a cold\" é pegar um resfriado, literalmente \"pegar um frio\"."
+    },
+    "tr25-09": {
+      "word": "I need to rest.",
+      "translit": null,
+      "example": "Go to bed early and sleep well.",
+      "examplePt": "Vá para a cama cedo e durma bem.",
+      "pron": "Ái NÍD tu RÉST — 'rest' com 'é' aberto",
+      "curiosity": "\"Rest\" é descansar e também o resto: \"the rest of the day\"."
+    },
+    "tr25-10": {
+      "word": "I'm feeling better.",
+      "translit": null,
+      "example": "Great! You look much better, too.",
+      "examplePt": "Ótimo! Você parece bem melhor também.",
+      "pron": "Áim FÍ-ling BÉ-târ — 'better' com 't' leve",
+      "curiosity": "Good, better, best: \"better\" é o comparativo de \"good\"."
+    },
+    "tr26-01": {
+      "word": "What's my gate?",
+      "translit": null,
+      "example": "Gate B12, boarding at nine.",
+      "examplePt": "Portão B12, embarque às nove.",
+      "pron": "UÓTS mái GÊIT — 'gate' soa 'gêit'",
+      "curiosity": "\"Boarding pass\" é o cartão de embarque."
+    },
+    "tr26-02": {
+      "word": "My flight was canceled.",
+      "translit": null,
+      "example": "We'll book you on the next one.",
+      "examplePt": "Vamos reservar você no próximo.",
+      "pron": "Mái FLÁIT uóz KÉN-sâld — 'gh' mudo em 'flight'",
+      "curiosity": "Nos EUA se escreve \"canceled\" com um 'l'; no Reino Unido, \"cancelled\"."
+    },
+    "tr26-03": {
+      "word": "The flight is delayed.",
+      "translit": null,
+      "example": "How long is the delay?",
+      "examplePt": "Quanto tempo é o atraso?",
+      "pron": "dhâ FLÁIT iz di-LÊID — 'delayed' soa 'dilêid'",
+      "curiosity": "\"Delay\" é verbo e substantivo: \"a two-hour delay\"."
+    },
+    "tr26-04": {
+      "word": "I lost my luggage.",
+      "translit": null,
+      "example": "Please fill out this lost luggage form.",
+      "examplePt": "Preencha este formulário de bagagem extraviada.",
+      "pron": "Ái LÓST mái LÂ-guij — 'luggage' soa 'lâguidj'",
+      "curiosity": "\"Luggage\" não tem plural: nunca se diz \"luggages\"."
+    },
+    "tr26-05": {
+      "word": "Where do I pick up my bags?",
+      "translit": null,
+      "example": "Follow the signs to baggage claim.",
+      "examplePt": "Siga as placas até a retirada de bagagem.",
+      "pron": "UÉR du Ái PIK âp mái BÉGZ — 'pick up' junto",
+      "curiosity": "A esteira de bagagens se chama \"baggage claim\"."
+    },
+    "tr26-06": {
+      "word": "I have something to declare.",
+      "translit": null,
+      "example": "Please step over to this counter.",
+      "examplePt": "Venha até este balcão, por favor.",
+      "pron": "Ái RÉV SÂM-thing tu di-KLÉR — 'declare' soa 'diklér'",
+      "curiosity": "\"Customs\" (alfândega) é sempre plural."
+    },
+    "tr26-07": {
+      "word": "I'm here as a tourist.",
+      "translit": null,
+      "example": "Welcome! How many days will you stay?",
+      "examplePt": "Bem-vindo! Quantos dias vai ficar?",
+      "pron": "Áim RÍR éz a TU-rist — 'tourist' soa 'turist'",
+      "curiosity": "\"Sightseeing\" é o ato de fazer turismo e conhecer pontos famosos."
+    },
+    "tr26-08": {
+      "word": "I prefer the window seat.",
+      "translit": null,
+      "example": "Aisle or window, ma'am?",
+      "examplePt": "Corredor ou janela, senhora?",
+      "pron": "Ái pri-FÂR dhâ UIN-dou SÍT — 'seat' com 'i' longo",
+      "curiosity": "\"Aisle\" é o corredor do avião e soa como \"ail\": o 's' é mudo."
+    },
+    "tr26-09": {
+      "word": "I need to exchange money.",
+      "translit": null,
+      "example": "The exchange office is near gate five.",
+      "examplePt": "A casa de câmbio fica perto do portão cinco.",
+      "pron": "Ái NÍD tu iks-TCHÊINJ MÂ-ni — 'money' soa 'mâni'",
+      "curiosity": "\"Currency\" é a moeda de um país; \"cash\" é dinheiro vivo."
+    },
+    "tr26-10": {
+      "word": "Here is my passport.",
+      "translit": null,
+      "example": "Thank you. Look at the camera, please.",
+      "examplePt": "Obrigado. Olhe para a câmera, por favor.",
+      "pron": "RÍR iz mái PÉS-pôrt — 'passport' soa 'péspôrt'",
+      "curiosity": "O passaporte e o \"visa\" (visto) são documentos diferentes."
+    },
+    "tr27-01": {
+      "word": "break the ice",
+      "translit": null,
+      "example": "A funny joke breaks the ice.",
+      "examplePt": "Uma piada engraçada quebra o gelo.",
+      "pron": "BRÊIK dhi ÁIS — 'break' soa 'brêik'",
+      "curiosity": "\"Icebreaker\" é a brincadeira ou pergunta usada para quebrar o gelo num grupo."
+    },
+    "tr27-02": {
+      "word": "cost an arm and a leg",
+      "translit": null,
+      "example": "That new phone costs an arm and a leg.",
+      "examplePt": "Esse celular novo custa os olhos da cara.",
+      "pron": "KÓST an ÁRM and a LÉG — 'arm' com 'r' suave",
+      "curiosity": "Em inglês, o que custa caro custa \"um braço e uma perna\"."
+    },
+    "tr27-03": {
+      "word": "sleep like a log",
+      "translit": null,
+      "example": "After hiking, I slept like a log.",
+      "examplePt": "Depois da trilha, dormi como uma pedra.",
+      "pron": "SLÍP láik a LÓG — 'log' com 'ó'",
+      "curiosity": "Em inglês se dorme como um tronco (\"log\"), e não como uma pedra."
+    },
+    "tr27-04": {
+      "word": "talk a mile a minute",
+      "translit": null,
+      "example": "My sister talks a mile a minute.",
+      "examplePt": "Minha irmã fala pelos cotovelos.",
+      "pron": "TÓK a MÁIL a MI-nit — o 'l' de 'talk' é mudo",
+      "curiosity": "Literalmente, é \"falar uma milha por minuto\"."
+    },
+    "tr27-05": {
+      "word": "have your head in the clouds",
+      "translit": null,
+      "example": "Wake up! Your head is in the clouds.",
+      "examplePt": "Acorde! Você está nas nuvens.",
+      "pron": "RÉD in dhâ KLÁUDZ — 'clouds' soa 'kláudz'",
+      "curiosity": "\"Daydreaming\" é o nome de quem fica sonhando acordado."
+    },
+    "tr27-06": {
+      "word": "make your mouth water",
+      "translit": null,
+      "example": "Fresh cookies make my mouth water.",
+      "examplePt": "Biscoitos fresquinhos dão água na boca.",
+      "pron": "MÊIK iór MÁUTH UÓ-dâr — 'mouth' com 'th' sonoro",
+      "curiosity": "Algo apetitoso também é chamado de \"mouth-watering\"."
+    },
+    "tr27-07": {
+      "word": "hats off to you",
+      "translit": null,
+      "example": "Hats off to the whole team!",
+      "examplePt": "Tiro o chapéu para o time todo!",
+      "pron": "RÉTS ÓF tu IU — 'hats' soa 'réts'",
+      "curiosity": "A expressão vem do gesto de tirar o chapéu como sinal de respeito."
+    },
+    "tr27-08": {
+      "word": "keep an eye on",
+      "translit": null,
+      "example": "Please keep an eye on my bag.",
+      "examplePt": "Por favor, fique de olho na minha mochila.",
+      "pron": "KÍP an ÁI on — 'eye' soa 'ái'",
+      "curiosity": "\"Keep an eye out\" quer dizer ficar atento a algo que pode aparecer."
+    },
+    "tr27-09": {
+      "word": "rain cats and dogs",
+      "translit": null,
+      "example": "It's raining cats and dogs outside!",
+      "examplePt": "Está chovendo canivete lá fora!",
+      "pron": "RÊIN KÉTS and DÓGZ — 'cats' com 'é' aberto",
+      "curiosity": "A origem de \"rain cats and dogs\" é incerta, mas ninguém acha que chovem animais."
+    },
+    "tr27-10": {
+      "word": "roll up your sleeves",
+      "translit": null,
+      "example": "Let's roll up our sleeves and start.",
+      "examplePt": "Vamos pôr a mão na massa e começar.",
+      "pron": "RÔUL âp iór SLÍVZ — 'sleeves' soa 'slivz'",
+      "curiosity": "Literalmente é \"arregaçar as mangas\", parecido com o português."
+    },
+    "tr28-01": {
+      "word": "Wow!",
+      "translit": null,
+      "example": "Wow! That rainbow is huge!",
+      "examplePt": "Nossa! Esse arco-íris é enorme!",
+      "pron": "UÁU — 'ow' soa 'áu'",
+      "curiosity": "\"Wow\" é uma das interjeições mais usadas e entendida no mundo todo."
+    },
+    "tr28-02": {
+      "word": "Let's go!",
+      "translit": null,
+      "example": "Pizza time, everybody! Let's go!",
+      "examplePt": "Hora da pizza, pessoal! Bora!",
+      "pron": "LÉTS GÔU — 'let's' com 'é' aberto",
+      "curiosity": "\"Let's\" é a contração de \"let us\" e leva apóstrofo."
+    },
+    "tr28-03": {
+      "word": "Cool!",
+      "translit": null,
+      "example": "Meet at five? Cool!",
+      "examplePt": "Nos vemos às cinco? Beleza!",
+      "pron": "KUL — 'oo' longo",
+      "curiosity": "\"Cool\" quer dizer legal, mas também fresco, quando falamos de temperatura."
+    },
+    "tr28-04": {
+      "word": "I'm feeling lazy",
+      "translit": null,
+      "example": "Homework tonight? Ugh, I'm feeling lazy.",
+      "examplePt": "Lição hoje à noite? Ai, tô com preguiça.",
+      "pron": "Áim FÍ-ling LÊI-zi — 'lazy' soa 'lêizi'",
+      "curiosity": "\"Couch potato\" é quem passa o dia inteiro no sofá, literalmente \"batata de sofá\"."
+    },
+    "tr28-05": {
+      "word": "Count me out!",
+      "translit": null,
+      "example": "Ice swimming? Count me out!",
+      "examplePt": "Nadar no gelo? Tô fora!",
+      "pron": "KÁUNT mi ÁUT — 'count' soa 'káunt'",
+      "curiosity": "O oposto é \"count me in\", que quer dizer \"pode contar comigo\"."
+    },
+    "tr28-06": {
+      "word": "Get it?",
+      "translit": null,
+      "example": "No phones at dinner. Get it?",
+      "examplePt": "Sem celular no jantar. Sacou?",
+      "pron": "GUÉT it — 'get' com 'g' duro",
+      "curiosity": "A resposta típica é \"Got it!\", ou seja, \"saquei!\"."
+    },
+    "tr28-07": {
+      "word": "Chill out!",
+      "translit": null,
+      "example": "Chill out, we have plenty of time.",
+      "examplePt": "Fica frio, temos muito tempo.",
+      "pron": "TCHIL ÁUT — 'ch' como em 'tchau'",
+      "curiosity": "\"Chill\" é literalmente esfriar, e virou sinônimo de relaxar."
+    },
+    "tr28-08": {
+      "word": "Give me a break!",
+      "translit": null,
+      "example": "Another quiz? Give me a break!",
+      "examplePt": "Outra prova? Dá um tempo!",
+      "pron": "GUIV mi a BRÊIK — 'break' soa 'brêik'",
+      "curiosity": "\"Take a break\" é fazer uma pausa; \"give me a break\" é um protesto."
+    },
+    "tr28-09": {
+      "word": "What a bummer!",
+      "translit": null,
+      "example": "Rain on our picnic? What a bummer!",
+      "examplePt": "Chuva no nosso piquenique? Que chato!",
+      "pron": "UÓT a BÂ-mâr — 'bummer' soa 'bâmâr'",
+      "curiosity": "\"Bummer\" é uma gíria americana para algo decepcionante."
+    },
+    "tr28-10": {
+      "word": "Lucky you!",
+      "translit": null,
+      "example": "A free ticket? Lucky you!",
+      "examplePt": "Um ingresso grátis? Que sorte!",
+      "pron": "LÂ-ki IU — 'lucky' soa 'lâki'",
+      "curiosity": "\"Good luck!\" é o jeito de desejar boa sorte."
+    },
+    "tr29-01": {
+      "word": "Better late than never.",
+      "translit": null,
+      "example": "Sorry I'm late. Better late than never!",
+      "examplePt": "Desculpe o atraso. Antes tarde do que nunca!",
+      "pron": "BÉ-târ LÊIT dhén NÉ-vâr — 'th' vibrante",
+      "curiosity": "Esse provérbio inglês é praticamente igual ao português."
+    },
+    "tr29-02": {
+      "word": "He who laughs last laughs best.",
+      "translit": null,
+      "example": "He lost at first, then won it all.",
+      "examplePt": "Ele perdeu no início, depois ganhou tudo.",
+      "pron": "Ri RU LÉFS LÉST LÉFS BÉST — 'laughs' soa 'léfs'",
+      "curiosity": "Uma variante comum é \"He who laughs last, laughs longest\"."
+    },
+    "tr29-03": {
+      "word": "Practice makes perfect.",
+      "translit": null,
+      "example": "Piano is hard, but practice makes perfect.",
+      "examplePt": "Piano é difícil, mas a prática leva à perfeição.",
+      "pron": "PRÉK-tis MÊIKS PÂR-fekt — 'perfect' soa 'pârfekt'",
+      "curiosity": "\"Practice\" e \"perfect\" começam com \"p\", o que ajuda a memorizar."
+    },
+    "tr29-04": {
+      "word": "His bark is worse than his bite.",
+      "translit": null,
+      "example": "Dad shouts, but his bark is worse than his bite.",
+      "examplePt": "Papai grita, mas cão que ladra não morde.",
+      "pron": "Riz BÁRK iz UÂRS dhén riz BÁIT — 'bark' com 'r' suave",
+      "curiosity": "\"Bark\" é latido e também a casca de uma árvore."
+    },
+    "tr29-05": {
+      "word": "One good turn deserves another.",
+      "translit": null,
+      "example": "You helped me, now I'll help you.",
+      "examplePt": "Você me ajudou, agora eu ajudo você.",
+      "pron": "UÂN GUD TÂRN di-ZÂRVZ a-NÂ-dhâr — 'one' soa 'uân'",
+      "curiosity": "Uma versão popular é \"You scratch my back, I'll scratch yours\"."
+    },
+    "tr29-06": {
+      "word": "There's strength in numbers.",
+      "translit": null,
+      "example": "Let's all push together. Strength in numbers!",
+      "examplePt": "Vamos empurrar todos juntos. A união faz a força!",
+      "pron": "DHÉRZ STRÉNGTH in NÂM-bârz — 'strength' tem 'ngth' no fim",
+      "curiosity": "\"Strength\" tem oito letras e só uma vogal."
+    },
+    "tr29-07": {
+      "word": "Nothing ventured, nothing gained.",
+      "translit": null,
+      "example": "Ask her! Nothing ventured, nothing gained.",
+      "examplePt": "Pergunte a ela! Quem não arrisca não ganha.",
+      "pron": "NÂ-thing VÉN-tchârd, NÂ-thing GUÊINDZ — 'ventured' soa 'véntchârd'",
+      "curiosity": "Também se diz \"No risk, no reward\", ou seja, \"sem risco, sem recompensa\"."
+    },
+    "tr29-08": {
+      "word": "Slow and steady wins the race.",
+      "translit": null,
+      "example": "Hike slowly, friends. Slow and steady wins!",
+      "examplePt": "Caminhem devagar, amigos. Devagar se vai ao longe!",
+      "pron": "SLÔU and STÉ-di UINZ dhâ RÊIS — 'steady' soa 'stédi'",
+      "curiosity": "Esse ditado lembra a fábula da lebre e da tartaruga."
+    },
+    "tr29-09": {
+      "word": "Time is money.",
+      "translit": null,
+      "example": "Hurry up, time is money!",
+      "examplePt": "Anda logo, tempo é dinheiro!",
+      "pron": "TÁIM iz MÂ-ni — 'money' soa 'mâni'",
+      "curiosity": "O ditado \"time is money\" é muito usado no mundo dos negócios."
+    },
+    "tr29-10": {
+      "word": "Laughter is the best medicine.",
+      "translit": null,
+      "example": "Feeling sad? Laughter is the best medicine!",
+      "examplePt": "Triste? Rir é o melhor remédio!",
+      "pron": "LÉF-târ iz dhâ BÉST MÉ-di-sin — 'laughter' soa 'léftâr'",
+      "curiosity": "\"Laughter\" é o substantivo que vem do verbo \"laugh\"."
+    },
+    "tr30-01": {
+      "word": "be speechless",
+      "translit": null,
+      "example": "I'm speechless, this gift is amazing!",
+      "examplePt": "Fiquei sem palavras, este presente é incrível!",
+      "pron": "bi SPÍTCH-les — 'speech' soa 'spítch'",
+      "curiosity": "O sufixo \"-less\" quer dizer \"sem\": speechless, careless, endless."
+    },
+    "tr30-02": {
+      "word": "bounce back",
+      "translit": null,
+      "example": "After losing, the team bounced back fast.",
+      "examplePt": "Depois de perder, o time deu a volta por cima.",
+      "pron": "BÁUNS BÉK — 'bounce' soa 'báuns'",
+      "curiosity": "\"Bounce\" é quicar, como uma bola; \"bounce back\" é se recuperar."
+    },
+    "tr30-03": {
+      "word": "hang by a thread",
+      "translit": null,
+      "example": "The old bridge hangs by a thread.",
+      "examplePt": "A ponte velha está por um fio.",
+      "pron": "RÉNG bái a THRÉD — 'thread' com 'th' sem vibrar",
+      "curiosity": "Literalmente, é \"pendurado por um fio\", quase igual ao português."
+    },
+    "tr30-04": {
+      "word": "change your mind",
+      "translit": null,
+      "example": "I changed my mind about the movie.",
+      "examplePt": "Mudei de ideia sobre o filme.",
+      "pron": "TCHÊINJ iór MÁIND — 'change' soa 'tchêindj'",
+      "curiosity": "Em inglês muda-se de \"mente\" (\"mind\"), e não de ideia."
+    },
+    "tr30-05": {
+      "word": "lose your train of thought",
+      "translit": null,
+      "example": "Sorry, I lost my train of thought.",
+      "examplePt": "Desculpe, perdi o fio da meada.",
+      "pron": "LUZ iór TRÊIN âv THÓT — 'thought' soa 'thót'",
+      "curiosity": "Em inglês perde-se o \"trem de pensamento\", e não o fio da meada."
+    },
+    "tr30-06": {
+      "word": "on the tip of my tongue",
+      "translit": null,
+      "example": "What's that actor's name? It's on the tip of my tongue.",
+      "examplePt": "Qual o nome daquele ator? Está na ponta da língua.",
+      "pron": "on dhâ TIP âv mái TÂNG — 'tongue' soa 'tâng'",
+      "curiosity": "\"Tongue\" se escreve com \"ue\" no fim, mas soa \"tâng\"."
+    },
+    "tr30-07": {
+      "word": "in the same boat",
+      "translit": null,
+      "example": "We're all in the same boat today.",
+      "examplePt": "Hoje estamos todos no mesmo barco.",
+      "pron": "in dhâ SÊIM BÔUT — 'boat' soa 'bôut'",
+      "curiosity": "Há também \"rock the boat\", que é causar confusão num grupo."
+    },
+    "tr30-08": {
+      "word": "rack your brain",
+      "translit": null,
+      "example": "I racked my brain for the answer.",
+      "examplePt": "Quebrei a cabeça atrás da resposta.",
+      "pron": "RÉK iór BRÊIN — 'brain' soa 'brêin'",
+      "curiosity": "\"Brainstorm\" é juntar ideias em grupo, literalmente \"tempestade de cérebros\"."
+    },
+    "tr30-09": {
+      "word": "feel at home",
+      "translit": null,
+      "example": "Our guests feel at home right away.",
+      "examplePt": "Nossos convidados se sentem em casa logo.",
+      "pron": "FÍL ét RÔUM — 'home' soa 'rôum'",
+      "curiosity": "\"Make yourself at home\" é o que o anfitrião diz ao convidado."
+    },
+    "tr30-10": {
+      "word": "look on the bright side",
+      "translit": null,
+      "example": "Lost the game? Look on the bright side!",
+      "examplePt": "Perdeu o jogo? Olhe pelo lado bom!",
+      "pron": "LUK on dhâ BRÁIT SÁID — 'bright' soa 'bráit'",
+      "curiosity": "\"Bright\" é brilhante, então \"the bright side\" é o lado luminoso das coisas."
+    }
+  }
+}

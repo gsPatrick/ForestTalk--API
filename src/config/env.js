@@ -16,6 +16,8 @@ const schema = z.object({
   LOG_LEVEL: z.enum(['silent', 'error', 'info', 'debug']).default('info'),
   CORS_ORIGINS: z.string().default('*'),
   DATABASE_URL: z.string().min(1, 'DATABASE_URL é obrigatória'),
+  // Produção usa SSL no banco por padrão; use `false` para bancos sem SSL (ex.: sslmode=disable).
+  DATABASE_SSL: bool.default(true),
   JWT_SECRET: z.string().min(16, 'JWT_SECRET precisa de ao menos 16 caracteres'),
   JWT_EXPIRES_IN: z.string().default('365d'),
   CONTENT_DIR: z.string().default('../ForestTalk--FRONT/assets/content'),

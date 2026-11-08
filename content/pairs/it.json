@@ -1,0 +1,1927 @@
+{
+  "game": "pairs",
+  "language": "it",
+  "version": 1,
+  "entries": {
+    "pr01-01": {
+      "word": "il leone",
+      "translit": null,
+      "example": "Il leone dorme sotto un albero.",
+      "examplePt": "O leão dorme debaixo de uma árvore.",
+      "pron": "le-Ô-ne — o 'e' final se pronuncia; força no 'ô'",
+      "curiosity": "Só os leões machos têm juba; as leoas é que caçam em grupo."
+    },
+    "pr01-02": {
+      "word": "la tigre",
+      "translit": null,
+      "example": "Vedi la tigre dietro l'albero?",
+      "examplePt": "Você vê a tigresa atrás da árvore?",
+      "pron": "TÍ-gre — o 'g' é duro, soa 'gue'; o 'e' final se fala",
+      "curiosity": "Em italiano 'tigre' é feminino: la tigre, mesmo que seja macho!"
+    },
+    "pr01-03": {
+      "word": "l'elefante",
+      "translit": null,
+      "example": "L'elefante beve con la proboscide.",
+      "examplePt": "O elefante bebe com a tromba.",
+      "pron": "e-le-FÂN-te — o 'e' final se pronuncia",
+      "curiosity": "A tromba do elefante tem nome chique em italiano: 'proboscide'."
+    },
+    "pr01-04": {
+      "word": "la giraffa",
+      "translit": null,
+      "example": "La giraffa mangia le foglie alte.",
+      "examplePt": "A girafa come as folhas altas.",
+      "pron": "dji-RÁF-fa — 'gi' soa 'dji'; o 'ff' é dobrado",
+      "curiosity": "Girafas têm só sete vértebras no pescoço, como nós!"
+    },
+    "pr01-05": {
+      "word": "la scimmia",
+      "translit": null,
+      "example": "Una scimmia ruba la mia banana!",
+      "examplePt": "Um macaco rouba minha banana!",
+      "pron": "SHÍM-mia — 'sci' soa 'chi'; o 'mm' é dobrado",
+      "curiosity": "'Scimmiottare' é imitar alguém, o nosso 'macaquear'."
+    },
+    "pr01-06": {
+      "word": "la zebra",
+      "translit": null,
+      "example": "La zebra ha un pigiama a righe!",
+      "examplePt": "A zebra tem um pijama listrado!",
+      "pron": "DZÉ-bra — o 'z' soa 'dz' e o 'e' é aberto",
+      "curiosity": "Cada zebra tem um padrão de listras único, como digital."
+    },
+    "pr01-07": {
+      "word": "l'ippopotamo",
+      "translit": null,
+      "example": "L'ippopotamo apre una bocca enorme!",
+      "examplePt": "O hipopótamo abre uma boca enorme!",
+      "pron": "ip-po-PÓ-ta-mo — 'pp' dobrado; sem o 'h' do português",
+      "curiosity": "Vem do grego e significa 'cavalo do rio'."
+    },
+    "pr01-08": {
+      "word": "il coccodrillo",
+      "translit": null,
+      "example": "Il coccodrillo sorride, ma ha fame.",
+      "examplePt": "O crocodilo sorri, mas está com fome.",
+      "pron": "kok-ko-DRÍL-lo — 'cc' soa 'kk' e 'll' é dobrado",
+      "curiosity": "'Lacrime di coccodrillo' são lágrimas de crocodilo: choro falso."
+    },
+    "pr02-01": {
+      "word": "l'aquila",
+      "translit": null,
+      "example": "L'aquila vola sopra le montagne.",
+      "examplePt": "A águia voa sobre as montanhas.",
+      "pron": "A-kui-la — 'qu' soa 'kui'; força no primeiro 'a'",
+      "curiosity": "A águia enxerga muito mais longe e nítido que nós."
+    },
+    "pr02-02": {
+      "word": "il pinguino",
+      "translit": null,
+      "example": "Il pinguino scivola sul ghiaccio!",
+      "examplePt": "O pinguim escorrega no gelo!",
+      "pron": "pin-GUÍ-no — o 'gu' é pronunciado: 'guí'",
+      "curiosity": "Pinguins selvagens vivem no sul do planeta, nunca no Polo Norte."
+    },
+    "pr02-03": {
+      "word": "il pappagallo",
+      "translit": null,
+      "example": "Il pappagallo ripete la mia voce!",
+      "examplePt": "O papagaio repete a minha voz!",
+      "pron": "pap-pa-GAL-lo — 'pp' e 'll' dobrados",
+      "curiosity": "Alguns papagaios vivem mais de 50 anos."
+    },
+    "pr02-04": {
+      "word": "il cigno",
+      "translit": null,
+      "example": "Il cigno nuota nel lago blu.",
+      "examplePt": "O cisne nada no lago azul.",
+      "pron": "TCHÍ-nho — 'ci' soa 'tchi' e 'gn' soa 'nh'",
+      "curiosity": "No conto do patinho feio, 'il brutto anatroccolo' vira um cisne."
+    },
+    "pr02-05": {
+      "word": "il fenicottero",
+      "translit": null,
+      "example": "Il fenicottero dorme su una zampa.",
+      "examplePt": "O flamingo dorme numa pata só.",
+      "pron": "fe-ni-KÓT-te-ro — 'cc' soa 'k' dobrado",
+      "curiosity": "O flamingo fica rosado pelos pigmentos da comida que come."
+    },
+    "pr02-06": {
+      "word": "il pavone",
+      "translit": null,
+      "example": "Il pavone apre la sua coda.",
+      "examplePt": "O pavão abre a sua cauda.",
+      "pron": "pa-VÔ-ne — o 'o' é fechado; o 'e' final se fala",
+      "curiosity": "Só o macho tem a cauda gigante e colorida; a fêmea é discreta."
+    },
+    "pr02-07": {
+      "word": "il piccione",
+      "translit": null,
+      "example": "Un piccione mangia il mio panino!",
+      "examplePt": "Um pombo come o meu sanduíche!",
+      "pron": "pit-TCHÔ-ne — 'cci' soa 'tch' dobrado",
+      "curiosity": "Pombos-correio levaram mensagens por séculos."
+    },
+    "pr02-08": {
+      "word": "lo struzzo",
+      "translit": null,
+      "example": "Lo struzzo corre più veloce di me!",
+      "examplePt": "O avestruz corre mais rápido que eu!",
+      "pron": "STRÚT-tso — 'zz' soa 'ts' dobrado",
+      "curiosity": "Antes de 's' + consoante usa-se 'lo', não 'il': lo struzzo."
+    },
+    "pr03-01": {
+      "word": "l'ape",
+      "translit": null,
+      "example": "L'ape fa il miele nel suo alveare.",
+      "examplePt": "A abelha faz mel na sua colmeia.",
+      "pron": "A-pe — força no 'a'; o 'e' final é pronunciado",
+      "curiosity": "Plural: le api. Palavra curtinha e com artigo apostrofado!"
+    },
+    "pr03-02": {
+      "word": "la farfalla",
+      "translit": null,
+      "example": "Una farfalla bianca vola sul fiore.",
+      "examplePt": "Uma borboleta branca voa sobre a flor.",
+      "pron": "far-FAL-la — 'll' dobrado",
+      "curiosity": "'Farfalle' também é um tipo de massa em forma de gravata."
+    },
+    "pr03-03": {
+      "word": "la formica",
+      "translit": null,
+      "example": "La formica porta una briciola enorme.",
+      "examplePt": "A formiga carrega uma migalha enorme.",
+      "pron": "for-MÍ-ka — 'c' antes de 'a' soa 'k'",
+      "curiosity": "Formigas carregam coisas muito mais pesadas que elas."
+    },
+    "pr03-04": {
+      "word": "il ragno",
+      "translit": null,
+      "example": "Il ragno tesse una tela d'argento.",
+      "examplePt": "A aranha tece uma teia de prata.",
+      "pron": "RÁ-nho — 'gn' soa 'nh', como em 'ganhar'",
+      "curiosity": "Aranha não é inseto: tem oito patas, inseto tem seis."
+    },
+    "pr03-05": {
+      "word": "la mosca",
+      "translit": null,
+      "example": "Una mosca balla sul mio naso!",
+      "examplePt": "Uma mosca dança no meu nariz!",
+      "pron": "MÓS-ka — 'sc' antes de 'a' soa 'sk'",
+      "curiosity": "'Mosca bianca' é alguém raríssimo, o nosso 'ave rara'."
+    },
+    "pr03-06": {
+      "word": "la coccinella",
+      "translit": null,
+      "example": "Una coccinella rossa cammina sulla mano.",
+      "examplePt": "Uma joaninha vermelha anda na mão.",
+      "pron": "kot-tchi-NÉL-la — 'cci' soa 'tch'; 'll' dobrado",
+      "curiosity": "Contar as pintas da joaninha não revela a idade dela."
+    },
+    "pr03-07": {
+      "word": "il lombrico",
+      "translit": null,
+      "example": "Il lombrico esce dopo la pioggia.",
+      "examplePt": "A minhoca sai depois da chuva.",
+      "pron": "lom-BRÍ-ko — o 'c' soa 'k'",
+      "curiosity": "Minhoca não tem olhos, mas sente a luz pela pele."
+    },
+    "pr03-08": {
+      "word": "la lumaca",
+      "translit": null,
+      "example": "La lumaca porta la casa sulla schiena.",
+      "examplePt": "O caracol leva a casa nas costas.",
+      "pron": "lu-MÁ-ka — o 'c' soa 'k'",
+      "curiosity": "O arroba (@) se chama 'chiocciola' em italiano: caracol!"
+    },
+    "pr04-01": {
+      "word": "il pesce",
+      "translit": null,
+      "example": "Il pesce rosso gira nella boccia.",
+      "examplePt": "O peixe vermelho gira no aquário.",
+      "pron": "PÉ-she — 'sce' soa 'xe'",
+      "curiosity": "'Pesce d'aprile' é a pegadinha do 1º de abril."
+    },
+    "pr04-02": {
+      "word": "lo squalo",
+      "translit": null,
+      "example": "Hai paura dello squalo?",
+      "examplePt": "Você tem medo do tubarão?",
+      "pron": "SKUÁ-lo — 'squ' soa 'skuá'",
+      "curiosity": "O tubarão troca de dentes a vida inteira."
+    },
+    "pr04-03": {
+      "word": "la balena",
+      "translit": null,
+      "example": "La balena canta sotto il mare.",
+      "examplePt": "A baleia canta debaixo do mar.",
+      "pron": "ba-LÊ-na — força no 'lê'",
+      "curiosity": "A baleia não é peixe: é mamífero e respira ar."
+    },
+    "pr04-04": {
+      "word": "il delfino",
+      "translit": null,
+      "example": "Il delfino salta fuori dall'acqua!",
+      "examplePt": "O golfinho salta para fora da água!",
+      "pron": "del-FÍ-no — sem o 'o' de 'golfinho'; força no 'fí'",
+      "curiosity": "Golfinhos dormem com metade do cérebro de cada vez."
+    },
+    "pr04-05": {
+      "word": "il polpo",
+      "translit": null,
+      "example": "Il polpo ha otto braccia.",
+      "examplePt": "O polvo tem oito braços.",
+      "pron": "PÓL-po — o 'o' é aberto",
+      "curiosity": "O polvo tem três corações e sangue azul."
+    },
+    "pr04-06": {
+      "word": "la tartaruga",
+      "translit": null,
+      "example": "Quanto vive una tartaruga?",
+      "examplePt": "Quanto vive uma tartaruga?",
+      "pron": "tar-ta-RÚ-ga — o 'g' é duro: 'gue'",
+      "curiosity": "Tartarugas marinhas voltam à praia onde nasceram para pôr ovos."
+    },
+    "pr04-07": {
+      "word": "il granchio",
+      "translit": null,
+      "example": "Il granchio cammina di lato sulla sabbia.",
+      "examplePt": "O caranguejo anda de lado na areia.",
+      "pron": "GRÂN-kio — 'ch' soa 'k'",
+      "curiosity": "'Prendere un granchio' é cometer uma gafe boba."
+    },
+    "pr04-08": {
+      "word": "la foca",
+      "translit": null,
+      "example": "La foca applaude con le pinne!",
+      "examplePt": "A foca aplaude com as nadadeiras!",
+      "pron": "FÓ-ka — o 'c' soa 'k'",
+      "curiosity": "A foca-monge do Mediterrâneo é das focas mais raras do mundo."
+    },
+    "pr05-01": {
+      "word": "la carota",
+      "translit": null,
+      "example": "La carota è arancione e croccante.",
+      "examplePt": "A cenoura é laranja e crocante.",
+      "pron": "ka-RÓ-ta — um 'r' só, vibrado",
+      "curiosity": "Cenouras antigas eram roxas ou amarelas, não laranjas."
+    },
+    "pr05-02": {
+      "word": "la patata",
+      "translit": null,
+      "example": "Una patata calda brucia le dita!",
+      "examplePt": "Uma batata quente queima os dedos!",
+      "pron": "pa-TÁ-ta — força no segundo 'ta'",
+      "curiosity": "A batata veio dos Andes e chegou à Europa no século XVI."
+    },
+    "pr05-03": {
+      "word": "il pomodoro",
+      "translit": null,
+      "example": "Il pomodoro rosso sembra una palla.",
+      "examplePt": "O tomate vermelho parece uma bola.",
+      "pron": "po-mo-DÓ-ro — força no 'dó'",
+      "curiosity": "'Pomodoro' vem de 'pomo d'oro', a maçã de ouro."
+    },
+    "pr05-04": {
+      "word": "la cipolla",
+      "translit": null,
+      "example": "La cipolla fa piangere il cuoco!",
+      "examplePt": "A cebola faz o cozinheiro chorar!",
+      "pron": "tchi-PÓL-la — 'ci' soa 'tchi'; 'll' dobrado",
+      "curiosity": "Cebola faz chorar por causa de um gás que irrita os olhos."
+    },
+    "pr05-05": {
+      "word": "il mais",
+      "translit": null,
+      "example": "Il mais giallo cresce molto alto.",
+      "examplePt": "O milho amarelo cresce bem alto.",
+      "pron": "MAIS — uma sílaba só, como em 'mais'",
+      "curiosity": "A polenta italiana é feita com farinha de milho."
+    },
+    "pr05-06": {
+      "word": "i broccoli",
+      "translit": null,
+      "example": "Mangiamo i broccoli con il limone?",
+      "examplePt": "Comemos brócolis com limão?",
+      "pron": "BRÓK-ko-li — 'cc' soa 'kk'; 'o' aberto",
+      "curiosity": "Em italiano quase sempre se usa no plural: i broccoli."
+    },
+    "pr05-07": {
+      "word": "l'aglio",
+      "translit": null,
+      "example": "L'aglio profuma tutta la cucina.",
+      "examplePt": "O alho perfuma a cozinha toda.",
+      "pron": "A-lho — 'gli' soa 'lh'",
+      "curiosity": "'Aglio, olio e peperoncino' é uma massa clássica e simples."
+    },
+    "pr05-08": {
+      "word": "il cetriolo",
+      "translit": null,
+      "example": "Il cetriolo è fresco e verde.",
+      "examplePt": "O pepino é fresco e verde.",
+      "pron": "tche-tri-Ó-lo — 'ce' soa 'tche'",
+      "curiosity": "O pepino é quase todo feito de água."
+    },
+    "pr06-01": {
+      "word": "la torta",
+      "translit": null,
+      "example": "Spegni le candeline sulla torta!",
+      "examplePt": "Apague as velinhas do bolo!",
+      "pron": "TÓR-ta — o 'o' é aberto",
+      "curiosity": "Falso amigo: 'torta' em italiano é bolo, não a torta salgada."
+    },
+    "pr06-02": {
+      "word": "il gelato",
+      "translit": null,
+      "example": "Vuoi un gelato al limone?",
+      "examplePt": "Quer um sorvete de limão?",
+      "pron": "dje-LÁ-to — 'ge' soa 'dje'",
+      "curiosity": "'Gelato' vem de 'gelare', congelar."
+    },
+    "pr06-03": {
+      "word": "il biscotto",
+      "translit": null,
+      "example": "Il biscotto cade nel latte!",
+      "examplePt": "O biscoito cai no leite!",
+      "pron": "bis-KÓT-to — 'tt' dobrado",
+      "curiosity": "Vem do latim 'bis coctus': cozido duas vezes."
+    },
+    "pr06-04": {
+      "word": "la ciambella",
+      "translit": null,
+      "example": "La ciambella ha un buco nel mezzo.",
+      "examplePt": "A rosquinha tem um buraco no meio.",
+      "pron": "tcham-BÉL-la — 'cia' soa 'tcha'; 'll' dobrado",
+      "curiosity": "'Nem toda rosquinha sai com buraco': não dá para acertar tudo."
+    },
+    "pr06-05": {
+      "word": "il lecca-lecca",
+      "translit": null,
+      "example": "Il lecca-lecca colora la lingua.",
+      "examplePt": "O pirulito colore a língua.",
+      "pron": "LÉK-ka LÉK-ka — 'cc' soa 'kk'",
+      "curiosity": "Vem de 'leccare', lamber: o nome repete a ação duas vezes."
+    },
+    "pr06-06": {
+      "word": "il cioccolato",
+      "translit": null,
+      "example": "Il cioccolato fonde sulla mia mano!",
+      "examplePt": "O chocolate derrete na minha mão!",
+      "pron": "tchok-ko-LÁ-to — 'cio' soa 'tcho'; 'cc' dobrado",
+      "curiosity": "A palavra veio das línguas astecas, via espanhol."
+    },
+    "pr06-07": {
+      "word": "i popcorn",
+      "translit": null,
+      "example": "Mangiamo i popcorn al cinema!",
+      "examplePt": "Vamos comer pipoca no cinema!",
+      "pron": "PÓP-korn — como em inglês",
+      "curiosity": "Em italiano usa-se a palavra inglesa mesmo, no plural."
+    },
+    "pr06-08": {
+      "word": "la crostata",
+      "translit": null,
+      "example": "La crostata alla marmellata è calda.",
+      "examplePt": "A torta de geleia está quente.",
+      "pron": "kros-TÁ-ta — 'cr' forte, 'tt' não aparece",
+      "curiosity": "Vem de 'crosta', a casca de massa que a envolve."
+    },
+    "pr07-01": {
+      "word": "la cucina",
+      "translit": null,
+      "example": "In cucina profuma di pane.",
+      "examplePt": "Na cozinha cheira a pão.",
+      "pron": "ku-TCHÍ-na — 'ci' soa 'tchi'",
+      "curiosity": "'La cucina italiana' também é a culinária do país."
+    },
+    "pr07-02": {
+      "word": "il bagno",
+      "translit": null,
+      "example": "Il bagno ha una vasca blu.",
+      "examplePt": "O banheiro tem uma banheira azul.",
+      "pron": "BÁ-nho — 'gn' soa 'nh'",
+      "curiosity": "'Bagnino' é o salva-vidas da praia, vem de 'bagno'."
+    },
+    "pr07-03": {
+      "word": "la camera da letto",
+      "translit": null,
+      "example": "La mia camera da letto è piccola.",
+      "examplePt": "Meu quarto é pequeno.",
+      "pron": "KÁ-me-ra da LÉT-to — 'tt' dobrado",
+      "curiosity": "Literalmente 'quarto de cama'; 'camera' sozinha também vale."
+    },
+    "pr07-04": {
+      "word": "il salotto",
+      "translit": null,
+      "example": "Il nonno legge nel salotto.",
+      "examplePt": "O avô lê na sala de estar.",
+      "pron": "sa-LÓT-to — 'tt' dobrado",
+      "curiosity": "'Sala' em italiano é um salão amplo, não a nossa sala de estar."
+    },
+    "pr07-05": {
+      "word": "il garage",
+      "translit": null,
+      "example": "Il garage è pieno di biciclette.",
+      "examplePt": "A garagem está cheia de bicicletas.",
+      "pron": "ga-RÁJ — o final é um 'j' suave, à francesa",
+      "curiosity": "A palavra veio do francês e a escrita não mudou."
+    },
+    "pr07-06": {
+      "word": "il giardino",
+      "translit": null,
+      "example": "Nel giardino cresce un girasole gigante!",
+      "examplePt": "No jardim cresce um girassol gigante!",
+      "pron": "dji-ar-DÍ-no — 'gi' soa 'dji'",
+      "curiosity": "O 'giardino all'italiana' tem simetria perfeita, estilo renascentista."
+    },
+    "pr07-07": {
+      "word": "la porta",
+      "translit": null,
+      "example": "Chi bussa alla porta?",
+      "examplePt": "Quem bate na porta?",
+      "pron": "PÓR-ta — o 'o' é aberto",
+      "curiosity": "'Porta a porta' é entrega ou venda de casa em casa."
+    },
+    "pr07-08": {
+      "word": "la finestra",
+      "translit": null,
+      "example": "Dalla finestra vedo una volpe!",
+      "examplePt": "Da janela vejo uma raposa!",
+      "pron": "fi-NÉS-tra — força no 'nés'",
+      "curiosity": "'Finestrino' é a janelinha do carro ou do trem."
+    },
+    "pr08-01": {
+      "word": "il letto",
+      "translit": null,
+      "example": "Il letto è morbido e caldo.",
+      "examplePt": "A cama é macia e quentinha.",
+      "pron": "LÉT-to — 'tt' dobrado",
+      "curiosity": "'Letto' é cama, mas também 'lido' (de leggere)."
+    },
+    "pr08-02": {
+      "word": "il tavolo",
+      "translit": null,
+      "example": "Il tavolo è pieno di pasta.",
+      "examplePt": "A mesa está cheia de massa.",
+      "pron": "TÁ-vo-lo — força no 'tá'",
+      "curiosity": "'A tavola!' é o grito italiano para chamar todos para comer."
+    },
+    "pr08-03": {
+      "word": "la sedia",
+      "translit": null,
+      "example": "La sedia dondola e il bimbo ride.",
+      "examplePt": "A cadeira balança e o menino ri.",
+      "pron": "SÉ-dia — o 'e' é aberto",
+      "curiosity": "'Sedia' vem de 'sedere', sentar."
+    },
+    "pr08-04": {
+      "word": "il divano",
+      "translit": null,
+      "example": "Il cane salta sul divano!",
+      "examplePt": "O cachorro pula no sofá!",
+      "pron": "di-VÁ-no — 'v' como em 'vaca'",
+      "curiosity": "Vem do persa 'divan'; 'divã' é parente."
+    },
+    "pr08-05": {
+      "word": "lo specchio",
+      "translit": null,
+      "example": "Chi vedi nello specchio?",
+      "examplePt": "Quem você vê no espelho?",
+      "pron": "SPÉK-kio — 'cchi' soa 'kki'",
+      "curiosity": "Vem do latim 'speculum', que também deu 'especular'."
+    },
+    "pr08-06": {
+      "word": "il frigorifero",
+      "translit": null,
+      "example": "Cosa c'è nel frigorifero?",
+      "examplePt": "O que tem na geladeira?",
+      "pron": "fri-go-RÍ-fe-ro — força no 'rí'",
+      "curiosity": "No dia a dia os italianos encurtam para 'frigo'."
+    },
+    "pr08-07": {
+      "word": "la televisione",
+      "translit": null,
+      "example": "La televisione è accesa, ma dormono.",
+      "examplePt": "A televisão está ligada, mas dormem.",
+      "pron": "te-le-vi-ZIÔ-ne — 's' soa 'z'",
+      "curiosity": "A sigla 'TV' se lê 'ti-vu' em italiano."
+    },
+    "pr08-08": {
+      "word": "la lampadina",
+      "translit": null,
+      "example": "Chi ha spento la lampadina?",
+      "examplePt": "Quem apagou a lâmpada?",
+      "pron": "lam-pa-DÍ-na — força no 'dí'",
+      "curiosity": "'Lampada' é o abajur; a que se troca é a 'lampadina'."
+    },
+    "pr09-01": {
+      "word": "la forchetta",
+      "translit": null,
+      "example": "La forchetta cade sul pavimento.",
+      "examplePt": "O garfo cai no chão.",
+      "pron": "for-KÉT-ta — 'ch' soa 'k'; 'tt' dobrado",
+      "curiosity": "Italianos enrolam o espaguete só com o garfo, sem colher."
+    },
+    "pr09-02": {
+      "word": "il coltello",
+      "translit": null,
+      "example": "Il coltello taglia la mela.",
+      "examplePt": "A faca corta a maçã.",
+      "pron": "kol-TÉL-lo — 'll' dobrado",
+      "curiosity": "Vem do latim 'cultellus', pequena faca; 'cutelo' é parente."
+    },
+    "pr09-03": {
+      "word": "il cucchiaio",
+      "translit": null,
+      "example": "Il cucchiaio mescola la zuppa.",
+      "examplePt": "A colher mexe a sopa.",
+      "pron": "kuk-KIÁ-io — 'cch' soa 'kk'",
+      "curiosity": "'Cucchiaino' é a colherzinha de café e sobremesa."
+    },
+    "pr09-04": {
+      "word": "il piatto",
+      "translit": null,
+      "example": "Il piatto vola come un disco!",
+      "examplePt": "O prato voa como um disco!",
+      "pron": "PIÁT-to — 'ia' numa sílaba só",
+      "curiosity": "'Primo piatto' e 'secondo piatto': a refeição vem em sequência."
+    },
+    "pr09-05": {
+      "word": "il bicchiere",
+      "translit": null,
+      "example": "Chi ha rotto il bicchiere?",
+      "examplePt": "Quem quebrou o copo?",
+      "pron": "bik-KIÉ-re — 'cch' soa 'kk'",
+      "curiosity": "'Tempesta in un bicchiere d'acqua' é nossa tempestade em copo d'água."
+    },
+    "pr09-06": {
+      "word": "la pentola",
+      "translit": null,
+      "example": "La pentola bolle sul fuoco.",
+      "examplePt": "A panela ferve no fogo.",
+      "pron": "PÊN-to-la — força no 'pên'",
+      "curiosity": "'Qualcosa bolle in pentola' é: tem algo sendo tramado."
+    },
+    "pr09-07": {
+      "word": "la tazza",
+      "translit": null,
+      "example": "La tazza di caffè è bollente.",
+      "examplePt": "A xícara de café está fervendo.",
+      "pron": "TÁT-tsa — 'zz' soa 'ts' dobrado",
+      "curiosity": "Vem do árabe, e 'taça' é uma palavra parente."
+    },
+    "pr09-08": {
+      "word": "la ciotola",
+      "translit": null,
+      "example": "La ciotola è piena di cereali.",
+      "examplePt": "A tigela está cheia de cereais.",
+      "pron": "TCHÓ-to-la — 'ci' soa 'tcho'",
+      "curiosity": "Ciotola serve para sopa e também para a comida do cachorro."
+    },
+    "pr10-01": {
+      "word": "la mano",
+      "translit": null,
+      "example": "Ho una mano fredda come il ghiaccio.",
+      "examplePt": "Tenho uma mão fria como o gelo.",
+      "pron": "MÁ-no — o 'o' final é pronunciado",
+      "curiosity": "'Mano' é feminina: la mano, plural le mani."
+    },
+    "pr10-02": {
+      "word": "il piede",
+      "translit": null,
+      "example": "Il piede destro è nella scarpa.",
+      "examplePt": "O pé direito está no sapato.",
+      "pron": "PIÉ-de — 'ie' numa sílaba só",
+      "curiosity": "'Avere i piedi per terra' é ter os pés no chão, ser realista."
+    },
+    "pr10-03": {
+      "word": "l'occhio",
+      "translit": null,
+      "example": "L'occhio sinistro vede una stella.",
+      "examplePt": "O olho esquerdo vê uma estrela.",
+      "pron": "ÓK-kio — 'cchi' soa 'kki'",
+      "curiosity": "'Occhiali' (óculos) nasceu de 'occhio'."
+    },
+    "pr10-04": {
+      "word": "il naso",
+      "translit": null,
+      "example": "Il mio naso sente la pizza!",
+      "examplePt": "Meu nariz sente a pizza!",
+      "pron": "NÁ-zo — o 's' entre vogais soa 'z'",
+      "curiosity": "'Restare con un palmo di naso' é ficar frustrado, como em português."
+    },
+    "pr10-05": {
+      "word": "la bocca",
+      "translit": null,
+      "example": "Apri la bocca e dì A!",
+      "examplePt": "Abra a boca e diga A!",
+      "pron": "BÓK-ka — o 'cc' soa 'kk'",
+      "curiosity": "'Bocca di leone' é a flor boca-de-leão."
+    },
+    "pr10-06": {
+      "word": "l'orecchio",
+      "translit": null,
+      "example": "Il coniglio muove un orecchio lungo.",
+      "examplePt": "O coelho mexe uma orelha comprida.",
+      "pron": "o-RÉK-kio — 'cchi' soa 'kki'",
+      "curiosity": "'Avere orecchio' é ter bom ouvido para música."
+    },
+    "pr10-07": {
+      "word": "la gamba",
+      "translit": null,
+      "example": "La gamba destra salta più in alto.",
+      "examplePt": "A perna direita pula mais alto.",
+      "pron": "GÂM-ba — força no 'gâm'",
+      "curiosity": "'Essere in gamba' é ser esperto, competente."
+    },
+    "pr10-08": {
+      "word": "il dente",
+      "translit": null,
+      "example": "Il dente dondola: arriva la fatina!",
+      "examplePt": "O dente balança: vem a fadinha!",
+      "pron": "DÊN-te — o 'e' final se pronuncia",
+      "curiosity": "Na Itália, 'la fatina dei denti' leva o dentinho de leite."
+    },
+    "pr11-01": {
+      "word": "la maglietta",
+      "translit": null,
+      "example": "Ho messo la maglietta al contrario!",
+      "examplePt": "Coloquei a camiseta do avesso!",
+      "pron": "ma-LHÉT-ta — 'gli' soa 'lh'; 'tt' dobrado",
+      "curiosity": "A 'maglia rosa' é a camisa do líder do Giro d'Italia de ciclismo."
+    },
+    "pr11-02": {
+      "word": "i pantaloni",
+      "translit": null,
+      "example": "I pantaloni nuovi sono troppo lunghi!",
+      "examplePt": "As calças novas estão compridas demais!",
+      "pron": "pan-ta-LÔ-ni — 'o' fechado",
+      "curiosity": "Em italiano 'i pantaloni' é sempre plural, como 'calças'."
+    },
+    "pr11-03": {
+      "word": "la scarpa",
+      "translit": null,
+      "example": "Ho perso una scarpa sulla spiaggia!",
+      "examplePt": "Perdi um sapato na praia!",
+      "pron": "SKÁR-pa — 'sc' antes de 'a' soa 'sk'",
+      "curiosity": "A Itália tem formato de bota, por isso é 'lo Stivale'."
+    },
+    "pr11-04": {
+      "word": "il calzino",
+      "translit": null,
+      "example": "Dov'è l'altro calzino?",
+      "examplePt": "Onde está a outra meia?",
+      "pron": "kal-TSÍ-no — o 'z' soa 'ts'",
+      "curiosity": "A Befana, bruxa boazinha, enche as meias de doces em 6 de janeiro."
+    },
+    "pr11-05": {
+      "word": "il cappotto",
+      "translit": null,
+      "example": "Domani metterò il cappotto pesante.",
+      "examplePt": "Amanhã vou pôr o casaco pesado.",
+      "pron": "kap-PÓT-to — 'pp' e 'tt' dobrados",
+      "curiosity": "'Fare cappotto' é vencer um jogo sem o outro marcar nenhum ponto."
+    },
+    "pr11-06": {
+      "word": "il vestito",
+      "translit": null,
+      "example": "Lei ha comprato un vestito rosso.",
+      "examplePt": "Ela comprou um vestido vermelho.",
+      "pron": "ves-TÍ-to — força no 'tí'",
+      "curiosity": "'Vestito' também é terno ou traje, não só vestido."
+    },
+    "pr11-07": {
+      "word": "i guanti",
+      "translit": null,
+      "example": "Dove ho lasciato i guanti?",
+      "examplePt": "Onde deixei as luvas?",
+      "pron": "GUÂN-ti — o 'gu' soa 'gu', como em 'guarda'",
+      "curiosity": "'Gettare il guanto di sfida' é lançar o desafio, como na Idade Média."
+    },
+    "pr11-08": {
+      "word": "il berretto",
+      "translit": null,
+      "example": "Ha perso il berretto nel vento.",
+      "examplePt": "Ele perdeu o boné no vento.",
+      "pron": "ber-RÉT-to — 'rr' e 'tt' reforçados",
+      "curiosity": "'Berretto' não tem aba; chapéu com aba é 'cappello'."
+    },
+    "pr12-01": {
+      "word": "gli occhiali",
+      "translit": null,
+      "example": "Dove sono i miei occhiali?",
+      "examplePt": "Onde estão meus óculos?",
+      "pron": "ok-KIÁ-li — 'cchi' soa 'kki'",
+      "curiosity": "Os primeiros óculos surgiram na Itália, no fim do século XIII."
+    },
+    "pr12-02": {
+      "word": "la borsa",
+      "translit": null,
+      "example": "Ha dimenticato la borsa sul treno.",
+      "examplePt": "Ela esqueceu a bolsa no trem.",
+      "pron": "BÓR-sa — o 'o' é aberto",
+      "curiosity": "'Borsa' também é a Bolsa de Valores."
+    },
+    "pr12-03": {
+      "word": "l'ombrello",
+      "translit": null,
+      "example": "L'ombrello vola via con il vento!",
+      "examplePt": "O guarda-chuva voa com o vento!",
+      "pron": "om-BRÉL-lo — 'll' dobrado",
+      "curiosity": "Vem de 'ombra', sombra: antes protegia do sol, não da chuva."
+    },
+    "pr12-04": {
+      "word": "l'anello",
+      "translit": null,
+      "example": "Ho trovato un anello nel fango.",
+      "examplePt": "Achei um anel na lama.",
+      "pron": "a-NÉL-lo — 'll' dobrado",
+      "curiosity": "O dedo anular se diz 'anulare', o dedo do anel."
+    },
+    "pr12-05": {
+      "word": "l'orologio",
+      "translit": null,
+      "example": "Domani comprerò un orologio nuovo.",
+      "examplePt": "Amanhã vou comprar um relógio novo.",
+      "pron": "o-ro-LÓ-djo — 'gio' soa 'djo'",
+      "curiosity": "Vem do grego 'horológion': o que diz as horas."
+    },
+    "pr12-06": {
+      "word": "il lucchetto",
+      "translit": null,
+      "example": "Il lucchetto è chiuso, dov'è la chiave?",
+      "examplePt": "O cadeado está fechado, cadê a chave?",
+      "pron": "luk-KÉT-to — 'cch' soa 'kk'",
+      "curiosity": "Cadeados do amor em pontes são proibidos em muitas cidades."
+    },
+    "pr12-07": {
+      "word": "lo zaino",
+      "translit": null,
+      "example": "Lo zaino pesa come un elefante!",
+      "examplePt": "A mochila pesa como um elefante!",
+      "pron": "DZÁ-i-no — 'z' soa 'dz'",
+      "curiosity": "Antes de 'z' usa-se 'lo': lo zaino, lo zucchero."
+    },
+    "pr12-08": {
+      "word": "la torcia",
+      "translit": null,
+      "example": "Una torcia illumina la grotta buia.",
+      "examplePt": "Uma lanterna ilumina a gruta escura.",
+      "pron": "TÓR-tcha — 'cia' soa 'tcha'",
+      "curiosity": "'Torcia olimpica' é a tocha olímpica."
+    },
+    "pr13-01": {
+      "word": "il calcio",
+      "translit": null,
+      "example": "Giochiamo a calcio nel parco?",
+      "examplePt": "Jogamos futebol no parque?",
+      "pron": "KÁL-tcho — 'ci' soa 'tcho'",
+      "curiosity": "'Calcio' também é chute e cálcio, mas no esporte é futebol."
+    },
+    "pr13-02": {
+      "word": "il basket",
+      "translit": null,
+      "example": "Hanno vinto la partita di basket.",
+      "examplePt": "Eles venceram a partida de basquete.",
+      "pron": "BÁS-ket — como em inglês",
+      "curiosity": "O nome formal é 'pallacanestro': bola ao cesto."
+    },
+    "pr13-03": {
+      "word": "il tennis",
+      "translit": null,
+      "example": "Domani giocherò a tennis con papà.",
+      "examplePt": "Amanhã vou jogar tênis com o papai.",
+      "pron": "TÉN-nis — 'nn' dobrado",
+      "curiosity": "Tênis de calçar, em italiano, é 'scarpe da tennis'."
+    },
+    "pr13-04": {
+      "word": "il nuoto",
+      "translit": null,
+      "example": "Dopo il nuoto ho mangiato tre panini!",
+      "examplePt": "Depois da natação comi três sanduíches!",
+      "pron": "NUÓ-to — 'uo' é um ditongo",
+      "curiosity": "'Nuoto sincronizzato' é o nado artístico."
+    },
+    "pr13-05": {
+      "word": "la pallavolo",
+      "translit": null,
+      "example": "Ho schiacciato la palla nella pallavolo.",
+      "examplePt": "Cortei a bola no vôlei.",
+      "pron": "pal-la-VÓ-lo — 'll' dobrado",
+      "curiosity": "É 'palla' (bola) + 'volo' (voo): bola no ar."
+    },
+    "pr13-06": {
+      "word": "il ciclismo",
+      "translit": null,
+      "example": "Domani vedremo una gara di ciclismo.",
+      "examplePt": "Amanhã veremos uma corrida de ciclismo.",
+      "pron": "tchi-KLÍS-mo — 'ci' soa 'tchi'",
+      "curiosity": "A Itália tem o Giro d'Italia, corrida de bicicleta de três semanas."
+    },
+    "pr13-07": {
+      "word": "lo sci",
+      "translit": null,
+      "example": "Quando impari lo sci, cadi tanto!",
+      "examplePt": "Quando você aprende esqui, cai muito!",
+      "pron": "SHI — 'sci' soa 'chi'",
+      "curiosity": "Vem do norueguês 'ski', e no plural fica 'gli sci'."
+    },
+    "pr13-08": {
+      "word": "il baseball",
+      "translit": null,
+      "example": "Ha lanciato la palla di baseball lontano.",
+      "examplePt": "Ele lançou a bola de beisebol longe.",
+      "pron": "BEIZ-bol — como em inglês",
+      "curiosity": "Palavra inglesa que o italiano adotou sem mudar nada."
+    },
+    "pr14-01": {
+      "word": "la bambola",
+      "translit": null,
+      "example": "La mia bambola ha un vestito blu.",
+      "examplePt": "Minha boneca tem um vestido azul.",
+      "pron": "BÂM-bo-la — força no 'bâm'",
+      "curiosity": "Pinocchio, o boneco de madeira, é um 'burattino'."
+    },
+    "pr14-02": {
+      "word": "il palloncino",
+      "translit": null,
+      "example": "Il palloncino vola verso il cielo!",
+      "examplePt": "O balão voa em direção ao céu!",
+      "pron": "pal-lon-TCHÍ-no — 'ci' soa 'tchi'",
+      "curiosity": "É o diminutivo de 'pallone': uma bola pequena e leve."
+    },
+    "pr14-03": {
+      "word": "il puzzle",
+      "translit": null,
+      "example": "Finiamo il puzzle prima di cena?",
+      "examplePt": "Terminamos o quebra-cabeça antes do jantar?",
+      "pron": "PÁ-zol — como em inglês",
+      "curiosity": "'Rompicapo' é literalmente 'quebra-cabeça', mas para enigmas."
+    },
+    "pr14-04": {
+      "word": "l'orsacchiotto",
+      "translit": null,
+      "example": "Ho abbracciato l'orsacchiotto tutta la notte.",
+      "examplePt": "Abracei o ursinho a noite toda.",
+      "pron": "or-sak-KIÓT-to — 'cchio' soa 'kkio'",
+      "curiosity": "Vem de 'orso', urso: é o filhote de urso."
+    },
+    "pr14-05": {
+      "word": "il dado",
+      "translit": null,
+      "example": "Ho tirato il dado: è uscito sei!",
+      "examplePt": "Joguei o dado: saiu seis!",
+      "pron": "DÁ-do — força no 'dá'",
+      "curiosity": "'Il dado è tratto' quer dizer: a sorte está lançada."
+    },
+    "pr14-06": {
+      "word": "la palla",
+      "translit": null,
+      "example": "Chi ha nascosto la palla rossa?",
+      "examplePt": "Quem escondeu a bola vermelha?",
+      "pron": "PÁL-la — 'll' dobrado",
+      "curiosity": "'Palla' está em pallavolo, pallamano, pallanuoto."
+    },
+    "pr14-07": {
+      "word": "i pattini",
+      "translit": null,
+      "example": "Sono caduto con i pattini nuovi.",
+      "examplePt": "Caí com os patins novos.",
+      "pron": "pat-TÍ-ni — 'tt' dobrado",
+      "curiosity": "Os 'pattini' podem ser de rodas ou de gelo."
+    },
+    "pr14-08": {
+      "word": "la giostra",
+      "translit": null,
+      "example": "Ci siamo divertiti sulla giostra!",
+      "examplePt": "Nos divertimos no carrossel!",
+      "pron": "DJÓS-tra — 'gi' soa 'dj'",
+      "curiosity": "Antes de brinquedo, 'giostra' era um torneio de cavaleiros."
+    },
+    "pr15-01": {
+      "word": "la matita",
+      "translit": null,
+      "example": "Ho temperato la matita colorata.",
+      "examplePt": "Apontei o lápis de cor.",
+      "pron": "ma-TÍ-ta — 'ti' é clara",
+      "curiosity": "Vem de 'ematite', um mineral usado para escrever."
+    },
+    "pr15-02": {
+      "word": "la penna",
+      "translit": null,
+      "example": "Mi presti la tua penna blu?",
+      "examplePt": "Você me empresta sua caneta azul?",
+      "pron": "PÊN-na — 'nn' dobrado",
+      "curiosity": "'Penne' (massa) vem da ponta cortada de uma pena de escrever."
+    },
+    "pr15-03": {
+      "word": "il quaderno",
+      "translit": null,
+      "example": "Ho disegnato un drago nel quaderno.",
+      "examplePt": "Desenhei um dragão no caderno.",
+      "pron": "kua-DÉR-no — 'qu' soa 'kua'",
+      "curiosity": "Vem de 'quattro': folhas dobradas em grupos de quatro."
+    },
+    "pr15-04": {
+      "word": "il libro",
+      "translit": null,
+      "example": "Ho letto il libro in un giorno.",
+      "examplePt": "Li o livro em um dia.",
+      "pron": "LÍ-bro — força no 'lí'",
+      "curiosity": "'Liber', em latim, era a casca interna de árvore usada para escrever."
+    },
+    "pr15-05": {
+      "word": "il righello",
+      "translit": null,
+      "example": "Il righello misura trenta centimetri.",
+      "examplePt": "A régua mede trinta centímetros.",
+      "pron": "ri-GÉL-lo — 'gh' soa 'g' duro; 'll' dobrado",
+      "curiosity": "'A righe' é listrado: o righello traça as righe."
+    },
+    "pr15-06": {
+      "word": "le forbici",
+      "translit": null,
+      "example": "Le forbici tagliano la carta velocemente.",
+      "examplePt": "A tesoura corta o papel rápido.",
+      "pron": "FÓR-bi-tchi — 'ci' soa 'tchi'",
+      "curiosity": "'Le forbici' é sempre plural, como 'óculos' em português."
+    },
+    "pr15-07": {
+      "word": "la calcolatrice",
+      "translit": null,
+      "example": "Usiamo la calcolatrice o il cervello?",
+      "examplePt": "Usamos a calculadora ou o cérebro?",
+      "pron": "kal-ko-la-TRÍ-tche — 'ce' soa 'tche'",
+      "curiosity": "'Calcolo' vem de 'calculus', a pedrinha que se usava para contar."
+    },
+    "pr15-08": {
+      "word": "la carta",
+      "translit": null,
+      "example": "Ho piegato la carta in un aereo.",
+      "examplePt": "Dobrei o papel num avião.",
+      "pron": "KÁR-ta — força no 'kár'",
+      "curiosity": "Falso amigo: 'carta' é papel; carta de correspondência é 'lettera'."
+    },
+    "pr16-01": {
+      "word": "il fiume",
+      "translit": null,
+      "example": "Il fiume attraversa la città.",
+      "examplePt": "O rio atravessa a cidade.",
+      "pron": "FIÚ-me — 'iu' numa sílaba só",
+      "curiosity": "'Fiume' desemboca no mar; o riacho de montanha é 'torrente'."
+    },
+    "pr16-02": {
+      "word": "la montagna",
+      "translit": null,
+      "example": "Siamo saliti in cima alla montagna.",
+      "examplePt": "Subimos ao topo da montanha.",
+      "pron": "mon-TÁ-nha — 'gn' soa 'nh'",
+      "curiosity": "Os Apeninos formam a espinha dorsal da Itália."
+    },
+    "pr16-03": {
+      "word": "la spiaggia",
+      "translit": null,
+      "example": "Costruiremo un castello sulla spiaggia.",
+      "examplePt": "Vamos construir um castelo na praia.",
+      "pron": "SPIÁ-dja — 'gg' soa 'dj' dobrado",
+      "curiosity": "Muitas praias italianas são 'stabilimenti': com guarda-sol alugado."
+    },
+    "pr16-04": {
+      "word": "il deserto",
+      "translit": null,
+      "example": "Nel deserto fa caldo di giorno.",
+      "examplePt": "No deserto faz calor de dia.",
+      "pron": "de-ZÉR-to — 's' soa 'z'",
+      "curiosity": "'Strada deserta' é rua vazia: o termo vale para qualquer lugar vazio."
+    },
+    "pr16-05": {
+      "word": "l'isola",
+      "translit": null,
+      "example": "L'isola ha una palma sola.",
+      "examplePt": "A ilha tem uma única palmeira.",
+      "pron": "Í-zo-la — 's' soa 'z'",
+      "curiosity": "Sicília e Sardenha são as duas maiores ilhas italianas."
+    },
+    "pr16-06": {
+      "word": "il vulcano",
+      "translit": null,
+      "example": "Il vulcano ha sputato fuoco ieri.",
+      "examplePt": "O vulcão cuspiu fogo ontem.",
+      "pron": "vul-KÁ-no — 'v' como em 'vaca'",
+      "curiosity": "A Itália tem vulcões ativos: Etna, Vesúvio e Stromboli."
+    },
+    "pr16-07": {
+      "word": "il mare",
+      "translit": null,
+      "example": "Domani nuoteremo nel mare?",
+      "examplePt": "Amanhã vamos nadar no mar?",
+      "pron": "MÁ-re — o 'e' final se fala",
+      "curiosity": "Os romanos chamavam o Mediterrâneo de 'mare nostrum': nosso mar."
+    },
+    "pr16-08": {
+      "word": "la campagna",
+      "translit": null,
+      "example": "Viviamo in campagna con le galline.",
+      "examplePt": "Vivemos no campo com as galinhas.",
+      "pron": "kam-PÁ-nha — 'gn' soa 'nh'",
+      "curiosity": "'Campagna' é campo, mas também campanha publicitária."
+    },
+    "pr17-01": {
+      "word": "la primavera",
+      "translit": null,
+      "example": "In primavera i fiori sbocciano ovunque.",
+      "examplePt": "Na primavera as flores desabrocham por toda parte.",
+      "pron": "pri-ma-VÊ-ra — força no 'vê'",
+      "curiosity": "Vem do latim 'prima' + 'ver': a primeira parte do ano quente."
+    },
+    "pr17-02": {
+      "word": "l'estate",
+      "translit": null,
+      "example": "Quest'estate andremo al mare.",
+      "examplePt": "Neste verão iremos ao mar.",
+      "pron": "es-TÁ-te — o 'e' final se fala",
+      "curiosity": "Falso amigo do inglês: 'estate' lá é propriedade; aqui é verão."
+    },
+    "pr17-03": {
+      "word": "l'autunno",
+      "translit": null,
+      "example": "L'autunno ha colorato le foglie di giallo.",
+      "examplePt": "O outono coloriu as folhas de amarelo.",
+      "pron": "au-TUN-no — 'nn' dobrado",
+      "curiosity": "Na Itália o outono é tempo de castanhas e de vindima."
+    },
+    "pr17-04": {
+      "word": "l'inverno",
+      "translit": null,
+      "example": "L'inverno scorso ha nevicato molto.",
+      "examplePt": "O inverno passado nevou muito.",
+      "pron": "in-VÉR-no — força no 'vér'",
+      "curiosity": "Quando é inverno na Itália, é verão no Brasil!"
+    },
+    "pr17-05": {
+      "word": "la mattina",
+      "translit": null,
+      "example": "Domani mattina partiremo presto.",
+      "examplePt": "Amanhã de manhã partiremos cedo.",
+      "pron": "mat-TÍ-na — 'tt' dobrado",
+      "curiosity": "'Il mattino ha l'oro in bocca': a manhã tem ouro na boca."
+    },
+    "pr17-06": {
+      "word": "la notte",
+      "translit": null,
+      "example": "Ho sognato un drago questa notte.",
+      "examplePt": "Sonhei com um dragão esta noite.",
+      "pron": "NÓT-te — 'tt' dobrado",
+      "curiosity": "'Notte bianca' é a noite em claro com eventos pela cidade."
+    },
+    "pr17-07": {
+      "word": "la settimana",
+      "translit": null,
+      "example": "La prossima settimana sarà divertente?",
+      "examplePt": "A próxima semana será divertida?",
+      "pron": "set-ti-MÁ-na — 'tt' dobrado",
+      "curiosity": "Vem de 'sette': uma semana são sete dias."
+    },
+    "pr17-08": {
+      "word": "il mese",
+      "translit": null,
+      "example": "Quale mese è il più freddo?",
+      "examplePt": "Qual mês é o mais frio?",
+      "pron": "MÊ-ze — 's' entre vogais soa 'z'",
+      "curiosity": "Em italiano, os meses se escrevem com letra minúscula."
+    },
+    "pr18-01": {
+      "word": "grande",
+      "translit": null,
+      "example": "Ho visto un cane grande come un cavallo.",
+      "examplePt": "Vi um cachorro grande como um cavalo.",
+      "pron": "GRÂN-de — o 'e' final se fala",
+      "curiosity": "'Grande' vale para os dois gêneros: un grande, una grande."
+    },
+    "pr18-02": {
+      "word": "piccolo",
+      "translit": null,
+      "example": "Il mio gatto è piccolo ma coraggioso.",
+      "examplePt": "Meu gato é pequeno mas corajoso.",
+      "pron": "PÍK-ko-lo — 'cc' soa 'kk'",
+      "curiosity": "O 'piccolo', flautim, é uma palavra italiana usada em inglês."
+    },
+    "pr18-03": {
+      "word": "lungo",
+      "translit": null,
+      "example": "Che serpente lungo!",
+      "examplePt": "Que cobra comprida!",
+      "pron": "LÚN-go — o 'g' é duro: 'gue'",
+      "curiosity": "'Lungomare' é o calçadão ao longo do mar."
+    },
+    "pr18-04": {
+      "word": "corto",
+      "translit": null,
+      "example": "Il mio taglio di capelli è troppo corto!",
+      "examplePt": "Meu corte de cabelo está curto demais!",
+      "pron": "KÓR-to — o 'o' é aberto",
+      "curiosity": "'Cortometraggio' é curta-metragem."
+    },
+    "pr18-05": {
+      "word": "pesante",
+      "translit": null,
+      "example": "Questa valigia è pesante come una roccia!",
+      "examplePt": "Esta mala é pesada como uma rocha!",
+      "pron": "pe-ZÂN-te — 's' entre vogais soa 'z'",
+      "curiosity": "'Un piatto pesante' é um prato pesado, difícil de digerir."
+    },
+    "pr18-06": {
+      "word": "pieno",
+      "translit": null,
+      "example": "Il mio stomaco è pieno di pasta.",
+      "examplePt": "Minha barriga está cheia de massa.",
+      "pron": "PIÊ-no — 'ie' numa sílaba só",
+      "curiosity": "'Fare il pieno' é encher o tanque do carro."
+    },
+    "pr18-07": {
+      "word": "vuoto",
+      "translit": null,
+      "example": "Chi ha lasciato il pacco vuoto?",
+      "examplePt": "Quem deixou o pacote vazio?",
+      "pron": "VUÓ-to — 'uo' é um ditongo",
+      "curiosity": "'Parlare a vuoto' é falar em vão, falar sozinho."
+    },
+    "pr18-08": {
+      "word": "largo",
+      "translit": null,
+      "example": "Quanto è largo il tuo letto?",
+      "examplePt": "Qual a largura da sua cama?",
+      "pron": "LÁR-go — o 'g' é duro: 'gue'",
+      "curiosity": "Em música, 'largo' é um andamento bem lento e amplo."
+    },
+    "pr19-01": {
+      "word": "caldo",
+      "translit": null,
+      "example": "Oggi fa troppo caldo per studiare!",
+      "examplePt": "Hoje está quente demais para estudar!",
+      "pron": "KAL-do — força no 'kal'",
+      "curiosity": "Falso amigo: 'caldo' é quente; o caldo de sopa é 'brodo'."
+    },
+    "pr19-02": {
+      "word": "freddo",
+      "translit": null,
+      "example": "Ieri faceva freddo, ma ho nuotato.",
+      "examplePt": "Ontem fazia frio, mas eu nadei.",
+      "pron": "FRÉD-do — 'dd' dobrado",
+      "curiosity": "Diz-se 'ho freddo' (tenho frio), com o verbo avere."
+    },
+    "pr19-03": {
+      "word": "nuovo",
+      "translit": null,
+      "example": "Ho comprato un telefono nuovo ieri.",
+      "examplePt": "Comprei um telefone novo ontem.",
+      "pron": "NUÓ-vo — 'uo' é um ditongo",
+      "curiosity": "'Che c'è di nuovo?' é o 'e aí, alguma novidade?'."
+    },
+    "pr19-04": {
+      "word": "vecchio",
+      "translit": null,
+      "example": "Il castello è vecchio e misterioso.",
+      "examplePt": "O castelo é velho e misterioso.",
+      "pron": "VÉK-kio — 'cch' soa 'kk'",
+      "curiosity": "A Ponte Vecchio, em Florença, significa 'ponte velha' e tem joalherias."
+    },
+    "pr19-05": {
+      "word": "veloce",
+      "translit": null,
+      "example": "Ha corso veloce come il vento.",
+      "examplePt": "Ele correu veloz como o vento.",
+      "pron": "ve-LÔ-tche — 'ce' soa 'tche'",
+      "curiosity": "'Veloce' e 'velocidade' vêm do latim 'velox'."
+    },
+    "pr19-06": {
+      "word": "lento",
+      "translit": null,
+      "example": "Il bradipo è lento, ma felice.",
+      "examplePt": "A preguiça é lenta, mas feliz.",
+      "pron": "LÊN-to — o 'e' é fechado",
+      "curiosity": "'Piano piano' é um jeito italiano de dizer devagarinho."
+    },
+    "pr19-07": {
+      "word": "pulito",
+      "translit": null,
+      "example": "Ho lavato i piatti: ora è tutto pulito!",
+      "examplePt": "Lavei os pratos: agora está tudo limpo!",
+      "pron": "pu-LÍ-to — força no 'lí'",
+      "curiosity": "'Fare le pulizie' é fazer a faxina."
+    },
+    "pr19-08": {
+      "word": "sporco",
+      "translit": null,
+      "example": "Il cane è tornato sporco di fango.",
+      "examplePt": "O cachorro voltou sujo de lama.",
+      "pron": "SPÓR-ko — o 'o' é aberto",
+      "curiosity": "No plural vira 'sporchi': o 'c' ganha um 'h' para manter o som 'k'."
+    },
+    "pr20-01": {
+      "word": "grigio",
+      "translit": null,
+      "example": "Il cielo era grigio ieri.",
+      "examplePt": "O céu estava cinza ontem.",
+      "pron": "GRÍ-djo — 'gi' soa 'dj'",
+      "curiosity": "'Materia grigia' é a massa cinzenta, a inteligência."
+    },
+    "pr20-02": {
+      "word": "dorato",
+      "translit": null,
+      "example": "Il sole dorato scende sul mare.",
+      "examplePt": "O sol dourado desce sobre o mar.",
+      "pron": "do-RÁ-to — força no 'rá'",
+      "curiosity": "Na cozinha, 'dorare' é dourar: fritar até ficar dourado."
+    },
+    "pr20-03": {
+      "word": "argentato",
+      "translit": null,
+      "example": "La luna argentata illumina il lago.",
+      "examplePt": "A lua prateada ilumina o lago.",
+      "pron": "ar-djen-TÁ-to — 'ge' soa 'dje'",
+      "curiosity": "'Argento' é prata, e 'Argentina' significa terra da prata."
+    },
+    "pr20-04": {
+      "word": "beige",
+      "translit": null,
+      "example": "Il suo cappotto beige sembra un biscotto!",
+      "examplePt": "O casaco bege dele parece um biscoito!",
+      "pron": "BÊJ — como em francês",
+      "curiosity": "O italiano pegou 'beige' do francês e não mudou nada."
+    },
+    "pr20-05": {
+      "word": "turchese",
+      "translit": null,
+      "example": "Il mare turchese è trasparente.",
+      "examplePt": "O mar turquesa é transparente.",
+      "pron": "tur-KÊ-ze — 'ch' soa 'k'",
+      "curiosity": "A pedra chegou à Europa pela Turquia: daí 'turchese'."
+    },
+    "pr20-06": {
+      "word": "lilla",
+      "translit": null,
+      "example": "La lavanda è lilla e profumata.",
+      "examplePt": "A lavanda é lilás e perfumada.",
+      "pron": "LÍL-la — 'll' dobrado",
+      "curiosity": "A flor lilás também se chama 'lillà', com acento no fim."
+    },
+    "pr20-07": {
+      "word": "blu marino",
+      "translit": null,
+      "example": "La divisa blu marino è elegante.",
+      "examplePt": "O uniforme azul-marinho é elegante.",
+      "pron": "BLU ma-RÍ-no — força no 'rí'",
+      "curiosity": "A seleção italiana é chamada 'gli Azzurri', os azuis."
+    },
+    "pr20-08": {
+      "word": "colorato",
+      "translit": null,
+      "example": "Il pappagallo colorato canta al sole.",
+      "examplePt": "O papagaio colorido canta ao sol.",
+      "pron": "ko-lo-RÁ-to — força no 'rá'",
+      "curiosity": "Filme colorido é 'a colori'; em preto e branco é 'in bianco e nero'."
+    },
+    "pr21-01": {
+      "word": "la chitarra",
+      "translit": null,
+      "example": "Se avessi una chitarra, suonerei ogni sera.",
+      "examplePt": "Se eu tivesse um violão, tocaria toda noite.",
+      "pron": "ki-TÁR-ra — 'ch' soa 'k'; 'rr' reforçado",
+      "curiosity": "'Spaghetti alla chitarra' são feitos com um cortador de cordas, como um violão."
+    },
+    "pr21-02": {
+      "word": "il pianoforte",
+      "translit": null,
+      "example": "Mentre studiavo, il vicino suonava il pianoforte.",
+      "examplePt": "Enquanto eu estudava, o vizinho tocava piano.",
+      "pron": "pia-no-FÓR-te — força no 'fór'",
+      "curiosity": "O nome completo quer dizer 'suave-forte': toca baixo e alto."
+    },
+    "pr21-03": {
+      "word": "la batteria",
+      "translit": null,
+      "example": "Il rumore della batteria mi ha svegliato!",
+      "examplePt": "O barulho da bateria me acordou!",
+      "pron": "bat-te-RÍ-a — 'tt' dobrado",
+      "curiosity": "'Batteria' também é a bateria do celular e do carro."
+    },
+    "pr21-04": {
+      "word": "il violino",
+      "translit": null,
+      "example": "Voglio che tu impari a suonare il violino.",
+      "examplePt": "Quero que você aprenda a tocar violino.",
+      "pron": "vi-o-LÍ-no — força no 'lí'",
+      "curiosity": "Cremona, na Itália, é famosa pelos luthiers que fazem violinos."
+    },
+    "pr21-05": {
+      "word": "la tromba",
+      "translit": null,
+      "example": "La tromba ha svegliato tutto il quartiere.",
+      "examplePt": "A trombeta acordou o bairro inteiro.",
+      "pron": "TRÔM-ba — o 'o' é fechado",
+      "curiosity": "'Tromba d'aria' é um tornado ou redemoinho de vento."
+    },
+    "pr21-06": {
+      "word": "il flauto",
+      "translit": null,
+      "example": "Se suono il flauto, i serpenti ballano?",
+      "examplePt": "Se eu tocar flauta, as cobras dançam?",
+      "pron": "FLAU-to — 'au' como 'aw'",
+      "curiosity": "'Flauto dolce' é a flauta doce que se aprende na escola."
+    },
+    "pr21-07": {
+      "word": "il sassofono",
+      "translit": null,
+      "example": "Il sassofono suona dolce nella notte.",
+      "examplePt": "O saxofone soa doce na noite.",
+      "pron": "sas-SÓ-fo-no — 'ss' dobrado",
+      "curiosity": "Embora seja de metal, o saxofone faz parte da família das palhetas."
+    },
+    "pr21-08": {
+      "word": "la fisarmonica",
+      "translit": null,
+      "example": "La fisarmonica sembra respirare mentre suona.",
+      "examplePt": "O acordeão parece respirar enquanto toca.",
+      "pron": "fi-zar-MÓ-ni-ka — 's' soa 'z'",
+      "curiosity": "A fisarmonica produz som com ar que passa por palhetas, empurrado por um fole."
+    },
+    "pr22-01": {
+      "word": "il martello",
+      "translit": null,
+      "example": "Ho battuto il martello sul dito!",
+      "examplePt": "Bati o martelo no dedo!",
+      "pron": "mar-TÉL-lo — 'll' dobrado",
+      "curiosity": "O 'pesce martello' é o tubarão-martelo."
+    },
+    "pr22-02": {
+      "word": "il trapano",
+      "translit": null,
+      "example": "Il trapano fa un rumore infernale.",
+      "examplePt": "A furadeira faz um barulho infernal.",
+      "pron": "TRÁ-pa-no — força no 'trá'",
+      "curiosity": "O 'trapano del dentista' é a broquinha que faz tanto medo."
+    },
+    "pr22-03": {
+      "word": "la vite",
+      "translit": null,
+      "example": "Ho perso una vite della sedia.",
+      "examplePt": "Perdi um parafuso da cadeira.",
+      "pron": "VÍ-te — o 'e' final se fala",
+      "curiosity": "Atenção: 'la vite' também é a videira, a planta da uva!"
+    },
+    "pr22-04": {
+      "word": "la scala",
+      "translit": null,
+      "example": "Se salirai sulla scala, tieniti forte.",
+      "examplePt": "Se você subir na escada, segure firme.",
+      "pron": "SKÁ-la — 'sc' antes de 'a' soa 'sk'",
+      "curiosity": "'Scala' também é escala musical e escala de mapa."
+    },
+    "pr22-05": {
+      "word": "il pennello",
+      "translit": null,
+      "example": "Il pennello ha dipinto tutta la porta.",
+      "examplePt": "O pincel pintou a porta toda.",
+      "pron": "pen-NÉL-lo — 'nn' e 'll' dobrados",
+      "curiosity": "'Calzare a pennello' é servir perfeitamente."
+    },
+    "pr22-06": {
+      "word": "la corda",
+      "translit": null,
+      "example": "La corda si è rotta all'improvviso.",
+      "examplePt": "A corda arrebentou de repente.",
+      "pron": "KÓR-da — o 'o' é aberto",
+      "curiosity": "'Tagliare la corda' é escapulir, sumir de fininho."
+    },
+    "pr22-07": {
+      "word": "la calamita",
+      "translit": null,
+      "example": "La calamita attacca le chiavi al frigo.",
+      "examplePt": "O ímã prende as chaves na geladeira.",
+      "pron": "ka-la-MÍ-ta — força no 'mí', sem acento no 'a'",
+      "curiosity": "Atenção: 'calamità' (com acento) é desastre; 'calamita' é ímã."
+    },
+    "pr22-08": {
+      "word": "il secchio",
+      "translit": null,
+      "example": "Il secchio è pieno di sabbia bagnata.",
+      "examplePt": "O balde está cheio de areia molhada.",
+      "pron": "SÉK-kio — 'cch' soa 'kk'",
+      "curiosity": "O baldinho da praia é o 'secchiello'."
+    },
+    "pr23-01": {
+      "word": "il computer",
+      "translit": null,
+      "example": "Il mio computer si è bloccato di nuovo.",
+      "examplePt": "Meu computador travou de novo.",
+      "pron": "kom-PIÚ-ter — pronúncia à inglesa",
+      "curiosity": "O nome formal em italiano é 'elaboratore', quase ninguém usa."
+    },
+    "pr23-02": {
+      "word": "il cellulare",
+      "translit": null,
+      "example": "Il cellulare è sempre più piccolo!",
+      "examplePt": "O celular está cada vez menor!",
+      "pron": "tchel-lu-LÁ-re — 'ce' soa 'tche'; 'll' dobrado",
+      "curiosity": "Os italianos chamam o celular carinhosamente de 'telefonino'."
+    },
+    "pr23-03": {
+      "word": "la tastiera",
+      "translit": null,
+      "example": "La tastiera ha perso la lettera A.",
+      "examplePt": "O teclado perdeu a letra A.",
+      "pron": "tas-TIÉ-ra — força no 'tié'",
+      "curiosity": "'Tastiera' também é o teclado do piano e do sintetizador."
+    },
+    "pr23-04": {
+      "word": "la fotocamera",
+      "translit": null,
+      "example": "Ho dimenticato la fotocamera a casa!",
+      "examplePt": "Esqueci a câmera em casa!",
+      "pron": "fo-to-KÁ-me-ra — força no 'ká'",
+      "curiosity": "A 'camera obscura' (câmara escura) foi a avó da câmera fotográfica."
+    },
+    "pr23-05": {
+      "word": "le cuffie",
+      "translit": null,
+      "example": "Con le cuffie non sento il mondo.",
+      "examplePt": "Com o fone não ouço o mundo.",
+      "pron": "KUF-fie — 'ff' dobrado",
+      "curiosity": "A 'cuffia' é também a touca de piscina."
+    },
+    "pr23-06": {
+      "word": "la stampante",
+      "translit": null,
+      "example": "Se la stampante si inceppa, urlo.",
+      "examplePt": "Se a impressora emperrar, eu grito.",
+      "pron": "stam-PÂN-te — força no 'pân'",
+      "curiosity": "Vem de 'stampare', imprimir, parente de 'estampa'."
+    },
+    "pr23-07": {
+      "word": "il robot",
+      "translit": null,
+      "example": "Il robot ha preparato la colazione?",
+      "examplePt": "O robô preparou o café da manhã?",
+      "pron": "RÓ-bot — o 't' final é pronunciado",
+      "curiosity": "'Robot' vem do tcheco 'robota', que quer dizer trabalho forçado."
+    },
+    "pr23-08": {
+      "word": "il caricabatterie",
+      "translit": null,
+      "example": "Ho dimenticato il caricabatterie in treno.",
+      "examplePt": "Esqueci o carregador no trem.",
+      "pron": "ka-ri-ka-bat-te-RÍ-e — 'tt' dobrado",
+      "curiosity": "É 'carica' (carga) + 'batterie': uma palavra composta gigante."
+    },
+    "pr24-01": {
+      "word": "il cervello",
+      "translit": null,
+      "example": "Il cervello funziona anche mentre dormiamo.",
+      "examplePt": "O cérebro funciona mesmo enquanto dormimos.",
+      "pron": "tcher-VÉL-lo — 'ce' soa 'tche'",
+      "curiosity": "'Fuga di cervelli' é a fuga de cérebros: talentos que emigram."
+    },
+    "pr24-02": {
+      "word": "l'osso",
+      "translit": null,
+      "example": "Il cane ha sepolto un osso gigante.",
+      "examplePt": "O cachorro enterrou um osso gigante.",
+      "pron": "ÓS-so — 'ss' dobrado",
+      "curiosity": "Plural esquisito: os ossos do corpo são 'le ossa', no feminino."
+    },
+    "pr24-03": {
+      "word": "il muscolo",
+      "translit": null,
+      "example": "Ho allenato ogni muscolo per mesi.",
+      "examplePt": "Treinei cada músculo por meses.",
+      "pron": "MÚS-ko-lo — 'sc' antes de 'o' soa 'sk'",
+      "curiosity": "Vem do latim 'musculus', ratinho: o músculo parece um rato sob a pele."
+    },
+    "pr24-04": {
+      "word": "i capelli",
+      "translit": null,
+      "example": "I capelli di mia nonna sono bianchi come la neve.",
+      "examplePt": "Os cabelos da minha avó são brancos como a neve.",
+      "pron": "ka-PÉL-li — 'll' dobrado",
+      "curiosity": "'I capelli' é plural; um único fio é 'un capello'."
+    },
+    "pr24-05": {
+      "word": "l'unghia",
+      "translit": null,
+      "example": "Ogni unghia ha un colore diverso: wow!",
+      "examplePt": "Cada unha tem uma cor diferente: uau!",
+      "pron": "ÚN-guia — 'gh' não aparece; 'ngia' soa 'ngua'",
+      "curiosity": "'Con le unghie e con i denti' é com unhas e dentes."
+    },
+    "pr24-06": {
+      "word": "il ginocchio",
+      "translit": null,
+      "example": "Mi sono sbucciato il ginocchio cadendo.",
+      "examplePt": "Ralei o joelho ao cair.",
+      "pron": "dji-NÓK-kio — 'gi' soa 'dj'; 'cch' soa 'kk'",
+      "curiosity": "Tem dois plurais: i ginocchi e le ginocchia."
+    },
+    "pr24-07": {
+      "word": "il dito",
+      "translit": null,
+      "example": "Mi sono fatto male al dito.",
+      "examplePt": "Machuquei o dedo.",
+      "pron": "DÍ-to — força no 'dí'",
+      "curiosity": "'Mettere il dito nella piaga' é cutucar a ferida."
+    },
+    "pr24-08": {
+      "word": "il polmone",
+      "translit": null,
+      "example": "Il polmone si riempie d'aria quando ridi.",
+      "examplePt": "O pulmão se enche de ar quando você ri.",
+      "pron": "pol-MÔ-ne — \"ô\" fechado; o \"e\" final soa \"e\", curtinho (não vira \"i\")",
+      "curiosity": "\"Polmone\" dá \"polmonite\" (pneumonia): é só trocar o final da palavra!"
+    },
+    "pr25-01": {
+      "word": "il vaccino",
+      "translit": null,
+      "example": "Il vaccino ci protegge dalle malattie.",
+      "examplePt": "A vacina nos protege das doenças.",
+      "pron": "vat-TCHÍ-no — 'cci' soa 'tch' dobrado",
+      "curiosity": "Vem de 'vacca', vaca: a primeira vacina usou a varíola das vacas."
+    },
+    "pr25-02": {
+      "word": "il termometro",
+      "translit": null,
+      "example": "Il termometro segna trentotto gradi.",
+      "examplePt": "O termômetro marca trinta e oito graus.",
+      "pron": "ter-MÓ-me-tro — força no 'mó'",
+      "curiosity": "É 'termo' (calor) + 'metro' (medida), tudo do grego."
+    },
+    "pr25-03": {
+      "word": "il cerotto",
+      "translit": null,
+      "example": "Il cerotto con i dinosauri è il migliore!",
+      "examplePt": "O curativo de dinossauros é o melhor!",
+      "pron": "tche-RÓT-to — 'ce' soa 'tche'; 'tt' dobrado",
+      "curiosity": "Vem de 'cera': antigamente os curativos eram de cera."
+    },
+    "pr25-04": {
+      "word": "l'influenza",
+      "translit": null,
+      "example": "Quest'inverno tutta la classe ha preso l'influenza.",
+      "examplePt": "Neste inverno a classe toda pegou gripe.",
+      "pron": "in-flu-ÊN-tsa — 'z' soa 'ts'",
+      "curiosity": "'Influenza' veio do italiano: antes se culpava a influência dos astros."
+    },
+    "pr25-05": {
+      "word": "la tosse",
+      "translit": null,
+      "example": "Lo sciroppo per la tosse sa di fragola.",
+      "examplePt": "O xarope para tosse tem gosto de morango.",
+      "pron": "TÓS-se — 'ss' dobrado",
+      "curiosity": "'Sciroppo' é xarope; a palavra vem do árabe."
+    },
+    "pr25-06": {
+      "word": "il dolore",
+      "translit": null,
+      "example": "Ho un dolore forte alla schiena.",
+      "examplePt": "Tenho uma dor forte nas costas.",
+      "pron": "do-LÔ-re — o 'o' é fechado",
+      "curiosity": "Dor de cabeça é 'mal di testa': literalmente 'mal de cabeça'."
+    },
+    "pr25-07": {
+      "word": "le stampelle",
+      "translit": null,
+      "example": "Dopo la caduta, ho usato le stampelle.",
+      "examplePt": "Depois da queda, usei as muletas.",
+      "pron": "stam-PÉL-le — 'll' dobrado",
+      "curiosity": "'Stampella' também é o cabide de roupa."
+    },
+    "pr25-08": {
+      "word": "lo stetoscopio",
+      "translit": null,
+      "example": "Il dottore ascolta il cuore con lo stetoscopio.",
+      "examplePt": "O médico ouve o coração com o estetoscópio.",
+      "pron": "ste-tos-KÓ-pio — o 'sc' soa 'sk'",
+      "curiosity": "Vem do grego: 'stethos' (peito) e 'skopein' (observar)."
+    },
+    "pr26-01": {
+      "word": "i soldi",
+      "translit": null,
+      "example": "Se avessi più soldi, viaggerei molto.",
+      "examplePt": "Se eu tivesse mais dinheiro, viajaria muito.",
+      "pron": "SÓL-di — o 'o' é aberto",
+      "curiosity": "Vem de 'solidus', moeda romana; também deu 'soldado': o pago com ela."
+    },
+    "pr26-02": {
+      "word": "la moneta",
+      "translit": null,
+      "example": "Ho trovato una moneta sotto il divano.",
+      "examplePt": "Achei uma moeda debaixo do sofá.",
+      "pron": "mo-NÊ-ta — força no 'nê'",
+      "curiosity": "'Hai moneta?' quer dizer: você tem trocado?"
+    },
+    "pr26-03": {
+      "word": "la carta di credito",
+      "translit": null,
+      "example": "Ho pagato con la carta di credito.",
+      "examplePt": "Paguei com o cartão de crédito.",
+      "pron": "KÁR-ta di KRÉ-di-to — 'di' é átono",
+      "curiosity": "'Credito' vem de 'credere', acreditar: crédito é confiança."
+    },
+    "pr26-04": {
+      "word": "il portafoglio",
+      "translit": null,
+      "example": "Un ladro ha rubato il mio portafoglio?",
+      "examplePt": "Um ladrão roubou minha carteira?",
+      "pron": "por-ta-FÓ-lho — 'gli' soa 'lh'",
+      "curiosity": "É 'porta' + 'foglio': quem leva folhas, as cédulas."
+    },
+    "pr26-05": {
+      "word": "il prezzo",
+      "translit": null,
+      "example": "Qual è il prezzo di questo palloncino?",
+      "examplePt": "Qual é o preço deste balão?",
+      "pron": "PRÉT-tso — 'zz' soa 'ts' dobrado",
+      "curiosity": "'Prezzo' e 'prezioso' (precioso) são da mesma família."
+    },
+    "pr26-06": {
+      "word": "il salvadanaio",
+      "translit": null,
+      "example": "Ho rotto il salvadanaio per comprare un regalo.",
+      "examplePt": "Quebrei o cofrinho para comprar um presente.",
+      "pron": "sal-va-da-NÁ-io — força no 'ná'",
+      "curiosity": "Literalmente 'salva-dinheiro': 'danaio' é um nome antigo de dinheiro."
+    },
+    "pr26-07": {
+      "word": "lo sconto",
+      "translit": null,
+      "example": "Con lo sconto, costa la metà!",
+      "examplePt": "Com o desconto, custa a metade!",
+      "pron": "SKÔN-to — 'sc' antes de 'o' soa 'sk'",
+      "curiosity": "'I saldi' são as grandes liquidações de estação na Itália."
+    },
+    "pr26-08": {
+      "word": "lo scontrino",
+      "translit": null,
+      "example": "Senza lo scontrino non posso cambiare.",
+      "examplePt": "Sem o recibo não posso trocar.",
+      "pron": "skon-TRÍ-no — 'sc' soa 'sk'",
+      "curiosity": "Na Itália, as lojas devem entregar o 'scontrino' fiscal."
+    },
+    "pr27-01": {
+      "word": "lo studente",
+      "translit": null,
+      "example": "Lo studente ha dimenticato i compiti!",
+      "examplePt": "O aluno esqueceu a lição de casa!",
+      "pron": "stu-DÊN-te — 'st' no início, sem 'i' antes",
+      "curiosity": "A forma feminina é 'la studentessa'."
+    },
+    "pr27-02": {
+      "word": "la lezione",
+      "translit": null,
+      "example": "La lezione di oggi era noiosa?",
+      "examplePt": "A aula de hoje foi chata?",
+      "pron": "let-ZIÔ-ne — 'z' soa 'ts'",
+      "curiosity": "Vem do latim 'lectio', que quer dizer leitura."
+    },
+    "pr27-03": {
+      "word": "la verifica",
+      "translit": null,
+      "example": "Domani avremo la verifica di storia.",
+      "examplePt": "Amanhã teremos a prova de história.",
+      "pron": "ve-RÍ-fi-ka — força no 'rí'",
+      "curiosity": "Na escola italiana, a 'verifica' é a prova escrita e a 'interrogazione' é a oral."
+    },
+    "pr27-04": {
+      "word": "la lavagna",
+      "translit": null,
+      "example": "Il professore scrive sulla lavagna nera.",
+      "examplePt": "O professor escreve na lousa preta.",
+      "pron": "la-VÁ-nha — 'gn' soa 'nh'",
+      "curiosity": "'Lavagna' também é ardósia, a pedra de que se faziam os quadros."
+    },
+    "pr27-05": {
+      "word": "il dizionario",
+      "translit": null,
+      "example": "Cerco la parola nel dizionario.",
+      "examplePt": "Procuro a palavra no dicionário.",
+      "pron": "dit-tsio-NÁ-rio — 'z' soa 'ts'",
+      "curiosity": "'Vocabolario' também significa dicionário em italiano."
+    },
+    "pr27-06": {
+      "word": "il diploma",
+      "translit": null,
+      "example": "Dopo cinque anni ricevi il diploma.",
+      "examplePt": "Depois de cinco anos você recebe o diploma.",
+      "pron": "di-PLÔ-ma — força no 'plô'",
+      "curiosity": "Vem do grego: um papel dobrado em dois."
+    },
+    "pr27-07": {
+      "word": "la matematica",
+      "translit": null,
+      "example": "La matematica può essere un gioco!",
+      "examplePt": "A matemática pode ser um jogo!",
+      "pron": "ma-te-MÁ-ti-ka — força no 'má'",
+      "curiosity": "Vem do grego 'mathema': aprendizado, conhecimento."
+    },
+    "pr27-08": {
+      "word": "la scienza",
+      "translit": null,
+      "example": "La scienza spiega perché il cielo è blu.",
+      "examplePt": "A ciência explica por que o céu é azul.",
+      "pron": "SHEN-tsa — 'sci' soa 'ch'; 'z' soa 'ts'",
+      "curiosity": "Vem de 'scire', que significa saber."
+    },
+    "pr28-01": {
+      "word": "la pittura",
+      "translit": null,
+      "example": "Questa pittura mi ricorda un sogno strano.",
+      "examplePt": "Esta pintura me lembra um sonho estranho.",
+      "pron": "pit-TÚ-ra — 'tt' dobrado",
+      "curiosity": "'Pittura' também é a tinta de parede, além da arte."
+    },
+    "pr28-02": {
+      "word": "il disegno",
+      "translit": null,
+      "example": "Il mio disegno rappresenta un gatto volante.",
+      "examplePt": "Meu desenho representa um gato voador.",
+      "pron": "di-ZÊ-nho — 's' soa 'z'; 'gn' soa 'nh'",
+      "curiosity": "'Disegno industriale' é o nome italiano do design industrial."
+    },
+    "pr28-03": {
+      "word": "la scultura",
+      "translit": null,
+      "example": "La scultura di marmo sembra quasi viva.",
+      "examplePt": "A escultura de mármore parece quase viva.",
+      "pron": "skul-TÚ-ra — 'sc' antes de 'u' soa 'sk'",
+      "curiosity": "A Itália é famosa pelo mármore branco da região de Carrara."
+    },
+    "pr28-04": {
+      "word": "il teatro",
+      "translit": null,
+      "example": "Stasera andremo a teatro con la nonna.",
+      "examplePt": "Hoje à noite iremos ao teatro com a vovó.",
+      "pron": "te-Á-tro — 'ea' em duas sílabas",
+      "curiosity": "Vem do grego 'theatron': lugar de olhar."
+    },
+    "pr28-05": {
+      "word": "la musica",
+      "translit": null,
+      "example": "Se la musica parte, nessuno resta seduto!",
+      "examplePt": "Se a música começa, ninguém fica sentado!",
+      "pron": "MÚ-zi-ka — 's' soa 'z'",
+      "curiosity": "Muitos termos musicais do mundo são italianos: piano, forte, allegro."
+    },
+    "pr28-06": {
+      "word": "la danza",
+      "translit": null,
+      "example": "Hai mai provato la danza classica?",
+      "examplePt": "Você já experimentou balé clássico?",
+      "pron": "DÂN-tsa — 'z' soa 'ts'",
+      "curiosity": "A tarantella é uma dança rápida do sul da Itália."
+    },
+    "pr28-07": {
+      "word": "il film",
+      "translit": null,
+      "example": "Abbiamo visto un film sui dinosauri.",
+      "examplePt": "Vimos um filme sobre dinossauros.",
+      "pron": "FILM — 'l' e 'm' juntos, numa sílaba só",
+      "curiosity": "Plural: 'i film' não muda de forma."
+    },
+    "pr28-08": {
+      "word": "la poesia",
+      "translit": null,
+      "example": "Ho imparato una poesia sul mare a memoria.",
+      "examplePt": "Decorei um poema sobre o mar.",
+      "pron": "po-e-ZÍ-a — 'ia' em duas sílabas, tônica no 'zí'",
+      "curiosity": "Vem do grego 'poiesis', que significa criação."
+    },
+    "pr29-01": {
+      "word": "il pianeta",
+      "translit": null,
+      "example": "Un pianeta lontano potrebbe avere oceani blu.",
+      "examplePt": "Um planeta distante poderia ter oceanos azuis.",
+      "pron": "pia-NÊ-ta — força no 'nê'",
+      "curiosity": "Vem do grego e quer dizer 'errante': os planetas parecem vagar no céu."
+    },
+    "pr29-02": {
+      "word": "il razzo",
+      "translit": null,
+      "example": "Il razzo è decollato in pochi secondi.",
+      "examplePt": "O foguete decolou em poucos segundos.",
+      "pron": "RÁT-tso — 'zz' soa 'ts' dobrado",
+      "curiosity": "'Razzo' também é o rojão de fogos de artifício."
+    },
+    "pr29-03": {
+      "word": "l'astronauta",
+      "translit": null,
+      "example": "Un astronauta galleggia come un palloncino!",
+      "examplePt": "Um astronauta flutua como um balão!",
+      "pron": "as-tro-NAU-ta — 'au' como 'aw'",
+      "curiosity": "Termina em 'a' mas serve para os dois gêneros: un astronauta, un'astronauta."
+    },
+    "pr29-04": {
+      "word": "il telescopio",
+      "translit": null,
+      "example": "Con il telescopio vedremo i crateri della luna.",
+      "examplePt": "Com o telescópio veremos as crateras da lua.",
+      "pron": "te-les-KÓ-pio — 'sc' soa 'sk'",
+      "curiosity": "'Tele-' quer dizer longe: telescopio, televisione, telefono."
+    },
+    "pr29-05": {
+      "word": "la galassia",
+      "translit": null,
+      "example": "La nostra galassia contiene miliardi di stelle.",
+      "examplePt": "Nossa galáxia contém bilhões de estrelas.",
+      "pron": "ga-LÁS-sia — 'ss' dobrado",
+      "curiosity": "Vem do grego 'gala', leite: em italiano a Via Láctea é 'Via Lattea'."
+    },
+    "pr29-06": {
+      "word": "la cometa",
+      "translit": null,
+      "example": "La cometa ha lasciato una coda luminosa.",
+      "examplePt": "O cometa deixou uma cauda luminosa.",
+      "pron": "ko-MÊ-ta — força no 'mê'",
+      "curiosity": "Armadilha de gênero: em italiano é 'la cometa'; em português é 'o cometa'."
+    },
+    "pr29-07": {
+      "word": "il satellite",
+      "translit": null,
+      "example": "Il satellite ci mostra la mappa del mondo.",
+      "examplePt": "O satélite nos mostra o mapa do mundo.",
+      "pron": "sa-TÉL-li-te — 'll' dobrado",
+      "curiosity": "Vem do latim 'satelles': acompanhante, guarda-costas."
+    },
+    "pr29-08": {
+      "word": "l'eclissi",
+      "translit": null,
+      "example": "L'eclissi ha oscurato il sole per due minuti.",
+      "examplePt": "O eclipse escureceu o sol por dois minutos.",
+      "pron": "e-KLÍS-si — 'ss' dobrado",
+      "curiosity": "Armadilha: 'l'eclissi' é feminino em italiano, e o plural não muda."
+    },
+    "pr30-01": {
+      "word": "la spazzatura",
+      "translit": null,
+      "example": "Perché c'è tanta spazzatura nel fiume?",
+      "examplePt": "Por que há tanto lixo no rio?",
+      "pron": "spat-tsa-TÚ-ra — 'zz' soa 'ts' dobrado",
+      "curiosity": "'Spazzare' é varrer: spazzatura é o que se varre."
+    },
+    "pr30-02": {
+      "word": "il riciclaggio",
+      "translit": null,
+      "example": "Il riciclaggio salva milioni di bottiglie ogni anno.",
+      "examplePt": "A reciclagem salva milhões de garrafas por ano.",
+      "pron": "ri-tchi-KLÁ-djo — 'ci' soa 'tchi'; 'gg' soa 'dj'",
+      "curiosity": "Na Itália o lixo é separado: 'la raccolta differenziata'."
+    },
+    "pr30-03": {
+      "word": "l'energia",
+      "translit": null,
+      "example": "L'energia pulita arriva dal vento e dal sole.",
+      "examplePt": "A energia limpa vem do vento e do sol.",
+      "pron": "e-ner-DJÍ-a — 'gi' soa 'dj'",
+      "curiosity": "Vem do grego 'energeia': atividade, força em ação."
+    },
+    "pr30-04": {
+      "word": "l'inquinamento",
+      "translit": null,
+      "example": "L'inquinamento rende l'aria grigia sopra la città.",
+      "examplePt": "A poluição deixa o ar cinza sobre a cidade.",
+      "pron": "in-kui-na-MÊN-to — 'qui' soa 'kui'",
+      "curiosity": "'Inquinamento acustico' é poluição sonora."
+    },
+    "pr30-05": {
+      "word": "il petrolio",
+      "translit": null,
+      "example": "Il petrolio viene dal fondo della terra.",
+      "examplePt": "O petróleo vem do fundo da terra.",
+      "pron": "pe-TRÓ-lio — força no 'tró'",
+      "curiosity": "Vem de 'petra' (pedra) + 'oleum' (óleo): óleo de pedra."
+    },
+    "pr30-06": {
+      "word": "il pannello solare",
+      "translit": null,
+      "example": "Un pannello solare trasforma la luce in elettricità.",
+      "examplePt": "Um painel solar transforma luz em eletricidade.",
+      "pron": "pan-NÉL-lo so-LÁ-re — 'nn' e 'll' dobrados",
+      "curiosity": "Painéis solares geram energia mesmo em dias nublados, só que menos."
+    },
+    "pr30-07": {
+      "word": "la plastica",
+      "translit": null,
+      "example": "La plastica nel mare fa male ai pesci.",
+      "examplePt": "O plástico no mar faz mal aos peixes.",
+      "pron": "PLÁS-ti-ka — força no 'plás'",
+      "curiosity": "Vem do grego 'plastikos': que se pode moldar."
+    },
+    "pr30-08": {
+      "word": "il metallo",
+      "translit": null,
+      "example": "Questo metallo attira la calamita?",
+      "examplePt": "Este metal atrai o ímã?",
+      "pron": "me-TÁL-lo — 'll' dobrado",
+      "curiosity": "Ímãs atraem ferro e aço, mas não ouro nem alumínio."
+    }
+  }
+}

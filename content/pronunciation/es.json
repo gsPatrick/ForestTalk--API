@@ -1,0 +1,1927 @@
+{
+ "game": "pronunciation",
+ "language": "es",
+ "version": 1,
+ "entries": {
+  "sp01-01": {
+   "word": "excelente",
+   "translit": null,
+   "example": "Tu dibujo quedó excelente.",
+   "examplePt": "Seu desenho ficou excelente.",
+   "pron": "ek-se-LEN-te — o 'x' soa 'ks' e o 'e' final é pronunciado",
+   "curiosity": "Excelente vem do latim excellens, que significa \"o que se destaca\"."
+  },
+  "sp01-02": {
+   "word": "hermoso",
+   "translit": null,
+   "example": "El atardecer está hermoso hoy.",
+   "examplePt": "O pôr do sol está lindo hoje.",
+   "pron": "er-MÔ-so — o 'h' é mudo, não se pronuncia nada",
+   "curiosity": "Hermoso vem do latim formosus: o 'f' inicial virou 'h' em espanhol."
+  },
+  "sp01-03": {
+   "word": "increíble",
+   "translit": null,
+   "example": "¿Viste ese truco de magia? Es increíble.",
+   "examplePt": "Você viu esse truque de mágica? É incrível.",
+   "pron": "in-kre-Í-ble — o 'c' é 'k' e a força cai no 'í'",
+   "curiosity": "O acento em \"increíble\" marca que o 'í' é forte e separa as vogais 'e' e 'í'."
+  },
+  "sp01-04": {
+   "word": "perfecto",
+   "translit": null,
+   "example": "Tu pronunciación es casi perfecta.",
+   "examplePt": "Sua pronúncia é quase perfeita.",
+   "pron": "per-FEK-to — o 'c' antes do 't' é um 'k' bem leve",
+   "curiosity": "O espanhol mantém o \"ct\" latino em \"perfecto\"; o português simplificou para \"perfeito\"."
+  },
+  "sp01-05": {
+   "word": "delicioso",
+   "translit": null,
+   "example": "El pastel quedó muy delicioso.",
+   "examplePt": "O bolo ficou muito gostoso.",
+   "pron": "de-li-SIÔ-so — o 'c' vira 's' na América Latina",
+   "curiosity": "Para elogiar comida, os latino-americanos também dizem \"rico\": \"está muy rico\"."
+  },
+  "sp01-06": {
+   "word": "divertido",
+   "translit": null,
+   "example": "¿Fue divertido el paseo al zoológico?",
+   "examplePt": "O passeio ao zoológico foi divertido?",
+   "pron": "di-ver-TI-do — o 'd' do meio é suave, quase um 'dh'",
+   "curiosity": "Em espanhol, \"divertirse\" é reflexivo: \"me divierto\" quer dizer \"eu me divirto\"."
+  },
+  "sp01-07": {
+   "word": "listo",
+   "translit": null,
+   "example": "Ese perro es muy listo.",
+   "examplePt": "Esse cachorro é muito esperto.",
+   "pron": "LIS-to — o 's' vem antes do 't' e é chiado leve",
+   "curiosity": "Com \"ser\", \"listo\" é esperto; com \"estar\", é pronto: \"estoy listo\"."
+  },
+  "sp01-08": {
+   "word": "fuerte",
+   "translit": null,
+   "example": "¿Eres tan fuerte como un oso?",
+   "examplePt": "Você é forte como um urso?",
+   "pron": "FUER-te — o 'ue' sai numa batida só, como 'uér'",
+   "curiosity": "Muitas palavras trocam o \"o\" latino por \"ue\": fortis virou fuerte e porta virou puerta."
+  },
+  "sp02-01": {
+   "word": "ayuda",
+   "translit": null,
+   "example": "Pido ayuda a mi papá.",
+   "examplePt": "Peço ajuda ao meu pai.",
+   "pron": "a-YU-da — o 'y' é um 'i' rápido, quase 'dj' suave",
+   "curiosity": "Diferente de \"el agua\", \"ayuda\" é feminina normal: \"la ayuda\"."
+  },
+  "sp02-02": {
+   "word": "silencio",
+   "translit": null,
+   "example": "Silencio, el bebé duerme.",
+   "examplePt": "Silêncio, o bebê dorme.",
+   "pron": "si-LEN-sio — o 'c' vira 's' e o final 'io' é uma sílaba só",
+   "curiosity": "Silencio vem do latim silentium, e a raiz é a mesma de \"silente\"."
+  },
+  "sp02-03": {
+   "word": "paciencia",
+   "translit": null,
+   "example": "Mi abuelo tiene mucha paciencia.",
+   "examplePt": "Meu avô tem muita paciência.",
+   "pron": "pa-SIEN-sia — o 'c' vira 's' e 'ia' sai numa sílaba",
+   "curiosity": "A raiz latina de \"paciencia\" é \"pati\", sofrer: paciente é quem aguenta."
+  },
+  "sp02-04": {
+   "word": "atención",
+   "translit": null,
+   "example": "¿Prestas atención a la profesora?",
+   "examplePt": "Você presta atenção na professora?",
+   "pron": "a-ten-SIÔN — a força cai no fim e o 'c' vira 's'",
+   "curiosity": "Todas as palavras em -ción levam acento no ó: atención, canción, lección."
+  },
+  "sp02-05": {
+   "word": "cuidado",
+   "translit": null,
+   "example": "¡Cuidado con el escalón!",
+   "examplePt": "Cuidado com o degrau!",
+   "pron": "kui-DA-do — 'ui' numa sílaba só e o 'd' final suave",
+   "curiosity": "Para \"tomar cuidado\", o espanhol diz \"tener cuidado\"."
+  },
+  "sp02-06": {
+   "word": "calma",
+   "translit": null,
+   "example": "¿Puedes mantener la calma?",
+   "examplePt": "Você consegue manter a calma?",
+   "pron": "KAL-ma — o 'l' toca nos dentes e não vira 'u'",
+   "curiosity": "Em espanhol se diz \"mantener la calma\", igualzinho ao português."
+  },
+  "sp02-07": {
+   "word": "respeto",
+   "translit": null,
+   "example": "Trato a todos con respeto.",
+   "examplePt": "Trato todo mundo com respeito.",
+   "pron": "rres-PE-to — o 'r' inicial é forte, como o 'rr' de 'carro'",
+   "curiosity": "Respeto vem do latim respectus, \"olhar para trás\" (de respicere)."
+  },
+  "sp02-08": {
+   "word": "suerte",
+   "translit": null,
+   "example": "¿Tuviste suerte en el sorteo?",
+   "examplePt": "Você teve sorte no sorteio?",
+   "pron": "SUER-te — 'ue' junto numa batida, 'r' fraquinho",
+   "curiosity": "Suerte vem do latim sors, a mesma raiz de \"sorte\" e \"sortear\"."
+  },
+  "sp03-01": {
+   "word": "vecino",
+   "translit": null,
+   "example": "Mi vecino toca la guitarra.",
+   "examplePt": "Meu vizinho toca violão.",
+   "pron": "be-SI-no — o 'v' soa como 'b' suave e o 'c' como 's'",
+   "curiosity": "Vecino vem do latim vicinus, de vicus, que quer dizer \"bairro\"."
+  },
+  "sp03-02": {
+   "word": "niño",
+   "translit": null,
+   "example": "El niño dibuja un perro.",
+   "examplePt": "O menino desenha um cachorro.",
+   "pron": "NI-nho — o 'ñ' é o 'nh' de 'ninho'",
+   "curiosity": "O \"ñ\" nasceu quando copistas medievais escreviam \"nn\" com um traço por cima."
+  },
+  "sp03-03": {
+   "word": "bebé",
+   "translit": null,
+   "example": "El bebé duerme en su cuna.",
+   "examplePt": "O bebê dorme no berço.",
+   "pron": "be-BÊ — a força está no último 'bé'",
+   "curiosity": "\"Bebé\" leva acento por ser aguda terminada em vogal."
+  },
+  "sp03-04": {
+   "word": "chico",
+   "translit": null,
+   "example": "¿Aquel chico es tu primo?",
+   "examplePt": "Aquele garoto é seu primo?",
+   "pron": "TCHI-ko — o 'ch' soa 'tch' como em 'tchau'",
+   "curiosity": "Em vários países da América Latina, \"chico\" também quer dizer \"pequeno\"."
+  },
+  "sp03-05": {
+   "word": "chica",
+   "translit": null,
+   "example": "La chica ríe con sus amigas.",
+   "examplePt": "A garota ri com as amigas.",
+   "pron": "TCHI-ka — o 'ch' soa 'tch' como em 'tchau'",
+   "curiosity": "Chico e chica mudam só a vogal final: o gênero mora no -o e no -a."
+  },
+  "sp03-06": {
+   "word": "señor",
+   "translit": null,
+   "example": "El señor sube al autobús.",
+   "examplePt": "O senhor sobe no ônibus.",
+   "pron": "se-NHÔR — o 'ñ' é 'nh' e o 'r' final é bem forte",
+   "curiosity": "Señor vem do latim senior, \"mais velho\": é parente de \"sênior\"."
+  },
+  "sp03-07": {
+   "word": "señora",
+   "translit": null,
+   "example": "¿La señora vende flores?",
+   "examplePt": "A senhora vende flores?",
+   "pron": "se-NHÔ-ra — o 'ñ' é 'nh' e o 'r' é fraquinho",
+   "curiosity": "Para uma moça jovem, usa-se \"señorita\"; \"señora\" é para mulheres adultas."
+  },
+  "sp03-08": {
+   "word": "joven",
+   "translit": null,
+   "example": "Mi tío es un joven músico.",
+   "examplePt": "Meu tio é um jovem músico.",
+   "pron": "RRÔ-ven — o 'j' é um 'h' soprado do fundo da garganta",
+   "curiosity": "\"Joven\" não muda no feminino: \"un joven\" e \"una joven\"."
+  },
+  "sp04-01": {
+   "word": "lunes",
+   "translit": null,
+   "example": "El lunes vuelvo a la escuela.",
+   "examplePt": "Na segunda volto à escola.",
+   "pron": "LU-nes — a língua toca os dentes no 'l'",
+   "curiosity": "Lunes vem de \"luna\": é o dia da Lua, do latim dies Lunae."
+  },
+  "sp04-02": {
+   "word": "martes",
+   "translit": null,
+   "example": "¿Hay clase de música el martes?",
+   "examplePt": "Tem aula de música na terça?",
+   "pron": "MAR-tes — o 'r' é um toquinho só",
+   "curiosity": "Na cultura hispânica, o azar vem com \"martes trece\", não na sexta-feira 13."
+  },
+  "sp04-03": {
+   "word": "miércoles",
+   "translit": null,
+   "example": "Los miércoles nado en la piscina.",
+   "examplePt": "Às quartas eu nado na piscina.",
+   "pron": "MIÉR-ko-les — o 'c' é 'k' e a força cai no 'miér'",
+   "curiosity": "Miércoles é o dia de Mercúrio, do latim dies Mercurii."
+  },
+  "sp04-04": {
+   "word": "jueves",
+   "translit": null,
+   "example": "El jueves cenamos con los abuelos.",
+   "examplePt": "Na quinta jantamos com os avós.",
+   "pron": "RRUÉ-ves — o 'j' é um 'h' soprado e o 'v' soa 'b'",
+   "curiosity": "Jueves é o dia de Júpiter, chamado Jove em latim."
+  },
+  "sp04-05": {
+   "word": "viernes",
+   "translit": null,
+   "example": "¡Por fin es viernes!",
+   "examplePt": "Finalmente é sexta!",
+   "pron": "BIÉR-nes — o 'v' soa 'b' suave",
+   "curiosity": "Viernes é o dia de Vênus, do latim dies Veneris."
+  },
+  "sp04-06": {
+   "word": "sábado",
+   "translit": null,
+   "example": "¿Vamos al cine el sábado?",
+   "examplePt": "Vamos ao cinema no sábado?",
+   "pron": "SÁ-ba-do — a força cai na 1ª sílaba e o 'd' é suave",
+   "curiosity": "Sábado vem do hebraico \"shabat\", o dia de descanso."
+  },
+  "sp04-07": {
+   "word": "domingo",
+   "translit": null,
+   "example": "Cada domingo come toda la familia.",
+   "examplePt": "Todo domingo a família toda come junta.",
+   "pron": "do-MIN-go — o 'g' é duro, como em 'gato'",
+   "curiosity": "Domingo vem do latim dies Dominicus, o \"dia do Senhor\"."
+  },
+  "sp04-08": {
+   "word": "día festivo",
+   "translit": null,
+   "example": "Hoy es día festivo y no hay clases.",
+   "examplePt": "Hoje é feriado e não há aula.",
+   "pron": "DI-a fes-TI-bo — o 'v' soa 'b' e o 'ía' abre em duas sílabas",
+   "curiosity": "Um feriado colado no fim de semana forma um \"puente\", uma ponte de folga."
+  },
+  "sp05-01": {
+   "word": "enero",
+   "translit": null,
+   "example": "En enero hace mucho calor aquí.",
+   "examplePt": "Em janeiro faz muito calor aqui.",
+   "pron": "e-NE-ro — o 'r' é um toquinho só, sem vibrar",
+   "curiosity": "Enero vem de Jano, deus romano das portas e dos começos."
+  },
+  "sp05-02": {
+   "word": "marzo",
+   "translit": null,
+   "example": "¿Nació tu hermano en marzo?",
+   "examplePt": "Seu irmão nasceu em março?",
+   "pron": "MAR-so — o 'z' soa como 's' na América Latina",
+   "curiosity": "Marzo era o primeiro mês do calendário romano antigo, dedicado a Marte."
+  },
+  "sp05-03": {
+   "word": "abril",
+   "translit": null,
+   "example": "En abril llueve casi cada tarde.",
+   "examplePt": "Em abril chove quase toda tarde.",
+   "pron": "a-BRIL — a força cai no fim e o 'b' é suave",
+   "curiosity": "Em espanhol, os meses escrevem-se com minúscula: abril, não Abril."
+  },
+  "sp05-04": {
+   "word": "mayo",
+   "translit": null,
+   "example": "Mayo trae flores a mi jardín.",
+   "examplePt": "Maio traz flores ao meu jardim.",
+   "pron": "MA-yo — o 'y' é um 'i' rápido, quase 'dj' suave",
+   "curiosity": "Datas em espanhol usam \"de\": \"el dos de mayo\"."
+  },
+  "sp05-05": {
+   "word": "junio",
+   "translit": null,
+   "example": "En junio empiezan las vacaciones.",
+   "examplePt": "Em junho começam as férias.",
+   "pron": "RRU-nio — o 'j' é um 'h' soprado; 'nio' sai numa sílaba",
+   "curiosity": "Junio e julio se confundem fácil: a diferença é só o \"n\" e o \"l\"."
+  },
+  "sp05-06": {
+   "word": "julio",
+   "translit": null,
+   "example": "¿Viajamos en julio a la costa?",
+   "examplePt": "Viajamos em julho para o litoral?",
+   "pron": "RRU-lio — o 'j' é um 'h' soprado do fundo da garganta",
+   "curiosity": "Julio homenageia Júlio César, que reformou o calendário romano."
+  },
+  "sp05-07": {
+   "word": "agosto",
+   "translit": null,
+   "example": "Mi cumpleaños es en agosto.",
+   "examplePt": "Meu aniversário é em agosto.",
+   "pron": "a-GOS-to — o 'g' é duro, como em 'gato'",
+   "curiosity": "Agosto homenageia o imperador romano Augusto."
+  },
+  "sp05-08": {
+   "word": "diciembre",
+   "translit": null,
+   "example": "En diciembre decoramos la casa.",
+   "examplePt": "Em dezembro decoramos a casa.",
+   "pron": "di-SIEM-bre — o 'c' vira 's' e 'ie' sai numa batida",
+   "curiosity": "Diciembre vem de \"decem\", dez: era o décimo mês do calendário romano antigo."
+  },
+  "sp06-01": {
+   "word": "espera",
+   "translit": null,
+   "example": "Espera, olvidé mi mochila.",
+   "examplePt": "Espere, esqueci minha mochila.",
+   "pron": "es-PE-ra — o 's' antes do 'p' é chiado leve",
+   "curiosity": "Em espanhol, \"esperar\" quer dizer tanto esperar quanto ter esperança."
+  },
+  "sp06-02": {
+   "word": "mira",
+   "translit": null,
+   "example": "Mira, ¿viste ese pájaro?",
+   "examplePt": "Olhe, você viu aquele pássaro?",
+   "pron": "MI-ra — o 'r' é um toquinho só",
+   "curiosity": "\"Mirar\" é olhar de propósito; \"ver\" é só enxergar."
+  },
+  "sp06-03": {
+   "word": "escucha",
+   "translit": null,
+   "example": "Escucha, ¿oyes el trueno?",
+   "examplePt": "Escute, você ouve o trovão?",
+   "pron": "es-KU-tcha — o 'ch' soa 'tch' como em 'tchau'",
+   "curiosity": "\"Escuchar\" é prestar atenção ao som; \"oír\" é só ouvir."
+  },
+  "sp06-04": {
+   "word": "intenta",
+   "translit": null,
+   "example": "Intenta de nuevo, tú puedes.",
+   "examplePt": "Tente de novo, você consegue.",
+   "pron": "in-TEN-ta — o 'e' é aberto e sem ditongar",
+   "curiosity": "Depois de \"intentar\" vai o infinitivo direto, sem preposição: \"intenta correr\"."
+  },
+  "sp06-05": {
+   "word": "ven",
+   "translit": null,
+   "example": "Ven aquí, mira esto.",
+   "examplePt": "Venha aqui, olhe isto.",
+   "pron": "BEN — o 'v' soa como 'b' e o 'n' é claro",
+   "curiosity": "O imperativo irregular de \"venir\" é \"ven\", e o de \"ir\" é \"ve\"."
+  },
+  "sp06-06": {
+   "word": "vamos",
+   "translit": null,
+   "example": "¿Vamos juntos al mercado?",
+   "examplePt": "Vamos juntos ao mercado?",
+   "pron": "BA-mos — o 'v' soa 'b' suave",
+   "curiosity": "\"Vamos\" serve para \"nós vamos\" e também para \"vamos!\", conforme o tom."
+  },
+  "sp06-07": {
+   "word": "quédate",
+   "translit": null,
+   "example": "Quédate conmigo hasta que llegue mamá.",
+   "examplePt": "Fique comigo até a mamãe chegar.",
+   "pron": "KÉ-da-te — o 'qu' é 'k' e o 'd' é suave",
+   "curiosity": "Em \"quédate\", o pronome \"te\" gruda no verbo e o acento mantém a força no \"qué\"."
+  },
+  "sp06-08": {
+   "word": "agarra",
+   "translit": null,
+   "example": "Agarra mi mano al cruzar.",
+   "examplePt": "Pegue minha mão ao atravessar.",
+   "pron": "a-GA-rra — o 'rr' é forte, como o 'r' de 'carro'",
+   "curiosity": "Em vários países latino-americanos, \"coger\" soa grosseiro; \"agarrar\" é a escolha segura."
+  },
+  "sp07-01": {
+   "word": "arroz",
+   "translit": null,
+   "example": "Mi tía cocina arroz con pollo.",
+   "examplePt": "Minha tia faz arroz com frango.",
+   "pron": "a-RROS — o 'rr' é forte e o 'z' soa 's'",
+   "curiosity": "Arroz vem do árabe ar-ruzz; o português \"arroz\" tem a mesma origem."
+  },
+  "sp07-02": {
+   "word": "frijoles",
+   "translit": null,
+   "example": "¿Quieres frijoles negros o rojos?",
+   "examplePt": "Quer feijão preto ou vermelho?",
+   "pron": "fri-RRÔ-les — o 'j' é um 'h' soprado",
+   "curiosity": "Feijão é \"frijol\" no México, \"poroto\" no Chile e \"judía\" na Espanha."
+  },
+  "sp07-03": {
+   "word": "pollo",
+   "translit": null,
+   "example": "Comimos pollo asado en el parque.",
+   "examplePt": "Comemos frango assado no parque.",
+   "pron": "PÔ-djo — o 'll' soa como 'dj' suave",
+   "curiosity": "\"Pollito\" é o diminutivo carinhoso de \"pollo\": o pintinho."
+  },
+  "sp07-04": {
+   "word": "carne",
+   "translit": null,
+   "example": "Papá prepara la carne los domingos.",
+   "examplePt": "Papai prepara a carne aos domingos.",
+   "pron": "KAR-ne — o 'r' é um toquinho só",
+   "curiosity": "\"De carne y hueso\" é a expressão para \"de carne e osso\"."
+  },
+  "sp07-05": {
+   "word": "fideos",
+   "translit": null,
+   "example": "¿Hay fideos con tomate hoy?",
+   "examplePt": "Hoje tem macarrão com tomate?",
+   "pron": "fi-DE-os — o 'd' é suave e 'eo' são duas sílabas",
+   "curiosity": "\"Fideos\" quase sempre aparece no plural; \"un fideo\" é um fiozinho só."
+  },
+  "sp07-06": {
+   "word": "sopa",
+   "translit": null,
+   "example": "La sopa de mi mamá cura todo.",
+   "examplePt": "A sopa da minha mãe cura tudo.",
+   "pron": "SÔ-pa — o 'o' é fechado e sem reduzir",
+   "curiosity": "\"Sopa\" vem de uma palavra germânica para o pão molhado no caldo."
+  },
+  "sp07-07": {
+   "word": "ensalada",
+   "translit": null,
+   "example": "Ella pidió una ensalada grande.",
+   "examplePt": "Ela pediu uma salada grande.",
+   "pron": "en-sa-LA-da — o 'd' é suave",
+   "curiosity": "Ensalada vem de \"sal\": antigamente a verdura era temperada com sal."
+  },
+  "sp07-08": {
+   "word": "pizza",
+   "translit": null,
+   "example": "¿Compartimos una pizza familiar?",
+   "examplePt": "Dividimos uma pizza família?",
+   "pron": "PI-sa — o 'zz' vira um 's' simples",
+   "curiosity": "\"Pizza\" entrou no espanhol com a mesma grafia italiana."
+  },
+  "sp08-01": {
+   "word": "sándwich",
+   "translit": null,
+   "example": "Me hice un sándwich de queso.",
+   "examplePt": "Fiz um sanduíche de queijo.",
+   "pron": "SÃN-duich — o 'w' soa 'u' e a força cai no começo",
+   "curiosity": "O acento em \"sándwich\" existe porque é grave e termina em consoante diferente de n e s."
+  },
+  "sp08-02": {
+   "word": "hamburguesa",
+   "translit": null,
+   "example": "Una hamburguesa doble, por favor.",
+   "examplePt": "Um hambúrguer duplo, por favor.",
+   "pron": "am-bur-GUE-sa — o 'h' é mudo; 'gue' como em 'guerra'",
+   "curiosity": "A hamburguesa leva o nome de Hamburgo, a cidade alemã."
+  },
+  "sp08-03": {
+   "word": "papas fritas",
+   "translit": null,
+   "example": "¿Quieres más papas fritas?",
+   "examplePt": "Quer mais batata frita?",
+   "pron": "PA-pas FRI-tas — o 'r' de 'fritas' é só um toque",
+   "curiosity": "Na Espanha se diz \"patatas fritas\"; na América Latina, \"papas fritas\"."
+  },
+  "sp08-04": {
+   "word": "perro caliente",
+   "translit": null,
+   "example": "En el estadio comimos un perro caliente.",
+   "examplePt": "No estádio comemos um cachorro-quente.",
+   "pron": "PÊ-rro ka-LIEN-te — 'rr' forte, 'ie' numa batida",
+   "curiosity": "\"Perro caliente\" é tradução literal de \"hot dog\": cachorro quente."
+  },
+  "sp08-05": {
+   "word": "empanada",
+   "translit": null,
+   "example": "Mi abuela hace empanadas de carne.",
+   "examplePt": "Minha avó faz empanadas de carne.",
+   "pron": "em-pa-NA-da — o 'd' é suave",
+   "curiosity": "Empanada vem de \"empanar\": embrulhar o recheio em massa de pão."
+  },
+  "sp08-06": {
+   "word": "churro",
+   "translit": null,
+   "example": "¿Mojamos el churro en chocolate?",
+   "examplePt": "Molhamos o churro no chocolate?",
+   "pron": "TCHU-rro — o 'ch' é 'tch' e o 'rr' é forte",
+   "curiosity": "Churros costumam ser mergulhados em chocolate quente em muitos países hispânicos."
+  },
+  "sp08-07": {
+   "word": "paleta helada",
+   "translit": null,
+   "example": "Una paleta helada de fresa, por favor.",
+   "examplePt": "Um picolé de morango, por favor.",
+   "pron": "pa-LE-ta e-LA-da — o 'h' é mudo",
+   "curiosity": "No México, \"paleta\" é o picolé; em outros países se diz \"helado de agua\"."
+  },
+  "sp08-08": {
+   "word": "flan",
+   "translit": null,
+   "example": "El flan lleva huevo y caramelo.",
+   "examplePt": "O pudim leva ovo e caramelo.",
+   "pron": "FLAN — 'an' com o 'n' final claro, sem nasalizar",
+   "curiosity": "O flan é uma das sobremesas de leite e ovos mais comuns do mundo hispânico."
+  },
+  "sp09-01": {
+   "word": "parque",
+   "translit": null,
+   "example": "Corremos juntos por el parque.",
+   "examplePt": "Corremos juntos pelo parque.",
+   "pron": "PAR-ke — o 'qu' soa 'k'",
+   "curiosity": "Em partes da América Latina, \"parquear\" quer dizer estacionar o carro."
+  },
+  "sp09-02": {
+   "word": "zoológico",
+   "translit": null,
+   "example": "El zoológico abre a las nueve.",
+   "examplePt": "O zoológico abre às nove.",
+   "pron": "so-o-LÓ-hi-ko — o 'z' soa 's' e o 'g' antes de 'i' é um 'h' soprado",
+   "curiosity": "\"Zoo\" é abreviação de \"zoológico\", do grego zôion, \"animal\"."
+  },
+  "sp09-03": {
+   "word": "piscina",
+   "translit": null,
+   "example": "¿Hay piscina en tu hotel?",
+   "examplePt": "Tem piscina no seu hotel?",
+   "pron": "pis-SI-na — o 'sc' antes de 'i' soa 'ss'",
+   "curiosity": "Piscina é \"alberca\" no México e \"pileta\" na Argentina."
+  },
+  "sp09-04": {
+   "word": "centro comercial",
+   "translit": null,
+   "example": "Quedamos en el centro comercial.",
+   "examplePt": "Combinamos no shopping.",
+   "pron": "SEN-tro ko-mer-SIAL — o 'c' vira 's' antes de 'e' e 'i'",
+   "curiosity": "No México também se usa \"plaza comercial\" para o shopping."
+  },
+  "sp09-05": {
+   "word": "estadio",
+   "translit": null,
+   "example": "Gritamos mucho en el estadio.",
+   "examplePt": "Gritamos muito no estádio.",
+   "pron": "es-TA-dio — o 'd' do meio é suave",
+   "curiosity": "Estadio vem do grego \"stádion\", uma antiga medida de distância."
+  },
+  "sp09-06": {
+   "word": "aeropuerto",
+   "translit": null,
+   "example": "Llegamos temprano al aeropuerto.",
+   "examplePt": "Chegamos cedo ao aeroporto.",
+   "pron": "a-e-ro-PUER-to — 'a' e 'e' são sílabas separadas",
+   "curiosity": "Aeropuerto junta \"aero\" (ar) com \"puerto\", como um porto do ar."
+  },
+  "sp09-07": {
+   "word": "restaurante",
+   "translit": null,
+   "example": "¿Cenamos en un restaurante chino?",
+   "examplePt": "Jantamos num restaurante chinês?",
+   "pron": "rres-tau-RAN-te — o 'au' soa como em 'mau'",
+   "curiosity": "Restaurante vem de \"restaurar\": os primeiros serviam caldos para recuperar as forças."
+  },
+  "sp09-08": {
+   "word": "heladería",
+   "translit": null,
+   "example": "La heladería tiene diez sabores.",
+   "examplePt": "A sorveteria tem dez sabores.",
+   "pron": "e-la-de-RÍ-a — o 'h' é mudo e o 'í' é forte",
+   "curiosity": "O sufixo -ería marca a loja: panadería, heladería, librería."
+  },
+  "sp10-01": {
+   "word": "hoy",
+   "translit": null,
+   "example": "Hoy me levanté muy temprano.",
+   "examplePt": "Hoje acordei muito cedo.",
+   "pron": "ÓI — o 'h' é mudo, soa como 'ói'",
+   "curiosity": "Hoy vem do latim \"hodie\", que também deu \"hoje\" em português."
+  },
+  "sp10-02": {
+   "word": "ayer",
+   "translit": null,
+   "example": "Ayer llovió toda la tarde.",
+   "examplePt": "Ontem choveu a tarde toda.",
+   "pron": "a-YER — o 'y' é um 'i' rápido, quase 'dj'",
+   "curiosity": "Ayer vem do latim \"heri\"; é parente do italiano \"ieri\"."
+  },
+  "sp10-03": {
+   "word": "mañana",
+   "translit": null,
+   "example": "Mañana empieza mi nueva clase.",
+   "examplePt": "Amanhã começa minha aula nova.",
+   "pron": "ma-NHA-na — o 'ñ' é o 'nh' de 'ninho'",
+   "curiosity": "\"Mañana\" significa \"amanhã\" e \"manhã\"; o contexto decide."
+  },
+  "sp10-04": {
+   "word": "ahora",
+   "translit": null,
+   "example": "Ahora quiero dibujar un dragón.",
+   "examplePt": "Agora quero desenhar um dragão.",
+   "pron": "a-Ô-ra — o 'h' é mudo e 'a-o' são duas sílabas",
+   "curiosity": "No México, \"ahorita\" é um \"agorinha\" bem elástico: pode ser já ou daqui a pouco."
+  },
+  "sp10-05": {
+   "word": "después",
+   "translit": null,
+   "example": "Primero la tarea, después jugamos.",
+   "examplePt": "Primeiro a lição, depois a gente brinca.",
+   "pron": "des-PUÉS — a força cai no fim",
+   "curiosity": "\"Después\" leva acento por ser aguda terminada em s."
+  },
+  "sp10-06": {
+   "word": "antes",
+   "translit": null,
+   "example": "Antes dormía con una luz.",
+   "examplePt": "Antes eu dormia com uma luz acesa.",
+   "pron": "AN-tes — o 'n' fecha a sílaba sem nasalizar muito",
+   "curiosity": "\"Antes\" e \"después\" se combinam com \"de\": \"antes de comer\"."
+  },
+  "sp10-07": {
+   "word": "esta noche",
+   "translit": null,
+   "example": "¿Vemos una película esta noche?",
+   "examplePt": "Vemos um filme hoje à noite?",
+   "pron": "ES-ta NÔ-tche — o 'ch' soa 'tch'",
+   "curiosity": "\"Esta noche\" é hoje à noite; \"anoche\" é a noite de ontem."
+  },
+  "sp10-08": {
+   "word": "por la mañana",
+   "translit": null,
+   "example": "Por la mañana tomo jugo de naranja.",
+   "examplePt": "De manhã tomo suco de laranja.",
+   "pron": "por la ma-NHA-na — o 'ñ' é o 'nh' de 'ninho'",
+   "curiosity": "\"De la mañana\" marca as horas (a.m.); \"por la mañana\" diz o período do dia."
+  },
+  "sp11-01": {
+   "word": "¿Quieres un poco?",
+   "translit": null,
+   "example": "Sí, gracias, está muy rico.",
+   "examplePt": "Sim, obrigado, está muito gostoso.",
+   "pron": "KIÊ-res un PÔ-ko — o 'qu' é 'k' e o 'r' é um toquinho",
+   "curiosity": "Em espanhol, \"¿Quieres...?\" abre a pergunta com sinal invertido."
+  },
+  "sp11-02": {
+   "word": "¿Aceptas un té?",
+   "translit": null,
+   "example": "No, prefiero un jugo.",
+   "examplePt": "Não, prefiro um suco.",
+   "pron": "a-SEP-tas un TÉ — o 'c' é 'k' leve e o 'té' é bem curto",
+   "curiosity": "\"Té\" leva acento para se distinguir de \"te\", o pronome."
+  },
+  "sp11-03": {
+   "word": "Sírvete, por favor",
+   "translit": null,
+   "example": "Gracias, todo se ve delicioso.",
+   "examplePt": "Obrigado, tudo parece delicioso.",
+   "pron": "SIR-be-te por fa-BOR — o 'v' soa 'b'",
+   "curiosity": "Em \"sírvete\", o \"te\" é um pronome que gruda no verbo, e o acento fica no \"sír\"."
+  },
+  "sp11-04": {
+   "word": "¿Quieres entrar?",
+   "translit": null,
+   "example": "Sí, permiso, ya voy.",
+   "examplePt": "Sim, com licença, já vou.",
+   "pron": "KIÊ-res en-TRAR — o 'r' final é um toque firme",
+   "curiosity": "\"Entrar\" em espanhol pede \"a\" ou \"en\": \"entrar a la casa\" ou \"entrar en la casa\"."
+  },
+  "sp11-05": {
+   "word": "¿Puedo ayudar?",
+   "translit": null,
+   "example": "Sí, ¿puedes cargar esta bolsa?",
+   "examplePt": "Sim, pode carregar esta sacola?",
+   "pron": "PUÉ-do a-yu-DAR — o 'y' é um 'i' rápido e o 'd' é suave",
+   "curiosity": "Em lojas, \"¿Puedo ayudarle?\" é a forma educada de oferecer ajuda."
+  },
+  "sp11-06": {
+   "word": "¿Vamos a comer?",
+   "translit": null,
+   "example": "Claro, tengo mucha hambre.",
+   "examplePt": "Claro, estou com muita fome.",
+   "pron": "BA-mos a ko-MER — o 'v' soa 'b'",
+   "curiosity": "Em espanhol, \"vamos a + infinitivo\" é a forma mais comum de convidar."
+  },
+  "sp11-07": {
+   "word": "¿Quieres compartir?",
+   "translit": null,
+   "example": "Sí, partamos la porción.",
+   "examplePt": "Sim, vamos dividir a porção.",
+   "pron": "KIÊ-res kom-par-TIR — o 'r' final é firme",
+   "curiosity": "\"Compartir\" vem do latim e quer dizer dividir em partes."
+  },
+  "sp11-08": {
+   "word": "¿Quieres probar?",
+   "translit": null,
+   "example": "Un poquito, solo un bocado.",
+   "examplePt": "Só um pouquinho, uma mordida.",
+   "pron": "KIÊ-res pro-BAR — o 'pr' é rápido e o 'b' é suave",
+   "curiosity": "\"Probar\" quer dizer provar comida e também testar ou experimentar."
+  },
+  "sp12-01": {
+   "word": "Fue un placer",
+   "translit": null,
+   "example": "Para mí también, hasta pronto.",
+   "examplePt": "Para mim também, até breve.",
+   "pron": "FUÊ un pla-SER — o 'c' vira 's' e o 'r' final é firme",
+   "curiosity": "\"Placer\" vem do latim placere, \"agradar\", o mesmo de \"prazer\"."
+  },
+  "sp12-02": {
+   "word": "Gracias a ti",
+   "translit": null,
+   "example": "Tú siempre me ayudas.",
+   "examplePt": "Você sempre me ajuda.",
+   "pron": "GRA-sias a TI — o 'c' vira 's' e o 'ti' é curto",
+   "curiosity": "Em espanhol, depois de preposição se diz \"ti\", não \"tú\": \"a ti\"."
+  },
+  "sp12-03": {
+   "word": "No era necesario",
+   "translit": null,
+   "example": "Pero me encantó el detalle.",
+   "examplePt": "Mas adorei o detalhe.",
+   "pron": "no E-ra ne-se-SA-rio — o 'c' vira 's'",
+   "curiosity": "\"Necesario\" tem um só 'c' e um só 's', diferente do português \"necessário\"."
+  },
+  "sp12-04": {
+   "word": "Me alegro",
+   "translit": null,
+   "example": "Qué bueno que te guste.",
+   "examplePt": "Que bom que você gostou.",
+   "pron": "me a-LE-gro — o 'g' é duro, como em 'gato'",
+   "curiosity": "\"Alegrarse\" é o verbo reflexivo para \"ficar contente\"."
+  },
+  "sp12-05": {
+   "word": "Cuenta conmigo",
+   "translit": null,
+   "example": "Para lo que necesites.",
+   "examplePt": "Para o que você precisar.",
+   "pron": "KUEN-ta kon-MI-go — o 'ue' sai numa batida só",
+   "curiosity": "\"Conmigo\" e \"contigo\" são formas especiais, nunca \"con mí\"."
+  },
+  "sp12-06": {
+   "word": "Me gustó mucho",
+   "translit": null,
+   "example": "Repetiría el plan sin dudar.",
+   "examplePt": "Repetiria o plano sem hesitar.",
+   "pron": "me gus-TÓ MU-tcho — o 'ch' soa 'tch'",
+   "curiosity": "Em \"me gustó\", o sujeito é a coisa que agrada, não quem fala."
+  },
+  "sp12-07": {
+   "word": "Ayudó mucho",
+   "translit": null,
+   "example": "Ahora entiendo todo mejor.",
+   "examplePt": "Agora entendo tudo melhor.",
+   "pron": "a-yu-DÓ MU-tcho — o 'y' é um 'i' rápido",
+   "curiosity": "Em espanhol, a 3ª pessoa do passado de -ar leva acento no final: ayudó."
+  },
+  "sp12-08": {
+   "word": "Fue muy útil",
+   "translit": null,
+   "example": "Lo usaré todos los días.",
+   "examplePt": "Vou usar todos os dias.",
+   "pron": "FUÊ mui Ú-til — o 'ú' é forte",
+   "curiosity": "\"Útil\" leva acento porque é grave e termina em consoante diferente de n e s."
+  },
+  "sp13-01": {
+   "word": "Quedó hermoso",
+   "translit": null,
+   "example": "Gracias, trabajé toda la tarde.",
+   "examplePt": "Obrigado, trabalhei a tarde toda.",
+   "pron": "ke-DÓ er-MÔ-so — o 'h' é mudo",
+   "curiosity": "\"Quedar\" também significa ficar, no sentido de resultado: \"quedó bien\"."
+  },
+  "sp13-02": {
+   "word": "Cantas muy bien",
+   "translit": null,
+   "example": "¿En serio? Practico cada noche.",
+   "examplePt": "Sério? Pratico toda noite.",
+   "pron": "KAN-tas mui BIEN — o 'ie' sai numa batida",
+   "curiosity": "Em espanhol, \"tú cantas\" não precisa do \"tú\": o verbo já diz quem fala."
+  },
+  "sp13-03": {
+   "word": "Buen trabajo",
+   "translit": null,
+   "example": "Gracias, fue un esfuerzo grupal.",
+   "examplePt": "Obrigado, foi um esforço em grupo.",
+   "pron": "buen tra-BA-ho — o 'j' é um 'h' soprado e a força cai no 'ba'",
+   "curiosity": "Antes de substantivo masculino, \"bueno\" vira \"buen\": buen trabajo."
+  },
+  "sp13-04": {
+   "word": "Qué ropa bonita",
+   "translit": null,
+   "example": "La compré en un mercado.",
+   "examplePt": "Comprei em um mercado.",
+   "pron": "ke RRÔ-pa bo-NI-ta — o 'r' inicial é forte",
+   "curiosity": "\"Ropa\" é sempre singular em espanhol: \"la ropa\" é todas as roupas juntas."
+  },
+  "sp13-05": {
+   "word": "Eres muy amable",
+   "translit": null,
+   "example": "Tú también, siempre sonríes.",
+   "examplePt": "Você também, sempre sorri.",
+   "pron": "E-res mui a-MA-ble — o 'b' é suave",
+   "curiosity": "\"Amable\" vem de \"amar\" e quer dizer gentil, atencioso."
+  },
+  "sp13-06": {
+   "word": "Muy bien",
+   "translit": null,
+   "example": "Sigue así, vas excelente.",
+   "examplePt": "Continue assim, você vai excelente.",
+   "pron": "mui BIEN — o 'ie' sai numa batida",
+   "curiosity": "\"Muy\" nunca muda: \"muy bien\", \"muy buena\", \"muy buenos\"."
+  },
+  "sp13-07": {
+   "word": "Eres muy rápido",
+   "translit": null,
+   "example": "Casi gano, pero me alcanzaste.",
+   "examplePt": "Quase ganhei, mas você me alcançou.",
+   "pron": "E-res mui RRÁ-pi-do — o 'r' inicial é forte",
+   "curiosity": "\"Rápido\" também funciona como advérbio: \"habla rápido\"."
+  },
+  "sp13-08": {
+   "word": "Buena idea",
+   "translit": null,
+   "example": "Lo hacemos hoy mismo.",
+   "examplePt": "Fazemos hoje mesmo.",
+   "pron": "BUE-na i-DE-a — 'ue' numa batida",
+   "curiosity": "\"Idea\" é feminina em espanhol, por isso \"buena idea\"."
+  },
+  "sp14-01": {
+   "word": "¿Vamos a salir?",
+   "translit": null,
+   "example": "Sí, ¿a dónde quieres ir?",
+   "examplePt": "Sim, aonde você quer ir?",
+   "pron": "BA-mos a sa-LIR — o 'v' soa 'b'",
+   "curiosity": "Em espanhol, \"salir\" quer dizer sair, passear e também \"aparecer\"."
+  },
+  "sp14-02": {
+   "word": "¿Dónde nos vemos?",
+   "translit": null,
+   "example": "En la puerta del cine.",
+   "examplePt": "Na porta do cinema.",
+   "pron": "DON-de nos BE-mos — o 'd' do meio é suave e o 'v' soa 'b'",
+   "curiosity": "\"Nos vemos\" também é despedida: \"nos vemos mañana\"."
+  },
+  "sp14-03": {
+   "word": "¿A qué hora?",
+   "translit": null,
+   "example": "A las cinco en punto.",
+   "examplePt": "Às cinco em ponto.",
+   "pron": "a ke Ô-ra — o 'h' é mudo e o 'qu' é 'k'",
+   "curiosity": "Para dizer a hora, o espanhol usa \"a la una\" e \"a las dos, tres...\"."
+  },
+  "sp14-04": {
+   "word": "Te espero allá",
+   "translit": null,
+   "example": "Llevo un libro para leer.",
+   "examplePt": "Levo um livro para ler.",
+   "pron": "te es-PE-ro a-DJA — o 'll' soa 'dj' suave",
+   "curiosity": "\"Allá\" é mais longe que \"acá\"; \"allí\" é mais perto de quem ouve."
+  },
+  "sp14-05": {
+   "word": "Llego en diez minutos",
+   "translit": null,
+   "example": "Ya casi estoy en la esquina.",
+   "examplePt": "Já estou quase na esquina.",
+   "pron": "DJE-go en diez mi-NU-tos — o 'll' soa 'dj' suave",
+   "curiosity": "Depois de \"en\", o espanhol marca o tempo até chegar: \"en diez minutos\"."
+  },
+  "sp14-06": {
+   "word": "Avísame después",
+   "translit": null,
+   "example": "Claro, te escribo apenas pueda.",
+   "examplePt": "Claro, escrevo assim que puder.",
+   "pron": "a-BI-sa-me des-PUÉS — o 'v' soa 'b'",
+   "curiosity": "\"Avisar\" pede objeto indireto: \"avísame\" é \"avise-me\"."
+  },
+  "sp14-07": {
+   "word": "De acuerdo",
+   "translit": null,
+   "example": "Perfecto, entonces nos vemos.",
+   "examplePt": "Perfeito, então nos vemos.",
+   "pron": "de a-KUER-do — o 'cu' é 'ku' e o 'd' é suave",
+   "curiosity": "\"De acuerdo\" também é a resposta clássica para \"tudo bem, combinado\"."
+  },
+  "sp14-08": {
+   "word": "¿Puedo llevar algo?",
+   "translit": null,
+   "example": "Trae unas galletas, por favor.",
+   "examplePt": "Traga alguns biscoitos, por favor.",
+   "pron": "PUÉ-do dje-BAR AL-go — o 'll' soa 'dj' suave",
+   "curiosity": "\"Llevar\" é levar; \"traer\" é trazer, e muda conforme o ponto de vista."
+  },
+  "sp15-01": {
+   "word": "Qué gran noticia",
+   "translit": null,
+   "example": "¡Vamos a celebrarlo!",
+   "examplePt": "Vamos comemorar!",
+   "pron": "ke gran no-TI-sia — o 'c' vira 's'",
+   "curiosity": "\"Gran\" é a forma curta de \"grande\" antes do substantivo."
+  },
+  "sp15-02": {
+   "word": "No puede ser",
+   "translit": null,
+   "example": "Yo pensé que no vendrías.",
+   "examplePt": "Eu pensei que você não viria.",
+   "pron": "no PUÉ-de ser — o 'd' é suave",
+   "curiosity": "\"No puede ser\" também é a forma comum de dizer \"não pode ser!\"."
+  },
+  "sp15-03": {
+   "word": "¿De verdad?",
+   "translit": null,
+   "example": "Sí, ganamos el campeonato.",
+   "examplePt": "Sim, ganhamos o campeonato.",
+   "pron": "de ber-DAD — o 'd' final é suave",
+   "curiosity": "\"¿De verdad?\" literalmente é \"de verdade?\"."
+  },
+  "sp15-04": {
+   "word": "Qué susto",
+   "translit": null,
+   "example": "Pensé que era un fantasma.",
+   "examplePt": "Achei que era um fantasma.",
+   "pron": "ke SUS-to — o 's' antes de 't' é chiado leve",
+   "curiosity": "\"Susto\" e \"miedo\" são diferentes: o susto é rápido, o medo dura."
+  },
+  "sp15-05": {
+   "word": "Qué sorpresa",
+   "translit": null,
+   "example": "No esperaba verte aquí.",
+   "examplePt": "Eu não esperava ver você aqui.",
+   "pron": "ke sor-PRE-sa — o 'r' dentro de 'pr' é só um toque",
+   "curiosity": "\"Qué\" com acento serve para exclamar; \"que\" sem acento só conecta frases."
+  },
+  "sp15-06": {
+   "word": "Qué gracioso",
+   "translit": null,
+   "example": "Hizo una cara muy chistosa.",
+   "examplePt": "Ele fez uma cara bem engraçada.",
+   "pron": "ke gra-SIÔ-so — o 'c' vira 's'",
+   "curiosity": "\"Gracioso\" vem de \"gracia\", e \"gracias\" tem a mesma raiz."
+  },
+  "sp15-07": {
+   "word": "Qué tierno",
+   "translit": null,
+   "example": "Mira cómo duerme el cachorro.",
+   "examplePt": "Olhe como o filhote dorme.",
+   "pron": "ke TIER-no — o 'ie' sai numa batida",
+   "curiosity": "\"Tierno\" também quer dizer macio, fresco: \"pan tierno\"."
+  },
+  "sp15-08": {
+   "word": "Qué rico",
+   "translit": null,
+   "example": "Voy a pedir otro plato.",
+   "examplePt": "Vou pedir outro prato.",
+   "pron": "ke RRI-ko — o 'r' inicial é forte",
+   "curiosity": "Em muitos países, \"rico\" quer dizer gostoso, além de endinheirado."
+  },
+  "sp16-01": {
+   "word": "Ida y vuelta",
+   "translit": null,
+   "example": "Dos boletos, por favor.",
+   "examplePt": "Duas passagens, por favor.",
+   "pron": "I-da i BUEL-ta — o 'v' soa 'b'",
+   "curiosity": "Em espanhol, \"boleto\" e \"billete\" são diferentes regiões para passagem."
+  },
+  "sp16-02": {
+   "word": "¿Cuál andén?",
+   "translit": null,
+   "example": "Es el número tres.",
+   "examplePt": "É o número três.",
+   "pron": "kual an-DÊN — a força cai no fim",
+   "curiosity": "\"Andén\" é a plataforma de trem ou metrô e leva acento por ser aguda terminada em n."
+  },
+  "sp16-03": {
+   "word": "¿Cuándo sale?",
+   "translit": null,
+   "example": "En quince minutos, creo.",
+   "examplePt": "Em quinze minutos, acho.",
+   "pron": "KUAN-do SA-le — o 'cu' é 'ku'",
+   "curiosity": "Em espanhol, \"salir\" é o verbo para partida de trem ou ônibus."
+  },
+  "sp16-04": {
+   "word": "Bajo aquí",
+   "translit": null,
+   "example": "Gracias, hasta luego.",
+   "examplePt": "Obrigado, até logo.",
+   "pron": "BA-ho a-KI — o 'j' é um 'h' soprado do fundo da garganta",
+   "curiosity": "Em espanhol, \"bajo\" é eu desço e também quer dizer baixo: o contexto decide."
+  },
+  "sp16-05": {
+   "word": "Pare aquí, por favor",
+   "translit": null,
+   "example": "Allí, junto al semáforo.",
+   "examplePt": "Ali, junto ao semáforo.",
+   "pron": "PA-re a-KI por fa-BOR — o 'v' soa 'b'",
+   "curiosity": "\"Pare\" é o imperativo formal de \"parar\" e é o mesmo de \"pare\" na placa."
+  },
+  "sp16-06": {
+   "word": "¿Está libre este asiento?",
+   "translit": null,
+   "example": "Sí, siéntese, por favor.",
+   "examplePt": "Sim, sente-se, por favor.",
+   "pron": "es-TA LI-bre ES-te a-SIEN-to — o 'b' é suave",
+   "curiosity": "\"Asiento\" quer dizer lugar sentado; \"lugar\" é o espaço em geral."
+  },
+  "sp16-07": {
+   "word": "Ponte el cinturón",
+   "translit": null,
+   "example": "Despegamos en cinco minutos.",
+   "examplePt": "Decolamos em cinco minutos.",
+   "pron": "PON-te el sin-tu-RÓN — o 'c' vira 's'",
+   "curiosity": "\"Cinturón\" vem de \"cintura\": o cinto fica na cintura."
+  },
+  "sp16-08": {
+   "word": "¿Hay lugar?",
+   "translit": null,
+   "example": "Sí, adelante, hay espacio.",
+   "examplePt": "Sim, entre, há espaço.",
+   "pron": "AI lu-GAR — o 'g' é duro",
+   "curiosity": "\"Hay\" é \"há/tem\" e é invariável: \"hay uno\", \"hay dos\"."
+  },
+  "sp17-01": {
+   "word": "Sin azúcar",
+   "translit": null,
+   "example": "Prefiero el café amargo.",
+   "examplePt": "Prefiro o café amargo.",
+   "pron": "sin a-SU-kar — o 'z' soa 's'",
+   "curiosity": "\"Azúcar\" vem do árabe as-sukkar, e o português \"açúcar\" tem a mesma origem."
+  },
+  "sp17-02": {
+   "word": "Con hielo",
+   "translit": null,
+   "example": "Pero no demasiado frío.",
+   "examplePt": "Mas não gelado demais.",
+   "pron": "kon IÊ-lo — o 'h' é mudo",
+   "curiosity": "\"Hielo\" é gelo; \"helado\" é sorvete ou gelado, da mesma família."
+  },
+  "sp17-03": {
+   "word": "Un poco más",
+   "translit": null,
+   "example": "Gracias, así está perfecto.",
+   "examplePt": "Obrigado, assim está perfeito.",
+   "pron": "un PÔ-ko MAS — o 's' final é leve",
+   "curiosity": "\"Más\" com acento quer dizer \"mais\"; sem acento, \"mas\" é uma conjunção rara."
+  },
+  "sp17-04": {
+   "word": "Para mí también",
+   "translit": null,
+   "example": "Con extra de queso, por favor.",
+   "examplePt": "Com queijo extra, por favor.",
+   "pron": "PA-ra MI tam-BIEN — o 'b' é suave",
+   "curiosity": "\"Mí\" leva acento por ser pronome; \"mi\" sem acento é possessivo."
+  },
+  "sp17-05": {
+   "word": "Lo mismo",
+   "translit": null,
+   "example": "Que siga igual el menú.",
+   "examplePt": "Que o cardápio continue igual.",
+   "pron": "lo MIS-mo — o 's' antes de 'm' é chiado leve",
+   "curiosity": "\"Lo mismo\" é a resposta curta ao pedir comida: \"lo mismo para mí\"."
+  },
+  "sp17-06": {
+   "word": "Solo una porción",
+   "translit": null,
+   "example": "Con mucha crema encima.",
+   "examplePt": "Com bastante creme por cima.",
+   "pron": "SÔ-lo U-na por-SIÔN — o 'c' vira 's'",
+   "curiosity": "Desde 2010, a RAE recomenda escrever \"solo\" sem acento, mesmo como advérbio."
+  },
+  "sp17-07": {
+   "word": "Un vaso lleno",
+   "translit": null,
+   "example": "Casi no cabe una gota más.",
+   "examplePt": "Quase não cabe uma gota a mais.",
+   "pron": "un BA-so DJE-no — o 'll' soa 'dj'",
+   "curiosity": "\"Lleno\" é cheio, e \"llenar\" é encher."
+  },
+  "sp17-08": {
+   "word": "¿Está caliente?",
+   "translit": null,
+   "example": "Cuidado, quema un poquito.",
+   "examplePt": "Cuidado, queima um pouquinho.",
+   "pron": "es-TA ka-LIEN-te — o 'ie' sai numa batida",
+   "curiosity": "\"Caliente\" é quente de temperatura; \"picante\" é o apimentado. Não troque!"
+  },
+  "sp18-01": {
+   "word": "Tengo frío",
+   "translit": null,
+   "example": "Necesito una manta ya.",
+   "examplePt": "Preciso de um cobertor agora.",
+   "pron": "TEN-go FRI-o — o 'g' é duro",
+   "curiosity": "Em espanhol se \"tem\" frio, calor e fome: \"tengo frío\"."
+  },
+  "sp18-02": {
+   "word": "Tengo calor",
+   "translit": null,
+   "example": "Voy a abrir la ventana.",
+   "examplePt": "Vou abrir a janela.",
+   "pron": "TEN-go ka-LOR — o 'r' final é firme",
+   "curiosity": "\"Calor\" é masculino: \"el calor\"."
+  },
+  "sp18-03": {
+   "word": "Estoy preocupado",
+   "translit": null,
+   "example": "Mi hermano llegó muy tarde.",
+   "examplePt": "Meu irmão chegou muito tarde.",
+   "pron": "es-TOI pre-o-ku-PA-do — o 'c' é 'k'",
+   "curiosity": "\"Preocupado\" mostra estado; é com \"estar\", não \"ser\"."
+  },
+  "sp18-04": {
+   "word": "Estoy satisfecho",
+   "translit": null,
+   "example": "La cena estuvo abundante.",
+   "examplePt": "O jantar foi farto.",
+   "pron": "es-TOI sa-tis-FE-tcho — o 'ch' soa 'tch'",
+   "curiosity": "Para dizer \"estou cheio\", o espanhol usa \"estoy lleno\" ou \"estoy satisfecho\"."
+  },
+  "sp18-05": {
+   "word": "Me estoy divirtiendo",
+   "translit": null,
+   "example": "Esta fiesta es genial.",
+   "examplePt": "Esta festa é genial.",
+   "pron": "me es-TOI di-bir-TIEN-do — o 'v' soa 'b'",
+   "curiosity": "\"Divirtiendo\" mostra que o \"e\" do verbo vira \"ie\" no gerúndio: divertir, divirtiendo."
+  },
+  "sp18-06": {
+   "word": "Estoy muy bien",
+   "translit": null,
+   "example": "Hoy desperté con energía.",
+   "examplePt": "Hoje acordei com energia.",
+   "pron": "es-TOI mui BIEN — o 'ie' numa batida",
+   "curiosity": "Em espanhol, a pergunta \"¿cómo estás?\" se responde com \"estoy bien\"."
+  },
+  "sp18-07": {
+   "word": "Estoy confundido",
+   "translit": null,
+   "example": "No entendí la pregunta.",
+   "examplePt": "Não entendi a pergunta.",
+   "pron": "es-TOI kon-fun-DI-do — o 'f' é igual ao português",
+   "curiosity": "\"Confundido\" também significa trocado: \"confundí los nombres\"."
+  },
+  "sp18-08": {
+   "word": "Tengo tos",
+   "translit": null,
+   "example": "Voy a tomar jarabe.",
+   "examplePt": "Vou tomar xarope.",
+   "pron": "TEN-go TOS — o 's' final é leve",
+   "curiosity": "\"La tos\" é feminina e só tem uma sílaba."
+  },
+  "sp19-01": {
+   "word": "¿Cómo estuvo tu día?",
+   "translit": null,
+   "example": "Estuvo largo, pero bueno.",
+   "examplePt": "Foi longo, mas bom.",
+   "pron": "KÔ-mo es-TU-bo tu DI-a — o 'v' soa 'b'",
+   "curiosity": "A pergunta \"¿cómo estuvo tu día?\" usa o pretérito: o dia já acabou."
+  },
+  "sp19-02": {
+   "word": "¿Vives por aquí?",
+   "translit": null,
+   "example": "Sí, a dos cuadras.",
+   "examplePt": "Sim, a duas quadras.",
+   "pron": "BI-bes por a-KI — o 'v' soa 'b'",
+   "curiosity": "\"Cuadra\" é quarteirão em quase toda a América Latina."
+  },
+  "sp19-03": {
+   "word": "¿A qué te dedicas?",
+   "translit": null,
+   "example": "Soy diseñadora gráfica.",
+   "examplePt": "Sou designer gráfica.",
+   "pron": "a ke te de-DI-kas — o 'qu' é 'k'",
+   "curiosity": "Em espanhol, \"dedicarse\" quer dizer fazer como profissão."
+  },
+  "sp19-04": {
+   "word": "¿Tienes hermanos?",
+   "translit": null,
+   "example": "Sí, dos hermanas menores.",
+   "examplePt": "Sim, duas irmãs mais novas.",
+   "pron": "TIE-nes er-MA-nos — o 'h' é mudo",
+   "curiosity": "\"Hermanos\" pode incluir irmãs: o masculino plural cobre os dois gêneros."
+  },
+  "sp19-05": {
+   "word": "¿Cuántos años tienes?",
+   "translit": null,
+   "example": "Tengo ocho años.",
+   "examplePt": "Tenho oito anos.",
+   "pron": "KUAN-tos A-nhos — o 'ñ' é 'nh'",
+   "curiosity": "Em espanhol se \"tem\" idade, não \"é\": \"tengo ocho años\"."
+  },
+  "sp19-06": {
+   "word": "¿Cómo te llamas?",
+   "translit": null,
+   "example": "Me llamo Sofía.",
+   "examplePt": "Meu nome é Sofia.",
+   "pron": "KÔ-mo te DJA-mas — o 'll' soa 'dj' suave",
+   "curiosity": "Literalmente, \"¿cómo te llamas?\" é \"como você se chama?\"."
+  },
+  "sp19-07": {
+   "word": "¿Te gusta la música?",
+   "translit": null,
+   "example": "Me encanta, sobre todo el rock.",
+   "examplePt": "Adoro, principalmente rock.",
+   "pron": "te GUS-ta la MU-si-ka — o 'g' é duro",
+   "curiosity": "Em \"te gusta\", quem gosta é \"te\" e o que agrada é o sujeito."
+  },
+  "sp19-08": {
+   "word": "¿Qué te gusta?",
+   "translit": null,
+   "example": "Dibujar y andar en patineta.",
+   "examplePt": "Desenhar e andar de skate.",
+   "pron": "ke te GUS-ta — o 'g' é duro",
+   "curiosity": "\"¿Qué te gusta?\" também serve para perguntar hobby ou gosto de comida."
+  },
+  "sp20-01": {
+   "word": "Juguemos a la pelota",
+   "translit": null,
+   "example": "Yo lanzo, tú atrapas.",
+   "examplePt": "Eu lanço, você pega.",
+   "pron": "hu-GUE-mos a la pe-LO-ta — o 'j' é 'h' soprado e o 'u' de 'gue' é mudo",
+   "curiosity": "O verbo \"jugar\" muda de \"u\" para \"ue\": juego, jugamos."
+  },
+  "sp20-02": {
+   "word": "Vamos al parque",
+   "translit": null,
+   "example": "Llevo la pelota grande.",
+   "examplePt": "Levo a bola grande.",
+   "pron": "BA-mos al PAR-ke — o 'qu' é 'k'",
+   "curiosity": "\"Al\" é a união de \"a + el\": vamos al parque."
+  },
+  "sp20-03": {
+   "word": "Vamos a pintar",
+   "translit": null,
+   "example": "Tengo pinceles y acuarelas.",
+   "examplePt": "Tenho pincéis e aquarelas.",
+   "pron": "BA-mos a pin-TAR — o 'v' soa 'b'",
+   "curiosity": "\"Pintar\" serve para pintar quadros e também pintar paredes."
+  },
+  "sp20-04": {
+   "word": "Vamos a nadar",
+   "translit": null,
+   "example": "El agua está tibia hoy.",
+   "examplePt": "A água está morna hoje.",
+   "pron": "BA-mos a na-DAR — o 'd' é suave",
+   "curiosity": "Em espanhol, \"nada\" sozinho quer dizer \"coisa nenhuma\": não confunda com nadar."
+  },
+  "sp20-05": {
+   "word": "Vamos a cantar",
+   "translit": null,
+   "example": "Yo pongo la guitarra.",
+   "examplePt": "Eu trago o violão.",
+   "pron": "BA-mos a kan-TAR — o 'r' final é firme",
+   "curiosity": "\"Cantar\" e \"canción\" vêm do mesmo verbo latino, cantare."
+  },
+  "sp20-06": {
+   "word": "Hagamos un pastel",
+   "translit": null,
+   "example": "Yo mezclo y tú horneas.",
+   "examplePt": "Eu misturo e você assa.",
+   "pron": "a-GA-mos un pas-TEL — o 'h' é mudo",
+   "curiosity": "\"Pastel\" é bolo em muitos países da América Latina e Espanha; \"torta\" é outro nome."
+  },
+  "sp20-07": {
+   "word": "Veamos una película",
+   "translit": null,
+   "example": "Yo traigo las palomitas.",
+   "examplePt": "Eu trago a pipoca.",
+   "pron": "be-A-mos U-na pe-LI-ku-la — o 'v' soa 'b'",
+   "curiosity": "\"Película\" vem do latim, \"pele pequena\", pela fina camada do filme."
+  },
+  "sp20-08": {
+   "word": "Vamos en bicicleta",
+   "translit": null,
+   "example": "Mi casco está en la mochila.",
+   "examplePt": "Meu capacete está na mochila.",
+   "pron": "BA-mos en bi-si-KLE-ta — o 'c' vira 's'",
+   "curiosity": "\"Bici\" é a forma curta e carinhosa de \"bicicleta\"."
+  },
+  "sp21-01": {
+   "word": "¿Puede decirme la hora?",
+   "translit": null,
+   "example": "Son las tres y media.",
+   "examplePt": "São três e meia.",
+   "pron": "PUÉ-de de-SIR-me la Ô-ra — o 'h' de 'hora' é mudo",
+   "curiosity": "Para educação, \"¿puede...?\" é mais formal que \"¿puedes...?\"."
+  },
+  "sp21-02": {
+   "word": "Estoy buscando esta calle",
+   "translit": null,
+   "example": "Creo que queda cerca de aquí.",
+   "examplePt": "Acho que fica perto daqui.",
+   "pron": "es-TOI bus-KAN-do ES-ta KA-dje — o 'll' soa 'dj' suave",
+   "curiosity": "\"Calle\" é feminina em espanhol: \"la calle\", e o plural é \"las calles\"."
+  },
+  "sp21-03": {
+   "word": "¿Cómo llego al centro?",
+   "translit": null,
+   "example": "Siga recto y doble a la izquierda.",
+   "examplePt": "Siga reto e vire à esquerda.",
+   "pron": "KÔ-mo DJE-go al SEN-tro — o 'll' soa 'dj' suave",
+   "curiosity": "Na América Latina, é comum ouvir \"ir derecho\" para ir em frente."
+  },
+  "sp21-04": {
+   "word": "¿Puede llamar un taxi?",
+   "translit": null,
+   "example": "Claro, uno viene en cinco minutos.",
+   "examplePt": "Claro, um chega em cinco minutos.",
+   "pron": "PUÉ-de dja-MAR un TAK-si — o 'x' soa 'ks'",
+   "curiosity": "\"Taxi\" é palavra quase universal no mundo hispânico e o plural é \"taxis\"."
+  },
+  "sp21-05": {
+   "word": "Mi celular se quedó sin carga",
+   "translit": null,
+   "example": "Aquí tengo un cargador de repuesto.",
+   "examplePt": "Aqui tenho um carregador reserva.",
+   "pron": "mi se-lu-LAR se ke-DÓ sin KAR-ga — o 'c' de 'celular' soa 's'",
+   "curiosity": "Na Espanha se diz \"móvil\"; na América Latina, \"celular\"."
+  },
+  "sp21-06": {
+   "word": "¿Puede tomarme una foto?",
+   "translit": null,
+   "example": "Por supuesto, sonría un poco.",
+   "examplePt": "Claro, sorria um pouco.",
+   "pron": "PUÉ-de to-MAR-me U-na FÔ-to — o 'm' final é nasal",
+   "curiosity": "\"Tomar una foto\" é a forma comum; \"sacar una foto\" também se ouve."
+  },
+  "sp21-07": {
+   "word": "¿Esta calle llega a la plaza?",
+   "translit": null,
+   "example": "No, siga dos cuadras más.",
+   "examplePt": "Não, siga mais duas quadras.",
+   "pron": "ES-ta KA-dje DJE-ga a la PLA-sa — 'll' soa 'dj'",
+   "curiosity": "Muitas cidades hispânicas têm uma \"Plaza Mayor\" no centro."
+  },
+  "sp21-08": {
+   "word": "¿Hay una farmacia cerca?",
+   "translit": null,
+   "example": "Sí, está a la vuelta de la esquina.",
+   "examplePt": "Sim, fica dobrando a esquina.",
+   "pron": "AI U-na far-MA-sia SER-ka — o 'c' vira 's' e o 'h' é mudo",
+   "curiosity": "Em algumas regiões, a farmácia antiga ainda é chamada de \"botica\"."
+  },
+  "sp22-01": {
+   "word": "Necesito hablar un momento contigo",
+   "translit": null,
+   "example": "Claro, pasa a mi oficina.",
+   "examplePt": "Claro, venha ao meu escritório.",
+   "pron": "ne-se-SI-to a-BLAR un mo-MEN-to kon-TI-go — o 'h' é mudo",
+   "curiosity": "\"Contigo\" nunca é \"con ti\": a forma exclusiva é contigo, conmigo, consigo."
+  },
+  "sp22-02": {
+   "word": "¿Puedo agendar una reunión?",
+   "translit": null,
+   "example": "Sí, el miércoles a las diez.",
+   "examplePt": "Sim, na quarta às dez.",
+   "pron": "PUÉ-do a-hen-DAR U-na rre-u-NIÔN — o 'g' antes de 'e' é um 'h' soprado",
+   "curiosity": "\"Agendar\" é muito usado na América Latina para marcar compromissos."
+  },
+  "sp22-03": {
+   "word": "¿Puedes enviar el archivo?",
+   "translit": null,
+   "example": "Ya te lo mandé por correo.",
+   "examplePt": "Já te mandei por e-mail.",
+   "pron": "PUÉ-des en-bi-AR el ar-TCHI-bo — o 'ch' soa 'tch'",
+   "curiosity": "Em informática, \"archivo\" é o arquivo digital e \"carpeta\" é a pasta."
+  },
+  "sp22-04": {
+   "word": "Termino esto antes del viernes",
+   "translit": null,
+   "example": "Perfecto, te espero el jueves.",
+   "examplePt": "Perfeito, espero você na quinta.",
+   "pron": "ter-MI-no ES-to AN-tes del BIER-nes — o 'v' soa 'b'",
+   "curiosity": "\"Del\" é a união de \"de + el\": antes del viernes."
+  },
+  "sp22-05": {
+   "word": "Otra vez se cayó internet",
+   "translit": null,
+   "example": "Reinicia el router, a ver.",
+   "examplePt": "Reinicie o roteador, vamos ver.",
+   "pron": "Ô-tra bes se ka-YÓ in-ter-NET — o 'y' é um 'i' rápido",
+   "curiosity": "Em espanhol, \"internet\" se escreve com minúscula e muitas vezes sem artigo."
+  },
+  "sp22-06": {
+   "word": "Voy a llegar un poco tarde",
+   "translit": null,
+   "example": "No te preocupes, aquí te espero.",
+   "examplePt": "Não se preocupe, te espero aqui.",
+   "pron": "boi a dje-GAR un PÔ-ko TAR-de — o 'll' soa 'dj' suave",
+   "curiosity": "Em espanhol, \"tarde\" é advérbio (tarde) e substantivo (tarde do dia)."
+  },
+  "sp22-07": {
+   "word": "Revisemos el plan juntos",
+   "translit": null,
+   "example": "Sí, empecemos por el primer paso.",
+   "examplePt": "Sim, comecemos pelo primeiro passo.",
+   "pron": "rre-bi-SE-mos el PLAN RRUN-tos — o 'j' é um 'h' soprado",
+   "curiosity": "O \"nosotros\" do imperativo copia o subjuntivo: revisemos, hablemos, comamos."
+  },
+  "sp22-08": {
+   "word": "Gracias por tu paciencia",
+   "translit": null,
+   "example": "Con gusto, lo hago de nuevo.",
+   "examplePt": "Com prazer, faço de novo.",
+   "pron": "GRA-sias por tu pa-SIEN-sia — o 'c' vira 's'",
+   "curiosity": "Em contexto formal, usa-se \"su paciencia\" em vez de \"tu paciencia\"."
+  },
+  "sp23-01": {
+   "word": "Me encantó esa película",
+   "translit": null,
+   "example": "La vi con toda mi familia.",
+   "examplePt": "Vi com toda a minha família.",
+   "pron": "me en-kan-TÓ E-sa pe-LI-ku-la — o 'c' é 'k'",
+   "curiosity": "\"Encantar\" funciona como \"gustar\": o sujeito é a coisa que encanta."
+  },
+  "sp23-02": {
+   "word": "Me pareció muy largo el libro",
+   "translit": null,
+   "example": "Tuvo demasiados capítulos, creo.",
+   "examplePt": "Teve capítulos demais, acho.",
+   "pron": "me pa-re-SIÓ mui LAR-go el LI-bro — o 'g' é duro",
+   "curiosity": "\"Parecer\" também quer dizer \"opinar\": \"me parece que...\" é \"acho que...\"."
+  },
+  "sp23-03": {
+   "word": "Prefiero el verano al invierno",
+   "translit": null,
+   "example": "A mí me encanta el sol.",
+   "examplePt": "Eu adoro o sol.",
+   "pron": "pre-fie-RO el be-RA-no al in-BIER-no — o 'v' soa 'b'",
+   "curiosity": "Em espanhol, depois de \"preferir\" se usa \"a\" para comparar: \"prefiero A a B\"."
+  },
+  "sp23-04": {
+   "word": "Esa canción es muy alegre",
+   "translit": null,
+   "example": "Podríamos bailarla en la fiesta.",
+   "examplePt": "Poderíamos dançar na festa.",
+   "pron": "E-sa kan-SIÔN es mui a-LE-gre — o 'c' vira 's'",
+   "curiosity": "\"Alegre\" vem do latim alacer, \"vivo\": a música alegre tem vida."
+  },
+  "sp23-05": {
+   "word": "No estoy de acuerdo contigo",
+   "translit": null,
+   "example": "Yo lo veo de otra manera.",
+   "examplePt": "Eu vejo de outra forma.",
+   "pron": "no es-TOI de a-KUER-do kon-TI-go — o 'd' é suave",
+   "curiosity": "Em espanhol, \"estar de acuerdo\" pede \"con\": \"estoy de acuerdo con ella\"."
+  },
+  "sp23-06": {
+   "word": "Me parece una buena idea",
+   "translit": null,
+   "example": "Hagámoslo el próximo fin de semana.",
+   "examplePt": "Façamos no próximo fim de semana.",
+   "pron": "me pa-RE-se U-na BUE-na i-DE-a — o 'c' vira 's'",
+   "curiosity": "\"Me parece\" é a forma suave de opinar: \"parece-me\"."
+  },
+  "sp23-07": {
+   "word": "La comida estaba muy salada",
+   "translit": null,
+   "example": "Pidamos agua para acompañarla.",
+   "examplePt": "Peçamos água para acompanhar.",
+   "pron": "la ko-MI-da es-TA-ba mui sa-LA-da — o 'd' é suave",
+   "curiosity": "\"Estaba\" é o imperfeito de \"estar\" e descreve como algo era no momento."
+  },
+  "sp23-08": {
+   "word": "Me gustan más los perros que los gatos",
+   "translit": null,
+   "example": "Yo tengo dos labradores en casa.",
+   "examplePt": "Eu tenho dois labradores em casa.",
+   "pron": "me GUS-tan MAS los PE-rros ke los GA-tos — o 'rr' é forte",
+   "curiosity": "Quando é plural, \"gusta\" muda para \"gustan\": me gusta el perro, me gustan los perros."
+  },
+  "sp24-01": {
+   "word": "Quiero aprender a tocar guitarra",
+   "translit": null,
+   "example": "Ya compré una y busco profesor.",
+   "examplePt": "Já comprei uma e procuro professor.",
+   "pron": "KIÊ-ro a-pren-DER a to-KAR gi-TA-rra — o 'rr' é forte",
+   "curiosity": "\"Tocar\" é verbo de instrumento e também de tocar com a mão."
+  },
+  "sp24-02": {
+   "word": "Me voy a mudar de ciudad",
+   "translit": null,
+   "example": "Busco un lugar más tranquilo.",
+   "examplePt": "Procuro um lugar mais tranquilo.",
+   "pron": "me boi a mu-DAR de siu-DAD — o 'c' vira 's' e o 'd' final é suave",
+   "curiosity": "\"Mudarse\" quer dizer mudar de casa; \"cambiar\" é só trocar."
+  },
+  "sp24-03": {
+   "word": "El próximo año voy a estudiar",
+   "translit": null,
+   "example": "Elegí medicina en la universidad.",
+   "examplePt": "Escolhi medicina na universidade.",
+   "pron": "el PRÓ-ksi-mo A-nho — o 'ñ' é 'nh' e o 'x' soa 'ks'",
+   "curiosity": "\"Próximo\" leva acento porque é esdrújula, e toda esdrújula leva acento."
+  },
+  "sp24-04": {
+   "word": "Pienso abrir una panadería",
+   "translit": null,
+   "example": "Venderé pan y pastelitos caseros.",
+   "examplePt": "Venderei pão e docinhos caseiros.",
+   "pron": "PIEN-so a-BRIR U-na pa-na-de-RÍ-a — o 'ie' numa batida",
+   "curiosity": "Em espanhol, \"pensar\" + infinitivo expressa uma intenção: \"pienso viajar\"."
+  },
+  "sp24-05": {
+   "word": "Algún día conoceré el mar",
+   "translit": null,
+   "example": "Primero ahorro, luego viajo.",
+   "examplePt": "Primeiro economizo, depois viajo.",
+   "pron": "al-GUN DI-a ko-no-se-RÉ el mar — o 'c' vira 's'",
+   "curiosity": "O futuro \"conoceré\" leva acento no final e é um verbo regular de -er."
+  },
+  "sp24-06": {
+   "word": "Quiero tener un perro",
+   "translit": null,
+   "example": "Se llamaría Max y sería enorme.",
+   "examplePt": "Chamaria Max e seria enorme.",
+   "pron": "KIÊ-ro te-NER un PÊ-rro — o 'rr' é forte",
+   "curiosity": "\"Tener\" é muito usado: tener hambre, tener sed, tener frío, tener años."
+  },
+  "sp24-07": {
+   "word": "Voy a correr cada mañana",
+   "translit": null,
+   "example": "Mi meta es una carrera de cinco.",
+   "examplePt": "Minha meta é uma corrida de cinco.",
+   "pron": "boi a ko-RRER KA-da ma-NHA-na — o 'rr' é forte",
+   "curiosity": "\"Voy a + infinitivo\" é o futuro mais usado na fala."
+  },
+  "sp24-08": {
+   "word": "Voy a leer más libros",
+   "translit": null,
+   "example": "Empiezo con una novela corta.",
+   "examplePt": "Começo com um romance curto.",
+   "pron": "boi a le-ER mas LI-bros — 'le-er' são duas sílabas",
+   "curiosity": "Em espanhol, \"leer\" tem duas sílabas e o 'e' dobra: le-er."
+  },
+  "sp25-01": {
+   "word": "El sábado fui a la playa",
+   "translit": null,
+   "example": "¿Y nadaste en el mar?",
+   "examplePt": "E nadou no mar?",
+   "pron": "el SA-ba-do fui a la PLA-ya — o 'y' é um 'i' rápido",
+   "curiosity": "\"Fui\" serve para os verbos \"ir\" e \"ser\" no passado: fui a la playa, fui feliz."
+  },
+  "sp25-02": {
+   "word": "Pasé el día en casa",
+   "translit": null,
+   "example": "Leí, dormí y vi televisión.",
+   "examplePt": "Li, dormi e vi televisão.",
+   "pron": "pa-SÉ el DI-a en KA-sa — o 'é' final é forte e fechado",
+   "curiosity": "Em espanhol, \"pasar\" serve para passar tempo e passar por um lugar."
+  },
+  "sp25-03": {
+   "word": "Me encontré con un viejo amigo",
+   "translit": null,
+   "example": "Hacía años que no lo veía.",
+   "examplePt": "Fazia anos que não o via.",
+   "pron": "me en-kon-TRÉ kon un BIÉ-ho a-MI-go — o 'j' é um 'h' soprado",
+   "curiosity": "\"Encontrarse con alguien\" é encontrar sem planejar, por acaso."
+  },
+  "sp25-04": {
+   "word": "Llovió todo el día",
+   "translit": null,
+   "example": "Nos quedamos jugando adentro.",
+   "examplePt": "Ficamos brincando lá dentro.",
+   "pron": "djo-BIÓ TO-do el DI-a — o 'll' soa 'dj' suave",
+   "curiosity": "\"Llover\" muda para \"llueve\" no presente e \"llovió\" no passado."
+  },
+  "sp25-05": {
+   "word": "Vi una película genial",
+   "translit": null,
+   "example": "Era sobre un dragón y un niño.",
+   "examplePt": "Era sobre um dragão e um menino.",
+   "pron": "bi U-na pe-LI-ku-la he-NIAL — o 'g' antes de 'e' é um 'h' soprado",
+   "curiosity": "\"Vi\" é monossílabo e não leva acento, como \"fue\", \"fui\" e \"dio\"."
+  },
+  "sp25-06": {
+   "word": "Cociné para toda mi familia",
+   "translit": null,
+   "example": "Hice lasaña y ensalada fresca.",
+   "examplePt": "Fiz lasanha e salada fresca.",
+   "pron": "ko-si-NÉ PA-ra TO-da mi fa-MI-lia — o 'c' vira 's' antes de 'i'",
+   "curiosity": "\"Cociné\" vem de \"cocinar\" e acentua o final por ser passado."
+  },
+  "sp25-07": {
+   "word": "Dormí muy bien anoche",
+   "translit": null,
+   "example": "Hoy me siento lleno de energía.",
+   "examplePt": "Hoje me sinto cheio de energia.",
+   "pron": "dor-MI mui BIEN a-NÔ-tche — o 'ch' soa 'tch'",
+   "curiosity": "\"Anoche\" é a noite de ontem; para \"ontem de manhã\" usa-se \"ayer por la mañana\"."
+  },
+  "sp25-08": {
+   "word": "Hoy me desperté muy temprano",
+   "translit": null,
+   "example": "Quería ver salir el sol.",
+   "examplePt": "Queria ver o sol nascer.",
+   "pron": "OI me des-per-TÉ mui tem-PRA-no — o 'h' é mudo",
+   "curiosity": "\"Despertarse\" é reflexivo: \"me desperté\" é \"eu acordei\"."
+  },
+  "sp26-01": {
+   "word": "Mucho gusto en conocerte",
+   "translit": null,
+   "example": "El gusto es mío, de verdad.",
+   "examplePt": "O prazer é meu, de verdade.",
+   "pron": "MU-tcho GUS-to en ko-no-SER-te — o 'ch' soa 'tch'",
+   "curiosity": "\"Mucho gusto\" é a forma curta e universal para se apresentar."
+  },
+  "sp26-02": {
+   "word": "¿Quieres tomar un café conmigo?",
+   "translit": null,
+   "example": "Me encantaría, ¿a qué hora?",
+   "examplePt": "Eu adoraria, a que horas?",
+   "pron": "KIÊ-res to-MAR un ka-FÉ kon-MI-go — o 'g' é duro",
+   "curiosity": "Em espanhol, \"tomar un café\" é a forma habitual de dizer \"beber um café\"."
+  },
+  "sp26-03": {
+   "word": "¿Podemos ser buenos amigos?",
+   "translit": null,
+   "example": "Claro, ya lo somos.",
+   "examplePt": "Claro, já somos.",
+   "pron": "po-DE-mos ser BUE-nos a-MI-gos — o 'g' é duro",
+   "curiosity": "\"Amigo\" vem do latim amicus, e \"amar\" vem de amare."
+  },
+  "sp26-04": {
+   "word": "Hablemos más seguido, ¿te parece?",
+   "translit": null,
+   "example": "Sí, mándame mensajes cuando quieras.",
+   "examplePt": "Sim, me mande mensagens quando quiser.",
+   "pron": "a-BLE-mos mas se-GUI-do — o 'h' é mudo e o 'gu' é 'g'",
+   "curiosity": "\"Seguido\" quer dizer \"com frequência\" na América Latina."
+  },
+  "sp26-05": {
+   "word": "Siempre me divierto contigo",
+   "translit": null,
+   "example": "Tú me haces reír muchísimo.",
+   "examplePt": "Você me faz rir demais.",
+   "pron": "SIEM-pre me di-bi-ER-to kon-TI-go — o 'v' soa 'b'",
+   "curiosity": "\"Siempre\" é um advérbio invariável; nunca muda de forma."
+  },
+  "sp26-06": {
+   "word": "¿Puedo presentarte a mi amiga?",
+   "translit": null,
+   "example": "Encantada de conocerte, mucho gusto.",
+   "examplePt": "Encantada em conhecê-la, muito prazer.",
+   "pron": "PUÉ-do pre-sen-TAR-te a mi a-MI-ga — o 'g' é duro",
+   "curiosity": "\"Presentar\" é apresentar; não é \"presentear\", que é \"regalar\"."
+  },
+  "sp26-07": {
+   "word": "Me encantó conversar contigo",
+   "translit": null,
+   "example": "Fue una charla muy divertida.",
+   "examplePt": "Foi uma conversa muito divertida.",
+   "pron": "me en-kan-TÓ kon-ber-SAR kon-TI-go — o 'v' soa 'b'",
+   "curiosity": "\"Charla\" é conversa informal; \"conversación\" é mais formal."
+  },
+  "sp26-08": {
+   "word": "Gracias por venir hoy",
+   "translit": null,
+   "example": "Fue un honor tenerlos con nosotros.",
+   "examplePt": "Foi uma honra tê-los conosco.",
+   "pron": "GRA-sias por be-NIR OI — o 'v' soa 'b' e o 'h' é mudo",
+   "curiosity": "\"Venir\" muda para \"viene\" e \"vino\" no presente e no passado."
+  },
+  "sp27-01": {
+   "word": "¿Quieres algo de beber?",
+   "translit": null,
+   "example": "Un vaso de agua, por favor.",
+   "examplePt": "Um copo d'água, por favor.",
+   "pron": "KIÊ-res AL-go de be-BER — o 'b' é suave",
+   "curiosity": "Em espanhol, \"beber\" é um verbo regular e \"tomar\" também vale."
+  },
+  "sp27-02": {
+   "word": "La cena ya está lista",
+   "translit": null,
+   "example": "Pasemos todos a la mesa.",
+   "examplePt": "Vamos todos à mesa.",
+   "pron": "la SE-na ya es-TA LIS-ta — o 'c' vira 's' e o 'y' é um 'i' rápido",
+   "curiosity": "\"Cena\" é jantar, e em português \"cena\" é parte de um filme: falso amigo."
+  },
+  "sp27-03": {
+   "word": "Puedes sentarte aquí mismo",
+   "translit": null,
+   "example": "Gracias, es una silla cómoda.",
+   "examplePt": "Obrigado, é uma cadeira confortável.",
+   "pron": "PUÉ-des sen-TAR-te a-KI MIS-mo — o 'ue' sai numa batida só",
+   "curiosity": "\"Mismo\" reforça o lugar: \"aquí mismo\" é \"bem aqui\"."
+  },
+  "sp27-04": {
+   "word": "¿Quieres servirte otra vez?",
+   "translit": null,
+   "example": "Un poquito más, está riquísimo.",
+   "examplePt": "Só mais um pouquinho, está delicioso.",
+   "pron": "KIÊ-res ser-BIR-te Ô-tra bes — o 'v' soa 'b'",
+   "curiosity": "\"Riquísimo\" é o superlativo de \"rico\": o final \"-ísimo\" dá o máximo."
+  },
+  "sp27-05": {
+   "word": "Esta sopa está muy caliente",
+   "translit": null,
+   "example": "Espera un rato, que se enfríe.",
+   "examplePt": "Espere um pouco, deixe esfriar.",
+   "pron": "ES-ta SÔ-pa es-TA mui ka-LIEN-te — o 'ie' numa batida",
+   "curiosity": "\"Esta\" sem acento aponta algo; \"está\" com acento é verbo."
+  },
+  "sp27-06": {
+   "word": "Le faltó un poco de sal",
+   "translit": null,
+   "example": "Aquí tienes el salero.",
+   "examplePt": "Aqui está o saleiro.",
+   "pron": "le fal-TÓ un PÔ-ko de SAL — o 'l' toca nos dentes",
+   "curiosity": "Em \"le faltó sal\", o \"le\" mostra a quem ou ao quê faltou algo."
+  },
+  "sp27-07": {
+   "word": "¿Me pasas la sal, por favor?",
+   "translit": null,
+   "example": "Claro, aquí la tienes.",
+   "examplePt": "Claro, aqui está.",
+   "pron": "me PA-sas la SAL por fa-BOR — o 'v' soa 'b'",
+   "curiosity": "\"Pasar\" é passar algo para alguém e é o verbo clássico de pedir na mesa."
+  },
+  "sp27-08": {
+   "word": "Hoy yo pago la cuenta",
+   "translit": null,
+   "example": "No, no, esta vez pago yo.",
+   "examplePt": "Não, não, dessa vez eu pago.",
+   "pron": "OI yo PA-go la KUEN-ta — o 'y' é um 'i' rápido",
+   "curiosity": "\"Cuenta\" é conta de restaurante e também conta de matemática."
+  },
+  "sp28-01": {
+   "word": "Necesito tomar más agua",
+   "translit": null,
+   "example": "Llevo siempre una botella en la mochila.",
+   "examplePt": "Levo sempre uma garrafa na mochila.",
+   "pron": "ne-se-SI-to to-MAR mas A-gua — o 'gu' soa 'gu' de 'água'",
+   "curiosity": "Em média, cerca de 60% do corpo de um adulto é feito de água."
+  },
+  "sp28-02": {
+   "word": "Hoy voy a dormir más temprano",
+   "translit": null,
+   "example": "Mañana tengo que madrugar.",
+   "examplePt": "Amanhã preciso acordar cedo.",
+   "pron": "OI boi a dor-MIR mas tem-PRA-no — o 'h' é mudo",
+   "curiosity": "\"Madrugar\" quer dizer acordar bem cedo e vem de \"madrugada\"."
+  },
+  "sp28-03": {
+   "word": "Hice ejercicio esta mañana",
+   "translit": null,
+   "example": "Corrí tres kilómetros sin parar.",
+   "examplePt": "Corri três quilômetros sem parar.",
+   "pron": "I-se e-rer-SI-sio ES-ta ma-NHA-na — o 'j' é um 'h' soprado",
+   "curiosity": "\"Hacer ejercicio\" é fazer exercício; o verbo é \"hacer\", não \"fazer\"."
+  },
+  "sp28-04": {
+   "word": "Estoy intentando comer mejor",
+   "translit": null,
+   "example": "Más fruta y menos azúcar.",
+   "examplePt": "Mais fruta e menos açúcar.",
+   "pron": "es-TOI in-ten-TAN-do ko-MER me-HOR — o 'j' é um 'h' soprado",
+   "curiosity": "\"Mejor\" é o comparativo de \"bien\": mejor, o melhor."
+  },
+  "sp28-05": {
+   "word": "Tengo que ir al dentista",
+   "translit": null,
+   "example": "Tengo una muela que me duele.",
+   "examplePt": "Tenho um molar que dói.",
+   "pron": "TEN-go ke ir al den-TIS-ta — o 'qu' de 'que' é 'k'",
+   "curiosity": "\"Tener que + infinitivo\" expressa obrigação: tengo que ir."
+  },
+  "sp28-06": {
+   "word": "Lávate las manos antes de comer",
+   "translit": null,
+   "example": "Con agua y jabón, por veinte segundos.",
+   "examplePt": "Com água e sabão, por vinte segundos.",
+   "pron": "LA-ba-te las MA-nos AN-tes — o 'v' soa 'b'",
+   "curiosity": "Lavar as mãos por cerca de vinte segundos ajuda a eliminar germes."
+  },
+  "sp28-07": {
+   "word": "Voy a tomar un té caliente",
+   "translit": null,
+   "example": "Con un poco de miel y limón.",
+   "examplePt": "Com um pouco de mel e limão.",
+   "pron": "boi a to-MAR un TÉ ka-LIEN-te — o 'ie' numa batida",
+   "curiosity": "Em espanhol, \"té\" se escreve com acento e o plural é \"tés\"."
+  },
+  "sp28-08": {
+   "word": "Haz una pausa y respira",
+   "translit": null,
+   "example": "Cierra los ojos y cuenta hasta diez.",
+   "examplePt": "Feche os olhos e conte até dez.",
+   "pron": "AS U-na PAU-sa i rres-PI-ra — o 'h' é mudo",
+   "curiosity": "\"Haz\" é o imperativo irregular de \"hacer\", sem o \"e\" final."
+  },
+  "sp29-01": {
+   "word": "Quiero conocer otros países",
+   "translit": null,
+   "example": "Empezaría por Perú y Chile.",
+   "examplePt": "Começaria pelo Peru e Chile.",
+   "pron": "KIÊ-ro ko-no-SER Ô-tros pa-I-ses — 'pa-í-ses' tem 3 sílabas",
+   "curiosity": "\"Conocer\" é conhecer pessoas e lugares; \"saber\" é conhecer fatos."
+  },
+  "sp29-02": {
+   "word": "Vamos a reservar el hotel hoy",
+   "translit": null,
+   "example": "Busco una oferta con desayuno.",
+   "examplePt": "Procuro uma oferta com café da manhã.",
+   "pron": "BA-mos a rre-ser-BAR el o-TEL OI — o 'h' é mudo",
+   "curiosity": "\"Hotel\" tem a tônica no final em espanhol: ho-TEL."
+  },
+  "sp29-03": {
+   "word": "¿Cuánto cuesta el pasaje?",
+   "translit": null,
+   "example": "Depende del destino, claro.",
+   "examplePt": "Depende do destino, claro.",
+   "pron": "KUAN-to KUES-ta el pa-SA-re — o 'j' é um 'h' soprado",
+   "curiosity": "\"Pasaje\" é passagem em vários países; \"boleto\" também aparece."
+  },
+  "sp29-04": {
+   "word": "Tenemos que hacer las maletas",
+   "translit": null,
+   "example": "Falta empacar la ropa de abrigo.",
+   "examplePt": "Falta arrumar as roupas de frio.",
+   "pron": "te-NE-mos ke a-SER las ma-LE-tas — o 'h' é mudo",
+   "curiosity": "\"Hacer las maletas\" é fazer as malas, e no México também se diz \"empacar\"."
+  },
+  "sp29-05": {
+   "word": "Vamos a llegar temprano al aeropuerto",
+   "translit": null,
+   "example": "Mejor evitar el tráfico de la tarde.",
+   "examplePt": "Melhor evitar o trânsito da tarde.",
+   "pron": "BA-mos a dje-GAR tem-PRA-no al a-e-ro-PUER-to — 'll' = 'dj'",
+   "curiosity": "\"Llegar\" quer dizer chegar, e \"llegada\" é a chegada nos aeroportos."
+  },
+  "sp29-06": {
+   "word": "¿Dónde podemos alquilar un auto?",
+   "translit": null,
+   "example": "Hay una agencia en el aeropuerto.",
+   "examplePt": "Tem uma agência no aeroporto.",
+   "pron": "DON-de po-DE-mos al-ki-LAR un AU-to — o 'qu' é 'k'",
+   "curiosity": "Na Espanha se diz \"coche\"; na América Latina, \"auto\" ou \"carro\"."
+  },
+  "sp29-07": {
+   "word": "Quiero visitar los museos de la ciudad",
+   "translit": null,
+   "example": "El de historia es el más grande.",
+   "examplePt": "O de história é o maior.",
+   "pron": "KIÊ-ro bi-si-TAR los mu-SE-os de la siu-DAD — 'e' e 'o' em sílabas separadas",
+   "curiosity": "\"Museo\" vem do grego mouseion, o \"templo das Musas\"."
+  },
+  "sp29-08": {
+   "word": "El paseo empieza a las nueve",
+   "translit": null,
+   "example": "Hay que llegar diez minutos antes.",
+   "examplePt": "É preciso chegar dez minutos antes.",
+   "pron": "el pa-SE-o em-PIE-sa a las NUE-be — o 'v' soa 'b'",
+   "curiosity": "Na hora, o espanhol diz \"es la una\", mas \"son las dos\", \"son las tres\"."
+  },
+  "sp30-01": {
+   "word": "Fue un gusto verte",
+   "translit": null,
+   "example": "Para mí también, cuídate mucho.",
+   "examplePt": "Para mim também, se cuide.",
+   "pron": "FUÊ un GUS-to BER-te — o 'v' soa 'b'",
+   "curiosity": "\"Fue un gusto\" é a despedida educada depois de um encontro."
+  },
+  "sp30-02": {
+   "word": "Mándame un mensaje luego",
+   "translit": null,
+   "example": "Sí, cuando llegue te aviso.",
+   "examplePt": "Sim, quando chegar eu aviso.",
+   "pron": "MAN-da-me un men-SA-re LUE-go — o 'j' é um 'h' soprado",
+   "curiosity": "\"Mensaje\" é masculino em espanhol: \"un mensaje\", e \"mensagem\" é feminino."
+  },
+  "sp30-03": {
+   "word": "Vamos a mantenernos en contacto",
+   "translit": null,
+   "example": "Te escribo cada semana, lo prometo.",
+   "examplePt": "Escrevo toda semana, prometo.",
+   "pron": "BA-mos a man-te-NER-nos en kon-TAK-to — o 'v' soa 'b'",
+   "curiosity": "\"Contacto\" e \"contactar\" são palavras muito usadas em espanhol."
+  },
+  "sp30-04": {
+   "word": "Saluda a tu familia",
+   "translit": null,
+   "example": "Se lo diré de tu parte.",
+   "examplePt": "Direi a eles da sua parte.",
+   "pron": "sa-LU-da a tu fa-MI-lia — o 'ia' final é uma sílaba só",
+   "curiosity": "\"Saludar\" também é cumprimentar: \"saludos\" é \"lembranças\"."
+  },
+  "sp30-05": {
+   "word": "Vuelve pronto a visitarnos",
+   "translit": null,
+   "example": "Prometo que volveré en verano.",
+   "examplePt": "Prometo voltar no verão.",
+   "pron": "BUEL-be PRON-to a bi-si-TAR-nos — o 'v' soa 'b'",
+   "curiosity": "\"Volver\" tem raiz irregular: vuelvo, vuelves, vuelve."
+  },
+  "sp30-06": {
+   "word": "Voy a extrañarte mucho",
+   "translit": null,
+   "example": "Tú también me vas a hacer falta.",
+   "examplePt": "Você também vai me fazer falta.",
+   "pron": "boi a eks-tra-NHAR-te MU-tcho — o 'ñ' é 'nh'",
+   "curiosity": "\"Extrañar\" é sentir falta; \"extraño\" é estranho, o falso amigo."
+  },
+  "sp30-07": {
+   "word": "Hasta la próxima vez",
+   "translit": null,
+   "example": "Y que sea pronto, ¿eh?",
+   "examplePt": "E que seja logo, hein?",
+   "pron": "AS-ta la PRÓ-ksi-ma bes — o 'h' é mudo e o 'x' soa 'ks'",
+   "curiosity": "\"Hasta\" é \"até\" e é igual em \"hasta mañana\", \"hasta luego\"."
+  },
+  "sp30-08": {
+   "word": "Que tengas una buena semana",
+   "translit": null,
+   "example": "Igualmente, que te vaya muy bien.",
+   "examplePt": "Igualmente, que corra tudo bem.",
+   "pron": "ke TEN-gas U-na BUE-na se-MA-na — o 'g' é duro",
+   "curiosity": "\"Que tengas\" usa subjuntivo para desejar: \"que tengas\"."
+  }
+ }
+}

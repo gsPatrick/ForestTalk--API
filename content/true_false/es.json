@@ -1,0 +1,2407 @@
+{
+ "game": "true_false",
+ "language": "es",
+ "version": 3,
+ "entries": {
+  "tf01-01": {
+   "word": "la vaca",
+   "translit": null,
+   "example": "¡La vaca lleva un sombrero!",
+   "examplePt": "A vaca está usando um chapéu!",
+   "pron": "BA-ka — o 'v' soa como 'b', com os lábios juntos",
+   "curiosity": "Para distinguir B e V, as crianças dizem 'b de burro' e 'v de vaca'."
+  },
+  "tf01-02": {
+   "word": "el cerdo",
+   "translit": null,
+   "example": "¿Por qué el cerdo ama el barro?",
+   "examplePt": "Por que o porco ama a lama?",
+   "pron": "SÉR-do — o 'c' soa 's' e o 'r' é batido, curtinho",
+   "curiosity": "O porco também é 'puerco' no México e 'chancho' no Chile, no Peru e na Argentina."
+  },
+  "tf01-03": {
+   "word": "la gallina",
+   "translit": null,
+   "example": "¡La gallina se escapa de la granja!",
+   "examplePt": "A galinha está fugindo da fazenda!",
+   "pron": "ga-YI-na — o 'll' soa como 'i' ou 'j' suave, nunca 'lh'",
+   "curiosity": "'Ser gallina' é ser covarde, e chamar alguém de galinha é bem comum!"
+  },
+  "tf01-04": {
+   "word": "el caballo",
+   "translit": null,
+   "example": "Un caballo blanco corre por el prado.",
+   "examplePt": "Um cavalo branco corre pelo prado.",
+   "pron": "ka-BA-yo — o 'll' soa como 'i' ou 'j' suave e o 'b' é leve",
+   "curiosity": "'Caballero' (cavalheiro) vem de 'caballo': antes, era quem andava a cavalo."
+  },
+  "tf01-05": {
+   "word": "la oveja",
+   "translit": null,
+   "example": "Cuento ovejas, pero no me duermo.",
+   "examplePt": "Conto ovelhas, mas não pego no sono.",
+   "pron": "o-BÉ-ha — o 'v' soa 'b' e o 'j' é um 'h' aspirado forte",
+   "curiosity": "Existe 'la oveja negra', a ovelha negra da família, igualzinho ao português!"
+  },
+  "tf01-06": {
+   "word": "el pato",
+   "translit": null,
+   "example": "¡Cuac, cuac! El pato quiere pan.",
+   "examplePt": "Quá, quá! O pato quer pão.",
+   "pron": "PA-to — o 'o' final é 'o' puro, nunca 'u'",
+   "curiosity": "Em espanhol o pato faz 'cuac, cuac', o nosso 'quá, quá'."
+  },
+  "tf01-07": {
+   "word": "la cabra",
+   "translit": null,
+   "example": "La cabra se come mi tarea.",
+   "examplePt": "A cabra come minha lição de casa.",
+   "pron": "KA-bra — o 'b' é suave e o 'r' é batido, curto",
+   "curiosity": "Na Espanha, 'estar como una cabra' é estar meio maluco!"
+  },
+  "tf01-08": {
+   "word": "el burro",
+   "translit": null,
+   "example": "¿Quién despertó al burro dormilón?",
+   "examplePt": "Quem acordou o burro dorminhoco?",
+   "pron": "BU-rro — o 'rr' vibra forte na ponta da língua",
+   "curiosity": "Como em português, 'no seas burro' é um xingamento leve para quem age sem pensar."
+  },
+  "tf01-09": {
+   "word": "el conejo",
+   "translit": null,
+   "example": "¿Ves al conejo en el jardín?",
+   "examplePt": "Você vê o coelho no jardim?",
+   "pron": "ko-NÉ-ho — o 'j' é um 'h' forte e o 'e' é puro",
+   "curiosity": "'Conejillo de Indias' é a cobaia, literalmente 'coelhinho da Índia'."
+  },
+  "tf01-10": {
+   "word": "el pavo",
+   "translit": null,
+   "example": "¡Cuidado, el pavo corre detrás de ti!",
+   "examplePt": "Cuidado, o peru corre atrás de você!",
+   "pron": "PA-bo — o 'v' soa 'b', com os lábios se tocando",
+   "curiosity": "'Pavo' é peru, e o pavão é 'pavo real': falso amigo clássico!"
+  },
+  "tf02-01": {
+   "word": "el lobo",
+   "translit": null,
+   "example": "¿Oyes al lobo aullar esta noche?",
+   "examplePt": "Você ouve o lobo uivar esta noite?",
+   "pron": "LO-bo — o 'b' entre vogais é suave, quase sem fechar os lábios",
+   "curiosity": "'Hombre lobo' é lobisomem, e 'lobo de mar' é um marinheiro experiente."
+  },
+  "tf02-02": {
+   "word": "el oso",
+   "translit": null,
+   "example": "El oso duerme todo el invierno.",
+   "examplePt": "O urso dorme todo o inverno.",
+   "pron": "O-so — o 's' entre vogais soa 's', nunca 'z'",
+   "curiosity": "A constelação da Ursa Maior é 'la Osa Mayor': 'osa' é a ursa."
+  },
+  "tf02-03": {
+   "word": "el zorro",
+   "translit": null,
+   "example": "Un zorro astuto roba mi sándwich.",
+   "examplePt": "Uma raposa astuta rouba meu sanduíche.",
+   "pron": "SO-rro — o 'z' soa 's' e o 'rr' vibra forte",
+   "curiosity": "O herói mascarado Zorro ganhou o nome da palavra espanhola para 'raposa'."
+  },
+  "tf02-04": {
+   "word": "el venado",
+   "translit": null,
+   "example": "Un venado cruza el río despacio.",
+   "examplePt": "Um veado cruza o rio devagar.",
+   "pron": "be-NA-do — o 'v' soa 'b' e o 'd' é suave, quase 'dh'",
+   "curiosity": "Em vários países 'venado' é tanto o animal quanto a carne de caça."
+  },
+  "tf02-05": {
+   "word": "la ardilla",
+   "translit": null,
+   "example": "¿Quién escondió las nueces? ¡La ardilla!",
+   "examplePt": "Quem escondeu as nozes? O esquilo!",
+   "pron": "ar-DI-ya — o 'll' soa como 'i' ou 'j' suave, não é 'lh'",
+   "curiosity": "'Ser una ardilla' é ser esperto, ágil e vivo, como o bichinho."
+  },
+  "tf02-06": {
+   "word": "el búho",
+   "translit": null,
+   "example": "El búho vigila el bosque de noche.",
+   "examplePt": "A coruja vigia a floresta à noite.",
+   "pron": "BU-o — o 'h' é mudo e a força cai no 'bú'",
+   "curiosity": "'Lechuza' é a coruja-das-torres, de rosto em forma de coração: outra coruja!"
+  },
+  "tf02-07": {
+   "word": "el jabalí",
+   "translit": null,
+   "example": "Un jabalí enorme sale del bosque.",
+   "examplePt": "Um javali enorme sai do bosque.",
+   "pron": "ha-ba-LÍ — o 'j' é um 'h' aspirado e a força cai no final",
+   "curiosity": "Vem do árabe e quer dizer 'da montanha': palavra com séculos de viagem!"
+  },
+  "tf02-08": {
+   "word": "el tejón",
+   "translit": null,
+   "example": "¿Hay un tejón dentro de la cueva?",
+   "examplePt": "Há um texugo dentro da caverna?",
+   "pron": "te-HÓN — o 'j' é um 'h' forte e o 'n' final é claro, sem nasal",
+   "curiosity": "Em -ón, o plural perde o acento: 'tejón' vira 'tejones', 'limón' vira 'limones'."
+  },
+  "tf02-09": {
+   "word": "el mapache",
+   "translit": null,
+   "example": "¡Un mapache abrió mi basura otra vez!",
+   "examplePt": "Um guaxinim abriu meu lixo outra vez!",
+   "pron": "ma-PA-che — o 'ch' soa como o 'tch' de 'tchau'",
+   "curiosity": "Vem do náuatle, a língua dos astecas: 'mapachtli'. Quem diria!"
+  },
+  "tf02-10": {
+   "word": "el alce",
+   "translit": null,
+   "example": "El alce tiene cuernos gigantes.",
+   "examplePt": "O alce tem chifres gigantes.",
+   "pron": "AL-se — o 'l' final é bem pronunciado e 'ce' soa 'se'",
+   "curiosity": "É o maior membro da família dos cervos do mundo!"
+  },
+  "tf03-01": {
+   "word": "el árbol",
+   "translit": null,
+   "example": "Mi gato vive en ese árbol.",
+   "examplePt": "Meu gato mora naquela árvore.",
+   "pron": "AR-bol — o 'l' final é de verdade, não vira 'u'",
+   "curiosity": "A árvore é feminina em português, mas masculina em espanhol: 'el árbol'."
+  },
+  "tf03-02": {
+   "word": "la flor",
+   "translit": null,
+   "example": "¿Quién me regaló esta flor tan bonita?",
+   "examplePt": "Quem me deu esta flor tão bonita?",
+   "pron": "FLOR — o 'r' final é suave, sem vogal extra depois",
+   "curiosity": "'La flor y nata' é a nata da sociedade: a elite de algum grupo."
+  },
+  "tf03-03": {
+   "word": "la hoja",
+   "translit": null,
+   "example": "Una hoja amarilla cae sobre mi cabeza.",
+   "examplePt": "Uma folha amarela cai sobre minha cabeça.",
+   "pron": "O-ha — o 'h' é mudo e o 'j' é um 'h' aspirado forte",
+   "curiosity": "'Hoja' também é folha de papel e a lâmina de uma faca."
+  },
+  "tf03-04": {
+   "word": "el pasto",
+   "translit": null,
+   "example": "¡No pises el pasto recién cortado!",
+   "examplePt": "Não pise na grama recém-cortada!",
+   "pron": "PAS-to — o 's' antes do 't' é 's' limpo, sem 'ch'",
+   "curiosity": "'Pasto' é também o lugar onde o gado come; o gramado cortado é 'césped'."
+  },
+  "tf03-05": {
+   "word": "el hongo",
+   "translit": null,
+   "example": "¿Este hongo es seguro para comer?",
+   "examplePt": "Este cogumelo é seguro para comer?",
+   "pron": "ON-go — o 'h' é mudo e o 'g' é duro, como em 'gato'",
+   "curiosity": "'Hongo' também é fungo, e o cogumelo de cozinha costuma ser 'champiñón'."
+  },
+  "tf03-06": {
+   "word": "la raíz",
+   "translit": null,
+   "example": "Las raíces del roble son enormes.",
+   "examplePt": "As raízes do carvalho são enormes.",
+   "pron": "rra-ÍZ — o 'r' inicial vibra forte e o acento cai no 'í'",
+   "curiosity": "'Cortar de raíz' é acabar com um problema pela raiz, de vez."
+  },
+  "tf03-07": {
+   "word": "la semilla",
+   "translit": null,
+   "example": "Planto una semilla y espero un milagro.",
+   "examplePt": "Planto uma semente e espero um milagre.",
+   "pron": "se-MI-ya — o 'll' soa como 'i' ou 'j' suave",
+   "curiosity": "Parente de 'sembrar' (semear): quem 'siembra' coloca 'semillas' na terra."
+  },
+  "tf03-08": {
+   "word": "la rama",
+   "translit": null,
+   "example": "¿Aguanta esta rama mi peso?",
+   "examplePt": "Este galho aguenta meu peso?",
+   "pron": "RRA-ma — o 'r' inicial vibra forte, mesmo escrito com um só",
+   "curiosity": "'Irse por las ramas' é fugir do assunto, pulando de galho em galho!"
+  },
+  "tf03-09": {
+   "word": "el cactus",
+   "translit": null,
+   "example": "El cactus pincha, ¡no lo abraces!",
+   "examplePt": "O cacto espeta, não o abrace!",
+   "pron": "KAK-tus — os dois 'c' soam 'k' e o 's' final é claro",
+   "curiosity": "O plural não muda: 'los cactus', com o mesmo S final."
+  },
+  "tf03-10": {
+   "word": "el tulipán",
+   "translit": null,
+   "example": "¡Qué lindo tulipán rojo!",
+   "examplePt": "Que linda tulipa vermelha!",
+   "pron": "tu-li-PÁN — a força cai no final e o 'n' é claro",
+   "curiosity": "Ao contrário de 'tulipa', em espanhol vira 'tulipán' e é masculino: 'el tulipán'."
+  },
+  "tf04-01": {
+   "word": "el sol",
+   "translit": null,
+   "example": "¡Hoy el sol brilla como nunca!",
+   "examplePt": "Hoje o sol brilha como nunca!",
+   "pron": "SOL — o 'l' final é L de verdade, não 'u' como no Brasil",
+   "curiosity": "O 'sol' é também a moeda do Peru!"
+  },
+  "tf04-02": {
+   "word": "la luna",
+   "translit": null,
+   "example": "¿Viste la luna gigante anoche?",
+   "examplePt": "Você viu a lua gigante ontem à noite?",
+   "pron": "LU-na — o 'u' é puro, como em 'urso'",
+   "curiosity": "'Luna de miel' é lua de mel, igualzinho ao português."
+  },
+  "tf04-03": {
+   "word": "la estrella",
+   "translit": null,
+   "example": "Pide un deseo a esa estrella.",
+   "examplePt": "Faça um pedido a essa estrela.",
+   "pron": "es-TRÉ-ya — o 'e' inicial é puro e o 'll' soa 'i' ou 'j' suave",
+   "curiosity": "A estrela cadente é 'estrella fugaz', literalmente 'estrela fugaz'."
+  },
+  "tf04-04": {
+   "word": "la nube",
+   "translit": null,
+   "example": "Esa nube parece un dragón.",
+   "examplePt": "Aquela nuvem parece um dragão.",
+   "pron": "NU-be — o 'u' é puro e o 'b' é suave, sem 'vem' no final",
+   "curiosity": "'Estar en las nubes' é estar distraído, 'no mundo da lua'."
+  },
+  "tf04-05": {
+   "word": "la lluvia",
+   "translit": null,
+   "example": "¡La lluvia arruinó mi picnic!",
+   "examplePt": "A chuva arruinou meu piquenique!",
+   "pron": "YU-bia — o 'll' soa 'i' ou 'j' e o 'v' soa 'b'",
+   "curiosity": "'Llover a cántaros' é chover a cântaros, ou seja, chover muito!"
+  },
+  "tf04-06": {
+   "word": "la nieve",
+   "translit": null,
+   "example": "¿Hacemos un muñeco de nieve?",
+   "examplePt": "Vamos fazer um boneco de neve?",
+   "pron": "NIÉ-be — o 'ie' é um ditongo só e o 'v' soa 'b'",
+   "curiosity": "'Blancanieves' é a Branca de Neve: 'blanca' + 'nieve'."
+  },
+  "tf04-07": {
+   "word": "el viento",
+   "translit": null,
+   "example": "El viento se llevó mi sombrero.",
+   "examplePt": "O vento levou meu chapéu.",
+   "pron": "BIEN-to — o 'v' soa 'b' e o 'ie' é um ditongo só",
+   "curiosity": "'Ventana' (janela) vem de 'viento': é por onde o vento entra!"
+  },
+  "tf04-08": {
+   "word": "el arcoíris",
+   "translit": null,
+   "example": "¡Mira, un arcoíris doble!",
+   "examplePt": "Olha, um arco-íris duplo!",
+   "pron": "ar-ko-Í-ris — o acento separa o 'o' do 'í', são sílabas diferentes",
+   "curiosity": "Em espanhol escreve-se tudo junto e sem hífen: 'arcoíris'."
+  },
+  "tf04-09": {
+   "word": "el trueno",
+   "translit": null,
+   "example": "¿Oíste ese trueno tan fuerte?",
+   "examplePt": "Você ouviu esse trovão tão forte?",
+   "pron": "TRUÊ-no — o 'ue' é um ditongo só, como 'uê' de 'quero'",
+   "curiosity": "O verbo é 'tronar' e muda o→ue: 'truena' = troveja."
+  },
+  "tf04-10": {
+   "word": "la niebla",
+   "translit": null,
+   "example": "La niebla cubre todo el camino.",
+   "examplePt": "O nevoeiro cobre todo o caminho.",
+   "pron": "NIÉ-bla — o 'ie' é um ditongo e o 'bl' sai junto",
+   "curiosity": "'Niebla' é também o título de um famoso romance de Miguel de Unamuno."
+  },
+  "tf05-01": {
+   "word": "la manzana",
+   "translit": null,
+   "example": "¿Quieres un trozo de mi manzana?",
+   "examplePt": "Quer um pedaço da minha maçã?",
+   "pron": "man-SA-na — o 'z' soa 's' e a força cai no 'sa'",
+   "curiosity": "Em vários países 'manzana' também é o quarteirão da cidade!"
+  },
+  "tf05-02": {
+   "word": "el plátano",
+   "translit": null,
+   "example": "El mono pelea por un plátano.",
+   "examplePt": "O macaco briga por uma banana.",
+   "pron": "PLÁ-ta-no — a força cai na primeira sílaba, com 'á' aberto",
+   "curiosity": "Dependendo do país, banana é 'plátano', 'banana' ou 'banano'."
+  },
+  "tf05-03": {
+   "word": "la uva",
+   "translit": null,
+   "example": "¿Cuántas uvas caben en tu boca?",
+   "examplePt": "Quantas uvas cabem na sua boca?",
+   "pron": "U-ba — o 'v' soa 'b' e o 'u' é puro",
+   "curiosity": "Na Espanha, comem-se 12 uvas à meia-noite do Ano-Novo, uma por badalada!"
+  },
+  "tf05-04": {
+   "word": "la fresa",
+   "translit": null,
+   "example": "¡Esa fresa es más grande que mi mano!",
+   "examplePt": "Esse morango é maior que minha mão!",
+   "pron": "FRÉ-sa — o 'e' é puro e o 's' entre vogais soa 's', não 'z'",
+   "curiosity": "No México, 'ser fresa' é ser patricinha ou playboy, mas a fruta é só morango!"
+  },
+  "tf05-05": {
+   "word": "la sandía",
+   "translit": null,
+   "example": "¡Qué rica está la sandía fría!",
+   "examplePt": "Que gostosa está a melancia gelada!",
+   "pron": "san-DÍ-a — a força cai no 'dí' e 'ía' são duas sílabas",
+   "curiosity": "Vem do árabe, como 'azúcar' e 'naranja': a cozinha espanhola é bem árabe!"
+  },
+  "tf05-06": {
+   "word": "el limón",
+   "translit": null,
+   "example": "Exprime un limón en tu agua.",
+   "examplePt": "Esprema um limão na sua água.",
+   "pron": "li-MÓN — a força cai no final e o 'n' é claro, sem nasalizar",
+   "curiosity": "A árvore do limão é 'el limonero': fruta + -ero dá o nome da árvore."
+  },
+  "tf05-07": {
+   "word": "la pera",
+   "translit": null,
+   "example": "¿Prefieres pera o manzana?",
+   "examplePt": "Você prefere pera ou maçã?",
+   "pron": "PÉ-ra — o 'r' é um toque leve e o 'e' é puro",
+   "curiosity": "'Pedir peras al olmo' é pedir o impossível: pedir peras a um olmeiro!"
+  },
+  "tf05-08": {
+   "word": "la piña",
+   "translit": null,
+   "example": "La piña es dulce y espinosa.",
+   "examplePt": "O abacaxi é doce e espinhoso.",
+   "pron": "PI-nha — o 'ñ' soa como 'nh' de 'ninho'",
+   "curiosity": "'Piña' é também a pinha do pinheiro: o abacaxi lembra uma pinha!"
+  },
+  "tf05-09": {
+   "word": "la cereza",
+   "translit": null,
+   "example": "Una cereza adorna mi pastel.",
+   "examplePt": "Uma cereja enfeita meu bolo.",
+   "pron": "se-RÊ-sa — o 'c' e o 'z' soam 's' e a força cai no 'rê'",
+   "curiosity": "Na América Latina, 'la cereza del pastel' é a cereja do bolo; na Espanha, 'la guinda'."
+  },
+  "tf05-10": {
+   "word": "el melón",
+   "translit": null,
+   "example": "¿Quién se comió todo el melón?",
+   "examplePt": "Quem comeu o melão inteiro?",
+   "pron": "me-LÓN — a força cai no final e o 'n' é claro",
+   "curiosity": "Não confunda com 'melocotón', que é pêssego!"
+  },
+  "tf06-01": {
+   "word": "el agua",
+   "translit": null,
+   "example": "¡Necesito agua, tengo mucha sed!",
+   "examplePt": "Preciso de água, estou com muita sede!",
+   "pron": "A-gua — o 'gu' soa 'gu' e a primeira sílaba é a forte",
+   "curiosity": "É feminina, mas leva 'el' por causa do 'a' tônico: 'el agua fría'."
+  },
+  "tf06-02": {
+   "word": "la leche",
+   "translit": null,
+   "example": "¿Prefieres café con leche o solo?",
+   "examplePt": "Você prefere café com leite ou puro?",
+   "pron": "LÊ-tche — o 'ch' soa 'tch' e o 'e' é puro",
+   "curiosity": "Na Espanha, 'estar de mala leche' é estar de péssimo humor."
+  },
+  "tf06-03": {
+   "word": "el jugo",
+   "translit": null,
+   "example": "El jugo de naranja huele a verano.",
+   "examplePt": "O suco de laranja cheira a verão.",
+   "pron": "HU-go — o 'j' é um 'h' aspirado forte",
+   "curiosity": "Na Espanha o suco é 'zumo', e na América Latina 'jugo'."
+  },
+  "tf06-04": {
+   "word": "el café",
+   "translit": null,
+   "example": "En Colombia, el café se toma temprano.",
+   "examplePt": "Na Colômbia, o café é tomado cedo.",
+   "pron": "ka-FÉ — o acento cai no 'fé' final, com 'e' puro",
+   "curiosity": "A Colômbia é famosa no mundo todo pelo seu café."
+  },
+  "tf06-05": {
+   "word": "el té",
+   "translit": null,
+   "example": "¿Quieres té con miel esta tarde?",
+   "examplePt": "Quer chá com mel esta tarde?",
+   "pron": "TÉ — o 't' é seco, sem 'tch', e o 'e' é puro",
+   "curiosity": "Com acento é a bebida; sem acento, 'te' é o pronome. Um tracinho muda tudo!"
+  },
+  "tf06-06": {
+   "word": "la gaseosa",
+   "translit": null,
+   "example": "¡Cuidado, la gaseosa va a explotar!",
+   "examplePt": "Cuidado, o refrigerante vai explodir!",
+   "pron": "ga-se-Ô-sa — o 's' entre vogais soa 's', nunca 'z'",
+   "curiosity": "No México se diz 'refresco'; na Argentina e outros, 'gaseosa'."
+  },
+  "tf06-07": {
+   "word": "la limonada",
+   "translit": null,
+   "example": "¿Alguien quiere limonada con hielo?",
+   "examplePt": "Alguém quer limonada com gelo?",
+   "pron": "li-mo-NA-da — o 'd' é suave, quase um 'dh' leve",
+   "curiosity": "Sufixo -ada: limón dá 'limonada', naranja dá 'naranjada'. Fruta + ada = bebida!"
+  },
+  "tf06-08": {
+   "word": "el chocolate caliente",
+   "translit": null,
+   "example": "Un chocolate caliente cura todo.",
+   "examplePt": "Um chocolate quente cura tudo.",
+   "pron": "cho-ko-LÁ-te ka-LIÉN-te — o 'ch' soa 'tch' e o 'c' de 'caliente' é 'k'",
+   "curiosity": "Na Colômbia é comum mergulhar queijo no chocolate quente!"
+  },
+  "tf06-09": {
+   "word": "el agua de coco",
+   "translit": null,
+   "example": "¡Bebe agua de coco en la playa!",
+   "examplePt": "Beba água de coco na praia!",
+   "pron": "A-gua de KO-ko — o 'o' fica puro, sem virar 'u'",
+   "curiosity": "'Comerse el coco' é pensar demais em algo: o 'coco' vira a cabeça!"
+  },
+  "tf06-10": {
+   "word": "el batido",
+   "translit": null,
+   "example": "¿Me preparas un batido helado?",
+   "examplePt": "Você me prepara um batido gelado?",
+   "pron": "ba-TI-do — o 'd' é suave e o 'b' inicial é leve",
+   "curiosity": "Em vários países se diz 'licuado' (México) ou 'malteada' (Colômbia)."
+  },
+  "tf07-01": {
+   "word": "el pan",
+   "translit": null,
+   "example": "Nunca digo no a más pan.",
+   "examplePt": "Nunca digo não a mais pão.",
+   "pron": "PAN — o 'n' final é claro e o 'a' é aberto",
+   "curiosity": "'Es pan comido' quer dizer que algo é moleza, bem fácil!"
+  },
+  "tf07-02": {
+   "word": "el huevo",
+   "translit": null,
+   "example": "¿Quieres el huevo frito o duro?",
+   "examplePt": "Quer o ovo frito ou cozido?",
+   "pron": "UÊ-bo — o 'h' é mudo, 'ue' é ditongo e o 'v' soa 'b'",
+   "curiosity": "A gema é 'la yema' e a clara, 'la clara de huevo'."
+  },
+  "tf07-03": {
+   "word": "el queso",
+   "translit": null,
+   "example": "Quiero más queso en mi pizza.",
+   "examplePt": "Quero mais queijo na minha pizza.",
+   "pron": "KÊ-so — o 'qu' soa 'k' e o 'u' é mudo",
+   "curiosity": "O 'queso manchego' vem de La Mancha, a terra de Dom Quixote."
+  },
+  "tf07-04": {
+   "word": "la mantequilla",
+   "translit": null,
+   "example": "Unta mantequilla en tu pan caliente.",
+   "examplePt": "Passe manteiga no seu pão quente.",
+   "pron": "man-te-KI-ya — o 'qui' soa 'ki' e o 'll' soa 'i' ou 'j'",
+   "curiosity": "Em alguns países 'manteca' é gordura de porco e em outros é manteiga."
+  },
+  "tf07-05": {
+   "word": "el jamón",
+   "translit": null,
+   "example": "¡Qué rico huele ese jamón!",
+   "examplePt": "Que cheiro bom tem esse presunto!",
+   "pron": "ha-MÓN — o 'j' é um 'h' forte e o 'n' final é claro",
+   "curiosity": "O 'jamón ibérico' vem de porcos de patas escuras, chamados 'pata negra'."
+  },
+  "tf07-06": {
+   "word": "el cereal",
+   "translit": null,
+   "example": "¿Pones leche antes del cereal?",
+   "examplePt": "Você põe o leite antes do cereal?",
+   "pron": "se-re-AL — o 'c' soa 's' e o 'r' final é suave",
+   "curiosity": "Vem de Ceres, a deusa romana da agricultura: café da manhã com mitologia!"
+  },
+  "tf07-07": {
+   "word": "la mermelada",
+   "translit": null,
+   "example": "¡Cuidado con la mermelada en tu camisa!",
+   "examplePt": "Cuidado com a geleia na sua camisa!",
+   "pron": "mer-me-LA-da — o 'd' é suave e a força cai no 'la'",
+   "curiosity": "Vem do português 'marmelada', doce de marmelo. Palavra nossa no espanhol!"
+  },
+  "tf07-08": {
+   "word": "el pan tostado",
+   "translit": null,
+   "example": "Me encanta el pan tostado crujiente.",
+   "examplePt": "Adoro pão torrado crocante.",
+   "pron": "pan tos-TA-do — o 's' antes do 't' é 's' limpo e o 'd' é suave",
+   "curiosity": "'Tostada' também é uma tortilla crocante com cobertura, típica do México."
+  },
+  "tf07-09": {
+   "word": "el panqueque",
+   "translit": null,
+   "example": "Voltea el panqueque sin romperlo.",
+   "examplePt": "Vire a panqueca sem rasgá-la.",
+   "pron": "pan-KÊ-ke — o 'qu' soa 'k' e o 'e' final é 'e' puro",
+   "curiosity": "Na Argentina o panqueque é fino e recheado de doce de leite!"
+  },
+  "tf07-10": {
+   "word": "el yogur",
+   "translit": null,
+   "example": "¡Mi yogur tiene trozos de fruta!",
+   "examplePt": "Meu iogurte tem pedaços de fruta!",
+   "pron": "yo-GUR — o 'y' soa como 'i' de 'iogurte' e o 'r' final é suave",
+   "curiosity": "Vem do turco e, em espanhol, termina em R, sem o T final do inglês."
+  },
+  "tf08-01": {
+   "word": "hola",
+   "translit": null,
+   "example": "¡Hola, amigo! ¿Cómo te va?",
+   "examplePt": "Oi, amigo! Como vai?",
+   "pron": "O-la — o 'h' é mudo, então começa direto no 'o'",
+   "curiosity": "Sem o H, 'ola' é 'onda' do mar; o H mudo muda tudo!"
+  },
+  "tf08-02": {
+   "word": "chao",
+   "translit": null,
+   "example": "¡Chao, nos vemos mañana!",
+   "examplePt": "Tchau, nos vemos amanhã!",
+   "pron": "TCHA-o — o 'ch' soa 'tch', como em 'tchau'",
+   "curiosity": "Vem do italiano 'ciao' e é super usado na América Latina."
+  },
+  "tf08-03": {
+   "word": "buenos días",
+   "translit": null,
+   "example": "Buenos días, ¿durmieron bien?",
+   "examplePt": "Bom dia, vocês dormiram bem?",
+   "pron": "BUE-nos DÍ-as — o 'ue' é um ditongo só e o 'd' é suave",
+   "curiosity": "Em espanhol é plural: 'buenos días'. Na Argentina também dizem 'buen día'."
+  },
+  "tf08-04": {
+   "word": "buenas tardes",
+   "translit": null,
+   "example": "Buenas tardes, ¡qué calor hace hoy!",
+   "examplePt": "Boa tarde, que calor faz hoje!",
+   "pron": "BUE-nas TAR-des — o 'ue' é um ditongo só e o 'd' é suave",
+   "curiosity": "Na Espanha, a 'tarde' só começa depois do almoço, que é bem tarde!"
+  },
+  "tf08-05": {
+   "word": "buenas noches",
+   "translit": null,
+   "example": "Buenas noches, ¡que sueñes con ángeles!",
+   "examplePt": "Boa noite, que você sonhe com anjos!",
+   "pron": "BUE-nas NO-tches — o 'ch' soa 'tch', como em 'tchau'",
+   "curiosity": "Serve para chegar e para se despedir à noite; sempre no plural."
+  },
+  "tf08-06": {
+   "word": "¿Cómo estás?",
+   "translit": null,
+   "example": "Hola, Ana, ¿cómo estás hoy?",
+   "examplePt": "Oi, Ana, como você está hoje?",
+   "pron": "KÓ-mo es-TÁS — o 'e' inicial de 'estás' é puro, sem 'i'",
+   "curiosity": "No México se ouve '¿Qué onda?' e na Espanha, '¿Qué tal?'."
+  },
+  "tf08-07": {
+   "word": "hasta luego",
+   "translit": null,
+   "example": "Hasta luego, ¡que tengas buen día!",
+   "examplePt": "Até logo, tenha um bom dia!",
+   "pron": "AS-ta LUÊ-go — o 'h' é mudo e o 'ue' é um ditongo só",
+   "curiosity": "'Hasta' vem do árabe e aparece em 'hasta pronto', 'hasta la vista'."
+  },
+  "tf08-08": {
+   "word": "hasta mañana",
+   "translit": null,
+   "example": "Hasta mañana, ¡duerme bien!",
+   "examplePt": "Até amanhã, durma bem!",
+   "pron": "AS-ta ma-NHA-na — o 'h' é mudo e o 'ñ' soa 'nh'",
+   "curiosity": "'Mañana' é amanhã e também manhã: o contexto diz qual!"
+  },
+  "tf08-09": {
+   "word": "bienvenido",
+   "translit": null,
+   "example": "¡Bienvenido a mi casa, amigo!",
+   "examplePt": "Bem-vindo à minha casa, amigo!",
+   "pron": "bien-be-NI-do — o 'v' soa 'b' e o 'd' é suave",
+   "curiosity": "Concorda: bienvenido (ele), bienvenida (ela), bienvenidos (vários)."
+  },
+  "tf08-10": {
+   "word": "buen fin de semana",
+   "translit": null,
+   "example": "¡Te deseo un buen fin de semana!",
+   "examplePt": "Desejo a você um bom fim de semana!",
+   "pron": "buen fin de se-MA-na — o 'n' final de 'buen' é claro",
+   "curiosity": "'Bueno' perde o O antes de substantivo masculino: buen día, buen viaje."
+  },
+  "tf09-01": {
+   "word": "gracias",
+   "translit": null,
+   "example": "¡Muchas gracias por el regalo!",
+   "examplePt": "Muito obrigado pelo presente!",
+   "pron": "GRA-sias — o 'c' soa 's' na América Latina e o 'ia' é ditongo",
+   "curiosity": "'Gracias' é sempre plural; em espanhol não se diz 'gracia' para agradecer."
+  },
+  "tf09-02": {
+   "word": "por favor",
+   "translit": null,
+   "example": "¿Me pasas la sal, por favor?",
+   "examplePt": "Pode me passar o sal, por favor?",
+   "pron": "por fa-BOR — o 'v' soa 'b' e o 'r' final é suave",
+   "curiosity": "Em avisos mexicanos se lê 'Favor de no tocar': 'favor' vira pedido educado."
+  },
+  "tf09-03": {
+   "word": "perdón",
+   "translit": null,
+   "example": "Perdón, ¿te pisé el pie?",
+   "examplePt": "Desculpa, eu pisei no seu pé?",
+   "pron": "per-DÓN — o 'd' é suave e o 'n' final é claro",
+   "curiosity": "Serve para pedir desculpa e também para chamar a atenção de alguém com educação."
+  },
+  "tf09-04": {
+   "word": "con permiso",
+   "translit": null,
+   "example": "Con permiso, ¿puedo pasar por aquí?",
+   "examplePt": "Com licença, posso passar por aqui?",
+   "pron": "kon per-MI-so — o 's' entre vogais soa 's', nunca 'z'",
+   "curiosity": "Também se diz ao entrar numa casa ou numa sala: 'con permiso'."
+  },
+  "tf09-05": {
+   "word": "de nada",
+   "translit": null,
+   "example": "—Gracias. —¡De nada, con gusto!",
+   "examplePt": "—Obrigado. —De nada, com prazer!",
+   "pron": "de NA-da — o 'd' é suave e o 'a' final é puro",
+   "curiosity": "No México muita gente responde 'con gusto' ou 'para servirle'."
+  },
+  "tf09-06": {
+   "word": "felicidades",
+   "translit": null,
+   "example": "¡Felicidades por tu nuevo trabajo!",
+   "examplePt": "Parabéns pelo seu novo emprego!",
+   "pron": "fe-li-si-DA-des — o 'c' soa 's' e o 'd' é suave",
+   "curiosity": "Sempre no plural, como 'parabéns'! Também se ouve 'felicitaciones'."
+  },
+  "tf09-07": {
+   "word": "sí",
+   "translit": null,
+   "example": "Sí, ¡quiero otro helado!",
+   "examplePt": "Sim, quero outro sorvete!",
+   "pron": "SI — o 'i' é curto e puro, sem 'm' no final",
+   "curiosity": "Com acento é 'sim'; sem acento, 'si' é 'se'."
+  },
+  "tf09-08": {
+   "word": "no",
+   "translit": null,
+   "example": "No, gracias, ya comí mucho.",
+   "examplePt": "Não, obrigado, já comi bastante.",
+   "pron": "NO — o 'o' é puro, sem 'u' no final",
+   "curiosity": "Em espanhol o 'no' vem antes do verbo, e a dupla negação é normal: 'no veo nada'."
+  },
+  "tf09-09": {
+   "word": "quizás",
+   "translit": null,
+   "example": "Quizás mañana vayamos al lago.",
+   "examplePt": "Talvez amanhã a gente vá ao lago.",
+   "pron": "ki-SÁS — o 'qu' soa 'k' e o 'z' soa 's'",
+   "curiosity": "Também existe 'quizá', sem o S final: as duas formas valem."
+  },
+  "tf09-10": {
+   "word": "por supuesto",
+   "translit": null,
+   "example": "¿Me ayudas? ¡Por supuesto!",
+   "examplePt": "Você me ajuda? Claro!",
+   "pron": "por su-PUES-to — o 'ue' é um ditongo só",
+   "curiosity": "Na América Latina '¡Cómo no!' significa 'claro que sim', apesar do que parece."
+  },
+  "tf10-01": {
+   "word": "el nombre",
+   "translit": null,
+   "example": "¿Cuál es tu nombre completo?",
+   "examplePt": "Qual é o seu nome completo?",
+   "pron": "NOM-bre — o 'm' vem antes do 'b' e o 'r' é batido",
+   "curiosity": "Para perguntar o nome: '¿Cómo te llamas?', literalmente 'como você se chama?'."
+  },
+  "tf10-02": {
+   "word": "el apellido",
+   "translit": null,
+   "example": "¿Cómo se escribe tu apellido?",
+   "examplePt": "Como se escreve o seu sobrenome?",
+   "pron": "a-pe-YI-do — o 'll' soa como 'i' ou 'j' suave",
+   "curiosity": "Em países hispânicos, a pessoa costuma ter dois sobrenomes: o do pai e o da mãe."
+  },
+  "tf10-03": {
+   "word": "la edad",
+   "translit": null,
+   "example": "¿Qué edad tiene tu abuelo?",
+   "examplePt": "Que idade tem o seu avô?",
+   "pron": "e-DAD — o 'd' final é fraco, quase um 'dh' leve",
+   "curiosity": "Palavras em -dad são femininas: la edad, la ciudad, la amistad. Macete certeiro!"
+  },
+  "tf10-04": {
+   "word": "el país",
+   "translit": null,
+   "example": "¿De qué país vienes?",
+   "examplePt": "De que país você vem?",
+   "pron": "pa-ÍS — o acento cai no 'ís' e o 'a' e o 'í' são sílabas separadas",
+   "curiosity": "'Países Bajos' é o nome oficial da Holanda: os Países Baixos."
+  },
+  "tf10-05": {
+   "word": "la ciudad",
+   "translit": null,
+   "example": "Mi ciudad tiene un río enorme.",
+   "examplePt": "Minha cidade tem um rio enorme.",
+   "pron": "siu-DAD — o 'ci' soa 'si' e o 'd' final é fraco",
+   "curiosity": "Da mesma família: 'ciudadano', o cidadão."
+  },
+  "tf10-06": {
+   "word": "el idioma",
+   "translit": null,
+   "example": "¿Qué idioma hablan en tu país?",
+   "examplePt": "Que idioma falam no seu país?",
+   "pron": "i-DIO-ma — o 'd' é suave e o 'io' sai junto",
+   "curiosity": "Termina em -a, mas é masculino: el idioma, el problema, el programa."
+  },
+  "tf10-07": {
+   "word": "el cumpleaños",
+   "translit": null,
+   "example": "¡Mi cumpleaños es en diciembre!",
+   "examplePt": "Meu aniversário é em dezembro!",
+   "pron": "kum-ple-A-nhos — o 'ñ' soa 'nh' e o 'cum' soa 'kum'",
+   "curiosity": "Literalmente é 'cumpre anos' e não muda no plural: 'los cumpleaños'."
+  },
+  "tf10-08": {
+   "word": "la dirección",
+   "translit": null,
+   "example": "¿Cuál es tu dirección, por favor?",
+   "examplePt": "Qual é o seu endereço, por favor?",
+   "pron": "di-rek-SIÓN — o 'cc' soa 'k' + 's' e a força cai no final",
+   "curiosity": "'Dirección' também é direção (sentido); o contexto diz se é endereço!"
+  },
+  "tf10-09": {
+   "word": "el teléfono",
+   "translit": null,
+   "example": "¿Dónde dejé mi teléfono?",
+   "examplePt": "Onde deixei meu telefone?",
+   "pron": "te-LÉ-fo-no — a força cai no 'lé', com 'e' aberto e puro",
+   "curiosity": "Vem do grego: 'tele' (longe) + 'phone' (voz), ou seja, voz distante."
+  },
+  "tf10-10": {
+   "word": "el amigo",
+   "translit": null,
+   "example": "Mi mejor amigo vive muy lejos.",
+   "examplePt": "Meu melhor amigo mora muito longe.",
+   "pron": "a-MI-go — o 'g' é duro, como em 'gato'",
+   "curiosity": "'Los amigos' pode incluir meninos e meninas juntos; a amiga é 'la amiga'."
+  },
+  "tf11-01": {
+   "word": "el rojo",
+   "translit": null,
+   "example": "¡El semáforo está en rojo, para!",
+   "examplePt": "O semáforo está vermelho, pare!",
+   "pron": "RRÔ-ho — o 'rr' vibra forte e o 'j' é um 'h' forte",
+   "curiosity": "'La Roja' é o apelido da seleção espanhola de futebol, e também da chilena!"
+  },
+  "tf11-02": {
+   "word": "el azul",
+   "translit": null,
+   "example": "Mi color favorito es el azul.",
+   "examplePt": "Minha cor favorita é o azul.",
+   "pron": "a-SUL — o 'z' soa 's' e o 'l' final é L de verdade",
+   "curiosity": "'Azul' e 'azúcar' têm origem árabe: duas palavras com 'az-' vindas de longe!"
+  },
+  "tf11-03": {
+   "word": "el amarillo",
+   "translit": null,
+   "example": "Un pollito amarillo cruza la calle.",
+   "examplePt": "Um pintinho amarelo atravessa a rua.",
+   "pron": "a-ma-RI-yo — o 'll' soa como 'i' ou 'j' suave, nada de 'lh'",
+   "curiosity": "'Prensa amarilla' é a imprensa sensacionalista, igual ao nosso 'imprensa marrom'."
+  },
+  "tf11-04": {
+   "word": "el verde",
+   "translit": null,
+   "example": "El bosque se pone verde en primavera.",
+   "examplePt": "O bosque fica verde na primavera.",
+   "pron": "BER-de — o 'v' soa 'b' e o 'd' é suave",
+   "curiosity": "'Estar verde' em algo é ser iniciante, ainda 'verde', como no português."
+  },
+  "tf11-05": {
+   "word": "el naranja",
+   "translit": null,
+   "example": "¿Tu camiseta es naranja o roja?",
+   "examplePt": "Sua camiseta é laranja ou vermelha?",
+   "pron": "na-RAN-ha — o 'j' é um 'h' aspirado forte, sem 'j' de 'já'",
+   "curiosity": "'Media naranja' (meia laranja) é a alma gêmea, a metade que completa você!"
+  },
+  "tf11-06": {
+   "word": "el morado",
+   "translit": null,
+   "example": "Me puse una gorra morada.",
+   "examplePt": "Coloquei um boné roxo.",
+   "pron": "mo-RA-do — o 'r' é um toque leve e o 'd' é suave",
+   "curiosity": "Vem de 'mora' (amora): é a cor da amora madura!"
+  },
+  "tf11-07": {
+   "word": "el rosado",
+   "translit": null,
+   "example": "¡Qué lindo vestido rosado!",
+   "examplePt": "Que lindo vestido rosa!",
+   "pron": "rro-SA-do — o 'r' inicial vibra e o 's' entre vogais soa 's'",
+   "curiosity": "'Verlo todo color de rosa' é ver tudo pelo lado bom, como no português."
+  },
+  "tf11-08": {
+   "word": "el negro",
+   "translit": null,
+   "example": "Mi gato negro duerme en el sofá.",
+   "examplePt": "Meu gato preto dorme no sofá.",
+   "pron": "NÊ-gro — o 'g' é duro e o 'e' é puro",
+   "curiosity": "O adjetivo vem depois do nome: 'gato negro', não 'negro gato'."
+  },
+  "tf11-09": {
+   "word": "el blanco",
+   "translit": null,
+   "example": "La nieve es blanca y fría.",
+   "examplePt": "A neve é branca e fria.",
+   "pron": "BLAN-ko — o 'bl' sai junto e o 'c' soa 'k'",
+   "curiosity": "'Quedarse en blanco' é dar um branco na memória: fica tudo vazio!"
+  },
+  "tf11-10": {
+   "word": "el marrón",
+   "translit": null,
+   "example": "Mi oso de peluche es marrón.",
+   "examplePt": "Meu urso de pelúcia é marrom.",
+   "pron": "ma-RRÓN — o 'rr' vibra forte e o 'n' final é claro",
+   "curiosity": "Vem do francês 'marron', que quer dizer 'castanha': cor de castanha!"
+  },
+  "tf12-01": {
+   "word": "uno",
+   "translit": null,
+   "example": "¿Cuántos quedan? ¡Solo uno!",
+   "examplePt": "Quantos restam? Só um!",
+   "pron": "U-no — o 'u' é puro, como em 'urso', sem ditongo",
+   "curiosity": "Antes de substantivo masculino vira 'un': 'un perro'; e o 21 é 'veintiún'."
+  },
+  "tf12-02": {
+   "word": "dos",
+   "translit": null,
+   "example": "Tengo dos manos y diez dedos.",
+   "examplePt": "Tenho duas mãos e dez dedos.",
+   "pron": "DOS — o 's' final é pronunciado, 'dos' não é 'dô'",
+   "curiosity": "'A cada dos por tres' é o nosso 'a cada dois por três': a toda hora."
+  },
+  "tf12-03": {
+   "word": "tres",
+   "translit": null,
+   "example": "¿Puedes saltar tres veces?",
+   "examplePt": "Você consegue pular três vezes?",
+   "pron": "TRES — o 'r' é batido leve e o 's' final soa",
+   "curiosity": "'Tres en raya' é como se chama o jogo da velha na Espanha."
+  },
+  "tf12-04": {
+   "word": "cuatro",
+   "translit": null,
+   "example": "Mi perro tiene cuatro patas.",
+   "examplePt": "Meu cachorro tem quatro patas.",
+   "pron": "KUA-tro — o 'cua' soa 'kua' e o 'r' é batido",
+   "curiosity": "O 'cuatro' é também um pequeno instrumento de cordas, típico da Venezuela."
+  },
+  "tf12-05": {
+   "word": "cinco",
+   "translit": null,
+   "example": "¡Choca esos cinco!",
+   "examplePt": "Bate aqui!",
+   "pron": "SIN-ko — o 'ci' soa 'si' e o 'c' da sílaba seguinte soa 'k'",
+   "curiosity": "'¡Choca esos cinco!' é o nosso 'toca aqui': bata a palma, cinco dedos!"
+  },
+  "tf12-06": {
+   "word": "seis",
+   "translit": null,
+   "example": "Mi hermano tiene seis años.",
+   "examplePt": "Meu irmão tem seis anos.",
+   "pron": "SEIS — o 'ei' é um ditongo e o 's' final é forte",
+   "curiosity": "É escrito igual ao português, um dos poucos números 'de graça'!"
+  },
+  "tf12-07": {
+   "word": "siete",
+   "translit": null,
+   "example": "Siete días tiene una semana.",
+   "examplePt": "Uma semana tem sete dias.",
+   "pron": "SIÉ-te — o 'ie' é um ditongo e o 'te' final é 'te', não 'tchi'",
+   "curiosity": "Em espanhol os gatos têm sete vidas: 'siete vidas tiene un gato'."
+  },
+  "tf12-08": {
+   "word": "ocho",
+   "translit": null,
+   "example": "¡Una araña tiene ocho patas!",
+   "examplePt": "Uma aranha tem oito patas!",
+   "pron": "Ô-tcho — o 'ch' soa 'tch', como em 'tchau'",
+   "curiosity": "O 'real de a ocho' era uma moeda espanhola de oito reales, famosa entre piratas."
+  },
+  "tf12-09": {
+   "word": "nueve",
+   "translit": null,
+   "example": "Son las nueve, ¡hora de dormir!",
+   "examplePt": "São nove horas, hora de dormir!",
+   "pron": "NUÊ-be — o 'ue' é um ditongo e o 'v' soa 'b'",
+   "curiosity": "'Nueve' é nove e 'nuevo' é novo: quase gêmeos, mas diferentes!"
+  },
+  "tf12-10": {
+   "word": "diez",
+   "translit": null,
+   "example": "Diez dedos tengo en las manos.",
+   "examplePt": "Tenho dez dedos nas mãos.",
+   "pron": "DIES — o 'z' final soa 's' e o 'ie' é um ditongo",
+   "curiosity": "De 16 a 19 se escreve numa palavra só: 'dieciséis', 'diecisiete'."
+  },
+  "tf13-01": {
+   "word": "el círculo",
+   "translit": null,
+   "example": "Dibuja un círculo gigante en el suelo.",
+   "examplePt": "Desenhe um círculo gigante no chão.",
+   "pron": "SÍR-ku-lo — o 'c' inicial soa 's' e a força cai no 'sír'",
+   "curiosity": "'Círculo vicioso' é o ciclo sem saída, igual ao português."
+  },
+  "tf13-02": {
+   "word": "el cuadrado",
+   "translit": null,
+   "example": "El cuadrado tiene cuatro lados iguales.",
+   "examplePt": "O quadrado tem quatro lados iguais.",
+   "pron": "kua-DRA-do — o 'cua' soa 'kua' e o 'd' é suave",
+   "curiosity": "Parente de 'cuadro' (quadro) e 'cuatro': tudo vem da ideia de quatro."
+  },
+  "tf13-03": {
+   "word": "el triángulo",
+   "translit": null,
+   "example": "Corté mi sándwich en un triángulo.",
+   "examplePt": "Cortei meu sanduíche em um triângulo.",
+   "pron": "trian-GU-lo — o 'g' é duro e o 'ia' sai junto",
+   "curiosity": "O 'Triángulo de las Bermudas' tem o mesmo nome em espanhol, com acento."
+  },
+  "tf13-04": {
+   "word": "el rectángulo",
+   "translit": null,
+   "example": "La puerta es un rectángulo alto.",
+   "examplePt": "A porta é um retângulo alto.",
+   "pron": "rrek-TAN-gu-lo — o 'rr' vibra e o 'ct' soa 'k' + 't'",
+   "curiosity": "'Rectángulo' = 'recto' + 'ángulo': é o ângulo reto no nome!"
+  },
+  "tf13-05": {
+   "word": "el corazón",
+   "translit": null,
+   "example": "¡Mi corazón late muy rápido!",
+   "examplePt": "Meu coração bate muito rápido!",
+   "pron": "ko-ra-SÓN — o 'z' soa 's' e o 'n' final é claro",
+   "curiosity": "'Mi corazón' é um carinho para quem se ama, como 'meu bem'."
+  },
+  "tf13-06": {
+   "word": "el rombo",
+   "translit": null,
+   "example": "¿Ves el rombo amarillo en la señal?",
+   "examplePt": "Você vê o losango amarelo na placa?",
+   "pron": "RRÔM-bo — o 'r' inicial vibra forte, mesmo com um só 'r'",
+   "curiosity": "O rombo tem quatro lados iguais, mas ângulos diferentes: um quadrado 'inclinado'."
+  },
+  "tf13-07": {
+   "word": "el óvalo",
+   "translit": null,
+   "example": "Mi espejo tiene forma de óvalo.",
+   "examplePt": "Meu espelho tem forma oval.",
+   "pron": "Ó-ba-lo — o 'v' soa 'b' e a força cai no 'ó'",
+   "curiosity": "'Óvalo' vem do latim 'ovum', ovo: é a forma de um ovo!"
+  },
+  "tf13-08": {
+   "word": "el cubo",
+   "translit": null,
+   "example": "Un cubo de hielo cae al suelo.",
+   "examplePt": "Um cubo de gelo cai no chão.",
+   "pron": "KU-bo — o 'u' é puro e o 'b' é leve",
+   "curiosity": "Na Espanha, 'cubo' também é balde: 'el cubo de la basura' é a lixeira."
+  },
+  "tf13-09": {
+   "word": "la esfera",
+   "translit": null,
+   "example": "Una esfera brillante cuelga del árbol.",
+   "examplePt": "Uma esfera brilhante pende da árvore.",
+   "pron": "es-FÊ-ra — o 'e' inicial é puro e o 'f' é de 'f' mesmo",
+   "curiosity": "'Ph' vira 'f' em espanhol: esfera, fotografía, farmacia, teléfono."
+  },
+  "tf13-10": {
+   "word": "el cilindro",
+   "translit": null,
+   "example": "¿Una lata es un cilindro? ¡Sí!",
+   "examplePt": "Uma lata é um cilindro? Sim!",
+   "pron": "si-LIN-dro — o 'ci' soa 'si' e o 'dr' sai junto",
+   "curiosity": "'Cilindros' também são as partes do motor: 'motor de cuatro cilindros'."
+  },
+  "tf14-01": {
+   "word": "once",
+   "translit": null,
+   "example": "Mi equipo tiene once jugadores.",
+   "examplePt": "Meu time tem onze jogadores.",
+   "pron": "ON-se — o 'c' soa 's' na América Latina, não 'z'",
+   "curiosity": "No Chile, 'la once' é o lanche da tarde, e não o número!"
+  },
+  "tf14-02": {
+   "word": "doce",
+   "translit": null,
+   "example": "Son las doce, ¡hora de almorzar!",
+   "examplePt": "São doze horas, hora de almoçar!",
+   "pron": "DO-se — o 'c' soa 's' e o 'o' é puro",
+   "curiosity": "Cuidado: 'doce' é 12, e o sabor doce é 'dulce'. Dá pra confundir!"
+  },
+  "tf14-03": {
+   "word": "quince",
+   "translit": null,
+   "example": "¡Mi hermana cumple quince años!",
+   "examplePt": "Minha irmã faz quinze anos!",
+   "pron": "KIN-se — o 'qu' soa 'k' e o 'c' soa 's'",
+   "curiosity": "Em muitos países latinos, os 15 anos de uma menina viram a festa 'quinceañera'."
+  },
+  "tf14-04": {
+   "word": "veinte",
+   "translit": null,
+   "example": "Veinte niños juegan en el patio.",
+   "examplePt": "Vinte crianças brincam no pátio.",
+   "pron": "BEIN-te — o 'v' soa 'b' e o 'ei' é um ditongo",
+   "curiosity": "Depois vêm 'veintiuno', 'veintidós'... colados, numa palavra só!"
+  },
+  "tf14-05": {
+   "word": "treinta",
+   "translit": null,
+   "example": "Abril tiene treinta días.",
+   "examplePt": "Abril tem trinta dias.",
+   "pron": "TREIN-ta — o 'r' é batido e o 'ei' é um ditongo",
+   "curiosity": "'Treinta y Tres' é o nome de um departamento do Uruguai."
+  },
+  "tf14-06": {
+   "word": "cincuenta",
+   "translit": null,
+   "example": "Cincuenta personas vinieron a mi fiesta.",
+   "examplePt": "Cinquenta pessoas vieram à minha festa.",
+   "pron": "sin-KUEN-ta — o 'c' inicial soa 's' e o segundo soa 'k'",
+   "curiosity": "As dezenas de 30 a 90 terminam em -nta: treinta, cuarenta, cincuenta..."
+  },
+  "tf14-07": {
+   "word": "cien",
+   "translit": null,
+   "example": "Mi abuela cumple cien años hoy.",
+   "examplePt": "Minha avó faz cem anos hoje.",
+   "pron": "SIEN — o 'c' soa 's' e o 'ie' é um ditongo",
+   "curiosity": "Antes de outro número vira 'ciento': 'ciento veinte'."
+  },
+  "tf14-08": {
+   "word": "doscientos",
+   "translit": null,
+   "example": "Doscientos pasos hasta mi casa.",
+   "examplePt": "Duzentos passos até a minha casa.",
+   "pron": "dos-SIEN-tos — o 'c' soa 's' e o 'ie' é um ditongo",
+   "curiosity": "Concorda com o gênero: doscientos libros, doscientas casas. Uma esquisitice!"
+  },
+  "tf14-09": {
+   "word": "mil",
+   "translit": null,
+   "example": "¡Mil gracias por tu ayuda!",
+   "examplePt": "Mil vezes obrigado pela ajuda!",
+   "pron": "MIL — o 'l' final é L de verdade, não 'u'",
+   "curiosity": "Nunca vai ao plural: 'dos mil', 'tres mil'; só 'miles' = milhares."
+  },
+  "tf14-10": {
+   "word": "un millón",
+   "translit": null,
+   "example": "¿Y si ganamos un millón de pesos?",
+   "examplePt": "E se ganharmos um milhão de pesos?",
+   "pron": "un mi-YÓN — o 'll' soa como 'i' ou 'j' e o 'n' final é claro",
+   "curiosity": "'Un millón DE pesos' leva 'de'; e 'dos millones' perde o acento."
+  },
+  "tf15-01": {
+   "word": "despertarse",
+   "translit": null,
+   "example": "¡Odio despertarme antes que el sol!",
+   "examplePt": "Odeio acordar antes do sol!",
+   "pron": "des-per-TAR-se — o 's' antes de consoante soa 's' e o 'r' é batido",
+   "curiosity": "Reflexivo e irregular (e→ie): 'me despierto' = eu acordo."
+  },
+  "tf15-02": {
+   "word": "levantarse",
+   "translit": null,
+   "example": "¿A qué hora debes levantarte mañana?",
+   "examplePt": "A que horas você deve se levantar amanhã?",
+   "pron": "le-ban-TAR-se — o 'v' soa 'b' e o 'se' final é 'se'",
+   "curiosity": "'Levantarse con el pie izquierdo' é acordar de mau humor, como 'com o pé esquerdo'!"
+  },
+  "tf15-03": {
+   "word": "bañarse",
+   "translit": null,
+   "example": "Después de jugar, debo bañarme rápido.",
+   "examplePt": "Depois de brincar, preciso tomar banho rápido.",
+   "pron": "ba-NHAR-se — o 'ñ' soa 'nh' e o 'r' é batido",
+   "curiosity": "Da mesma raiz de 'baño', que é banho e também banheiro!"
+  },
+  "tf15-04": {
+   "word": "cepillarse los dientes",
+   "translit": null,
+   "example": "¡No olvides cepillarte los dientes!",
+   "examplePt": "Não esqueça de escovar os dentes!",
+   "pron": "se-pi-YAR-se los DIEN-tes — o 'll' soa como 'i' ou 'j' suave",
+   "curiosity": "Partes do corpo levam artigo, não 'meus': me cepillo LOS dientes."
+  },
+  "tf15-05": {
+   "word": "peinarse",
+   "translit": null,
+   "example": "Papá intenta peinarse con mucho gel.",
+   "examplePt": "Papai tenta se pentear com muito gel.",
+   "pron": "pei-NAR-se — o 'ei' é um ditongo e o 'r' é batido",
+   "curiosity": "'Peine' é pente: pentear-se é usar o 'peine'."
+  },
+  "tf15-06": {
+   "word": "almorzar",
+   "translit": null,
+   "example": "Hoy vamos a almorzar en el parque.",
+   "examplePt": "Hoje vamos almoçar no parque.",
+   "pron": "al-mor-SAR — o 'l' é claro e o 'z' soa 's'",
+   "curiosity": "Irregular o→ue: almuerzo, almuerzas. E 'el almuerzo' é o almoço."
+  },
+  "tf15-07": {
+   "word": "cenar",
+   "translit": null,
+   "example": "¿Qué vamos a cenar esta noche?",
+   "examplePt": "O que vamos jantar esta noite?",
+   "pron": "se-NAR — o 'c' soa 's' e o 'r' final é suave",
+   "curiosity": "Na Espanha o jantar é bem tarde, muitas vezes depois das 21h!"
+  },
+  "tf15-08": {
+   "word": "estudiar",
+   "translit": null,
+   "example": "Quiero estudiar español todos los días.",
+   "examplePt": "Quero estudar espanhol todos os dias.",
+   "pron": "es-tu-DIAR — o 'e' inicial é puro e o 'd' é suave",
+   "curiosity": "'Un estudio' também é uma pesquisa: 'un estudio científico'."
+  },
+  "tf15-09": {
+   "word": "dormir",
+   "translit": null,
+   "example": "¡Quiero dormir una semana entera!",
+   "examplePt": "Quero dormir uma semana inteira!",
+   "pron": "dor-MIR — o 'r' final é suave, sem vogal extra",
+   "curiosity": "'Dormir como un lirón' é dormir feito uma pedra: o lirón é um roedor dorminhoco."
+  },
+  "tf15-10": {
+   "word": "soñar",
+   "translit": null,
+   "example": "¿Alguna vez soñaste que volabas?",
+   "examplePt": "Você já sonhou que voava?",
+   "pron": "so-NHAR — o 'ñ' soa 'nh' e o 'r' final é suave",
+   "curiosity": "'¡Ni soñarlo!' é 'nem pensar!': nem em sonho!"
+  },
+  "tf16-01": {
+   "word": "correr",
+   "translit": null,
+   "example": "¡Tengo que correr, llego tarde!",
+   "examplePt": "Tenho que correr, estou atrasado!",
+   "pron": "ko-RRER — o 'rr' vibra forte na ponta da língua",
+   "curiosity": "'Salir corriendo' é sair correndo: o gerúndio mostra COMO se sai."
+  },
+  "tf16-02": {
+   "word": "caminar",
+   "translit": null,
+   "example": "¿Caminamos juntos hasta la escuela?",
+   "examplePt": "Vamos caminhar juntos até a escola?",
+   "pron": "ka-mi-NAR — o 'r' final é suave e o 'c' soa 'k'",
+   "curiosity": "'Caminar' e 'el camino' são da mesma família: andar pelo caminho!"
+  },
+  "tf16-03": {
+   "word": "saltar",
+   "translit": null,
+   "example": "Mi perro sabe saltar muy alto.",
+   "examplePt": "Meu cachorro sabe pular muito alto.",
+   "pron": "sal-TAR — o 'l' é L de verdade, não 'u'",
+   "curiosity": "O 'Salto Ángel', na Venezuela, é a cachoeira mais alta do mundo."
+  },
+  "tf16-04": {
+   "word": "nadar",
+   "translit": null,
+   "example": "Quiero nadar con los delfines.",
+   "examplePt": "Quero nadar com os golfinhos.",
+   "pron": "na-DAR — o 'd' é suave e o 'r' final é leve",
+   "curiosity": "'Nadar entre dos aguas' é ficar em cima do muro, sem decidir."
+  },
+  "tf16-05": {
+   "word": "subir",
+   "translit": null,
+   "example": "¡Voy a subir al árbol más alto!",
+   "examplePt": "Vou subir na árvore mais alta!",
+   "pron": "su-BIR — o 'b' é suave e o 'r' final é leve",
+   "curiosity": "Para entrar num veículo se diz 'subirse': 'subirse al autobús'."
+  },
+  "tf16-06": {
+   "word": "bajar",
+   "translit": null,
+   "example": "¿Puedes bajar la música, por favor?",
+   "examplePt": "Pode baixar o som, por favor?",
+   "pron": "ba-HAR — o 'j' é um 'h' aspirado forte",
+   "curiosity": "'Bajar' também serve para baixar um arquivo da internet!"
+  },
+  "tf16-07": {
+   "word": "bailar",
+   "translit": null,
+   "example": "¿Quieres bailar conmigo esta noche?",
+   "examplePt": "Quer dançar comigo esta noite?",
+   "pron": "bai-LAR — o 'ai' é um ditongo e o 'r' final é suave",
+   "curiosity": "Tango, cumbia e merengue nasceram na América Latina: motivos de sobra pra 'bailar'!"
+  },
+  "tf16-08": {
+   "word": "empujar",
+   "translit": null,
+   "example": "¡Ayúdame a empujar el coche!",
+   "examplePt": "Me ajude a empurrar o carro!",
+   "pron": "em-pu-HAR — o 'm' vem antes do 'p' e o 'j' é um 'h' forte",
+   "curiosity": "Nas portas, 'Empuje' significa empurre; 'Jale' ou 'Tire', puxe."
+  },
+  "tf16-09": {
+   "word": "jalar",
+   "translit": null,
+   "example": "Hay que jalar la cuerda con fuerza.",
+   "examplePt": "É preciso puxar a corda com força.",
+   "pron": "ha-LAR — o 'j' é um 'h' aspirado forte, não o 'j' de 'já'",
+   "curiosity": "Também se escreve 'halar': as duas grafias valem."
+  },
+  "tf16-10": {
+   "word": "escalar",
+   "translit": null,
+   "example": "¿Te atreves a escalar ese muro?",
+   "examplePt": "Você se atreve a escalar aquele muro?",
+   "pron": "es-ka-LAR — o 'e' inicial é puro e o 'c' soa 'k'",
+   "curiosity": "Parente de 'escalera' (escada) e 'escalón' (degrau): tudo é subir!"
+  },
+  "tf17-01": {
+   "word": "hablar",
+   "translit": null,
+   "example": "Mi loro quiere hablar con todos.",
+   "examplePt": "Meu papagaio quer falar com todos.",
+   "pron": "a-BLAR — o 'h' é mudo e o 'b' é suave",
+   "curiosity": "O F latino virou H: falar dá 'hablar', fazer dá 'hacer'."
+  },
+  "tf17-02": {
+   "word": "escuchar",
+   "translit": null,
+   "example": "Escucha, ¿oyes ese ruido extraño?",
+   "examplePt": "Escute, você ouve esse barulho estranho?",
+   "pron": "es-ku-TCHAR — o 'ch' soa 'tch' e o 'r' final é suave",
+   "curiosity": "'Escuchar' é prestar atenção; 'oír' é ouvir sem querer. Sutil, mas útil!"
+  },
+  "tf17-03": {
+   "word": "leer",
+   "translit": null,
+   "example": "Me encanta leer antes de dormir.",
+   "examplePt": "Adoro ler antes de dormir.",
+   "pron": "le-ER — dois 'e' seguidos, bem separados",
+   "curiosity": "'Leer entre líneas' é ler nas entrelinhas, como em português."
+  },
+  "tf17-04": {
+   "word": "escribir",
+   "translit": null,
+   "example": "¡Escribe tu nombre en la arena!",
+   "examplePt": "Escreva seu nome na areia!",
+   "pron": "es-kri-BIR — o 'b' é suave e o 'r' final é leve",
+   "curiosity": "Particípio irregular: 'escrito'. Nunca 'escribido'!"
+  },
+  "tf17-05": {
+   "word": "preguntar",
+   "translit": null,
+   "example": "¿Puedo preguntar algo muy tonto?",
+   "examplePt": "Posso perguntar algo muito bobo?",
+   "pron": "pre-gun-TAR — o 'r' é batido logo depois do 'p', sem 'e' extra",
+   "curiosity": "Em ES a pergunta é 'pregunta', e não 'pergunta': o R troca de lugar."
+  },
+  "tf17-06": {
+   "word": "responder",
+   "translit": null,
+   "example": "Voy a responder tu mensaje mañana.",
+   "examplePt": "Vou responder sua mensagem amanhã.",
+   "pron": "rres-pon-DER — o 'r' inicial vibra forte e o 'd' é suave",
+   "curiosity": "A 'respuesta' (resposta) muda a forma: 'responder' dá 'respuesta'."
+  },
+  "tf17-07": {
+   "word": "pensar",
+   "translit": null,
+   "example": "¿Qué estás pensando ahora mismo?",
+   "examplePt": "No que você está pensando agora mesmo?",
+   "pron": "pen-SAR — o 'e' é puro e o 's' soa 's'",
+   "curiosity": "'Pensar en' = pensar em, igual ao português."
+  },
+  "tf17-08": {
+   "word": "recordar",
+   "translit": null,
+   "example": "Quiero recordar este momento siempre.",
+   "examplePt": "Quero lembrar deste momento para sempre.",
+   "pron": "rre-kor-DAR — o 'r' inicial vibra e o 'c' soa 'k'",
+   "curiosity": "Vem do latim 'cor', coração: lembrar é guardar no coração!"
+  },
+  "tf17-09": {
+   "word": "olvidar",
+   "translit": null,
+   "example": "¡No olvides tu paraguas, va a llover!",
+   "examplePt": "Não esqueça seu guarda-chuva, vai chover!",
+   "pron": "ol-bi-DAR — o 'l' é claro e o 'v' soa 'b'",
+   "curiosity": "'Se me olvidó' = esqueci, literalmente 'foi esquecido por mim'. Bem natural!"
+  },
+  "tf17-10": {
+   "word": "entender",
+   "translit": null,
+   "example": "Quiero entender esta canción.",
+   "examplePt": "Quero entender esta música.",
+   "pron": "en-ten-DER — o 'e' é puro e o 'd' é suave",
+   "curiosity": "Muda e→ie: entiendo, entiendes. 'No entiendo' é uma frase de ouro!"
+  },
+  "tf18-01": {
+   "word": "el banco",
+   "translit": null,
+   "example": "Dejé mi dinero en el banco.",
+   "examplePt": "Deixei meu dinheiro no banco.",
+   "pron": "BAN-ko — o 'c' soa 'k' e o 'a' é aberto",
+   "curiosity": "É o banco do dinheiro e também o banco de sentar da praça!"
+  },
+  "tf18-02": {
+   "word": "la farmacia",
+   "translit": null,
+   "example": "¿Dónde queda la farmacia más cercana?",
+   "examplePt": "Onde fica a farmácia mais próxima?",
+   "pron": "far-MA-sia — o 'ci' soa 'si' e o final é um ditongo",
+   "curiosity": "Na Espanha as farmácias têm uma cruz verde luminosa na porta."
+  },
+  "tf18-03": {
+   "word": "la panadería",
+   "translit": null,
+   "example": "La panadería abre antes del amanecer.",
+   "examplePt": "A padaria abre antes do amanhecer.",
+   "pron": "pa-na-de-RÍ-a — o acento cai no 'rí', separado do 'a' final",
+   "curiosity": "Sufixo -ería = loja de algo: panadería, librería, zapatería, frutería."
+  },
+  "tf18-04": {
+   "word": "la escuela",
+   "translit": null,
+   "example": "Mi escuela tiene un jardín enorme.",
+   "examplePt": "Minha escola tem um jardim enorme.",
+   "pron": "es-KUE-la — o 'e' inicial é puro e o 'ue' é um ditongo",
+   "curiosity": "'Escuela' e 'colegio' são ambos 'escola' em muitos países."
+  },
+  "tf18-05": {
+   "word": "el hospital",
+   "translit": null,
+   "example": "¿Hay un hospital cerca de aquí?",
+   "examplePt": "Tem um hospital perto daqui?",
+   "pron": "os-pi-TAL — o 'h' é mudo e o 'l' final é L de verdade",
+   "curiosity": "'Hospital', 'hotel' e 'hospedaje' vêm do latim 'hospes', o hóspede."
+  },
+  "tf18-06": {
+   "word": "la plaza",
+   "translit": null,
+   "example": "¡Nos vemos en la plaza a las cinco!",
+   "examplePt": "A gente se vê na praça às cinco!",
+   "pron": "PLA-sa — o 'z' soa 's' e o 'a' final é puro",
+   "curiosity": "Quase toda cidade espanhola tem uma 'Plaza Mayor', a praça principal."
+  },
+  "tf18-07": {
+   "word": "el mercado",
+   "translit": null,
+   "example": "En el mercado venden flores y frutas.",
+   "examplePt": "No mercado vendem flores e frutas.",
+   "pron": "mer-KA-do — o 'c' soa 'k' e o 'd' é suave, quase 'dh'",
+   "curiosity": "'Mercado de pulgas' é a feira de usados, e não tem pulgas de verdade!"
+  },
+  "tf18-08": {
+   "word": "la biblioteca",
+   "translit": null,
+   "example": "¡Shhh! Estás en la biblioteca.",
+   "examplePt": "Shhh! Você está na biblioteca.",
+   "pron": "bi-blio-TE-ka — o 'c' soa 'k' e 'blio' sai numa pancada só",
+   "curiosity": "A biblioteca empresta livros; onde se compra livro é a 'librería'!"
+  },
+  "tf18-09": {
+   "word": "el cine",
+   "translit": null,
+   "example": "¿Vamos al cine esta noche?",
+   "examplePt": "Vamos ao cinema esta noite?",
+   "pron": "SI-ne — o 'c' soa 's' e o 'e' final é 'e' puro",
+   "curiosity": "'Cine' é abreviação de 'cinematógrafo': palavra curtinha, grande diversão!"
+  },
+  "tf18-10": {
+   "word": "el museo",
+   "translit": null,
+   "example": "¿Viste la momia en el museo?",
+   "examplePt": "Você viu a múmia no museu?",
+   "pron": "mu-SE-o — o 's' entre vogais soa 's' e o 'eo' são duas sílabas",
+   "curiosity": "Vem das Musas, deusas gregas das artes: o museu é a casa das Musas!"
+  },
+  "tf19-01": {
+   "word": "el autobús",
+   "translit": null,
+   "example": "¡Corre, que se va el autobús!",
+   "examplePt": "Corra, que o ônibus está indo embora!",
+   "pron": "au-to-BÚS — o acento cai no final e o 's' é claro",
+   "curiosity": "Varia: 'bus', 'colectivo' (Argentina), 'camión' (México), 'guagua' (Cuba)."
+  },
+  "tf19-02": {
+   "word": "el tren",
+   "translit": null,
+   "example": "¡El tren llegó con diez minutos de retraso!",
+   "examplePt": "O trem chegou com dez minutos de atraso!",
+   "pron": "TREN — o 'r' é batido e o 'n' final é claro",
+   "curiosity": "Vem do francês 'train', sem o 'i' do original."
+  },
+  "tf19-03": {
+   "word": "el avión",
+   "translit": null,
+   "example": "¿Cuánto dura el vuelo en avión?",
+   "examplePt": "Quanto dura o voo de avião?",
+   "pron": "a-BIÓN — o 'v' soa 'b' e o 'n' final é claro",
+   "curiosity": "A palavra 'avion' foi criada pelo inventor francês Clément Ader."
+  },
+  "tf19-04": {
+   "word": "el metro",
+   "translit": null,
+   "example": "El metro está lleno de gente hoy.",
+   "examplePt": "O metrô está cheio de gente hoje.",
+   "pron": "ME-tro — o 'e' é puro e o 'r' é batido",
+   "curiosity": "É abreviação de 'metropolitano' e também é a medida de 1 m!"
+  },
+  "tf19-05": {
+   "word": "la bicicleta",
+   "translit": null,
+   "example": "¡Mi bicicleta tiene una campana ruidosa!",
+   "examplePt": "Minha bicicleta tem uma campainha barulhenta!",
+   "pron": "bi-si-KLÉ-ta — o 'c' inicial soa 's' e o segundo soa 'k'",
+   "curiosity": "Apelido: 'la bici'. Bi- (duas) + ciclo (roda): duas rodas!"
+  },
+  "tf19-06": {
+   "word": "el taxi",
+   "translit": null,
+   "example": "¿Pedimos un taxi o caminamos?",
+   "examplePt": "Pedimos um táxi ou caminhamos?",
+   "pron": "TAK-si — o 'x' soa 'k' + 's'",
+   "curiosity": "Vem de 'taxímetro', o aparelho que mede o valor da corrida."
+  },
+  "tf19-07": {
+   "word": "el barco",
+   "translit": null,
+   "example": "Un barco pirata cruza el mar.",
+   "examplePt": "Um barco pirata cruza o mar.",
+   "pron": "BAR-ko — o 'c' soa 'k' e o 'r' é batido",
+   "curiosity": "'Barco' serve para qualquer embarcação; 'buque' é o navio grande."
+  },
+  "tf19-08": {
+   "word": "el camión",
+   "translit": null,
+   "example": "Un camión enorme bloquea la calle.",
+   "examplePt": "Um caminhão enorme bloqueia a rua.",
+   "pron": "ka-MIÓN — o 'n' final é claro e o acento cai no final",
+   "curiosity": "No México, 'camión' também pode ser o ônibus urbano!"
+  },
+  "tf19-09": {
+   "word": "la moto",
+   "translit": null,
+   "example": "¡Qué ruido hace tu moto!",
+   "examplePt": "Que barulho faz a sua moto!",
+   "pron": "MO-to — o 'o' é puro nas duas sílabas",
+   "curiosity": "Termina em -o, mas é feminina! É abreviação de 'motocicleta': la moto."
+  },
+  "tf19-10": {
+   "word": "el helicóptero",
+   "translit": null,
+   "example": "¡Un helicóptero aterrizó en el techo!",
+   "examplePt": "Um helicóptero pousou no telhado!",
+   "pron": "e-li-KOP-te-ro — o 'h' é mudo e o 'c' soa 'k'",
+   "curiosity": "Vem do grego: 'hélice' (espiral) + 'pteron' (asa). Asa em espiral!"
+  },
+  "tf20-01": {
+   "word": "la maleta",
+   "translit": null,
+   "example": "Mi maleta pesa como un elefante.",
+   "examplePt": "Minha mala pesa como um elefante.",
+   "pron": "ma-LE-ta — o 'e' é puro e o 't' é seco",
+   "curiosity": "'Mala' em espanhol é adjetivo (ruim); a mala de viagem é 'la maleta'."
+  },
+  "tf20-02": {
+   "word": "el pasaporte",
+   "translit": null,
+   "example": "¡Ay, no! Olvidé mi pasaporte.",
+   "examplePt": "Ai, não! Esqueci meu passaporte.",
+   "pron": "pa-sa-POR-te — o 's' entre vogais soa 's' e o 'r' é batido",
+   "curiosity": "Vem do francês 'passeport': passa-porto. Escreve-se com um S só!"
+  },
+  "tf20-03": {
+   "word": "el pasaje",
+   "translit": null,
+   "example": "¿Cuánto cuesta el pasaje a la playa?",
+   "examplePt": "Quanto custa a passagem até a praia?",
+   "pron": "pa-SA-he — o 'j' é um 'h' aspirado forte",
+   "curiosity": "Também se diz 'boleto' (México, Argentina) e 'billete' (Espanha)."
+  },
+  "tf20-04": {
+   "word": "el hotel",
+   "translit": null,
+   "example": "Este hotel tiene una piscina enorme.",
+   "examplePt": "Este hotel tem uma piscina enorme.",
+   "pron": "o-TEL — o 'h' é mudo e o 'e' final é aberto",
+   "curiosity": "Na Espanha, 'hostal' é uma pensão mais simples que um hotel."
+  },
+  "tf20-05": {
+   "word": "el mapa",
+   "translit": null,
+   "example": "Sin mapa, me pierdo en cualquier calle.",
+   "examplePt": "Sem mapa, eu me perco em qualquer rua.",
+   "pron": "MA-pa — o 'a' é aberto e o 'p' é seco, sem 'i'",
+   "curiosity": "Termina em -a, mas é masculino: el mapa, el día, el planeta."
+  },
+  "tf20-06": {
+   "word": "la reserva",
+   "translit": null,
+   "example": "Hice una reserva para dos personas.",
+   "examplePt": "Fiz uma reserva para duas pessoas.",
+   "pron": "rre-SER-ba — o 'r' inicial vibra forte e o 'v' soa 'b'",
+   "curiosity": "Em vinhos, 'reserva' e 'gran reserva' indicam os mais envelhecidos."
+  },
+  "tf20-07": {
+   "word": "el turista",
+   "translit": null,
+   "example": "¡Los turistas sacan fotos de todo!",
+   "examplePt": "Os turistas tiram fotos de tudo!",
+   "pron": "tu-RIS-ta — o 'r' é batido e o 's' soa 's'",
+   "curiosity": "Vem de 'tour' (volta, passeio) com -ista. Serve para homem ou mulher: el/la turista."
+  },
+  "tf20-08": {
+   "word": "la frontera",
+   "translit": null,
+   "example": "Cruzamos la frontera a pie.",
+   "examplePt": "Atravessamos a fronteira a pé.",
+   "pron": "fron-TE-ra — o 'r' é batido logo depois do 'f'",
+   "curiosity": "Parente de 'frente': é onde dois países ficam frente a frente."
+  },
+  "tf20-09": {
+   "word": "la aduana",
+   "translit": null,
+   "example": "En la aduana abren mi maleta.",
+   "examplePt": "Na alfândega abrem a minha mala.",
+   "pron": "a-DUA-na — o 'd' é suave e o 'ua' é um ditongo",
+   "curiosity": "Vem do árabe, como 'almohada' (travesseiro) e 'alfombra' (tapete)."
+  },
+  "tf20-10": {
+   "word": "el recuerdo",
+   "translit": null,
+   "example": "Compré un recuerdo para mi mamá.",
+   "examplePt": "Comprei uma lembrancinha para minha mãe.",
+   "pron": "rre-KUER-do — o 'r' inicial vibra forte e o 'ue' é um ditongo",
+   "curiosity": "'Recuerdo' é lembrança de viagem e também a memória. Verbo: 'recordar'."
+  },
+  "tf21-01": {
+   "word": "la madre",
+   "translit": null,
+   "example": "Mi madre me llamó cuando llegué.",
+   "examplePt": "Minha mãe me ligou quando cheguei.",
+   "pron": "MA-dre — o 'd' é suave, entre vogais, e o 'r' é batido",
+   "curiosity": "No México, o Dia das Mães é sempre 10 de maio, em qualquer dia da semana."
+  },
+  "tf21-02": {
+   "word": "el padre",
+   "translit": null,
+   "example": "Mi padre siempre ríe de sus chistes.",
+   "examplePt": "Meu pai sempre ri das próprias piadas.",
+   "pron": "PA-dre — o 'd' é suave e o 'r' é batido",
+   "curiosity": "'Padre' também é o sacerdote; e 'los padres' são pai e mãe juntos."
+  },
+  "tf21-03": {
+   "word": "el hermano",
+   "translit": null,
+   "example": "Mi hermano menor me copia en todo.",
+   "examplePt": "Meu irmão mais novo me copia em tudo.",
+   "pron": "er-MA-no — o 'h' é mudo, então começa em 'er'",
+   "curiosity": "'Hermanos' vale para irmãos e irmãs juntos: 'tengo tres hermanos'."
+  },
+  "tf21-04": {
+   "word": "la hermana",
+   "translit": null,
+   "example": "Mi hermana mayor me prestó su abrigo.",
+   "examplePt": "Minha irmã mais velha me emprestou seu casaco.",
+   "pron": "er-MA-na — o 'h' é mudo, então começa em 'er'",
+   "curiosity": "'Hermana' também é como se chama uma freira: 'la hermana María'."
+  },
+  "tf21-05": {
+   "word": "el hijo",
+   "translit": null,
+   "example": "Mi hijo dibujó un dragón en la pared.",
+   "examplePt": "Meu filho desenhou um dragão na parede.",
+   "pron": "I-ho — o 'h' é mudo e o 'j' é um 'h' forte",
+   "curiosity": "'Hijo único' é filho único, e 'hijo de vecino' é qualquer pessoa comum."
+  },
+  "tf21-06": {
+   "word": "la hija",
+   "translit": null,
+   "example": "Mi hija quiere ser astronauta.",
+   "examplePt": "Minha filha quer ser astronauta.",
+   "pron": "I-ha — o 'h' é mudo e o 'j' é um 'h' forte",
+   "curiosity": "Carinhoso: 'hijita'. Com -ita ou -ito o espanhol faz diminutivos fofos."
+  },
+  "tf21-07": {
+   "word": "el abuelo",
+   "translit": null,
+   "example": "¡Mi abuelo cuenta historias increíbles!",
+   "examplePt": "Meu avô conta histórias incríveis!",
+   "pron": "a-BUE-lo — o 'ue' é um ditongo e o 'b' é suave",
+   "curiosity": "'Abuelito' é o apelido fofo, e 'abuelo' vem de 'abuela'."
+  },
+  "tf21-08": {
+   "word": "la abuela",
+   "translit": null,
+   "example": "Mi abuela guarda dulces en su bolsillo.",
+   "examplePt": "Minha avó guarda doces no bolso.",
+   "pron": "a-BUE-la — o 'ue' é um ditongo e o 'b' é suave",
+   "curiosity": "'Los abuelos' são os avós, os dois; nunca chame a avó de 'abuelo'."
+  },
+  "tf21-09": {
+   "word": "el tío",
+   "translit": null,
+   "example": "Mi tío toca la guitarra en cada fiesta.",
+   "examplePt": "Meu tio toca violão em cada festa.",
+   "pron": "TÍ-o — o acento no 'í' separa as duas vogais: são duas sílabas",
+   "curiosity": "Na Espanha, jovens chamam qualquer pessoa de 'tío', como 'cara' no Brasil."
+  },
+  "tf21-10": {
+   "word": "la tía",
+   "translit": null,
+   "example": "Mi tía me trajo un regalo enorme.",
+   "examplePt": "Minha tia me trouxe um presente enorme.",
+   "pron": "TÍ-a — o acento no 'í' separa as duas vogais: são duas sílabas",
+   "curiosity": "'Los tíos' = tios e tias juntos. Mesmo truque de 'los padres' e 'los hermanos'."
+  },
+  "tf22-01": {
+   "word": "feliz",
+   "translit": null,
+   "example": "¡Estoy tan feliz que podría volar!",
+   "examplePt": "Estou tão feliz que poderia voar!",
+   "pron": "fe-LIS — o 'z' final soa 's' e a força cai no 'lis'",
+   "curiosity": "O plural é 'felices': o Z vira C. Serve para homem e mulher."
+  },
+  "tf22-02": {
+   "word": "triste",
+   "translit": null,
+   "example": "¿Por qué estás tan triste hoy?",
+   "examplePt": "Por que você está tão triste hoje?",
+   "pron": "TRIS-te — o 's' antes do 't' é 's' limpo, sem 'ch'",
+   "curiosity": "Emoção de momento usa 'estar': 'estoy triste'. 'Ser triste' é ser uma pessoa melancólica."
+  },
+  "tf22-03": {
+   "word": "enojado",
+   "translit": null,
+   "example": "Papá estaba enojado, pero se rió al final.",
+   "examplePt": "Papai estava bravo, mas riu no final.",
+   "pron": "e-no-HA-do — o 'j' é um 'h' aspirado forte",
+   "curiosity": "'Enojado' é o mais comum na América Latina; na Espanha se usa mais 'enfadado'."
+  },
+  "tf22-04": {
+   "word": "con miedo",
+   "translit": null,
+   "example": "Mi gato se escondió con miedo del trueno.",
+   "examplePt": "Meu gato se escondeu com medo do trovão.",
+   "pron": "kon MIE-do — o 'ie' é um ditongo e o 'd' é suave",
+   "curiosity": "'Me da miedo' = tenho medo, literalmente 'me dá medo'."
+  },
+  "tf22-05": {
+   "word": "sorprendido",
+   "translit": null,
+   "example": "Quedé sorprendido cuando abrí la caja.",
+   "examplePt": "Fiquei surpreso quando abri a caixa.",
+   "pron": "sor-pren-DI-do — a primeira sílaba é 'sor', não 'sur'",
+   "curiosity": "PT escreve 'sur-' e ES escreve 'sor-': sorpresa, sorprendido."
+  },
+  "tf22-06": {
+   "word": "cansado",
+   "translit": null,
+   "example": "Estoy cansado después de tanto correr.",
+   "examplePt": "Estou cansado depois de tanto correr.",
+   "pron": "kan-SA-do — o 'd' é suave e o 's' soa 's'",
+   "curiosity": "Parente de 'descansar': quem se cansa, descansa!"
+  },
+  "tf22-07": {
+   "word": "con sueño",
+   "translit": null,
+   "example": "Llegué con sueño a la escuela.",
+   "examplePt": "Cheguei com sono à escola.",
+   "pron": "kon SUE-nho — o 'ue' é um ditongo e o 'ñ' soa 'nh'",
+   "curiosity": "'Tener sueño' é ter sono; a mesma palavra 'sueño' também significa 'sonho'!"
+  },
+  "tf22-08": {
+   "word": "aburrido",
+   "translit": null,
+   "example": "La película fue tan aburrida que bostecé.",
+   "examplePt": "O filme foi tão chato que bocejei.",
+   "pron": "a-bu-RRI-do — o 'rr' vibra forte e o 'd' é suave",
+   "curiosity": "'Estar aburrido' = estar entediado; 'ser aburrido' = ser chato. O verbo muda tudo!"
+  },
+  "tf22-09": {
+   "word": "emocionado",
+   "translit": null,
+   "example": "¡Estoy emocionado por el viaje de mañana!",
+   "examplePt": "Estou empolgado com a viagem de amanhã!",
+   "pron": "e-mo-sio-NA-do — o 'c' soa 's' e o 'io' sai junto",
+   "curiosity": "Pode ser empolgado ou comovido; pelo contexto você descobre qual!"
+  },
+  "tf22-10": {
+   "word": "nervioso",
+   "translit": null,
+   "example": "Estoy nervioso antes del examen.",
+   "examplePt": "Estou nervoso antes da prova.",
+   "pron": "ner-BIO-so — o 'v' soa 'b' e o 'io' é um ditongo",
+   "curiosity": "'Ataque de nervios' é uma crise de nervoso: o nervio é o nervo."
+  },
+  "tf23-01": {
+   "word": "simpático",
+   "translit": null,
+   "example": "Mi vecino es muy simpático con todos.",
+   "examplePt": "Meu vizinho é muito simpático com todos.",
+   "pron": "sim-PÁ-ti-ko — o 't' é seco, sem 'tch', e o 'c' soa 'k'",
+   "curiosity": "Em ES, 'simpático' é gente boa e agradável; o contrário é 'antipático'."
+  },
+  "tf23-02": {
+   "word": "tímido",
+   "translit": null,
+   "example": "Mi primo es tímido al conocer gente nueva.",
+   "examplePt": "Meu primo é tímido ao conhecer gente nova.",
+   "pron": "TÍ-mi-do — o acento cai no 'tí', na primeira sílaba",
+   "curiosity": "Palavras com acento na antepenúltima sílaba sempre levam acento escrito."
+  },
+  "tf23-03": {
+   "word": "valiente",
+   "translit": null,
+   "example": "¡Qué valiente fue el niño con el perro!",
+   "examplePt": "Que corajoso foi o menino com o cachorro!",
+   "pron": "ba-LIEN-te — o 'v' soa 'b' e o 'ie' é um ditongo",
+   "curiosity": "Parente de 'valer' e 'valor': quem vale muito é 'valiente'."
+  },
+  "tf23-04": {
+   "word": "perezoso",
+   "translit": null,
+   "example": "El perezoso de la selva duerme todo el día.",
+   "examplePt": "O preguiçoso da selva dorme o dia todo.",
+   "pron": "pe-re-SO-so — o 'z' soa 's' e o 'r' é batido",
+   "curiosity": "'El perezoso' também é o nome do bicho-preguiça: adjetivo e animal!"
+  },
+  "tf23-05": {
+   "word": "generoso",
+   "translit": null,
+   "example": "Mi abuela es generosa: comparte su postre.",
+   "examplePt": "Minha avó é generosa: divide sua sobremesa.",
+   "pron": "he-ne-RO-so — o 'g' antes de 'e' soa como 'h' aspirado forte",
+   "curiosity": "'Generoso' também descreve porções fartas: 'una porción generosa'."
+  },
+  "tf23-06": {
+   "word": "terco",
+   "translit": null,
+   "example": "Eres tan terco como una mula.",
+   "examplePt": "Você é tão teimoso quanto uma mula.",
+   "pron": "TER-ko — o 'c' soa 'k' e o 'r' é batido",
+   "curiosity": "Dizem 'terco como una mula', igualzinho ao nosso 'teimoso como uma mula'!"
+  },
+  "tf23-07": {
+   "word": "honesto",
+   "translit": null,
+   "example": "Un niño honesto devolvió mi billetera.",
+   "examplePt": "Um menino honesto devolveu minha carteira.",
+   "pron": "o-NES-to — o 'h' é mudo e o 's' antes do 't' é limpo",
+   "curiosity": "Sufixo -dad = -dade: honestidad, amistad, realidad."
+  },
+  "tf23-08": {
+   "word": "curioso",
+   "translit": null,
+   "example": "Mi gato es curioso: ¡abre todos los cajones!",
+   "examplePt": "Meu gato é curioso: abre todas as gavetas!",
+   "pron": "ku-RIO-so — o 'c' soa 'k' e o 'io' é um ditongo",
+   "curiosity": "'¡Qué curioso!' também significa 'que estranho!': duas ideias numa palavra."
+  },
+  "tf23-09": {
+   "word": "paciente",
+   "translit": null,
+   "example": "Un buen maestro siempre es paciente.",
+   "examplePt": "Um bom professor sempre é paciente.",
+   "pron": "pa-SIEN-te — o 'c' soa 's' e o 'ie' é um ditongo",
+   "curiosity": "'El paciente' também é o doente do hospital: ser paciente ou ser um paciente!"
+  },
+  "tf23-10": {
+   "word": "gracioso",
+   "translit": null,
+   "example": "¿Quién contó ese chiste tan gracioso?",
+   "examplePt": "Quem contou essa piada tão engraçada?",
+   "pron": "gra-SIO-so — o 'c' soa 's' e o 'io' é um ditongo",
+   "curiosity": "No teatro espanhol clássico existe a figura do 'gracioso', o personagem cômico."
+  },
+  "tf24-01": {
+   "word": "la nostalgia",
+   "translit": null,
+   "example": "Siento nostalgia cuando veo fotos de mi infancia.",
+   "examplePt": "Sinto saudade quando vejo fotos da minha infância.",
+   "pron": "nos-TAL-hia — o 'g' antes de 'i' soa como 'h' aspirado forte",
+   "curiosity": "Vem do grego: 'nostos' (volta para casa) + 'algos' (dor): a dor de voltar."
+  },
+  "tf24-02": {
+   "word": "los celos",
+   "translit": null,
+   "example": "Mi perro siente celos del gato nuevo.",
+   "examplePt": "Meu cachorro sente ciúmes do gato novo.",
+   "pron": "SÊ-los — o 'c' soa 's' e o 'e' é puro",
+   "curiosity": "Quase sempre no plural: 'tener celos' = ter ciúmes."
+  },
+  "tf24-03": {
+   "word": "el orgullo",
+   "translit": null,
+   "example": "Sentí mucho orgullo cuando terminé el maratón.",
+   "examplePt": "Senti muito orgulho quando terminei a maratona.",
+   "pron": "or-GU-yo — o 'll' soa como 'i' ou 'j' suave",
+   "curiosity": "'Estoy orgulloso de ti' = tenho orgulho de você: em espanhol é elogio!"
+  },
+  "tf24-04": {
+   "word": "la vergüenza",
+   "translit": null,
+   "example": "Sentí vergüenza al olvidar su nombre.",
+   "examplePt": "Senti vergonha ao esquecer o nome dele.",
+   "pron": "ber-GUEN-sa — o 'ü' manda soar o 'u': 'güen', e o 'z' soa 's'",
+   "curiosity": "O trema (ü) faz o U soar; sem ele, 'vergenza' soaria 'verhensa'!"
+  },
+  "tf24-05": {
+   "word": "la esperanza",
+   "translit": null,
+   "example": "Tengo la esperanza de verte pronto.",
+   "examplePt": "Tenho a esperança de te ver em breve.",
+   "pron": "es-pe-RAN-sa — o 'z' soa 's' e o 'r' é batido",
+   "curiosity": "Existe o provérbio 'La esperanza es lo último que se pierde': a esperança é a última que morre."
+  },
+  "tf24-06": {
+   "word": "la confianza",
+   "translit": null,
+   "example": "Ganó mi confianza con un abrazo.",
+   "examplePt": "Ele ganhou minha confiança com um abraço.",
+   "pron": "kon-fi-AN-sa — o 'z' soa 's' e o 'fi' + 'an' vêm separados",
+   "curiosity": "'De confianza' descreve alguém confiável: uma pessoa de confiança!"
+  },
+  "tf24-07": {
+   "word": "la amistad",
+   "translit": null,
+   "example": "Nuestra amistad nació en el patio.",
+   "examplePt": "Nossa amizade nasceu no pátio.",
+   "pron": "a-mis-TAD — o 's' antes do 't' é limpo e o 'd' final é fraco",
+   "curiosity": "Para amigos de infância, dizem 'amigos de toda la vida'. Soa lindo!"
+  },
+  "tf24-08": {
+   "word": "el amor",
+   "translit": null,
+   "example": "¿Existe el amor a primera vista?",
+   "examplePt": "Existe amor à primeira vista?",
+   "pron": "a-MOR — o 'r' final é suave, sem vogal extra",
+   "curiosity": "Carinhos comuns: 'mi amor', 'mi vida', 'mi cielo' (meu céu)."
+  },
+  "tf24-09": {
+   "word": "la rabia",
+   "translit": null,
+   "example": "Me da rabia perder en el último segundo.",
+   "examplePt": "Me dá raiva perder no último segundo.",
+   "pron": "RRA-bia — o 'rr' inicial vibra forte e o 'b' é suave",
+   "curiosity": "'Rabia' também é a doença da raiva, a que cachorros doentes transmitem."
+  },
+  "tf24-10": {
+   "word": "el alivio",
+   "translit": null,
+   "example": "¡Qué alivio! Por fin dejó de llover.",
+   "examplePt": "Que alívio! Enfim parou de chover.",
+   "pron": "a-LI-bio — o 'v' soa 'b' e o 'io' é um ditongo",
+   "curiosity": "Vem do latim 'levis' (leve): alívio é ficar mais leve!"
+  },
+  "tf25-01": {
+   "word": "el médico",
+   "translit": null,
+   "example": "Mi médico dijo que debo descansar más.",
+   "examplePt": "Meu médico disse que preciso descansar mais.",
+   "pron": "ME-di-ko — o 'c' soa 'k' e o 'd' é suave",
+   "curiosity": "O feminino é 'la médica': a maioria das profissões troca -o por -a."
+  },
+  "tf25-02": {
+   "word": "el profesor",
+   "translit": null,
+   "example": "El profesor trajo un cohete de verdad.",
+   "examplePt": "O professor trouxe um foguete de verdade.",
+   "pron": "pro-fe-SOR — o 'r' final é suave, sem vogal extra",
+   "curiosity": "Os alunos chamam o professor de 'profe': carinhoso e muito comum!"
+  },
+  "tf25-03": {
+   "word": "el cocinero",
+   "translit": null,
+   "example": "El cocinero lanzó una tortilla al aire.",
+   "examplePt": "O cozinheiro lançou uma tortilha ao ar.",
+   "pron": "ko-si-NE-ro — o 'c' do meio soa 's' e o 'r' é batido",
+   "curiosity": "Da 'cocina' (cozinha) vem o 'cocinero'. Verbo: 'cocinar'."
+  },
+  "tf25-04": {
+   "word": "el chofer",
+   "translit": null,
+   "example": "El chofer esperó bajo la lluvia.",
+   "examplePt": "O motorista esperou sob a chuva.",
+   "pron": "cho-FER — o 'ch' soa 'tch' e o 'r' final é suave",
+   "curiosity": "Na Espanha escreve-se 'chófer', com acento na primeira sílaba."
+  },
+  "tf25-05": {
+   "word": "el bombero",
+   "translit": null,
+   "example": "¡El bombero salvó al gatito del árbol!",
+   "examplePt": "O bombeiro salvou o gatinho da árvore!",
+   "pron": "bom-BE-ro — o 'm' vem antes do 'b' e o 'e' é puro",
+   "curiosity": "Vem de 'bomba' (de água): quem usa a bomba para apagar o fogo!"
+  },
+  "tf25-06": {
+   "word": "el policía",
+   "translit": null,
+   "example": "¿Dónde está el policía más cercano?",
+   "examplePt": "Onde está o policial mais próximo?",
+   "pron": "po-li-SÍ-a — o acento cai no 'sí', e 'ía' são duas sílabas",
+   "curiosity": "'El policía' é o policial; 'la policía' é a corporação (ou a policial mulher)."
+  },
+  "tf25-07": {
+   "word": "el dentista",
+   "translit": null,
+   "example": "¿Tienes miedo del dentista?",
+   "examplePt": "Você tem medo do dentista?",
+   "pron": "den-TIS-ta — o 'd' é suave e o 's' antes do 't' é limpo",
+   "curiosity": "Palavras em -ista valem para homem e mulher: el/la dentista, artista, pianista."
+  },
+  "tf25-08": {
+   "word": "el enfermero",
+   "translit": null,
+   "example": "Mi hermana quiere ser enfermera de niños.",
+   "examplePt": "Minha irmã quer ser enfermeira de crianças.",
+   "pron": "en-fer-ME-ro — o 'e' inicial é puro e o 'r' é batido",
+   "curiosity": "De 'enfermo' (doente) vem 'enfermero': quem cuida dos enfermos."
+  },
+  "tf25-09": {
+   "word": "el ingeniero",
+   "translit": null,
+   "example": "Mi papá es ingeniero y construye puentes.",
+   "examplePt": "Meu pai é engenheiro e constrói pontes.",
+   "pron": "in-he-NIE-ro — o 'g' antes de 'e' soa 'h' e o 'ie' é um ditongo",
+   "curiosity": "'Ingeniero' vem de 'ingenio' (engenho): quem tem ingenio inventa soluções!"
+  },
+  "tf25-10": {
+   "word": "el abogado",
+   "translit": null,
+   "example": "Mi vecina es abogada y defiende animales.",
+   "examplePt": "Minha vizinha é advogada e defende animais.",
+   "pron": "a-bo-GA-do — o 'b' é suave e o 'g' é duro, como em 'gato'",
+   "curiosity": "'Abogado del diablo' é o advogado do diabo, igual ao português!"
+  },
+  "tf26-01": {
+   "word": "la reunión",
+   "translit": null,
+   "example": "¿A qué hora es la reunión de hoy?",
+   "examplePt": "A que horas é a reunião de hoje?",
+   "pron": "rreu-NIÓN — o 'rr' inicial vibra e o 'eu' fica junto numa sílaba",
+   "curiosity": "Em espanhol, 'reunión' também é qualquer encontro de amigos, não só de trabalho."
+  },
+  "tf26-02": {
+   "word": "el salario",
+   "translit": null,
+   "example": "Mi primer salario fue un gran día.",
+   "examplePt": "Meu primeiro salário foi um grande dia.",
+   "pron": "sa-LA-rio — o 'l' é claro e o 'io' é um ditongo",
+   "curiosity": "No dia a dia se usa muito 'sueldo'; 'salario' soa mais formal."
+  },
+  "tf26-03": {
+   "word": "el jefe",
+   "translit": null,
+   "example": "Mi jefe llegó con una pizza gigante.",
+   "examplePt": "Meu chefe chegou com uma pizza gigante.",
+   "pron": "HE-fe — o 'j' é um 'h' aspirado forte, não 'j' de 'já'",
+   "curiosity": "Vem do francês 'chef', como o 'chef' de cozinha. Feminino: 'la jefa'."
+  },
+  "tf26-04": {
+   "word": "el compañero de trabajo",
+   "translit": null,
+   "example": "Mi compañero de trabajo trae donas cada viernes.",
+   "examplePt": "Meu colega de trabalho traz donuts toda sexta.",
+   "pron": "kom-pa-NHE-ro de tra-BA-ho — o 'ñ' soa 'nh' e o 'j' é um 'h' forte",
+   "curiosity": "'Compañero' vem de 'com' + 'pan': companheiro é quem divide o pão!"
+  },
+  "tf26-05": {
+   "word": "el contrato",
+   "translit": null,
+   "example": "Firmé el contrato con una pluma rara.",
+   "examplePt": "Assinei o contrato com uma caneta estranha.",
+   "pron": "kon-TRA-to — o 'c' soa 'k' e o 'tr' sai junto",
+   "curiosity": "'Contratar' é contratar alguém, e 'contrato' nasce do mesmo verbo."
+  },
+  "tf26-06": {
+   "word": "el currículum",
+   "translit": null,
+   "example": "¿Revisaste mi currículum antes de enviarlo?",
+   "examplePt": "Você revisou meu currículo antes de enviá-lo?",
+   "pron": "ku-RRÍ-ku-lum — o 'rr' vibra forte e a força cai no 'rrí'",
+   "curiosity": "É latim puro: 'curriculum vitae' é o 'percurso da vida'."
+  },
+  "tf26-07": {
+   "word": "la entrevista",
+   "translit": null,
+   "example": "La entrevista de trabajo me puso nervioso.",
+   "examplePt": "A entrevista de emprego me deixou nervoso.",
+   "pron": "en-tre-BIS-ta — o 'v' soa 'b' e o 's' antes do 't' é limpo",
+   "curiosity": "'Entre' + 'vista': ver-se frente a frente. Verbo: 'entrevistar'."
+  },
+  "tf26-08": {
+   "word": "el correo electrónico",
+   "translit": null,
+   "example": "Te mando el correo electrónico ahora mismo.",
+   "examplePt": "Te mando o e-mail agora mesmo.",
+   "pron": "ko-RRE-o e-lek-TRÓ-ni-ko — o 'rr' vibra e o 'c' soa 'k'",
+   "curiosity": "A arroba (@) se chama 'arroba' e também era uma antiga medida de peso espanhola."
+  },
+  "tf26-09": {
+   "word": "el plazo",
+   "translit": null,
+   "example": "El plazo termina mañana a medianoche.",
+   "examplePt": "O prazo termina amanhã à meia-noite.",
+   "pron": "PLA-so — o 'z' soa 's' e o 'pl' sai junto",
+   "curiosity": "'A corto plazo' é a curto prazo, e 'a largo plazo' é a longo prazo."
+  },
+  "tf26-10": {
+   "word": "la empresa",
+   "translit": null,
+   "example": "Mi tío abrió su propia empresa.",
+   "examplePt": "Meu tio abriu a própria empresa.",
+   "pron": "em-PRE-sa — o 'm' vem antes do 'p' e o 's' soa 's'",
+   "curiosity": "'Empresa' é o negócio e 'empresario' é o dono; 'emprender' é empreender."
+  },
+  "tf27-01": {
+   "word": "la ambulancia",
+   "translit": null,
+   "example": "¡Llamen a la ambulancia, rápido!",
+   "examplePt": "Chamem a ambulância, rápido!",
+   "pron": "am-bu-LAN-sia — o 'm' vem antes do 'b' e o 'c' soa 's'",
+   "curiosity": "Vem de 'hospital ambulante': um hospital que anda!"
+  },
+  "tf27-02": {
+   "word": "el incendio",
+   "translit": null,
+   "example": "¡Hay un incendio en el bosque!",
+   "examplePt": "Há um incêndio no bosque!",
+   "pron": "in-SEN-dio — o 'c' soa 's' e o 'dio' é um ditongo",
+   "curiosity": "'Incendio' é fogo grande; 'fuego' é o fogo comum. Verbo: 'incendiar'."
+  },
+  "tf27-03": {
+   "word": "el accidente",
+   "translit": null,
+   "example": "¿Viste el accidente de la esquina?",
+   "examplePt": "Você viu o acidente da esquina?",
+   "pron": "ak-si-DEN-te — o 'cc' soa 'k' + 's' e o 'd' é suave",
+   "curiosity": "'Accidente geográfico' é um relevo, como montanha ou rio: acidente do terreno!"
+  },
+  "tf27-04": {
+   "word": "el herido",
+   "translit": null,
+   "example": "El herido pedía agua con calma.",
+   "examplePt": "O ferido pedia água com calma.",
+   "pron": "e-RI-do — o 'h' é mudo e o 'r' é batido",
+   "curiosity": "'Herir' é ferir, mas 'hervir' é ferver: duas letras mudam tudo!"
+  },
+  "tf27-05": {
+   "word": "la fiebre",
+   "translit": null,
+   "example": "Mi hermana tiene fiebre, ¡llama al médico!",
+   "examplePt": "Minha irmã está com febre, chame o médico!",
+   "pron": "FIE-bre — o 'ie' é um ditongo e o 'b' é suave",
+   "curiosity": "'Fiebre del oro' é a corrida do ouro: 'fiebre' também vale para entusiasmo."
+  },
+  "tf27-06": {
+   "word": "el medicamento",
+   "translit": null,
+   "example": "Toma este medicamento después de comer.",
+   "examplePt": "Tome este remédio depois de comer.",
+   "pron": "me-di-ka-MEN-to — o 'c' soa 'k' e o 'd' é suave",
+   "curiosity": "'Medicina' também é remédio, mas é sobretudo o nome da ciência."
+  },
+  "tf27-07": {
+   "word": "la alarma",
+   "translit": null,
+   "example": "¡La alarma suena y nadie se mueve!",
+   "examplePt": "O alarme toca e ninguém se mexe!",
+   "pron": "a-LAR-ma — o 'l' é claro e o 'r' é batido",
+   "curiosity": "Vem do italiano 'all'arme', que significa 'às armas!': um alarme de verdade!"
+  },
+  "tf27-08": {
+   "word": "la sala de emergencias",
+   "translit": null,
+   "example": "Llegamos a la sala de emergencias en diez minutos.",
+   "examplePt": "Chegamos ao pronto-socorro em dez minutos.",
+   "pron": "SA-la de e-mer-HEN-sias — o 'g' antes de 'e' soa 'h' aspirado",
+   "curiosity": "Na Espanha: 'urgencias'. Na América Latina: 'emergencias' ou 'sala de urgencias'."
+  },
+  "tf27-09": {
+   "word": "la inundación",
+   "translit": null,
+   "example": "La inundación cubrió toda la calle.",
+   "examplePt": "A inundação cobriu toda a rua.",
+   "pron": "i-nun-da-SIÓN — o 'c' soa 's' e o 'n' final é claro",
+   "curiosity": "Do latim 'unda' (onda): inundar é cobrir de ondas."
+  },
+  "tf27-10": {
+   "word": "el apagón",
+   "translit": null,
+   "example": "¡Hubo un apagón y quedé a oscuras!",
+   "examplePt": "Houve um apagão e fiquei no escuro!",
+   "pron": "a-pa-GÓN — o 'g' é duro, como em 'gato'",
+   "curiosity": "'Apagar' + -ón (aumentativo): um apagar grande, uma queda geral de luz."
+  },
+  "tf28-01": {
+   "word": "¿Cuánto cuesta?",
+   "translit": null,
+   "example": "Disculpe, ¿cuánto cuesta este sombrero gigante?",
+   "examplePt": "Com licença, quanto custa este chapéu gigante?",
+   "pron": "KUAN-to KUES-ta — o 'cu' soa 'ku' nas duas palavras",
+   "curiosity": "'Costar un ojo de la cara' é custar os olhos da cara, igual ao português!"
+  },
+  "tf28-02": {
+   "word": "¿Dónde está el baño?",
+   "translit": null,
+   "example": "Perdón, ¿dónde está el baño más cercano?",
+   "examplePt": "Desculpe, onde fica o banheiro mais próximo?",
+   "pron": "DON-de es-TÁ el BA-nho — o 'ñ' soa 'nh' e o 'd' é suave",
+   "curiosity": "'Baño' é banheiro; em alguns lugares dizem 'servicios' ou 'sanitarios'."
+  },
+  "tf28-03": {
+   "word": "No entendí",
+   "translit": null,
+   "example": "Lo siento, no entendí ni una palabra.",
+   "examplePt": "Sinto muito, não entendi uma palavra sequer.",
+   "pron": "no en-ten-DÍ — o acento cai no 'dí' final, com 'i' puro",
+   "curiosity": "'Entendí' é passado e 'entiendo' é presente: o acento marca a diferença."
+  },
+  "tf28-04": {
+   "word": "Hable más despacio",
+   "translit": null,
+   "example": "Hable más despacio, por favor, ¡estoy aprendiendo!",
+   "examplePt": "Fale mais devagar, por favor, estou aprendendo!",
+   "pron": "A-ble mas des-PA-sio — o 'h' é mudo e o 's' de 'des-' é limpo",
+   "curiosity": "'Hable' é a forma educada (usted). Com amigos: 'habla más despacio'."
+  },
+  "tf28-05": {
+   "word": "¿Puede repetir?",
+   "translit": null,
+   "example": "Perdón, ¿puede repetir la última palabra?",
+   "examplePt": "Desculpe, pode repetir a última palavra?",
+   "pron": "PUE-de rre-pe-TIR — o 'ue' é um ditongo e o 'rr' vibra",
+   "curiosity": "'Repetir' muda e→i: repito, repites. Informal: '¿Puedes repetir?'."
+  },
+  "tf28-06": {
+   "word": "Necesito ayuda",
+   "translit": null,
+   "example": "Necesito ayuda, ¡perdí a mi perro!",
+   "examplePt": "Preciso de ajuda, perdi meu cachorro!",
+   "pron": "ne-se-SI-to a-YU-da — o 'c' soa 's' e o 'y' soa 'i' consoante",
+   "curiosity": "Em emergências se grita '¡Ayuda!', '¡Auxilio!' ou '¡Socorro!'."
+  },
+  "tf28-07": {
+   "word": "Estoy perdido",
+   "translit": null,
+   "example": "Estoy perdido y mi teléfono no tiene batería.",
+   "examplePt": "Estou perdido e meu telefone está sem bateria.",
+   "pron": "es-TOI per-DI-do — 'oy' soa 'oi' e o 'd' é suave",
+   "curiosity": "Mulher diz 'estoy perdida'; e 'me perdí' é 'eu me perdi'."
+  },
+  "tf28-08": {
+   "word": "¿Me trae la cuenta?",
+   "translit": null,
+   "example": "Señor, ¿me trae la cuenta, por favor?",
+   "examplePt": "Senhor, pode me trazer a conta, por favor?",
+   "pron": "me TRA-e la KUEN-ta — o 'ue' é um ditongo e o 'c' soa 'k'",
+   "curiosity": "'Cuenta' é a conta; 'cuento' (com O) é um conto de histórias!"
+  },
+  "tf28-09": {
+   "word": "Tengo hambre",
+   "translit": null,
+   "example": "¡Tengo hambre, quiero una pizza gigante!",
+   "examplePt": "Estou com fome, quero uma pizza gigante!",
+   "pron": "TEN-go AM-bre — o 'h' é mudo, então começa em 'am'",
+   "curiosity": "Usa 'tener', não 'estar'; e 'hambre' é feminina: 'mucha hambre'."
+  },
+  "tf28-10": {
+   "word": "Tengo sed",
+   "translit": null,
+   "example": "Tengo sed después de correr tanto, ¿hay agua?",
+   "examplePt": "Estou com sede depois de correr tanto, tem água?",
+   "pron": "TEN-go SED — o 'd' final é fraco e não existe 'e' no fim",
+   "curiosity": "Em PT 'sede' é de beber; em ES a sede de beber é 'sed', sem o E final."
+  },
+  "tf29-01": {
+   "word": "¡Buena suerte!",
+   "translit": null,
+   "example": "¡Buena suerte en tu examen de mañana!",
+   "examplePt": "Boa sorte na sua prova de amanhã!",
+   "pron": "BUE-na SUER-te — o 'ue' é um ditongo nas duas palavras",
+   "curiosity": "O trevo de quatro folhas também é amuleto de 'buena suerte' em espanhol."
+  },
+  "tf29-02": {
+   "word": "No hay problema",
+   "translit": null,
+   "example": "¡No hay problema, yo lo arreglo!",
+   "examplePt": "Sem problema, eu conserto!",
+   "pron": "no AI pro-BLE-ma — 'hay' soa 'ai' e o 'h' não existe",
+   "curiosity": "Outra forma: 'no pasa nada', literalmente 'não passa nada'."
+  },
+  "tf29-03": {
+   "word": "¡Feliz cumpleaños!",
+   "translit": null,
+   "example": "¡Feliz cumpleaños! Sopla todas las velas.",
+   "examplePt": "Feliz aniversário! Sopre todas as velas.",
+   "pron": "fe-LIS kum-ple-A-nhos — o 'z' final soa 's' e o 'ñ' soa 'nh'",
+   "curiosity": "No México, o aniversariante ouve 'Las Mañanitas' além do 'parabéns'."
+  },
+  "tf29-04": {
+   "word": "¡Qué lástima!",
+   "translit": null,
+   "example": "¡Qué lástima que no puedas venir!",
+   "examplePt": "Que pena que você não pode vir!",
+   "pron": "ke LÁS-ti-ma — o 'qu' soa 'k' e o 's' antes do 't' é limpo",
+   "curiosity": "Em vários países 'pena' significa vergonha: 'me da pena' = tenho vergonha."
+  },
+  "tf29-05": {
+   "word": "¡Qué genial!",
+   "translit": null,
+   "example": "¡Qué genial, ganamos el primer premio!",
+   "examplePt": "Que legal, ganhamos o primeiro prêmio!",
+   "pron": "ke he-NIAL — o 'g' antes de 'e' soa 'h' aspirado",
+   "curiosity": "Gírias: '¡Qué chévere!' (Caribe, Colômbia) e '¡Qué padre!' (México) = que legal!"
+  },
+  "tf29-06": {
+   "word": "Siéntete como en casa",
+   "translit": null,
+   "example": "Pasa y siéntete como en casa, amigo.",
+   "examplePt": "Entre e fique à vontade, amigo.",
+   "pron": "SIEN-te-te KO-mo en KA-sa — o 'ie' é um ditongo",
+   "curiosity": "Existe a versão amiga: 'Mi casa es su casa', que é a nossa 'a casa é sua'."
+  },
+  "tf29-07": {
+   "word": "¡Salud!",
+   "translit": null,
+   "example": "¡Salud! dijo mi abuela cuando estornudé.",
+   "examplePt": "Saúde! disse minha avó quando espirrei.",
+   "pron": "sa-LUD — o 'd' final é fraco e a força cai no 'lud'",
+   "curiosity": "No brinde também se diz '¡Salud!' ou 'chin-chin'."
+  },
+  "tf29-08": {
+   "word": "¡Buen provecho!",
+   "translit": null,
+   "example": "¡Buen provecho! Disfruta tu sopa.",
+   "examplePt": "Bom apetite! Aproveite sua sopa.",
+   "pron": "buen pro-BE-tcho — o 'v' soa 'b' e o 'ch' soa 'tch'",
+   "curiosity": "'Provecho' é proveito: 'buen provecho' é 'que lhe aproveite'."
+  },
+  "tf29-09": {
+   "word": "¡Buen viaje!",
+   "translit": null,
+   "example": "¡Buen viaje! Mándame una foto del mar.",
+   "examplePt": "Boa viagem! Me mande uma foto do mar.",
+   "pron": "buen BIA-he — o 'v' soa 'b' e o 'j' é um 'h' forte",
+   "curiosity": "'Viaje' é viagem; já 'viajé' (com acento) é 'eu viajei'."
+  },
+  "tf29-10": {
+   "word": "¡Cuídate!",
+   "translit": null,
+   "example": "¡Cuídate mucho y llámame al llegar!",
+   "examplePt": "Se cuide e me ligue ao chegar!",
+   "pron": "KUI-da-te — o 'cu' soa 'ku' e o 'ui' é um ditongo",
+   "curiosity": "Com várias pessoas vira '¡Cuídense!'; o 'te' colado ao verbo é o 'se cuide'."
+  },
+  "tf30-01": {
+   "word": "En realidad",
+   "translit": null,
+   "example": "En realidad, nunca he visto un delfín.",
+   "examplePt": "Na verdade, nunca vi um golfinho.",
+   "pron": "en rre-a-li-DAD — o 'rr' vibra e o 'd' final é fraco",
+   "curiosity": "'La realidad supera la ficción' é um dito popular: a realidade supera a ficção."
+  },
+  "tf30-02": {
+   "word": "Por ejemplo",
+   "translit": null,
+   "example": "Hay frutas rojas, por ejemplo, la fresa.",
+   "examplePt": "Há frutas vermelhas, por exemplo, o morango.",
+   "pron": "por e-HEM-plo — o 'j' é um 'h' aspirado forte",
+   "curiosity": "A abreviação é 'p. ej.', e só 'ejemplo' tem esse J no começo."
+  },
+  "tf30-03": {
+   "word": "Al menos",
+   "translit": null,
+   "example": "Al menos tengo un paraguas grande.",
+   "examplePt": "Pelo menos tenho um guarda-chuva grande.",
+   "pron": "al ME-nos — o 'l' de 'al' é L de verdade, sem 'au'",
+   "curiosity": "'Al menos' e 'por lo menos' são iguais: pelo menos."
+  },
+  "tf30-04": {
+   "word": "Da igual",
+   "translit": null,
+   "example": "Me da igual, elige tú el restaurante.",
+   "examplePt": "Tanto faz, escolha você o restaurante.",
+   "pron": "da i-GUAL — o 'g' é duro e o 'ua' é um ditongo",
+   "curiosity": "Outra forma: 'me da lo mismo', literalmente 'me dá o mesmo'."
+  },
+  "tf30-05": {
+   "word": "De ninguna manera",
+   "translit": null,
+   "example": "¡De ninguna manera salto desde ahí!",
+   "examplePt": "De jeito nenhum eu salto de lá!",
+   "pron": "de nin-GU-na ma-NE-ra — o 'g' é duro e o 'ñ' não aparece",
+   "curiosity": "'Ni modo', no México, é 'não tem jeito'. Outra forma de dizer que não dá."
+  },
+  "tf30-06": {
+   "word": "Vale la pena",
+   "translit": null,
+   "example": "Ver el amanecer siempre vale la pena.",
+   "examplePt": "Ver o amanhecer sempre vale a pena.",
+   "pron": "BA-le la PE-na — o 'v' soa 'b' e o 'e' é puro",
+   "curiosity": "'Pena' aqui é esforço, não tristeza. 'Valer la pena' é fixo: vale, valió."
+  },
+  "tf30-07": {
+   "word": "Sin duda",
+   "translit": null,
+   "example": "Sin duda, este es el mejor helado.",
+   "examplePt": "Sem dúvida, este é o melhor sorvete.",
+   "pron": "sin DU-da — o 'd' é suave e o 'u' é puro",
+   "curiosity": "Dúvida em PT tem V; em espanhol é 'duda', sem V. Sem V, sem dúvida!"
+  },
+  "tf30-08": {
+   "word": "Puede ser",
+   "translit": null,
+   "example": "¿Un dragón en el jardín? Puede ser.",
+   "examplePt": "Um dragão no jardim? Pode ser.",
+   "pron": "PUE-de SER — o 'ue' é um ditongo e o 'd' é suave",
+   "curiosity": "O verbo 'poder' muda o→ue: puedo, puedes, puede. Resposta curta e útil!"
+  },
+  "tf30-09": {
+   "word": "Poco a poco",
+   "translit": null,
+   "example": "Poco a poco, aprendo español jugando.",
+   "examplePt": "Aos poucos, aprendo espanhol brincando.",
+   "pron": "PO-ko a PO-ko — o 'o' é puro e repetido, sem virar 'u'",
+   "curiosity": "Existe o dito 'poco a poco se anda lejos': devagar se vai ao longe."
+  },
+  "tf30-10": {
+   "word": "De repente",
+   "translit": null,
+   "example": "De repente, ¡el gato saltó sobre la mesa!",
+   "examplePt": "De repente, o gato pulou na mesa!",
+   "pron": "de rre-PEN-te — o 'rr' inicial vibra forte",
+   "curiosity": "Em ES 'de repente' é só 'de súbito'; para 'talvez' use 'quizás'."
+  }
+ }
+}

@@ -1,0 +1,844 @@
+{
+ "scenarios": [
+  {
+   "id": "sc01",
+   "emoji": "✈️",
+   "title": "No aeroporto",
+   "level": "A1",
+   "goal": "Fazer o check-in",
+   "turns": 4,
+   "best": [
+    0,
+    1,
+    2,
+    0
+   ],
+   "script": [
+    {
+     "npcPt": "Olá! Passaporte, por favor.",
+     "options": [
+      {
+       "textPt": "Aqui está.",
+       "best": true
+      },
+      {
+       "textPt": "Eu sou um passaporte.",
+       "hint": "Soa como se você fosse o documento. Ao entregar, diga 'Here you are'."
+      },
+      {
+       "textPt": "Obrigado, tchau.",
+       "hint": "Ainda não é hora de se despedir: primeiro entregue o documento."
+      }
+     ]
+    },
+    {
+     "npcPt": "Você tem uma mala?",
+     "options": [
+      {
+       "textPt": "Sim, estou feliz.",
+       "hint": "Não responde ao que foi perguntado."
+      },
+      {
+       "textPt": "Sim, uma mala.",
+       "best": true
+      },
+      {
+       "textPt": "Eu gosto de malas.",
+       "hint": "É uma frase possível, mas não responde: diga se tem ou não mala."
+      }
+     ]
+    },
+    {
+     "npcPt": "Janela ou corredor?",
+     "options": [
+      {
+       "textPt": "Sim, por favor.",
+       "hint": "A pergunta oferece duas opções; 'yes' não escolhe nenhuma."
+      },
+      {
+       "textPt": "Assento é bom.",
+       "hint": "Frase estranha e sem escolha. Diga qual lugar você quer."
+      },
+      {
+       "textPt": "Janela, por favor.",
+       "best": true
+      }
+     ]
+    },
+    {
+     "npcPt": "Aqui está seu cartão de embarque.",
+     "options": [
+      {
+       "textPt": "Obrigado! Qual é o portão?",
+       "best": true
+      },
+      {
+       "textPt": "De nada.",
+       "hint": "'You are welcome' é o que quem atende diz, não o passageiro."
+      },
+      {
+       "textPt": "Boa noite, senhor.",
+       "hint": "Fora de contexto: você ainda precisa saber o portão."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sc02",
+   "emoji": "🍽️",
+   "title": "No restaurante",
+   "level": "A1",
+   "goal": "Pedir comida",
+   "turns": 4,
+   "best": [
+    1,
+    2,
+    0,
+    1
+   ],
+   "script": [
+    {
+     "npcPt": "Bem-vindo! Quantas pessoas?",
+     "options": [
+      {
+       "textPt": "Estou bem.",
+       "hint": "Responde a 'How are you?', não à quantidade de pessoas."
+      },
+      {
+       "textPt": "Duas, por favor.",
+       "best": true
+      },
+      {
+       "textPt": "Uma mesa é grande.",
+       "hint": "Não responde à pergunta. Diga o número de pessoas."
+      }
+     ]
+    },
+    {
+     "npcPt": "O que você gostaria?",
+     "options": [
+      {
+       "textPt": "Eu gosto de pizza.",
+       "hint": "'I like' fala de gosto geral. Para pedir, use 'I want' ou 'A ..., please'."
+      },
+      {
+       "textPt": "Me dá pizza!",
+       "hint": "Soa seco e mandão. Prefira 'A pizza, please.'"
+      },
+      {
+       "textPt": "Uma pizza, por favor.",
+       "best": true
+      }
+     ]
+    },
+    {
+     "npcPt": "Algo para beber?",
+     "options": [
+      {
+       "textPt": "Água, por favor.",
+       "best": true
+      },
+      {
+       "textPt": "Eu bebo, sim.",
+       "hint": "Estranho: diga o que você quer beber."
+      },
+      {
+       "textPt": "Não comer, obrigado.",
+       "hint": "'Eat' é comer, e a pergunta é sobre bebida. Além disso a gramática está incorreta."
+      }
+     ]
+    },
+    {
+     "npcPt": "Aqui está sua comida. Aproveite!",
+     "options": [
+      {
+       "textPt": "Sinto muito.",
+       "hint": "Não há motivo para pedir desculpas aqui."
+      },
+      {
+       "textPt": "Obrigado! Parece bom.",
+       "best": true
+      },
+      {
+       "textPt": "Tchau!",
+       "hint": "Você acabou de receber a comida; ainda não vai embora."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sc03",
+   "emoji": "🤝",
+   "title": "Fazendo amizades",
+   "level": "A1",
+   "goal": "Apresentar-se e trocar contato",
+   "turns": 4,
+   "best": [
+    1,
+    2,
+    0,
+    1
+   ],
+   "script": [
+    {
+     "npcPt": "Oi! Eu sou o Sam. Qual é o seu nome?",
+     "options": [
+      {
+       "textPt": "Eu me chamo Alex.",
+       "hint": "Calque de 'eu me chamo'. Em inglês diga 'I'm Alex' ou 'My name is Alex'."
+      },
+      {
+       "textPt": "Prazer! Eu sou o Alex.",
+       "best": true
+      },
+      {
+       "textPt": "Bem, obrigado.",
+       "hint": "Responde a 'How are you?', não ao nome."
+      }
+     ]
+    },
+    {
+     "npcPt": "Prazer! De onde você é?",
+     "options": [
+      {
+       "textPt": "Eu sou Brasil.",
+       "hint": "Diz que você É o país. Use 'I'm from Brazil' ou 'I'm Brazilian'."
+      },
+      {
+       "textPt": "Eu sou de brasileiro.",
+       "hint": "'Brazil' é o país; 'Brazilian' é a nacionalidade. Diga 'from Brazil' ou 'I'm Brazilian'."
+      },
+      {
+       "textPt": "Sou do Brasil.",
+       "best": true
+      }
+     ]
+    },
+    {
+     "npcPt": "O que você gosta de fazer?",
+     "options": [
+      {
+       "textPt": "Eu gosto de música e futebol.",
+       "best": true
+      },
+      {
+       "textPt": "Eu estou gostando de futebol.",
+       "hint": "'Like' normalmente não vai no continuous: diga 'I like soccer'."
+      },
+      {
+       "textPt": "Eu tenho hobby futebol.",
+       "hint": "Calque do português. Diga 'My hobby is soccer' ou 'I like soccer'."
+      }
+     ]
+    },
+    {
+     "npcPt": "Vamos manter contato. Qual é o seu número?",
+     "options": [
+      {
+       "textPt": "Sim, eu fico em contato.",
+       "hint": "Não responde à pergunta: diga o seu número."
+      },
+      {
+       "textPt": "É 555-0123. E o seu?",
+       "best": true
+      },
+      {
+       "textPt": "É 555-0123. E você?",
+       "hint": "Em inglês o sujeito é obrigatório: 'It's 555-0123'."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sc04",
+   "emoji": "🏨",
+   "title": "No hotel",
+   "level": "A1",
+   "goal": "Fazer check-in",
+   "turns": 4,
+   "best": [
+    1,
+    0,
+    2,
+    1
+   ],
+   "script": [
+    {
+     "npcPt": "Boa noite. Seu nome, por favor?",
+     "options": [
+      {
+       "textPt": "Estou cansado.",
+       "hint": "Pode ser verdade, mas pediram seu nome."
+      },
+      {
+       "textPt": "Meu nome é Alex.",
+       "best": true
+      },
+      {
+       "textPt": "Boa noite, tchau.",
+       "hint": "Você acabou de chegar; não é hora de se despedir."
+      }
+     ]
+    },
+    {
+     "npcPt": "Você tem uma reserva?",
+     "options": [
+      {
+       "textPt": "Sim, para duas noites.",
+       "best": true
+      },
+      {
+       "textPt": "Sim, eu tenho um quarto.",
+       "hint": "Soa como se você já tivesse o quarto. Diga que tem uma reserva."
+      },
+      {
+       "textPt": "Não, obrigado.",
+       "hint": "'No, thank you' recusa uma oferta; aqui a pergunta é sobre reserva."
+      }
+     ]
+    },
+    {
+     "npcPt": "Aqui está sua chave. Quarto 204.",
+     "options": [
+      {
+       "textPt": "Onde está a chave?",
+       "hint": "Ela acabou de entregar a chave."
+      },
+      {
+       "textPt": "Eu sou 204.",
+       "hint": "Você não é o número do quarto."
+      },
+      {
+       "textPt": "Obrigado. Onde fica o elevador?",
+       "best": true
+      }
+     ]
+    },
+    {
+     "npcPt": "Ali, à esquerda.",
+     "options": [
+      {
+       "textPt": "Desculpe, o quê?",
+       "hint": "Pedir para repetir é válido, mas a explicação foi simples; agradecer é mais natural."
+      },
+      {
+       "textPt": "Ótimo, obrigado!",
+       "best": true
+      },
+      {
+       "textPt": "Sim, eu gosto de esquerda.",
+       "hint": "Não responde nem agradece. Fora de contexto."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sc05",
+   "emoji": "📊",
+   "title": "Trabalho/Reunião",
+   "level": "A2",
+   "goal": "Dar uma atualização na reunião",
+   "turns": 4,
+   "best": [
+    0,
+    2,
+    1,
+    2
+   ],
+   "script": [
+    {
+     "npcPt": "Bom dia. Pode nos atualizar sobre o projeto?",
+     "options": [
+      {
+       "textPt": "Claro. O projeto está indo bem.",
+       "best": true
+      },
+      {
+       "textPt": "O projeto está em bom caminho.",
+       "hint": "Calque de 'em bom caminho'. Em inglês: 'on track' ou 'going well'."
+      },
+      {
+       "textPt": "Não, eu não quero.",
+       "hint": "Seco demais para uma reunião. Diga 'Sure' ou 'Of course'."
+      }
+     ]
+    },
+    {
+     "npcPt": "O que ainda precisamos fazer?",
+     "options": [
+      {
+       "textPt": "Precisamos testar o app.",
+       "hint": "Depois de 'need' use 'to': 'We need to test the app'."
+      },
+      {
+       "textPt": "Temos que testar o app ontem.",
+       "hint": "'Yesterday' é passado; aqui você fala do que falta fazer."
+      },
+      {
+       "textPt": "Ainda precisamos testar o aplicativo.",
+       "best": true
+      }
+     ]
+    },
+    {
+     "npcPt": "O que você acha do novo design?",
+     "options": [
+      {
+       "textPt": "Eu sou de acordo, é legal.",
+       "hint": "'Agree' é verbo: diga 'I agree'. 'I am agree' é calque do português."
+      },
+      {
+       "textPt": "Acho que está claro e moderno.",
+       "best": true
+      },
+      {
+       "textPt": "Não sei, tanto faz.",
+       "hint": "Soa desinteressado numa reunião; dê uma opinião, como 'I think...'."
+      }
+     ]
+    },
+    {
+     "npcPt": "Quando você consegue terminar?",
+     "options": [
+      {
+       "textPt": "Eu termino até sexta.",
+       "hint": "'Until' é até quando algo continua; para prazo use 'by Friday'."
+      },
+      {
+       "textPt": "Consigo terminar em sexta.",
+       "hint": "Com dia da semana use 'on' (on Friday); para prazo, 'by Friday'."
+      },
+      {
+       "textPt": "Consigo terminar até sexta.",
+       "best": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sc06",
+   "emoji": "🎓",
+   "title": "Universidade/Escola",
+   "level": "A2",
+   "goal": "Perguntar sobre aula e biblioteca",
+   "turns": 4,
+   "best": [
+    2,
+    0,
+    1,
+    0
+   ],
+   "script": [
+    {
+     "npcPt": "Oi! Você precisa de ajuda?",
+     "options": [
+      {
+       "textPt": "Sim. Qual hora é a aula?",
+       "hint": "Calque de 'qual hora'. Para horário diga 'What time is the class?'."
+      },
+      {
+       "textPt": "Sim. Quanto custa a aula?",
+       "hint": "'How much' pergunta preço, não horário."
+      },
+      {
+       "textPt": "Sim. Que horas é a aula?",
+       "best": true
+      }
+     ]
+    },
+    {
+     "npcPt": "A aula é às dez. Mais alguma dúvida?",
+     "options": [
+      {
+       "textPt": "Sim. Quando é a entrega do trabalho?",
+       "best": true
+      },
+      {
+       "textPt": "Sim. Quando é o trabalho para entregar?",
+       "hint": "Calque de 'para entregar'. Prazo de entrega é 'due'."
+      },
+      {
+       "textPt": "Sim. Eu tenho uma dúvida.",
+       "hint": "Falso cognato: 'doubt' é incerteza. Para dúvida diga 'I have a question'."
+      }
+     ]
+    },
+    {
+     "npcPt": "É para segunda. Mais alguma coisa?",
+     "options": [
+      {
+       "textPt": "Sim. Onde fica a livraria?",
+       "hint": "Falso amigo: 'bookstore' é livraria. Biblioteca é 'library'."
+      },
+      {
+       "textPt": "Sim. Onde fica a biblioteca?",
+       "best": true
+      },
+      {
+       "textPt": "Sim. Biblioteca onde fica?",
+       "hint": "Ordem errada. Em inglês: 'Where is the library?'."
+      }
+     ]
+    },
+    {
+     "npcPt": "No fim do corredor, à esquerda.",
+     "options": [
+      {
+       "textPt": "Ótimo, obrigado! Está aberta agora?",
+       "best": true
+      },
+      {
+       "textPt": "Obrigado. Está aberta agora?",
+       "hint": "Pergunta pede inversão: 'Is it open now?'."
+      },
+      {
+       "textPt": "De nada.",
+       "hint": "'You're welcome' responde a um agradecimento; aqui é você quem agradece."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sc07",
+   "emoji": "🛍️",
+   "title": "Comprando roupas",
+   "level": "A2",
+   "goal": "Provar e comprar uma jaqueta",
+   "turns": 4,
+   "best": [
+    0,
+    2,
+    1,
+    0
+   ],
+   "script": [
+    {
+     "npcPt": "Oi! Você procura algo?",
+     "options": [
+      {
+       "textPt": "Sim, preciso de uma jaqueta.",
+       "best": true
+      },
+      {
+       "textPt": "Eu olho para você.",
+       "hint": "'Look at' é olhar para algo; a pergunta é sobre procurar."
+      },
+      {
+       "textPt": "Sim, eu olho jaqueta.",
+       "hint": "Faltam verbo e artigo: 'I'm looking for a jacket'."
+      }
+     ]
+    },
+    {
+     "npcPt": "Qual é o seu tamanho?",
+     "options": [
+      {
+       "textPt": "Tenho vinte anos.",
+       "hint": "Tamanho não é idade."
+      },
+      {
+       "textPt": "Meu tamanho é azul.",
+       "hint": "Azul é cor; diga o tamanho (S, M, L)."
+      },
+      {
+       "textPt": "Médio, acho.",
+       "best": true
+      }
+     ]
+    },
+    {
+     "npcPt": "O provador é ali.",
+     "options": [
+      {
+       "textPt": "Quero dormir lá.",
+       "hint": "Estranho: provador é só para experimentar roupas."
+      },
+      {
+       "textPt": "Obrigado. Vou experimentar.",
+       "best": true
+      },
+      {
+       "textPt": "O quarto é bonito.",
+       "hint": "Não é um quarto; agradeça e vá experimentar."
+      }
+     ]
+    },
+    {
+     "npcPt": "Como ficou?",
+     "options": [
+      {
+       "textPt": "Está pequeno. Tem um maior?",
+       "best": true
+      },
+      {
+       "textPt": "É muito caro.",
+       "hint": "Ela perguntou do caimento, não do preço."
+      },
+      {
+       "textPt": "Eu caibo, obrigado.",
+       "hint": "Não diga 'I fit'; descreva a roupa: 'It fits well'."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sc08",
+   "emoji": "🚉",
+   "title": "Pedindo direções",
+   "level": "A2",
+   "goal": "Chegar à estação de metrô",
+   "turns": 4,
+   "best": [
+    1,
+    0,
+    2,
+    1
+   ],
+   "script": [
+    {
+     "npcPt": "Você parece perdido. Posso ajudar?",
+     "options": [
+      {
+       "textPt": "Não, sou turista.",
+       "hint": "Não é errado, mas você perde a chance de pedir ajuda."
+      },
+      {
+       "textPt": "Sim, onde fica a estação de metrô?",
+       "best": true
+      },
+      {
+       "textPt": "Sim, estou perdido a rua.",
+       "hint": "Gramática errada. Diga 'I'm lost' ou pergunte onde fica o lugar."
+      }
+     ]
+    },
+    {
+     "npcPt": "Siga reto por duas quadras.",
+     "options": [
+      {
+       "textPt": "Reto duas quadras. E depois?",
+       "best": true
+      },
+      {
+       "textPt": "Eu fui reto ontem.",
+       "hint": "Ela deu uma instrução, não falou do passado."
+      },
+      {
+       "textPt": "Duas quadras é longe.",
+       "hint": "É um comentário; confirme e pergunte o próximo passo."
+      }
+     ]
+    },
+    {
+     "npcPt": "Depois vire à esquerda no banco.",
+     "options": [
+      {
+       "textPt": "Vire esquerda é banco?",
+       "hint": "Pergunta confusa. Confirme: 'Left at the bank, right?'"
+      },
+      {
+       "textPt": "Eu viro à direita.",
+       "hint": "Ela disse esquerda (left), não direita."
+      },
+      {
+       "textPt": "Esquerda no banco. Entendi.",
+       "best": true
+      }
+     ]
+    },
+    {
+     "npcPt": "Fica ao lado do parque.",
+     "options": [
+      {
+       "textPt": "Ao lado é um parque.",
+       "hint": "Frase invertida; não é preciso repetir."
+      },
+      {
+       "textPt": "Ótimo! Obrigado pela ajuda.",
+       "best": true
+      },
+      {
+       "textPt": "Não gosto de parques.",
+       "hint": "Fora de contexto: agradeça pela ajuda."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sc09",
+   "emoji": "🩺",
+   "title": "Consulta médica simples",
+   "level": "B1",
+   "goal": "Descrever um sintoma ao médico",
+   "turns": 4,
+   "best": [
+    2,
+    1,
+    0,
+    2
+   ],
+   "script": [
+    {
+     "npcPt": "Bom dia. O que traz você aqui?",
+     "options": [
+      {
+       "textPt": "Estou com febre desde segunda.",
+       "hint": "Com 'since' use o presente perfeito: 'I've had a fever since Monday'."
+      },
+      {
+       "textPt": "Estou farto da minha garganta.",
+       "hint": "'Sick of' = farto de. Diga 'I have a sore throat'."
+      },
+      {
+       "textPt": "Estou com dor de garganta há dias.",
+       "best": true
+      }
+     ]
+    },
+    {
+     "npcPt": "Você tem alguma alergia?",
+     "options": [
+      {
+       "textPt": "Não, eu não sou alergia.",
+       "hint": "O adjetivo é 'allergic': 'I'm not allergic to anything'."
+      },
+      {
+       "textPt": "Não, nenhuma que eu saiba.",
+       "best": true
+      },
+      {
+       "textPt": "Sim, tenho alergia de nozes.",
+       "hint": "Diz-se 'allergic to nuts' ou 'an allergy to nuts'."
+      }
+     ]
+    },
+    {
+     "npcPt": "Abra a boca e diga aah.",
+     "options": [
+      {
+       "textPt": "Aah... É sério, doutor?",
+       "best": true
+      },
+      {
+       "textPt": "Aah... É sério?",
+       "hint": "Em inglês o sujeito 'it' é obrigatório: 'Is it serious?'"
+      },
+      {
+       "textPt": "Não quero, desculpe.",
+       "hint": "Seco e incompleto; recusar com educação seria 'I'd rather not', mas o exame é importante."
+      }
+     ]
+    },
+    {
+     "npcPt": "É uma infecção leve. Descanse e beba água.",
+     "options": [
+      {
+       "textPt": "Eu devo descansar, obrigado.",
+       "hint": "Depois de 'must' não se usa 'to'."
+      },
+      {
+       "textPt": "Eu tenho que ir ao trabalho?",
+       "hint": "Diz-se 'go to work', sem 'the'."
+      },
+      {
+       "textPt": "Obrigado, doutor. Devo tomar remédio?",
+       "best": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sc10",
+   "emoji": "💼",
+   "title": "Entrevista de emprego simples",
+   "level": "B1",
+   "goal": "Responder bem em uma entrevista",
+   "turns": 4,
+   "best": [
+    1,
+    0,
+    2,
+    1
+   ],
+   "script": [
+    {
+     "npcPt": "Obrigada por vir. Fale sobre você.",
+     "options": [
+      {
+       "textPt": "Tenho 25 anos e gosto de pizza.",
+       "hint": "Diz-se 'I'm 25' (sem 'years'), e a entrevista pede foco profissional."
+      },
+      {
+       "textPt": "Sou designer com três anos de experiência.",
+       "best": true
+      },
+      {
+       "textPt": "Meu nome está no papel.",
+       "hint": "Fora de contexto: ela quer saber da sua experiência."
+      }
+     ]
+    },
+    {
+     "npcPt": "Por que você quer este emprego?",
+     "options": [
+      {
+       "textPt": "Gosto de trabalho em equipe e quero crescer.",
+       "best": true
+      },
+      {
+       "textPt": "Porque preciso de dinheiro, só isso.",
+       "hint": "Honesto, mas mostra pouco interesse pela vaga."
+      },
+      {
+       "textPt": "Quero porque é legal.",
+       "hint": "Gramática: 'I want it because...' e a resposta é vaga."
+      }
+     ]
+    },
+    {
+     "npcPt": "Qual é o seu maior ponto forte?",
+     "options": [
+      {
+       "textPt": "Sou o melhor do mundo.",
+       "hint": "Exagerado; prefira algo concreto e humilde."
+      },
+      {
+       "textPt": "Meu ponto forte é levantar peso.",
+       "hint": "Possível, mas não é relevante para a vaga."
+      },
+      {
+       "textPt": "Sou organizado e aprendo rápido.",
+       "best": true
+      }
+     ]
+    },
+    {
+     "npcPt": "Você tem alguma pergunta para nós?",
+     "options": [
+      {
+       "textPt": "Sem perguntas. Tchau.",
+       "hint": "Seco demais; mostre interesse."
+      },
+      {
+       "textPt": "Sim. Como é um dia típico?",
+       "best": true
+      },
+      {
+       "textPt": "Sim, quanto vou ganhar amanhã?",
+       "hint": "Gramática ('how much will I earn') e salário logo assim soam pouco naturais."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,855 @@
+{
+ "language": "es",
+ "scenarios": {
+  "sc01": {
+   "npcName": "Lucía",
+   "turns": [
+    {
+     "npc": "¡Hola! Pasaporte, por favor.",
+     "npcPt": "Olá! Passaporte, por favor.",
+     "options": [
+      {
+       "text": "Aquí tiene.",
+       "textPt": "Aqui está."
+      },
+      {
+       "text": "Yo soy un pasaporte.",
+       "textPt": "Eu sou um passaporte.",
+       "hint": "Soa como se você fosse o documento. Ao entregar, diga 'Aquí tiene'."
+      },
+      {
+       "text": "Gracias, adiós.",
+       "textPt": "Obrigado, tchau.",
+       "hint": "Ainda não é hora de se despedir: primeiro entregue o documento."
+      }
+     ]
+    },
+    {
+     "npc": "¿Tiene una maleta?",
+     "npcPt": "Você tem uma mala?",
+     "options": [
+      {
+       "text": "Sí, estoy feliz.",
+       "textPt": "Sim, estou feliz.",
+       "hint": "Não responde ao que foi perguntado."
+      },
+      {
+       "text": "Sí, una maleta.",
+       "textPt": "Sim, uma mala."
+      },
+      {
+       "text": "Me gustan las maletas.",
+       "textPt": "Eu gosto de malas.",
+       "hint": "É uma frase possível, mas não responde: diga se tem ou não mala."
+      }
+     ]
+    },
+    {
+     "npc": "¿Ventana o pasillo?",
+     "npcPt": "Janela ou corredor?",
+     "options": [
+      {
+       "text": "Sí, por favor.",
+       "textPt": "Sim, por favor.",
+       "hint": "A pergunta dá duas opções; 'sí' não escolhe nenhuma. Diga 'Ventana' ou 'Pasillo'."
+      },
+      {
+       "text": "Asiento es bueno.",
+       "textPt": "Assento é bom.",
+       "hint": "Frase estranha e sem escolha. Diga qual lugar você quer."
+      },
+      {
+       "text": "Ventana, por favor.",
+       "textPt": "Janela, por favor."
+      }
+     ]
+    },
+    {
+     "npc": "Aquí tiene su tarjeta de embarque.",
+     "npcPt": "Aqui está seu cartão de embarque.",
+     "options": [
+      {
+       "text": "¡Gracias! ¿Cuál es la puerta?",
+       "textPt": "Obrigado! Qual é o portão?"
+      },
+      {
+       "text": "De nada.",
+       "textPt": "De nada.",
+       "hint": "'De nada' é o que quem atende diz; o passageiro agradece com 'Gracias'."
+      },
+      {
+       "text": "Buenas noches, señor.",
+       "textPt": "Boa noite, senhor.",
+       "hint": "Fora de contexto: você ainda precisa saber o portão."
+      }
+     ]
+    }
+   ]
+  },
+  "sc02": {
+   "npcName": "Carlos",
+   "turns": [
+    {
+     "npc": "¡Bienvenido! ¿Cuántas personas?",
+     "npcPt": "Bem-vindo! Quantas pessoas?",
+     "options": [
+      {
+       "text": "Estoy bien.",
+       "textPt": "Estou bem.",
+       "hint": "Responde a '¿Cómo estás?', não à quantidade de pessoas. Diga o número: 'Dos, por favor'."
+      },
+      {
+       "text": "Dos, por favor.",
+       "textPt": "Duas, por favor."
+      },
+      {
+       "text": "Una mesa es grande.",
+       "textPt": "Uma mesa é grande.",
+       "hint": "Não responde à pergunta. Diga o número de pessoas."
+      }
+     ]
+    },
+    {
+     "npc": "¿Qué desea?",
+     "npcPt": "O que você gostaria?",
+     "options": [
+      {
+       "text": "Me gusta la pizza.",
+       "textPt": "Eu gosto de pizza.",
+       "hint": "'Me gusta' fala de gosto geral. Para pedir, use 'Quiero...' ou 'Una pizza, por favor'."
+      },
+      {
+       "text": "¡Dame pizza!",
+       "textPt": "Me dá pizza!",
+       "hint": "Imperativo seco e mandão. Prefira 'Una pizza, por favor' ou 'Quisiera una pizza'."
+      },
+      {
+       "text": "Una pizza, por favor.",
+       "textPt": "Uma pizza, por favor."
+      }
+     ]
+    },
+    {
+     "npc": "¿Algo de beber?",
+     "npcPt": "Algo para beber?",
+     "options": [
+      {
+       "text": "Agua, por favor.",
+       "textPt": "Água, por favor."
+      },
+      {
+       "text": "Yo bebo, sí.",
+       "textPt": "Eu bebo, sim.",
+       "hint": "Estranho: diga o que você quer beber."
+      },
+      {
+       "text": "No comer, gracias.",
+       "textPt": "Não comer, obrigado.",
+       "hint": "A pergunta é sobre beber, não comer. E o verbo não está conjugado: diga 'Agua, por favor'."
+      }
+     ]
+    },
+    {
+     "npc": "Aquí está su comida. ¡Buen provecho!",
+     "npcPt": "Aqui está sua comida. Aproveite!",
+     "options": [
+      {
+       "text": "Lo siento.",
+       "textPt": "Sinto muito.",
+       "hint": "Não há motivo para pedir desculpas aqui."
+      },
+      {
+       "text": "¡Gracias! Se ve bien.",
+       "textPt": "Obrigado! Parece bom."
+      },
+      {
+       "text": "¡Adiós!",
+       "textPt": "Tchau!",
+       "hint": "Você acabou de receber a comida; ainda não vai embora."
+      }
+     ]
+    }
+   ]
+  },
+  "sc03": {
+   "npcName": "Andrés",
+   "turns": [
+    {
+     "npc": "¡Hola! Soy Andrés. ¿Cómo te llamas?",
+     "npcPt": "Oi! Eu sou o Sam. Qual é o seu nome?",
+     "options": [
+      {
+       "text": "Yo llamo Alex.",
+       "textPt": "Eu me chamo Alex.",
+       "hint": "Falta o 'me': 'Me llamo Alex'. Sem ele, 'llamar' quer dizer chamar outra pessoa."
+      },
+      {
+       "text": "¡Mucho gusto! Soy Alex.",
+       "textPt": "Prazer! Eu sou o Alex."
+      },
+      {
+       "text": "Estoy bien, gracias.",
+       "textPt": "Bem, obrigado.",
+       "hint": "Responde a '¿Cómo estás?', não ao nome."
+      }
+     ]
+    },
+    {
+     "npc": "¡Mucho gusto! ¿De dónde eres?",
+     "npcPt": "Prazer! De onde você é?",
+     "options": [
+      {
+       "text": "Yo soy Brasil.",
+       "textPt": "Eu sou Brasil.",
+       "hint": "Diz que você É o país. Diga 'Soy de Brasil' ou 'Soy brasileño'."
+      },
+      {
+       "text": "Soy de brasileño.",
+       "textPt": "Eu sou de brasileiro.",
+       "hint": "'Brasil' é o país; 'brasileño' é a nacionalidade. Diga 'Soy de Brasil' ou 'Soy brasileño'."
+      },
+      {
+       "text": "Soy de Brasil.",
+       "textPt": "Sou do Brasil."
+      }
+     ]
+    },
+    {
+     "npc": "¿Qué te gusta hacer?",
+     "npcPt": "O que você gosta de fazer?",
+     "options": [
+      {
+       "text": "Me gusta la música y el fútbol.",
+       "textPt": "Eu gosto de música e futebol."
+      },
+      {
+       "text": "Yo gusto el fútbol.",
+       "textPt": "Eu estou gostando de futebol.",
+       "hint": "'Gustar' funciona ao contrário: 'Me gusta el fútbol', não 'yo gusto'."
+      },
+      {
+       "text": "Tengo hobby fútbol.",
+       "textPt": "Eu tenho hobby futebol.",
+       "hint": "Calque do português. Diga 'Mi pasatiempo es el fútbol' ou 'Me gusta el fútbol'."
+      }
+     ]
+    },
+    {
+     "npc": "Sigamos en contacto. ¿Cuál es tu número?",
+     "npcPt": "Vamos manter contato. Qual é o seu número?",
+     "options": [
+      {
+       "text": "Sí, yo sigo en contacto.",
+       "textPt": "Sim, eu fico em contato.",
+       "hint": "Não responde à pergunta: diga o seu número."
+      },
+      {
+       "text": "Es el 555-0123. ¿Y el tuyo?",
+       "textPt": "É 555-0123. E o seu?"
+      },
+      {
+       "text": "Es 555-0123. ¿Y usted?",
+       "textPt": "É 555-0123. E você?",
+       "hint": "Entre amigos use 'tú': 'usted' soa formal demais. Diga '¿Y el tuyo?'."
+      }
+     ]
+    }
+   ]
+  },
+  "sc04": {
+   "npcName": "Diego",
+   "turns": [
+    {
+     "npc": "Buenas noches. ¿Su nombre, por favor?",
+     "npcPt": "Boa noite. Seu nome, por favor?",
+     "options": [
+      {
+       "text": "Estoy cansado.",
+       "textPt": "Estou cansado.",
+       "hint": "Pode ser verdade, mas pediram seu nome."
+      },
+      {
+       "text": "Mi nombre es Alex.",
+       "textPt": "Meu nome é Alex."
+      },
+      {
+       "text": "Buenas noches, adiós.",
+       "textPt": "Boa noite, tchau.",
+       "hint": "Você acabou de chegar; não é hora de se despedir."
+      }
+     ]
+    },
+    {
+     "npc": "¿Tiene una reserva?",
+     "npcPt": "Você tem uma reserva?",
+     "options": [
+      {
+       "text": "Sí, para dos noches.",
+       "textPt": "Sim, para duas noites."
+      },
+      {
+       "text": "Sí, yo tengo una habitación.",
+       "textPt": "Sim, eu tenho um quarto.",
+       "hint": "Soa como se você já tivesse o quarto. Diga que tem uma reserva."
+      },
+      {
+       "text": "No, gracias.",
+       "textPt": "Não, obrigado.",
+       "hint": "'No, gracias' recusa uma oferta; aqui a pergunta é sobre reserva: 'Sí, tengo una reserva'."
+      }
+     ]
+    },
+    {
+     "npc": "Aquí tiene su llave. Habitación 204.",
+     "npcPt": "Aqui está sua chave. Quarto 204.",
+     "options": [
+      {
+       "text": "¿Dónde está la llave?",
+       "textPt": "Onde está a chave?",
+       "hint": "Ela acabou de entregar a chave."
+      },
+      {
+       "text": "Yo soy 204.",
+       "textPt": "Eu sou 204.",
+       "hint": "Você não é o número do quarto."
+      },
+      {
+       "text": "Gracias. ¿Dónde está el ascensor?",
+       "textPt": "Obrigado. Onde fica o elevador?"
+      }
+     ]
+    },
+    {
+     "npc": "Allí, a la izquierda.",
+     "npcPt": "Ali, à esquerda.",
+     "options": [
+      {
+       "text": "Perdón, ¿qué?",
+       "textPt": "Desculpe, o quê?",
+       "hint": "Pedir para repetir é válido, mas a explicação foi simples; agradecer é mais natural."
+      },
+      {
+       "text": "¡Genial, gracias!",
+       "textPt": "Ótimo, obrigado!"
+      },
+      {
+       "text": "Sí, me gusta la izquierda.",
+       "textPt": "Sim, eu gosto de esquerda.",
+       "hint": "Não responde nem agradece. Fora de contexto."
+      }
+     ]
+    }
+   ]
+  },
+  "sc05": {
+   "npcName": "Carmen",
+   "turns": [
+    {
+     "npc": "Buenos días. ¿Nos actualizas sobre el proyecto?",
+     "npcPt": "Bom dia. Pode nos atualizar sobre o projeto?",
+     "options": [
+      {
+       "text": "Claro. El proyecto va bien.",
+       "textPt": "Claro. O projeto está indo bem."
+      },
+      {
+       "text": "El proyecto está en buen camino.",
+       "textPt": "O projeto está em bom caminho.",
+       "hint": "Compreensível, mas o natural é 'va por buen camino' ou 'va bien'."
+      },
+      {
+       "text": "No, yo no quiero.",
+       "textPt": "Não, eu não quero.",
+       "hint": "Seco demais para uma reunião. Diga 'Claro' ou 'Por supuesto'."
+      }
+     ]
+    },
+    {
+     "npc": "¿Qué nos falta por hacer?",
+     "npcPt": "O que ainda precisamos fazer?",
+     "options": [
+      {
+       "text": "Necesitamos de probar la app.",
+       "textPt": "Precisamos testar o app.",
+       "hint": "'Necesitar' leva o infinitivo direto, sem 'de': 'Necesitamos probar la app'."
+      },
+      {
+       "text": "Tenemos que probar la app ayer.",
+       "textPt": "Temos que testar o app ontem.",
+       "hint": "'Ayer' é passado; aqui você fala do que falta fazer."
+      },
+      {
+       "text": "Aún necesitamos probar la aplicación.",
+       "textPt": "Ainda precisamos testar o aplicativo."
+      }
+     ]
+    },
+    {
+     "npc": "¿Qué opinas del nuevo diseño?",
+     "npcPt": "O que você acha do novo design?",
+     "options": [
+      {
+       "text": "Yo soy de acuerdo, es bonito.",
+       "textPt": "Eu sou de acordo, é legal.",
+       "hint": "Diz-se 'estoy de acuerdo' (com estar), não 'soy de acuerdo'."
+      },
+      {
+       "text": "Creo que es claro y moderno.",
+       "textPt": "Acho que está claro e moderno."
+      },
+      {
+       "text": "No sé, da igual.",
+       "textPt": "Não sei, tanto faz.",
+       "hint": "Soa desinteressado numa reunião; dê uma opinião: 'Creo que...'."
+      }
+     ]
+    },
+    {
+     "npc": "¿Cuándo puedes terminarlo?",
+     "npcPt": "Quando você consegue terminar?",
+     "options": [
+      {
+       "text": "Lo termino hasta el viernes.",
+       "textPt": "Eu termino até sexta.",
+       "hint": "'Hasta' é até quando algo dura; para prazo use 'para el viernes' ou 'antes del viernes'."
+      },
+      {
+       "text": "Puedo terminarlo en viernes.",
+       "textPt": "Consigo terminar em sexta.",
+       "hint": "Dia da semana leva artigo, não 'en': 'el viernes'. Prazo: 'para el viernes'."
+      },
+      {
+       "text": "Puedo terminarlo para el viernes.",
+       "textPt": "Consigo terminar até sexta."
+      }
+     ]
+    }
+   ]
+  },
+  "sc06": {
+   "npcName": "Pablo",
+   "turns": [
+    {
+     "npc": "¡Hola! ¿Necesitas ayuda?",
+     "npcPt": "Oi! Você precisa de ajuda?",
+     "options": [
+      {
+       "text": "Sí. ¿Qué hora es la clase?",
+       "textPt": "Sim. Qual hora é a aula?",
+       "hint": "Calque de 'qual hora'. Para horário diga '¿A qué hora es la clase?'."
+      },
+      {
+       "text": "Sí. ¿Cuánto cuesta la clase?",
+       "textPt": "Sim. Quanto custa a aula?",
+       "hint": "'Cuánto cuesta' pergunta preço, não horário."
+      },
+      {
+       "text": "Sí. ¿A qué hora es la clase?",
+       "textPt": "Sim. Que horas é a aula?"
+      }
+     ]
+    },
+    {
+     "npc": "La clase es a las diez. ¿Alguna duda?",
+     "npcPt": "A aula é às dez. Mais alguma dúvida?",
+     "options": [
+      {
+       "text": "Sí. ¿Cuándo es la entrega del trabajo?",
+       "textPt": "Sim. Quando é a entrega do trabalho?"
+      },
+      {
+       "text": "Sí. ¿Cuándo es el trabajo para entregar?",
+       "textPt": "Sim. Quando é o trabalho para entregar?",
+       "hint": "Calque de 'para entregar'. O natural é '¿Cuándo es la entrega del trabajo?'."
+      },
+      {
+       "text": "Sí. Yo dudo.",
+       "textPt": "Sim. Eu tenho uma dúvida.",
+       "hint": "'Dudar' é desconfiar. Para ter uma dúvida diga 'Tengo una duda' e pergunte."
+      }
+     ]
+    },
+    {
+     "npc": "Es para el lunes. ¿Algo más?",
+     "npcPt": "É para segunda. Mais alguma coisa?",
+     "options": [
+      {
+       "text": "Sí. ¿Dónde está la librería?",
+       "textPt": "Sim. Onde fica a livraria?",
+       "hint": "'Librería' é onde se vendem livros; para estudar e emprestar é 'biblioteca'."
+      },
+      {
+       "text": "Sí. ¿Dónde está la biblioteca?",
+       "textPt": "Sim. Onde fica a biblioteca?"
+      },
+      {
+       "text": "Sí. ¿Biblioteca dónde está?",
+       "textPt": "Sim. Biblioteca onde fica?",
+       "hint": "Ordem errada. Em espanhol: '¿Dónde está la biblioteca?'."
+      }
+     ]
+    },
+    {
+     "npc": "Al fondo del pasillo, a la izquierda.",
+     "npcPt": "No fim do corredor, à esquerda.",
+     "options": [
+      {
+       "text": "¡Genial, gracias! ¿Está abierta ahora?",
+       "textPt": "Ótimo, obrigado! Está aberta agora?"
+      },
+      {
+       "text": "Gracias. ¿Es abierta ahora?",
+       "textPt": "Obrigado. Está aberta agora?",
+       "hint": "Estado temporário usa 'estar': '¿Está abierta ahora?', não 'es'."
+      },
+      {
+       "text": "De nada.",
+       "textPt": "De nada.",
+       "hint": "'De nada' responde a um agradecimento; aqui é você quem agradece."
+      }
+     ]
+    }
+   ]
+  },
+  "sc07": {
+   "npcName": "Sofía",
+   "turns": [
+    {
+     "npc": "¡Hola! ¿Busca algo?",
+     "npcPt": "Oi! Você procura algo?",
+     "options": [
+      {
+       "text": "Sí, necesito una chaqueta.",
+       "textPt": "Sim, preciso de uma jaqueta."
+      },
+      {
+       "text": "La miro a usted.",
+       "textPt": "Eu olho para você.",
+       "hint": "'Mirar' é olhar para algo; a pergunta é sobre procurar: 'Busco una chaqueta'."
+      },
+      {
+       "text": "Sí, yo miro chaqueta.",
+       "textPt": "Sim, eu olho jaqueta.",
+       "hint": "Faltam o verbo certo e o artigo: 'Busco una chaqueta'."
+      }
+     ]
+    },
+    {
+     "npc": "¿Qué talla usa?",
+     "npcPt": "Qual é o seu tamanho?",
+     "options": [
+      {
+       "text": "Tengo veinte años.",
+       "textPt": "Tenho vinte anos.",
+       "hint": "Tamanho não é idade."
+      },
+      {
+       "text": "Mi talla es azul.",
+       "textPt": "Meu tamanho é azul.",
+       "hint": "Azul é cor; diga o tamanho (S, M, L)."
+      },
+      {
+       "text": "Mediana, creo.",
+       "textPt": "Médio, acho."
+      }
+     ]
+    },
+    {
+     "npc": "El probador está allí.",
+     "npcPt": "O provador é ali.",
+     "options": [
+      {
+       "text": "Quiero dormir allá.",
+       "textPt": "Quero dormir lá.",
+       "hint": "Estranho: provador é só para experimentar roupas."
+      },
+      {
+       "text": "Gracias. Voy a probármela.",
+       "textPt": "Obrigado. Vou experimentar."
+      },
+      {
+       "text": "La habitación es bonita.",
+       "textPt": "O quarto é bonito.",
+       "hint": "Não é um quarto; agradeça e vá experimentar."
+      }
+     ]
+    },
+    {
+     "npc": "¿Cómo le queda?",
+     "npcPt": "Como ficou?",
+     "options": [
+      {
+       "text": "Me queda pequeña. ¿Tiene una más grande?",
+       "textPt": "Está pequeno. Tem um maior?"
+      },
+      {
+       "text": "Es muy caro.",
+       "textPt": "É muito caro.",
+       "hint": "Ela perguntou do caimento, não do preço."
+      },
+      {
+       "text": "Yo quepo, gracias.",
+       "textPt": "Eu caibo, obrigado.",
+       "hint": "'Yo quepo' fala de caber num espaço; para roupa diga 'Me queda bien' ou 'Me queda pequeña'."
+      }
+     ]
+    }
+   ]
+  },
+  "sc08": {
+   "npcName": "Javier",
+   "turns": [
+    {
+     "npc": "Parece perdido. ¿Puedo ayudarle?",
+     "npcPt": "Você parece perdido. Posso ajudar?",
+     "options": [
+      {
+       "text": "No, soy turista.",
+       "textPt": "Não, sou turista.",
+       "hint": "Não é errado, mas você perde a chance de pedir ajuda."
+      },
+      {
+       "text": "Sí, ¿dónde está la estación de metro?",
+       "textPt": "Sim, onde fica a estação de metrô?"
+      },
+      {
+       "text": "Sí, estoy perdido la calle.",
+       "textPt": "Sim, estou perdido a rua.",
+       "hint": "Gramática errada. Diga 'Estoy perdido' ou pergunte onde fica o lugar."
+      }
+     ]
+    },
+    {
+     "npc": "Siga derecho dos cuadras.",
+     "npcPt": "Siga reto por duas quadras.",
+     "options": [
+      {
+       "text": "Derecho dos cuadras. ¿Y después?",
+       "textPt": "Reto duas quadras. E depois?"
+      },
+      {
+       "text": "Yo fui derecho ayer.",
+       "textPt": "Eu fui reto ontem.",
+       "hint": "Ela deu uma instrução, não falou do passado."
+      },
+      {
+       "text": "Dos cuadras son lejos.",
+       "textPt": "Duas quadras é longe.",
+       "hint": "É um comentário; confirme e pergunte o próximo passo."
+      }
+     ]
+    },
+    {
+     "npc": "Luego doble a la izquierda en el banco.",
+     "npcPt": "Depois vire à esquerda no banco.",
+     "options": [
+      {
+       "text": "¿Doble izquierda es banco?",
+       "textPt": "Vire esquerda é banco?",
+       "hint": "Pergunta confusa. Confirme: '¿A la izquierda en el banco, verdad?'"
+      },
+      {
+       "text": "Yo doblo a la derecha.",
+       "textPt": "Eu viro à direita.",
+       "hint": "Ela disse esquerda (left), não direita."
+      },
+      {
+       "text": "Izquierda en el banco. Entendido.",
+       "textPt": "Esquerda no banco. Entendi."
+      }
+     ]
+    },
+    {
+     "npc": "Está al lado del parque.",
+     "npcPt": "Fica ao lado do parque.",
+     "options": [
+      {
+       "text": "Al lado es un parque.",
+       "textPt": "Ao lado é um parque.",
+       "hint": "Frase invertida; não é preciso repetir."
+      },
+      {
+       "text": "¡Genial! Gracias por la ayuda.",
+       "textPt": "Ótimo! Obrigado pela ajuda."
+      },
+      {
+       "text": "No me gustan los parques.",
+       "textPt": "Não gosto de parques.",
+       "hint": "Fora de contexto: agradeça pela ajuda."
+      }
+     ]
+    }
+   ]
+  },
+  "sc09": {
+   "npcName": "Dra. Ramírez",
+   "turns": [
+    {
+     "npc": "Buenos días. ¿Qué lo trae por aquí?",
+     "npcPt": "Bom dia. O que traz você aqui?",
+     "options": [
+      {
+       "text": "Tengo fiebre desde lunes.",
+       "textPt": "Estou com febre desde segunda.",
+       "hint": "Falta o artigo: 'desde el lunes'. Diga 'Tengo fiebre desde el lunes'."
+      },
+      {
+       "text": "Estoy harto de mi garganta.",
+       "textPt": "Estou farto da minha garganta.",
+       "hint": "'Harto de' = farto de (cansado). Para dor, diga 'Me duele la garganta'."
+      },
+      {
+       "text": "Tengo dolor de garganta desde hace días.",
+       "textPt": "Estou com dor de garganta há dias."
+      }
+     ]
+    },
+    {
+     "npc": "¿Tiene alguna alergia?",
+     "npcPt": "Você tem alguma alergia?",
+     "options": [
+      {
+       "text": "No, yo no soy alergia.",
+       "textPt": "Não, eu não sou alergia.",
+       "hint": "Alergia é substantivo; o adjetivo é 'alérgico': 'No soy alérgico a nada'."
+      },
+      {
+       "text": "No, ninguna que yo sepa.",
+       "textPt": "Não, nenhuma que eu saiba."
+      },
+      {
+       "text": "Sí, tengo alergia de nueces.",
+       "textPt": "Sim, tenho alergia de nozes.",
+       "hint": "A preposição é 'a': 'alergia a las nueces' ou 'soy alérgico a las nueces'."
+      }
+     ]
+    },
+    {
+     "npc": "Abra la boca y diga aah.",
+     "npcPt": "Abra a boca e diga aah.",
+     "options": [
+      {
+       "text": "Aah... ¿Es grave, doctora?",
+       "textPt": "Aah... É sério, doutor?"
+      },
+      {
+       "text": "Aah... ¿Está serio?",
+       "textPt": "Aah... É sério?",
+       "hint": "Para gravidade use 'ser': '¿Es grave?'. 'Estar serio' é estar de cara fechada."
+      },
+      {
+       "text": "No quiero, perdón.",
+       "textPt": "Não quero, desculpe.",
+       "hint": "Seco e sem justificativa; o exame é importante. Coopere e pergunte sobre o resultado."
+      }
+     ]
+    },
+    {
+     "npc": "Es una infección leve. Descanse y beba agua.",
+     "npcPt": "É uma infecção leve. Descanse e beba água.",
+     "options": [
+      {
+       "text": "Yo debo a descansar, gracias.",
+       "textPt": "Eu devo descansar, obrigado.",
+       "hint": "'Deber' vai direto com o infinitivo, sem 'a': 'Debo descansar'."
+      },
+      {
+       "text": "¿Tengo que ir a el trabajo?",
+       "textPt": "Eu tenho que ir ao trabalho?",
+       "hint": "A + el vira 'al': '¿Tengo que ir al trabajo?'."
+      },
+      {
+       "text": "Gracias, doctora. ¿Debo tomar medicina?",
+       "textPt": "Obrigado, doutor. Devo tomar remédio?"
+      }
+     ]
+    }
+   ]
+  },
+  "sc10": {
+   "npcName": "Sra. Torres",
+   "turns": [
+    {
+     "npc": "Gracias por venir. Cuénteme sobre usted.",
+     "npcPt": "Obrigada por vir. Fale sobre você.",
+     "options": [
+      {
+       "text": "Soy 25 años y me gusta la pizza.",
+       "textPt": "Tenho 25 anos e gosto de pizza.",
+       "hint": "Para idade usa-se 'tener': 'Tengo 25 años'. E a entrevista pede foco profissional."
+      },
+      {
+       "text": "Soy diseñador con tres años de experiencia.",
+       "textPt": "Sou designer com três anos de experiência."
+      },
+      {
+       "text": "Mi nombre está en el papel.",
+       "textPt": "Meu nome está no papel.",
+       "hint": "Fora de contexto: ela quer saber da sua experiência."
+      }
+     ]
+    },
+    {
+     "npc": "¿Por qué quiere este empleo?",
+     "npcPt": "Por que você quer este emprego?",
+     "options": [
+      {
+       "text": "Me gusta trabajar en equipo y quiero crecer.",
+       "textPt": "Gosto de trabalho em equipe e quero crescer."
+      },
+      {
+       "text": "Porque necesito dinero, nada más.",
+       "textPt": "Porque preciso de dinheiro, só isso.",
+       "hint": "Honesto, mas mostra pouco interesse pela vaga."
+      },
+      {
+       "text": "Quiero porque es genial.",
+       "textPt": "Quero porque é legal.",
+       "hint": "Resposta vaga e informal. Explique o motivo: 'Me interesa porque quiero aprender'."
+      }
+     ]
+    },
+    {
+     "npc": "¿Cuál es su mayor fortaleza?",
+     "npcPt": "Qual é o seu maior ponto forte?",
+     "options": [
+      {
+       "text": "Soy el mejor del mundo.",
+       "textPt": "Sou o melhor do mundo.",
+       "hint": "Exagerado; prefira algo concreto e humilde."
+      },
+      {
+       "text": "Mi fortaleza es levantar pesas.",
+       "textPt": "Meu ponto forte é levantar peso.",
+       "hint": "Possível, mas não é relevante para a vaga."
+      },
+      {
+       "text": "Soy organizado y aprendo rápido.",
+       "textPt": "Sou organizado e aprendo rápido."
+      }
+     ]
+    },
+    {
+     "npc": "¿Tiene alguna pregunta para nosotros?",
+     "npcPt": "Você tem alguma pergunta para nós?",
+     "options": [
+      {
+       "text": "Sin preguntas. Adiós.",
+       "textPt": "Sem perguntas. Tchau.",
+       "hint": "Seco demais; mostre interesse."
+      },
+      {
+       "text": "Sí. ¿Cómo es un día típico?",
+       "textPt": "Sim. Como é um dia típico?"
+      },
+      {
+       "text": "Sí, ¿cuánto yo voy a ganar mañana?",
+       "textPt": "Sim, quanto vou ganhar amanhã?",
+       "hint": "Ordem: '¿Cuánto voy a ganar?'. E falar de salário logo de início soa pouco natural."
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

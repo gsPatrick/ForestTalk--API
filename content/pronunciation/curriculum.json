@@ -1,0 +1,1481 @@
+{
+ "game": "pronunciation",
+ "version": 1,
+ "chapterTitles": [
+  "Fale & Brilhe",
+  "Conversa em Ação",
+  "Papo de Gente Grande"
+ ],
+ "phases": [
+  {
+   "phase": 1,
+   "globalPhase": 91,
+   "chapter": 10,
+   "level": "A1",
+   "theme": "Elogios em uma palavra",
+   "concepts": [
+    {
+     "id": "sp01-01",
+     "emoji": "🌟",
+     "pt": "ótimo"
+    },
+    {
+     "id": "sp01-02",
+     "emoji": "😍",
+     "pt": "lindo"
+    },
+    {
+     "id": "sp01-03",
+     "emoji": "🤩",
+     "pt": "incrível"
+    },
+    {
+     "id": "sp01-04",
+     "emoji": "💯",
+     "pt": "perfeito"
+    },
+    {
+     "id": "sp01-05",
+     "emoji": "😋",
+     "pt": "gostoso"
+    },
+    {
+     "id": "sp01-06",
+     "emoji": "🎉",
+     "pt": "divertido"
+    },
+    {
+     "id": "sp01-07",
+     "emoji": "🧠",
+     "pt": "esperto"
+    },
+    {
+     "id": "sp01-08",
+     "emoji": "💪",
+     "pt": "forte"
+    }
+   ]
+  },
+  {
+   "phase": 2,
+   "globalPhase": 92,
+   "chapter": 10,
+   "level": "A1",
+   "theme": "Pedir com uma palavra",
+   "concepts": [
+    {
+     "id": "sp02-01",
+     "emoji": "🆘",
+     "pt": "ajuda"
+    },
+    {
+     "id": "sp02-02",
+     "emoji": "🤫",
+     "pt": "silêncio"
+    },
+    {
+     "id": "sp02-03",
+     "emoji": "🧘",
+     "pt": "paciência"
+    },
+    {
+     "id": "sp02-04",
+     "emoji": "👀",
+     "pt": "atenção"
+    },
+    {
+     "id": "sp02-05",
+     "emoji": "⚠️",
+     "pt": "cuidado"
+    },
+    {
+     "id": "sp02-06",
+     "emoji": "😌",
+     "pt": "calma"
+    },
+    {
+     "id": "sp02-07",
+     "emoji": "🤝",
+     "pt": "respeito"
+    },
+    {
+     "id": "sp02-08",
+     "emoji": "🍀",
+     "pt": "sorte"
+    }
+   ]
+  },
+  {
+   "phase": 3,
+   "globalPhase": 93,
+   "chapter": 10,
+   "level": "A1",
+   "theme": "Tipos de pessoas",
+   "concepts": [
+    {
+     "id": "sp03-01",
+     "emoji": "🏠",
+     "pt": "vizinho"
+    },
+    {
+     "id": "sp03-02",
+     "emoji": "🧒",
+     "pt": "criança"
+    },
+    {
+     "id": "sp03-03",
+     "emoji": "👶",
+     "pt": "bebê"
+    },
+    {
+     "id": "sp03-04",
+     "emoji": "👦",
+     "pt": "menino"
+    },
+    {
+     "id": "sp03-05",
+     "emoji": "👧",
+     "pt": "menina"
+    },
+    {
+     "id": "sp03-06",
+     "emoji": "👨",
+     "pt": "senhor"
+    },
+    {
+     "id": "sp03-07",
+     "emoji": "👩",
+     "pt": "senhora"
+    },
+    {
+     "id": "sp03-08",
+     "emoji": "🧑",
+     "pt": "jovem"
+    }
+   ]
+  },
+  {
+   "phase": 4,
+   "globalPhase": 94,
+   "chapter": 10,
+   "level": "A1",
+   "theme": "Dias da semana",
+   "concepts": [
+    {
+     "id": "sp04-01",
+     "emoji": "📅",
+     "pt": "segunda-feira"
+    },
+    {
+     "id": "sp04-02",
+     "emoji": "📆",
+     "pt": "terça-feira"
+    },
+    {
+     "id": "sp04-03",
+     "emoji": "🗓️",
+     "pt": "quarta-feira"
+    },
+    {
+     "id": "sp04-04",
+     "emoji": "📌",
+     "pt": "quinta-feira"
+    },
+    {
+     "id": "sp04-05",
+     "emoji": "🎊",
+     "pt": "sexta-feira"
+    },
+    {
+     "id": "sp04-06",
+     "emoji": "🛌",
+     "pt": "sábado"
+    },
+    {
+     "id": "sp04-07",
+     "emoji": "☀️",
+     "pt": "domingo"
+    },
+    {
+     "id": "sp04-08",
+     "emoji": "🎈",
+     "pt": "feriado"
+    }
+   ]
+  },
+  {
+   "phase": 5,
+   "globalPhase": 95,
+   "chapter": 10,
+   "level": "A1",
+   "theme": "Meses do ano",
+   "concepts": [
+    {
+     "id": "sp05-01",
+     "emoji": "🎆",
+     "pt": "janeiro"
+    },
+    {
+     "id": "sp05-02",
+     "emoji": "🌷",
+     "pt": "março"
+    },
+    {
+     "id": "sp05-03",
+     "emoji": "🌧️",
+     "pt": "abril"
+    },
+    {
+     "id": "sp05-04",
+     "emoji": "🌼",
+     "pt": "maio"
+    },
+    {
+     "id": "sp05-05",
+     "emoji": "⛄",
+     "pt": "junho"
+    },
+    {
+     "id": "sp05-06",
+     "emoji": "🏖️",
+     "pt": "julho"
+    },
+    {
+     "id": "sp05-07",
+     "emoji": "🌅",
+     "pt": "agosto"
+    },
+    {
+     "id": "sp05-08",
+     "emoji": "🎄",
+     "pt": "dezembro"
+    }
+   ]
+  },
+  {
+   "phase": 6,
+   "globalPhase": 96,
+   "chapter": 10,
+   "level": "A1",
+   "theme": "Chamar a atenção",
+   "concepts": [
+    {
+     "id": "sp06-01",
+     "emoji": "✋",
+     "pt": "espere"
+    },
+    {
+     "id": "sp06-02",
+     "emoji": "👁️",
+     "pt": "olhe"
+    },
+    {
+     "id": "sp06-03",
+     "emoji": "👂",
+     "pt": "escute"
+    },
+    {
+     "id": "sp06-04",
+     "emoji": "💡",
+     "pt": "tente"
+    },
+    {
+     "id": "sp06-05",
+     "emoji": "📣",
+     "pt": "venha"
+    },
+    {
+     "id": "sp06-06",
+     "emoji": "🚶",
+     "pt": "vamos"
+    },
+    {
+     "id": "sp06-07",
+     "emoji": "🧍",
+     "pt": "fique"
+    },
+    {
+     "id": "sp06-08",
+     "emoji": "🤲",
+     "pt": "pegue"
+    }
+   ]
+  },
+  {
+   "phase": 7,
+   "globalPhase": 97,
+   "chapter": 10,
+   "level": "A1",
+   "theme": "Pratos do almoço",
+   "concepts": [
+    {
+     "id": "sp07-01",
+     "emoji": "🍚",
+     "pt": "arroz"
+    },
+    {
+     "id": "sp07-02",
+     "emoji": "🫘",
+     "pt": "feijão"
+    },
+    {
+     "id": "sp07-03",
+     "emoji": "🍗",
+     "pt": "frango"
+    },
+    {
+     "id": "sp07-04",
+     "emoji": "🥩",
+     "pt": "carne"
+    },
+    {
+     "id": "sp07-05",
+     "emoji": "🍝",
+     "pt": "macarrão"
+    },
+    {
+     "id": "sp07-06",
+     "emoji": "🍲",
+     "pt": "sopa"
+    },
+    {
+     "id": "sp07-07",
+     "emoji": "🥗",
+     "pt": "salada"
+    },
+    {
+     "id": "sp07-08",
+     "emoji": "🍕",
+     "pt": "pizza"
+    }
+   ]
+  },
+  {
+   "phase": 8,
+   "globalPhase": 98,
+   "chapter": 10,
+   "level": "A1",
+   "theme": "Lanches rápidos",
+   "concepts": [
+    {
+     "id": "sp08-01",
+     "emoji": "🥪",
+     "pt": "sanduíche"
+    },
+    {
+     "id": "sp08-02",
+     "emoji": "🍔",
+     "pt": "hambúrguer"
+    },
+    {
+     "id": "sp08-03",
+     "emoji": "🍟",
+     "pt": "batata frita"
+    },
+    {
+     "id": "sp08-04",
+     "emoji": "🌭",
+     "pt": "cachorro-quente"
+    },
+    {
+     "id": "sp08-05",
+     "emoji": "🥨",
+     "pt": "salgadinho"
+    },
+    {
+     "id": "sp08-06",
+     "emoji": "🍦",
+     "pt": "picolé"
+    },
+    {
+     "id": "sp08-07",
+     "emoji": "🥟",
+     "pt": "pastel"
+    },
+    {
+     "id": "sp08-08",
+     "emoji": "🍮",
+     "pt": "pudim"
+    }
+   ]
+  },
+  {
+   "phase": 9,
+   "globalPhase": 99,
+   "chapter": 10,
+   "level": "A1",
+   "theme": "Passeios e diversão",
+   "concepts": [
+    {
+     "id": "sp09-01",
+     "emoji": "🌳",
+     "pt": "parque"
+    },
+    {
+     "id": "sp09-02",
+     "emoji": "🦁",
+     "pt": "zoológico"
+    },
+    {
+     "id": "sp09-03",
+     "emoji": "🏊",
+     "pt": "piscina"
+    },
+    {
+     "id": "sp09-04",
+     "emoji": "🛍️",
+     "pt": "shopping"
+    },
+    {
+     "id": "sp09-05",
+     "emoji": "🏟️",
+     "pt": "estádio"
+    },
+    {
+     "id": "sp09-06",
+     "emoji": "🛫",
+     "pt": "aeroporto"
+    },
+    {
+     "id": "sp09-07",
+     "emoji": "🍽️",
+     "pt": "restaurante"
+    },
+    {
+     "id": "sp09-08",
+     "emoji": "🍨",
+     "pt": "sorveteria"
+    }
+   ]
+  },
+  {
+   "phase": 10,
+   "globalPhase": 100,
+   "chapter": 10,
+   "level": "A1",
+   "theme": "Quando as coisas acontecem",
+   "concepts": [
+    {
+     "id": "sp10-01",
+     "emoji": "📍",
+     "pt": "hoje"
+    },
+    {
+     "id": "sp10-02",
+     "emoji": "⏪",
+     "pt": "ontem"
+    },
+    {
+     "id": "sp10-03",
+     "emoji": "⏩",
+     "pt": "amanhã"
+    },
+    {
+     "id": "sp10-04",
+     "emoji": "⏱️",
+     "pt": "agora"
+    },
+    {
+     "id": "sp10-05",
+     "emoji": "➡️",
+     "pt": "depois"
+    },
+    {
+     "id": "sp10-06",
+     "emoji": "⬅️",
+     "pt": "antes"
+    },
+    {
+     "id": "sp10-07",
+     "emoji": "🌙",
+     "pt": "esta noite"
+    },
+    {
+     "id": "sp10-08",
+     "emoji": "🌄",
+     "pt": "de manhã"
+    }
+   ]
+  },
+  {
+   "phase": 11,
+   "globalPhase": 101,
+   "chapter": 11,
+   "level": "A2",
+   "theme": "Oferecer algo",
+   "concepts": [
+    {
+     "id": "sp11-01",
+     "emoji": "🍪",
+     "pt": "Quer um pouco?"
+    },
+    {
+     "id": "sp11-02",
+     "emoji": "🍵",
+     "pt": "Aceita um chá?"
+    },
+    {
+     "id": "sp11-03",
+     "emoji": "🍽️",
+     "pt": "Sirva-se"
+    },
+    {
+     "id": "sp11-04",
+     "emoji": "🚪",
+     "pt": "Quer entrar?"
+    },
+    {
+     "id": "sp11-05",
+     "emoji": "🙋",
+     "pt": "Posso ajudar?"
+    },
+    {
+     "id": "sp11-06",
+     "emoji": "🍴",
+     "pt": "Vamos comer?"
+    },
+    {
+     "id": "sp11-07",
+     "emoji": "🤝",
+     "pt": "Quer dividir?"
+    },
+    {
+     "id": "sp11-08",
+     "emoji": "😋",
+     "pt": "Quer provar?"
+    }
+   ]
+  },
+  {
+   "phase": 12,
+   "globalPhase": 102,
+   "chapter": 11,
+   "level": "A2",
+   "theme": "Responder a um agradecimento",
+   "concepts": [
+    {
+     "id": "sp12-01",
+     "emoji": "😊",
+     "pt": "Foi um prazer"
+    },
+    {
+     "id": "sp12-02",
+     "emoji": "🙏",
+     "pt": "Eu que agradeço"
+    },
+    {
+     "id": "sp12-03",
+     "emoji": "🎁",
+     "pt": "Não precisava"
+    },
+    {
+     "id": "sp12-04",
+     "emoji": "😄",
+     "pt": "Fico feliz"
+    },
+    {
+     "id": "sp12-05",
+     "emoji": "🤜",
+     "pt": "Conte comigo"
+    },
+    {
+     "id": "sp12-06",
+     "emoji": "👍",
+     "pt": "Gostei muito"
+    },
+    {
+     "id": "sp12-07",
+     "emoji": "🦸",
+     "pt": "Ajudou muito"
+    },
+    {
+     "id": "sp12-08",
+     "emoji": "🛠️",
+     "pt": "Foi muito útil"
+    }
+   ]
+  },
+  {
+   "phase": 13,
+   "globalPhase": 103,
+   "chapter": 11,
+   "level": "A2",
+   "theme": "Elogiar alguém",
+   "concepts": [
+    {
+     "id": "sp13-01",
+     "emoji": "🖼️",
+     "pt": "Ficou lindo"
+    },
+    {
+     "id": "sp13-02",
+     "emoji": "🎤",
+     "pt": "Você canta bem"
+    },
+    {
+     "id": "sp13-03",
+     "emoji": "👏",
+     "pt": "Bom trabalho"
+    },
+    {
+     "id": "sp13-04",
+     "emoji": "👗",
+     "pt": "Que roupa bonita"
+    },
+    {
+     "id": "sp13-05",
+     "emoji": "💛",
+     "pt": "Você é gentil"
+    },
+    {
+     "id": "sp13-06",
+     "emoji": "✅",
+     "pt": "Muito bem"
+    },
+    {
+     "id": "sp13-07",
+     "emoji": "🏃",
+     "pt": "Você é rápido"
+    },
+    {
+     "id": "sp13-08",
+     "emoji": "💡",
+     "pt": "Boa ideia"
+    }
+   ]
+  },
+  {
+   "phase": 14,
+   "globalPhase": 104,
+   "chapter": 11,
+   "level": "A2",
+   "theme": "Combinar um encontro",
+   "concepts": [
+    {
+     "id": "sp14-01",
+     "emoji": "🚶",
+     "pt": "Vamos sair?"
+    },
+    {
+     "id": "sp14-02",
+     "emoji": "📍",
+     "pt": "Onde nos encontramos?"
+    },
+    {
+     "id": "sp14-03",
+     "emoji": "🕒",
+     "pt": "Que horas?"
+    },
+    {
+     "id": "sp14-04",
+     "emoji": "⏳",
+     "pt": "Te espero lá"
+    },
+    {
+     "id": "sp14-05",
+     "emoji": "🔟",
+     "pt": "Chego em dez minutos"
+    },
+    {
+     "id": "sp14-06",
+     "emoji": "📱",
+     "pt": "Me avise depois"
+    },
+    {
+     "id": "sp14-07",
+     "emoji": "🤙",
+     "pt": "Combinado"
+    },
+    {
+     "id": "sp14-08",
+     "emoji": "🎒",
+     "pt": "Posso levar algo?"
+    }
+   ]
+  },
+  {
+   "phase": 15,
+   "globalPhase": 105,
+   "chapter": 11,
+   "level": "A2",
+   "theme": "Reagir a notícias",
+   "concepts": [
+    {
+     "id": "sp15-01",
+     "emoji": "📰",
+     "pt": "Que ótima notícia"
+    },
+    {
+     "id": "sp15-02",
+     "emoji": "😲",
+     "pt": "Não acredito"
+    },
+    {
+     "id": "sp15-03",
+     "emoji": "🤔",
+     "pt": "Sério mesmo?"
+    },
+    {
+     "id": "sp15-04",
+     "emoji": "😱",
+     "pt": "Que susto"
+    },
+    {
+     "id": "sp15-05",
+     "emoji": "🎁",
+     "pt": "Que surpresa"
+    },
+    {
+     "id": "sp15-06",
+     "emoji": "😂",
+     "pt": "Que engraçado"
+    },
+    {
+     "id": "sp15-07",
+     "emoji": "🥰",
+     "pt": "Que fofo"
+    },
+    {
+     "id": "sp15-08",
+     "emoji": "🤤",
+     "pt": "Que delícia"
+    }
+   ]
+  },
+  {
+   "phase": 16,
+   "globalPhase": 106,
+   "chapter": 11,
+   "level": "A2",
+   "theme": "Viajar de ônibus e trem",
+   "concepts": [
+    {
+     "id": "sp16-01",
+     "emoji": "🎫",
+     "pt": "Ida e volta"
+    },
+    {
+     "id": "sp16-02",
+     "emoji": "🚉",
+     "pt": "Qual plataforma?"
+    },
+    {
+     "id": "sp16-03",
+     "emoji": "🕘",
+     "pt": "Quando parte?"
+    },
+    {
+     "id": "sp16-04",
+     "emoji": "🛑",
+     "pt": "Desço aqui"
+    },
+    {
+     "id": "sp16-05",
+     "emoji": "🚌",
+     "pt": "Pare aqui, por favor"
+    },
+    {
+     "id": "sp16-06",
+     "emoji": "💺",
+     "pt": "Este lugar está livre?"
+    },
+    {
+     "id": "sp16-07",
+     "emoji": "🔒",
+     "pt": "Coloque o cinto"
+    },
+    {
+     "id": "sp16-08",
+     "emoji": "🧳",
+     "pt": "Tem lugar?"
+    }
+   ]
+  },
+  {
+   "phase": 17,
+   "globalPhase": 107,
+   "chapter": 11,
+   "level": "A2",
+   "theme": "Pedir na lanchonete",
+   "concepts": [
+    {
+     "id": "sp17-01",
+     "emoji": "🍬",
+     "pt": "Sem açúcar"
+    },
+    {
+     "id": "sp17-02",
+     "emoji": "🧊",
+     "pt": "Com gelo"
+    },
+    {
+     "id": "sp17-03",
+     "emoji": "➕",
+     "pt": "Mais um pouco"
+    },
+    {
+     "id": "sp17-04",
+     "emoji": "🙌",
+     "pt": "Para mim também"
+    },
+    {
+     "id": "sp17-05",
+     "emoji": "🔁",
+     "pt": "A mesma coisa"
+    },
+    {
+     "id": "sp17-06",
+     "emoji": "🍰",
+     "pt": "Só uma fatia"
+    },
+    {
+     "id": "sp17-07",
+     "emoji": "🥤",
+     "pt": "Um copo cheio"
+    },
+    {
+     "id": "sp17-08",
+     "emoji": "♨️",
+     "pt": "Está quente?"
+    }
+   ]
+  },
+  {
+   "phase": 18,
+   "globalPhase": 108,
+   "chapter": 11,
+   "level": "A2",
+   "theme": "Dizer como me sinto",
+   "concepts": [
+    {
+     "id": "sp18-01",
+     "emoji": "🥶",
+     "pt": "Estou com frio"
+    },
+    {
+     "id": "sp18-02",
+     "emoji": "🥵",
+     "pt": "Estou com calor"
+    },
+    {
+     "id": "sp18-03",
+     "emoji": "😟",
+     "pt": "Estou preocupado"
+    },
+    {
+     "id": "sp18-04",
+     "emoji": "😌",
+     "pt": "Estou satisfeito"
+    },
+    {
+     "id": "sp18-05",
+     "emoji": "🥳",
+     "pt": "Estou me divertindo"
+    },
+    {
+     "id": "sp18-06",
+     "emoji": "😀",
+     "pt": "Estou muito bem"
+    },
+    {
+     "id": "sp18-07",
+     "emoji": "😕",
+     "pt": "Estou confuso"
+    },
+    {
+     "id": "sp18-08",
+     "emoji": "🤧",
+     "pt": "Estou com tosse"
+    }
+   ]
+  },
+  {
+   "phase": 19,
+   "globalPhase": 109,
+   "chapter": 11,
+   "level": "A2",
+   "theme": "Conversa para conhecer alguém",
+   "concepts": [
+    {
+     "id": "sp19-01",
+     "emoji": "📅",
+     "pt": "Como foi o dia?"
+    },
+    {
+     "id": "sp19-02",
+     "emoji": "🏡",
+     "pt": "Você mora aqui?"
+    },
+    {
+     "id": "sp19-03",
+     "emoji": "💬",
+     "pt": "O que faz?"
+    },
+    {
+     "id": "sp19-04",
+     "emoji": "👪",
+     "pt": "Tem irmãos?"
+    },
+    {
+     "id": "sp19-05",
+     "emoji": "🎂",
+     "pt": "Quantos anos tem?"
+    },
+    {
+     "id": "sp19-06",
+     "emoji": "🙋",
+     "pt": "Como se chama?"
+    },
+    {
+     "id": "sp19-07",
+     "emoji": "🎶",
+     "pt": "Gosta de música?"
+    },
+    {
+     "id": "sp19-08",
+     "emoji": "🎨",
+     "pt": "Do que gosta?"
+    }
+   ]
+  },
+  {
+   "phase": 20,
+   "globalPhase": 110,
+   "chapter": 11,
+   "level": "A2",
+   "theme": "Convites para brincar",
+   "concepts": [
+    {
+     "id": "sp20-01",
+     "emoji": "⚽",
+     "pt": "Vamos jogar bola"
+    },
+    {
+     "id": "sp20-02",
+     "emoji": "🎠",
+     "pt": "Vamos ao parque"
+    },
+    {
+     "id": "sp20-03",
+     "emoji": "🖌️",
+     "pt": "Vamos pintar"
+    },
+    {
+     "id": "sp20-04",
+     "emoji": "🏊",
+     "pt": "Vamos nadar"
+    },
+    {
+     "id": "sp20-05",
+     "emoji": "🎤",
+     "pt": "Vamos cantar"
+    },
+    {
+     "id": "sp20-06",
+     "emoji": "🎂",
+     "pt": "Vamos fazer um bolo"
+    },
+    {
+     "id": "sp20-07",
+     "emoji": "🎬",
+     "pt": "Vamos ver um filme"
+    },
+    {
+     "id": "sp20-08",
+     "emoji": "🚲",
+     "pt": "Vamos andar de bicicleta"
+    }
+   ]
+  },
+  {
+   "phase": 21,
+   "globalPhase": 111,
+   "chapter": 12,
+   "level": "B1",
+   "theme": "Pedir ajuda na rua",
+   "concepts": [
+    {
+     "id": "sp21-01",
+     "emoji": "🕐",
+     "pt": "Pode me dizer as horas?"
+    },
+    {
+     "id": "sp21-02",
+     "emoji": "🛣️",
+     "pt": "Estou procurando esta rua"
+    },
+    {
+     "id": "sp21-03",
+     "emoji": "🏙️",
+     "pt": "Como chego ao centro?"
+    },
+    {
+     "id": "sp21-04",
+     "emoji": "🚕",
+     "pt": "Pode chamar um táxi?"
+    },
+    {
+     "id": "sp21-05",
+     "emoji": "🔋",
+     "pt": "Meu celular ficou sem carga"
+    },
+    {
+     "id": "sp21-06",
+     "emoji": "📸",
+     "pt": "Pode tirar uma foto minha?"
+    },
+    {
+     "id": "sp21-07",
+     "emoji": "⛲",
+     "pt": "Esta rua leva à praça?"
+    },
+    {
+     "id": "sp21-08",
+     "emoji": "💊",
+     "pt": "Há uma farmácia por perto?"
+    }
+   ]
+  },
+  {
+   "phase": 22,
+   "globalPhase": 112,
+   "chapter": 12,
+   "level": "B1",
+   "theme": "Conversas no trabalho",
+   "concepts": [
+    {
+     "id": "sp22-01",
+     "emoji": "🗣️",
+     "pt": "Preciso falar com você"
+    },
+    {
+     "id": "sp22-02",
+     "emoji": "📆",
+     "pt": "Posso marcar uma conversa?"
+    },
+    {
+     "id": "sp22-03",
+     "emoji": "📎",
+     "pt": "Pode enviar o arquivo?"
+    },
+    {
+     "id": "sp22-04",
+     "emoji": "⏰",
+     "pt": "Termino isso até sexta"
+    },
+    {
+     "id": "sp22-05",
+     "emoji": "📶",
+     "pt": "A internet caiu de novo"
+    },
+    {
+     "id": "sp22-06",
+     "emoji": "🐢",
+     "pt": "Vou chegar um pouco atrasado"
+    },
+    {
+     "id": "sp22-07",
+     "emoji": "📋",
+     "pt": "Vamos revisar o plano juntos"
+    },
+    {
+     "id": "sp22-08",
+     "emoji": "🙏",
+     "pt": "Obrigado pela paciência"
+    }
+   ]
+  },
+  {
+   "phase": 23,
+   "globalPhase": 113,
+   "chapter": 12,
+   "level": "B1",
+   "theme": "Opiniões sobre gostos",
+   "concepts": [
+    {
+     "id": "sp23-01",
+     "emoji": "🎬",
+     "pt": "Eu adorei esse filme"
+    },
+    {
+     "id": "sp23-02",
+     "emoji": "📖",
+     "pt": "Achei o livro muito longo"
+    },
+    {
+     "id": "sp23-03",
+     "emoji": "❄️",
+     "pt": "Prefiro o verão ao inverno"
+    },
+    {
+     "id": "sp23-04",
+     "emoji": "🎵",
+     "pt": "Essa música é muito animada"
+    },
+    {
+     "id": "sp23-05",
+     "emoji": "🙅",
+     "pt": "Não concordo com você"
+    },
+    {
+     "id": "sp23-06",
+     "emoji": "💭",
+     "pt": "Isso me parece uma boa ideia"
+    },
+    {
+     "id": "sp23-07",
+     "emoji": "🧂",
+     "pt": "Achei a comida muito salgada"
+    },
+    {
+     "id": "sp23-08",
+     "emoji": "🐶",
+     "pt": "Gosto mais de cães que de gatos"
+    }
+   ]
+  },
+  {
+   "phase": 24,
+   "globalPhase": 114,
+   "chapter": 12,
+   "level": "B1",
+   "theme": "Planos para o futuro",
+   "concepts": [
+    {
+     "id": "sp24-01",
+     "emoji": "🎸",
+     "pt": "Quero aprender a tocar violão"
+    },
+    {
+     "id": "sp24-02",
+     "emoji": "🏘️",
+     "pt": "Vou me mudar para outra cidade"
+    },
+    {
+     "id": "sp24-03",
+     "emoji": "📚",
+     "pt": "No ano que vem vou estudar"
+    },
+    {
+     "id": "sp24-04",
+     "emoji": "🥖",
+     "pt": "Pretendo abrir uma padaria"
+    },
+    {
+     "id": "sp24-05",
+     "emoji": "🌊",
+     "pt": "Um dia vou conhecer o mar"
+    },
+    {
+     "id": "sp24-06",
+     "emoji": "🐕",
+     "pt": "Quero ter um cachorro"
+    },
+    {
+     "id": "sp24-07",
+     "emoji": "🌅",
+     "pt": "Vou correr todas as manhãs"
+    },
+    {
+     "id": "sp24-08",
+     "emoji": "📕",
+     "pt": "Vou ler mais livros"
+    }
+   ]
+  },
+  {
+   "phase": 25,
+   "globalPhase": 115,
+   "chapter": 12,
+   "level": "B1",
+   "theme": "Contar o fim de semana",
+   "concepts": [
+    {
+     "id": "sp25-01",
+     "emoji": "🏖️",
+     "pt": "No sábado fui à praia"
+    },
+    {
+     "id": "sp25-02",
+     "emoji": "🛋️",
+     "pt": "Passei o dia em casa"
+    },
+    {
+     "id": "sp25-03",
+     "emoji": "🤗",
+     "pt": "Encontrei um velho amigo"
+    },
+    {
+     "id": "sp25-04",
+     "emoji": "🌧️",
+     "pt": "Choveu o dia inteiro"
+    },
+    {
+     "id": "sp25-05",
+     "emoji": "🍿",
+     "pt": "Assisti a um filme ótimo"
+    },
+    {
+     "id": "sp25-06",
+     "emoji": "👨‍🍳",
+     "pt": "Cozinhei para minha família"
+    },
+    {
+     "id": "sp25-07",
+     "emoji": "😴",
+     "pt": "Dormi muito bem ontem"
+    },
+    {
+     "id": "sp25-08",
+     "emoji": "⏰",
+     "pt": "Acordei bem cedo hoje"
+    }
+   ]
+  },
+  {
+   "phase": 26,
+   "globalPhase": 116,
+   "chapter": 12,
+   "level": "B1",
+   "theme": "Fazer novas amizades",
+   "concepts": [
+    {
+     "id": "sp26-01",
+     "emoji": "🤝",
+     "pt": "Muito prazer em conhecer você"
+    },
+    {
+     "id": "sp26-02",
+     "emoji": "☕",
+     "pt": "Quer tomar um café comigo?"
+    },
+    {
+     "id": "sp26-03",
+     "emoji": "👫",
+     "pt": "Podemos ficar amigos?"
+    },
+    {
+     "id": "sp26-04",
+     "emoji": "📞",
+     "pt": "Vamos nos falar mais vezes"
+    },
+    {
+     "id": "sp26-05",
+     "emoji": "😆",
+     "pt": "Sempre me divirto com você"
+    },
+    {
+     "id": "sp26-06",
+     "emoji": "👭",
+     "pt": "Posso apresentar minha amiga?"
+    },
+    {
+     "id": "sp26-07",
+     "emoji": "💬",
+     "pt": "Adorei conversar com você"
+    },
+    {
+     "id": "sp26-08",
+     "emoji": "🎈",
+     "pt": "Obrigado por vir hoje"
+    }
+   ]
+  },
+  {
+   "phase": 27,
+   "globalPhase": 117,
+   "chapter": 12,
+   "level": "B1",
+   "theme": "À mesa com visitas",
+   "concepts": [
+    {
+     "id": "sp27-01",
+     "emoji": "🥤",
+     "pt": "Aceita algo para beber?"
+    },
+    {
+     "id": "sp27-02",
+     "emoji": "🍛",
+     "pt": "O jantar já está pronto"
+    },
+    {
+     "id": "sp27-03",
+     "emoji": "🪑",
+     "pt": "Pode se sentar aqui"
+    },
+    {
+     "id": "sp27-04",
+     "emoji": "🍲",
+     "pt": "Quer repetir o prato?"
+    },
+    {
+     "id": "sp27-05",
+     "emoji": "🔥",
+     "pt": "Esta sopa está muito quente"
+    },
+    {
+     "id": "sp27-06",
+     "emoji": "🧂",
+     "pt": "Faltou um pouco de sal"
+    },
+    {
+     "id": "sp27-07",
+     "emoji": "🥄",
+     "pt": "Pode passar o sal, por favor?"
+    },
+    {
+     "id": "sp27-08",
+     "emoji": "💳",
+     "pt": "Hoje eu pago a conta"
+    }
+   ]
+  },
+  {
+   "phase": 28,
+   "globalPhase": 118,
+   "chapter": 12,
+   "level": "B1",
+   "theme": "Cuidar da saúde",
+   "concepts": [
+    {
+     "id": "sp28-01",
+     "emoji": "💧",
+     "pt": "Preciso beber mais água"
+    },
+    {
+     "id": "sp28-02",
+     "emoji": "🛏️",
+     "pt": "Hoje vou dormir mais cedo"
+    },
+    {
+     "id": "sp28-03",
+     "emoji": "🏋️",
+     "pt": "Fiz exercício esta manhã"
+    },
+    {
+     "id": "sp28-04",
+     "emoji": "🥦",
+     "pt": "Estou tentando comer melhor"
+    },
+    {
+     "id": "sp28-05",
+     "emoji": "🦷",
+     "pt": "Preciso ir ao dentista"
+    },
+    {
+     "id": "sp28-06",
+     "emoji": "🧼",
+     "pt": "Lave as mãos antes de comer"
+    },
+    {
+     "id": "sp28-07",
+     "emoji": "🍵",
+     "pt": "Vou tomar um chá quente"
+    },
+    {
+     "id": "sp28-08",
+     "emoji": "🧘",
+     "pt": "Faça uma pausa e respire"
+    }
+   ]
+  },
+  {
+   "phase": 29,
+   "globalPhase": 119,
+   "chapter": 12,
+   "level": "B1",
+   "theme": "Planejar uma viagem",
+   "concepts": [
+    {
+     "id": "sp29-01",
+     "emoji": "🌍",
+     "pt": "Quero conhecer outros países"
+    },
+    {
+     "id": "sp29-02",
+     "emoji": "🏨",
+     "pt": "Vamos reservar o hotel hoje"
+    },
+    {
+     "id": "sp29-03",
+     "emoji": "💶",
+     "pt": "Quanto custa a passagem?"
+    },
+    {
+     "id": "sp29-04",
+     "emoji": "🧳",
+     "pt": "Precisamos arrumar as malas"
+    },
+    {
+     "id": "sp29-05",
+     "emoji": "✈️",
+     "pt": "Vamos chegar cedo ao aeroporto"
+    },
+    {
+     "id": "sp29-06",
+     "emoji": "🚗",
+     "pt": "Onde podemos alugar um carro?"
+    },
+    {
+     "id": "sp29-07",
+     "emoji": "🏛️",
+     "pt": "Quero visitar os museus da cidade"
+    },
+    {
+     "id": "sp29-08",
+     "emoji": "🕘",
+     "pt": "O passeio começa às nove horas"
+    }
+   ]
+  },
+  {
+   "phase": 30,
+   "globalPhase": 120,
+   "chapter": 12,
+   "level": "B1",
+   "theme": "Despedidas e promessas",
+   "concepts": [
+    {
+     "id": "sp30-01",
+     "emoji": "😊",
+     "pt": "Foi ótimo ver você"
+    },
+    {
+     "id": "sp30-02",
+     "emoji": "💌",
+     "pt": "Me manda uma mensagem"
+    },
+    {
+     "id": "sp30-03",
+     "emoji": "🤝",
+     "pt": "Vamos manter contato"
+    },
+    {
+     "id": "sp30-04",
+     "emoji": "👪",
+     "pt": "Mande lembranças à família"
+    },
+    {
+     "id": "sp30-05",
+     "emoji": "🏡",
+     "pt": "Volte logo para nos visitar"
+    },
+    {
+     "id": "sp30-06",
+     "emoji": "🥺",
+     "pt": "Sentirei sua falta"
+    },
+    {
+     "id": "sp30-07",
+     "emoji": "🔜",
+     "pt": "Até a próxima vez"
+    },
+    {
+     "id": "sp30-08",
+     "emoji": "🌈",
+     "pt": "Tenha uma boa semana"
+    }
+   ]
+  }
+ ]
+}

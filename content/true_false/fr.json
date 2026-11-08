@@ -1,0 +1,2407 @@
+{
+ "game": "true_false",
+ "language": "fr",
+ "version": 3,
+ "entries": {
+  "tf01-01": {
+   "word": "la vache",
+   "translit": null,
+   "example": "La vache porte un chapeau ridicule !",
+   "examplePt": "A vaca está usando um chapéu ridículo!",
+   "pron": "LÁ-vax — o 'ch' soa 'x' e o 'e' final é mudo",
+   "curiosity": "'Ah, la vache !' é uma exclamação de surpresa, tipo 'nossa!'. Nada a ver com bichos."
+  },
+  "tf01-02": {
+   "word": "le cochon",
+   "translit": null,
+   "example": "Le cochon adore se rouler dans la boue.",
+   "examplePt": "O porco adora rolar na lama.",
+   "pron": "co-XÕ — 'ch' soa 'x', 'on' é nasal e o 'n' não aparece",
+   "curiosity": "'Cochon d'Inde' (porco da Índia) é como os franceses chamam a cobaia, o porquinho-da-índia."
+  },
+  "tf01-03": {
+   "word": "la poule",
+   "translit": null,
+   "example": "Pourquoi la poule traverse-t-elle la route ?",
+   "examplePt": "Por que a galinha atravessa a estrada?",
+   "pron": "PUL — 'ou' soa 'u' e o 'e' final é mudo",
+   "curiosity": "'Chair de poule' (pele de galinha) é arrepio, igualzinho ao nosso 'pele de galinha'!"
+  },
+  "tf01-04": {
+   "word": "le cheval",
+   "translit": null,
+   "example": "Mon cheval galope plus vite que le vent !",
+   "examplePt": "Meu cavalo galopa mais rápido que o vento!",
+   "pron": "xe-VAL — 'ch' soa 'x' e a força cai na última sílaba",
+   "curiosity": "Plural esquisito: un cheval, des chevaux. Mesma regra de animal/animaux."
+  },
+  "tf01-05": {
+   "word": "le mouton",
+   "translit": null,
+   "example": "Le mouton compte les moutons pour s'endormir.",
+   "examplePt": "A ovelha conta ovelhas para dormir.",
+   "pron": "mu-TÕ — 'ou' soa 'u', 'on' é nasal e o 'n' não soa",
+   "curiosity": "'Revenons à nos moutons' (voltemos às ovelhas) quer dizer 'voltemos ao assunto'!"
+  },
+  "tf01-06": {
+   "word": "le canard",
+   "translit": null,
+   "example": "Le canard fait coin-coin dans la baignoire !",
+   "examplePt": "O pato faz quá-quá na banheira!",
+   "pron": "ca-NÁR — o 'd' final é mudo e o 'r' vem da garganta",
+   "curiosity": "O pato francês não faz 'quack': ele faz 'coin-coin'. Cada língua ouve diferente!"
+  },
+  "tf01-07": {
+   "word": "la chèvre",
+   "translit": null,
+   "example": "Tu veux du fromage de chèvre ?",
+   "examplePt": "Você quer queijo de cabra?",
+   "pron": "XÉVR — 'ch' soa 'x', 'è' é aberto e o 'vre' final é quase um sopro",
+   "curiosity": "'Le chèvre' no masculino é o queijo de cabra; 'la chèvre' é o bicho. Gênero muda o prato!"
+  },
+  "tf01-08": {
+   "word": "l'âne",
+   "translit": null,
+   "example": "L'âne porte un sac plein de pommes.",
+   "examplePt": "O burro carrega um saco cheio de maçãs.",
+   "pron": "AN — o 'â' é um 'a' grave, sem nasal; o 'e' final é mudo",
+   "curiosity": "O 'bonnet d'âne' (gorro de burro) é o chapéu de burro que antigamente castigava alunos."
+  },
+  "tf01-09": {
+   "word": "le lapin",
+   "translit": null,
+   "example": "Regarde le lapin sortir de mon chapeau !",
+   "examplePt": "Olha o coelho saindo do meu chapéu!",
+   "pron": "la-PẼ — 'in' é nasal e o 'n' não soa",
+   "curiosity": "'Poser un lapin' (deixar um coelho) é dar o bolo: não aparecer num encontro!"
+  },
+  "tf01-10": {
+   "word": "la dinde",
+   "translit": null,
+   "example": "Pourquoi la dinde a-t-elle peur de Noël ?",
+   "examplePt": "Por que o peru tem medo do Natal?",
+   "pron": "DẼD — 'in' é nasal, o 'd' final soa e o 'e' é mudo",
+   "curiosity": "A 'dinde aux marrons' (peru com castanhas) é um prato clássico de Natal na França."
+  },
+  "tf02-01": {
+   "word": "le loup",
+   "translit": null,
+   "example": "Le loup hurle devant la lune pleine.",
+   "examplePt": "O lobo uiva diante da lua cheia.",
+   "pron": "LU — 'ou' soa 'u' e o 'p' final é mudo",
+   "curiosity": "'Avoir une faim de loup' (ter fome de lobo) é estar morrendo de fome."
+  },
+  "tf02-02": {
+   "word": "l'ours",
+   "translit": null,
+   "example": "L'ours dort tout l'hiver dans sa grotte.",
+   "examplePt": "O urso dorme o inverno inteiro na caverna.",
+   "pron": "URS — aqui o 's' final SOA, exceção à regra das letras mudas",
+   "curiosity": "O ursinho de pelúcia é carinhosamente chamado de 'nounours' pelas crianças francesas."
+  },
+  "tf02-03": {
+   "word": "le renard",
+   "translit": null,
+   "example": "Le renard rusé vole mon sandwich !",
+   "examplePt": "A raposa esperta rouba meu sanduíche!",
+   "pron": "re-NAR — 'r' da garganta e 'd' final mudo",
+   "curiosity": "Antes a raposa se chamava 'goupil'; 'renard' vem de Renart, a raposa esperta das fábulas."
+  },
+  "tf02-04": {
+   "word": "le cerf",
+   "translit": null,
+   "example": "Tu as vu le cerf près du lac ?",
+   "examplePt": "Você viu o cervo perto do lago?",
+   "pron": "SÉR — o 'f' final é mudo e o 'r' vem da garganta",
+   "curiosity": "'Cerf-volant' (veado-voador) é a pipa! Quem diria que o veado voa."
+  },
+  "tf02-05": {
+   "word": "l'écureuil",
+   "translit": null,
+   "example": "L'écureuil cache une noisette sous la neige !",
+   "examplePt": "O esquilo esconde uma avelã debaixo da neve!",
+   "pron": "e-kü-RÓI — 'u' francês (boca de 'u', diga 'i') e 'euil' soa 'ói'",
+   "curiosity": "Esquilos esquecem boa parte das nozes que enterram e acabam plantando árvores sem querer!"
+  },
+  "tf02-06": {
+   "word": "la chouette",
+   "translit": null,
+   "example": "Regarde la chouette dans l'arbre !",
+   "examplePt": "Olha a coruja na árvore!",
+   "pron": "xu-ÉT — 'ch' soa 'x', 'ou' soa 'u' e o 'e' final é mudo",
+   "curiosity": "'Chouette !' também é uma exclamação de alegria: 'Que legal!'. Uma palavra, dois sentidos."
+  },
+  "tf02-07": {
+   "word": "le sanglier",
+   "translit": null,
+   "example": "Le sanglier renverse ma poubelle chaque nuit !",
+   "examplePt": "O javali derruba minha lixeira toda noite!",
+   "pron": "sã-gli-Ê — 'an' é nasal, 'gl' tem g duro e o 'r' final é mudo",
+   "curiosity": "O gaulês Obélix, dos quadrinhos franceses, vive devorando javalis assados!"
+  },
+  "tf02-08": {
+   "word": "le blaireau",
+   "translit": null,
+   "example": "Le blaireau creuse un tunnel sous la colline.",
+   "examplePt": "O texugo cava um túnel debaixo da colina.",
+   "pron": "blé-RÔ — 'ai' soa 'é' e 'eau' soa 'ô'",
+   "curiosity": "'Un blaireau' também é o pincel de barbear. Aqui, claro, é o bichinho."
+  },
+  "tf02-09": {
+   "word": "le raton laveur",
+   "translit": null,
+   "example": "Le raton laveur lave-t-il vraiment sa nourriture ?",
+   "examplePt": "O guaxinim realmente lava a comida?",
+   "pron": "ra-TÕ la-VÊR — 'on' é nasal e 'eu' soa 'ê' arredondado",
+   "curiosity": "Literalmente 'ratinho lavador': ele molha a comida nas patinhas antes de comer."
+  },
+  "tf02-10": {
+   "word": "l'élan",
+   "translit": null,
+   "example": "L'élan a d'énormes bois sur la tête !",
+   "examplePt": "O alce tem chifres enormes na cabeça!",
+   "pron": "e-LÃ — 'an' é nasal e o 'n' não soa",
+   "curiosity": "'Prendre son élan' é tomar impulso: 'élan' também quer dizer impulso, além de alce."
+  },
+  "tf03-01": {
+   "word": "l'arbre",
+   "translit": null,
+   "example": "Je grimpe dans l'arbre le plus haut !",
+   "examplePt": "Eu subo na árvore mais alta!",
+   "pron": "ARBR — 'r' da garganta; o 'bre' final é um sopro",
+   "curiosity": "Masculino, apesar do 'e' final: un arbre, l'arbre. Armadilha clássica!"
+  },
+  "tf03-02": {
+   "word": "la fleur",
+   "translit": null,
+   "example": "Quelle jolie fleur sur ton chapeau !",
+   "examplePt": "Que flor linda no seu chapéu!",
+   "pron": "FLÊR — 'eu' soa 'ê' de lábios redondos e o 'r' vem da garganta",
+   "curiosity": "'Être fleur bleue' (ser flor azul) é ser muito romântico e sentimental."
+  },
+  "tf03-03": {
+   "word": "la feuille",
+   "translit": null,
+   "example": "Une feuille jaune tombe sur mon nez.",
+   "examplePt": "Uma folha amarela cai no meu nariz.",
+   "pron": "FÓI — 'euille' soa como um 'ê' arredondado + i; nada de 'lh'",
+   "curiosity": "'Feuille' é folha de árvore e folha de papel: 'une feuille de papier'. Dois usos numa palavra!"
+  },
+  "tf03-04": {
+   "word": "l'herbe",
+   "translit": null,
+   "example": "Ne marche pas sur l'herbe fraîche !",
+   "examplePt": "Não pise na grama fresca!",
+   "pron": "ÉRB — o 'h' é mudo, o 'r' vem da garganta e o 'e' final é mudo",
+   "curiosity": "'Fines herbes' (ervas finas) são a mistura clássica da cozinha francesa."
+  },
+  "tf03-05": {
+   "word": "le champignon",
+   "translit": null,
+   "example": "Ce champignon rouge est-il dangereux ?",
+   "examplePt": "Este cogumelo vermelho é perigoso?",
+   "pron": "xã-pi-NHÕ — 'ch' = x, 'an' e 'on' nasais e 'gn' = nh",
+   "curiosity": "O cogumelo branco comum se chama 'champignon de Paris' em francês."
+  },
+  "tf03-06": {
+   "word": "la racine",
+   "translit": null,
+   "example": "Les racines de ce chêne sont énormes.",
+   "examplePt": "As raízes deste carvalho são enormes.",
+   "pron": "ra-SIN — 'r' da garganta, 'c' soa 's' e o 'e' final é mudo",
+   "curiosity": "'Racine carrée' é a raiz quadrada: a mesma palavra serve para a planta e para a matemática."
+  },
+  "tf03-07": {
+   "word": "la graine",
+   "translit": null,
+   "example": "Plante cette graine et attends un miracle !",
+   "examplePt": "Plante esta semente e espere um milagre!",
+   "pron": "GRÉN — 'ai' soa 'é' aberto e o 'e' final é mudo",
+   "curiosity": "'La graine' é semente; 'le grain' é grão. Quase gêmeas, mas de gêneros diferentes!"
+  },
+  "tf03-08": {
+   "word": "la branche",
+   "translit": null,
+   "example": "Quelle branche est assez solide pour moi ?",
+   "examplePt": "Qual galho é forte o bastante para mim?",
+   "pron": "BRÃX — 'an' é nasal, 'ch' soa 'x' e o 'e' final é mudo",
+   "curiosity": "'Être branché' (estar plugado) quer dizer estar por dentro, moderninho!"
+  },
+  "tf03-09": {
+   "word": "le cactus",
+   "translit": null,
+   "example": "Aïe ! Ce cactus pique vraiment fort !",
+   "examplePt": "Ai! Este cacto espeta mesmo forte!",
+   "pron": "kak-TÜS — 'u' francês e o 's' final SOA",
+   "curiosity": "O plural não muda: un cactus, des cactus. Nenhum 's' extra!"
+  },
+  "tf03-10": {
+   "word": "la tulipe",
+   "translit": null,
+   "example": "Elle offre une tulipe jaune à sa mère.",
+   "examplePt": "Ela dá uma tulipa amarela à mãe.",
+   "pron": "tü-LIP — 'u' francês (boca de 'u', diga 'i') e o 'e' final é mudo",
+   "curiosity": "Na 'tulipomanie' holandesa do século 17, um só bulbo chegou a valer o preço de uma casa!"
+  },
+  "tf04-01": {
+   "word": "le soleil",
+   "translit": null,
+   "example": "Le soleil brille sur la plage !",
+   "examplePt": "O sol brilha na praia!",
+   "pron": "so-LÉI — 'eil' soa 'éi', sem 'lh'",
+   "curiosity": "Luís XIV era chamado de 'le Roi-Soleil', o Rei Sol."
+  },
+  "tf04-02": {
+   "word": "la lune",
+   "translit": null,
+   "example": "Regarde, la lune sourit ce soir !",
+   "examplePt": "Olha, a lua sorri esta noite!",
+   "pron": "LÜN — 'u' francês: boca de 'u', diga 'i'; o 'e' final é mudo",
+   "curiosity": "'Être dans la lune' (estar na lua) é estar distraído, o nosso 'mundo da lua'."
+  },
+  "tf04-03": {
+   "word": "l'étoile",
+   "translit": null,
+   "example": "Fais un vœu devant l'étoile filante !",
+   "examplePt": "Faça um pedido diante da estrela cadente!",
+   "pron": "e-TUÁL — 'oi' soa 'uá' e o 'e' final é mudo",
+   "curiosity": "Estrela cadente é 'étoile filante', literalmente 'estrela que desliza'."
+  },
+  "tf04-04": {
+   "word": "le nuage",
+   "translit": null,
+   "example": "Ce nuage ressemble à un dragon !",
+   "examplePt": "Esta nuvem parece um dragão!",
+   "pron": "nü-ÁJ — 'u' francês, 'g' suave soa 'j' e o 'e' final é mudo",
+   "curiosity": "'Un nuage de lait' é aquele pinguinho de leite no café: uma 'nuvem' de leite!"
+  },
+  "tf04-05": {
+   "word": "la pluie",
+   "translit": null,
+   "example": "Ouvre ton parapluie : la pluie arrive !",
+   "examplePt": "Abra seu guarda-chuva: a chuva chegou!",
+   "pron": "PLÜI — 'u' francês e 'i' na mesma sílaba",
+   "curiosity": "Chuva forte? 'Il pleut des cordes': chovem cordas!"
+  },
+  "tf04-06": {
+   "word": "la neige",
+   "translit": null,
+   "example": "Les enfants font un bonhomme de neige !",
+   "examplePt": "As crianças fazem um boneco de neve!",
+   "pron": "NÉJ — 'ei' soa 'é' aberto e o 'g' suave soa 'j'",
+   "curiosity": "Branca de Neve em francês é 'Blanche-Neige': blanche = branca, neige = neve."
+  },
+  "tf04-07": {
+   "word": "le vent",
+   "translit": null,
+   "example": "Il y a trop de vent aujourd'hui !",
+   "examplePt": "Tem vento demais hoje!",
+   "pron": "VÃ — 'en' é nasal e o 't' final é mudo",
+   "curiosity": "'Avoir le vent en poupe' (vento na popa) é estar com o vento a favor, em alta."
+  },
+  "tf04-08": {
+   "word": "l'arc-en-ciel",
+   "translit": null,
+   "example": "Un arc-en-ciel apparaît après la pluie !",
+   "examplePt": "Um arco-íris aparece depois da chuva!",
+   "pron": "ar-kã-SIÉL — 'en' é nasal e 'ciel' soa 'siél'",
+   "curiosity": "Literalmente 'arco no céu': arc + en + ciel, tudo ligado por hífens."
+  },
+  "tf04-09": {
+   "word": "le tonnerre",
+   "translit": null,
+   "example": "Le tonnerre fait peur à mon chien.",
+   "examplePt": "O trovão assusta meu cachorro.",
+   "pron": "to-NÉR — 'nn' é um 'n' só e o 'r' vem da garganta",
+   "curiosity": "'Un tonnerre d'applaudissements' (um trovão de aplausos) é uma salva de palmas!"
+  },
+  "tf04-10": {
+   "word": "le brouillard",
+   "translit": null,
+   "example": "Je ne vois rien dans ce brouillard !",
+   "examplePt": "Não vejo nada neste nevoeiro!",
+   "pron": "bru-IAR — 'ou' soa 'u', 'ill' soa 'i' e o 'd' final é mudo",
+   "curiosity": "'Être dans le brouillard' (estar no nevoeiro) é estar confuso, sem entender nada."
+  },
+  "tf05-01": {
+   "word": "la pomme",
+   "translit": null,
+   "example": "Une pomme par jour, vraiment ?",
+   "examplePt": "Uma maçã por dia, sério?",
+   "pron": "PÓM — o 'mm' é um 'm' só e o 'e' final é mudo",
+   "curiosity": "'Pomme de terre' é 'maçã da terra': a batata em francês!"
+  },
+  "tf05-02": {
+   "word": "la banane",
+   "translit": null,
+   "example": "Ce singe vole ma banane !",
+   "examplePt": "Este macaco rouba minha banana!",
+   "pron": "ba-NÁN — o 'n' soa porque vem 'e' depois; a força cai no final",
+   "curiosity": "'Avoir la banane' (ter a banana) é estar sorrindo de orelha a orelha!"
+  },
+  "tf05-03": {
+   "word": "le raisin",
+   "translit": null,
+   "example": "Veux-tu du raisin sans pépins ?",
+   "examplePt": "Quer uvas sem sementes?",
+   "pron": "re-ZẼ — 'ai' soa 'é', o 's' soa 'z' e 'in' é nasal",
+   "curiosity": "Uva-passa em francês é 'raisin sec': literalmente 'uva seca'."
+  },
+  "tf05-04": {
+   "word": "la fraise",
+   "translit": null,
+   "example": "Le gâteau aux fraises est délicieux !",
+   "examplePt": "O bolo de morangos está delicioso!",
+   "pron": "FRÉZ — 'ai' soa 'é' aberto e o 's' entre vogais soa 'z'",
+   "curiosity": "'La fraise' também é a brocazinha do dentista! Morango e broca, mesma palavra."
+  },
+  "tf05-05": {
+   "word": "la pastèque",
+   "translit": null,
+   "example": "Mange une tranche de pastèque bien fraîche !",
+   "examplePt": "Coma uma fatia de melancia bem gelada!",
+   "pron": "pas-TÉK — 'è' é aberto, 'qu' vale 'k' e o 'e' final é mudo",
+   "curiosity": "A pastèque tem cerca de 92% de água: é quase uma bebida!"
+  },
+  "tf05-06": {
+   "word": "le citron",
+   "translit": null,
+   "example": "Ce citron est trop acide pour moi !",
+   "examplePt": "Este limão é ácido demais para mim!",
+   "pron": "si-TRÕ — 'c' soa 's', 'on' é nasal e o 'n' não soa",
+   "curiosity": "Limão verde é 'citron vert'. 'Citron' sozinho é o limão-siciliano, amarelo."
+  },
+  "tf05-07": {
+   "word": "la poire",
+   "translit": null,
+   "example": "Je préfère la poire à la pomme.",
+   "examplePt": "Prefiro a pera à maçã.",
+   "pron": "PUÁR — 'oi' soa 'uá' e o 'r' vem da garganta",
+   "curiosity": "Em gíria, 'une poire' é quem cai em tudo: o ingênuo da turma."
+  },
+  "tf05-08": {
+   "word": "l'ananas",
+   "translit": null,
+   "example": "L'ananas pique ma langue !",
+   "examplePt": "O abacaxi pica minha língua!",
+   "pron": "a-na-NÁS — o 's' final SOA; a força cai no final",
+   "curiosity": "A palavra 'ananas' vem do tupi 'naná': a fruta é sul-americana!"
+  },
+  "tf05-09": {
+   "word": "la cerise",
+   "translit": null,
+   "example": "Deux cerises pendent à mon oreille !",
+   "examplePt": "Duas cerejas pendem na minha orelha!",
+   "pron": "se-RIZ — 'c' soa 's', o 's' soa 'z' e o 'e' final é mudo",
+   "curiosity": "'La cerise sur le gâteau' é a cereja do bolo, igualzinho ao português!"
+  },
+  "tf05-10": {
+   "word": "le melon",
+   "translit": null,
+   "example": "On coupe le melon pour le dessert ?",
+   "examplePt": "Cortamos o melão para a sobremesa?",
+   "pron": "me-LÕ — 'on' é nasal e o 'n' não aparece",
+   "curiosity": "'Chapeau melon' (chapéu-melão) é o chapéu-coco, aquele dos cavalheiros ingleses!"
+  },
+  "tf06-01": {
+   "word": "l'eau",
+   "translit": null,
+   "example": "Un verre d'eau, s'il vous plaît ?",
+   "examplePt": "Um copo d'água, por favor?",
+   "pron": "Ô — três letras ('eau') para um som só: 'ô'",
+   "curiosity": "'Eau de Cologne' é 'água de Colônia': o perfume ganhou o nome da cidade alemã."
+  },
+  "tf06-02": {
+   "word": "le lait",
+   "translit": null,
+   "example": "Le chat boit du lait tiède.",
+   "examplePt": "O gato bebe leite morno.",
+   "pron": "LÉ — 'ai' soa 'é' aberto e o 't' final é mudo",
+   "curiosity": "'Lait de poule' (leite de galinha) é a gemada: bebida de ovo e açúcar, sem galinha leiteira!"
+  },
+  "tf06-03": {
+   "word": "le jus",
+   "translit": null,
+   "example": "Veux-tu un jus d'orange frais ?",
+   "examplePt": "Quer um suco de laranja fresco?",
+   "pron": "JÜ — 'j' de janela, 'u' francês e o 's' final é mudo",
+   "curiosity": "'Jus' também é o molho de carne que se forma na assadeira: 'jus de viande'."
+  },
+  "tf06-04": {
+   "word": "le café",
+   "translit": null,
+   "example": "Papa boit son café noir en silence.",
+   "examplePt": "O papai bebe seu café preto em silêncio.",
+   "pron": "ca-FÉ — o acento agudo marca o 'é' fechado; força no final",
+   "curiosity": "Na França, 'un café' é um expresso curtinho; o café maior é 'un allongé'."
+  },
+  "tf06-05": {
+   "word": "le thé",
+   "translit": null,
+   "example": "Le thé est brûlant : attention !",
+   "examplePt": "O chá está fervendo: cuidado!",
+   "pron": "TÊ — 'th' é só 't' e o 'é' final é fechado",
+   "curiosity": "'Salon de thé' é a casa de chá, onde também se comem doces."
+  },
+  "tf06-06": {
+   "word": "le soda",
+   "translit": null,
+   "example": "Ce soda pétille dans mon nez !",
+   "examplePt": "Este refrigerante faz cócegas no meu nariz!",
+   "pron": "so-DA — o 'o' é fechado e a força cai no 'da'",
+   "curiosity": "'Soda' é o refri; o termo formal é 'boisson gazeuse', bebida gasosa."
+  },
+  "tf06-07": {
+   "word": "la limonade",
+   "translit": null,
+   "example": "Qui veut de la limonade bien glacée ?",
+   "examplePt": "Quem quer limonada bem gelada?",
+   "pron": "li-mo-NAD — a força cai no 'nad' e o 'e' final é mudo",
+   "curiosity": "Na França, 'limonade' é refrigerante de limão com gás, não o suco."
+  },
+  "tf06-08": {
+   "word": "le chocolat chaud",
+   "translit": null,
+   "example": "Le chocolat chaud réchauffe mes mains !",
+   "examplePt": "O chocolate quente esquenta minhas mãos!",
+   "pron": "xo-ko-LÁ XÔ — 'ch' soa 'x'; os 't' finais são mudos",
+   "curiosity": "Muitos franceses tomam o 'chocolat chaud' do café da manhã em tigela."
+  },
+  "tf06-09": {
+   "word": "l'eau de coco",
+   "translit": null,
+   "example": "L'eau de coco rafraîchit sous le soleil !",
+   "examplePt": "A água de coco refresca sob o sol!",
+   "pron": "ô de ko-KÔ — 'eau' soa 'ô' e o 'o' de 'coco' é fechado",
+   "curiosity": "Os franceses juntam nomes com 'de': eau de coco, jus de pomme, salade de fruits."
+  },
+  "tf06-10": {
+   "word": "le milk-shake",
+   "translit": null,
+   "example": "Mon milk-shake à la fraise est énorme !",
+   "examplePt": "Meu milk-shake de morango é enorme!",
+   "pron": "milk-XÉK — vem do inglês, mas o 'sh' soa 'x' e o 'a' vira 'é' curto",
+   "curiosity": "Emprestada do inglês, a palavra segue regra francesa no plural: des milk-shakes."
+  },
+  "tf07-01": {
+   "word": "le pain",
+   "translit": null,
+   "example": "Le pain croustillant sent si bon !",
+   "examplePt": "O pão crocante tem um cheiro tão bom!",
+   "pron": "PẼ — 'ain' é nasal e o 'n' não soa",
+   "curiosity": "O 'pain au chocolat' é o folhado de chocolate do café da manhã francês."
+  },
+  "tf07-02": {
+   "word": "l'œuf",
+   "translit": null,
+   "example": "L'œuf roule et tombe de la table !",
+   "examplePt": "O ovo rola e cai da mesa!",
+   "pron": "ÊF — 'œu' soa 'ê'; no plural 'œufs', o 'f' fica mudo",
+   "curiosity": "Na Páscoa francesa, quem traz os ovos de chocolate são os sinos, tradicionalmente!"
+  },
+  "tf07-03": {
+   "word": "le fromage",
+   "translit": null,
+   "example": "Quel fromage sent aussi fort que tes chaussettes ?",
+   "examplePt": "Qual queijo cheira tão forte quanto suas meias?",
+   "pron": "fro-MÁJ — o 'g' suave soa 'j' e o 'e' final é mudo",
+   "curiosity": "Diz a lenda que De Gaulle perguntou como governar um país com mais de 200 queijos."
+  },
+  "tf07-04": {
+   "word": "le beurre",
+   "translit": null,
+   "example": "Étale le beurre sur ma tartine !",
+   "examplePt": "Passe a manteiga na minha torrada!",
+   "pron": "BÊR — 'eu' soa 'ê' arredondado e o 'r' vem da garganta",
+   "curiosity": "'Beurre noisette' (manteiga de avelã) é manteiga dourada na panela, com cheiro de avelã."
+  },
+  "tf07-05": {
+   "word": "le jambon",
+   "translit": null,
+   "example": "Je mets du jambon dans mon sandwich.",
+   "examplePt": "Eu coloco presunto no meu sanduíche.",
+   "pron": "jã-BÕ — 'j' de janela e 'an' e 'on' nasais",
+   "curiosity": "O 'jambon-beurre' (presunto com manteiga) é um dos sanduíches mais vendidos nas padarias."
+  },
+  "tf07-06": {
+   "word": "les céréales",
+   "translit": null,
+   "example": "Mes céréales deviennent molles dans le lait !",
+   "examplePt": "Meus cereais amolecem no leite!",
+   "pron": "se-re-AL — 'c' soa 's', 'é' é fechado e o 'es' final é mudo",
+   "curiosity": "'Céréales' vem de Cérès, a deusa romana da colheita."
+  },
+  "tf07-07": {
+   "word": "la confiture",
+   "translit": null,
+   "example": "Maman prépare de la confiture de fraises.",
+   "examplePt": "A mamãe prepara geleia de morangos.",
+   "pron": "kõ-fi-TÜR — 'on' é nasal, 'u' francês e o 'e' final é mudo",
+   "curiosity": "Na França, 'marmelade' é só de cítricos; as outras geleias se chamam 'confiture'."
+  },
+  "tf07-08": {
+   "word": "le toast",
+   "translit": null,
+   "example": "Ton toast saute du grille-pain !",
+   "examplePt": "Sua torrada pula da torradeira!",
+   "pron": "TÓST — 'o' aberto e o 't' final soa",
+   "curiosity": "'Porter un toast' também é fazer um brinde. Uma palavra, dois usos!"
+  },
+  "tf07-09": {
+   "word": "la crêpe",
+   "translit": null,
+   "example": "Tu veux une crêpe au sucre ?",
+   "examplePt": "Quer uma crepe com açúcar?",
+   "pron": "KRÉP — 'ê' é aberto e o 'p' soa; o 'e' final é mudo",
+   "curiosity": "Na Chandeleur (2 de fevereiro), os franceses viram crêpes com uma moeda na mão para ter sorte."
+  },
+  "tf07-10": {
+   "word": "le yaourt",
+   "translit": null,
+   "example": "Mon yaourt a un goût de fraise.",
+   "examplePt": "Meu iogurte tem gosto de morango.",
+   "pron": "ia-URT — o 'y' vale 'i' e o 't' final soa",
+   "curiosity": "'Chanter yaourt' (cantar iogurte) é cantar inventando uma letra que parece inglês!"
+  },
+  "tf08-01": {
+   "word": "salut",
+   "translit": null,
+   "example": "Salut ! Tu viens jouer avec moi ?",
+   "examplePt": "Oi! Você vem brincar comigo?",
+   "pron": "sa-LÜ — 'u' francês e o 't' final é mudo",
+   "curiosity": "'Salut' serve de 'oi' e de 'tchau' entre amigos. Com o chefe, use 'bonjour'."
+  },
+  "tf08-02": {
+   "word": "au revoir",
+   "translit": null,
+   "example": "Au revoir, et à très vite !",
+   "examplePt": "Tchau, e até logo!",
+   "pron": "ô re-VUAR — 'oi' soa 'uá' e o 'r' vem da garganta, duas vezes",
+   "curiosity": "Literalmente 'até rever'. Já 'adieu' é despedida para sempre!"
+  },
+  "tf08-03": {
+   "word": "bonjour",
+   "translit": null,
+   "example": "Bonjour ! Comment allez-vous ce matin ?",
+   "examplePt": "Bom dia! Como o senhor está esta manhã?",
+   "pron": "bõ-JUR — 'on' é nasal, 'j' de janela e 'ou' soa 'u'",
+   "curiosity": "Entrar numa loja francesa sem dizer 'bonjour' é considerado grosseria."
+  },
+  "tf08-04": {
+   "word": "bon après-midi",
+   "translit": null,
+   "example": "Bon après-midi, madame, et merci beaucoup !",
+   "examplePt": "Boa tarde, senhora, e muito obrigado!",
+   "pron": "bõ a-prè-mi-DI — 'on' é nasal e o 'è' é aberto; liga o 'n'",
+   "curiosity": "'Après-midi' pode ser masculino ou feminino: un ou une après-midi!"
+  },
+  "tf08-05": {
+   "word": "bonne nuit",
+   "translit": null,
+   "example": "Bonne nuit, petit lapin, fais de beaux rêves !",
+   "examplePt": "Boa noite, coelhinho, tenha bons sonhos!",
+   "pron": "bón NÜI — 'nn' é um 'n' só; 'nuit' tem 'u' francês + i",
+   "curiosity": "'Nuit blanche' (noite branca) é noite em claro, sem pregar o olho."
+  },
+  "tf08-06": {
+   "word": "ça va ?",
+   "translit": null,
+   "example": "Salut mon ami, ça va aujourd'hui ?",
+   "examplePt": "Oi, meu amigo, tudo bem hoje?",
+   "pron": "sa VA — o 'ç' soa 's' e a pergunta sobe no final",
+   "curiosity": "'Ça va ?' é pergunta e resposta: 'Ça va ? — Ça va !' Super prático."
+  },
+  "tf08-07": {
+   "word": "à bientôt",
+   "translit": null,
+   "example": "À bientôt, j'ai hâte de te revoir !",
+   "examplePt": "Até logo, mal posso esperar para te rever!",
+   "pron": "a biẽ-TÔ — 'ien' é nasal e o 'ô' é fechado",
+   "curiosity": "Literalmente 'bem cedo': bien (bem) + tôt (cedo). Quer dizer 'até breve'."
+  },
+  "tf08-08": {
+   "word": "à demain",
+   "translit": null,
+   "example": "À demain, même heure, même endroit ?",
+   "examplePt": "Até amanhã, mesma hora, mesmo lugar?",
+   "pron": "a de-MẼ — 'ain' é nasal e o 'e' de 'de' é quase mudo",
+   "curiosity": "À + dia vira despedida: à demain, à lundi, à ce soir."
+  },
+  "tf08-09": {
+   "word": "bienvenue",
+   "translit": null,
+   "example": "Bienvenue chez nous, entre vite !",
+   "examplePt": "Bem-vindo à nossa casa, entre logo!",
+   "pron": "biẽ-vê-NÜ — 'ien' é nasal e 'u' francês",
+   "curiosity": "No Québec, 'bienvenue' também é 'de nada', dito depois de um 'merci'!"
+  },
+  "tf08-10": {
+   "word": "bon week-end",
+   "translit": null,
+   "example": "Bon week-end ! Amuse-toi bien à la plage !",
+   "examplePt": "Bom fim de semana! Divirta-se na praia!",
+   "pron": "bõ uí-KÉND — vem do inglês: 'uí' + 'kénd', com 'e' aberto",
+   "curiosity": "No Québec, em vez de 'week-end', se diz 'fin de semaine' (fim de semana)."
+  },
+  "tf09-01": {
+   "word": "merci",
+   "translit": null,
+   "example": "Merci beaucoup pour ce super cadeau !",
+   "examplePt": "Muito obrigado por este presente incrível!",
+   "pron": "mér-SI — 'r' da garganta e 'ci' soa 'si'; força no final",
+   "curiosity": "'Merci' serve para homem e mulher: nunca muda, ao contrário de 'obrigado/obrigada'."
+  },
+  "tf09-02": {
+   "word": "s'il vous plaît",
+   "translit": null,
+   "example": "Un croissant, s'il vous plaît !",
+   "examplePt": "Um croissant, por favor!",
+   "pron": "sil vu PLÉ — 'ou' soa 'u' e 'aî' soa 'é' aberto",
+   "curiosity": "Literalmente 'se lhe agrada'. Na escrita rápida vira 'SVP'; entre amigos, 's'il te plaît'."
+  },
+  "tf09-03": {
+   "word": "désolé",
+   "translit": null,
+   "example": "Désolé, j'ai mangé tout le gâteau !",
+   "examplePt": "Desculpe, comi o bolo todo!",
+   "pron": "de-zo-LÊ — o 's' entre vogais soa 'z' e o 'é' final é fechado",
+   "curiosity": "Mulher escreve 'désolée' (com e extra), mas na fala o som é o mesmo!"
+  },
+  "tf09-04": {
+   "word": "excusez-moi",
+   "translit": null,
+   "example": "Excusez-moi, où est la gare ?",
+   "examplePt": "Com licença, onde fica a estação?",
+   "pron": "ek-skü-zê MUÁ — 'u' francês e 'oi' soa 'uá'",
+   "curiosity": "Formal (vous). Entre amigos: 'excuse-moi'. Também serve para chamar a atenção."
+  },
+  "tf09-05": {
+   "word": "de rien",
+   "translit": null,
+   "example": "De rien ! C'est un plaisir de t'aider.",
+   "examplePt": "De nada! É um prazer te ajudar.",
+   "pron": "de RIẼ — 'ien' soa 'iẽ' nasal e o 'r' vem da garganta",
+   "curiosity": "Literalmente 'de nada'. Mais formal: 'je vous en prie'; informal: 'pas de quoi'."
+  },
+  "tf09-06": {
+   "word": "félicitations",
+   "translit": null,
+   "example": "Félicitations ! Tu as gagné le concours ?",
+   "examplePt": "Parabéns! Você ganhou o concurso?",
+   "pron": "fe-li-si-ta-SIÕ — '-tion' soa 'siõ' nasal; força no final",
+   "curiosity": "Parabéns vem de 'félicité' (felicidade) e fica quase sempre no plural."
+  },
+  "tf09-07": {
+   "word": "oui",
+   "translit": null,
+   "example": "Oui, je veux un croissant !",
+   "examplePt": "Sim, eu quero um croissant!",
+   "pron": "UI — 'ou' + 'i' juntos numa sílaba só, como 'uí'",
+   "curiosity": "A França medieval se dividia em 'langue d'oïl' (norte) e 'langue d'oc' (sul), pelo jeito de dizer 'sim'."
+  },
+  "tf09-08": {
+   "word": "non",
+   "translit": null,
+   "example": "Non, ce n'est pas mon chat !",
+   "examplePt": "Não, esse não é o meu gato!",
+   "pron": "NÕ — 'on' nasal, sem 'n' no final",
+   "curiosity": "Se perguntarem 'Tu n'as pas faim ?', responda 'Si !' para dizer 'tenho sim'."
+  },
+  "tf09-09": {
+   "word": "peut-être",
+   "translit": null,
+   "example": "Peut-être qu'il pleuvra demain, qui sait ?",
+   "examplePt": "Talvez chova amanhã, quem sabe?",
+   "pron": "pê-TÉTR — 'eu' soa 'ê' arredondado e 'être' soa 'étr'",
+   "curiosity": "Literalmente 'pode ser': peut (pode) + être (ser). Fácil de lembrar!"
+  },
+  "tf09-10": {
+   "word": "bien sûr",
+   "translit": null,
+   "example": "Tu m'aides ? Bien sûr, avec plaisir !",
+   "examplePt": "Você me ajuda? Claro, com prazer!",
+   "pron": "biẽ SÜR — 'ien' é nasal e o 'û' é 'u' francês",
+   "curiosity": "Sem acento, 'sur' é 'sobre'; com acento, 'sûr' é 'seguro'. O chapeuzinho faz diferença!"
+  },
+  "tf10-01": {
+   "word": "le prénom",
+   "translit": null,
+   "example": "Quel est ton prénom, petit explorateur ?",
+   "examplePt": "Qual é o seu nome, pequeno explorador?",
+   "pron": "pre-NÕ — 'é' fechado e 'om' nasal",
+   "curiosity": "'Prénom' = nome próprio; 'nom' sozinho é o sobrenome. Nos formulários, não troque!"
+  },
+  "tf10-02": {
+   "word": "le nom de famille",
+   "translit": null,
+   "example": "Mon nom de famille est très long !",
+   "examplePt": "Meu sobrenome é muito longo!",
+   "pron": "nõ de fa-MÍI — 'ill' soa 'i' e o 'e' final é mudo",
+   "curiosity": "Em formulários, 'nom de jeune fille' (nome de moça) é o sobrenome de solteira."
+  },
+  "tf10-03": {
+   "word": "l'âge",
+   "translit": null,
+   "example": "Quel âge a ton grand-père ?",
+   "examplePt": "Quantos anos tem seu avô?",
+   "pron": "AJ — 'â' aberto, 'g' suave soa 'j' e o 'e' final é mudo",
+   "curiosity": "Idade se 'tem': 'j'ai dix ans'. Nunca use 'être' (ser) com anos!"
+  },
+  "tf10-04": {
+   "word": "le pays",
+   "translit": null,
+   "example": "Dans quel pays veux-tu voyager ?",
+   "examplePt": "Para qual país você quer viajar?",
+   "pron": "pe-Í — 'ays' soa 'ei' e o 's' final é mudo",
+   "curiosity": "O País de Gales é 'le pays de Galles' em francês. E 'les pays' (plural) soa igual ao singular."
+  },
+  "tf10-05": {
+   "word": "la ville",
+   "translit": null,
+   "example": "Cette ville s'endort tôt le soir.",
+   "examplePt": "Esta cidade adormece cedo à noite.",
+   "pron": "VIL — o 'l' soa e o 'e' final é mudo",
+   "curiosity": "'Ville' = cidade, não 'vila'! Vila ou aldeia em francês é 'village'."
+  },
+  "tf10-06": {
+   "word": "la langue",
+   "translit": null,
+   "example": "La langue française chante comme une chanson.",
+   "examplePt": "A língua francesa canta como uma canção.",
+   "pron": "LÃG — 'an' é nasal, 'gu' tem g duro e o 'e' final é mudo",
+   "curiosity": "'Donner sa langue au chat' (dar a língua ao gato) é desistir de adivinhar!"
+  },
+  "tf10-07": {
+   "word": "l'anniversaire",
+   "translit": null,
+   "example": "Mon anniversaire, c'est demain : apporte un gâteau !",
+   "examplePt": "Meu aniversário é amanhã: traga um bolo!",
+   "pron": "a-ni-ver-SÉR — 'ai' final é aberto e o 'r' vem da garganta",
+   "curiosity": "Vem do latim 'annus' (ano) + 'vertere' (voltar): o dia em que o ano dá a volta."
+  },
+  "tf10-08": {
+   "word": "l'adresse",
+   "translit": null,
+   "example": "Donne-moi ton adresse pour envoyer la carte.",
+   "examplePt": "Me dê seu endereço para enviar o cartão.",
+   "pron": "a-DRÉS — o 'e' final é mudo e o 'ss' é 's' surdo",
+   "curiosity": "'Adresse' também significa destreza, habilidade: 'avoir de l'adresse'."
+  },
+  "tf10-09": {
+   "word": "le téléphone",
+   "translit": null,
+   "example": "Mon téléphone sonne sous mes coussins !",
+   "examplePt": "Meu telefone toca debaixo das almofadas!",
+   "pron": "te-le-FÓN — 'ph' soa 'f' e o 'e' final é mudo",
+   "curiosity": "Ao atender, os franceses dizem 'Allô ?'; já o celular é 'le portable'."
+  },
+  "tf10-10": {
+   "word": "l'ami",
+   "translit": null,
+   "example": "Mon ami imaginaire mange mes biscuits !",
+   "examplePt": "Meu amigo imaginário come meus biscoitos!",
+   "pron": "a-MI — a força cai no final; ami e amie soam igual",
+   "curiosity": "'Petit ami' (pequeno amigo) é o namorado, e 'petite amie', a namorada!"
+  },
+  "tf11-01": {
+   "word": "rouge",
+   "translit": null,
+   "example": "Le feu est rouge : arrête-toi !",
+   "examplePt": "O sinal está vermelho: pare!",
+   "pron": "RUJ — 'ou' soa 'u', 'g' suave soa 'j' e o 'r' vem da garganta",
+   "curiosity": "'Rouge à lèvres' (vermelho de lábios) é o batom."
+  },
+  "tf11-02": {
+   "word": "bleu",
+   "translit": null,
+   "example": "Pourquoi le ciel est-il bleu aujourd'hui ?",
+   "examplePt": "Por que o céu está azul hoje?",
+   "pron": "BLÊ — 'eu' soa 'ê' com lábios redondos",
+   "curiosity": "'Avoir une peur bleue' = ter um medo azul, ou seja, MUITO medo!"
+  },
+  "tf11-03": {
+   "word": "jaune",
+   "translit": null,
+   "example": "Hier, j'ai mangé une banane jaune.",
+   "examplePt": "Ontem comi uma banana amarela.",
+   "pron": "JÔN — 'j' de janela, 'au' soa 'ô' e o 'e' final é mudo",
+   "curiosity": "'Rire jaune' = rir amarelo. Igualzinho ao português!"
+  },
+  "tf11-04": {
+   "word": "vert",
+   "translit": null,
+   "example": "Demain, nous irons dans la forêt verte.",
+   "examplePt": "Amanhã iremos à floresta verde.",
+   "pron": "VÉR — 'e' aberto e 't' mudo no masculino; no feminino 'verte', o 't' soa",
+   "curiosity": "'Vert', 'verre', 'vers' e 'ver' soam todos 'vér': quatro palavras, um som!"
+  },
+  "tf11-05": {
+   "word": "orange",
+   "translit": null,
+   "example": "Cette orange est aussi orange que ton pull !",
+   "examplePt": "Esta laranja é tão laranja quanto seu suéter!",
+   "pron": "o-RÃJ — 'an' é nasal e o 'g' suave soa 'j'",
+   "curiosity": "Como cor, 'orange' é invariável: des robes orange. Fruta e cor, mesma palavra."
+  },
+  "tf11-06": {
+   "word": "violet",
+   "translit": null,
+   "example": "La nuit, le ciel devient violet.",
+   "examplePt": "À noite, o céu fica roxo.",
+   "pron": "vio-LÉ — o 't' final é mudo; no feminino 'violette' ele soa",
+   "curiosity": "O feminino 'violette' também é o nome da flor violeta. Cor e flor, mesma família!"
+  },
+  "tf11-07": {
+   "word": "rose",
+   "translit": null,
+   "example": "Elle a peint le mur en rose.",
+   "examplePt": "Ela pintou a parede de rosa.",
+   "pron": "RÔZ — 'o' fechado e o 's' entre vogais soa 'z'",
+   "curiosity": "'Voir la vie en rose' = ver a vida cor-de-rosa. Igual ao português!"
+  },
+  "tf11-08": {
+   "word": "noir",
+   "translit": null,
+   "example": "Mon chat noir dort sur le piano.",
+   "examplePt": "Meu gato preto dorme em cima do piano.",
+   "pron": "NUAR — 'oi' soa 'uá' e o 'r' vem da garganta",
+   "curiosity": "'Film noir' e 'humour noir' vêm do francês. Noir = preto."
+  },
+  "tf11-09": {
+   "word": "blanc",
+   "translit": null,
+   "example": "As-tu vu cette neige blanche ?",
+   "examplePt": "Você viu essa neve branca?",
+   "pron": "BLÃ — 'an' é nasal e o 'c' final é mudo; no feminino, 'blanche'",
+   "curiosity": "'Carte blanche' (carta branca) vem do francês e é usada em português também!"
+  },
+  "tf11-10": {
+   "word": "marron",
+   "translit": null,
+   "example": "Mes chaussures marron sont pleines de boue !",
+   "examplePt": "Meus sapatos marrons estão cheios de lama!",
+   "pron": "ma-RÕ — 'on' é nasal e o 'rr' é um r só, da garganta",
+   "curiosity": "'Marrom' em português veio do francês 'marron', que também quer dizer castanha!"
+  },
+  "tf12-01": {
+   "word": "un",
+   "translit": null,
+   "example": "J'ai un seul chapeau magique.",
+   "examplePt": "Eu tenho um único chapéu mágico.",
+   "pron": "Ẽ — 'un' é nasal, tipo 'ẽ'; no feminino, 'une' soa 'ün'",
+   "curiosity": "'À la une' (na uma) significa na primeira página, em destaque."
+  },
+  "tf12-02": {
+   "word": "deux",
+   "translit": null,
+   "example": "Deux chats dorment sur mon lit.",
+   "examplePt": "Dois gatos dormem na minha cama.",
+   "pron": "DÊ — o 'x' é mudo; antes de vogal liga: 'dêz amis'",
+   "curiosity": "'Deux-pièces' (duas peças) é o biquíni!"
+  },
+  "tf12-03": {
+   "word": "trois",
+   "translit": null,
+   "example": "Trois petits cochons construisent trois maisons.",
+   "examplePt": "Três porquinhos constroem três casas.",
+   "pron": "TRUÁ — 'oi' soa 'uá' e o 'r' vem da garganta; antes de vogal, 'truaz'",
+   "curiosity": "'Jamais deux sans trois' (nunca dois sem três): o que acontece duas vezes, acontece três."
+  },
+  "tf12-04": {
+   "word": "quatre",
+   "translit": null,
+   "example": "Il y a quatre saisons en France.",
+   "examplePt": "Há quatro estações na França.",
+   "pron": "KÁTR — 'qu' vale 'k' e o 'tre' final é um sopro",
+   "curiosity": "'Quatre-vingts' (quatro vintes) é 80! A França conta de vinte em vinte."
+  },
+  "tf12-05": {
+   "word": "cinq",
+   "translit": null,
+   "example": "Combien font deux plus cinq ?",
+   "examplePt": "Quanto é dois mais cinco?",
+   "pron": "SẼK — 'in' é nasal e o 'q' final SOA como 'k'",
+   "curiosity": "'Tape-m'en cinq !' (bate-me cinco) é o 'toca aqui' dos franceses."
+  },
+  "tf12-06": {
+   "word": "six",
+   "translit": null,
+   "example": "Six souris dansent dans la cuisine !",
+   "examplePt": "Seis ratinhos dançam na cozinha!",
+   "pron": "SIS — sozinho soa 'sis'; antes de consoante 'si', de vogal 'siz'",
+   "curiosity": "A França é chamada de 'l'Hexagone' porque o mapa lembra um hexágono, de seis lados."
+  },
+  "tf12-07": {
+   "word": "sept",
+   "translit": null,
+   "example": "Les sept nains vivent dans la forêt.",
+   "examplePt": "Os sete anões vivem na floresta.",
+   "pron": "SÉT — o 'p' é mudo e o 'e' é aberto",
+   "curiosity": "'Septembre' tem 'sept', mas é o nono mês: o antigo calendário romano começava em março."
+  },
+  "tf12-08": {
+   "word": "huit",
+   "translit": null,
+   "example": "Je me couche à huit heures.",
+   "examplePt": "Eu vou dormir às oito horas.",
+   "pron": "ÜIT — o 'h' é mudo; 'u' francês + i e o 't' final soa",
+   "curiosity": "'Dans huit jours' (em oito dias) é 'daqui a uma semana'."
+  },
+  "tf12-09": {
+   "word": "neuf",
+   "translit": null,
+   "example": "Cet escalier a neuf marches.",
+   "examplePt": "Esta escada tem nove degraus.",
+   "pron": "NÊF — 'eu' soa 'ê' arredondado e o 'f' final soa",
+   "curiosity": "'Neuf' é nove E novo em folha: 'une voiture neuve' é um carro zero!"
+  },
+  "tf12-10": {
+   "word": "dix",
+   "translit": null,
+   "example": "Dix chats, dix chapeaux : quel spectacle !",
+   "examplePt": "Dez gatos, dez chapéus: que espetáculo!",
+   "pron": "DIS — o 'x' soa 's'; antes de vogal vira 'diz'",
+   "curiosity": "'Dix' vem do latim 'decem', a mesma raiz de 'década' e 'dezembro'."
+  },
+  "tf13-01": {
+   "word": "le cercle",
+   "translit": null,
+   "example": "Dessine un grand cercle avec ta craie !",
+   "examplePt": "Desenhe um círculo grande com seu giz!",
+   "pron": "SÉRKL — 'ce' soa 's', o 'e' é aberto e o 'cle' final é leve",
+   "curiosity": "'Cercle d'amis' é o círculo de amigos; 'cercle vicieux', o círculo vicioso."
+  },
+  "tf13-02": {
+   "word": "le carré",
+   "translit": null,
+   "example": "Un carré parfait a quatre côtés égaux.",
+   "examplePt": "Um quadrado perfeito tem quatro lados iguais.",
+   "pron": "ka-RÊ — o 'rr' é um r só da garganta e o 'é' final é fechado",
+   "curiosity": "Em matemática, 'ao quadrado' é 'au carré': trois au carré = neuf."
+  },
+  "tf13-03": {
+   "word": "le triangle",
+   "translit": null,
+   "example": "Pourquoi ce triangle a-t-il trois pointes ?",
+   "examplePt": "Por que este triângulo tem três pontas?",
+   "pron": "tri-ÃGL — 'an' é nasal e o 'gle' final é leve",
+   "curiosity": "'Triangle des Bermudes' é o Triângulo das Bermudas, também no francês!"
+  },
+  "tf13-04": {
+   "word": "le rectangle",
+   "translit": null,
+   "example": "Cette porte est un grand rectangle.",
+   "examplePt": "Esta porta é um grande retângulo.",
+   "pron": "rek-TÃGL — 'an' é nasal e o 'gle' final é leve",
+   "curiosity": "'Rectangle' junta 'recto' e 'angle': literalmente 'ângulo reto'."
+  },
+  "tf13-05": {
+   "word": "le cœur",
+   "translit": null,
+   "example": "Mon cœur bat vite quand je cours !",
+   "examplePt": "Meu coração bate rápido quando corro!",
+   "pron": "KÊR — 'œu' soa 'ê' arredondado e o 'r' vem da garganta",
+   "curiosity": "'Par cœur' (de coração) é 'de cor': decorar uma poesia é aprendê-la 'par cœur'."
+  },
+  "tf13-06": {
+   "word": "le losange",
+   "translit": null,
+   "example": "Le losange ressemble à un carré penché.",
+   "examplePt": "O losango parece um quadrado inclinado.",
+   "pron": "lo-ZÃJ — o 's' entre vogais soa 'z', 'an' é nasal e 'ge' soa 'j'",
+   "curiosity": "O ♦ do baralho francês não se chama 'losange': chama-se 'carreau'."
+  },
+  "tf13-07": {
+   "word": "l'ovale",
+   "translit": null,
+   "example": "Le miroir ovale reflète mon grand sourire.",
+   "examplePt": "O espelho oval reflete meu sorriso grande.",
+   "pron": "o-VAL — o 'e' final é mudo e a força cai no 'val'",
+   "curiosity": "Na França, 'le ballon ovale' (a bola oval) é o rugby!"
+  },
+  "tf13-08": {
+   "word": "le cube",
+   "translit": null,
+   "example": "Un cube de glace tombe dans mon verre !",
+   "examplePt": "Um cubo de gelo cai no meu copo!",
+   "pron": "KÜB — 'u' francês e o 'e' final é mudo",
+   "curiosity": "Em matemática, 'ao cubo' é 'au cube': deux au cube = huit."
+  },
+  "tf13-09": {
+   "word": "la sphère",
+   "translit": null,
+   "example": "La Terre est-elle une sphère parfaite ?",
+   "examplePt": "A Terra é uma esfera perfeita?",
+   "pron": "SFÉR — 'ph' soa 'f', 'è' é aberto e o 'e' final é mudo",
+   "curiosity": "'La sphère privée' é a vida privada: esfera também é o território de cada um."
+  },
+  "tf13-10": {
+   "word": "le cylindre",
+   "translit": null,
+   "example": "Cette boîte de conserve est un cylindre.",
+   "examplePt": "Esta lata de conserva é um cilindro.",
+   "pron": "si-LẼDR — 'y' soa 'i', 'in' é nasal e o 'dre' final é leve",
+   "curiosity": "'Cylindrée' é a cilindrada do motor: 'une moto de grosse cylindrée'."
+  },
+  "tf14-01": {
+   "word": "onze",
+   "translit": null,
+   "example": "Onze joueurs courent sur le terrain.",
+   "examplePt": "Onze jogadores correm no campo.",
+   "pron": "ÕZ — 'on' é nasal e o 'z' soa; sem ligação com o artigo",
+   "curiosity": "Sem elisão! Diz-se 'le onze', não 'l'onze'. Exceção curiosa dos números."
+  },
+  "tf14-02": {
+   "word": "douze",
+   "translit": null,
+   "example": "Il y a douze œufs dans la boîte.",
+   "examplePt": "Há doze ovos na caixa.",
+   "pron": "DUZ — 'ou' soa 'u', o 'z' soa e o 'e' final é mudo",
+   "curiosity": "'Une douzaine' é uma dúzia; 'une dizaine' e 'une vingtaine' são 'cerca de 10' e 'cerca de 20'."
+  },
+  "tf14-03": {
+   "word": "quinze",
+   "translit": null,
+   "example": "Quinze minutes, c'est un quart d'heure.",
+   "examplePt": "Quinze minutos é um quarto de hora.",
+   "pron": "KẼZ — 'in' é nasal, o 'z' soa e o 'e' final é mudo",
+   "curiosity": "'Quinze jours' (15 dias) significa duas semanas na França!"
+  },
+  "tf14-04": {
+   "word": "vingt",
+   "translit": null,
+   "example": "Vingt ans, quel bel âge !",
+   "examplePt": "Vinte anos, que bela idade!",
+   "pron": "VẼ — 'g' e 't' são mudos, mas em 'vingt-deux' o 't' soa",
+   "curiosity": "'Vingt-et-un' (vinte e um) é o nome francês do jogo de cartas blackjack."
+  },
+  "tf14-05": {
+   "word": "trente",
+   "translit": null,
+   "example": "Il fait trente degrés à l'ombre !",
+   "examplePt": "Faz trinta graus à sombra!",
+   "pron": "TRÃT — 'an' é nasal e o 't' final soa",
+   "curiosity": "'Se mettre sur son trente-et-un' é se vestir com muita elegância, no melhor traje."
+  },
+  "tf14-06": {
+   "word": "cinquante",
+   "translit": null,
+   "example": "Cinquante personnes attendent le train.",
+   "examplePt": "Cinquenta pessoas esperam o trem.",
+   "pron": "sẽ-KÃT — duas nasais seguidas e 'qu' vale 'k'",
+   "curiosity": "Na Bélgica e na Suíça, 70 e 90 são 'septante' e 'nonante', bem mais simples."
+  },
+  "tf14-07": {
+   "word": "cent",
+   "translit": null,
+   "example": "Cent bonbons pour moi ? Merci !",
+   "examplePt": "Cem balas para mim? Obrigado!",
+   "pron": "SÃ — 'en' é nasal e o 't' final é mudo",
+   "curiosity": "'Cent', 'sans' (sem) e 'sang' (sangue) soam igual. Homófonas de cabeça!"
+  },
+  "tf14-08": {
+   "word": "deux cents",
+   "translit": null,
+   "example": "Deux cents pas jusqu'au lac.",
+   "examplePt": "Duzentos passos até o lago.",
+   "pron": "dê SÃ — 'deux' tem 'x' mudo e 'cents' soa 'sã'",
+   "curiosity": "'Cents' leva 's' só no fim do número: deux cents, mas deux cent trois."
+  },
+  "tf14-09": {
+   "word": "mille",
+   "translit": null,
+   "example": "Mille mercis pour ce beau voyage !",
+   "examplePt": "Mil obrigados por esta bela viagem!",
+   "pron": "MIL — o 'll' soa como 'l' simples e o 'e' final é mudo",
+   "curiosity": "O doce 'mille-feuille' é literalmente 'mil folhas': camadas e camadas de massa folhada."
+  },
+  "tf14-10": {
+   "word": "un million",
+   "translit": null,
+   "example": "Un million d'étoiles brillent ce soir.",
+   "examplePt": "Um milhão de estrelas brilham esta noite.",
+   "pron": "mi-LIÕ — 'ill' soa 'li' e 'on' é nasal",
+   "curiosity": "Falso amigo: em francês 'un billion' é trilhão; bilhão é 'un milliard'."
+  },
+  "tf15-01": {
+   "word": "se réveiller",
+   "translit": null,
+   "example": "Je me réveille quand le coq chante.",
+   "examplePt": "Eu acordo quando o galo canta.",
+   "pron": "se re-vê-IÊ — 'eill' soa 'êi' e o 'é' final é fechado",
+   "curiosity": "'Réveillon' vem de 'réveiller' (acordar): ficar acordado na noite de festa!"
+  },
+  "tf15-02": {
+   "word": "se lever",
+   "translit": null,
+   "example": "Tu dois te lever très tôt demain !",
+   "examplePt": "Você precisa levantar bem cedo amanhã!",
+   "pron": "se le-VÊ — o 'e' de 'le' é quase mudo e 'er' soa 'ê'",
+   "curiosity": "'Le lever du soleil' é o nascer do sol: o sol também 'se levanta'."
+  },
+  "tf15-03": {
+   "word": "se doucher",
+   "translit": null,
+   "example": "Je me douche en chantant très fort !",
+   "examplePt": "Eu tomo banho cantando bem alto!",
+   "pron": "se du-XÊ — 'ou' soa 'u' e 'ch' soa 'x'",
+   "curiosity": "'Douche écossaise' (ducha escocesa) é alternar água quente e fria; vale para notícias também!"
+  },
+  "tf15-04": {
+   "word": "se brosser les dents",
+   "translit": null,
+   "example": "Brosse-toi les dents avant de dormir !",
+   "examplePt": "Escove os dentes antes de dormir!",
+   "pron": "se bro-SÊ lê DÃ — 'dents' tem 'an' nasal e 'ts' mudos",
+   "curiosity": "Parte do corpo leva artigo: 'les dents', não 'tes dents'. Diferente do português!"
+  },
+  "tf15-05": {
+   "word": "se peigner",
+   "translit": null,
+   "example": "Mon frère se peigne devant le miroir.",
+   "examplePt": "Meu irmão se penteia diante do espelho.",
+   "pron": "se pe-NHÊ — 'gn' soa 'nh' (como em 'banho') e 'ei' soa 'é'",
+   "curiosity": "'Passer au peigne fin' (passar o pente fino) é investigar com cuidado, igual ao português."
+  },
+  "tf15-06": {
+   "word": "déjeuner",
+   "translit": null,
+   "example": "Nous déjeunons ensemble à midi ?",
+   "examplePt": "Almoçamos juntos ao meio-dia?",
+   "pron": "de-jê-NÊ — 'j' de janela e 'eu' fraco; o 'é' final é fechado",
+   "curiosity": "Na França, 'déjeuner' é almoçar; no Québec, é o café da manhã."
+  },
+  "tf15-07": {
+   "word": "dîner",
+   "translit": null,
+   "example": "Ce soir, nous dînons aux chandelles.",
+   "examplePt": "Esta noite jantamos à luz de velas.",
+   "pron": "di-NÊ — o 'î' soa só 'i' e a força cai no final",
+   "curiosity": "No Québec, 'dîner' é o almoço e o jantar é 'souper'!"
+  },
+  "tf15-08": {
+   "word": "étudier",
+   "translit": null,
+   "example": "J'étudie le français avec joie !",
+   "examplePt": "Eu estudo francês com alegria!",
+   "pron": "e-tü-DIÊ — 'u' francês e 'ier' soa 'iê'",
+   "curiosity": "Verbo regular em -er: j'étudie, tu étudies, il étudie. Soam todos iguais!"
+  },
+  "tf15-09": {
+   "word": "dormir",
+   "translit": null,
+   "example": "Je veux dormir dans un hamac !",
+   "examplePt": "Quero dormir numa rede!",
+   "pron": "dor-MIR — 'r' da garganta e a força cai no final",
+   "curiosity": "'Dormir comme un loir' (dormir como um arganaz) é dormir pesado."
+  },
+  "tf15-10": {
+   "word": "rêver",
+   "translit": null,
+   "example": "Je rêve d'un voyage sur la lune.",
+   "examplePt": "Eu sonho com uma viagem à lua.",
+   "pron": "ré-VÊ — o 'ê' é aberto e 'er' final soa 'ê'",
+   "curiosity": "'Faire de beaux rêves !' é o 'bons sonhos' que os franceses dizem na hora de dormir."
+  },
+  "tf16-01": {
+   "word": "courir",
+   "translit": null,
+   "example": "Cours, le dragon arrive !",
+   "examplePt": "Corra, o dragão está chegando!",
+   "pron": "ku-RIR — 'ou' soa 'u' e o 'r' da garganta aparece duas vezes",
+   "curiosity": "Irregular: je cours, il court. O futuro tem dois r: je courrai."
+  },
+  "tf16-02": {
+   "word": "marcher",
+   "translit": null,
+   "example": "On marche pieds nus sur le sable ?",
+   "examplePt": "Andamos descalços na areia?",
+   "pron": "mar-XÊ — 'ch' soa 'x' e 'er' final soa 'ê'",
+   "curiosity": "'Ça marche !' significa 'combinado!'. Marcher também é funcionar."
+  },
+  "tf16-03": {
+   "word": "sauter",
+   "translit": null,
+   "example": "Saute par-dessus la flaque, vite !",
+   "examplePt": "Pule a poça, rápido!",
+   "pron": "sô-TÊ — 'au' soa 'ô' e 'er' final soa 'ê'",
+   "curiosity": "O jogo de pular carniça em francês é 'saute-mouton': pula-ovelha!"
+  },
+  "tf16-04": {
+   "word": "nager",
+   "translit": null,
+   "example": "Tu sais nager comme un poisson ?",
+   "examplePt": "Você sabe nadar como um peixe?",
+   "pron": "na-JÊ — o 'g' suave soa 'j' e 'er' final soa 'ê'",
+   "curiosity": "O 'g' ganha um 'e' para continuar suave: nous nageons."
+  },
+  "tf16-05": {
+   "word": "monter",
+   "translit": null,
+   "example": "Montons sur le toit pour voir les étoiles !",
+   "examplePt": "Subamos no telhado para ver as estrelas!",
+   "pron": "mõ-TÊ — 'on' é nasal e 'er' final soa 'ê'",
+   "curiosity": "Monter = subir, mas também montar: 'monter à cheval', 'monter une tente'."
+  },
+  "tf16-06": {
+   "word": "descendre",
+   "translit": null,
+   "example": "Le chat descend de l'arbre lentement.",
+   "examplePt": "O gato desce da árvore devagar.",
+   "pron": "de-SÃDR — 'an' é nasal e o 'dre' final é leve",
+   "curiosity": "'Descendre dans la rue' (descer à rua) é ir protestar nas ruas."
+  },
+  "tf16-07": {
+   "word": "danser",
+   "translit": null,
+   "example": "Nous dansons sous la pluie, sans parapluie !",
+   "examplePt": "Dançamos sob a chuva, sem guarda-chuva!",
+   "pron": "dã-SÊ — 'an' é nasal e 'er' final soa 'ê'",
+   "curiosity": "'Entrer dans la danse' (entrar na dança) é, no figurado, entrar em ação."
+  },
+  "tf16-08": {
+   "word": "pousser",
+   "translit": null,
+   "example": "Pousse fort, la porte est coincée !",
+   "examplePt": "Empurre forte, a porta está emperrada!",
+   "pron": "pu-SÊ — 'ou' soa 'u' e 'ss' é 's' surdo",
+   "curiosity": "'Poussette' é o carrinho de bebê: vem de 'pousser', empurrar."
+  },
+  "tf16-09": {
+   "word": "tirer",
+   "translit": null,
+   "example": "Tire la corde pour ouvrir le rideau.",
+   "examplePt": "Puxe a corda para abrir a cortina.",
+   "pron": "ti-RÊ — 'r' da garganta duas vezes e 'er' final soa 'ê'",
+   "curiosity": "Nas portas francesas: 'Tirez' = puxe, 'Poussez' = empurre."
+  },
+  "tf16-10": {
+   "word": "grimper",
+   "translit": null,
+   "example": "Le petit singe grimpe au cocotier !",
+   "examplePt": "O macaquinho sobe no coqueiro!",
+   "pron": "grẽ-PÊ — o 'im' é nasal e o 'p' não soa",
+   "curiosity": "Os 'grimpeurs' do Tour de France são os especialistas em subida de montanha."
+  },
+  "tf17-01": {
+   "word": "parler",
+   "translit": null,
+   "example": "Peux-tu parler plus doucement, s'il te plaît ?",
+   "examplePt": "Você pode falar mais baixinho, por favor?",
+   "pron": "par-LÊ — 'er' final soa 'ê' e o 'r' vem da garganta",
+   "curiosity": "Idiomas vêm sem artigo: 'je parle français'. Forma simples e direta."
+  },
+  "tf17-02": {
+   "word": "écouter",
+   "translit": null,
+   "example": "Écoute ! Entends-tu le chant des oiseaux ?",
+   "examplePt": "Escute! Você ouve o canto dos pássaros?",
+   "pron": "e-ku-TÊ — 'ou' soa 'u' e 'er' final soa 'ê'",
+   "curiosity": "'Écouter' = escutar com atenção; 'entendre' = ouvir (e não entender!)."
+  },
+  "tf17-03": {
+   "word": "lire",
+   "translit": null,
+   "example": "Tu veux lire ce livre avec moi ?",
+   "examplePt": "Quer ler este livro comigo?",
+   "pron": "LIR — o 'r' final vem da garganta e o 'e' é mudo",
+   "curiosity": "'La lire' foi a antiga moeda da Itália: o verbo 'lire' (ler) é outra história!"
+  },
+  "tf17-04": {
+   "word": "écrire",
+   "translit": null,
+   "example": "Écris-moi une lettre pleine de dessins !",
+   "examplePt": "Escreva-me uma carta cheia de desenhos!",
+   "pron": "e-KRIR — o 'r' da garganta duas vezes; força no final",
+   "curiosity": "Irregular: j'écris, nous écrivons. O 'v' só aparece no plural."
+  },
+  "tf17-05": {
+   "word": "demander",
+   "translit": null,
+   "example": "Demande poliment avant de prendre mon jouet !",
+   "examplePt": "Peça com educação antes de pegar meu brinquedo!",
+   "pron": "de-mã-DÊ — 'an' é nasal e 'er' final soa 'ê'",
+   "curiosity": "'Demander' = pedir ou perguntar, e NÃO 'demandar' (exigir)."
+  },
+  "tf17-06": {
+   "word": "répondre",
+   "translit": null,
+   "example": "Pourquoi personne ne répond à mon appel ?",
+   "examplePt": "Por que ninguém atende meu chamado?",
+   "pron": "re-PÕDR — 'on' é nasal e o 'dre' final é leve",
+   "curiosity": "Pede a preposição 'à': répondre à. Il répond: o 'd' é mudo."
+  },
+  "tf17-07": {
+   "word": "penser",
+   "translit": null,
+   "example": "À quoi penses-tu en ce moment ?",
+   "examplePt": "Em que você está pensando agora?",
+   "pron": "pã-SÊ — 'en' é nasal e 'er' final soa 'ê'",
+   "curiosity": "'Penser à' = pensar em alguém; 'penser que' = achar que."
+  },
+  "tf17-08": {
+   "word": "se souvenir",
+   "translit": null,
+   "example": "Tu vas te souvenir de ce jour magique !",
+   "examplePt": "Você vai se lembrar deste dia mágico!",
+   "pron": "se su-ve-NIR — 'ou' soa 'u' e o 'r' vem da garganta",
+   "curiosity": "'Je me souviens' (eu me lembro) é o lema do Québec, escrito nas placas dos carros."
+  },
+  "tf17-09": {
+   "word": "oublier",
+   "translit": null,
+   "example": "Zut ! J'ai oublié mon parapluie !",
+   "examplePt": "Droga! Esqueci meu guarda-chuva!",
+   "pron": "u-bli-Ê — 'ou' soa 'u' e 'ier' soa 'iê'",
+   "curiosity": "As 'oubliettes' eram masmorras onde se 'esqueciam' prisioneiros: a palavra vem de 'oublier'."
+  },
+  "tf17-10": {
+   "word": "comprendre",
+   "translit": null,
+   "example": "Tu comprends cette blague ? Moi non !",
+   "examplePt": "Você entende essa piada? Eu não!",
+   "pron": "kõ-PRÃDR — 'on' e 'an' são nasais e o 'dre' final é leve",
+   "curiosity": "Irregular como 'prendre': je comprends, nous comprenons. Também 'apprendre' (aprender)."
+  },
+  "tf18-01": {
+   "word": "la banque",
+   "translit": null,
+   "example": "Je dépose mon argent à la banque.",
+   "examplePt": "Eu deposito meu dinheiro no banco.",
+   "pron": "BÃK — 'an' é nasal, 'qu' vale 'k' e o 'e' final é mudo",
+   "curiosity": "'Banque' é o banco do dinheiro; 'banc' é o banco de sentar. Dois bancos!"
+  },
+  "tf18-02": {
+   "word": "la pharmacie",
+   "translit": null,
+   "example": "La pharmacie verte brille la nuit.",
+   "examplePt": "A farmácia verde brilha à noite.",
+   "pron": "far-ma-SI — 'ph' soa 'f', 'c' soa 's' e a força cai no final",
+   "curiosity": "A cruz verde luminosa é o símbolo das farmácias francesas."
+  },
+  "tf18-03": {
+   "word": "la boulangerie",
+   "translit": null,
+   "example": "Quelle boulangerie vend le meilleur croissant ?",
+   "examplePt": "Qual padaria vende o melhor croissant?",
+   "pron": "bu-lã-je-RI — 'ou' soa 'u', 'an' é nasal e 'ge' soa 'j'",
+   "curiosity": "Por lei, só pode se chamar 'boulangerie' quem faz o próprio pão no local."
+  },
+  "tf18-04": {
+   "word": "l'école",
+   "translit": null,
+   "example": "L'école commence à huit heures.",
+   "examplePt": "A escola começa às oito horas.",
+   "pron": "e-KÓL — 'é' fechado, 'o' aberto e o 'e' final é mudo",
+   "curiosity": "Em setembro os alunos franceses vivem 'la rentrée', a volta às aulas."
+  },
+  "tf18-05": {
+   "word": "l'hôpital",
+   "translit": null,
+   "example": "L'hôpital est à côté de la gare.",
+   "examplePt": "O hospital fica ao lado da estação.",
+   "pron": "o-pi-TAL — o 'h' é mudo e o 'ô' é fechado",
+   "curiosity": "Plural irregular: les hôpitaux. Mesma regra de cheval/chevaux."
+  },
+  "tf18-06": {
+   "word": "la place",
+   "translit": null,
+   "example": "Les enfants jouent sur la place du village.",
+   "examplePt": "As crianças brincam na praça da vila.",
+   "pron": "PLAS — 'c' soa 's' e o 'e' final é mudo",
+   "curiosity": "'Place' é praça, mas também lugar ou assento: 'une place' no cinema."
+  },
+  "tf18-07": {
+   "word": "le supermarché",
+   "translit": null,
+   "example": "Le supermarché ferme à vingt heures.",
+   "examplePt": "O supermercado fecha às vinte horas.",
+   "pron": "sü-per-mar-XÊ — 'u' francês, 'ch' soa 'x' e 'é' final fechado",
+   "curiosity": "'Marché aux puces' (mercado das pulgas) é a feira de antiguidades!"
+  },
+  "tf18-08": {
+   "word": "la bibliothèque",
+   "translit": null,
+   "example": "La bibliothèque est silencieuse comme une forêt.",
+   "examplePt": "A biblioteca é silenciosa como uma floresta.",
+   "pron": "bi-bli-o-TÉK — 'th' soa 't', 'è' é aberto e 'que' vale 'k'",
+   "curiosity": "Falso amigo: 'librairie' é livraria; 'bibliothèque' é onde se empresta livros."
+  },
+  "tf18-09": {
+   "word": "le cinéma",
+   "translit": null,
+   "example": "On va au cinéma ce soir ?",
+   "examplePt": "Vamos ao cinema esta noite?",
+   "pron": "si-ne-MA — 'c' soa 's' e a força cai no 'ma'",
+   "curiosity": "A França é o berço do cinema: a primeira sessão paga foi em Paris, em 1895."
+  },
+  "tf18-10": {
+   "word": "le musée",
+   "translit": null,
+   "example": "Quel musée a le plus grand tableau ?",
+   "examplePt": "Qual museu tem o maior quadro?",
+   "pron": "mü-ZÊ — 'u' francês e o 's' entre vogais soa 'z'",
+   "curiosity": "O Louvre, em Paris, é um dos museus mais visitados do mundo."
+  },
+  "tf19-01": {
+   "word": "le bus",
+   "translit": null,
+   "example": "Le bus est en retard, encore !",
+   "examplePt": "O ônibus está atrasado, de novo!",
+   "pron": "BÜS — 'u' francês e o 's' final SOA",
+   "curiosity": "'Bus' é abreviação de 'autobus'; o ônibus de viagem é 'autocar'."
+  },
+  "tf19-02": {
+   "word": "le train",
+   "translit": null,
+   "example": "Le train traverse la montagne enneigée.",
+   "examplePt": "O trem atravessa a montanha nevada.",
+   "pron": "TRẼ — 'ain' é nasal, o 'r' vem da garganta e o 'n' não soa",
+   "curiosity": "O TGV é o trem de alta velocidade francês: Train à Grande Vitesse."
+  },
+  "tf19-03": {
+   "word": "l'avion",
+   "translit": null,
+   "example": "Regarde, un avion dessine un cœur !",
+   "examplePt": "Olha, um avião desenha um coração!",
+   "pron": "a-vi-Õ — 'on' é nasal, sem 'n'; a força cai no final",
+   "curiosity": "Vem do latim 'avis' (ave): o avião é uma 'ave' de metal."
+  },
+  "tf19-04": {
+   "word": "le métro",
+   "translit": null,
+   "example": "Prends le métro, c'est plus rapide !",
+   "examplePt": "Pegue o metrô, é mais rápido!",
+   "pron": "me-TRÔ — o 'é' e o 'ô' são fechados; força no final",
+   "curiosity": "'Métro, boulot, dodo' (metrô, trampo, cama) resume a rotina cansativa dos parisienses."
+  },
+  "tf19-05": {
+   "word": "le vélo",
+   "translit": null,
+   "example": "Mon vélo a un panier plein de fleurs.",
+   "examplePt": "Minha bicicleta tem uma cesta cheia de flores.",
+   "pron": "ve-LÔ — o 'é' e o 'ô' são fechados; força no final",
+   "curiosity": "O Tour de France é a maior corrida de 'vélo' do mundo e dura três semanas."
+  },
+  "tf19-06": {
+   "word": "le taxi",
+   "translit": null,
+   "example": "Appelle un taxi, il pleut des cordes !",
+   "examplePt": "Chame um táxi, está chovendo canivete!",
+   "pron": "tak-SI — o 'x' soa 'ks' e a força cai no final",
+   "curiosity": "Em 1914, os 'taxis de la Marne' de Paris levaram soldados ao front."
+  },
+  "tf19-07": {
+   "word": "le bateau",
+   "translit": null,
+   "example": "Le bateau danse sur les vagues.",
+   "examplePt": "O barco dança sobre as ondas.",
+   "pron": "ba-TÔ — 'eau' soa 'ô', o mesmo de 'l'eau'",
+   "curiosity": "Os 'bateaux-mouches' (barcos-mosca) passeiam turistas pelo rio Sena."
+  },
+  "tf19-08": {
+   "word": "le camion",
+   "translit": null,
+   "example": "Le camion transporte cent bananes.",
+   "examplePt": "O caminhão transporta cem bananas.",
+   "pron": "ka-mi-Õ — 'on' é nasal e a força cai no final",
+   "curiosity": "'Camion' é caminhão; a van ou caminhonete é 'camionnette'."
+  },
+  "tf19-09": {
+   "word": "la moto",
+   "translit": null,
+   "example": "Ma moto fait un bruit de dragon !",
+   "examplePt": "Minha moto faz um barulho de dragão!",
+   "pron": "mo-TÔ — o 'o' final é fechado e a força cai no 'tô'",
+   "curiosity": "Feminina: la moto, abreviação de 'motocyclette'."
+  },
+  "tf19-10": {
+   "word": "l'hélicoptère",
+   "translit": null,
+   "example": "L'hélicoptère atterrit sur le toit.",
+   "examplePt": "O helicóptero pousa no telhado.",
+   "pron": "e-li-kop-TÉR — o 'h' é mudo e 'è' é aberto",
+   "curiosity": "Vem do grego: hélice + asa (pteron). Hélice e asa juntas!"
+  },
+  "tf20-01": {
+   "word": "la valise",
+   "translit": null,
+   "example": "Ma valise est trop lourde, aïe !",
+   "examplePt": "Minha mala está pesada demais, ai!",
+   "pron": "va-LIZ — o 's' entre vogais soa 'z' e o 'e' final é mudo",
+   "curiosity": "Em francês, 'faire sa valise' é fazer a mala (no singular)."
+  },
+  "tf20-02": {
+   "word": "le passeport",
+   "translit": null,
+   "example": "N'oublie pas ton passeport, surtout !",
+   "examplePt": "Não esqueça seu passaporte, principalmente!",
+   "pron": "pas-POR — o 'o' é aberto e o 't' final é mudo",
+   "curiosity": "'Passeport' junta 'passer' (passar) + 'port' (porto): documento para passar pelos portos."
+  },
+  "tf20-03": {
+   "word": "le billet",
+   "translit": null,
+   "example": "Où as-tu mis ton billet de train ?",
+   "examplePt": "Onde você colocou sua passagem de trem?",
+   "pron": "bi-IÉ — 'll' soa 'i' e o 't' final é mudo",
+   "curiosity": "'Billet' vale passagem, ingresso E nota de dinheiro: un billet de vingt."
+  },
+  "tf20-04": {
+   "word": "l'hôtel",
+   "translit": null,
+   "example": "Cet hôtel a une piscine sur le toit !",
+   "examplePt": "Este hotel tem uma piscina no telhado!",
+   "pron": "o-TÉL — o 'h' é mudo, o 'ô' é fechado e 'él' é aberto",
+   "curiosity": "'Hôtel de ville' é a prefeitura! Hotel e prédio público têm a mesma palavra."
+  },
+  "tf20-05": {
+   "word": "la carte",
+   "translit": null,
+   "example": "Peux-tu lire la carte à l'envers ?",
+   "examplePt": "Você consegue ler o mapa de cabeça para baixo?",
+   "pron": "KART — o 'r' vem da garganta e o 'e' final é mudo",
+   "curiosity": "'Carte' é mapa, cartão e cardápio: no restaurante, 'la carte'."
+  },
+  "tf20-06": {
+   "word": "la réservation",
+   "translit": null,
+   "example": "Ma réservation est au nom du capitaine.",
+   "examplePt": "Minha reserva está no nome do capitão.",
+   "pron": "re-zer-va-SIÕ — o 's' soa 'z' e '-tion' soa 'siõ'",
+   "curiosity": "'Réservation' é a reserva de mesa, de hotel e de passagem: uma palavra para tudo!"
+  },
+  "tf20-07": {
+   "word": "le touriste",
+   "translit": null,
+   "example": "Un touriste perdu photographie un pigeon !",
+   "examplePt": "Um turista perdido fotografa um pombo!",
+   "pron": "tu-RIST — 'ou' soa 'u' e o 'e' final é mudo",
+   "curiosity": "Mesma forma para ele e ela: le touriste, la touriste."
+  },
+  "tf20-08": {
+   "word": "la frontière",
+   "translit": null,
+   "example": "Nous traversons la frontière à pied.",
+   "examplePt": "Atravessamos a fronteira a pé.",
+   "pron": "frõ-TIÉR — 'on' é nasal e 'ière' soa 'iér'",
+   "curiosity": "A maior fronteira terrestre da França é com o Brasil, pela Guiana Francesa!"
+  },
+  "tf20-09": {
+   "word": "la douane",
+   "translit": null,
+   "example": "À la douane, ouvrez votre valise !",
+   "examplePt": "Na alfândega, abram sua mala!",
+   "pron": "DUAN — 'ou' soa 'u' e 'a' junto: 'ua'; o 'e' final é mudo",
+   "curiosity": "'Douane' e nossa 'aduana' vêm do árabe 'diwan', que era um registro ou repartição."
+  },
+  "tf20-10": {
+   "word": "le souvenir",
+   "translit": null,
+   "example": "J'achète un souvenir pour ma grand-mère.",
+   "examplePt": "Compro uma lembrança para minha avó.",
+   "pron": "su-ve-NIR — 'ou' soa 'u' e o 'r' vem da garganta",
+   "curiosity": "O inglês pegou 'souvenir' do francês, onde o verbo 'se souvenir' é lembrar."
+  },
+  "tf21-01": {
+   "word": "la mère",
+   "translit": null,
+   "example": "Ma mère chante en préparant le dîner.",
+   "examplePt": "Minha mãe canta enquanto prepara o jantar.",
+   "pron": "MÉR — 'è' é aberto e o 'r' vem da garganta",
+   "curiosity": "'Belle-mère' é sogra E madrasta: literalmente 'bela-mãe'!"
+  },
+  "tf21-02": {
+   "word": "le père",
+   "translit": null,
+   "example": "Mon père répare tout avec du ruban adhésif !",
+   "examplePt": "Meu pai conserta tudo com fita adesiva!",
+   "pron": "PÉR — 'è' é aberto e o 'r' vem da garganta",
+   "curiosity": "'Père Noël' é o Papai Noel! 'Père' está no nome dele."
+  },
+  "tf21-03": {
+   "word": "le frère",
+   "translit": null,
+   "example": "As-tu un frère ou une sœur ?",
+   "examplePt": "Você tem um irmão ou uma irmã?",
+   "pron": "FRÉR — 'è' é aberto e o 'r' vem da garganta",
+   "curiosity": "'Beau-frère' é cunhado: literalmente 'belo-irmão'."
+  },
+  "tf21-04": {
+   "word": "la sœur",
+   "translit": null,
+   "example": "Ma sœur cache mes chaussettes dans le frigo !",
+   "examplePt": "Minha irmã esconde minhas meias na geladeira!",
+   "pron": "SÊR — 'œu' soa 'ê' arredondado; o 'œ' é uma letra só",
+   "curiosity": "'Belle-sœur' é cunhada, e 'sœur' também chama freira, como 'irmã' em português."
+  },
+  "tf21-05": {
+   "word": "le fils",
+   "translit": null,
+   "example": "Son fils joue du violon sous la lune.",
+   "examplePt": "O filho dele toca violino sob a lua.",
+   "pron": "FIS — exceção: o 's' de 'fils' SOA; o plural é igual",
+   "curiosity": "'Un fils à papa' é um filhinho de papai, igualzinho ao português!"
+  },
+  "tf21-06": {
+   "word": "la fille",
+   "translit": null,
+   "example": "Cette fille a trois chats et un perroquet.",
+   "examplePt": "Essa menina tem três gatos e um papagaio.",
+   "pron": "FÍI — 'ille' soa 'i' (como 'fii') e o 'e' final é mudo",
+   "curiosity": "'Fille' é filha E menina: 'ma fille' (minha filha), 'une fille' (uma menina)."
+  },
+  "tf21-07": {
+   "word": "le grand-père",
+   "translit": null,
+   "example": "Mon grand-père raconte des histoires de pirates.",
+   "examplePt": "Meu avô conta histórias de piratas.",
+   "pron": "grã-PÉR — o 'd' de 'grand' é mudo e 'an' é nasal",
+   "curiosity": "O apelido carinhoso de vovô é 'papi'. Dá pra falar em casa!"
+  },
+  "tf21-08": {
+   "word": "la grand-mère",
+   "translit": null,
+   "example": "Ma grand-mère fait les meilleures crêpes du monde !",
+   "examplePt": "Minha avó faz as melhores crepes do mundo!",
+   "pron": "grã-MÉR — o 'd' de 'grand' é mudo e 'an' é nasal",
+   "curiosity": "'Remède de grand-mère' é remédio caseiro: aquele chá que a vovó indica."
+  },
+  "tf21-09": {
+   "word": "l'oncle",
+   "translit": null,
+   "example": "Mon oncle sait faire des tours de magie.",
+   "examplePt": "Meu tio sabe fazer truques de mágica.",
+   "pron": "ÕKL — 'on' é nasal e o 'cle' final é leve",
+   "curiosity": "'L'oncle d'Amérique' (o tio da América) é aquele parente rico que aparece do nada."
+  },
+  "tf21-10": {
+   "word": "la tante",
+   "translit": null,
+   "example": "Ma tante tricote un pull géant pour moi !",
+   "examplePt": "Minha tia tricota um suéter gigante para mim!",
+   "pron": "TÃT — 'an' é nasal e o último 't' soa",
+   "curiosity": "Crianças francesas chamam os tios de 'tonton' e 'tata': apelidos carinhosos."
+  },
+  "tf22-01": {
+   "word": "heureux",
+   "translit": null,
+   "example": "Je suis heureux quand il neige !",
+   "examplePt": "Fico feliz quando neva!",
+   "pron": "ê-RÊ — o 'h' é mudo e 'eu' soa 'ê' arredondado",
+   "curiosity": "'Heureux comme un poisson dans l'eau': feliz como um peixe na água, igual ao português."
+  },
+  "tf22-02": {
+   "word": "triste",
+   "translit": null,
+   "example": "Pourquoi es-tu triste, petit nuage ?",
+   "examplePt": "Por que você está triste, nuvenzinha?",
+   "pron": "TRIST — o 'r' vem da garganta e o 'e' final é mudo",
+   "curiosity": "Igual para ele e ela: je suis triste. Cognato fácil!"
+  },
+  "tf22-03": {
+   "word": "fâché",
+   "translit": null,
+   "example": "Papa est fâché : j'ai peint le chien !",
+   "examplePt": "O papai está bravo: pintei o cachorro!",
+   "pron": "fa-XÊ — 'â' aberto, 'ch' soa 'x' e 'é' final fechado",
+   "curiosity": "'Se fâcher tout rouge' é ficar todo vermelho de raiva, como em português."
+  },
+  "tf22-04": {
+   "word": "effrayé",
+   "translit": null,
+   "example": "Le chat est effrayé par l'aspirateur !",
+   "examplePt": "O gato está assustado com o aspirador!",
+   "pron": "e-frê-IÊ — o 'ay' soa 'éi' e o 'é' final é fechado",
+   "curiosity": "Para 'tenho medo', use 'j'ai peur'. 'Effrayé' descreve quem se assustou."
+  },
+  "tf22-05": {
+   "word": "surpris",
+   "translit": null,
+   "example": "Elle est surprise : un cadeau géant !",
+   "examplePt": "Ela está surpresa: um presente gigante!",
+   "pron": "sür-PRI — 'u' francês e o 's' final é mudo",
+   "curiosity": "Feminino: surprise. A palavra 'surprise' (surpresa) é igual a esse feminino."
+  },
+  "tf22-06": {
+   "word": "fatigué",
+   "translit": null,
+   "example": "Après la course, je suis très fatigué.",
+   "examplePt": "Depois da corrida, estou muito cansado.",
+   "pron": "fa-ti-GÊ — o 'gu' soa como g duro e o 'é' final é fechado",
+   "curiosity": "Gíria: 'Je suis crevé !' (estou estourado) é 'estou morto de cansaço'."
+  },
+  "tf22-07": {
+   "word": "avoir sommeil",
+   "translit": null,
+   "example": "Comment éviter d'avoir sommeil en classe ?",
+   "examplePt": "Como evitar sentir sono na aula?",
+   "pron": "a-VUAR so-MÉI — 'oi' soa 'uá' e 'eil' soa 'éi'",
+   "curiosity": "Em francês se 'tem' sono, fome e medo: avoir sommeil, avoir faim, avoir peur."
+  },
+  "tf22-08": {
+   "word": "s'ennuyer",
+   "translit": null,
+   "example": "Elle s'ennuyait seule sous la pluie.",
+   "examplePt": "Ela se entediava sozinha sob a chuva.",
+   "pron": "sã-nü-IÊ — 'en' é nasal e 'u' francês",
+   "curiosity": "O inglês importou 'ennui' do francês para falar de um tédio profundo."
+  },
+  "tf22-09": {
+   "word": "enthousiaste",
+   "translit": null,
+   "example": "Les enfants sont enthousiastes avant le spectacle !",
+   "examplePt": "As crianças estão animadas antes do espetáculo!",
+   "pron": "ã-tu-zi-ÁST — 'en' é nasal, 'th' soa 't' e 's' soa 'z'",
+   "curiosity": "Vem do grego 'enthousiasmos': 'ter um deus dentro de si'."
+  },
+  "tf22-10": {
+   "word": "nerveux",
+   "translit": null,
+   "example": "Es-tu nerveux avant l'examen de natation ?",
+   "examplePt": "Você está nervoso antes da prova de natação?",
+   "pron": "ner-VÊ — 'eux' soa 'ê' arredondado e o 'x' é mudo",
+   "curiosity": "'Avoir les nerfs à fleur de peau' é estar com os nervos à flor da pele, igual ao português!"
+  },
+  "tf23-01": {
+   "word": "sympathique",
+   "translit": null,
+   "example": "Ton voisin est très sympathique, il sourit toujours.",
+   "examplePt": "Seu vizinho é muito simpático, sempre sorri.",
+   "pron": "sẽ-pa-TIK — 'y' soa 'i', 'in' é nasal e 'th' soa 't'",
+   "curiosity": "No dia a dia, abrevia-se: 'il est sympa'. É uma das gírias mais usadas!"
+  },
+  "tf23-02": {
+   "word": "timide",
+   "translit": null,
+   "example": "Le petit renard est timide au début.",
+   "examplePt": "A raposinha é tímida no começo.",
+   "pron": "ti-MID — o 'i' é fechado e o 'e' final é mudo",
+   "curiosity": "'Timide' vem do latim 'timidus', de 'timere' (temer)."
+  },
+  "tf23-03": {
+   "word": "courageux",
+   "translit": null,
+   "example": "Un chevalier courageux affronte le dragon !",
+   "examplePt": "Um cavaleiro corajoso enfrenta o dragão!",
+   "pron": "ku-ra-JÊ — 'ou' soa 'u', 'g' soa 'j' e 'eux' soa 'ê'",
+   "curiosity": "'Courage' vem de 'cœur': coragem vem do coração!"
+  },
+  "tf23-04": {
+   "word": "paresseux",
+   "translit": null,
+   "example": "Le paresseux de la jungle dort toute la journée.",
+   "examplePt": "O bicho-preguiça da selva dorme o dia todo.",
+   "pron": "pa-re-SÊ — 'eux' soa 'ê' arredondado e o 'x' é mudo",
+   "curiosity": "'Le paresseux' é preguiçoso E bicho-preguiça. Coincidência perfeita!"
+  },
+  "tf23-05": {
+   "word": "généreux",
+   "translit": null,
+   "example": "Elle est généreuse : elle partage tous ses bonbons.",
+   "examplePt": "Ela é generosa: divide todas as suas balas.",
+   "pron": "je-ne-RÊ — 'g' soa 'j' e 'eux' soa 'ê' arredondado",
+   "curiosity": "Uma porção 'généreuse' é uma porção farta: generosidade vale na cozinha também."
+  },
+  "tf23-06": {
+   "word": "têtu",
+   "translit": null,
+   "example": "Papa est têtu comme une mule !",
+   "examplePt": "O papai é teimoso como uma mula!",
+   "pron": "te-TÜ — 'ê' aberto e 'u' francês",
+   "curiosity": "Vem de 'tête' (cabeça): o 'têtu' é o cabeça-dura!"
+  },
+  "tf23-07": {
+   "word": "honnête",
+   "translit": null,
+   "example": "Un enfant honnête rend le portefeuille trouvé.",
+   "examplePt": "Uma criança honesta devolve a carteira achada.",
+   "pron": "o-NÉT — o 'h' é mudo, 'nn' soa 'n' e 'ê' é aberto",
+   "curiosity": "'Honnête' também é 'razoável, decente': 'un prix honnête' é um preço justo."
+  },
+  "tf23-08": {
+   "word": "curieux",
+   "translit": null,
+   "example": "Pourquoi le chat est-il si curieux ?",
+   "examplePt": "Por que o gato é tão curioso?",
+   "pron": "kü-RIÊ — 'u' francês e 'ieux' soa 'iê' arredondado",
+   "curiosity": "'Curieux' pode ser curioso ou estranho: 'un fait curieux' é um fato esquisito."
+  },
+  "tf23-09": {
+   "word": "patient",
+   "translit": null,
+   "example": "Il faut être patient pour pêcher.",
+   "examplePt": "É preciso ser paciente para pescar.",
+   "pron": "pa-SIÃ — 'ti' soa 'si', 'en' é nasal e o 't' final é mudo",
+   "curiosity": "'Avoir une patience d'ange' é ter paciência de anjo: infinita!"
+  },
+  "tf23-10": {
+   "word": "drôle",
+   "translit": null,
+   "example": "Cette blague est vraiment drôle !",
+   "examplePt": "Essa piada é muito engraçada!",
+   "pron": "DRÔL — o 'ô' é fechado e o 'e' final é mudo",
+   "curiosity": "'Drôle de' significa estranho: 'une drôle d'idée' é uma ideia esquisita."
+  },
+  "tf24-01": {
+   "word": "la nostalgie",
+   "translit": null,
+   "example": "J'ai la nostalgie de mon enfance.",
+   "examplePt": "Tenho saudade da minha infância.",
+   "pron": "nos-tal-JI — 'g' suave soa 'j' e o 'ie' final soa 'i'",
+   "curiosity": "Vem do grego: 'nostos' (volta) + 'algos' (dor): a dor de voltar para casa."
+  },
+  "tf24-02": {
+   "word": "la jalousie",
+   "translit": null,
+   "example": "La jalousie rend mon chat tout grincheux.",
+   "examplePt": "O ciúme deixa meu gato todo rabugento.",
+   "pron": "ja-lu-ZI — 'j' de janela, 'ou' soa 'u' e 's' soa 'z'",
+   "curiosity": "'Une jalousie' também é uma persiana de lâminas: mesma palavra!"
+  },
+  "tf24-03": {
+   "word": "la fierté",
+   "translit": null,
+   "example": "Elle pleure de fierté devant son fils.",
+   "examplePt": "Ela chora de orgulho diante do filho.",
+   "pron": "fiér-TÊ — 'ie' soa 'iér' e o 'é' final é fechado",
+   "curiosity": "Quase todas as palavras em -té são femininas: la fierté, la liberté, la beauté."
+  },
+  "tf24-04": {
+   "word": "la honte",
+   "translit": null,
+   "example": "Quelle honte ! J'ai renversé la soupe !",
+   "examplePt": "Que vergonha! Derrubei a sopa!",
+   "pron": "ÕT — o 'h' é mudo, 'on' é nasal e o 'e' final é mudo",
+   "curiosity": "Vergonha se 'tem': avoir honte. E 'Quelle honte !' é 'Que vergonha!'."
+  },
+  "tf24-05": {
+   "word": "l'espoir",
+   "translit": null,
+   "example": "L'espoir renaît avec le premier rayon de soleil.",
+   "examplePt": "A esperança renasce com o primeiro raio de sol.",
+   "pron": "es-PUAR — 'oi' soa 'uá' e o 'r' vem da garganta",
+   "curiosity": "'L'espoir fait vivre' é um provérbio: a esperança faz viver."
+  },
+  "tf24-06": {
+   "word": "la confiance",
+   "translit": null,
+   "example": "Ma confiance en toi est totale.",
+   "examplePt": "Minha confiança em você é total.",
+   "pron": "kõ-fi-ÃS — 'on' e 'an' são nasais e 'c' soa 's'",
+   "curiosity": "Confiar é 'faire confiance à': literalmente 'fazer confiança a'."
+  },
+  "tf24-07": {
+   "word": "l'amitié",
+   "translit": null,
+   "example": "Notre amitié dure depuis la maternelle.",
+   "examplePt": "Nossa amizade dura desde a pré-escola.",
+   "pron": "a-mi-TIÊ — a força cai no final, com 'ié' fechado",
+   "curiosity": "Em cartas, 'Amitiés' no fim equivale a 'um abraço'."
+  },
+  "tf24-08": {
+   "word": "l'amour",
+   "translit": null,
+   "example": "L'amour rend tout plus beau, non ?",
+   "examplePt": "O amor deixa tudo mais bonito, não?",
+   "pron": "a-MUR — 'ou' soa 'u' e o 'r' vem da garganta",
+   "curiosity": "Masculino: l'amour. Em poesia o plural pode ser feminino: de belles amours."
+  },
+  "tf24-09": {
+   "word": "la colère",
+   "translit": null,
+   "example": "Le dragon rugit de colère !",
+   "examplePt": "O dragão ruge de raiva!",
+   "pron": "ko-LÉR — 'è' é aberto e o 'e' final é mudo",
+   "curiosity": "Raiva se diz 'en colère': je suis en colère. A palavra é feminina."
+  },
+  "tf24-10": {
+   "word": "le soulagement",
+   "translit": null,
+   "example": "Quel soulagement : le test est terminé !",
+   "examplePt": "Que alívio: a prova acabou!",
+   "pron": "su-la-je-MÃ — 'ou' soa 'u', 'g' soa 'j' e '-ment' soa 'mã'",
+   "curiosity": "Substantivos em -ment são masculinos: le soulagement, le mouvement."
+  },
+  "tf25-01": {
+   "word": "le médecin",
+   "translit": null,
+   "example": "Le médecin écoute mon cœur battre.",
+   "examplePt": "O médico escuta meu coração bater.",
+   "pron": "med-SẼ — 'é' fechado, 'c' soa 's' e 'in' é nasal",
+   "curiosity": "Mulher médica? 'Une femme médecin': a palavra não muda para o feminino."
+  },
+  "tf25-02": {
+   "word": "le professeur",
+   "translit": null,
+   "example": "Le professeur dessine un dragon au tableau.",
+   "examplePt": "O professor desenha um dragão no quadro.",
+   "pron": "pro-fe-SÊR — 'eur' soa 'êr' e a força cai no final",
+   "curiosity": "Na escola, todo mundo diz 'le prof'. Abreviação carinhosa e comum!"
+  },
+  "tf25-03": {
+   "word": "le cuisinier",
+   "translit": null,
+   "example": "Le cuisinier jongle avec trois poêles !",
+   "examplePt": "O cozinheiro faz malabarismo com três panelas!",
+   "pron": "küi-zi-NIÊ — 'ui' soa 'üi', 's' soa 'z' e 'ier' soa 'iê'",
+   "curiosity": "Feminino: cuisinière, que também é o fogão! Duplo sentido."
+  },
+  "tf25-04": {
+   "word": "le chauffeur",
+   "translit": null,
+   "example": "Le chauffeur de bus connaît chaque rue.",
+   "examplePt": "O motorista de ônibus conhece cada rua.",
+   "pron": "xo-FÊR — 'ch' soa 'x', 'au' soa 'ô' e 'eur' soa 'êr'",
+   "curiosity": "Nosso 'chofer' vem dele! Vem de 'chauffer', aquecer, dos primeiros carros a vapor."
+  },
+  "tf25-05": {
+   "word": "le pompier",
+   "translit": null,
+   "example": "Le pompier sauve un chat sur le toit !",
+   "examplePt": "O bombeiro salva um gato no telhado!",
+   "pron": "põ-PIÊ — 'on' é nasal e 'ier' soa 'iê'",
+   "curiosity": "Na França, os pompiers atendem pelo 18. Emergência europeia: 112."
+  },
+  "tf25-06": {
+   "word": "le policier",
+   "translit": null,
+   "example": "Le policier dirige la circulation avec un sourire.",
+   "examplePt": "O policial dirige o trânsito com um sorriso.",
+   "pron": "po-li-SIÊ — 'c' soa 's' e 'ier' soa 'iê'",
+   "curiosity": "Romance policial é 'roman policier', abreviado para 'un polar'."
+  },
+  "tf25-07": {
+   "word": "le dentiste",
+   "translit": null,
+   "example": "Le dentiste sourit quand j'ouvre grand la bouche.",
+   "examplePt": "O dentista sorri quando abro bem a boca.",
+   "pron": "dã-TIST — 'en' é nasal e o 't' de 'tiste' soa",
+   "curiosity": "Igual para homem e mulher: le dentiste, la dentiste."
+  },
+  "tf25-08": {
+   "word": "l'infirmier",
+   "translit": null,
+   "example": "L'infirmier me met un pansement coloré.",
+   "examplePt": "O enfermeiro me coloca um curativo colorido.",
+   "pron": "ẽ-fir-MIÊ — 'in' é nasal e 'ier' soa 'iê'",
+   "curiosity": "Feminino 'infirmière'; 'infirmerie' é a enfermaria da escola."
+  },
+  "tf25-09": {
+   "word": "l'ingénieur",
+   "translit": null,
+   "example": "L'ingénieur dessine un pont immense.",
+   "examplePt": "O engenheiro desenha uma ponte imensa.",
+   "pron": "ẽ-je-ni-ÊR — 'in' é nasal, 'g' soa 'j' e 'eur' soa 'êr'",
+   "curiosity": "Mulher engenheira: 'une ingénieure' é a forma que muita gente usa hoje."
+  },
+  "tf25-10": {
+   "word": "l'avocat",
+   "translit": null,
+   "example": "L'avocat défend son client avec passion.",
+   "examplePt": "O advogado defende seu cliente com paixão.",
+   "pron": "a-vo-KA — o 't' final é mudo e a força cai no final",
+   "curiosity": "'Avocat' é advogado E abacate! O contexto decide."
+  },
+  "tf26-01": {
+   "word": "la réunion",
+   "translit": null,
+   "example": "La réunion dure trois heures, quelle torture !",
+   "examplePt": "A reunião dura três horas, que tortura!",
+   "pron": "re-ü-NIÕ — 'u' francês e 'on' nasal",
+   "curiosity": "'La Réunion' é também uma ilha francesa no Oceano Índico."
+  },
+  "tf26-02": {
+   "word": "le salaire",
+   "translit": null,
+   "example": "Mon salaire arrive à la fin du mois.",
+   "examplePt": "Meu salário chega no fim do mês.",
+   "pron": "sa-LÉR — 'ai' soa 'é' aberto e o 'r' vem da garganta",
+   "curiosity": "O salário mínimo francês se chama SMIC, e se diz 'smique'."
+  },
+  "tf26-03": {
+   "word": "le patron",
+   "translit": null,
+   "example": "Mon patron adore le café très fort.",
+   "examplePt": "Meu chefe adora café bem forte.",
+   "pron": "pa-TRÕ — 'on' é nasal e o 'n' não soa",
+   "curiosity": "'Un patron' também é o molde de costura: aquele papel para cortar uma roupa."
+  },
+  "tf26-04": {
+   "word": "le collègue",
+   "translit": null,
+   "example": "Mon collègue apporte des croissants le lundi !",
+   "examplePt": "Meu colega traz croissants às segundas!",
+   "pron": "ko-LÉG — 'gu' tem g duro e 'è' é aberto",
+   "curiosity": "'Collège' é o ginásio francês: não confunda com 'collègue', o colega de trabalho."
+  },
+  "tf26-05": {
+   "word": "le contrat",
+   "translit": null,
+   "example": "Signe le contrat avant vendredi, s'il te plaît.",
+   "examplePt": "Assine o contrato antes de sexta, por favor.",
+   "pron": "kõ-TRA — 'on' é nasal e o 't' final é mudo",
+   "curiosity": "O 'CDI' (contrat à durée indéterminée) é o sonho de emprego fixo na França."
+  },
+  "tf26-06": {
+   "word": "le CV",
+   "translit": null,
+   "example": "As-tu envoyé ton CV à l'entreprise ?",
+   "examplePt": "Você enviou seu currículo à empresa?",
+   "pron": "sê-VÊ — leia as letras: C = 'sê' e V = 'vê'",
+   "curiosity": "CV vem do latim 'curriculum vitae': 'percurso de vida'."
+  },
+  "tf26-07": {
+   "word": "l'entretien",
+   "translit": null,
+   "example": "L'entretien d'embauche commence dans cinq minutes !",
+   "examplePt": "A entrevista de emprego começa em cinco minutos!",
+   "pron": "ã-tre-TIẼ — 'en' é nasal e 'ien' soa 'iẽ'",
+   "curiosity": "'Entretien' é entrevista (de 'entretenir'), não 'entretenimento'!"
+  },
+  "tf26-08": {
+   "word": "l'e-mail",
+   "translit": null,
+   "example": "J'ai reçu un e-mail du père Noël !",
+   "examplePt": "Recebi um e-mail do Papai Noel!",
+   "pron": "i-MÉL — soa como no inglês, com 'é' aberto e o 'l' final",
+   "curiosity": "O termo oficial recomendado é 'courriel', mais usado no Québec."
+  },
+  "tf26-09": {
+   "word": "la date limite",
+   "translit": null,
+   "example": "La date limite est demain : courage !",
+   "examplePt": "O prazo termina amanhã: coragem!",
+   "pron": "dat li-MIT — o 'e' final é mudo e o 'i' é fechado",
+   "curiosity": "Literalmente 'data limite'. Para 'no prazo', diz-se 'dans les délais'."
+  },
+  "tf26-10": {
+   "word": "l'entreprise",
+   "translit": null,
+   "example": "Cette entreprise fabrique des jouets en bois.",
+   "examplePt": "Esta empresa fabrica brinquedos de madeira.",
+   "pron": "ã-tre-PRIZ — 'en' é nasal e o 's' soa 'z'",
+   "curiosity": "O verbo 'entreprendre' (empreender) deu origem a 'entreprise'; o 'entrepreneur' é o empreendedor."
+  },
+  "tf27-01": {
+   "word": "l'ambulance",
+   "translit": null,
+   "example": "L'ambulance arrive avec sa sirène bruyante !",
+   "examplePt": "A ambulância chega com sua sirene barulhenta!",
+   "pron": "ã-bü-LÃS — 'am' e 'an' são nasais e 'u' francês",
+   "curiosity": "O SAMU francês atende pelo 15. O 15 chama a ambulância."
+  },
+  "tf27-02": {
+   "word": "l'incendie",
+   "translit": null,
+   "example": "Un incendie dans la forêt ? Appelle les pompiers !",
+   "examplePt": "Um incêndio na floresta? Chame os bombeiros!",
+   "pron": "ẽ-sã-DI — 'in' e 'en' são nasais e o 'ie' final soa 'i'",
+   "curiosity": "Os bombeiros de Paris são militares, ligados ao Exército francês."
+  },
+  "tf27-03": {
+   "word": "l'accident",
+   "translit": null,
+   "example": "Il y a eu un accident sur l'autoroute.",
+   "examplePt": "Houve um acidente na rodovia.",
+   "pron": "ak-si-DÃ — 'cc' soa 'ks' e 'en' é nasal",
+   "curiosity": "O 'constat amiable' é o formulário que as pessoas preenchem juntas depois de uma batida."
+  },
+  "tf27-04": {
+   "word": "blessé",
+   "translit": null,
+   "example": "Le joueur blessé quitte le terrain en boitant.",
+   "examplePt": "O jogador ferido sai do campo mancando.",
+   "pron": "ble-SÊ — 'ss' soa 's' e o 'é' final é fechado",
+   "curiosity": "Feminino: blessée. O verbo é 'blesser', ferir."
+  },
+  "tf27-05": {
+   "word": "la fièvre",
+   "translit": null,
+   "example": "Maman dit que j'ai de la fièvre.",
+   "examplePt": "A mamãe diz que estou com febre.",
+   "pron": "FIÉVR — 'ie' soa 'ié' e o 'vre' final é leve",
+   "curiosity": "Febre se 'tem': avoir de la fièvre. Não se 'é' febre!"
+  },
+  "tf27-06": {
+   "word": "le médicament",
+   "translit": null,
+   "example": "Prends ce médicament avec un grand verre d'eau.",
+   "examplePt": "Tome este remédio com um copo grande d'água.",
+   "pron": "me-di-ka-MÃ — '-ent' soa 'mã' e o 't' é mudo",
+   "curiosity": "'Médicament' = remédio; 'médecin' = médico. Parecem, mas são diferentes!"
+  },
+  "tf27-07": {
+   "word": "l'alarme",
+   "translit": null,
+   "example": "L'alarme sonne à trois heures du matin !",
+   "examplePt": "O alarme toca às três da manhã!",
+   "pron": "a-LARM — o 'r' vem da garganta e o 'e' final é mudo",
+   "curiosity": "Feminina em francês: l'alarme. Em português, 'o alarme' é masculino!"
+  },
+  "tf27-08": {
+   "word": "les urgences",
+   "translit": null,
+   "example": "Direction les urgences, vite !",
+   "examplePt": "Direção ao pronto-socorro, rápido!",
+   "pron": "ür-JÃS — 'u' francês, 'g' soa 'j' e 'en' é nasal",
+   "curiosity": "Sempre no plural: les urgences. 'Urgence' no singular é a urgência."
+  },
+  "tf27-09": {
+   "word": "l'inondation",
+   "translit": null,
+   "example": "L'inondation recouvre toute la rue !",
+   "examplePt": "A enchente cobre a rua inteira!",
+   "pron": "i-nõ-da-SIÕ — 'on' é nasal e '-tion' soa 'siõ'",
+   "curiosity": "Termina em '-tion', que soa 'siõ'. Feminina como todo substantivo em -tion."
+  },
+  "tf27-10": {
+   "word": "la panne de courant",
+   "translit": null,
+   "example": "Une panne de courant plonge la ville dans le noir.",
+   "examplePt": "Um apagão mergulha a cidade no escuro.",
+   "pron": "pan de ku-RÃ — 'an' é nasal, 'ou' soa 'u' e 'nn' soa 'n'",
+   "curiosity": "'En panne' é quebrado ou parado: 'ma voiture est en panne'."
+  },
+  "tf28-01": {
+   "word": "C'est combien ?",
+   "translit": null,
+   "example": "Excusez-moi, c'est combien pour ces trois pommes ?",
+   "examplePt": "Com licença, quanto custam estas três maçãs?",
+   "pron": "sé kõ-BIẼ — 'on' e 'ien' são nasais",
+   "curiosity": "Mais formal: 'Combien ça coûte ?'. Mas 'C'est combien ?' é a mais usada."
+  },
+  "tf28-02": {
+   "word": "Où sont les toilettes ?",
+   "translit": null,
+   "example": "Pardon, où sont les toilettes, s'il vous plaît ?",
+   "examplePt": "Perdão, onde ficam os banheiros, por favor?",
+   "pron": "u sõ lê tua-LÉT — 'où' soa 'u', 'oi' soa 'uá' e o 't' soa",
+   "curiosity": "Em francês é plural: 'les toilettes'. 'Salle de bain' é onde se toma banho."
+  },
+  "tf28-03": {
+   "word": "Je n'ai pas compris",
+   "translit": null,
+   "example": "Désolé, je n'ai pas compris votre question.",
+   "examplePt": "Desculpe, não entendi sua pergunta.",
+   "pron": "jê né pa kõ-PRI — 'on' é nasal e o 's' final é mudo",
+   "curiosity": "Negação em duas partes: ne ... pas. Na fala, muita gente corta o 'ne'."
+  },
+  "tf28-04": {
+   "word": "Parlez plus lentement",
+   "translit": null,
+   "example": "Parlez plus lentement, s'il vous plaît, je débute !",
+   "examplePt": "Fale mais devagar, por favor, estou começando!",
+   "pron": "par-LÊ plü lãt-MÃ — 'u' francês e 'an', 'en' nasais",
+   "curiosity": "Imperativo formal em -ez. Entre amigos: 'Parle plus lentement'."
+  },
+  "tf28-05": {
+   "word": "Pouvez-vous répéter ?",
+   "translit": null,
+   "example": "Pouvez-vous répéter la dernière phrase, s'il vous plaît ?",
+   "examplePt": "Pode repetir a última frase, por favor?",
+   "pron": "pu-vê-VU re-pe-TÊ — 'ou' soa 'u' e a força cai no final",
+   "curiosity": "Inversão = tom formal. Entre amigos: 'Tu peux répéter ?'."
+  },
+  "tf28-06": {
+   "word": "J'ai besoin d'aide",
+   "translit": null,
+   "example": "Au secours, j'ai besoin d'aide, ma voiture est bloquée !",
+   "examplePt": "Socorro, preciso de ajuda, meu carro está preso!",
+   "pron": "jê be-ZUẼ DÉD — 'oin' soa 'uẽ' nasal e 'aide' soa 'éd'",
+   "curiosity": "'Avoir besoin de' = precisar de. Diante de vogal: 'd'aide'."
+  },
+  "tf28-07": {
+   "word": "Je suis perdu",
+   "translit": null,
+   "example": "Je suis perdu dans cette grande gare.",
+   "examplePt": "Estou perdido nesta grande estação.",
+   "pron": "jê süi per-DÜ — 'ui' soa 'üi' e 'u' francês no final",
+   "curiosity": "Mulher diz 'je suis perdue' (e extra). Na pronúncia, igual!"
+  },
+  "tf28-08": {
+   "word": "L'addition, s'il vous plaît",
+   "translit": null,
+   "example": "Monsieur, l'addition, s'il vous plaît ! Le dessert était parfait.",
+   "examplePt": "Senhor, a conta, por favor! A sobremesa estava perfeita.",
+   "pron": "la-di-SIÕ sil vu PLÉ — 'tion' soa 'siõ' e 'aî' soa 'é'",
+   "curiosity": "'Addition' é conta de restaurante, não só adição. 'Le compte' é o da conta bancária."
+  },
+  "tf28-09": {
+   "word": "J'ai faim",
+   "translit": null,
+   "example": "J'ai faim ! Y a-t-il encore des crêpes ?",
+   "examplePt": "Estou com fome! Ainda tem crepes?",
+   "pron": "jê FẼ — 'ai' soa 'é' e 'aim' é nasal, sem 'm'",
+   "curiosity": "'Faim' (fome) e 'fin' (fim) soam igual: 'fẽ'. Homófonas!"
+  },
+  "tf28-10": {
+   "word": "J'ai soif",
+   "translit": null,
+   "example": "J'ai soif ! Passe-moi la bouteille d'eau, vite !",
+   "examplePt": "Estou com sede! Me passe a garrafa d'água, rápido!",
+   "pron": "jê SUAF — 'oi' soa 'uá' e o 'f' final SOA",
+   "curiosity": "'Rester sur sa soif' (ficar com sede) é ficar querendo mais, insatisfeito."
+  },
+  "tf29-01": {
+   "word": "Bonne chance !",
+   "translit": null,
+   "example": "Bonne chance pour ton examen demain !",
+   "examplePt": "Boa sorte na sua prova amanhã!",
+   "pron": "bón XÃS — 'ch' soa 'x', 'an' é nasal e 'ce' soa 's'",
+   "curiosity": "Falso amigo: 'chance' é sorte. Oportunidade em francês é 'occasion'."
+  },
+  "tf29-02": {
+   "word": "Pas de problème",
+   "translit": null,
+   "example": "Pas de problème, je t'aide à porter ça !",
+   "examplePt": "Sem problemas, eu te ajudo a carregar isso!",
+   "pron": "pa de pro-BLÉM — 'è' é aberto e o 'e' final é mudo",
+   "curiosity": "Muito usado também: 'pas de souci' (sem preocupação)."
+  },
+  "tf29-03": {
+   "word": "Joyeux anniversaire !",
+   "translit": null,
+   "example": "Joyeux anniversaire ! Souffle les bougies vite !",
+   "examplePt": "Feliz aniversário! Sopre as velinhas rápido!",
+   "pron": "jua-IÊ a-ni-ver-SÉR — 'oy' soa 'uai' e 'eux' soa 'ê' arredondado",
+   "curiosity": "Na França, não se canta 'Parabéns': canta-se 'Joyeux anniversaire' na mesma melodia."
+  },
+  "tf29-04": {
+   "word": "Quel dommage !",
+   "translit": null,
+   "example": "Quel dommage ! Le pique-nique est annulé à cause de la pluie.",
+   "examplePt": "Que pena! O piquenique foi cancelado por causa da chuva.",
+   "pron": "kél do-MÁJ — 'qu' soa 'k' e 'g' suave soa 'j'",
+   "curiosity": "'Quel' + substantivo masculino; com feminino, 'quelle': Quelle surprise !"
+  },
+  "tf29-05": {
+   "word": "C'est super !",
+   "translit": null,
+   "example": "C'est super ! Tu as gagné un voyage à Paris ?",
+   "examplePt": "Que legal! Você ganhou uma viagem a Paris?",
+   "pron": "sé sü-PÉR — 'u' francês e o 'r' final soa",
+   "curiosity": "'Super' é o curinga: super, génial, chouette, top. Dá para variar!"
+  },
+  "tf29-06": {
+   "word": "Faites comme chez vous",
+   "translit": null,
+   "example": "Entrez, faites comme chez vous, le canapé est à vous !",
+   "examplePt": "Entre, fique à vontade, o sofá é seu!",
+   "pron": "fét kóm xê VU — 'ai' soa 'é', 'ch' soa 'x' e 'ou' soa 'u'",
+   "curiosity": "Frase de anfitrião: literalmente 'faça como na sua casa'. Igual ao português!"
+  },
+  "tf29-07": {
+   "word": "À tes souhaits !",
+   "translit": null,
+   "example": "Atchoum ! Oh, à tes souhaits, mon ami !",
+   "examplePt": "Atchim! Ah, saúde, meu amigo!",
+   "pron": "a té su-É — 'ou' soa 'u' e o 'h' de 'souhaits' é mudo",
+   "curiosity": "'Atchoum' é o 'atchim' francês. E 'à tes souhaits' = aos teus desejos."
+  },
+  "tf29-08": {
+   "word": "Bon appétit !",
+   "translit": null,
+   "example": "Bon appétit ! La soupe est encore brûlante.",
+   "examplePt": "Bom apetite! A sopa ainda está fervendo.",
+   "pron": "bõ na-pe-TI — liga o 'n' de 'bon' ao 'a' e o 't' final é mudo",
+   "curiosity": "Na França, se diz 'bon appétit' antes de todos começarem a comer."
+  },
+  "tf29-09": {
+   "word": "Bon voyage !",
+   "translit": null,
+   "example": "Bon voyage ! Envoie-moi une carte postale !",
+   "examplePt": "Boa viagem! Me mande um cartão-postal!",
+   "pron": "bõ vua-IAJ — 'oy' soa 'uai' e o 'g' suave soa 'j'",
+   "curiosity": "'Bon voyage' é tão usada que o inglês também a adotou."
+  },
+  "tf29-10": {
+   "word": "Prends soin de toi !",
+   "translit": null,
+   "example": "Prends soin de toi, mon cher ami, à bientôt !",
+   "examplePt": "Cuide-se, meu querido amigo, até logo!",
+   "pron": "prã suẽ de TUÁ — 'an' é nasal, 'oin' soa 'uẽ' e 'oi' soa 'uá'",
+   "curiosity": "Informal (tu/toi). Formal: 'Prenez soin de vous'. Despedida carinhosa!"
+  },
+  "tf30-01": {
+   "word": "En fait",
+   "translit": null,
+   "example": "En fait, je préfère le thé au café.",
+   "examplePt": "Na verdade, prefiro chá a café.",
+   "pron": "ã FÉT — 'en' é nasal e o 't' final soa",
+   "curiosity": "Cuidado: 'actuellement' é 'atualmente', não 'na verdade'. Use 'en fait'."
+  },
+  "tf30-02": {
+   "word": "Par exemple",
+   "translit": null,
+   "example": "Aimes-tu les fruits, par exemple les fraises ?",
+   "examplePt": "Você gosta de frutas, por exemplo morangos?",
+   "pron": "par eg-ZÃPL — 'x' soa 'gz', 'em' é nasal e o 'le' final é leve",
+   "curiosity": "'Par exemple !' sozinha é uma exclamação de espanto: 'Essa agora!'."
+  },
+  "tf30-03": {
+   "word": "Au moins",
+   "translit": null,
+   "example": "Au moins, il ne pleut plus dehors !",
+   "examplePt": "Pelo menos, não está mais chovendo lá fora!",
+   "pron": "ô MUẼ — 'au' soa 'ô', 'oin' soa 'uẽ' e o 's' é mudo",
+   "curiosity": "'Plus ou moins' é 'mais ou menos', com a mesma lógica do português!"
+  },
+  "tf30-04": {
+   "word": "Peu importe",
+   "translit": null,
+   "example": "Peu importe la couleur, j'adore ce chapeau !",
+   "examplePt": "Tanto faz a cor, adoro este chapéu!",
+   "pron": "pê ẽ-PORT — 'eu' soa 'ê', 'im' é nasal e o 't' final é mudo",
+   "curiosity": "Sinônimo comum: 'ça m'est égal', literalmente 'isso me é igual'."
+  },
+  "tf30-05": {
+   "word": "Pas question",
+   "translit": null,
+   "example": "Pas question de manger des escargots crus !",
+   "examplePt": "Nem pensar em comer escargots crus!",
+   "pron": "pa kés-TIÕ — 'qu' soa 'k' e 'on' final é nasal",
+   "curiosity": "Frase seca, sem verbo: 'Pas question' = nem pensar. Direto ao ponto!"
+  },
+  "tf30-06": {
+   "word": "Ça vaut la peine",
+   "translit": null,
+   "example": "Ça vaut la peine de visiter ce petit village.",
+   "examplePt": "Vale a pena visitar esta vila pequena.",
+   "pron": "sa VÔ la PÉN — 'au' soa 'ô' e 'ei' soa 'é' aberto",
+   "curiosity": "Informal: 'ça vaut le coup'. O verbo 'valoir' vale muito."
+  },
+  "tf30-07": {
+   "word": "Sans aucun doute",
+   "translit": null,
+   "example": "Sans aucun doute, c'est le meilleur gâteau !",
+   "examplePt": "Sem dúvida, é o melhor bolo!",
+   "pron": "sã-zô-kẽ DUT — 'an' e 'un' nasais; 'ou' soa 'u'",
+   "curiosity": "'Sans doute' sozinho significa 'provavelmente', não 'sem dúvida'!"
+  },
+  "tf30-08": {
+   "word": "Ça se peut",
+   "translit": null,
+   "example": "Il pleuvra demain ? Ça se peut, oui.",
+   "examplePt": "Vai chover amanhã? Pode ser, sim.",
+   "pron": "sa se PÊ — 'eu' soa 'ê' arredondado e o 't' final é mudo",
+   "curiosity": "Em francês elegante, 'posso?' é 'puis-je ?' e não 'peux-je ?': exceção de 'pouvoir'."
+  },
+  "tf30-09": {
+   "word": "Petit à petit",
+   "translit": null,
+   "example": "Petit à petit, je parle mieux le français !",
+   "examplePt": "Aos poucos, falo melhor o francês!",
+   "pron": "pe-ti-ta-pe-TI — liga 'petit à'; os 't' finais são mudos",
+   "curiosity": "Provérbio: 'Petit à petit, l'oiseau fait son nid': devagar se vai longe."
+  },
+  "tf30-10": {
+   "word": "Tout à coup",
+   "translit": null,
+   "example": "Tout à coup, un hibou jaillit de l'arbre !",
+   "examplePt": "De repente, uma coruja salta da árvore!",
+   "pron": "tu-ta-KU — 'ou' soa 'u' e liga o 't' de 'tout' ao 'à'",
+   "curiosity": "Para contar histórias: 'tout à coup' faz o suspense. Sinônimo: 'soudain'."
+  }
+ }
+}

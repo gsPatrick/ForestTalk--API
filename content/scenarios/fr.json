@@ -1,0 +1,855 @@
+{
+ "language": "fr",
+ "scenarios": {
+  "sc01": {
+   "npcName": "Claire",
+   "turns": [
+    {
+     "npc": "Bonjour ! Votre passeport, s'il vous plaît.",
+     "npcPt": "Olá! Passaporte, por favor.",
+     "options": [
+      {
+       "text": "Voici.",
+       "textPt": "Aqui está."
+      },
+      {
+       "text": "Je suis un passeport.",
+       "textPt": "Eu sou um passaporte.",
+       "hint": "Soa como se você fosse o documento. Ao entregar, diga 'Voici.' ou 'Tenez.'"
+      },
+      {
+       "text": "Merci, au revoir.",
+       "textPt": "Obrigado, tchau.",
+       "hint": "Ainda não é hora de se despedir: primeiro entregue o documento."
+      }
+     ]
+    },
+    {
+     "npc": "Vous avez une valise ?",
+     "npcPt": "Você tem uma mala?",
+     "options": [
+      {
+       "text": "Oui, je suis content.",
+       "textPt": "Sim, estou feliz.",
+       "hint": "Não responde ao que foi perguntado."
+      },
+      {
+       "text": "Oui, une valise.",
+       "textPt": "Sim, uma mala."
+      },
+      {
+       "text": "J'aime les valises.",
+       "textPt": "Eu gosto de malas.",
+       "hint": "É uma frase possível, mas não responde: diga se tem ou não mala."
+      }
+     ]
+    },
+    {
+     "npc": "Côté fenêtre ou côté couloir ?",
+     "npcPt": "Janela ou corredor?",
+     "options": [
+      {
+       "text": "Oui, s'il vous plaît.",
+       "textPt": "Sim, por favor.",
+       "hint": "A pergunta oferece duas opções; 'oui' não escolhe nenhuma. Diga 'Côté fenêtre'."
+      },
+      {
+       "text": "Le siège est bon.",
+       "textPt": "Assento é bom.",
+       "hint": "Frase estranha e sem escolha. Diga qual lugar você quer."
+      },
+      {
+       "text": "Côté fenêtre, s'il vous plaît.",
+       "textPt": "Janela, por favor."
+      }
+     ]
+    },
+    {
+     "npc": "Voici votre carte d'embarquement.",
+     "npcPt": "Aqui está seu cartão de embarque.",
+     "options": [
+      {
+       "text": "Merci ! Quelle est la porte ?",
+       "textPt": "Obrigado! Qual é o portão?"
+      },
+      {
+       "text": "Je vous en prie.",
+       "textPt": "De nada.",
+       "hint": "'Je vous en prie' é o que quem atende diz, não o passageiro. Aqui agradeça: 'Merci'."
+      },
+      {
+       "text": "Bonsoir, monsieur.",
+       "textPt": "Boa noite, senhor.",
+       "hint": "Fora de contexto: você ainda precisa saber o portão."
+      }
+     ]
+    }
+   ]
+  },
+  "sc02": {
+   "npcName": "Julien",
+   "turns": [
+    {
+     "npc": "Bienvenue ! Combien de personnes ?",
+     "npcPt": "Bem-vindo! Quantas pessoas?",
+     "options": [
+      {
+       "text": "Je vais bien.",
+       "textPt": "Estou bem.",
+       "hint": "Responde a 'Comment allez-vous ?', não à quantidade de pessoas. Diga 'Deux, s'il vous plaît'."
+      },
+      {
+       "text": "Deux, s'il vous plaît.",
+       "textPt": "Duas, por favor."
+      },
+      {
+       "text": "Une table est grande.",
+       "textPt": "Uma mesa é grande.",
+       "hint": "Não responde à pergunta. Diga o número de pessoas."
+      }
+     ]
+    },
+    {
+     "npc": "Que désirez-vous ?",
+     "npcPt": "O que você gostaria?",
+     "options": [
+      {
+       "text": "J'aime la pizza.",
+       "textPt": "Eu gosto de pizza.",
+       "hint": "'J'aime' fala de gosto geral. Para pedir, use 'Je voudrais...' ou 'Une pizza, s'il vous plaît'."
+      },
+      {
+       "text": "Donne-moi une pizza !",
+       "textPt": "Me dá pizza!",
+       "hint": "O imperativo seco soa mandão. Prefira 'Je voudrais une pizza, s'il vous plaît.'"
+      },
+      {
+       "text": "Une pizza, s'il vous plaît.",
+       "textPt": "Uma pizza, por favor."
+      }
+     ]
+    },
+    {
+     "npc": "Quelque chose à boire ?",
+     "npcPt": "Algo para beber?",
+     "options": [
+      {
+       "text": "De l'eau, s'il vous plaît.",
+       "textPt": "Água, por favor."
+      },
+      {
+       "text": "Je bois, oui.",
+       "textPt": "Eu bebo, sim.",
+       "hint": "Estranho: diga o que você quer beber."
+      },
+      {
+       "text": "Pas manger, merci.",
+       "textPt": "Não comer, obrigado.",
+       "hint": "'Manger' é comer, e a pergunta é sobre bebida. Também falta gramática: diga 'Non, merci.'"
+      }
+     ]
+    },
+    {
+     "npc": "Voici votre plat. Bon appétit !",
+     "npcPt": "Aqui está sua comida. Aproveite!",
+     "options": [
+      {
+       "text": "Je suis désolé.",
+       "textPt": "Sinto muito.",
+       "hint": "Não há motivo para pedir desculpas aqui."
+      },
+      {
+       "text": "Merci ! Ça a l'air bon.",
+       "textPt": "Obrigado! Parece bom."
+      },
+      {
+       "text": "Au revoir !",
+       "textPt": "Tchau!",
+       "hint": "Você acabou de receber a comida; ainda não vai embora."
+      }
+     ]
+    }
+   ]
+  },
+  "sc03": {
+   "npcName": "Lucas",
+   "turns": [
+    {
+     "npc": "Salut ! Je suis Lucas. Tu t'appelles comment ?",
+     "npcPt": "Oi! Eu sou o Sam. Qual é o seu nome?",
+     "options": [
+      {
+       "text": "Je suis appelé Alex.",
+       "textPt": "Eu me chamo Alex.",
+       "hint": "Em francês diz-se 'Je m'appelle Alex' ou 'Moi, c'est Alex'. 'Être appelé' soa estranho."
+      },
+      {
+       "text": "Enchanté ! Moi, c'est Alex.",
+       "textPt": "Prazer! Eu sou o Alex."
+      },
+      {
+       "text": "Ça va bien, merci.",
+       "textPt": "Bem, obrigado.",
+       "hint": "Responde a 'Ça va ?', não ao nome. Diga seu nome."
+      }
+     ]
+    },
+    {
+     "npc": "Enchanté ! Tu viens d'où ?",
+     "npcPt": "Prazer! De onde você é?",
+     "options": [
+      {
+       "text": "Je suis Brésil.",
+       "textPt": "Eu sou Brasil.",
+       "hint": "'Je suis' diz que você É o país. Diga 'Je viens du Brésil' ou 'Je suis brésilien'."
+      },
+      {
+       "text": "Je viens de brésilien.",
+       "textPt": "Eu sou de brasileiro.",
+       "hint": "'Brésil' é o país; 'brésilien' é a nacionalidade. Diga 'du Brésil' ou 'Je suis brésilien'."
+      },
+      {
+       "text": "Je viens du Brésil.",
+       "textPt": "Sou do Brasil."
+      }
+     ]
+    },
+    {
+     "npc": "Qu'est-ce que tu aimes faire ?",
+     "npcPt": "O que você gosta de fazer?",
+     "options": [
+      {
+       "text": "J'aime la musique et le foot.",
+       "textPt": "Eu gosto de música e futebol."
+      },
+      {
+       "text": "Je suis en train d'aimer le foot.",
+       "textPt": "Eu estou gostando de futebol.",
+       "hint": "'Aimer' não se usa com 'en train de'. Diga simplesmente 'J'aime le foot'."
+      },
+      {
+       "text": "J'ai hobby le foot.",
+       "textPt": "Eu tenho hobby futebol.",
+       "hint": "Falta o artigo e soa calcado. Diga 'Mon hobby, c'est le foot' ou 'J'aime le foot'."
+      }
+     ]
+    },
+    {
+     "npc": "Restons en contact. C'est quoi, ton numéro ?",
+     "npcPt": "Vamos manter contato. Qual é o seu número?",
+     "options": [
+      {
+       "text": "Oui, je reste en contact.",
+       "textPt": "Sim, eu fico em contato.",
+       "hint": "Não responde à pergunta: diga o seu número."
+      },
+      {
+       "text": "C'est le 0612345678. Et toi ?",
+       "textPt": "É 555-0123. E o seu?"
+      },
+      {
+       "text": "C'est le 0612345678. Et vous ?",
+       "textPt": "É 555-0123. E você?",
+       "hint": "Entre amigos use 'tu': 'Et toi ?'. 'Vous' soa distante e formal demais."
+      }
+     ]
+    }
+   ]
+  },
+  "sc04": {
+   "npcName": "Antoine",
+   "turns": [
+    {
+     "npc": "Bonsoir. Votre nom, s'il vous plaît ?",
+     "npcPt": "Boa noite. Seu nome, por favor?",
+     "options": [
+      {
+       "text": "Je suis fatigué.",
+       "textPt": "Estou cansado.",
+       "hint": "Pode ser verdade, mas pediram seu nome."
+      },
+      {
+       "text": "Je m'appelle Alex.",
+       "textPt": "Meu nome é Alex."
+      },
+      {
+       "text": "Bonsoir, au revoir.",
+       "textPt": "Boa noite, tchau.",
+       "hint": "Você acabou de chegar; não é hora de se despedir."
+      }
+     ]
+    },
+    {
+     "npc": "Vous avez une réservation ?",
+     "npcPt": "Você tem uma reserva?",
+     "options": [
+      {
+       "text": "Oui, pour deux nuits.",
+       "textPt": "Sim, para duas noites."
+      },
+      {
+       "text": "Oui, j'ai une chambre.",
+       "textPt": "Sim, eu tenho um quarto.",
+       "hint": "Soa como se você já tivesse o quarto. Diga que tem uma reserva."
+      },
+      {
+       "text": "Non, merci.",
+       "textPt": "Não, obrigado.",
+       "hint": "'Non, merci' recusa uma oferta; a pergunta é sobre reserva. Diga 'Oui, j'ai une réservation.'"
+      }
+     ]
+    },
+    {
+     "npc": "Voici votre clé. Chambre 204.",
+     "npcPt": "Aqui está sua chave. Quarto 204.",
+     "options": [
+      {
+       "text": "Où est la clé ?",
+       "textPt": "Onde está a chave?",
+       "hint": "Ela acabou de entregar a chave."
+      },
+      {
+       "text": "Je suis 204.",
+       "textPt": "Eu sou 204.",
+       "hint": "Você não é o número do quarto."
+      },
+      {
+       "text": "Merci. Où est l'ascenseur ?",
+       "textPt": "Obrigado. Onde fica o elevador?"
+      }
+     ]
+    },
+    {
+     "npc": "Là-bas, à gauche.",
+     "npcPt": "Ali, à esquerda.",
+     "options": [
+      {
+       "text": "Pardon, quoi ?",
+       "textPt": "Desculpe, o quê?",
+       "hint": "Pedir para repetir é válido, mas a explicação foi simples; agradecer é mais natural."
+      },
+      {
+       "text": "Super, merci !",
+       "textPt": "Ótimo, obrigado!"
+      },
+      {
+       "text": "Oui, j'aime la gauche.",
+       "textPt": "Sim, eu gosto de esquerda.",
+       "hint": "Não responde nem agradece. Fora de contexto."
+      }
+     ]
+    }
+   ]
+  },
+  "sc05": {
+   "npcName": "Mme Lambert",
+   "turns": [
+    {
+     "npc": "Bonjour. Pouvez-vous faire le point sur le projet ?",
+     "npcPt": "Bom dia. Pode nos atualizar sobre o projeto?",
+     "options": [
+      {
+       "text": "Bien sûr. Le projet avance bien.",
+       "textPt": "Claro. O projeto está indo bem."
+      },
+      {
+       "text": "Le projet est en bon chemin.",
+       "textPt": "O projeto está em bom caminho.",
+       "hint": "Calque. Em francês diga 'sur la bonne voie' ou 'Le projet avance bien'."
+      },
+      {
+       "text": "Non, je ne veux pas.",
+       "textPt": "Não, eu não quero.",
+       "hint": "Seco demais para uma reunião. Diga 'Bien sûr' ou 'Avec plaisir'."
+      }
+     ]
+    },
+    {
+     "npc": "Que reste-t-il à faire ?",
+     "npcPt": "O que ainda precisamos fazer?",
+     "options": [
+      {
+       "text": "Nous avons besoin tester l'appli.",
+       "textPt": "Precisamos testar o app.",
+       "hint": "'Avoir besoin' pede 'de': 'Nous avons besoin de tester', ou 'Nous devons tester'."
+      },
+      {
+       "text": "Nous devons tester l'appli hier.",
+       "textPt": "Temos que testar o app ontem.",
+       "hint": "'Hier' é passado; aqui você fala do que falta fazer. Tire o 'hier'."
+      },
+      {
+       "text": "Il faut encore tester l'appli.",
+       "textPt": "Ainda precisamos testar o aplicativo."
+      }
+     ]
+    },
+    {
+     "npc": "Que pensez-vous du nouveau design ?",
+     "npcPt": "O que você acha do novo design?",
+     "options": [
+      {
+       "text": "Je suis accord, c'est sympa.",
+       "textPt": "Eu sou de acordo, é legal.",
+       "hint": "Falta o 'd': 'Je suis d'accord'. Mas ninguém propôs nada: dê sua opinião."
+      },
+      {
+       "text": "Je trouve ça clair et moderne.",
+       "textPt": "Acho que está claro e moderno."
+      },
+      {
+       "text": "Je ne sais pas, peu importe.",
+       "textPt": "Não sei, tanto faz.",
+       "hint": "Soa desinteressado numa reunião; dê uma opinião: 'Je pense que...'."
+      }
+     ]
+    },
+    {
+     "npc": "Quand pouvez-vous le terminer ?",
+     "npcPt": "Quando você consegue terminar?",
+     "options": [
+      {
+       "text": "Je le termine jusqu'à vendredi.",
+       "textPt": "Eu termino até sexta.",
+       "hint": "'Jusqu'à' é até quando algo continua. Para prazo diga 'd'ici vendredi' ou 'pour vendredi'."
+      },
+      {
+       "text": "Je peux le finir en vendredi.",
+       "textPt": "Consigo terminar em sexta.",
+       "hint": "Dia da semana não leva 'en': diga 'vendredi'. Para prazo, 'd'ici vendredi'."
+      },
+      {
+       "text": "Je peux le finir d'ici vendredi.",
+       "textPt": "Consigo terminar até sexta."
+      }
+     ]
+    }
+   ]
+  },
+  "sc06": {
+   "npcName": "Maxime",
+   "turns": [
+    {
+     "npc": "Salut ! Tu as besoin d'aide ?",
+     "npcPt": "Oi! Você precisa de ajuda?",
+     "options": [
+      {
+       "text": "Oui. Quelle heure est le cours ?",
+       "textPt": "Sim. Qual hora é a aula?",
+       "hint": "Falta a preposição: 'À quelle heure est le cours ?' é a forma para perguntar horário."
+      },
+      {
+       "text": "Oui. Combien coûte le cours ?",
+       "textPt": "Sim. Quanto custa a aula?",
+       "hint": "'Combien' pergunta preço, não horário. Diga 'À quelle heure...'."
+      },
+      {
+       "text": "Oui. À quelle heure est le cours ?",
+       "textPt": "Sim. Que horas é a aula?"
+      }
+     ]
+    },
+    {
+     "npc": "Le cours est à dix heures. Autre question ?",
+     "npcPt": "A aula é às dez. Mais alguma dúvida?",
+     "options": [
+      {
+       "text": "Oui. C'est pour quand, le devoir ?",
+       "textPt": "Sim. Quando é a entrega do trabalho?"
+      },
+      {
+       "text": "Oui. Quand est le devoir pour livrer ?",
+       "textPt": "Sim. Quando é o trabalho para entregar?",
+       "hint": "'Livrer' é entregar mercadoria. Trabalho escolar se 'rend': 'C'est pour quand ?'."
+      },
+      {
+       "text": "Oui. J'ai un doute.",
+       "textPt": "Sim. Eu tenho uma dúvida.",
+       "hint": "'Doute' é incerteza ou desconfiança. Para dúvida de aula diga 'J'ai une question'."
+      }
+     ]
+    },
+    {
+     "npc": "C'est pour lundi. Autre chose ?",
+     "npcPt": "É para segunda. Mais alguma coisa?",
+     "options": [
+      {
+       "text": "Oui. Où est la librairie ?",
+       "textPt": "Sim. Onde fica a livraria?",
+       "hint": "'Librairie' é livraria. Biblioteca é 'bibliothèque'."
+      },
+      {
+       "text": "Oui. Où est la bibliothèque ?",
+       "textPt": "Sim. Onde fica a biblioteca?"
+      },
+      {
+       "text": "Oui. Bibliothèque où est ?",
+       "textPt": "Sim. Biblioteca onde fica?",
+       "hint": "Ordem errada. Em francês: 'Où est la bibliothèque ?'."
+      }
+     ]
+    },
+    {
+     "npc": "Au bout du couloir, à gauche.",
+     "npcPt": "No fim do corredor, à esquerda.",
+     "options": [
+      {
+       "text": "Super, merci ! Elle est ouverte ?",
+       "textPt": "Ótimo, obrigado! Está aberta agora?"
+      },
+      {
+       "text": "Merci. Il est ouvert maintenant ?",
+       "textPt": "Obrigado. Está aberta agora?",
+       "hint": "'Bibliothèque' é feminino: 'Elle est ouverte maintenant ?'."
+      },
+      {
+       "text": "De rien.",
+       "textPt": "De nada.",
+       "hint": "'De rien' responde a um agradecimento; aqui é você quem agradece."
+      }
+     ]
+    }
+   ]
+  },
+  "sc07": {
+   "npcName": "Chloé",
+   "turns": [
+    {
+     "npc": "Bonjour ! Vous cherchez quelque chose ?",
+     "npcPt": "Oi! Você procura algo?",
+     "options": [
+      {
+       "text": "Oui, il me faut une veste.",
+       "textPt": "Sim, preciso de uma jaqueta."
+      },
+      {
+       "text": "Je vous regarde.",
+       "textPt": "Eu olho para você.",
+       "hint": "'Regarder' é olhar para alguém. Para procurar algo, use 'Je cherche une veste'."
+      },
+      {
+       "text": "Oui, je regarde veste.",
+       "textPt": "Sim, eu olho jaqueta.",
+       "hint": "Falta o artigo, e 'regarder' é olhar. Diga 'Je cherche une veste' ou 'Il me faut une veste'."
+      }
+     ]
+    },
+    {
+     "npc": "Quelle est votre taille ?",
+     "npcPt": "Qual é o seu tamanho?",
+     "options": [
+      {
+       "text": "J'ai vingt ans.",
+       "textPt": "Tenho vinte anos.",
+       "hint": "Tamanho não é idade."
+      },
+      {
+       "text": "Ma taille est bleue.",
+       "textPt": "Meu tamanho é azul.",
+       "hint": "Azul é cor; diga o tamanho (S, M, L)."
+      },
+      {
+       "text": "M, je crois.",
+       "textPt": "Médio, acho."
+      }
+     ]
+    },
+    {
+     "npc": "La cabine d'essayage est là-bas.",
+     "npcPt": "O provador é ali.",
+     "options": [
+      {
+       "text": "Je veux dormir là.",
+       "textPt": "Quero dormir lá.",
+       "hint": "Estranho: provador é só para experimentar roupas."
+      },
+      {
+       "text": "Merci. Je vais l'essayer.",
+       "textPt": "Obrigado. Vou experimentar."
+      },
+      {
+       "text": "La chambre est jolie.",
+       "textPt": "O quarto é bonito.",
+       "hint": "Não é um quarto; agradeça e vá experimentar."
+      }
+     ]
+    },
+    {
+     "npc": "Elle vous va bien ?",
+     "npcPt": "Como ficou?",
+     "options": [
+      {
+       "text": "Elle est petite. Une plus grande ?",
+       "textPt": "Está pequeno. Tem um maior?"
+      },
+      {
+       "text": "Elle est trop chère.",
+       "textPt": "É muito caro.",
+       "hint": "Ela perguntou do caimento, não do preço."
+      },
+      {
+       "text": "Je rentre, merci.",
+       "textPt": "Eu caibo, obrigado.",
+       "hint": "Fale da roupa, não de você: 'Elle me va bien' ou 'Elle est trop petite'. 'Je rentre' soa estranho."
+      }
+     ]
+    }
+   ]
+  },
+  "sc08": {
+   "npcName": "Théo",
+   "turns": [
+    {
+     "npc": "Vous avez l'air perdu. Je peux aider ?",
+     "npcPt": "Você parece perdido. Posso ajudar?",
+     "options": [
+      {
+       "text": "Non, je suis touriste.",
+       "textPt": "Não, sou turista.",
+       "hint": "Não é errado, mas você perde a chance de pedir ajuda."
+      },
+      {
+       "text": "Oui, où est la station de métro ?",
+       "textPt": "Sim, onde fica a estação de metrô?"
+      },
+      {
+       "text": "Oui, je suis perdu la rue.",
+       "textPt": "Sim, estou perdido a rua.",
+       "hint": "Falta a preposição e a frase fica confusa. Diga 'Je suis perdu' ou pergunte 'Où est la station ?'"
+      }
+     ]
+    },
+    {
+     "npc": "Continuez tout droit, deux rues.",
+     "npcPt": "Siga reto por duas quadras.",
+     "options": [
+      {
+       "text": "Tout droit, deux rues. Et ensuite ?",
+       "textPt": "Reto duas quadras. E depois?"
+      },
+      {
+       "text": "Je suis allé tout droit hier.",
+       "textPt": "Eu fui reto ontem.",
+       "hint": "Ela deu uma instrução, não falou do passado."
+      },
+      {
+       "text": "Deux rues, c'est loin.",
+       "textPt": "Duas quadras é longe.",
+       "hint": "É um comentário; confirme e pergunte o próximo passo."
+      }
+     ]
+    },
+    {
+     "npc": "Ensuite, tournez à gauche à la banque.",
+     "npcPt": "Depois vire à esquerda no banco.",
+     "options": [
+      {
+       "text": "Tourner gauche est banque ?",
+       "textPt": "Vire esquerda é banco?",
+       "hint": "Pergunta confusa. Confirme com 'À gauche à la banque, c'est ça ?'"
+      },
+      {
+       "text": "Je tourne à droite.",
+       "textPt": "Eu viro à direita.",
+       "hint": "Ela disse esquerda (left), não direita."
+      },
+      {
+       "text": "À gauche à la banque. Compris.",
+       "textPt": "Esquerda no banco. Entendi."
+      }
+     ]
+    },
+    {
+     "npc": "C'est à côté du parc.",
+     "npcPt": "Fica ao lado do parque.",
+     "options": [
+      {
+       "text": "À côté est un parc.",
+       "textPt": "Ao lado é um parque.",
+       "hint": "Frase invertida; não é preciso repetir."
+      },
+      {
+       "text": "Super ! Merci pour votre aide.",
+       "textPt": "Ótimo! Obrigado pela ajuda."
+      },
+      {
+       "text": "Je n'aime pas les parcs.",
+       "textPt": "Não gosto de parques.",
+       "hint": "Fora de contexto: agradeça pela ajuda."
+      }
+     ]
+    }
+   ]
+  },
+  "sc09": {
+   "npcName": "Dr Martin",
+   "turns": [
+    {
+     "npc": "Bonjour. Qu'est-ce qui vous amène ?",
+     "npcPt": "Bom dia. O que traz você aqui?",
+     "options": [
+      {
+       "text": "J'ai eu de la fièvre depuis lundi.",
+       "textPt": "Estou com febre desde segunda.",
+       "hint": "Com 'depuis' use o presente: 'J'ai de la fièvre depuis lundi'. O passé composé não combina."
+      },
+      {
+       "text": "J'en ai marre de ma gorge.",
+       "textPt": "Estou farto da minha garganta.",
+       "hint": "'J'en ai marre de' = estar farto de. Para dor, diga 'J'ai mal à la gorge'."
+      },
+      {
+       "text": "J'ai mal à la gorge depuis des jours.",
+       "textPt": "Estou com dor de garganta há dias."
+      }
+     ]
+    },
+    {
+     "npc": "Avez-vous des allergies ?",
+     "npcPt": "Você tem alguma alergia?",
+     "options": [
+      {
+       "text": "Non, je ne suis pas allergie.",
+       "textPt": "Não, eu não sou alergia.",
+       "hint": "'Allergie' é substantivo: diga 'Je n'ai pas d'allergie' ou 'Je ne suis allergique à rien'."
+      },
+      {
+       "text": "Non, aucune que je sache.",
+       "textPt": "Não, nenhuma que eu saiba."
+      },
+      {
+       "text": "Oui, j'ai une allergie de noix.",
+       "textPt": "Sim, tenho alergia de nozes.",
+       "hint": "A preposição é 'à', não 'de': 'une allergie aux noix' (ou 'allergique aux noix')."
+      }
+     ]
+    },
+    {
+     "npc": "Ouvrez la bouche et dites ah.",
+     "npcPt": "Abra a boca e diga aah.",
+     "options": [
+      {
+       "text": "Ah... C'est grave, docteur ?",
+       "textPt": "Aah... É sério, doutor?"
+      },
+      {
+       "text": "Ah... Est grave ?",
+       "textPt": "Aah... É sério?",
+       "hint": "Falta o sujeito em francês: diga 'C'est grave ?' ou 'Est-ce grave ?'"
+      },
+      {
+       "text": "Je ne veux pas, désolé.",
+       "textPt": "Não quero, desculpe.",
+       "hint": "Seco e incompleto; o exame é importante. Diga 'D'accord' e depois pergunte se é grave."
+      }
+     ]
+    },
+    {
+     "npc": "C'est une infection légère. Reposez-vous, buvez de l'eau.",
+     "npcPt": "É uma infecção leve. Descanse e beba água.",
+     "options": [
+      {
+       "text": "Je dois à me reposer, merci.",
+       "textPt": "Eu devo descansar, obrigado.",
+       "hint": "'Devoir' vem direto antes do infinitivo, sem preposição: 'Je dois me reposer'."
+      },
+      {
+       "text": "Je dois aller à la travail ?",
+       "textPt": "Eu tenho que ir ao trabalho?",
+       "hint": "'Travail' é masculino e a forma é 'au travail': 'Je dois aller au travail ?'"
+      },
+      {
+       "text": "Merci, docteur. Dois-je prendre un médicament ?",
+       "textPt": "Obrigado, doutor. Devo tomar remédio?"
+      }
+     ]
+    }
+   ]
+  },
+  "sc10": {
+   "npcName": "Mme Dubois",
+   "turns": [
+    {
+     "npc": "Merci de votre venue. Présentez-vous.",
+     "npcPt": "Obrigada por vir. Fale sobre você.",
+     "options": [
+      {
+       "text": "Je suis 25 ans et j'aime la pizza.",
+       "textPt": "Tenho 25 anos e gosto de pizza.",
+       "hint": "Idade usa 'avoir': 'J'ai 25 ans'. E a entrevista pede foco profissional, não pizza."
+      },
+      {
+       "text": "Je suis designer, trois ans d'expérience.",
+       "textPt": "Sou designer com três anos de experiência."
+      },
+      {
+       "text": "Mon nom est sur le papier.",
+       "textPt": "Meu nome está no papel.",
+       "hint": "Fora de contexto: ela quer saber da sua experiência."
+      }
+     ]
+    },
+    {
+     "npc": "Pourquoi voulez-vous ce poste ?",
+     "npcPt": "Por que você quer este emprego?",
+     "options": [
+      {
+       "text": "J'aime le travail d'équipe et je veux évoluer.",
+       "textPt": "Gosto de trabalho em equipe e quero crescer."
+      },
+      {
+       "text": "Parce que j'ai besoin d'argent, c'est tout.",
+       "textPt": "Porque preciso de dinheiro, só isso.",
+       "hint": "Honesto, mas mostra pouco interesse pela vaga."
+      },
+      {
+       "text": "Je veux parce que c'est cool.",
+       "textPt": "Quero porque é legal.",
+       "hint": "Falta dizer o motivo ('ce poste'), e 'c'est cool' é vago e informal. Cite algo concreto."
+      }
+     ]
+    },
+    {
+     "npc": "Quel est votre plus grand point fort ?",
+     "npcPt": "Qual é o seu maior ponto forte?",
+     "options": [
+      {
+       "text": "Je suis le meilleur du monde.",
+       "textPt": "Sou o melhor do mundo.",
+       "hint": "Exagerado; prefira algo concreto e humilde."
+      },
+      {
+       "text": "Mon point fort, c'est soulever des poids.",
+       "textPt": "Meu ponto forte é levantar peso.",
+       "hint": "Possível, mas não é relevante para a vaga."
+      },
+      {
+       "text": "Je suis organisé et j'apprends vite.",
+       "textPt": "Sou organizado e aprendo rápido."
+      }
+     ]
+    },
+    {
+     "npc": "Avez-vous des questions pour nous ?",
+     "npcPt": "Você tem alguma pergunta para nós?",
+     "options": [
+      {
+       "text": "Pas de questions. Au revoir.",
+       "textPt": "Sem perguntas. Tchau.",
+       "hint": "Seco demais; mostre interesse."
+      },
+      {
+       "text": "Oui. Comment se passe une journée type ?",
+       "textPt": "Sim. Como é um dia típico?"
+      },
+      {
+       "text": "Oui, combien je gagne demain ?",
+       "textPt": "Sim, quanto vou ganhar amanhã?",
+       "hint": "Salário logo de cara soa estranho, e 'demain' não faz sentido. Formal: 'Combien vais-je gagner ?'"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

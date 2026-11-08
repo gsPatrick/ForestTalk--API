@@ -1,0 +1,2407 @@
+{
+ "game": "true_false",
+ "language": "it",
+ "version": 1,
+ "entries": {
+  "tf01-01": {
+   "word": "la mucca",
+   "translit": null,
+   "example": "Chi ha dipinto la mucca di viola?",
+   "examplePt": "Quem pintou a vaca de roxo?",
+   "pron": "MÚK-ka — o 'cc' é um K dobrado: segure o som antes do 'a'",
+   "curiosity": "'Mucca pazza' é como os italianos chamam a doença da vaca louca."
+  },
+  "tf01-02": {
+   "word": "il maiale",
+   "translit": null,
+   "example": "Il maiale fa il bagno nel fango!",
+   "examplePt": "O porco toma banho de lama!",
+   "pron": "ma-IÁ-le — a força cai no 'iá', no meio da palavra",
+   "curiosity": "Dizem que 'del maiale non si butta via niente': do porco nada se joga fora."
+  },
+  "tf01-03": {
+   "word": "la gallina",
+   "translit": null,
+   "example": "Chi ha rubato l'uovo della gallina?",
+   "examplePt": "Quem roubou o ovo da galinha?",
+   "pron": "gal-LÍ-na — o 'll' é dobrado: segure o L antes do 'í'",
+   "curiosity": "Provérbio: 'Gallina vecchia fa buon brodo', galinha velha faz bom caldo."
+  },
+  "tf01-04": {
+   "word": "il cavallo",
+   "translit": null,
+   "example": "Il cavallo ha mangiato la mia mela!",
+   "examplePt": "O cavalo comeu a minha maçã!",
+   "pron": "ca-VÁL-lo — o 'll' é dobrado, e nada de 'cavalo' com L simples",
+   "curiosity": "O símbolo da Ferrari é um 'cavallino rampante', um cavalinho empinado."
+  },
+  "tf01-05": {
+   "word": "la pecora",
+   "translit": null,
+   "example": "Una pecora nera dorme sul divano!",
+   "examplePt": "Uma ovelha negra dorme no sofá!",
+   "pron": "PÊ-ko-ra — o 'c' antes de 'o' é K, e a força cai no 'pê'",
+   "curiosity": "'Pecora nera' é a 'ovelha negra', a mesma expressão que usamos no Brasil."
+  },
+  "tf01-06": {
+   "word": "l'anatra",
+   "translit": null,
+   "example": "L'anatra fa il bagno nella fontana!",
+   "examplePt": "O pato toma banho na fonte!",
+   "pron": "Á-na-tra — três sílabas com a força na primeira; o 'tr' vem junto",
+   "curiosity": "'Il brutto anatroccolo' é o patinho feio do conto de Andersen."
+  },
+  "tf01-07": {
+   "word": "la capra",
+   "translit": null,
+   "example": "La capra scala la montagna come un'alpinista.",
+   "examplePt": "A cabra escala a montanha como uma alpinista.",
+   "pron": "CÁ-pra — o R vibra de leve, como em 'caro'; 'c' de 'casa'",
+   "curiosity": "'Salvare capra e cavoli' é agradar a todos: salvar a cabra e os repolhos."
+  },
+  "tf01-08": {
+   "word": "l'asino",
+   "translit": null,
+   "example": "L'asino ha mangiato tutta la mia pizza!",
+   "examplePt": "O burro comeu toda a minha pizza!",
+   "pron": "Á-zi-no — o 'S' entre vogais vale Z, como em 'casa'",
+   "curiosity": "'Asino' também é quem estuda pouco: 'sei un asino!' é 'você é um burro!'."
+  },
+  "tf01-09": {
+   "word": "il coniglio",
+   "translit": null,
+   "example": "Il coniglio salta fuori dal cappello del mago!",
+   "examplePt": "O coelho pula para fora do chapéu do mago!",
+   "pron": "ko-NÍ-lho — o 'gli' soa como o 'lh' de 'filho'",
+   "curiosity": "'Coniglio' também é gente medrosa: 'sei un coniglio!' é 'você é um covarde!'."
+  },
+  "tf01-10": {
+   "word": "il tacchino",
+   "translit": null,
+   "example": "Il tacchino scappa prima della festa!",
+   "examplePt": "O peru foge antes da festa!",
+   "pron": "tak-KÍ-no — o 'cch' é um K dobrado, e 'chi' mantém o som K",
+   "curiosity": "Em italiano antigo o peru era chamado 'gallo d'India', por vir das 'Índias'."
+  },
+  "tf02-01": {
+   "word": "il lupo",
+   "translit": null,
+   "example": "Il lupo ulula alla luna piena.",
+   "examplePt": "O lobo uiva para a lua cheia.",
+   "pron": "LÚ-po — o 'u' é puro e fechado, sem virar 'o'",
+   "curiosity": "Segundo a lenda, uma loba amamentou Rômulo e Remo, fundadores de Roma."
+  },
+  "tf02-02": {
+   "word": "l'orso",
+   "translit": null,
+   "example": "L'orso dorme tutto l'inverno, che invidia!",
+   "examplePt": "O urso dorme o inverno inteiro, que inveja!",
+   "pron": "ÓR-so — 'o' aberto e o 'rs' com R vibrante e S surdo",
+   "curiosity": "O ursinho de pelúcia se chama 'orsacchiotto', um 'ursinho' em italiano."
+  },
+  "tf02-03": {
+   "word": "la volpe",
+   "translit": null,
+   "example": "Chi è più furba: la volpe o il gatto?",
+   "examplePt": "Quem é mais esperta: a raposa ou o gato?",
+   "pron": "VÓL-pe — o 'o' é aberto e o 'e' final também é pronunciado",
+   "curiosity": "Em 'Pinocchio', o Gatto e a Volpe são a dupla de trapaceiros que enganam o boneco."
+  },
+  "tf02-04": {
+   "word": "il cervo",
+   "translit": null,
+   "example": "Un cervo mi guarda tra gli alberi!",
+   "examplePt": "Um cervo me olha entre as árvores!",
+   "pron": "TCHÉR-vo — o 'ce' é 'tchê'; o R vibra antes do 'vo'",
+   "curiosity": "O Matterhorn, na fronteira com a Suíça, se chama 'il Cervino' em italiano."
+  },
+  "tf02-05": {
+   "word": "lo scoiattolo",
+   "translit": null,
+   "example": "Lo scoiattolo nasconde le noci sotto terra.",
+   "examplePt": "O esquilo esconde as nozes debaixo da terra.",
+   "pron": "sko-IÁT-to-lo — 'sc' diante de 'o' é 'sk'; 'tt' é dobrado",
+   "curiosity": "Antes de 'sc' o artigo masculino é 'lo', não 'il': lo scoiattolo."
+  },
+  "tf02-06": {
+   "word": "il gufo",
+   "translit": null,
+   "example": "Perché il gufo non dorme mai di notte?",
+   "examplePt": "Por que a coruja não dorme nunca à noite?",
+   "pron": "GÚ-fo — o 'g' é duro como em 'gato' e o 'u' é claro",
+   "curiosity": "O verbo 'gufare' é secar, torcer contra: a coruja virou ave de azar."
+  },
+  "tf02-07": {
+   "word": "il cinghiale",
+   "translit": null,
+   "example": "Un cinghiale corre tra gli alberi!",
+   "examplePt": "Um javali corre entre as árvores!",
+   "pron": "tchin-GUIÁ-le — o 'ngh' mantém o G duro, 'ghia' lê-se 'guia'",
+   "curiosity": "'Pappardelle al cinghiale' é um prato clássico da Toscana: massa com javali."
+  },
+  "tf02-08": {
+   "word": "il tasso",
+   "translit": null,
+   "example": "Il tasso scava una tana sotto la quercia.",
+   "examplePt": "O texugo cava uma toca debaixo do carvalho.",
+   "pron": "TÁS-so — o 'ss' é um S dobrado e longo, sem virar Z",
+   "curiosity": "Tasso é texugo e também 'taxa' (tasso di cambio): uma palavra, dois mundos."
+  },
+  "tf02-09": {
+   "word": "il procione",
+   "translit": null,
+   "example": "Il procione lava la frutta nel ruscello.",
+   "examplePt": "O guaxinim lava a fruta no riacho.",
+   "pron": "pro-TCHIÔ-ne — o 'ci' soa 'tchi' e o 'e' final é pronunciado",
+   "curiosity": "O nome científico do guaxinim, Procyon lotor, quer dizer 'lavador'."
+  },
+  "tf02-10": {
+   "word": "l'alce",
+   "translit": null,
+   "example": "L'alce ha corna enormi, guarda!",
+   "examplePt": "O alce tem chifres enormes, olha!",
+   "pron": "ÁL-tche — o 'ce' final soa 'tche': 'ál' + 'tche'",
+   "curiosity": "O alce é o maior dos cervídeos do mundo, mais alto que um cavalo."
+  },
+  "tf03-01": {
+   "word": "l'albero",
+   "translit": null,
+   "example": "Un albero gigante cresce nel mio giardino!",
+   "examplePt": "Uma árvore gigante cresce no meu jardim!",
+   "pron": "ÁL-be-ro — força no 'ál'; o R é vibrante de leve",
+   "curiosity": "'L'albero genealogico' é a árvore genealógica: a mesma imagem do português."
+  },
+  "tf03-02": {
+   "word": "il fiore",
+   "translit": null,
+   "example": "Questo fiore profuma come una torta!",
+   "examplePt": "Esta flor cheira como um bolo!",
+   "pron": "FIÓ-re — o 'io' é ditongo numa sílaba só, com 'ó' aberto",
+   "curiosity": "'Il fior fiore' é a nata de algo: o melhor de todos, a elite."
+  },
+  "tf03-03": {
+   "word": "la foglia",
+   "translit": null,
+   "example": "Una foglia danza nel vento d'autunno.",
+   "examplePt": "Uma folha dança no vento de outono.",
+   "pron": "FÓ-lha — o 'gli' soa 'lh', como em 'filho'",
+   "curiosity": "'Foglia' é a folha da árvore; a folha de papel é 'il foglio', masculino."
+  },
+  "tf03-04": {
+   "word": "l'erba",
+   "translit": null,
+   "example": "Giochiamo scalzi sull'erba bagnata?",
+   "examplePt": "Brincamos descalços na grama molhada?",
+   "pron": "ÉR-ba — o 'e' é aberto e o R vibra de leve, sem 'ér' arrastado",
+   "curiosity": "Feminina: l'erba. Também vale para as ervas da cozinha, como manjericão."
+  },
+  "tf03-05": {
+   "word": "il fungo",
+   "translit": null,
+   "example": "Attenzione: quel fungo rosso è velenoso!",
+   "examplePt": "Cuidado: aquele cogumelo vermelho é venenoso!",
+   "pron": "FÚN-go — o 'n' é claro e o 'g' é duro como em 'gato'",
+   "curiosity": "O 'fungo porcino' é um cogumelo muito apreciado na culinária italiana."
+  },
+  "tf03-06": {
+   "word": "la radice",
+   "translit": null,
+   "example": "La radice rompe il marciapiede!",
+   "examplePt": "A raiz quebra a calçada!",
+   "pron": "ra-DÍ-tche — força no 'dí'; o 'ce' final soa 'tche'",
+   "curiosity": "'La radice quadrata' é a raiz quadrada na matemática: mesma palavra!"
+  },
+  "tf03-07": {
+   "word": "il seme",
+   "translit": null,
+   "example": "Pianto un seme e aspetto un miracolo.",
+   "examplePt": "Planto uma semente e espero um milagre.",
+   "pron": "SÊ-me — 'e' fechado e M leve, sem nasalizar a vogal",
+   "curiosity": "Em baralho italiano os naipes são 'i semi': coppe, denari, spade e bastoni."
+  },
+  "tf03-08": {
+   "word": "il ramo",
+   "translit": null,
+   "example": "Un uccellino canta sul ramo più alto.",
+   "examplePt": "Um passarinho canta no galho mais alto.",
+   "pron": "RÁ-mo — força no 'rá', com A aberto e R vibrante",
+   "curiosity": "'Ramo' também é ramo de atividade, como 'il ramo medico'."
+  },
+  "tf03-09": {
+   "word": "il cactus",
+   "translit": null,
+   "example": "Mai abbracciare il cactus: che male!",
+   "examplePt": "Nunca abrace o cacto: que dor!",
+   "pron": "KÁK-tus — o 'c' é K e o 'u' é claro; nada de 'cáctos'",
+   "curiosity": "Cactus não muda no plural: il cactus, i cactus. Palavras estrangeiras são invariáveis."
+  },
+  "tf03-10": {
+   "word": "il tulipano",
+   "translit": null,
+   "example": "Ho regalato un tulipano alla maestra.",
+   "examplePt": "Dei um tulipa de presente à professora.",
+   "pron": "tu-li-PÁ-no — a força cai no 'pá', no meio da palavra",
+   "curiosity": "Tulipas viraram febre na Holanda do século XVII: um bulbo chegou a custar uma fortuna."
+  },
+  "tf04-01": {
+   "word": "il sole",
+   "translit": null,
+   "example": "Il sole splende: andiamo al mare?",
+   "examplePt": "O sol brilha: vamos à praia?",
+   "pron": "SÔ-le — o 'o' é fechado e o 'e' final é pronunciado",
+   "curiosity": "'O sole mio' é uma famosa canção napolitana que celebra o sol."
+  },
+  "tf04-02": {
+   "word": "la luna",
+   "translit": null,
+   "example": "Stanotte la luna sorride sul lago.",
+   "examplePt": "Esta noite a lua sorri sobre o lago.",
+   "pron": "LÚ-na — o 'u' é puro e fechado; o 'l' é claro",
+   "curiosity": "'Luna di miele' é a lua de mel: a imagem é igual à do português."
+  },
+  "tf04-03": {
+   "word": "la stella",
+   "translit": null,
+   "example": "Esprimi un desiderio: ecco una stella cadente!",
+   "examplePt": "Faça um desejo: olha uma estrela cadente!",
+   "pron": "STÉL-la — 'st' juntinho, 'll' dobrado e 'é' bem aberto",
+   "curiosity": "A estrela de cinco pontas, o 'stellone', está no emblema oficial da Itália."
+  },
+  "tf04-04": {
+   "word": "la nuvola",
+   "translit": null,
+   "example": "Quella nuvola sembra un coniglio gigante!",
+   "examplePt": "Aquela nuvem parece um coelho gigante!",
+   "pron": "NÚ-vo-la — a força cai na 1ª sílaba, em palavra de três sílabas",
+   "curiosity": "'Avere la testa fra le nuvole' é estar com a cabeça nas nuvens, distraído."
+  },
+  "tf04-05": {
+   "word": "la pioggia",
+   "translit": null,
+   "example": "Sotto la pioggia, i bambini ballano felici.",
+   "examplePt": "Sob a chuva, as crianças dançam felizes.",
+   "pron": "PIÓD-dja — o 'gg' antes de 'i' é um 'dj' dobrado e o 'i' só apoia",
+   "curiosity": "'Piove, governo ladro!' é o resmungo clássico: chove, governo ladrão!"
+  },
+  "tf04-06": {
+   "word": "la neve",
+   "translit": null,
+   "example": "Cade la neve: facciamo un pupazzo?",
+   "examplePt": "A neve cai: vamos fazer um boneco?",
+   "pron": "NÊ-ve — 'e' fechado e V suave; o 'e' final é pronunciado",
+   "curiosity": "Nomes em -e podem ser femininos ou masculinos: la neve, il sole."
+  },
+  "tf04-07": {
+   "word": "il vento",
+   "translit": null,
+   "example": "Il vento ha rubato il mio cappello!",
+   "examplePt": "O vento roubou o meu chapéu!",
+   "pron": "VÉN-to — o 'n' soa claro, sem nasalizar o 'e' como no português",
+   "curiosity": "'Scirocco' e 'tramontana' são nomes italianos de ventos famosos."
+  },
+  "tf04-08": {
+   "word": "l'arcobaleno",
+   "translit": null,
+   "example": "Cerca l'arcobaleno dopo la pioggia!",
+   "examplePt": "Procure o arco-íris depois da chuva!",
+   "pron": "ar-ko-ba-LÊ-no — força no 'lê' e 'e' fechado; 'c' antes de 'o' é K",
+   "curiosity": "Arcobaleno = 'arco' + 'baleno' (relâmpago): literalmente 'arco-relâmpago'."
+  },
+  "tf04-09": {
+   "word": "il tuono",
+   "translit": null,
+   "example": "Il tuono spaventa il mio cagnolino!",
+   "examplePt": "O trovão assusta o meu cachorrinho!",
+   "pron": "TUÓ-no — o 'uo' é ditongo, com 'ó' aberto e a força no 'tuó'",
+   "curiosity": "O trovão é 'il tuono' e o relâmpago, 'il fulmine' ou 'il lampo'."
+  },
+  "tf04-10": {
+   "word": "la nebbia",
+   "translit": null,
+   "example": "Nella nebbia sparisce anche il campanile!",
+   "examplePt": "Na neblina some até o campanário!",
+   "pron": "NÉB-bia — o 'bb' é um B dobrado; segure antes do 'ia'",
+   "curiosity": "A planície do Pó, no norte, é famosa pela nebbia densa no inverno."
+  },
+  "tf05-01": {
+   "word": "la mela",
+   "translit": null,
+   "example": "Una mela al giorno toglie il medico di torno.",
+   "examplePt": "Uma maçã por dia mantém o médico longe.",
+   "pron": "MÊ-la — 'e' fechado e L claro, sem 'mélá'",
+   "curiosity": "A fruta é feminina (la mela); a árvore é masculina (il melo)."
+  },
+  "tf05-02": {
+   "word": "la banana",
+   "translit": null,
+   "example": "Il gorilla ha rubato la mia banana!",
+   "examplePt": "O gorila roubou a minha banana!",
+   "pron": "ba-NÁ-na — os três 'a' são abertos e a força cai no 'ná'",
+   "curiosity": "Botanicamente, a banana é uma baga, mas o morango não é."
+  },
+  "tf05-03": {
+   "word": "l'uva",
+   "translit": null,
+   "example": "Vuoi un grappolo d'uva fresca?",
+   "examplePt": "Quer um cacho de uva fresca?",
+   "pron": "Ú-va — o 'u' é puro e a força cai nele; o 'v' é suave",
+   "curiosity": "Em italiano 'uva' é singular: l'uva è dolce. Um bago é 'un acino'."
+  },
+  "tf05-04": {
+   "word": "la fragola",
+   "translit": null,
+   "example": "Chi ha preso la fragola più grande?",
+   "examplePt": "Quem pegou o morango maior?",
+   "pron": "FRÁ-go-la — força no 'frá'; o 'g' é duro como em 'gato'",
+   "curiosity": "O morango silvestre é 'fragolina di bosco': o -ina faz o diminutivo."
+  },
+  "tf05-05": {
+   "word": "l'anguria",
+   "translit": null,
+   "example": "In estate l'anguria fresca salva tutti!",
+   "examplePt": "No verão a melancia gelada salva todo mundo!",
+   "pron": "an-GÚ-ria — o 'gu' tem U pronunciado e o 'ia' final é ditongo",
+   "curiosity": "Em várias regiões da Itália se diz 'cocomero' em vez de 'anguria'."
+  },
+  "tf05-06": {
+   "word": "il limone",
+   "translit": null,
+   "example": "Il limone è così aspro che tremo!",
+   "examplePt": "O limão é tão azedo que eu tremo!",
+   "pron": "li-MÔ-ne — força no 'mô', 'o' fechado e 'e' final pronunciado",
+   "curiosity": "A Costa Amalfitana é famosa pelos limões e pelo licor 'limoncello'."
+  },
+  "tf05-07": {
+   "word": "la pera",
+   "translit": null,
+   "example": "Una pera matura cade dal ramo!",
+   "examplePt": "Uma pera madura cai do galho!",
+   "pron": "PÊ-ra — 'e' fechado; só um R, vibrante e curto",
+   "curiosity": "A fruta é feminina (la pera) e a árvore é masculina (il pero)."
+  },
+  "tf05-08": {
+   "word": "l'ananas",
+   "translit": null,
+   "example": "Metti l'ananas sulla pizza? Che scandalo!",
+   "examplePt": "Põe abacaxi na pizza? Que escândalo!",
+   "pron": "Á-na-nas — a força cai no início, ao contrário do 'abacaxi'",
+   "curiosity": "'Ananas' vem do tupi, a mesma língua indígena da qual veio 'abacaxi'."
+  },
+  "tf05-09": {
+   "word": "la ciliegia",
+   "translit": null,
+   "example": "Metti una ciliegia sulla torta, per favore.",
+   "examplePt": "Ponha uma cereja no bolo, por favor.",
+   "pron": "tchi-li-É-dja — o 'ci' vira 'tchi' e o 'gia' final vira 'dja'",
+   "curiosity": "'Ciliegina sulla torta' é a cereja do bolo: o toque final perfeito."
+  },
+  "tf05-10": {
+   "word": "il melone",
+   "translit": null,
+   "example": "Questo melone è più grande della mia testa!",
+   "examplePt": "Este melão é maior que a minha cabeça!",
+   "pron": "me-LÔ-ne — força no 'lô' e 'o' fechado; 'e' final pronunciado",
+   "curiosity": "'Prosciutto e melone' é um antepasto clássico italiano: doce com salgado."
+  },
+  "tf06-01": {
+   "word": "l'acqua",
+   "translit": null,
+   "example": "Posso avere un bicchiere d'acqua, per favore?",
+   "examplePt": "Posso tomar um copo d'água, por favor?",
+   "pron": "ÁK-kua — o 'cqu' é um K dobrado seguido de 'ua'",
+   "curiosity": "Na Itália, 'frizzante' é com gás e 'naturale' é sem gás: escolha ao pedir."
+  },
+  "tf06-02": {
+   "word": "il latte",
+   "translit": null,
+   "example": "Il gatto ruba il latte ogni mattina!",
+   "examplePt": "O gato rouba o leite toda manhã!",
+   "pron": "LÁT-te — o 'tt' é dobrado: segure o T antes do 'e' final",
+   "curiosity": "Pedir 'un latte' na Itália traz só leite! Para café com leite: 'caffellatte'."
+  },
+  "tf06-03": {
+   "word": "il succo",
+   "translit": null,
+   "example": "Vuoi un succo di mela o d'arancia?",
+   "examplePt": "Quer um suco de maçã ou de laranja?",
+   "pron": "SÚK-ko — o 'cc' é um K dobrado e o 'u' é claro",
+   "curiosity": "'Succo di frutta' é o suco de caixinha; 'spremuta' é o espremido na hora."
+  },
+  "tf06-04": {
+   "word": "il caffè",
+   "translit": null,
+   "example": "Dopo pranzo, un caffè mi sveglia!",
+   "examplePt": "Depois do almoço, um café me desperta!",
+   "pron": "kaf-FÉ — a força cai no fim: 'é' aberto e o 'ff' dobrado",
+   "curiosity": "No bar italiano, 'un caffè' é um espresso pequeno e forte."
+  },
+  "tf06-05": {
+   "word": "il tè",
+   "translit": null,
+   "example": "Preferisci il tè freddo o caldo?",
+   "examplePt": "Você prefere o chá gelado ou quente?",
+   "pron": "TÉ — curto, com 'é' aberto e sem 'tchê'",
+   "curiosity": "O acento em 'tè' é obrigatório: sem ele, 'te' significa 'você' (pronome)."
+  },
+  "tf06-06": {
+   "word": "la bibita",
+   "translit": null,
+   "example": "Quale bibita vuoi, cola o aranciata?",
+   "examplePt": "Qual refrigerante você quer, cola ou laranjada?",
+   "pron": "BÍ-bi-ta — força no 1º 'bí'; os dois 'i' são curtos",
+   "curiosity": "A Itália tem refrigerantes típicos, como a 'aranciata' e o 'chinotto'."
+  },
+  "tf06-07": {
+   "word": "la limonata",
+   "translit": null,
+   "example": "Questa limonata è troppo dolce per me!",
+   "examplePt": "Esta limonada está doce demais para mim!",
+   "pron": "li-mo-NÁ-ta — a força cai no 'ná'; o 'a' final é aberto",
+   "curiosity": "O final -ata marca a bebida: limonata, aranciata (laranjada)."
+  },
+  "tf06-08": {
+   "word": "la cioccolata calda",
+   "translit": null,
+   "example": "In inverno bevo la cioccolata calda con panna.",
+   "examplePt": "No inverno bebo chocolate quente com chantilly.",
+   "pron": "tcho-ko-LÁ-ta — 'cio' soa 'tcho' e o 'cc' é um K dobrado",
+   "curiosity": "Na Itália, a 'cioccolata calda' costuma ser bem espessa, quase um pudim."
+  },
+  "tf06-09": {
+   "word": "l'acqua di cocco",
+   "translit": null,
+   "example": "Sulla spiaggia ordino l'acqua di cocco fresca.",
+   "examplePt": "Na praia peço água de coco gelada.",
+   "pron": "ÁK-kua di KÓ-ko — 'cqu' é K dobrado e o 'o' de coco é aberto",
+   "curiosity": "Estrutura 'A di B': acqua di cocco = água DE coco. O 'di' liga as duas."
+  },
+  "tf06-10": {
+   "word": "il frappè",
+   "translit": null,
+   "example": "Facciamo un frappè alla fragola insieme!",
+   "examplePt": "Vamos fazer um milkshake de morango juntos!",
+   "pron": "frap-PÉ — a força cai no fim, com 'pp' dobrado e 'é' aberto",
+   "curiosity": "Frappè vem do francês 'frappé' (gelado) e ganhou acento italiano."
+  },
+  "tf07-01": {
+   "word": "il pane",
+   "translit": null,
+   "example": "Il pane caldo profuma tutta la casa!",
+   "examplePt": "O pão quente perfuma a casa toda!",
+   "pron": "PÁ-ne — 'a' aberto e 'e' final pronunciado, sem 'pãe'",
+   "curiosity": "Na Itália, fazer a 'scarpetta' é limpar o molho do prato com pão."
+  },
+  "tf07-02": {
+   "word": "l'uovo",
+   "translit": null,
+   "example": "Chi è nato prima: l'uovo o la gallina?",
+   "examplePt": "Quem nasceu primeiro: o ovo ou a galinha?",
+   "pron": "UÓ-vo — o 'uo' é um ditongo de um fôlego, com 'ó' aberto",
+   "curiosity": "Singular masculino, plural feminino: l'uovo, le uova. Irregular!"
+  },
+  "tf07-03": {
+   "word": "il formaggio",
+   "translit": null,
+   "example": "Il topo ha trovato il formaggio!",
+   "examplePt": "O rato achou o queijo!",
+   "pron": "for-MÁD-djo — o 'gg' antes de 'i' vira 'dj' dobrado",
+   "curiosity": "A Itália tem queijos famosos, como o parmigiano reggiano e o pecorino."
+  },
+  "tf07-04": {
+   "word": "il burro",
+   "translit": null,
+   "example": "Metti il burro sul pane caldo!",
+   "examplePt": "Passe a manteiga no pão quente!",
+   "pron": "BÚR-ro — o 'rr' é dobrado e forte; o 'u' é fechado",
+   "curiosity": "Cuidado: 'burro' é manteiga em italiano; o animal é 'asino' ou 'somaro'."
+  },
+  "tf07-05": {
+   "word": "il prosciutto",
+   "translit": null,
+   "example": "Il prosciutto di Parma è famoso nel mondo.",
+   "examplePt": "O presunto de Parma é famoso no mundo.",
+   "pron": "pro-SHUT-to — o 'sci' soa 'ch' e o 'tt' é dobrado",
+   "curiosity": "Prosciutto 'crudo' é o curado; 'cotto' é o cozido. Dois sabores, dois nomes."
+  },
+  "tf07-06": {
+   "word": "i cereali",
+   "translit": null,
+   "example": "Preferisci i cereali o i biscotti?",
+   "examplePt": "Prefere os cereais ou os biscoitos?",
+   "pron": "tche-re-Á-li — o 'ce' inicial soa 'tchê' e a força cai no 'á'",
+   "curiosity": "'Cereali' vem de Ceres, a deusa romana da agricultura."
+  },
+  "tf07-07": {
+   "word": "la marmellata",
+   "translit": null,
+   "example": "Che marmellata squisita, chi l'ha fatta?",
+   "examplePt": "Que geleia deliciosa, quem fez?",
+   "pron": "mar-mel-LÁ-ta — a força cai no 'lá' e o 'll' é dobrado",
+   "curiosity": "Parece 'marmelada', mas é a geleia de frutas do café da manhã."
+  },
+  "tf07-08": {
+   "word": "il pane tostato",
+   "translit": null,
+   "example": "Il pane tostato salta fuori dal tostapane!",
+   "examplePt": "A torrada pula para fora da torradeira!",
+   "pron": "PÁ-ne tos-TÁ-to — a força de 'tostato' cai no 'tá'",
+   "curiosity": "Na Itália 'toast' é o sanduíche quente de presunto e queijo, não a torrada."
+  },
+  "tf07-09": {
+   "word": "il pancake",
+   "translit": null,
+   "example": "I pancake con lo sciroppo sono irresistibili!",
+   "examplePt": "As panquecas com calda são irresistíveis!",
+   "pron": "PÂN-keik — palavra inglesa, mas sem o 'é' do inglês: 'a' limpo",
+   "curiosity": "Palavras do inglês não ganham -s no plural italiano: i pancake."
+  },
+  "tf07-10": {
+   "word": "lo yogurt",
+   "translit": null,
+   "example": "Aggiungo la frutta allo yogurt bianco.",
+   "examplePt": "Coloco a fruta no iogurte natural.",
+   "pron": "IÓ-gurt — o 'y' soa 'i' e o 'g' é duro; força no 'ió'",
+   "curiosity": "Por que 'lo' e não 'il'? Por causa do 'y', que soa como i + consoante."
+  },
+  "tf08-01": {
+   "word": "ciao",
+   "translit": null,
+   "example": "Ciao! Ti presento il mio cane Pippo.",
+   "examplePt": "Oi! Apresento o meu cachorro Pippo.",
+   "pron": "TCHÁ-o — o 'ci' vira 'tch' e o 'ao' é ditongo",
+   "curiosity": "Ciao vem do veneziano 'sciào', algo como 'sou seu servo'. Hoje é oi e tchau!"
+  },
+  "tf08-02": {
+   "word": "arrivederci",
+   "translit": null,
+   "example": "Arrivederci, nonna! Salutami lo zio.",
+   "examplePt": "Até logo, vovó! Dê um oi ao tio por mim.",
+   "pron": "ar-ri-ve-DÉR-tchi — 'rr' dobrado, força no 'dér' e 'ci' final 'tchi'",
+   "curiosity": "Vem de 'a rivederci' (até nos revermos). É mais formal que 'ciao'."
+  },
+  "tf08-03": {
+   "word": "buongiorno",
+   "translit": null,
+   "example": "Buongiorno, signora! Che bel cappello rosso!",
+   "examplePt": "Bom dia, senhora! Que lindo chapéu vermelho!",
+   "pron": "buon-DJÓR-no — o 'g' antes de 'i' é 'dj' e o 'uo' é ditongo",
+   "curiosity": "Vale até o começo da tarde; depois se troca por 'buonasera'."
+  },
+  "tf08-04": {
+   "word": "buon pomeriggio",
+   "translit": null,
+   "example": "Buon pomeriggio a tutti, la lezione comincia!",
+   "examplePt": "Boa tarde a todos, a aula vai começar!",
+   "pron": "buon po-me-RÍD-djo — 'ggio' é um 'dj' dobrado; força no 'rí'",
+   "curiosity": "É mais um desejo de boa tarde; como saudação, 'buonasera' é bem comum."
+  },
+  "tf08-05": {
+   "word": "buonanotte",
+   "translit": null,
+   "example": "Buonanotte, mamma! Spegni la luce, per favore.",
+   "examplePt": "Boa noite, mamãe! Apague a luz, por favor.",
+   "pron": "buo-na-NÓT-te — palavra colada; 'tt' dobrado e força no 'nót'",
+   "curiosity": "'E buonanotte!' também fecha uma discussão: 'e pronto, acabou!'."
+  },
+  "tf08-06": {
+   "word": "come va?",
+   "translit": null,
+   "example": "Ehi Marco, come va? Tutto a posto?",
+   "examplePt": "Ei Marco, tudo bem? Tudo certo?",
+   "pron": "KÓ-me VÁ — a força de 'come' cai no 'có'; 'va' é seco",
+   "curiosity": "'Come va?' é o 'tudo bem?' informal. Resposta: 'Bene, grazie! E tu?'"
+  },
+  "tf08-07": {
+   "word": "a presto",
+   "translit": null,
+   "example": "A presto! Ti scrivo una cartolina da Roma.",
+   "examplePt": "Até breve! Te escrevo um cartão-postal de Roma.",
+   "pron": "a PRÉS-to — 'e' aberto e o S é surdo, sem Z",
+   "curiosity": "'A presto' é 'até breve': perfeito para fechar mensagens e e-mails."
+  },
+  "tf08-08": {
+   "word": "a domani",
+   "translit": null,
+   "example": "Il film finisce tardi: a domani, ragazzi!",
+   "examplePt": "O filme acaba tarde: até amanhã, pessoal!",
+   "pron": "a do-MÁ-ni — força no 'má'; tudo se lê como se escreve",
+   "curiosity": "'A' + tempo: a domani, a stasera, a presto. Um molde, várias despedidas!"
+  },
+  "tf08-09": {
+   "word": "benvenuto",
+   "translit": null,
+   "example": "Benvenuto in Italia! Hai fame, vero?",
+   "examplePt": "Bem-vindo à Itália! Está com fome, né?",
+   "pron": "ben-ve-NÚ-to — força no 'nú'; o 'u' é claro e fechado",
+   "curiosity": "Concorda com quem chega: benvenuto (ele), benvenuta (ela), benvenuti (vários)."
+  },
+  "tf08-10": {
+   "word": "buon fine settimana",
+   "translit": null,
+   "example": "Buon fine settimana! Che programmi avete, ragazzi?",
+   "examplePt": "Bom fim de semana! Que planos vocês têm, pessoal?",
+   "pron": "buon FÍ-ne set-ti-MÁ-na — 'tt' dobrado e força no 'má'",
+   "curiosity": "Muita gente também diz 'buon weekend': o inglês invadiu a Itália!"
+  },
+  "tf09-01": {
+   "word": "grazie",
+   "translit": null,
+   "example": "Grazie mille per la bellissima sorpresa!",
+   "examplePt": "Muito obrigado pela linda surpresa!",
+   "pron": "GRÁT-tsie — o 'z' vira 'ts' dobrado e o 'e' final é pronunciado",
+   "curiosity": "Vem do latim; 'grazie mille' é 'mil obrigados', tão natural quanto no Brasil."
+  },
+  "tf09-02": {
+   "word": "per favore",
+   "translit": null,
+   "example": "Un gelato al limone, per favore!",
+   "examplePt": "Um sorvete de limão, por favor!",
+   "pron": "per fa-VÔ-re — força no 'vô', com 'o' fechado e R vibrante",
+   "curiosity": "Vai no fim do pedido: 'Un caffè, per favore'. Também se ouve 'per piacere'."
+  },
+  "tf09-03": {
+   "word": "scusa",
+   "translit": null,
+   "example": "Scusa, ho sbagliato strada: dov'è il parco?",
+   "examplePt": "Desculpa, errei a rua: onde fica o parque?",
+   "pron": "SKÚ-za — o 'sc' diante de 'u' é 'sk' e o S final vale Z",
+   "curiosity": "'Scusa' é informal (tu); com desconhecidos use o formal 'scusi'."
+  },
+  "tf09-04": {
+   "word": "permesso",
+   "translit": null,
+   "example": "Permesso? Posso entrare nella tua stanza?",
+   "examplePt": "Com licença? Posso entrar no seu quarto?",
+   "pron": "per-MÉS-so — o 'ss' é dobrado e surdo; força no 'més'",
+   "curiosity": "Diz-se 'permesso?' ao entrar na casa de alguém; resposta típica: 'Avanti!'"
+  },
+  "tf09-05": {
+   "word": "prego",
+   "translit": null,
+   "example": "Prego, accomodati! Il caffè è già pronto.",
+   "examplePt": "Fique à vontade! O café já está pronto.",
+   "pron": "PRÉ-go — o 'e' é aberto e o 'g' é duro como em 'gato'",
+   "curiosity": "'Prego' faz de tudo: 'de nada', 'pois não?', 'fique à vontade'. Uma palavra!"
+  },
+  "tf09-06": {
+   "word": "congratulazioni",
+   "translit": null,
+   "example": "Congratulazioni, hai vinto il primo premio, campione!",
+   "examplePt": "Parabéns, você ganhou o primeiro prêmio, campeão!",
+   "pron": "kon-gra-tu-lat-TSIÔ-ne — o 'zio' vira 'tsio' e a força cai no 'ô'",
+   "curiosity": "'Auguri' é para festas; 'congratulazioni' é para conquistas, como passar numa prova."
+  },
+  "tf09-07": {
+   "word": "sì",
+   "translit": null,
+   "example": "Vuoi un gelato? Sì, con tanta panna!",
+   "examplePt": "Quer um sorvete? Sim, com muito chantilly!",
+   "pron": "SÍ — curto e seco, com o 'i' tônico; nada de 'sim'",
+   "curiosity": "O acento em 'sì' o diferencia de 'si' (pronome reflexivo: se)."
+  },
+  "tf09-08": {
+   "word": "no",
+   "translit": null,
+   "example": "No, non voglio andare a letto!",
+   "examplePt": "Não, não quero ir para a cama!",
+   "pron": "NÓ — curto, com 'ó' aberto e sem o ditongo 'nou'",
+   "curiosity": "Italianos também dizem 'macché!' para um 'não' bem enfático."
+  },
+  "tf09-09": {
+   "word": "forse",
+   "translit": null,
+   "example": "Forse domani troviamo il tesoro nascosto!",
+   "examplePt": "Talvez amanhã a gente ache o tesouro escondido!",
+   "pron": "FÓR-se — 'o' aberto, R vibrante e 'e' final pronunciado",
+   "curiosity": "Diferente de 'può darsi che', 'forse' pede indicativo: forse arriva."
+  },
+  "tf09-10": {
+   "word": "certamente",
+   "translit": null,
+   "example": "Certamente! Ti aiuto a portare la valigia.",
+   "examplePt": "Com certeza! Te ajudo a carregar a mala.",
+   "pron": "tcher-ta-MÊN-te — 'ce' vira 'tchê'; força no 'mên'",
+   "curiosity": "Adjetivo + -mente forma o advérbio: certo, certamente. Igual ao português!"
+  },
+  "tf10-01": {
+   "word": "il nome",
+   "translit": null,
+   "example": "Qual è il tuo nome, piccolo pirata?",
+   "examplePt": "Qual é o seu nome, pequeno pirata?",
+   "pron": "NÔ-me — 'o' fechado e o 'e' final pronunciado",
+   "curiosity": "Mesmo terminando em -e, 'il nome' é masculino. Plural: i nomi."
+  },
+  "tf10-02": {
+   "word": "il cognome",
+   "translit": null,
+   "example": "Mi scrivi il cognome sul foglio, per favore?",
+   "examplePt": "Você escreve o sobrenome na folha, por favor?",
+   "pron": "ko-NHÔ-me — o 'gn' soa 'nh', como em 'sonho'",
+   "curiosity": "Na Itália, a mulher casada mantém o sobrenome de solteira nos documentos."
+  },
+  "tf10-03": {
+   "word": "l'età",
+   "translit": null,
+   "example": "Che età ha tuo nonno? Cento anni?",
+   "examplePt": "Que idade tem o seu avô? Cem anos?",
+   "pron": "e-TÁ — a força cai no fim, com 'á' bem marcado",
+   "curiosity": "Na Itália se diz 'terza età' para a idade avançada, a melhor idade."
+  },
+  "tf10-04": {
+   "word": "il paese",
+   "translit": null,
+   "example": "Quale paese vuoi visitare per primo?",
+   "examplePt": "Qual país você quer visitar primeiro?",
+   "pron": "pa-Ê-ze — o 'ae' se separa e o S entre vogais vale Z",
+   "curiosity": "Paese é país, mas também vila ou cidadezinha. O contexto decide."
+  },
+  "tf10-05": {
+   "word": "la città",
+   "translit": null,
+   "example": "Roma è una città piena di fontane.",
+   "examplePt": "Roma é uma cidade cheia de fontes.",
+   "pron": "tchit-TÁ — o 'c' soa 'tch' e o 'tt' é dobrado; força no fim",
+   "curiosity": "Roma é conhecida como 'la Città Eterna': a Cidade Eterna."
+  },
+  "tf10-06": {
+   "word": "la lingua",
+   "translit": null,
+   "example": "Quale lingua parli con i tuoi nonni?",
+   "examplePt": "Qual língua você fala com os seus avós?",
+   "pron": "LÍN-gua — o 'u' é pronunciado, como em 'língua'",
+   "curiosity": "Lingua é o idioma e também a língua da boca. Um nome, dois usos!"
+  },
+  "tf10-07": {
+   "word": "il compleanno",
+   "translit": null,
+   "example": "Il mio compleanno è domani: porta la torta!",
+   "examplePt": "Meu aniversário é amanhã: traga o bolo!",
+   "pron": "kom-ple-ÁN-no — o 'nn' é dobrado e a força cai no 'án'",
+   "curiosity": "Na festa se canta 'Tanti auguri a te!' (muitos votos a você)."
+  },
+  "tf10-08": {
+   "word": "l'indirizzo",
+   "translit": null,
+   "example": "Scrivo l'indirizzo sulla busta con calma.",
+   "examplePt": "Escrevo o endereço no envelope com calma.",
+   "pron": "in-di-RÍT-tso — o 'zz' vira 'ts' forte e dobrado",
+   "curiosity": "Na Itália o número vem depois da rua: 'Via Roma, 12'."
+  },
+  "tf10-09": {
+   "word": "il telefono",
+   "translit": null,
+   "example": "Il telefono squilla ma nessuno risponde!",
+   "examplePt": "O telefone toca mas ninguém atende!",
+   "pron": "te-LÉ-fo-no — o 'é' é aberto e a força cai no 'lé'",
+   "curiosity": "O celular é 'il telefonino' (telefoninho). 'Il telefono' é o aparelho em geral."
+  },
+  "tf10-10": {
+   "word": "l'amico",
+   "translit": null,
+   "example": "Il mio amico Luca ama le pizze.",
+   "examplePt": "O meu amigo Luca adora pizzas.",
+   "pron": "a-MÍ-ko — força no 'mí'; no plural, 'amici' = a-MÍ-tchi",
+   "curiosity": "'Amico' e 'amare' (amar) vêm da mesma raiz latina."
+  },
+  "tf11-01": {
+   "word": "il rosso",
+   "translit": null,
+   "example": "Il semaforo diventa rosso: fermati subito!",
+   "examplePt": "O semáforo fica vermelho: pare já!",
+   "pron": "RÓS-so — o R inicial vibra forte e o 'ss' é dobrado",
+   "curiosity": "O 'rosso corsa' é o vermelho de corrida das Ferrari."
+  },
+  "tf11-02": {
+   "word": "il blu",
+   "translit": null,
+   "example": "Ieri ho dipinto la mia stanza di blu.",
+   "examplePt": "Ontem pintei o meu quarto de azul.",
+   "pron": "BLÚ — curto e fechado, com 'u' puro; nada de 'blu-i'",
+   "curiosity": "Blu não muda: la casa blu, le case blu. Cor invariável!"
+  },
+  "tf11-03": {
+   "word": "il giallo",
+   "translit": null,
+   "example": "Perché la banana è sempre gialla, mai viola?",
+   "examplePt": "Por que a banana é sempre amarela, nunca roxa?",
+   "pron": "DJÁL-lo — o 'g' antes de 'i' soa 'dj' e o 'll' é dobrado",
+   "curiosity": "'Un giallo' também é um romance policial: as capas antigas eram amarelas!"
+  },
+  "tf11-04": {
+   "word": "il verde",
+   "translit": null,
+   "example": "Domani coloreremo di verde tutto il giardino!",
+   "examplePt": "Amanhã vamos colorir de verde o jardim inteiro!",
+   "pron": "VÊR-de — 'e' fechado e R vibrante; o 'e' final soa",
+   "curiosity": "'La verdura' são os legumes e folhas verdes. Cor e comida, mesma raiz!"
+  },
+  "tf11-05": {
+   "word": "l'arancione",
+   "translit": null,
+   "example": "Ieri il tramonto era tutto arancione!",
+   "examplePt": "Ontem o pôr do sol estava todo laranja!",
+   "pron": "a-ran-TCHÔ-ne — 'ci' vira 'tch'; força no 'tchô'",
+   "curiosity": "A cor vem da fruta 'arancia': arancia (laranja) e arancione (laranja-cor)."
+  },
+  "tf11-06": {
+   "word": "il viola",
+   "translit": null,
+   "example": "Domani indosserò il mio mantello viola!",
+   "examplePt": "Amanhã vou vestir a minha capa roxa!",
+   "pron": "VIÓ-la — o 'io' é ditongo e a força cai no 'ió'",
+   "curiosity": "Viola não muda no plural e também é flor e instrumento musical."
+  },
+  "tf11-07": {
+   "word": "il rosa",
+   "translit": null,
+   "example": "Mi sono svegliato e il cielo era rosa!",
+   "examplePt": "Acordei e o céu estava rosa!",
+   "pron": "RÓ-za — o S entre vogais vale Z, como em 'casa'",
+   "curiosity": "'Vedere tutto rosa' é ver tudo cor-de-rosa: ser otimista."
+  },
+  "tf11-08": {
+   "word": "il nero",
+   "translit": null,
+   "example": "Il corvo nero vola sopra il campo.",
+   "examplePt": "O corvo preto voa sobre o campo.",
+   "pron": "NÊ-ro — 'e' fechado e R vibrante, curto",
+   "curiosity": "'Mettere nero su bianco' é pôr no papel: botar preto no branco."
+  },
+  "tf11-09": {
+   "word": "il bianco",
+   "translit": null,
+   "example": "Ho comprato un gatto bianco ieri!",
+   "examplePt": "Comprei um gato branco ontem!",
+   "pron": "BIÁN-ko — o 'i' é rápido e o 'nc' vira 'nk'",
+   "curiosity": "'Notte in bianco' é noite em claro, sem dormir nada."
+  },
+  "tf11-10": {
+   "word": "il marrone",
+   "translit": null,
+   "example": "Il mio cane ha un orecchio marrone.",
+   "examplePt": "O meu cachorro tem uma orelha marrom.",
+   "pron": "mar-RÔ-ne — o 'rr' é dobrado e forte; força no 'rô'",
+   "curiosity": "Marrone também é uma castanha graúda; os 'marroni' assados são do outono."
+  },
+  "tf12-01": {
+   "word": "uno",
+   "translit": null,
+   "example": "Ieri ho comprato uno zaino nuovo.",
+   "examplePt": "Ontem comprei uma mochila nova.",
+   "pron": "Ú-no — força no 'ú' fechado; o 'o' final é pronunciado",
+   "curiosity": "Um = 'un' antes de masculino (un gatto), mas 'uno' antes de z (uno zaino)."
+  },
+  "tf12-02": {
+   "word": "due",
+   "translit": null,
+   "example": "Ieri ho mangiato due gelati, che pancia!",
+   "examplePt": "Ontem comi dois sorvetes, que barriga!",
+   "pron": "DÚ-e — duas sílabas: o 'u' e o 'e' soam separados",
+   "curiosity": "'Fare due chiacchiere' é bater um papinho, um dedo de prosa."
+  },
+  "tf12-03": {
+   "word": "tre",
+   "translit": null,
+   "example": "Chi ha mangiato tutti e tre i biscotti?",
+   "examplePt": "Quem comeu os três biscoitos?",
+   "pron": "TRÊ — 'e' fechado e R vibrante entre T e E; nada de 'tri'",
+   "curiosity": "Provérbio: 'Non c'è due senza tre', não há dois sem três."
+  },
+  "tf12-04": {
+   "word": "quattro",
+   "translit": null,
+   "example": "La sedia ha quattro gambe e un cuscino.",
+   "examplePt": "A cadeira tem quatro pernas e uma almofada.",
+   "pron": "KUÁT-tro — 'qu' é 'ku' e o 'tt' dobrado pede uma pausinha",
+   "curiosity": "'Fare quattro passi' é dar uma voltinha a pé: quatro passos."
+  },
+  "tf12-05": {
+   "word": "cinque",
+   "translit": null,
+   "example": "Ci vediamo alle cinque davanti al cinema?",
+   "examplePt": "A gente se vê às cinco em frente ao cinema?",
+   "pron": "TCHÍN-kue — o 'ci' vira 'tchi' e o 'que' vira 'kue'",
+   "curiosity": "'Dammi il cinque!' é o 'toca aqui' dos italianos."
+  },
+  "tf12-06": {
+   "word": "sei",
+   "translit": null,
+   "example": "Dormo sei ore e mi sento fantastico!",
+   "examplePt": "Durmo seis horas e me sinto fantástico!",
+   "pron": "SÉI — ditongo único e rápido, com 'é' aberto",
+   "curiosity": "'Sei' é seis, mas também 'você é' (tu sei). O contexto resolve!"
+  },
+  "tf12-07": {
+   "word": "sette",
+   "translit": null,
+   "example": "Sette nani dormono sul mio divano!",
+   "examplePt": "Sete anões dormem no meu sofá!",
+   "pron": "SÉT-te — 'e' aberto e 'tt' dobrado; o 'e' final soa",
+   "curiosity": "Segundo a tradição, Roma nasceu sobre sete colinas. O número sete é famoso!"
+  },
+  "tf12-08": {
+   "word": "otto",
+   "translit": null,
+   "example": "Alle otto in punto parte il treno.",
+   "examplePt": "Às oito em ponto parte o trem.",
+   "pron": "ÓT-to — 'o' aberto e 'tt' dobrado; só 'ót-to'",
+   "curiosity": "'Ottobre' foi o oitavo mês no calendário romano antigo: octo = oito."
+  },
+  "tf12-09": {
+   "word": "nove",
+   "translit": null,
+   "example": "Nove bambini aspettano lo scuolabus giallo.",
+   "examplePt": "Nove crianças esperam o ônibus escolar amarelo.",
+   "pron": "NÓ-ve — 'o' aberto e V suave; duas sílabas",
+   "curiosity": "Escrita igual à do português, mas 'nuovo' (novo) é outra palavra. 9 e novo!"
+  },
+  "tf12-10": {
+   "word": "dieci",
+   "translit": null,
+   "example": "Conta fino a dieci e poi cercami!",
+   "examplePt": "Conte até dez e depois me procure!",
+   "pron": "DIÉ-tchi — 'ci' final vira 'tchi'; nunca 'dieki'",
+   "curiosity": "Nas escolas italianas a nota máxima é 'dieci', dez."
+  },
+  "tf13-01": {
+   "word": "il cerchio",
+   "translit": null,
+   "example": "Disegna un cerchio perfetto con il compasso!",
+   "examplePt": "Desenhe um círculo perfeito com o compasso!",
+   "pron": "TCHÉR-kio — 'ce' vira 'tchê' e 'chi' vira 'ki'",
+   "curiosity": "Os anéis olímpicos se dizem 'i cerchi olimpici'."
+  },
+  "tf13-02": {
+   "word": "il quadrato",
+   "translit": null,
+   "example": "Ho tagliato la torta in un quadrato.",
+   "examplePt": "Cortei o bolo em um quadrado.",
+   "pron": "kua-DRÁ-to — a força cai no 'drá'; 'qu' vale 'ku'",
+   "curiosity": "'Una persona quadrata' é alguém sensato e firme, de cabeça no lugar."
+  },
+  "tf13-03": {
+   "word": "il triangolo",
+   "translit": null,
+   "example": "Hai mai suonato il triangolo a scuola?",
+   "examplePt": "Você já tocou triângulo na escola?",
+   "pron": "tri-ÁN-go-lo — a força cai no 'án' e o 'g' é duro",
+   "curiosity": "Il triangolo também é um instrumento de percussão: tilim, tilim!"
+  },
+  "tf13-04": {
+   "word": "il rettangolo",
+   "translit": null,
+   "example": "La porta della mia stanza è un rettangolo.",
+   "examplePt": "A porta do meu quarto é um retângulo.",
+   "pron": "ret-TÁN-go-lo — 'tt' dobrado e seco; força no 'tán'",
+   "curiosity": "Ângulo reto, em italiano, é 'angolo retto': mesma raiz de 'rettangolo'."
+  },
+  "tf13-05": {
+   "word": "il cuore",
+   "translit": null,
+   "example": "Disegno un cuore sulla finestra appannata.",
+   "examplePt": "Desenho um coração na janela embaçada.",
+   "pron": "KUÓ-re — o 'uo' é ditongo e o 'o' é aberto",
+   "curiosity": "'Cuore' é o título de um clássico infantil italiano do século XIX."
+  },
+  "tf13-06": {
+   "word": "il rombo",
+   "translit": null,
+   "example": "Il rombo ha quattro lati e sembra un diamante.",
+   "examplePt": "O losango tem quatro lados e parece um diamante.",
+   "pron": "RÔM-bo — 'o' fechado e M claro antes do B",
+   "curiosity": "Rombo também é um peixe achatado, em forma de losango!"
+  },
+  "tf13-07": {
+   "word": "l'ovale",
+   "translit": null,
+   "example": "Il viso del mio nonno è quasi ovale.",
+   "examplePt": "O rosto do meu avô é quase oval.",
+   "pron": "o-VÁ-le — a força cai no 'vá'; o 'e' final soa",
+   "curiosity": "Ovale vem de 'uovo' (ovo): a forma de um ovo!"
+  },
+  "tf13-08": {
+   "word": "il cubo",
+   "translit": null,
+   "example": "Ho costruito un cubo con i mattoncini.",
+   "examplePt": "Construí um cubo com os blocos.",
+   "pron": "KÚ-bo — o 'u' é puro e fechado; força no 'kú'",
+   "curiosity": "O cubo mágico é 'il cubo di Rubik' em italiano."
+  },
+  "tf13-09": {
+   "word": "la sfera",
+   "translit": null,
+   "example": "Una sfera di cristallo brilla sul tavolo.",
+   "examplePt": "Uma esfera de cristal brilha na mesa.",
+   "pron": "SFÉ-ra — 'sf' juntinho, sem vogal antes; 'é' aberto",
+   "curiosity": "'Penna a sfera' é a caneta esferográfica: caneta de esfera."
+  },
+  "tf13-10": {
+   "word": "il cilindro",
+   "translit": null,
+   "example": "Il mago estrae un coniglio dal cilindro!",
+   "examplePt": "O mago tira um coelho da cartola!",
+   "pron": "tchi-LÍN-dro — 'ci' vira 'tchi' e a força cai no 'lín'",
+   "curiosity": "Il cilindro é também a cartola do mágico e o cilindro do motor."
+  },
+  "tf14-01": {
+   "word": "undici",
+   "translit": null,
+   "example": "Undici giocatori entrano in campo, che tensione!",
+   "examplePt": "Onze jogadores entram em campo, que tensão!",
+   "pron": "ÚN-di-tchi — força no 1º 'ú' e 'ci' final vira 'tchi'",
+   "curiosity": "'L'undici' também é o time titular de futebol, com onze jogadores."
+  },
+  "tf14-02": {
+   "word": "dodici",
+   "translit": null,
+   "example": "Dodici uova stanno in una scatola.",
+   "examplePt": "Doze ovos cabem em uma caixa.",
+   "pron": "DÓ-di-tchi — força no 'dó' aberto; 'ci' final vira 'tchi'",
+   "curiosity": "De 11 a 16, os números terminam em -dici (de 'dieci'): dodici, tredici."
+  },
+  "tf14-03": {
+   "word": "quindici",
+   "translit": null,
+   "example": "Aspettiamo da quindici minuti: dov'è la pizza?",
+   "examplePt": "Esperamos há quinze minutos: cadê a pizza?",
+   "pron": "KUÍN-di-tchi — 'qu' vale 'ku' e o 'ci' final é 'tchi'",
+   "curiosity": "'Quindici giorni' é a quinzena: duas semanas, muito usada."
+  },
+  "tf14-04": {
+   "word": "venti",
+   "translit": null,
+   "example": "Quanti anni hai? Ne ho venti!",
+   "examplePt": "Quantos anos você tem? Tenho vinte!",
+   "pron": "VÊN-ti — 'e' fechado e N claro, sem nasalizar",
+   "curiosity": "'I venti' também são os ventos (plural de vento). O contexto resolve!"
+  },
+  "tf14-05": {
+   "word": "trenta",
+   "translit": null,
+   "example": "Questo mese ha trenta giorni, giusto?",
+   "examplePt": "Este mês tem trinta dias, certo?",
+   "pron": "TRÊN-ta — 'e' fechado e N claro; final 'ta' aberto",
+   "curiosity": "As dezenas terminam em -a: trenta, quaranta, cinquanta. Só 'venti' foge!"
+  },
+  "tf14-06": {
+   "word": "cinquanta",
+   "translit": null,
+   "example": "Il biglietto costa cinquanta euro, incredibile!",
+   "examplePt": "O bilhete custa cinquenta euros, incrível!",
+   "pron": "tchin-KUÁN-ta — 'ci' vira 'tchi' e 'qua' vira 'kua'",
+   "curiosity": "'Una cinquantina' é 'uns cinquenta': o -ina dá número aproximado."
+  },
+  "tf14-07": {
+   "word": "cento",
+   "translit": null,
+   "example": "Cento candeline sulla torta: che incendio!",
+   "examplePt": "Cem velinhas no bolo: que incêndio!",
+   "pron": "TCHÉN-to — 'ce' vira 'tchê' e o 'e' é aberto",
+   "curiosity": "'Per cento' é 'por cento': 50 per cento = 50%. Igual ao português!"
+  },
+  "tf14-08": {
+   "word": "duecento",
+   "translit": null,
+   "example": "Duecento persone ballano in piazza stasera!",
+   "examplePt": "Duzentas pessoas dançam na praça hoje à noite!",
+   "pron": "due-TCHÉN-to — o 'ce' vira 'tchê'; a força cai no 'tchen'",
+   "curiosity": "Centenas se colam: due + cento = duecento, tre + cento = trecento."
+  },
+  "tf14-09": {
+   "word": "mille",
+   "translit": null,
+   "example": "Ti ho aspettato mille anni, dove eri?",
+   "examplePt": "Esperei você mil anos, onde estava?",
+   "pron": "MÍL-le — o 'll' é dobrado: segure o L antes do 'e' final",
+   "curiosity": "Mille vira 'mila' nos múltiplos: duemila, tremila. Irregular, mas fácil!"
+  },
+  "tf14-10": {
+   "word": "il milione",
+   "translit": null,
+   "example": "Vorrei vincere un milione di euro!",
+   "examplePt": "Eu queria ganhar um milhão de euros!",
+   "pron": "mil-LIÔ-ne — o 'li' é um L dobrado e a força cai no 'ô'",
+   "curiosity": "Depois de milione vem 'di': un milione di euro, due milioni di euro."
+  },
+  "tf15-01": {
+   "word": "svegliarsi",
+   "translit": null,
+   "example": "Domani devo svegliarmi alle cinque, aiuto!",
+   "examplePt": "Amanhã preciso acordar às cinco, socorro!",
+   "pron": "zve-LHÁR-si — 'sv' vira 'zv' e o 'gli' soa 'lh'",
+   "curiosity": "'La sveglia' é o despertador, e o verbo nasce dela."
+  },
+  "tf15-02": {
+   "word": "alzarsi",
+   "translit": null,
+   "example": "Oggi non riesco ad alzarmi dal letto!",
+   "examplePt": "Hoje não consigo levantar da cama!",
+   "pron": "al-TSÁR-si — o 'z' soa 'ts'; força no 'tsár'",
+   "curiosity": "'Alzarsi col piede sbagliato' é levantar com o pé errado: dia de azar."
+  },
+  "tf15-03": {
+   "word": "fare la doccia",
+   "translit": null,
+   "example": "Dopo la corsa voglio fare la doccia.",
+   "examplePt": "Depois da corrida quero tomar banho.",
+   "pron": "FÁ-re la DÓT-tcha — o 'cc' antes de 'ia' é 'tch' dobrado",
+   "curiosity": "'Fare' (fazer) vira muita coisa: fare la doccia, fare colazione, fare la spesa."
+  },
+  "tf15-04": {
+   "word": "lavarsi i denti",
+   "translit": null,
+   "example": "Dopo cena devo lavarmi i denti.",
+   "examplePt": "Depois do jantar preciso escovar os dentes.",
+   "pron": "la-VÁR-si i DÊN-ti — força no 'vár' e 'dên'; N claro",
+   "curiosity": "Em italiano se usa o artigo, não 'meus': lavarsi i denti (os dentes)."
+  },
+  "tf15-05": {
+   "word": "pettinarsi",
+   "translit": null,
+   "example": "Non ho tempo per pettinarmi stamattina!",
+   "examplePt": "Não tenho tempo de me pentear hoje cedo!",
+   "pron": "pet-ti-NÁR-si — 'tt' dobrado; a força cai no 'nár'",
+   "curiosity": "Parente de 'il pettine' (o pente): pettine, pettinarsi."
+  },
+  "tf15-06": {
+   "word": "pranzare",
+   "translit": null,
+   "example": "Domenica vogliamo pranzare tutti dalla nonna.",
+   "examplePt": "No domingo queremos almoçar todos na casa da vovó.",
+   "pron": "pran-DZÁ-re — o 'nz' soa 'ndz'; a força cai no 'dzá'",
+   "curiosity": "O almoço de domingo em família é uma tradição querida na Itália."
+  },
+  "tf15-07": {
+   "word": "cenare",
+   "translit": null,
+   "example": "Stasera andiamo a cenare in pizzeria?",
+   "examplePt": "Hoje à noite vamos jantar na pizzaria?",
+   "pron": "tche-NÁ-re — o 'ce' vira 'tchê' e a força cai no 'ná'",
+   "curiosity": "'L'ultima cena' é a Última Ceia, o famoso afresco de Leonardo em Milão."
+  },
+  "tf15-08": {
+   "word": "studiare",
+   "translit": null,
+   "example": "Devo studiare molto prima del grande esame.",
+   "examplePt": "Preciso estudar muito antes do grande exame.",
+   "pron": "stu-DIÁ-re — 'st' junto; 'di' + 'a' formam ditongo",
+   "curiosity": "'Lo studio' também é escritório ou ateliê: 'lo studio del dentista'."
+  },
+  "tf15-09": {
+   "word": "dormire",
+   "translit": null,
+   "example": "Il mio cane sa dormire sotto la pioggia!",
+   "examplePt": "O meu cachorro sabe dormir debaixo da chuva!",
+   "pron": "dor-MÍ-re — força no 'mí' final; R vibrante antes do M",
+   "curiosity": "'Il dolce far niente' é a doce arte italiana de não fazer nada. Ótima p/ dormir!"
+  },
+  "tf15-10": {
+   "word": "sognare",
+   "translit": null,
+   "example": "Mi piace sognare di volare sopra Venezia.",
+   "examplePt": "Gosto de sonhar que voo sobre Veneza.",
+   "pron": "so-NHÁ-re — o 'gn' soa 'nh', como em 'sonhar'",
+   "curiosity": "'Sogni d'oro!' é 'sonhos de ouro': um boa-noite carinhoso."
+  },
+  "tf16-01": {
+   "word": "correre",
+   "translit": null,
+   "example": "Dobbiamo correre, il treno parte adesso!",
+   "examplePt": "Temos que correr, o trem parte agora!",
+   "pron": "KÓR-re-re — o 'rr' é dobrado e forte; força no 'kór'",
+   "curiosity": "Particípio irregular: correre, ho corso (corri). Anote!"
+  },
+  "tf16-02": {
+   "word": "camminare",
+   "translit": null,
+   "example": "Voglio camminare fino al lago senza fretta.",
+   "examplePt": "Quero caminhar até o lago sem pressa.",
+   "pron": "kam-mi-NÁ-re — 'mm' dobrado; força no 'ná'",
+   "curiosity": "'Andare' é ir; para andar a pé use 'camminare'. 'Andar' não existe em italiano."
+  },
+  "tf16-03": {
+   "word": "saltare",
+   "translit": null,
+   "example": "Il cane sa saltare altissimo, guarda!",
+   "examplePt": "O cachorro sabe pular altíssimo, olha!",
+   "pron": "sal-TÁ-re — força no 'tá'; o L é claro, sem 'saw'",
+   "curiosity": "Saltare também significa pular algo: 'saltare un pasto' é pular uma refeição."
+  },
+  "tf16-04": {
+   "word": "nuotare",
+   "translit": null,
+   "example": "Domani voglio nuotare con i delfini!",
+   "examplePt": "Amanhã quero nadar com os golfinhos!",
+   "pron": "nuo-TÁ-re — o 'uo' é ditongo e a força cai no 'tá'",
+   "curiosity": "'Nuotare nell'oro' é nadar em ouro: ser riquíssimo."
+  },
+  "tf16-05": {
+   "word": "salire",
+   "translit": null,
+   "example": "Dobbiamo salire dieci piani a piedi!",
+   "examplePt": "Temos que subir dez andares a pé!",
+   "pron": "sa-LÍ-re — força no 'lí' final; R vibrante",
+   "curiosity": "Irregular: io salgo, tu sali. Um G aparece só na forma do 'eu'!"
+  },
+  "tf16-06": {
+   "word": "scendere",
+   "translit": null,
+   "example": "Dobbiamo scendere alla prossima fermata, presto!",
+   "examplePt": "Temos que descer na próxima parada, rápido!",
+   "pron": "SHÉN-de-re — 'sc' diante de 'e' soa 'ch'; 'e' aberto",
+   "curiosity": "'Scendere in campo' é entrar em campo, ou entrar numa disputa."
+  },
+  "tf16-07": {
+   "word": "ballare",
+   "translit": null,
+   "example": "Vuoi ballare con me sotto le stelle?",
+   "examplePt": "Quer dançar comigo sob as estrelas?",
+   "pron": "bal-LÁ-re — o 'll' é dobrado e a força cai no 'lá'",
+   "curiosity": "A 'tarantella' é uma dança tradicional do sul da Itália."
+  },
+  "tf16-08": {
+   "word": "spingere",
+   "translit": null,
+   "example": "Devi spingere forte: la porta è bloccata!",
+   "examplePt": "Você precisa empurrar forte: a porta está travada!",
+   "pron": "SPÍN-dje-re — 'sp' junto; o 'ge' soa 'dje'",
+   "curiosity": "Nas portas italianas leem-se 'Spingere' (empurre) e 'Tirare' (puxe)."
+  },
+  "tf16-09": {
+   "word": "tirare",
+   "translit": null,
+   "example": "Devi tirare piano, o la corda si rompe!",
+   "examplePt": "Você precisa puxar devagar, senão a corda arrebenta!",
+   "pron": "ti-RÁ-re — força no 'rá'; R vibrante e curto",
+   "curiosity": "Tirare também é chutar: 'tirare in porta' é chutar ao gol."
+  },
+  "tf16-10": {
+   "word": "arrampicarsi",
+   "translit": null,
+   "example": "Voglio arrampicarmi sull'albero più alto!",
+   "examplePt": "Quero escalar a árvore mais alta!",
+   "pron": "ar-ram-pi-KÁR-si — o 'rr' é forte logo no início; força no 'kár'",
+   "curiosity": "'Arrampicatore sociale' é o escalador social: quem sobe na vida a qualquer custo."
+  },
+  "tf17-01": {
+   "word": "parlare",
+   "translit": null,
+   "example": "Posso parlare con te un momento?",
+   "examplePt": "Posso falar com você um momento?",
+   "pron": "par-LÁ-re — força no 'lá'; o R vibra de leve",
+   "curiosity": "Verbo regular em -are: parlo, parli, parla. Modelo para dezenas de verbos!"
+  },
+  "tf17-02": {
+   "word": "ascoltare",
+   "translit": null,
+   "example": "Ascolta il vento: sta cantando!",
+   "examplePt": "Escute o vento: ele está cantando!",
+   "pron": "as-kol-TÁ-re — 'sc' diante de 'o' é 'sk'; força no 'tá'",
+   "curiosity": "'Sentire' é ouvir; 'ascoltare' é escutar com atenção, de propósito."
+  },
+  "tf17-03": {
+   "word": "leggere",
+   "translit": null,
+   "example": "Leggere sotto le coperte è il mio segreto!",
+   "examplePt": "Ler debaixo das cobertas é o meu segredo!",
+   "pron": "LÉD-dje-re — o 'gg' antes de 'e' vira 'dj' dobrado; força no 'léd'",
+   "curiosity": "O 'ler' português e o 'leggere' italiano vêm do verbo latino 'legere'."
+  },
+  "tf17-04": {
+   "word": "scrivere",
+   "translit": null,
+   "example": "Voglio scrivere una lettera a Babbo Natale.",
+   "examplePt": "Quero escrever uma carta ao Papai Noel.",
+   "pron": "SKRÍ-ve-re — 'sc' + 'r' = 'skr'; força no 'skrí'",
+   "curiosity": "Particípio irregular: scrivere, ho scritto (escrevi)."
+  },
+  "tf17-05": {
+   "word": "chiedere",
+   "translit": null,
+   "example": "Posso chiedere il tuo numero di telefono?",
+   "examplePt": "Posso pedir o seu número de telefone?",
+   "pron": "KIÉ-de-re — o 'chi' soa 'ki'; força no 'kié'",
+   "curiosity": "Chiedere é pedir e perguntar: 'chiedere scusa' é pedir desculpas."
+  },
+  "tf17-06": {
+   "word": "rispondere",
+   "translit": null,
+   "example": "Chi vuole rispondere alla domanda del maestro?",
+   "examplePt": "Quem quer responder à pergunta do professor?",
+   "pron": "ris-PÓN-de-re — 'o' aberto e N claro; força no 'pón'",
+   "curiosity": "Passado irregular: ho risposto. Parente de 'la risposta' (a resposta)."
+  },
+  "tf17-07": {
+   "word": "pensare",
+   "translit": null,
+   "example": "Stasera voglio pensare solo alla pizza!",
+   "examplePt": "Hoje à noite quero pensar só na pizza!",
+   "pron": "pen-SÁ-re — N claro e força no 'sá'",
+   "curiosity": "Pensar EM alguém é 'pensare A': penso a te. A preposição é 'a'."
+  },
+  "tf17-08": {
+   "word": "ricordare",
+   "translit": null,
+   "example": "Riesci a ricordare dove hai nascosto il tesoro?",
+   "examplePt": "Consegue lembrar onde escondeu o tesouro?",
+   "pron": "ri-kor-DÁ-re — o 'c' antes de 'o' é K; força no 'dá'",
+   "curiosity": "'Ricordarsi di' = lembrar-se de: mi ricordo di te. O reflexivo é comum."
+  },
+  "tf17-09": {
+   "word": "dimenticare",
+   "translit": null,
+   "example": "Attento: non dimenticare le chiavi di casa!",
+   "examplePt": "Atenção: não esqueça as chaves de casa!",
+   "pron": "di-men-ti-KÁ-re — 'c' antes de 'a' é K; força no 'ká'",
+   "curiosity": "Imperativo negativo = non + infinitivo: non dimenticare! (não esqueça)."
+  },
+  "tf17-10": {
+   "word": "capire",
+   "translit": null,
+   "example": "Finalmente riesco a capire i cartoni italiani!",
+   "examplePt": "Finalmente consigo entender os desenhos italianos!",
+   "pron": "ka-PÍ-re — força no 'pí' final; nada de 'capir'",
+   "curiosity": "Verbo em -ire com -isc-: capisco, capisci, capisce. Padrão do grupo!"
+  },
+  "tf18-01": {
+   "word": "la banca",
+   "translit": null,
+   "example": "In banca c'è una fila lunghissima!",
+   "examplePt": "No banco tem uma fila enorme!",
+   "pron": "BÁN-ka — o 'n' é claro e o 'c' é K; força no 'bán'",
+   "curiosity": "Banca é o banco financeiro. 'Banco' em italiano é carteira ou balcão!"
+  },
+  "tf18-02": {
+   "word": "la farmacia",
+   "translit": null,
+   "example": "Domani passo in farmacia, ti serve qualcosa?",
+   "examplePt": "Amanhã passo na farmácia, você precisa de algo?",
+   "pron": "far-ma-TCHÍ-a — o 'ci' soa 'tchi'; força no 'tchí'",
+   "curiosity": "As farmácias italianas têm uma cruz verde luminosa na porta."
+  },
+  "tf18-03": {
+   "word": "il panificio",
+   "translit": null,
+   "example": "Il panificio apre alle sei: senti il profumo?",
+   "examplePt": "A padaria abre às seis: sente o cheiro?",
+   "pron": "pa-ni-FÍ-tcho — 'cio' vira 'tcho'; força no 'fí'",
+   "curiosity": "O sufixo -ficio indica lugar de produção: panificio, pastificio."
+  },
+  "tf18-04": {
+   "word": "la scuola",
+   "translit": null,
+   "example": "Ieri la mia scuola ha chiuso per la neve!",
+   "examplePt": "Ontem a minha escola fechou por causa da neve!",
+   "pron": "SKUÓ-la — 'sc' + 'uo' = 'skuó'; nada de 'escola'",
+   "curiosity": "Na Itália as aulas começam em setembro e as férias de verão duram quase três meses."
+  },
+  "tf18-05": {
+   "word": "l'ospedale",
+   "translit": null,
+   "example": "Domani visiteremo il nonno all'ospedale.",
+   "examplePt": "Amanhã visitaremos o vovô no hospital.",
+   "pron": "os-pe-DÁ-le — o 'h' não existe; o S é surdo; força no 'dá'",
+   "curiosity": "Em -ale quase tudo é masculino: l'ospedale, il giornale, il canale."
+  },
+  "tf18-06": {
+   "word": "la piazza",
+   "translit": null,
+   "example": "Domani ci vediamo in piazza, vicino alla fontana.",
+   "examplePt": "Amanhã nos vemos na praça, perto da fonte.",
+   "pron": "PIÁT-tsa — o 'zz' soa 'ts' forte e dobrado",
+   "curiosity": "A piazza é o coração das cidades italianas: ali tem festa, café e papo."
+  },
+  "tf18-07": {
+   "word": "il mercato",
+   "translit": null,
+   "example": "Ieri ho comprato dieci arance al mercato.",
+   "examplePt": "Ontem comprei dez laranjas na feira.",
+   "pron": "mer-KÁ-to — força no 'ká'; R vibrante e curto",
+   "curiosity": "Muitas cidades italianas têm um mercato semanal de rua, com frutas e queijos."
+  },
+  "tf18-08": {
+   "word": "la biblioteca",
+   "translit": null,
+   "example": "Mi sono addormentato in biblioteca, che vergogna!",
+   "examplePt": "Peguei no sono na biblioteca, que vergonha!",
+   "pron": "bi-bli-o-TÉ-ka — a força cai no 'té' aberto; 'c' diante de 'a' é K",
+   "curiosity": "Biblioteca é onde se EMPRESTA livros. Livraria é 'libreria': falso amigo!"
+  },
+  "tf18-09": {
+   "word": "il cinema",
+   "translit": null,
+   "example": "Andiamo al cinema domani o stasera?",
+   "examplePt": "Vamos ao cinema amanhã ou hoje à noite?",
+   "pron": "TCHÍ-ne-ma — 'ci' vira 'tchi'; força no 1º 'tchí'",
+   "curiosity": "Cinecittà, em Roma, é um dos estúdios de cinema mais famosos da Europa."
+  },
+  "tf18-10": {
+   "word": "il museo",
+   "translit": null,
+   "example": "Domani visitiamo il museo con la scuola.",
+   "examplePt": "Amanhã visitamos o museu com a escola.",
+   "pron": "mu-ZÉ-o — 'e' e 'o' ficam separados; o S vale Z",
+   "curiosity": "A Itália está entre os países com mais sítios Patrimônio Mundial da Unesco."
+  },
+  "tf19-01": {
+   "word": "l'autobus",
+   "translit": null,
+   "example": "L'autobus è arrivato in ritardo anche oggi!",
+   "examplePt": "O ônibus chegou atrasado hoje também!",
+   "pron": "ÁU-to-bus — 'au' é ditongo e a força cai no 'áu'",
+   "curiosity": "Masculino e invariável no plural: l'autobus, gli autobus."
+  },
+  "tf19-02": {
+   "word": "il treno",
+   "translit": null,
+   "example": "Il treno per Roma parte dal binario cinque.",
+   "examplePt": "O trem para Roma sai da plataforma cinco.",
+   "pron": "TRÊ-no — o 'e' é fechado e o R é vibrante",
+   "curiosity": "Viaja-se 'in treno', 'in autobus', 'in aereo': com 'in', não 'de'."
+  },
+  "tf19-03": {
+   "word": "l'aereo",
+   "translit": null,
+   "example": "L'aereo ha attraversato le nuvole come un uccello.",
+   "examplePt": "O avião atravessou as nuvens como um pássaro.",
+   "pron": "a-É-re-o — quatro sílabas, força no 'é' aberto",
+   "curiosity": "Em italiano, 'aereo' é avião e 'aeroporto' guarda o 'aero-' grego, de 'ar'."
+  },
+  "tf19-04": {
+   "word": "la metropolitana",
+   "translit": null,
+   "example": "Prenderò la metropolitana per andare al museo.",
+   "examplePt": "Pegarei o metrô para ir ao museu.",
+   "pron": "me-tro-po-li-TÁ-na — palavra longa; a força cai no 'tá'",
+   "curiosity": "Os italianos encurtam: 'la metro'. Metropolitana é a versão completa!"
+  },
+  "tf19-05": {
+   "word": "la bicicletta",
+   "translit": null,
+   "example": "La bicicletta di mia sorella ha un campanello rosa.",
+   "examplePt": "A bicicleta da minha irmã tem uma campainha rosa.",
+   "pron": "bi-tchi-KLÉT-ta — 'ci' vira 'tchi'; 'cl' junto e 'tt' dobrado",
+   "curiosity": "A Itália é apaixonada por ciclismo e tem uma volta famosa: o Giro d'Italia."
+  },
+  "tf19-06": {
+   "word": "il taxi",
+   "translit": null,
+   "example": "Ho chiamato un taxi sotto la pioggia.",
+   "examplePt": "Chamei um táxi debaixo da chuva.",
+   "pron": "TÁK-si — o 'x' soa 'ks' e o 'a' é aberto",
+   "curiosity": "Palavra emprestada: invariável. Il taxi, i taxi (sem -s na fala)."
+  },
+  "tf19-07": {
+   "word": "la barca",
+   "translit": null,
+   "example": "Una barca piccola dondola sul lago.",
+   "examplePt": "Um barquinho balança no lago.",
+   "pron": "BÁR-ka — o R vibra e o 'c' diante de 'a' é K",
+   "curiosity": "Veneza é famosa pelas gôndolas, barcos tradicionais de remo."
+  },
+  "tf19-08": {
+   "word": "il camion",
+   "translit": null,
+   "example": "Il camion ha bloccato tutta la strada!",
+   "examplePt": "O caminhão bloqueou a rua inteira!",
+   "pron": "KÁ-mion — o 'ion' é ditongo; força no 'ká'",
+   "curiosity": "Camion é masculino e invariável: il camion, i camion."
+  },
+  "tf19-09": {
+   "word": "la moto",
+   "translit": null,
+   "example": "Mia zia corre in moto come una campionessa!",
+   "examplePt": "A minha tia anda de moto como uma campeã!",
+   "pron": "MÓ-to — 'o' aberto e curto; força no 'mó'",
+   "curiosity": "'Moto' é feminina (la moto), pois encurta 'motocicletta'."
+  },
+  "tf19-10": {
+   "word": "l'elicottero",
+   "translit": null,
+   "example": "Un elicottero atterra sul tetto dell'ospedale!",
+   "examplePt": "Um helicóptero pousa no telhado do hospital!",
+   "pron": "e-li-KÓT-te-ro — 'tt' dobrado; força no 'kót'",
+   "curiosity": "Do grego: 'hélix' (espiral) + 'pterón' (asa). Asa em espiral!"
+  },
+  "tf20-01": {
+   "word": "la valigia",
+   "translit": null,
+   "example": "La valigia pesa troppo, cosa hai messo dentro?",
+   "examplePt": "A mala pesa demais, o que você colocou dentro?",
+   "pron": "va-LÍ-dja — o 'gia' final vira 'dja'",
+   "curiosity": "'Fare le valigie' é fazer as malas e também ir embora de vez."
+  },
+  "tf20-02": {
+   "word": "il passaporto",
+   "translit": null,
+   "example": "Dov'è il passaporto? Il volo parte tra un'ora!",
+   "examplePt": "Cadê o passaporte? O voo sai em uma hora!",
+   "pron": "pas-sa-PÓR-to — o 'ss' é dobrado; força no 'pór'",
+   "curiosity": "'Passaporto' junta 'passare' e 'porto', como o 'passeport' francês."
+  },
+  "tf20-03": {
+   "word": "il biglietto",
+   "translit": null,
+   "example": "Hai già comprato il biglietto per il concerto?",
+   "examplePt": "Você já comprou o ingresso para o show?",
+   "pron": "bi-LHÉT-to — o 'gli' soa 'lh' e o 'tt' é dobrado",
+   "curiosity": "'Biglietto da visita' é o cartão de visita; 'biglietto' é bilhete em geral."
+  },
+  "tf20-04": {
+   "word": "l'hotel",
+   "translit": null,
+   "example": "L'hotel ha una piscina sul tetto!",
+   "examplePt": "O hotel tem uma piscina no telhado!",
+   "pron": "o-TÉL — o H é mudo; força no fim",
+   "curiosity": "'Albergo' é a palavra italiana tradicional para hotel; 'hotel' é adaptação moderna."
+  },
+  "tf20-05": {
+   "word": "la mappa",
+   "translit": null,
+   "example": "Chi ha disegnato questa mappa? Non capisco niente!",
+   "examplePt": "Quem desenhou este mapa? Não entendo nada!",
+   "pron": "MÁP-pa — o 'pp' é dobrado; força no 'máp'",
+   "curiosity": "O globo terrestre é 'il mappamondo': mapa + mundo."
+  },
+  "tf20-06": {
+   "word": "la prenotazione",
+   "translit": null,
+   "example": "Ho fatto la prenotazione per le otto.",
+   "examplePt": "Fiz a reserva para as oito.",
+   "pron": "pre-no-ta-TSIÔ-ne — o 'zio' vira 'tsio'; força no 'tsiô'",
+   "curiosity": "Final -zione = -ção: prenotazione, riunione. Vira palavra em português!"
+  },
+  "tf20-07": {
+   "word": "il turista",
+   "translit": null,
+   "example": "Un turista ha perso la mappa nel vicolo.",
+   "examplePt": "Um turista perdeu o mapa no beco.",
+   "pron": "tu-RÍS-ta — força no 'rís'; o S é surdo",
+   "curiosity": "Serve para ele e ela: il turista, la turista. Plural: turisti/turiste."
+  },
+  "tf20-08": {
+   "word": "il confine",
+   "translit": null,
+   "example": "Domani attraverseremo il confine in treno.",
+   "examplePt": "Amanhã atravessaremos a fronteira de trem.",
+   "pron": "kon-FÍ-ne — força no 'fí'; 'c' diante de 'o' é K",
+   "curiosity": "Os Alpes marcam parte da fronteira da Itália com a Suíça e a França."
+  },
+  "tf20-09": {
+   "word": "la dogana",
+   "translit": null,
+   "example": "Alla dogana volevano aprire la mia valigia!",
+   "examplePt": "Na alfândega queriam abrir a minha mala!",
+   "pron": "do-GÁ-na — o 'gn' soa 'nh' e a força cai no 'gá'",
+   "curiosity": "'Dogana' vem do árabe 'diwan', origem também da francesa 'douane'."
+  },
+  "tf20-10": {
+   "word": "il souvenir",
+   "translit": null,
+   "example": "Ho comprato un souvenir per la nonna.",
+   "examplePt": "Comprei uma lembrancinha para a vovó.",
+   "pron": "su-ve-NÍR — palavra francesa: força no fim, sem som de 'ou'",
+   "curiosity": "Souvenir é francês usado igual. Em italiano puro: 'il ricordo'."
+  },
+  "tf21-01": {
+   "word": "la mamma",
+   "translit": null,
+   "example": "Mia mamma canta sempre mentre cucina la pasta!",
+   "examplePt": "Minha mãe canta sempre enquanto cozinha a massa!",
+   "pron": "MÁM-ma — o 'mm' é dobrado: segure o M antes do 'a'",
+   "curiosity": "'Mamma mia!' é a exclamação de surpresa mais italiana que existe."
+  },
+  "tf21-02": {
+   "word": "il papà",
+   "translit": null,
+   "example": "Quando ero piccolo, papà mi leggeva una favola.",
+   "examplePt": "Quando eu era pequeno, o papai lia uma fábula para mim.",
+   "pron": "pa-PÁ — a força cai no fim, com 'á' aberto",
+   "curiosity": "Na Toscana também se diz 'babbo' para pai. Papà tem acento no final."
+  },
+  "tf21-03": {
+   "word": "il fratello",
+   "translit": null,
+   "example": "Mio fratello ha nascosto il mio diario ieri!",
+   "examplePt": "Meu irmão escondeu o meu diário ontem!",
+   "pron": "fra-TÉL-lo — 'll' dobrado e 'é' aberto; força no 'tél'",
+   "curiosity": "Com família no singular, não se usa artigo: mio fratello (não 'il mio')."
+  },
+  "tf21-04": {
+   "word": "la sorella",
+   "translit": null,
+   "example": "Se la sorella torna, facciamo una festa!",
+   "examplePt": "Se a irmã voltar, fazemos uma festa!",
+   "pron": "so-RÉL-la — o 'll' é dobrado; abra bem o 'é'",
+   "curiosity": "'Sorellastra' é a meia-irmã ou irmã postiça."
+  },
+  "tf21-05": {
+   "word": "il figlio",
+   "translit": null,
+   "example": "Il figlio dei vicini suona la tromba!",
+   "examplePt": "O filho dos vizinhos toca trombeta!",
+   "pron": "FÍ-lho — o 'gli' soa 'lh', igual ao português",
+   "curiosity": "'Figlio di papà' é o filhinho de papai, expressão bem italiana."
+  },
+  "tf21-06": {
+   "word": "la figlia",
+   "translit": null,
+   "example": "La figlia della dottoressa ha vinto il torneo!",
+   "examplePt": "A filha da doutora ganhou o torneio!",
+   "pron": "FÍ-lha — o 'gli' soa 'lh'; a força cai no 'fí'",
+   "curiosity": "Plural: figlie (só meninas), figli (meninos ou mistos): 'i figli' = filhos."
+  },
+  "tf21-07": {
+   "word": "il nonno",
+   "translit": null,
+   "example": "Il nonno ci racconta storie incredibili ogni domenica.",
+   "examplePt": "O vovô nos conta histórias incríveis todo domingo.",
+   "pron": "NÓN-no — o 'nn' é dobrado: dois N bem marcados",
+   "curiosity": "'Bisnonno' é bisavô e 'trisnonno', trisavô."
+  },
+  "tf21-08": {
+   "word": "la nonna",
+   "translit": null,
+   "example": "La nonna prepara i biscotti migliori del mondo.",
+   "examplePt": "A vovó prepara os melhores biscoitos do mundo.",
+   "pron": "NÓN-na — 'nn' dobrado; força no 'nón' aberto",
+   "curiosity": "'Ricetta della nonna' (receita da vovó) é sinônimo de comida caseira e deliciosa."
+  },
+  "tf21-09": {
+   "word": "lo zio",
+   "translit": null,
+   "example": "Lo zio ci ha portati al mare ieri.",
+   "examplePt": "O tio nos levou à praia ontem.",
+   "pron": "TSÍ-o — o 'z' soa 'ts' e 'io' se separa em duas sílabas",
+   "curiosity": "Antes de z o artigo masculino é 'lo': lo zio, lo zaino."
+  },
+  "tf21-10": {
+   "word": "la zia",
+   "translit": null,
+   "example": "Mia zia arriverà domani con una torta enorme.",
+   "examplePt": "A minha tia chegará amanhã com um bolo enorme.",
+   "pron": "TSÍ-a — o 'z' soa 'ts' e o 'ia' se divide em duas sílabas",
+   "curiosity": "Plural: 'zii' são tios de grupo misto e 'zie' só tias."
+  },
+  "tf22-01": {
+   "word": "felice",
+   "translit": null,
+   "example": "Sono così felice che potrei volare!",
+   "examplePt": "Estou tão feliz que poderia voar!",
+   "pron": "fe-LÍ-tche — força no 'lí'; o 'ce' final soa 'tche'",
+   "curiosity": "Adjetivos em -e servem para ele e ela: uomo felice, donna felice."
+  },
+  "tf22-02": {
+   "word": "triste",
+   "translit": null,
+   "example": "Perché sei triste? Hai perso il gelato?",
+   "examplePt": "Por que você está triste? Perdeu o sorvete?",
+   "pron": "TRÍS-te — o S é surdo e o 'e' final é pronunciado",
+   "curiosity": "Plural em -i para os dois gêneros: tristi. Singular igual para ele e ela."
+  },
+  "tf22-03": {
+   "word": "arrabbiato",
+   "translit": null,
+   "example": "Papà era arrabbiato perché aveva perso le chiavi.",
+   "examplePt": "O papai estava bravo porque tinha perdido as chaves.",
+   "pron": "ar-rab-BIÁ-to — 'rr' e 'bb' dobrados; força no 'biá'",
+   "curiosity": "Nasce de 'la rabbia' (a raiva): arrabbiato = tomado de raiva."
+  },
+  "tf22-04": {
+   "word": "spaventato",
+   "translit": null,
+   "example": "Il gattino era spaventato dal temporale.",
+   "examplePt": "O gatinho estava assustado com a tempestade.",
+   "pron": "spa-ven-TÁ-to — 'sp' junto, como 'espaço' sem o E; força no 'tá'",
+   "curiosity": "'Spaventapasseri' é o espantalho: literalmente 'espanta-pardais'."
+  },
+  "tf22-05": {
+   "word": "sorpreso",
+   "translit": null,
+   "example": "Sono rimasto sorpreso quando ho visto la torta!",
+   "examplePt": "Fiquei surpreso quando vi o bolo!",
+   "pron": "sor-PRÊ-zo — o S entre vogais vale Z; força no 'prê'",
+   "curiosity": "Particípio irregular de 'sorprendere'. Feminino: sorpresa; plural: sorpresi."
+  },
+  "tf22-06": {
+   "word": "stanco",
+   "translit": null,
+   "example": "Dopo la partita ero stanco morto!",
+   "examplePt": "Depois do jogo eu estava morto de cansaço!",
+   "pron": "STÁN-ko — 'st' junto; N claro e 'c' diante de 'o' é K",
+   "curiosity": "'Stanco morto' é o 'morto de cansado' dos italianos."
+  },
+  "tf22-07": {
+   "word": "assonnato",
+   "translit": null,
+   "example": "Il bambino assonnato ha chiesto un'altra storia.",
+   "examplePt": "O menino com sono pediu mais uma história.",
+   "pron": "as-son-NÁ-to — 'ss' e 'nn' dobrados; força no 'ná'",
+   "curiosity": "Nasce de 'il sonno' (o sono): assonnato = sonolento. O 'nn' é dobrado."
+  },
+  "tf22-08": {
+   "word": "annoiato",
+   "translit": null,
+   "example": "Mi sono sentito annoiato per tutto il film.",
+   "examplePt": "Fiquei entediado durante o filme inteiro.",
+   "pron": "an-no-IÁ-to — 'nn' dobrado; 'io' se divide: no-IÁ-to",
+   "curiosity": "'Noia' é o tédio em italiano: annoiato nasce dela."
+  },
+  "tf22-09": {
+   "word": "entusiasta",
+   "translit": null,
+   "example": "Eravamo tutti entusiasti della gita in montagna!",
+   "examplePt": "Estávamos todos animados com o passeio na montanha!",
+   "pron": "en-tu-ZIÁS-ta — o 's' entre vogais vale Z; força no 'zi'",
+   "curiosity": "'Entusiasmo' vem do grego e quer dizer, em essência, 'ter um deus dentro de si'."
+  },
+  "tf22-10": {
+   "word": "nervoso",
+   "translit": null,
+   "example": "Ero molto nervoso prima del grande esame!",
+   "examplePt": "Eu estava muito nervoso antes do grande exame!",
+   "pron": "ner-VÔ-zo — o S entre vogais vale Z; força no 'vô'",
+   "curiosity": "'Essere un fascio di nervi' é estar uma pilha de nervos."
+  },
+  "tf23-01": {
+   "word": "simpatico",
+   "translit": null,
+   "example": "Chi è il ragazzo simpatico vicino alla porta?",
+   "examplePt": "Quem é o rapaz simpático perto da porta?",
+   "pron": "sim-PÁ-ti-ko — força no 'pá'; 'c' diante de 'o' é K",
+   "curiosity": "O contrário é 'antipatico'. Feminino: simpatica; plural: simpatici."
+  },
+  "tf23-02": {
+   "word": "timido",
+   "translit": null,
+   "example": "Perché sei così timido con me?",
+   "examplePt": "Por que você é tão tímido comigo?",
+   "pron": "TÍ-mi-do — a força cai no 1º 'tí'; nada de 'timído'",
+   "curiosity": "'Timido' tem a mesma raiz latina de 'timore', o medo."
+  },
+  "tf23-03": {
+   "word": "coraggioso",
+   "translit": null,
+   "example": "Il piccolo topo è stato coraggioso come un leone!",
+   "examplePt": "O ratinho foi corajoso como um leão!",
+   "pron": "ko-rad-DJÔ-zo — 'gg' diante de 'i' é 'dj' dobrado; S vale Z",
+   "curiosity": "Dentro de 'coraggio' mora o coração: ter coragem é ter 'cuore'."
+  },
+  "tf23-04": {
+   "word": "pigro",
+   "translit": null,
+   "example": "Il mio gatto è così pigro che dorme mangiando!",
+   "examplePt": "O meu gato é tão preguiçoso que dorme comendo!",
+   "pron": "PÍ-gro — o 'g' é duro como em 'gato'; força no 'pí'",
+   "curiosity": "'La pigrizia' é a preguiça, um dos sete vícios capitais."
+  },
+  "tf23-05": {
+   "word": "generoso",
+   "translit": null,
+   "example": "Il vecchio re era generoso con tutti.",
+   "examplePt": "O velho rei era generoso com todos.",
+   "pron": "dje-ne-RÔ-zo — 'ge' soa 'dje'; S entre vogais vale Z",
+   "curiosity": "O final -oso é o mesmo do português: generoso, curioso, coraggioso."
+  },
+  "tf23-06": {
+   "word": "testardo",
+   "translit": null,
+   "example": "Il mulo è testardo e non si muove!",
+   "examplePt": "A mula é teimosa e não se mexe!",
+   "pron": "tes-TÁR-do — força no 'tár'; R vibra e o 'd' é claro",
+   "curiosity": "Testardo vem de 'testa' (cabeça): cabeça-dura de verdade."
+  },
+  "tf23-07": {
+   "word": "onesto",
+   "translit": null,
+   "example": "Un amico onesto dice sempre la verità.",
+   "examplePt": "Um amigo honesto sempre diz a verdade.",
+   "pron": "o-NÉS-to — o H não existe; força no 'nés' aberto",
+   "curiosity": "Igual a 'honesto', mas o H sumiu da escrita italiana: onesto!"
+  },
+  "tf23-08": {
+   "word": "curioso",
+   "translit": null,
+   "example": "Sei curioso di sapere il segreto?",
+   "examplePt": "Você está curioso para saber o segredo?",
+   "pron": "ku-ri-Ô-zo — o S entre vogais vale Z; a força cai no 'ô'",
+   "curiosity": "'Curiosare' é dar uma espiada por aí: 'curiosare in giro'."
+  },
+  "tf23-09": {
+   "word": "paziente",
+   "translit": null,
+   "example": "Il maestro era paziente con tutti i bambini.",
+   "examplePt": "O professor era paciente com todas as crianças.",
+   "pron": "pa-TSIÉN-te — 'zie' soa 'tsie'; força no 'tsién'",
+   "curiosity": "Paziente também é o paciente do médico. Uma palavra, dois papéis!"
+  },
+  "tf23-10": {
+   "word": "divertente",
+   "translit": null,
+   "example": "Quel clown è così divertente che piango!",
+   "examplePt": "Aquele palhaço é tão engraçado que eu choro!",
+   "pron": "di-ver-TÊN-te — força no 'tên'; 'e' fechado e N claro",
+   "curiosity": "Divertente = que diverte. Do mesmo grupo: divertirsi (se divertir)."
+  },
+  "tf24-01": {
+   "word": "la nostalgia",
+   "translit": null,
+   "example": "Lontano da casa, sento tanta nostalgia.",
+   "examplePt": "Longe de casa, sinto tanta saudade.",
+   "pron": "nos-tal-DJÍ-a — 'gia' soa 'dji-a'; força no 'dji'",
+   "curiosity": "Sem tradução exata! Use 'nostalgia' e, para alguém, 'mi manchi' (sinto sua falta)."
+  },
+  "tf24-02": {
+   "word": "la gelosia",
+   "translit": null,
+   "example": "Ho visto un lampo di gelosia nei suoi occhi.",
+   "examplePt": "Vi um lampejo de ciúme nos olhos dele.",
+   "pron": "dje-lo-ZÍ-a — 'ge' soa 'dje'; o S vale Z; força no 'zí'",
+   "curiosity": "'La gelosia' também é a persiana de ripas, que esconde quem está dentro."
+  },
+  "tf24-03": {
+   "word": "l'orgoglio",
+   "translit": null,
+   "example": "Provo un grande orgoglio per la mia squadra!",
+   "examplePt": "Sinto grande orgulho pelo meu time!",
+   "pron": "or-GÓ-lho — o 'gli' soa 'lh'; força no 'gó'",
+   "curiosity": "'Orgoglio' pode ser bom: 'sono orgoglioso di te' é um elogio."
+  },
+  "tf24-04": {
+   "word": "la vergogna",
+   "translit": null,
+   "example": "Che vergogna, ho dimenticato il suo nome!",
+   "examplePt": "Que vergonha, esqueci o nome dele!",
+   "pron": "ver-GÔ-nha — o 'gn' soa 'nh'; força no 'gô'",
+   "curiosity": "'Vergognati!' é a bronca clássica: 'tenha vergonha!'."
+  },
+  "tf24-05": {
+   "word": "la speranza",
+   "translit": null,
+   "example": "La speranza è l'ultima a morire.",
+   "examplePt": "A esperança é a última a morrer.",
+   "pron": "spe-RÁN-tsa — 'nza' vira 'ntsa'; força no 'rán'",
+   "curiosity": "O provérbio italiano é quase igual ao brasileiro: a esperança morre por último."
+  },
+  "tf24-06": {
+   "word": "la fiducia",
+   "translit": null,
+   "example": "Ti do la mia fiducia, non tradirmi!",
+   "examplePt": "Te dou a minha confiança, não me traia!",
+   "pron": "fi-DÚ-tcha — 'cia' soa 'tcha'; força no 'dú'",
+   "curiosity": "'Avere fiducia in' = confiar em alguém: ho fiducia in te."
+  },
+  "tf24-07": {
+   "word": "l'amicizia",
+   "translit": null,
+   "example": "Un'amicizia vera dura per sempre.",
+   "examplePt": "Uma amizade verdadeira dura para sempre.",
+   "pron": "a-mi-TCHÍ-tsia — 'ci' vira 'tchi' e 'zi' vira 'tsi'",
+   "curiosity": "'Amicone' é o amigão do peito: o -one funciona como aumentativo."
+  },
+  "tf24-08": {
+   "word": "l'amore",
+   "translit": null,
+   "example": "Amore mio, torna presto a casa!",
+   "examplePt": "Meu amor, volte logo para casa!",
+   "pron": "a-MÔ-re — força no 'mô'; 'o' fechado e R vibrante",
+   "curiosity": "Substantivos em -ore são masculinos: l'amore, il fiore, il colore."
+  },
+  "tf24-09": {
+   "word": "la rabbia",
+   "translit": null,
+   "example": "Respira! La rabbia passa più in fretta.",
+   "examplePt": "Respire! A raiva passa mais depressa.",
+   "pron": "RÁB-bia — o 'bb' é dobrado: segure o B antes do 'ia'",
+   "curiosity": "'La rabbia' é a raiva-sentimento e também a doença transmitida por cães."
+  },
+  "tf24-10": {
+   "word": "il sollievo",
+   "translit": null,
+   "example": "Che sollievo, finalmente l'esame è finito!",
+   "examplePt": "Que alívio, finalmente a prova acabou!",
+   "pron": "sol-LIÉ-vo — 'll' dobrado e 'ie' ditongo; força no 'lié'",
+   "curiosity": "Vem de 'sollevare' (erguer): alívio é tirar um peso dos ombros."
+  },
+  "tf25-01": {
+   "word": "il medico",
+   "translit": null,
+   "example": "Il medico mi ha detto: niente gelato!",
+   "examplePt": "O médico me disse: nada de sorvete!",
+   "pron": "MÉ-di-ko — força no 'mé' aberto; 'c' diante de 'o' é K",
+   "curiosity": "Feminino: la dottoressa (ou 'la medica'). O título 'dottore' é muito usado."
+  },
+  "tf25-02": {
+   "word": "il professore",
+   "translit": null,
+   "example": "Il professore ha spiegato tutto con un video.",
+   "examplePt": "O professor explicou tudo com um vídeo.",
+   "pron": "pro-fes-SÔ-re — 'ss' dobrado e forte; força no 'sô'",
+   "curiosity": "Nas primeiras séries o professor é 'il maestro'; 'professore' é do ensino médio em diante."
+  },
+  "tf25-03": {
+   "word": "il cuoco",
+   "translit": null,
+   "example": "Il cuoco ha lanciato la pizza in aria!",
+   "examplePt": "O cozinheiro lançou a pizza no ar!",
+   "pron": "KUÓ-ko — 'uo' ditongo; 'c' diante de 'o' é K",
+   "curiosity": "A arte do 'pizzaiolo' napolitano é Patrimônio Imaterial da Humanidade (Unesco)."
+  },
+  "tf25-04": {
+   "word": "l'autista",
+   "translit": null,
+   "example": "L'autista ha frenato appena in tempo.",
+   "examplePt": "O motorista freou bem a tempo.",
+   "pron": "au-TÍS-ta — 'au' ditongo; força no 'tís'",
+   "curiosity": "Final -ista serve para ele e ela: l'autista. Plural: autisti ou autiste."
+  },
+  "tf25-05": {
+   "word": "il pompiere",
+   "translit": null,
+   "example": "Il pompiere ha salvato un gattino dal tetto!",
+   "examplePt": "O bombeiro salvou um gatinho do telhado!",
+   "pron": "pom-PIÉ-re — 'ie' ditongo; força no 'pié'",
+   "curiosity": "O nome oficial é 'vigile del fuoco' (vigia do fogo), mas todos dizem pompiere."
+  },
+  "tf25-06": {
+   "word": "il poliziotto",
+   "translit": null,
+   "example": "Il poliziotto ha fischiato e tutti si sono fermati.",
+   "examplePt": "O policial apitou e todos pararam.",
+   "pron": "po-li-TSIÓT-to — 'zi' soa 'tsi'; 'tt' dobrado; força no 'tsiót'",
+   "curiosity": "A instituição é 'la polizia'; o agente é 'il poliziotto'. Parentes!"
+  },
+  "tf25-07": {
+   "word": "il dentista",
+   "translit": null,
+   "example": "Il dentista ha sorriso: nessuna carie, bravo!",
+   "examplePt": "O dentista sorriu: nenhuma cárie, parabéns!",
+   "pron": "den-TÍS-ta — N claro; força no 'tís'",
+   "curiosity": "Dente = 'dente' em italiano: dentista, dentiera (dentadura), dentifricio."
+  },
+  "tf25-08": {
+   "word": "l'infermiere",
+   "translit": null,
+   "example": "L'infermiere mi ha misurato la febbre con delicatezza.",
+   "examplePt": "O enfermeiro mediu a minha febre com delicadeza.",
+   "pron": "in-fer-MIÉ-re — 'ie' é ditongo; força no 'mié'",
+   "curiosity": "'Infermiere' vem de 'infermo', o doente: quem cuida dos enfermos."
+  },
+  "tf25-09": {
+   "word": "l'ingegnere",
+   "translit": null,
+   "example": "L'ingegnere ha progettato un ponte altissimo.",
+   "examplePt": "O engenheiro projetou uma ponte altíssima.",
+   "pron": "in-dje-NHÊ-re — 'ge' soa 'dje' e 'gn' soa 'nh'",
+   "curiosity": "'Ingegnere' tem a mesma raiz de 'ingegno', o engenho e o talento."
+  },
+  "tf25-10": {
+   "word": "l'avvocato",
+   "translit": null,
+   "example": "L'avvocato ha vinto la causa in dieci minuti!",
+   "examplePt": "O advogado ganhou a causa em dez minutos!",
+   "pron": "av-vo-KÁ-to — 'vv' dobrado; o 'c' diante de 'a' é K",
+   "curiosity": "Cuidado: avvocato é advogado; o abacate é 'avocado', com um V só!"
+  },
+  "tf26-01": {
+   "word": "la riunione",
+   "translit": null,
+   "example": "La riunione è durata tre ore: che noia!",
+   "examplePt": "A reunião durou três horas: que tédio!",
+   "pron": "ri-u-NIÔ-ne — o 'u' soa separado; força no 'niô'",
+   "curiosity": "'Riunione di condominio' é a reunião de condomínio, o terror de muita gente."
+  },
+  "tf26-02": {
+   "word": "lo stipendio",
+   "translit": null,
+   "example": "Lo stipendio arriva il ventisette di ogni mese.",
+   "examplePt": "O salário chega no dia vinte e sete de todo mês.",
+   "pron": "sti-PÉN-dio — 'st' junto; força no 'pén'",
+   "curiosity": "Antes de 'st' vem 'lo': lo stipendio, lo studente, lo stato."
+  },
+  "tf26-03": {
+   "word": "il capo",
+   "translit": null,
+   "example": "Il capo ha detto sì al progetto!",
+   "examplePt": "O chefe disse sim ao projeto!",
+   "pron": "KÁ-po — 'c' diante de 'a' é K; força no 'ká'",
+   "curiosity": "Capo também é 'cabeça': na música, 'da capo' significa 'do começo'."
+  },
+  "tf26-04": {
+   "word": "il collega",
+   "translit": null,
+   "example": "Un collega mi ha prestato il suo ombrello.",
+   "examplePt": "Um colega me emprestou o guarda-chuva dele.",
+   "pron": "kol-LÉ-ga — 'll' dobrado; 'g' duro; força no 'lé'",
+   "curiosity": "Termina em -a mas é masculino: il collega. Feminino: la collega."
+  },
+  "tf26-05": {
+   "word": "il contratto",
+   "translit": null,
+   "example": "Prima di firmare il contratto, leggi ogni riga!",
+   "examplePt": "Antes de assinar o contrato, leia cada linha!",
+   "pron": "kon-TRÁT-to — o 'tt' é dobrado e seco; força no 'trát'",
+   "curiosity": "'Contratto a tempo indeterminato' é o contrato fixo, sonho de muito italiano."
+  },
+  "tf26-06": {
+   "word": "il curriculum",
+   "translit": null,
+   "example": "Ho aggiornato il curriculum e sono pronto!",
+   "examplePt": "Atualizei o currículo e estou pronto!",
+   "pron": "kur-RÍ-ku-lum — 'rr' dobrado e forte; força no 'rí'",
+   "curiosity": "É latim usado tal qual. Na Itália muita gente abrevia: 'il CV'."
+  },
+  "tf26-07": {
+   "word": "il colloquio",
+   "translit": null,
+   "example": "Come mi vesto per il colloquio di domani?",
+   "examplePt": "Como me visto para a entrevista de amanhã?",
+   "pron": "kol-LÓ-kuio — 'll' dobrado; 'qu' soa 'ku'; força no 'ló'",
+   "curiosity": "Colloquio é conversa formal. Entrevista de emprego: 'colloquio di lavoro'."
+  },
+  "tf26-08": {
+   "word": "l'e-mail",
+   "translit": null,
+   "example": "Ti ho mandato un'e-mail con tutti i dettagli.",
+   "examplePt": "Te mandei um e-mail com todos os detalhes.",
+   "pron": "i-MÊIL — palavra inglesa lida como 'imêil'; o 'e' se junta",
+   "curiosity": "E-mail é feminina em italiano: l'e-mail, un'e-mail."
+  },
+  "tf26-09": {
+   "word": "la scadenza",
+   "translit": null,
+   "example": "Quando è la scadenza? Siamo già in ritardo!",
+   "examplePt": "Quando é o prazo? Já estamos atrasados!",
+   "pron": "ska-DÊN-tsa — 'sc' diante de 'a' é 'sk'; 'nza' vira 'ntsa'",
+   "curiosity": "Scadenza serve para prazo e validade: 'la scadenza del latte'."
+  },
+  "tf26-10": {
+   "word": "l'azienda",
+   "translit": null,
+   "example": "L'azienda ha aperto una sede a Milano.",
+   "examplePt": "A empresa abriu uma filial em Milão.",
+   "pron": "ad-ZIÊN-da — 'z' soa 'dz'; força no 'ziên'",
+   "curiosity": "Azienda é empresa, não fazenda. Mas 'azienda agricola' é uma fazenda!"
+  },
+  "tf27-01": {
+   "word": "l'ambulanza",
+   "translit": null,
+   "example": "L'ambulanza correva con la sirena accesa.",
+   "examplePt": "A ambulância corria com a sirene ligada.",
+   "pron": "am-bu-LÁN-tsa — 'nza' soa 'ntsa'; força no 'lán'",
+   "curiosity": "'Ambulanza' vem do latim 'ambulare', andar: um hospital que anda."
+  },
+  "tf27-02": {
+   "word": "l'incendio",
+   "translit": null,
+   "example": "C'è un incendio dietro la collina!",
+   "examplePt": "Tem um incêndio atrás da colina!",
+   "pron": "in-TCHÉN-dio — 'ce' soa 'tchê'; força no 'tchén'",
+   "curiosity": "'Incendiario' é incendiário e também discurso inflamado."
+  },
+  "tf27-03": {
+   "word": "l'incidente",
+   "translit": null,
+   "example": "L'incidente è successo vicino alla stazione ieri.",
+   "examplePt": "O acidente aconteceu perto da estação ontem.",
+   "pron": "in-tchi-DÊN-te — 'ci' soa 'tchi'; força no 'dên'",
+   "curiosity": "Aqui incidente é acidente. Acidente no trabalho: 'infortunio sul lavoro'."
+  },
+  "tf27-04": {
+   "word": "il ferito",
+   "translit": null,
+   "example": "Il ferito ha ringraziato i soccorritori.",
+   "examplePt": "O ferido agradeceu aos socorristas.",
+   "pron": "fe-RÍ-to — força no 'rí'; R vibrante curto",
+   "curiosity": "Vem de 'ferire' (ferir). Feminino: ferita, que também é a 'ferida'."
+  },
+  "tf27-05": {
+   "word": "la febbre",
+   "translit": null,
+   "example": "Ho la febbre alta, chiamo il dottore.",
+   "examplePt": "Estou com febre alta, vou chamar o médico.",
+   "pron": "FÉB-bre — 'bb' dobrado; 'e' aberto; força no 'féb'",
+   "curiosity": "Italiano usa 'avere': ho la febbre (tenho febre), em vez de 'estar com'."
+  },
+  "tf27-06": {
+   "word": "la medicina",
+   "translit": null,
+   "example": "Prendo la medicina dopo ogni pasto.",
+   "examplePt": "Tomo o remédio depois de cada refeição.",
+   "pron": "me-di-TCHÍ-na — 'ci' soa 'tchi'; força no 'tchí'",
+   "curiosity": "Medicina é remédio e também a ciência: 'studio medicina' é fazer faculdade."
+  },
+  "tf27-07": {
+   "word": "l'allarme",
+   "translit": null,
+   "example": "L'allarme suona: tutti fuori dall'edificio!",
+   "examplePt": "O alarme toca: todos para fora do prédio!",
+   "pron": "al-LÁR-me — 'll' dobrado e força no 'lár'",
+   "curiosity": "'Allarme' vem de 'all'arme!', o grito de 'às armas!'."
+  },
+  "tf27-08": {
+   "word": "il pronto soccorso",
+   "translit": null,
+   "example": "Siamo corsi al pronto soccorso di notte.",
+   "examplePt": "Corremos ao pronto-socorro de madrugada.",
+   "pron": "PRÓN-to sok-KÓR-so — 'cc' dobrado como K; força no 'kór'",
+   "curiosity": "Na Itália, o 118 chama a ambulância e o 112 é o número europeu de emergência."
+  },
+  "tf27-09": {
+   "word": "l'alluvione",
+   "translit": null,
+   "example": "L'alluvione ha coperto i campi di fango.",
+   "examplePt": "A enchente cobriu os campos de lama.",
+   "pron": "al-lu-VIÔ-ne — 'll' dobrado; força no 'viô'",
+   "curiosity": "'Aluvião' existe em português, mas em italiano 'alluvione' é a enchente em si."
+  },
+  "tf27-10": {
+   "word": "il blackout",
+   "translit": null,
+   "example": "Che buio! C'è un blackout in tutto il quartiere.",
+   "examplePt": "Que escuridão! Faltou luz no bairro inteiro.",
+   "pron": "BLÉK-aut — palavra inglesa: 'blék' e 'aut'",
+   "curiosity": "Palavra do inglês, masculina e invariável: il blackout, i blackout."
+  },
+  "tf28-01": {
+   "word": "Quanto costa?",
+   "translit": null,
+   "example": "Scusi, quanto costa questo cappello con la piuma?",
+   "examplePt": "Com licença, quanto custa este chapéu com pena?",
+   "pron": "KUÁN-to KÓS-ta — 'qu' soa 'ku'; força no 'kuán' e no 'kós'",
+   "curiosity": "Para vários itens: 'Quanto costano?'. Comece com 'scusi' para ser educado."
+  },
+  "tf28-02": {
+   "word": "Dov'è il bagno?",
+   "translit": null,
+   "example": "Scusi, dov'è il bagno? Non ce la faccio più!",
+   "examplePt": "Com licença, onde fica o banheiro? Não aguento mais!",
+   "pron": "do-VÉ il BÁ-nho — 'gn' soa 'nh'; força no 'vé' e 'bá'",
+   "curiosity": "Dov'è = dove + è. O apóstrofo junta as duas palavras na fala."
+  },
+  "tf28-03": {
+   "word": "Non ho capito",
+   "translit": null,
+   "example": "Non ho capito niente! Puoi spiegare di nuovo?",
+   "examplePt": "Não entendi nada! Pode explicar de novo?",
+   "pron": "non ó ka-PÍ-to — o H de 'ho' é mudo: só 'ó'; força no 'pí'",
+   "curiosity": "Passado com 'ho' + capito. O 'non' vem antes do 'ho': non ho capito."
+  },
+  "tf28-04": {
+   "word": "Parla più piano",
+   "translit": null,
+   "example": "Parla più piano, per favore: sono ancora principiante!",
+   "examplePt": "Fale mais devagar, por favor: ainda sou iniciante!",
+   "pron": "PÁR-la piu PIÁ-no — 'pi' + 'a' ditongo; força no 'pár' e 'piá'",
+   "curiosity": "'Piano' é devagar, mas também o instrumento musical e o andar de um prédio!"
+  },
+  "tf28-05": {
+   "word": "Puoi ripetere?",
+   "translit": null,
+   "example": "Non ho sentito bene: puoi ripetere, per favore?",
+   "examplePt": "Não ouvi bem: pode repetir, por favor?",
+   "pron": "puói ri-PÉ-te-re — 'uo' ditongo; força no 'pé' aberto",
+   "curiosity": "Com desconhecidos, use o formal: 'Può ripetere?' (Lei). Com amigos: 'Puoi'."
+  },
+  "tf28-06": {
+   "word": "Ho bisogno di aiuto",
+   "translit": null,
+   "example": "Ho bisogno di aiuto: la mia valigia è sparita!",
+   "examplePt": "Preciso de ajuda: a minha mala sumiu!",
+   "pron": "ó bi-ZÔ-nho di a-IÚ-to — o 'gn' soa 'nh'; o H é mudo",
+   "curiosity": "'Avere bisogno di' = precisar de. Sempre com 'di' antes do que falta."
+  },
+  "tf28-07": {
+   "word": "Mi sono perso",
+   "translit": null,
+   "example": "Mi sono perso, ma questo vicolo è un labirinto!",
+   "examplePt": "Me perdi, mas este beco é um labirinto!",
+   "pron": "mi SÔ-no PÉR-so — 'o' fechado e S surdo no 'pér-so'",
+   "curiosity": "Mulher diz 'Mi sono persa'. O particípio concorda com quem fala."
+  },
+  "tf28-08": {
+   "word": "Mi porta il conto?",
+   "translit": null,
+   "example": "Mi porta il conto, per favore? Abbiamo finito.",
+   "examplePt": "Pode trazer a conta, por favor? Terminamos.",
+   "pron": "mi PÓR-ta il KÓN-to — 'o' aberto; 'c' diante de 'o' é K",
+   "curiosity": "Na Itália o garçom só traz o conto quando você pede. Não é indelicadeza!"
+  },
+  "tf28-09": {
+   "word": "Ho fame",
+   "translit": null,
+   "example": "Ho fame da lupi! Dov'è la pizza?",
+   "examplePt": "Estou com fome de lobo! Cadê a pizza?",
+   "pron": "ó FÁ-me — o H de 'ho' é mudo; força no 'fá'",
+   "curiosity": "'Fame da lupi' é a 'fome de lobo' dos italianos, uma imagem bem conhecida."
+  },
+  "tf28-10": {
+   "word": "Ho sete",
+   "translit": null,
+   "example": "Ho sete! Chi ha dell'acqua fresca?",
+   "examplePt": "Estou com sede! Quem tem água fresca?",
+   "pron": "ó SÊ-te — o H de 'ho' é mudo; 'e' fechado em 'sê'",
+   "curiosity": "Italiano usa 'avere': ho sete, ho fame, ho sonno. Sempre o verbo 'ter'."
+  },
+  "tf29-01": {
+   "word": "In bocca al lupo!",
+   "translit": null,
+   "example": "Domani hai l'esame? In bocca al lupo!",
+   "examplePt": "Amanhã tem prova? Boa sorte!",
+   "pron": "in BÓK-ka al LÚ-po — 'cc' é um K dobrado; 'u' puro",
+   "curiosity": "A resposta clássica é 'Crepi!'. Dizer 'grazie' dá azar, segundo a tradição."
+  },
+  "tf29-02": {
+   "word": "Nessun problema",
+   "translit": null,
+   "example": "Hai dimenticato l'ombrello? Nessun problema, ho il mio!",
+   "examplePt": "Esqueceu o guarda-chuva? Sem problema, tenho o meu!",
+   "pron": "nes-SÚN pro-BLÊ-ma — 'ss' dobrado; força no 'sún' e no 'blê'",
+   "curiosity": "Nessun problema (sem 'o'). Variante comum: 'Non c'è problema'."
+  },
+  "tf29-03": {
+   "word": "Buon compleanno!",
+   "translit": null,
+   "example": "Buon compleanno, nonna! Spegni tutte le candeline!",
+   "examplePt": "Feliz aniversário, vovó! Apague todas as velinhas!",
+   "pron": "buon kom-ple-ÁN-no — 'uo' ditongo; 'nn' dobrado",
+   "curiosity": "Diz-se 'buon', não 'buono': antes de masculino singular, 'buono' encurta."
+  },
+  "tf29-04": {
+   "word": "Che peccato!",
+   "translit": null,
+   "example": "Piove di nuovo? Che peccato, niente picnic!",
+   "examplePt": "Chove de novo? Que pena, nada de piquenique!",
+   "pron": "ke pek-KÁ-to — 'che' soa 'kê'; 'cc' é K dobrado",
+   "curiosity": "'Peccato' também é pecado, mas 'Che peccato!' significa 'Que pena!'."
+  },
+  "tf29-05": {
+   "word": "Che bello!",
+   "translit": null,
+   "example": "Una festa a sorpresa? Che bello, grazie mille!",
+   "examplePt": "Uma festa surpresa? Que legal, muito obrigado!",
+   "pron": "ke BÉL-lo — 'che' soa 'kê'; 'll' dobrado; força no 'bél'",
+   "curiosity": "'Che' + adjetivo = exclamação: che bello! che buono! che carino!"
+  },
+  "tf29-06": {
+   "word": "Mettiti comodo!",
+   "translit": null,
+   "example": "Mettiti comodo! Il divano è tutto tuo.",
+   "examplePt": "Fique à vontade! O sofá é todo seu.",
+   "pron": "MÉT-ti-ti KÓ-mo-do — 'tt' dobrado; força no 'mét' e no 'kó'",
+   "curiosity": "Para mulher: 'Mettiti comoda!'. Para vários: 'Mettetevi comodi!'."
+  },
+  "tf29-07": {
+   "word": "Salute!",
+   "translit": null,
+   "example": "Hai starnutito? Salute, e copriti bene!",
+   "examplePt": "Você espirrou? Saúde, e se agasalhe bem!",
+   "pron": "sa-LÚ-te — força no 'lú'; 'u' puro; 'e' final soa",
+   "curiosity": "'Salute!' também é brinde: com os copos erguidos, os italianos dizem 'Salute!'."
+  },
+  "tf29-08": {
+   "word": "Buon appetito!",
+   "translit": null,
+   "example": "La cena è pronta, a tavola: buon appetito!",
+   "examplePt": "O jantar está pronto, à mesa: bom apetite!",
+   "pron": "buon ap-pe-TÍ-to — 'pp' dobrado e força no 'tí'",
+   "curiosity": "Na Itália é comum o 'Buon appetito!' à mesa toda, antes do primeiro garfo."
+  },
+  "tf29-09": {
+   "word": "Buon viaggio!",
+   "translit": null,
+   "example": "Parti domani per Napoli? Buon viaggio e scrivimi!",
+   "examplePt": "Parte amanhã para Nápoles? Boa viagem e me escreva!",
+   "pron": "buon vi-ÁD-djo — o 'ggio' vira 'dj' dobrado",
+   "curiosity": "'Viaggio di nozze' é a viagem de lua de mel: 'Buon viaggio!' vale para toda partida."
+  },
+  "tf29-10": {
+   "word": "Abbi cura di te!",
+   "translit": null,
+   "example": "Ciao, torno presto: abbi cura di te!",
+   "examplePt": "Tchau, volto logo: cuide-se!",
+   "pron": "ÁB-bi KÚ-ra di te — 'bb' dobrado; força no 'áb' e no 'kú'",
+   "curiosity": "Imperativo irregular de 'avere': abbi (tu), abbia (Lei). Decore!"
+  },
+  "tf30-01": {
+   "word": "In realtà",
+   "translit": null,
+   "example": "In realtà non è difficile: guarda, ti mostro!",
+   "examplePt": "Na verdade não é difícil: olha, eu te mostro!",
+   "pron": "in re-al-TÁ — a força cai no fim: 'tá' bem marcado",
+   "curiosity": "Palavras em -tà têm acento final e não mudam no plural: la realtà, le realtà."
+  },
+  "tf30-02": {
+   "word": "Per esempio",
+   "translit": null,
+   "example": "Mi piacciono gli animali, per esempio la volpe.",
+   "examplePt": "Gosto de animais, por exemplo a raposa.",
+   "pron": "per e-ZÉM-pio — o S entre vogais vale Z; força no 'zém'",
+   "curiosity": "Italianos alternam 'per esempio' e 'ad esempio' sem diferença de sentido."
+  },
+  "tf30-03": {
+   "word": "Almeno",
+   "translit": null,
+   "example": "Almeno oggi c'è il sole, no?",
+   "examplePt": "Pelo menos hoje tem sol, não é?",
+   "pron": "al-MÊ-no — força no 'mê'; 'e' fechado e R vibrante",
+   "curiosity": "Ótimo para ver o lado bom: 'Almeno ho provato!' (pelo menos eu tentei)."
+  },
+  "tf30-04": {
+   "word": "Per me è uguale",
+   "translit": null,
+   "example": "Pizza o pasta? Per me è uguale!",
+   "examplePt": "Pizza ou massa? Para mim tanto faz!",
+   "pron": "per me É u-GUÁ-le — 'gu' soa 'gu' com U; força no 'guá'",
+   "curiosity": "Variante: 'Mi è indifferente'. 'Uguale' é igual ao 'igual' do português."
+  },
+  "tf30-05": {
+   "word": "Neanche per sogno",
+   "translit": null,
+   "example": "Uscire con questa pioggia? Neanche per sogno!",
+   "examplePt": "Sair com essa chuva? Nem pensar!",
+   "pron": "ne-ÁN-ke per SÔ-nho — 'che' soa 'ke'; 'gn' soa 'nh'",
+   "curiosity": "Literalmente 'nem em sonho': o 'sogno' é o sonho. Nem sonhando!"
+  },
+  "tf30-06": {
+   "word": "Ne vale la pena",
+   "translit": null,
+   "example": "Il viaggio è lungo, ma ne vale la pena.",
+   "examplePt": "A viagem é longa, mas vale a pena.",
+   "pron": "ne VÁ-le la PÊ-na — 'e' fechado em 'ne'; força no 'vá' e 'pê'",
+   "curiosity": "O 'ne' substitui 'disso': ne vale la pena = vale a pena (isso)."
+  },
+  "tf30-07": {
+   "word": "Senza dubbio",
+   "translit": null,
+   "example": "Senza dubbio, questa è la pizza migliore!",
+   "examplePt": "Sem dúvida, esta é a melhor pizza!",
+   "pron": "SÉN-tsa DÚB-bio — 'nza' vira 'ntsa'; 'bb' dobrado",
+   "curiosity": "'Senz'altro' é outro jeito de dizer 'com certeza': literalmente 'sem mais nada'."
+  },
+  "tf30-08": {
+   "word": "Può darsi",
+   "translit": null,
+   "example": "Può darsi che domani nevichi sulla spiaggia!",
+   "examplePt": "Pode ser que amanhã neve na praia!",
+   "pron": "puó DÁR-si — 'uo' ditongo; força no 'dár'",
+   "curiosity": "'Può darsi che' pede subjuntivo: che piova, che nevichi."
+  },
+  "tf30-09": {
+   "word": "Poco a poco",
+   "translit": null,
+   "example": "Poco a poco, la mia casa diventa una giungla.",
+   "examplePt": "Aos poucos, a minha casa vira uma selva.",
+   "pron": "PÓ-ko a PÓ-ko — 'o' aberto; 'c' diante de 'o' é K",
+   "curiosity": "Provérbio: 'Chi va piano va sano e va lontano' (quem vai devagar vai longe)."
+  },
+  "tf30-10": {
+   "word": "All'improvviso",
+   "translit": null,
+   "example": "All'improvviso, un'enorme ombra copre tutta la città!",
+   "examplePt": "De repente, uma enorme sombra cobre a cidade toda!",
+   "pron": "al-lim-prov-VÍ-zo — 'vv' dobrado; força no 'ví'",
+   "curiosity": "'Fare un'improvvisata' é fazer uma visita surpresa."
+  }
+ }
+}

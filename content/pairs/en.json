@@ -1,0 +1,1927 @@
+{
+  "game": "pairs",
+  "language": "en",
+  "version": 1,
+  "entries": {
+    "pr01-01": {
+      "word": "lion",
+      "translit": null,
+      "example": "The lion yawns like a giant cat.",
+      "examplePt": "O leão boceja como um gato gigante.",
+      "pron": "LÁI-on — 'ai' como em 'pai'; o final é um 'on' bem fraco",
+      "curiosity": "Leões vivem em grupos chamados 'prides' — são os únicos felinos grandes assim."
+    },
+    "pr01-02": {
+      "word": "tiger",
+      "translit": null,
+      "example": "Does a tiger really love water?",
+      "examplePt": "Um tigre realmente adora água?",
+      "pron": "TÁI-gâr — 'ai' como em 'pai'; o 'r' final é suave",
+      "curiosity": "Cada tigre tem listras únicas, como uma impressão digital humana."
+    },
+    "pr01-03": {
+      "word": "elephant",
+      "translit": null,
+      "example": "An elephant sprays water with its trunk.",
+      "examplePt": "Um elefante espirra água com a tromba.",
+      "pron": "É-le-fent — o 'ph' soa como 'f' e o 'a' final é quase mudo",
+      "curiosity": "Elefantes se reconhecem no espelho, algo raro no reino animal."
+    },
+    "pr01-04": {
+      "word": "giraffe",
+      "translit": null,
+      "example": "The giraffe eats leaves from tall trees.",
+      "examplePt": "A girafa come folhas de árvores altas.",
+      "pron": "dje-RÉF — o 'g' soa 'dj'; o 'a' é aberto e o 'ff' é um 'f' só",
+      "curiosity": "O pescoço da girafa tem sete ossos, o mesmo número que o seu."
+    },
+    "pr01-05": {
+      "word": "monkey",
+      "translit": null,
+      "example": "Which monkey stole my banana?",
+      "examplePt": "Qual macaco roubou minha banana?",
+      "pron": "MÂN-ki — o 'o' soa 'â'; o 'ey' final é um 'i' curto",
+      "curiosity": "Em inglês, 'ape' (gorila, chimpanzé) não tem rabo; 'monkey' em geral tem."
+    },
+    "pr01-06": {
+      "word": "zebra",
+      "translit": null,
+      "example": "A zebra wears black and white pajamas.",
+      "examplePt": "Uma zebra usa pijama preto e branco.",
+      "pron": "ZI-bra — nos EUA o 'e' é longo, como 'zi'; o 'a' final é fraco",
+      "curiosity": "Um grupo de zebras em inglês se chama 'dazzle': um deslumbre!"
+    },
+    "pr01-07": {
+      "word": "hippo",
+      "translit": null,
+      "example": "A hippo yawns with a giant mouth.",
+      "examplePt": "Um hipopótamo boceja com uma boca gigante.",
+      "pron": "HÍ-pou — o 'h' é um sopro leve; é a forma curta de 'hippopotamus'",
+      "curiosity": "'Hippopotamus' vem do grego e significa 'cavalo do rio'."
+    },
+    "pr01-08": {
+      "word": "crocodile",
+      "translit": null,
+      "example": "The crocodile smiles, then snaps!",
+      "examplePt": "O crocodilo sorri e depois abocanha!",
+      "pron": "CRÓ-co-dail — 'ile' final soa 'ail' e o 'e' é mudo",
+      "curiosity": "Em inglês, crocodile e alligator (jacaré) são bichos diferentes."
+    },
+    "pr02-01": {
+      "word": "eagle",
+      "translit": null,
+      "example": "An eagle spots a mouse from far away.",
+      "examplePt": "Uma águia avista um rato de longe.",
+      "pron": "Í-gol — 'ea' é um 'i' longo; o 'le' final é um 'l' fraco",
+      "curiosity": "A águia-de-cabeça-branca é a ave símbolo dos Estados Unidos."
+    },
+    "pr02-02": {
+      "word": "penguin",
+      "translit": null,
+      "example": "The penguin slides on the ice.",
+      "examplePt": "O pinguim desliza no gelo.",
+      "pron": "PÉN-guin — 'gu' é forte, como em 'guerra' com o 'u' pronunciado",
+      "curiosity": "Não existem pinguins selvagens no Polo Norte."
+    },
+    "pr02-03": {
+      "word": "parrot",
+      "translit": null,
+      "example": "My parrot says hello every morning.",
+      "examplePt": "Meu papagaio diz olá toda manhã.",
+      "pron": "PÉ-rot — o 'a' é aberto e o 'rr' é um 'r' suave só",
+      "curiosity": "'Parrot' vira verbo: repetir sem pensar é 'parrot' alguém."
+    },
+    "pr02-04": {
+      "word": "swan",
+      "translit": null,
+      "example": "A swan sleeps on the calm lake.",
+      "examplePt": "Um cisne dorme no lago calmo.",
+      "pron": "SUÓN — 'sw' soa 'su' e o 'a' vira um 'ó' aberto",
+      "curiosity": "Filhote de cisne em inglês tem nome próprio: 'cygnet'."
+    },
+    "pr02-05": {
+      "word": "flamingo",
+      "translit": null,
+      "example": "Why does the flamingo stand on one leg?",
+      "examplePt": "Por que o flamingo fica em uma perna só?",
+      "pron": "fla-MÍN-gou — 'gou' final suave; a força cai no 'min'",
+      "curiosity": "Flamingos ficam rosados por causa dos pigmentos da comida que comem."
+    },
+    "pr02-06": {
+      "word": "peacock",
+      "translit": null,
+      "example": "The peacock opens its colorful tail.",
+      "examplePt": "O pavão abre sua cauda colorida.",
+      "pron": "PI-cóc — 'ea' é um 'i' longo; 'ck' vira um 'c' seco",
+      "curiosity": "Só o macho é 'peacock'; a fêmea é 'peahen' e o grupo, 'peafowl'."
+    },
+    "pr02-07": {
+      "word": "pigeon",
+      "translit": null,
+      "example": "Does the pigeon want my sandwich?",
+      "examplePt": "O pombo quer o meu sanduíche?",
+      "pron": "PÍ-djin — o 'ge' soa 'dj' e o 'o' é mudo",
+      "curiosity": "Pombos alimentam os filhotes com um 'leite' feito no papo."
+    },
+    "pr02-08": {
+      "word": "ostrich",
+      "translit": null,
+      "example": "An ostrich runs faster than me.",
+      "examplePt": "Um avestruz corre mais rápido que eu.",
+      "pron": "ÓS-tritch — 'o' aberto; o 'ch' final soa como 'tch'",
+      "curiosity": "Avestruzes não enterram a cabeça na areia: isso é só um mito."
+    },
+    "pr03-01": {
+      "word": "bee",
+      "translit": null,
+      "example": "A bee visits every yellow flower.",
+      "examplePt": "Uma abelha visita cada flor amarela.",
+      "pron": "BI — 'ee' é um 'i' longo, como em 'bico'",
+      "curiosity": "Abelhas se comunicam dançando para indicar onde estão as flores."
+    },
+    "pr03-02": {
+      "word": "butterfly",
+      "translit": null,
+      "example": "Look, a butterfly sits on my nose!",
+      "examplePt": "Olha, uma borboleta pousou no meu nariz!",
+      "pron": "BÂ-rer-flai — o 'tt' vira um 'r' suave nos EUA; 'y' soa 'ai'",
+      "curiosity": "'Butterfly' é literalmente 'manteiga' + 'voar': uma mosca-manteiga!"
+    },
+    "pr03-03": {
+      "word": "ant",
+      "translit": null,
+      "example": "Ants carry leaves over their heads.",
+      "examplePt": "Formigas carregam folhas sobre a cabeça.",
+      "pron": "ÉNT — o 'a' é aberto como 'é' e o 't' final é leve",
+      "curiosity": "Formigas não têm pulmões: respiram por pequenos furos no corpo."
+    },
+    "pr03-04": {
+      "word": "spider",
+      "translit": null,
+      "example": "The spider builds a silver web.",
+      "examplePt": "A aranha constrói uma teia prateada.",
+      "pron": "SPÁI-dâr — 'ai' como em 'pai'; 's' e 'p' saem juntos",
+      "curiosity": "Aranhas não são insetos: têm oito patas e os insetos, seis."
+    },
+    "pr03-05": {
+      "word": "fly",
+      "translit": null,
+      "example": "The fly lands on my soup!",
+      "examplePt": "A mosca pousa na minha sopa!",
+      "pron": "FLÁI — 'ai' como em 'pai'; 'fl' sai junto",
+      "curiosity": "'Fly' é mosca e também voar: a fly can fly!"
+    },
+    "pr03-06": {
+      "word": "ladybug",
+      "translit": null,
+      "example": "A ladybug has red wings with black dots.",
+      "examplePt": "Uma joaninha tem asas vermelhas com pintas pretas.",
+      "pron": "LÊI-di-bâg — o 'a' vira 'êi' e o 'u' soa 'â'",
+      "curiosity": "Nos EUA é 'ladybug'; no Reino Unido, 'ladybird'."
+    },
+    "pr03-07": {
+      "word": "earthworm",
+      "translit": null,
+      "example": "Does an earthworm have eyes?",
+      "examplePt": "Uma minhoca tem olhos?",
+      "pron": "ÂRTH-uârm — 'th' com a língua entre os dentes; o 'w' soa 'u'",
+      "curiosity": "Minhocas não têm olhos, mas sentem a luz pela pele."
+    },
+    "pr03-08": {
+      "word": "snail",
+      "translit": null,
+      "example": "A snail carries its house everywhere.",
+      "examplePt": "Um caracol carrega a casa para todo lado.",
+      "pron": "SNÊIL — 's' e 'n' juntos; 'ai' soa 'êi'",
+      "curiosity": "'Snail mail' é o correio comum: devagar como um caracol."
+    },
+    "pr04-01": {
+      "word": "fish",
+      "translit": null,
+      "example": "My fish swims in tiny circles.",
+      "examplePt": "Meu peixe nada em pequenos círculos.",
+      "pron": "FÍSH — 'i' curto; 'sh' como o 'ch' de 'chuva'",
+      "curiosity": "O plural de 'fish' normalmente é igual: one fish, two fish."
+    },
+    "pr04-02": {
+      "word": "shark",
+      "translit": null,
+      "example": "A baby shark is already a hunter.",
+      "examplePt": "Um filhote de tubarão já é um caçador.",
+      "pron": "XÁRK — 'sh' como 'ch'; o 'r' é pronunciado",
+      "curiosity": "Tubarões não têm ossos: o esqueleto é de cartilagem, como o seu nariz."
+    },
+    "pr04-03": {
+      "word": "whale",
+      "translit": null,
+      "example": "The whale sings under the sea.",
+      "examplePt": "A baleia canta debaixo do mar.",
+      "pron": "UÊIL — 'wh' soa 'u' e o 'a' vira 'êi'",
+      "curiosity": "A baleia-azul é o maior animal que já existiu na Terra."
+    },
+    "pr04-04": {
+      "word": "dolphin",
+      "translit": null,
+      "example": "Dolphins jump through the waves.",
+      "examplePt": "Golfinhos pulam pelas ondas.",
+      "pron": "DÓL-fin — o 'ph' soa como 'f' e o 'o' é aberto",
+      "curiosity": "Golfinhos dormem com metade do cérebro de cada vez."
+    },
+    "pr04-05": {
+      "word": "octopus",
+      "translit": null,
+      "example": "An octopus has three hearts.",
+      "examplePt": "Um polvo tem três corações.",
+      "pron": "ÓC-to-pus — o 'o' é aberto e o 'u' final soa 'â'",
+      "curiosity": "Além dos três corações, o polvo tem sangue azul."
+    },
+    "pr04-06": {
+      "word": "turtle",
+      "translit": null,
+      "example": "The turtle walks slowly to the sea.",
+      "examplePt": "A tartaruga caminha devagar até o mar.",
+      "pron": "TÉR-dl — o 'tt' vira um 'd' rápido; o 'le' final é fraco",
+      "curiosity": "A tartaruga que vive só em terra é 'tortoise'; a da água é 'turtle'."
+    },
+    "pr04-07": {
+      "word": "crab",
+      "translit": null,
+      "example": "A crab walks sideways on the sand.",
+      "examplePt": "Um caranguejo anda de lado na areia.",
+      "pron": "CRÉB — o 'a' é aberto como 'é'; o 'b' final é leve",
+      "curiosity": "Caranguejos andam de lado porque as pernas dobram para os lados."
+    },
+    "pr04-08": {
+      "word": "seal",
+      "translit": null,
+      "example": "The seal claps for a fish.",
+      "examplePt": "A foca bate palmas por um peixe.",
+      "pron": "SIL — 'ea' é um 'i' longo; começa com 's', não 'ch'",
+      "curiosity": "Leão-marinho é outro bicho: ele tem orelhinhas visíveis, a foca não."
+    },
+    "pr05-01": {
+      "word": "carrot",
+      "translit": null,
+      "example": "A carrot grows under the ground.",
+      "examplePt": "Uma cenoura cresce debaixo da terra.",
+      "pron": "KÉ-rot — o 'a' é aberto e o 'rr' é um 'r' suave só",
+      "curiosity": "As primeiras cenouras cultivadas eram roxas ou amarelas, não laranja."
+    },
+    "pr05-02": {
+      "word": "potato",
+      "translit": null,
+      "example": "Do you want a hot potato?",
+      "examplePt": "Você quer uma batata quente?",
+      "pron": "po-TÊI-rou — o 'a' vira 'êi'; o 't' do meio soa 'r' suave",
+      "curiosity": "'Couch potato' é quem passa o dia no sofá vendo TV."
+    },
+    "pr05-03": {
+      "word": "tomato",
+      "translit": null,
+      "example": "The tomato rolls under the table.",
+      "examplePt": "O tomate rola para debaixo da mesa.",
+      "pron": "to-MÊI-rou — o 'a' vira 'êi'; o 't' do meio soa 'r' suave",
+      "curiosity": "Botanicamente o tomate é fruta, mas na cozinha é tratado como legume."
+    },
+    "pr05-04": {
+      "word": "onion",
+      "translit": null,
+      "example": "Why does an onion make me cry?",
+      "examplePt": "Por que uma cebola me faz chorar?",
+      "pron": "Â-nien — o 'o' soa 'â' e 'ion' soa 'ien' rápido",
+      "curiosity": "Cortar cebola libera um gás que irrita os olhos e faz chorar."
+    },
+    "pr05-05": {
+      "word": "corn",
+      "translit": null,
+      "example": "We eat sweet corn at the picnic.",
+      "examplePt": "Comemos milho doce no piquenique.",
+      "pron": "CÓRN — 'o' aberto; o 'r' é pronunciado antes do 'n'",
+      "curiosity": "Nos EUA 'corn' é o milho; no Reino Unido, é o nome de cereais em geral."
+    },
+    "pr05-06": {
+      "word": "broccoli",
+      "translit": null,
+      "example": "Kids say broccoli looks like tiny trees.",
+      "examplePt": "Crianças dizem que brócolis parece mini árvores.",
+      "pron": "BRÓ-co-li — o 'o' é aberto e o 'cc' é um 'c' duro",
+      "curiosity": "Vem do italiano: 'broccoli' é o plural de 'broccolo'."
+    },
+    "pr05-07": {
+      "word": "garlic",
+      "translit": null,
+      "example": "Garlic smells strong in the kitchen.",
+      "examplePt": "O alho cheira forte na cozinha.",
+      "pron": "GÁR-lic — 'a' aberto; o 'r' é pronunciado",
+      "curiosity": "Nas histórias de vampiros, o alho é o repelente clássico."
+    },
+    "pr05-08": {
+      "word": "cucumber",
+      "translit": null,
+      "example": "A cucumber is cool and crunchy.",
+      "examplePt": "Um pepino é fresquinho e crocante.",
+      "pron": "KIÚ-cam-bâr — começa com 'kiú'; o 'u' final soa 'â'",
+      "curiosity": "'Cool as a cucumber' quer dizer calmíssimo, sem se abalar."
+    },
+    "pr06-01": {
+      "word": "cake",
+      "translit": null,
+      "example": "Who wants a piece of cake?",
+      "examplePt": "Quem quer um pedaço de bolo?",
+      "pron": "KÊIK — o 'a' vira 'êi' e o 'e' final é mudo",
+      "curiosity": "'A piece of cake' também é algo facílimo de fazer."
+    },
+    "pr06-02": {
+      "word": "ice cream",
+      "translit": null,
+      "example": "Ice cream melts in the sun.",
+      "examplePt": "O sorvete derrete no sol.",
+      "pron": "ÁIS-krim — 'ai' como em 'pai'; 'cream' tem 'i' longo",
+      "curiosity": "A rima 'I scream, you scream, we all scream for ice cream' é um clássico nos EUA."
+    },
+    "pr06-03": {
+      "word": "cookie",
+      "translit": null,
+      "example": "The cookie jar is empty again!",
+      "examplePt": "O pote de biscoitos está vazio de novo!",
+      "pron": "KÚ-ki — 'oo' curto como 'u'; 'ie' final soa 'i'",
+      "curiosity": "No Reino Unido, cookie é 'biscuit'; nos EUA, 'biscuit' é um pãozinho."
+    },
+    "pr06-04": {
+      "word": "donut",
+      "translit": null,
+      "example": "A donut has a hole in the middle.",
+      "examplePt": "Uma rosquinha tem um buraco no meio.",
+      "pron": "DÔU-nât — 'ou' como em 'dou'; o 'u' soa 'â'",
+      "curiosity": "Também se escreve 'doughnut': 'dough' (massa) + 'nut' (noz)."
+    },
+    "pr06-05": {
+      "word": "lollipop",
+      "translit": null,
+      "example": "A red lollipop turns my tongue red.",
+      "examplePt": "Um pirulito vermelho deixa minha língua vermelha.",
+      "pron": "LÁ-li-páp — o 'o' soa 'á'; 'pop' termina seco em 'p'",
+      "curiosity": "No Reino Unido e na Austrália, pirulito também é 'lolly'."
+    },
+    "pr06-06": {
+      "word": "chocolate",
+      "translit": null,
+      "example": "Does chocolate melt in your pocket?",
+      "examplePt": "O chocolate derrete no seu bolso?",
+      "pron": "TCHÓK-lit — dito em duas sílabas; o 'o' do meio some",
+      "curiosity": "Os astecas usavam grãos de cacau como moeda."
+    },
+    "pr06-07": {
+      "word": "popcorn",
+      "translit": null,
+      "example": "Popcorn jumps out of the pot!",
+      "examplePt": "A pipoca pula para fora da panela!",
+      "pron": "PÓP-corn — 'o' aberto; 'corn' com 'r' pronunciado",
+      "curiosity": "A pipoca estoura porque a água dentro do grão vira vapor."
+    },
+    "pr06-08": {
+      "word": "pie",
+      "translit": null,
+      "example": "My grandma bakes an apple pie.",
+      "examplePt": "Minha vovó assa uma torta de maçã.",
+      "pron": "PÁI — 'ie' soa 'ai'; é uma sílaba só",
+      "curiosity": "Em 14 de março (3,14) se celebra o 'Pi Day' comendo tortas, pelo trocadilho com 'pie'."
+    },
+    "pr07-01": {
+      "word": "kitchen",
+      "translit": null,
+      "example": "Mom sings in the kitchen.",
+      "examplePt": "Mamãe canta na cozinha.",
+      "pron": "KÍ-tchen — 'tch' no meio; o 'i' é curto",
+      "curiosity": "'Too many cooks spoil the broth' = muita gente na cozinha atrapalha."
+    },
+    "pr07-02": {
+      "word": "bathroom",
+      "translit": null,
+      "example": "The bathroom has a blue towel.",
+      "examplePt": "O banheiro tem uma toalha azul.",
+      "pron": "BÉTH-rum — 'th' com a língua entre os dentes; 'a' aberto",
+      "curiosity": "Nos EUA, 'bathroom' é usado até para o banheiro sem banheira."
+    },
+    "pr07-03": {
+      "word": "bedroom",
+      "translit": null,
+      "example": "A messy bedroom hides lost socks.",
+      "examplePt": "Um quarto bagunçado esconde meias perdidas.",
+      "pron": "BÉD-rum — o 'e' é aberto; 'room' soa 'rum'",
+      "curiosity": "O quarto principal da casa nos EUA é o 'master bedroom'."
+    },
+    "pr07-04": {
+      "word": "living room",
+      "translit": null,
+      "example": "We watch cartoons in the living room.",
+      "examplePt": "Assistimos a desenhos na sala.",
+      "pron": "LÍ-vin rum — o 'g' final quase não soa; 'room' soa 'rum'",
+      "curiosity": "Sala de aula é 'classroom' e sala de jantar é 'dining room'."
+    },
+    "pr07-05": {
+      "word": "garage",
+      "translit": null,
+      "example": "Dad parks the car in the garage.",
+      "examplePt": "Papai estaciona o carro na garagem.",
+      "pron": "ga-RÁJ — tônica no final; o 'ge' soa 'j'",
+      "curiosity": "'Garage sale' é a venda de objetos usados feita na garagem de casa."
+    },
+    "pr07-06": {
+      "word": "garden",
+      "translit": null,
+      "example": "A rabbit hides in the garden.",
+      "examplePt": "Um coelho se esconde no jardim.",
+      "pron": "GÁR-dn — 'a' aberto; o 'r' é pronunciado; o final é fraco",
+      "curiosity": "Nos EUA, o quintal inteiro é 'yard'; 'garden' é só a parte das plantas."
+    },
+    "pr07-07": {
+      "word": "door",
+      "translit": null,
+      "example": "Knock on the door, please.",
+      "examplePt": "Bata na porta, por favor.",
+      "pron": "DÓR — o 'oo' soa 'ó' aberto; o 'r' final é pronunciado",
+      "curiosity": "'My next-door neighbor' é o vizinho da casa ao lado."
+    },
+    "pr07-08": {
+      "word": "window",
+      "translit": null,
+      "example": "A bird taps on my window.",
+      "examplePt": "Um passarinho bate na minha janela.",
+      "pron": "UÍN-dou — 'w' soa 'u'; o 'ow' final soa 'ou'",
+      "curiosity": "'Window shopping' é olhar vitrines sem comprar nada."
+    },
+    "pr08-01": {
+      "word": "bed",
+      "translit": null,
+      "example": "My bed is a soft cloud.",
+      "examplePt": "Minha cama é uma nuvem macia.",
+      "pron": "BÉD — o 'e' é aberto; o 'd' final é leve",
+      "curiosity": "'Sleep tight, don't let the bed bugs bite' é um desejo de boa noite."
+    },
+    "pr08-02": {
+      "word": "table",
+      "translit": null,
+      "example": "The table has four wobbly legs.",
+      "examplePt": "A mesa tem quatro pernas bambas.",
+      "pron": "TÊI-bol — o 'a' vira 'êi'; o 'le' final é fraco",
+      "curiosity": "'Turn the tables' quer dizer virar o jogo."
+    },
+    "pr08-03": {
+      "word": "chair",
+      "translit": null,
+      "example": "Who sits in my chair?",
+      "examplePt": "Quem senta na minha cadeira?",
+      "pron": "TCHÉR — 'ch' como em 'tchau'; 'air' soa 'ér'",
+      "curiosity": "'To chair' é verbo: presidir uma reunião."
+    },
+    "pr08-04": {
+      "word": "sofa",
+      "translit": null,
+      "example": "The cat sleeps on the sofa.",
+      "examplePt": "O gato dorme no sofá.",
+      "pron": "SÔU-fa — o 'o' vira 'ou'; o 'a' final é fraco",
+      "curiosity": "Nos EUA, 'sofa' e 'couch' são usados para o mesmo móvel."
+    },
+    "pr08-05": {
+      "word": "mirror",
+      "translit": null,
+      "example": "The mirror shows my silly face.",
+      "examplePt": "O espelho mostra minha cara boba.",
+      "pron": "MÍ-râr — 'i' curto; o 'rr' é um 'r' suave só",
+      "curiosity": "'Mirror' também é verbo: refletir ou imitar."
+    },
+    "pr08-06": {
+      "word": "fridge",
+      "translit": null,
+      "example": "Is there cake in the fridge?",
+      "examplePt": "Tem bolo na geladeira?",
+      "pron": "FRÍDJ — 'dge' soa 'dj'; 'i' curto",
+      "curiosity": "'Fridge' é a forma curta e comum de 'refrigerator'."
+    },
+    "pr08-07": {
+      "word": "TV",
+      "translit": null,
+      "example": "The TV is louder than thunder.",
+      "examplePt": "A TV está mais alta que um trovão.",
+      "pron": "TI-VI — leia as letras em inglês: 'ti' e 'vi'",
+      "curiosity": "'Television' junta 'tele' (longe) e 'visão': ver à distância."
+    },
+    "pr08-08": {
+      "word": "lamp",
+      "translit": null,
+      "example": "A lamp lights my book at night.",
+      "examplePt": "Uma lâmpada ilumina meu livro à noite.",
+      "pron": "LÉMP — o 'a' é aberto; 'mp' saem juntos no final",
+      "curiosity": "'Lamp' vem do grego 'lampas', que quer dizer 'tocha'."
+    },
+    "pr09-01": {
+      "word": "fork",
+      "translit": null,
+      "example": "A fork can't drink soup.",
+      "examplePt": "Um garfo não consegue tomar sopa.",
+      "pron": "FÓRK — 'o' aberto; o 'r' é pronunciado",
+      "curiosity": "'A fork in the road' é uma bifurcação, mas também uma escolha difícil."
+    },
+    "pr09-02": {
+      "word": "knife",
+      "translit": null,
+      "example": "Don't run with a knife!",
+      "examplePt": "Não corra com uma faca!",
+      "pron": "NÁIF — o 'k' é mudo; 'i' soa 'ai'",
+      "curiosity": "Em inglês antigo o 'k' de 'knife' era pronunciado; hoje ficou só na escrita."
+    },
+    "pr09-03": {
+      "word": "spoon",
+      "translit": null,
+      "example": "The baby bangs a spoon on the tray.",
+      "examplePt": "O bebê bate a colher na bandeja.",
+      "pron": "SPUN — 'oo' longo como 'u'; 's' e 'p' juntos",
+      "curiosity": "'Born with a silver spoon' é nascer em uma família rica."
+    },
+    "pr09-04": {
+      "word": "plate",
+      "translit": null,
+      "example": "My plate is full of pasta.",
+      "examplePt": "Meu prato está cheio de macarrão.",
+      "pron": "PLÊIT — o 'a' vira 'êi'; o 'e' final é mudo",
+      "curiosity": "'License plate' é a placa do carro: 'plate' também é placa."
+    },
+    "pr09-05": {
+      "word": "glass",
+      "translit": null,
+      "example": "Water fills the glass slowly.",
+      "examplePt": "A água enche o copo devagar.",
+      "pron": "GLÉSS — 'a' aberto como 'é'; 'ss' final",
+      "curiosity": "'Glass ceiling' é o limite invisível que barra o progresso de alguém."
+    },
+    "pr09-06": {
+      "word": "pot",
+      "translit": null,
+      "example": "Soup boils in the big pot.",
+      "examplePt": "A sopa ferve na panela grande.",
+      "pron": "PÓT — 'o' aberto; o 't' final é leve",
+      "curiosity": "'Pots and pans' é a expressão pronta para panelas e frigideiras."
+    },
+    "pr09-07": {
+      "word": "cup",
+      "translit": null,
+      "example": "Is the cup full of tea?",
+      "examplePt": "A xícara está cheia de chá?",
+      "pron": "CÂP — o 'u' soa 'â'; 'p' final seco",
+      "curiosity": "Nas receitas dos EUA, 'cup' é uma medida: cerca de 240 ml."
+    },
+    "pr09-08": {
+      "word": "bowl",
+      "translit": null,
+      "example": "The dog licks his empty bowl.",
+      "examplePt": "O cachorro lambe a tigela vazia dele.",
+      "pron": "BÔUL — o 'ow' soa 'ôu'; o 'l' final",
+      "curiosity": "'Living in a fishbowl' é viver sob os olhares de todo mundo."
+    },
+    "pr10-01": {
+      "word": "hand",
+      "translit": null,
+      "example": "Wave your hand like a happy king.",
+      "examplePt": "Acene como um rei feliz.",
+      "pron": "HÉND — o 'h' é um sopro, não um 'r'; 'a' aberto",
+      "curiosity": "'Give me a hand' quer dizer 'me ajude'."
+    },
+    "pr10-02": {
+      "word": "foot",
+      "translit": null,
+      "example": "My foot fits in the boot.",
+      "examplePt": "Meu pé cabe na bota.",
+      "pron": "FÚT — 'oo' curto como 'u'; o 't' final é leve",
+      "curiosity": "O plural é irregular: one foot, two feet."
+    },
+    "pr10-03": {
+      "word": "eye",
+      "translit": null,
+      "example": "Close one eye and count.",
+      "examplePt": "Feche um olho e conte.",
+      "pron": "ÁI — soa igual ao pronome 'I' (eu)",
+      "curiosity": "'Eye' (olho) e 'I' (eu) têm o mesmo som."
+    },
+    "pr10-04": {
+      "word": "nose",
+      "translit": null,
+      "example": "Your nose is red like a clown's.",
+      "examplePt": "Seu nariz está vermelho como o de um palhaço.",
+      "pron": "NÔUZ — o 'o' vira 'ou'; o 's' final soa 'z'",
+      "curiosity": "'Nosy' é quem enfia o nariz em tudo: um enxerido."
+    },
+    "pr10-05": {
+      "word": "mouth",
+      "translit": null,
+      "example": "Open your mouth and say aah.",
+      "examplePt": "Abra a boca e diga aah.",
+      "pron": "MÁUTH — 'ou' como em 'mau'; 'th' com a língua entre os dentes",
+      "curiosity": "'Big mouth' é quem fala demais e não guarda segredo."
+    },
+    "pr10-06": {
+      "word": "ear",
+      "translit": null,
+      "example": "The cat twitches its ear.",
+      "examplePt": "O gato mexe a orelha.",
+      "pron": "ÍR — 'ea' é um 'i' longo; o 'r' final é suave",
+      "curiosity": "Espiga de milho em inglês é 'ear of corn': orelha de milho!"
+    },
+    "pr10-07": {
+      "word": "leg",
+      "translit": null,
+      "example": "My leg falls asleep when I sit.",
+      "examplePt": "Minha perna dorme quando eu sento.",
+      "pron": "LÉG — o 'e' é aberto; o 'g' final é suave",
+      "curiosity": "'Break a leg!' é desejar boa sorte, principalmente no teatro."
+    },
+    "pr10-08": {
+      "word": "tooth",
+      "translit": null,
+      "example": "Does the tooth fairy visit tonight?",
+      "examplePt": "A fada do dente visita hoje à noite?",
+      "pron": "TÚTH — 'oo' curto; 'th' com a língua entre os dentes",
+      "curiosity": "'Sweet tooth' é quem adora doce."
+    },
+    "pr11-01": {
+      "word": "t-shirt",
+      "translit": null,
+      "example": "I wore a t-shirt in the snow.",
+      "examplePt": "Usei uma camiseta na neve.",
+      "pron": "TI-xârt — 'sh' como 'ch'; o 'ir' soa 'âr'",
+      "curiosity": "O nome vem do formato de 'T' que a camiseta tem aberta."
+    },
+    "pr11-02": {
+      "word": "pants",
+      "translit": null,
+      "example": "Dad's pants fell down yesterday!",
+      "examplePt": "A calça do papai caiu ontem!",
+      "pron": "PÉNTS — o 'a' é aberto; quase sempre no plural",
+      "curiosity": "No Reino Unido, 'pants' significa cueca; nos EUA, calça."
+    },
+    "pr11-03": {
+      "word": "shoe",
+      "translit": null,
+      "example": "My shoe broke on the first day.",
+      "examplePt": "Meu sapato quebrou no primeiro dia.",
+      "pron": "XU — 'sh' como 'ch'; 'oe' soa 'u'",
+      "curiosity": "'In your shoes' quer dizer 'no seu lugar'."
+    },
+    "pr11-04": {
+      "word": "sock",
+      "translit": null,
+      "example": "I lost one sock again!",
+      "examplePt": "Perdi uma meia de novo!",
+      "pron": "SÓK — o 'o' é aberto; 'ck' é um 'k' só",
+      "curiosity": "'Knock your socks off' é deixar alguém de queixo caído."
+    },
+    "pr11-05": {
+      "word": "coat",
+      "translit": null,
+      "example": "Will you need a coat tomorrow?",
+      "examplePt": "Você vai precisar de casaco amanhã?",
+      "pron": "CÔUT — o 'oa' soa 'ôu'; o 't' final é leve",
+      "curiosity": "'Coat' também é a pelagem do animal e a camada de tinta."
+    },
+    "pr11-06": {
+      "word": "dress",
+      "translit": null,
+      "example": "She wore a dress with stars.",
+      "examplePt": "Ela usou um vestido de estrelas.",
+      "pron": "DRÉSS — o 'e' é aberto; 'ss' final",
+      "curiosity": "'Dress' também é verbo: 'get dressed' é se vestir."
+    },
+    "pr11-07": {
+      "word": "gloves",
+      "translit": null,
+      "example": "He will find his gloves later.",
+      "examplePt": "Ele vai achar as luvas depois.",
+      "pron": "GLÂVZ — o 'o' soa 'â'; o 'ves' termina com 'z'",
+      "curiosity": "'Fits like a glove' é servir perfeitamente."
+    },
+    "pr11-08": {
+      "word": "cap",
+      "translit": null,
+      "example": "Wind took my cap last night.",
+      "examplePt": "O vento levou meu boné ontem à noite.",
+      "pron": "KÉP — o 'a' é aberto; o 'p' final é seco",
+      "curiosity": "'Cap' também é tampa: 'bottle cap' é tampinha de garrafa."
+    },
+    "pr12-01": {
+      "word": "glasses",
+      "translit": null,
+      "example": "My glasses slid down my nose.",
+      "examplePt": "Meus óculos escorregaram pelo nariz.",
+      "pron": "GLÉ-siz — o 'a' é aberto; o final soa 'iz'",
+      "curiosity": "Óculos são plural: 'a pair of glasses' é um par de óculos."
+    },
+    "pr12-02": {
+      "word": "purse",
+      "translit": null,
+      "example": "She hid a cookie in her purse.",
+      "examplePt": "Ela escondeu um biscoito na bolsa.",
+      "pron": "PÂRS — 'ur' soa 'âr'; o 'e' final é mudo",
+      "curiosity": "Nos EUA, 'purse' é a bolsa; no Reino Unido, a carteira de moedas."
+    },
+    "pr12-03": {
+      "word": "umbrella",
+      "translit": null,
+      "example": "Did you forget your umbrella?",
+      "examplePt": "Você esqueceu seu guarda-chuva?",
+      "pron": "am-BRÉ-la — o 'u' inicial soa 'â'; a força cai no 'bre'",
+      "curiosity": "'Umbrella' vem de 'umbra', sombra em latim: serviu primeiro contra o sol."
+    },
+    "pr12-04": {
+      "word": "ring",
+      "translit": null,
+      "example": "A tiny ring fell down the drain.",
+      "examplePt": "Um anelzinho caiu no ralo.",
+      "pron": "RÍNG — o 'r' é suave; o 'ng' é nasal, sem o 'g'",
+      "curiosity": "'Ring' é anel e também tocar: o telefone 'rings'."
+    },
+    "pr12-05": {
+      "word": "watch",
+      "translit": null,
+      "example": "My watch stopped at midnight.",
+      "examplePt": "Meu relógio parou à meia-noite.",
+      "pron": "UÓTCH — 'w' soa 'u'; 'tch' como em 'tchau'",
+      "curiosity": "'Watch' é relógio de pulso e também verbo: assistir."
+    },
+    "pr12-06": {
+      "word": "padlock",
+      "translit": null,
+      "example": "He lost the key to the padlock.",
+      "examplePt": "Ele perdeu a chave do cadeado.",
+      "pron": "PÉD-lók — o 'a' é aberto; a força cai no início",
+      "curiosity": "'Under lock and key' é guardar algo a sete chaves."
+    },
+    "pr12-07": {
+      "word": "backpack",
+      "translit": null,
+      "example": "The backpack was heavier than me.",
+      "examplePt": "A mochila era mais pesada que eu.",
+      "pron": "BÉC-pec — o 'a' é aberto; 'ck' é um 'k' só",
+      "curiosity": "No Reino Unido, mochila também é 'rucksack', palavra de origem alemã."
+    },
+    "pr12-08": {
+      "word": "flashlight",
+      "translit": null,
+      "example": "We will need a flashlight tonight.",
+      "examplePt": "Vamos precisar de uma lanterna hoje à noite.",
+      "pron": "FLÉSH-láit — 'sh' como 'ch'; 'igh' soa 'ai', com 'gh' mudo",
+      "curiosity": "No Reino Unido, lanterna é 'torch'; nos EUA, 'torch' é tocha."
+    },
+    "pr13-01": {
+      "word": "soccer",
+      "translit": null,
+      "example": "We played soccer in the rain.",
+      "examplePt": "Jogamos futebol na chuva.",
+      "pron": "SÓ-kâr — o 'o' é aberto; 'cc' vira um 'k'",
+      "curiosity": "Nos EUA, 'football' é o futebol americano; o nosso é 'soccer'."
+    },
+    "pr13-02": {
+      "word": "basketball",
+      "translit": null,
+      "example": "The basketball bounced off the roof!",
+      "examplePt": "A bola de basquete quicou no telhado!",
+      "pron": "BÉS-quit-ból — 'a' aberto; a força cai em 'bés'",
+      "curiosity": "O primeiro jogo de basquete usava cestos de pêssego como aro."
+    },
+    "pr13-03": {
+      "word": "tennis",
+      "translit": null,
+      "example": "Do you play tennis on Sundays?",
+      "examplePt": "Você joga tênis aos domingos?",
+      "pron": "TÉ-nis — o 'e' é aberto; a força cai no início",
+      "curiosity": "Falso amigo: 'tênis' de calçar é 'sneakers'; 'tennis' é só o esporte."
+    },
+    "pr13-04": {
+      "word": "swimming",
+      "translit": null,
+      "example": "We went swimming after school.",
+      "examplePt": "Fomos nadar depois da escola.",
+      "pron": "SUÍ-min — 'sw' soa 'su'; o 'ng' é nasal, sem 'g'",
+      "curiosity": "'Swim, swam, swum' é irregular; e 'swimming' dobra o 'm'."
+    },
+    "pr13-05": {
+      "word": "volleyball",
+      "translit": null,
+      "example": "She will hit the volleyball high.",
+      "examplePt": "Ela vai bater a bola de vôlei bem alto.",
+      "pron": "VÓ-li-ból — o 'v' vibra; 'ball' soa 'ból'",
+      "curiosity": "O vôlei nasceu nos EUA, em 1895, como uma opção mais calma que o basquete."
+    },
+    "pr13-06": {
+      "word": "cycling",
+      "translit": null,
+      "example": "We will go cycling in the park.",
+      "examplePt": "Vamos pedalar no parque.",
+      "pron": "SÁI-clin — o 'c' inicial soa 's'; 'y' soa 'ai'",
+      "curiosity": "'Cycle' vem do grego 'kyklos', círculo: por isso lembra 'ciclo'."
+    },
+    "pr13-07": {
+      "word": "skiing",
+      "translit": null,
+      "example": "Skiing down a hill feels like flying.",
+      "examplePt": "Esquiar morro abaixo parece voar.",
+      "pron": "SKI-in — 'ski' rima com 'si' de 'sino'; 'ii' longo",
+      "curiosity": "'Ski' vem do nórdico antigo 'skíð', que quer dizer 'pedaço de madeira'."
+    },
+    "pr13-08": {
+      "word": "baseball",
+      "translit": null,
+      "example": "Did the baseball break the window?",
+      "examplePt": "A bola de beisebol quebrou a janela?",
+      "pron": "BÊIS-ból — o 'a' vira 'êi'; 'ball' soa 'ból'",
+      "curiosity": "'Out of left field' (totalmente inesperado) é uma expressão que nasceu no beisebol."
+    },
+    "pr14-01": {
+      "word": "doll",
+      "translit": null,
+      "example": "Her doll wears a tiny hat.",
+      "examplePt": "A boneca dela usa um chapeuzinho.",
+      "pron": "DÓL — o 'o' é aberto; o 'll' é um 'l' só",
+      "curiosity": "'Doll up' quer dizer se arrumar todo."
+    },
+    "pr14-02": {
+      "word": "balloon",
+      "translit": null,
+      "example": "Did the balloon float to the moon?",
+      "examplePt": "O balão flutuou até a lua?",
+      "pron": "ba-LUN — 'oo' longo como 'u'; a força cai no final",
+      "curiosity": "Balão de ar quente é 'hot-air balloon'."
+    },
+    "pr14-03": {
+      "word": "puzzle",
+      "translit": null,
+      "example": "We finished the puzzle at midnight.",
+      "examplePt": "Terminamos o quebra-cabeça à meia-noite.",
+      "pron": "PÂ-zol — o 'u' soa 'â'; o 'zzle' é um 'zol' fraco",
+      "curiosity": "'Puzzle' também é verbo: deixar alguém perplexo."
+    },
+    "pr14-04": {
+      "word": "teddy bear",
+      "translit": null,
+      "example": "My teddy bear sleeps beside me.",
+      "examplePt": "Meu ursinho dorme ao meu lado.",
+      "pron": "TÉ-di BÉR — 'dd' é um 'd' só; 'bear' soa 'bér'",
+      "curiosity": "'Bear hug' é um abraço bem apertado, de urso."
+    },
+    "pr14-05": {
+      "word": "dice",
+      "translit": null,
+      "example": "Roll the dice and move forward.",
+      "examplePt": "Jogue os dados e avance.",
+      "pron": "DÁIS — o 'i' soa 'ai'; o 'c' soa 's'",
+      "curiosity": "'Dice' é o plural; um dado só é 'die'."
+    },
+    "pr14-06": {
+      "word": "ball",
+      "translit": null,
+      "example": "The ball flew over the fence.",
+      "examplePt": "A bola voou por cima da cerca.",
+      "pron": "BÓL — o 'a' soa 'ó'; o 'll' é um 'l' só",
+      "curiosity": "'To have a ball' é se divertir muito."
+    },
+    "pr14-07": {
+      "word": "roller skates",
+      "translit": null,
+      "example": "I fell twice on my roller skates.",
+      "examplePt": "Caí duas vezes de patins.",
+      "pron": "RÔU-lâr SKÊITS — 'ou' em 'rôu'; 'skates' com 's' e 'k' juntos",
+      "curiosity": "Montanha-russa em inglês é 'roller coaster'."
+    },
+    "pr14-08": {
+      "word": "carousel",
+      "translit": null,
+      "example": "The carousel spins and plays music.",
+      "examplePt": "O carrossel gira e toca música.",
+      "pron": "ké-ro-SÉL — o 'c' soa 'k'; a força cai no final",
+      "curiosity": "Nos EUA, carrossel também é 'merry-go-round'."
+    },
+    "pr15-01": {
+      "word": "pencil",
+      "translit": null,
+      "example": "Did you sharpen your pencil?",
+      "examplePt": "Você apontou seu lápis?",
+      "pron": "PÉN-sol — o 'e' é aberto; o 'cil' é fraco",
+      "curiosity": "O 'chumbo' do lápis é grafite, feito de carbono."
+    },
+    "pr15-02": {
+      "word": "pen",
+      "translit": null,
+      "example": "This pen draws a funny cat.",
+      "examplePt": "Esta caneta desenha um gato engraçado.",
+      "pron": "PÉN — o 'e' é aberto, como em 'pé'",
+      "curiosity": "'Pen pal' é um amigo de correspondência."
+    },
+    "pr15-03": {
+      "word": "notebook",
+      "translit": null,
+      "example": "My notebook has a dragon on it.",
+      "examplePt": "Meu caderno tem um dragão.",
+      "pron": "NÔUT-buk — 'ou' em 'nôut'; 'oo' curto como 'u'",
+      "curiosity": "'Notebook' também é o nome de um computador portátil."
+    },
+    "pr15-04": {
+      "word": "book",
+      "translit": null,
+      "example": "She will read this book tonight.",
+      "examplePt": "Ela vai ler este livro hoje à noite.",
+      "pron": "BÚK — 'oo' curto como 'u'; o 'k' final seco",
+      "curiosity": "'Don't judge a book by its cover' é não julgar pelas aparências."
+    },
+    "pr15-05": {
+      "word": "ruler",
+      "translit": null,
+      "example": "A ruler measures my shoe.",
+      "examplePt": "Uma régua mede meu sapato.",
+      "pron": "RU-lâr — 'u' longo; o 'r' inicial é suave",
+      "curiosity": "'Ruler' é régua e também governante, conforme o contexto."
+    },
+    "pr15-06": {
+      "word": "scissors",
+      "translit": null,
+      "example": "Scissors cut the paper in two.",
+      "examplePt": "A tesoura corta o papel ao meio.",
+      "pron": "SÍ-zârz — o 'c' é mudo; o 's' do meio soa 'z'",
+      "curiosity": "Tesoura em inglês é plural: 'a pair of scissors'."
+    },
+    "pr15-07": {
+      "word": "calculator",
+      "translit": null,
+      "example": "Can the calculator count to infinity?",
+      "examplePt": "A calculadora consegue contar até o infinito?",
+      "pron": "KÉL-kiu-lêi-târ — o 'a' é aberto; a força cai no início",
+      "curiosity": "'Calculus', em latim, era a pedrinha usada para contar."
+    },
+    "pr15-08": {
+      "word": "paper",
+      "translit": null,
+      "example": "Paper airplanes fly across the room.",
+      "examplePt": "Aviões de papel voam pela sala.",
+      "pron": "PÊI-pâr — o 'a' vira 'êi'; o 'er' final soa 'âr'",
+      "curiosity": "'Paper' vem de 'papyrus', a planta do Egito antigo."
+    },
+    "pr16-01": {
+      "word": "river",
+      "translit": null,
+      "example": "The river runs behind my house.",
+      "examplePt": "O rio corre atrás da minha casa.",
+      "pron": "RÍ-vâr — 'i' curto; o 'er' final soa 'âr'",
+      "curiosity": "'River bank' é a margem; 'bank' também é banco."
+    },
+    "pr16-02": {
+      "word": "mountain",
+      "translit": null,
+      "example": "We will climb that mountain.",
+      "examplePt": "Vamos escalar aquela montanha.",
+      "pron": "MÁUN-tn — 'ou' como em 'mau'; o 'tain' é quase mudo",
+      "curiosity": "'Make a mountain out of a molehill' é fazer tempestade em copo d'água."
+    },
+    "pr16-03": {
+      "word": "beach",
+      "translit": null,
+      "example": "Seagulls steal chips at the beach.",
+      "examplePt": "Gaivotas roubam batatas fritas na praia.",
+      "pron": "BIIICH — 'ea' é um 'i' bem longo; termina com 'ch' de 'chuva'",
+      "curiosity": "'Not a day at the beach' quer dizer que algo não é nada fácil."
+    },
+    "pr16-04": {
+      "word": "desert",
+      "translit": null,
+      "example": "A camel crosses the desert.",
+      "examplePt": "Um camelo atravessa o deserto.",
+      "pron": "DÉ-zârt — a força cai no início; o 'e' é aberto",
+      "curiosity": "'Dessert' (sobremesa) tem dois 's' porque todo mundo quer repetir!"
+    },
+    "pr16-05": {
+      "word": "island",
+      "translit": null,
+      "example": "A tiny island hides a treasure.",
+      "examplePt": "Uma ilhazinha esconde um tesouro.",
+      "pron": "ÁI-lând — o 's' é mudo; 'i' soa 'ai'",
+      "curiosity": "O 's' de 'island' foi acrescentado por engano, achando que vinha do latim."
+    },
+    "pr16-06": {
+      "word": "volcano",
+      "translit": null,
+      "example": "Did the volcano wake up last night?",
+      "examplePt": "O vulcão acordou ontem à noite?",
+      "pron": "vol-KÊI-nou — a força cai no 'kêi'; final em 'nou'",
+      "curiosity": "A palavra vem de Vulcano, o deus romano do fogo."
+    },
+    "pr16-07": {
+      "word": "sea",
+      "translit": null,
+      "example": "The sea was calm this morning.",
+      "examplePt": "O mar estava calmo hoje de manhã.",
+      "pron": "SI — 'ea' é um 'i' longo",
+      "curiosity": "'Sea' (mar) e 'see' (ver) soam exatamente iguais."
+    },
+    "pr16-08": {
+      "word": "countryside",
+      "translit": null,
+      "example": "We drove through the green countryside.",
+      "examplePt": "Atravessamos de carro o campo verde.",
+      "pron": "CÂN-tri-sáid — o 'ou' soa 'â'; 'side' soa 'sáid'",
+      "curiosity": "'Country' é país e também campo: 'live in the country'."
+    },
+    "pr17-01": {
+      "word": "spring",
+      "translit": null,
+      "example": "Flowers will bloom in spring.",
+      "examplePt": "As flores vão desabrochar na primavera.",
+      "pron": "SPRÍNG — 's', 'p' e 'r' juntos; o 'ng' é nasal",
+      "curiosity": "'Spring' é primavera, mola, fonte e pulo: uma palavra, vários sentidos."
+    },
+    "pr17-02": {
+      "word": "summer",
+      "translit": null,
+      "example": "Last summer, I swam every day.",
+      "examplePt": "No verão passado, nadei todo dia.",
+      "pron": "SÂ-mâr — o 'u' soa 'â'; o 'mm' é um 'm' só",
+      "curiosity": "Nos EUA, as férias escolares de verão duram uns dois a três meses."
+    },
+    "pr17-03": {
+      "word": "fall",
+      "translit": null,
+      "example": "Red leaves fell in the fall.",
+      "examplePt": "Folhas vermelhas caíram no outono.",
+      "pron": "FÓL — o 'a' soa 'ó'; o 'll' é um 'l' só",
+      "curiosity": "Nos EUA o outono é 'fall' (folhas caem); 'autumn' é mais britânico."
+    },
+    "pr17-04": {
+      "word": "winter",
+      "translit": null,
+      "example": "Last winter, it snowed for three days.",
+      "examplePt": "No inverno passado, nevou por três dias.",
+      "pron": "UÍN-târ — 'w' soa 'u'; o 'er' final soa 'âr'",
+      "curiosity": "No hemisfério norte, o Natal cai no meio do inverno."
+    },
+    "pr17-05": {
+      "word": "morning",
+      "translit": null,
+      "example": "I woke up early this morning.",
+      "examplePt": "Acordei cedo esta manhã.",
+      "pron": "MÓR-nin — o 'o' é aberto; o 'ng' é nasal, sem 'g'",
+      "curiosity": "'Morning person' é quem ama acordar cedo."
+    },
+    "pr17-06": {
+      "word": "night",
+      "translit": null,
+      "example": "We saw a shooting star last night.",
+      "examplePt": "Vimos uma estrela cadente ontem à noite.",
+      "pron": "NÁIT — o 'gh' é mudo; 'i' soa 'ai'",
+      "curiosity": "'Night' (noite) e 'knight' (cavaleiro) soam iguais."
+    },
+    "pr17-07": {
+      "word": "week",
+      "translit": null,
+      "example": "Next week, we will visit grandma.",
+      "examplePt": "Semana que vem, visitaremos a vovó.",
+      "pron": "UÍK — 'w' soa 'u'; 'ee' é um 'i' longo",
+      "curiosity": "'Week' (semana) e 'weak' (fraco) soam iguais."
+    },
+    "pr17-08": {
+      "word": "month",
+      "translit": null,
+      "example": "Which month has the fewest days?",
+      "examplePt": "Qual mês tem menos dias?",
+      "pron": "MÂNTH — o 'o' soa 'â'; 'th' final com a língua entre os dentes",
+      "curiosity": "'Month' e 'moon' têm a mesma raiz: os meses seguiam a Lua."
+    },
+    "pr18-01": {
+      "word": "big",
+      "translit": null,
+      "example": "A big bear hugged the tree.",
+      "examplePt": "Um urso grande abraçou a árvore.",
+      "pron": "BÍG — o 'i' é curto; o 'g' final é suave",
+      "curiosity": "'Big deal!' pode ser sincero ou sarcástico, como 'grande coisa'."
+    },
+    "pr18-02": {
+      "word": "small",
+      "translit": null,
+      "example": "A small ant lifted a crumb.",
+      "examplePt": "Uma formiga pequena levantou uma migalha.",
+      "pron": "SMÓL — 's' e 'm' juntos; o 'a' soa 'ó'",
+      "curiosity": "'Small talk' é aquele papo leve sobre o tempo e coisas simples."
+    },
+    "pr18-03": {
+      "word": "long",
+      "translit": null,
+      "example": "The giraffe has a very long neck.",
+      "examplePt": "A girafa tem um pescoço bem comprido.",
+      "pron": "LÓNG — o 'o' é aberto; o 'ng' é nasal, sem 'g'",
+      "curiosity": "'Long for' é sentir saudade ou desejar muito algo."
+    },
+    "pr18-04": {
+      "word": "short",
+      "translit": null,
+      "example": "Is the movie short or long?",
+      "examplePt": "O filme é curto ou longo?",
+      "pron": "XÓRT — 'sh' como 'ch'; o 'o' é aberto",
+      "curiosity": "'In short' quer dizer 'resumindo'."
+    },
+    "pr18-05": {
+      "word": "heavy",
+      "translit": null,
+      "example": "This heavy bag felt like a rock.",
+      "examplePt": "Esta mala pesada parecia uma pedra.",
+      "pron": "HÉ-vi — o 'h' é um sopro; 'ea' soa 'é'",
+      "curiosity": "'Heavy rain' é chuva forte: 'heavy' vai além de peso."
+    },
+    "pr18-06": {
+      "word": "full",
+      "translit": null,
+      "example": "The bus was full of sleepy kids.",
+      "examplePt": "O ônibus estava cheio de crianças sonolentas.",
+      "pron": "FÚL — o 'u' é curto; o 'll' é um 'l' só",
+      "curiosity": "Depois de comer, diga 'I'm full': estou satisfeito."
+    },
+    "pr18-07": {
+      "word": "empty",
+      "translit": null,
+      "example": "The treasure box was empty!",
+      "examplePt": "O baú do tesouro estava vazio!",
+      "pron": "ÉMP-ti — o 'e' é aberto; o 'p' soa de leve",
+      "curiosity": "'Empty-handed' é de mãos vazias."
+    },
+    "pr18-08": {
+      "word": "wide",
+      "translit": null,
+      "example": "The river is wide and slow.",
+      "examplePt": "O rio é largo e lento.",
+      "pron": "UÁID — 'w' soa 'u'; 'i' soa 'ai'; o 'e' final é mudo",
+      "curiosity": "'Wide awake' é bem acordado, de olhos arregalados."
+    },
+    "pr19-01": {
+      "word": "hot",
+      "translit": null,
+      "example": "The soup was too hot to eat.",
+      "examplePt": "A sopa estava quente demais para comer.",
+      "pron": "HÓT — o 'h' é um sopro; o 'o' é aberto",
+      "curiosity": "'Hot sauce' é molho picante: 'hot' também é ardido."
+    },
+    "pr19-02": {
+      "word": "cold",
+      "translit": null,
+      "example": "A cold wind took my hat.",
+      "examplePt": "Um vento frio levou meu chapéu.",
+      "pron": "CÔULD — o 'o' vira 'ou'; o 'ld' termina com um 'd' leve",
+      "curiosity": "'Cold' é frio e também resfriado: 'I have a cold'."
+    },
+    "pr19-03": {
+      "word": "new",
+      "translit": null,
+      "example": "Do you like my new shoes?",
+      "examplePt": "Você gosta dos meus sapatos novos?",
+      "pron": "NIÚ — soa como 'niu'; 'ew' vira 'iu'",
+      "curiosity": "'Brand-new' é novinho em folha."
+    },
+    "pr19-04": {
+      "word": "old",
+      "translit": null,
+      "example": "My grandpa's old car sings.",
+      "examplePt": "O carro velho do meu vovô canta.",
+      "pron": "ÔULD — o 'o' vira 'ou'; o 'ld' final é leve",
+      "curiosity": "Para idade se usa 'old': 'How old are you?', e não o verbo 'ter'."
+    },
+    "pr19-05": {
+      "word": "fast",
+      "translit": null,
+      "example": "My dog is fast, but I'm faster.",
+      "examplePt": "Meu cachorro é rápido, mas eu sou mais.",
+      "pron": "FÉST — o 'a' é aberto; o 't' final é leve",
+      "curiosity": "'Fast' também é jejuar; 'break' + 'fast' formou 'breakfast'."
+    },
+    "pr19-06": {
+      "word": "slow",
+      "translit": null,
+      "example": "A slow turtle won the race.",
+      "examplePt": "Uma tartaruga lenta ganhou a corrida.",
+      "pron": "SLÔU — 'sl' juntos; o 'ow' soa 'ôu'",
+      "curiosity": "Nas placas de trânsito dos EUA, 'SLOW' pede para diminuir a velocidade."
+    },
+    "pr19-07": {
+      "word": "clean",
+      "translit": null,
+      "example": "The clean kitchen smells like lemon.",
+      "examplePt": "A cozinha limpa cheira a limão.",
+      "pron": "KLIN — 'kl' juntos; 'ea' é um 'i' longo",
+      "curiosity": "'Squeaky clean' é limpíssimo, tão limpo que range."
+    },
+    "pr19-08": {
+      "word": "dirty",
+      "translit": null,
+      "example": "My dirty boots left muddy prints.",
+      "examplePt": "Minhas botas sujas deixaram pegadas de lama.",
+      "pron": "DÂR-ri — o 'ir' soa 'âr'; o 'y' final soa 'i'",
+      "curiosity": "'Dirt cheap' é baratíssimo, quase de graça."
+    },
+    "pr20-01": {
+      "word": "gray",
+      "translit": null,
+      "example": "A gray cloud covers the sun.",
+      "examplePt": "Uma nuvem cinza cobre o sol.",
+      "pron": "GRÊI — o 'ay' soa 'êi'",
+      "curiosity": "'Gray' nos EUA e 'grey' no Reino Unido são a mesma palavra."
+    },
+    "pr20-02": {
+      "word": "golden",
+      "translit": null,
+      "example": "The golden crown shone in the sun.",
+      "examplePt": "A coroa dourada brilhou ao sol.",
+      "pron": "GÔUL-dn — o 'o' vira 'ou'; o final é fraco",
+      "curiosity": "'Golden rule' é a regra de ouro: trate os outros como quer ser tratado."
+    },
+    "pr20-03": {
+      "word": "silver",
+      "translit": null,
+      "example": "The silver fish flashed in the lake.",
+      "examplePt": "O peixe prateado brilhou no lago.",
+      "pron": "SÍL-vâr — o 'i' é curto; o 'er' final soa 'âr'",
+      "curiosity": "'Every cloud has a silver lining' = tudo tem um lado bom."
+    },
+    "pr20-04": {
+      "word": "beige",
+      "translit": null,
+      "example": "My beige coat matches the sand.",
+      "examplePt": "Meu casaco bege combina com a areia.",
+      "pron": "BÊIJ — o 'ei' soa 'êi'; o 'ge' soa 'j'",
+      "curiosity": "'Beige' é uma palavra francesa que o inglês herdou como está."
+    },
+    "pr20-05": {
+      "word": "turquoise",
+      "translit": null,
+      "example": "The sea looked turquoise today.",
+      "examplePt": "O mar estava turquesa hoje.",
+      "pron": "TÂR-kuóiz — 'qu' soa 'k'; 'oi' como 'ói'",
+      "curiosity": "'Turquoise' lembra 'turco': a pedra chegou à Europa pela Turquia."
+    },
+    "pr20-06": {
+      "word": "lilac",
+      "translit": null,
+      "example": "Lilac flowers will cover the fence.",
+      "examplePt": "Flores lilás vão cobrir a cerca.",
+      "pron": "LÁI-lak — o 'i' inicial soa 'ai'",
+      "curiosity": "'Lilac' é a flor e a cor: uma palavra só para as duas."
+    },
+    "pr20-07": {
+      "word": "navy blue",
+      "translit": null,
+      "example": "He wore a navy blue uniform.",
+      "examplePt": "Ele usou um uniforme azul-marinho.",
+      "pron": "NÊI-vi BLU — o 'a' vira 'êi'; 'blue' soa 'blu'",
+      "curiosity": "'Navy blue' vem da cor dos uniformes da marinha britânica."
+    },
+    "pr20-08": {
+      "word": "colorful",
+      "translit": null,
+      "example": "The parrot looks very colorful.",
+      "examplePt": "O papagaio parece muito colorido.",
+      "pron": "CÂ-lâr-fol — o 'o' soa 'â'; o 'ful' é fraco",
+      "curiosity": "Nos EUA é 'color'; no Reino Unido, 'colour' (com 'u')."
+    },
+    "pr21-01": {
+      "word": "acoustic guitar",
+      "translit": null,
+      "example": "If I had an acoustic guitar, I'd play daily.",
+      "examplePt": "Se eu tivesse um violão, tocaria todo dia.",
+      "pron": "a-CÚS-tic gi-TÁR — 'gu' é forte; a força cai em 'tar'",
+      "curiosity": "Violão é 'acoustic guitar'; guitarra elétrica é 'electric guitar'."
+    },
+    "pr21-02": {
+      "word": "piano",
+      "translit": null,
+      "example": "She has played the piano since she was five.",
+      "examplePt": "Ela toca piano desde os cinco anos.",
+      "pron": "pi-É-nou — a força cai no 'é'; final em 'ou'",
+      "curiosity": "'Piano' é abreviação de 'pianoforte': suave e forte."
+    },
+    "pr21-03": {
+      "word": "drums",
+      "translit": null,
+      "example": "Who plays the drums so loudly?",
+      "examplePt": "Quem toca bateria tão alto?",
+      "pron": "DRÂMZ — o 'u' soa 'â'; termina com 'z'",
+      "curiosity": "Bateria em inglês é sempre plural: 'drums'."
+    },
+    "pr21-04": {
+      "word": "violin",
+      "translit": null,
+      "example": "The violin sounds sad when it plays slowly.",
+      "examplePt": "O violino soa triste quando toca devagar.",
+      "pron": "vái-o-LÍN — a força cai no final; 'vi' soa 'vai'",
+      "curiosity": "'Fiddle' é o mesmo instrumento, usado no folclore e na música caipira."
+    },
+    "pr21-05": {
+      "word": "trumpet",
+      "translit": null,
+      "example": "A trumpet woke me up this morning.",
+      "examplePt": "Um trompete me acordou esta manhã.",
+      "pron": "TRÂM-pit — o 'u' soa 'â'; o 'e' final é um 'i' curto",
+      "curiosity": "'Blow your own trumpet' é se gabar."
+    },
+    "pr21-06": {
+      "word": "flute",
+      "translit": null,
+      "example": "The flute can sound just like a bird.",
+      "examplePt": "A flauta pode soar igualzinho a um pássaro.",
+      "pron": "FLUT — 'u' longo; o 'e' final é mudo",
+      "curiosity": "'Flute' também é a taça comprida do champanhe."
+    },
+    "pr21-07": {
+      "word": "saxophone",
+      "translit": null,
+      "example": "Have you ever heard a saxophone cry?",
+      "examplePt": "Você já ouviu um saxofone chorar?",
+      "pron": "SÉK-so-fôun — 'ph' soa 'f'; final em 'ôun'",
+      "curiosity": "O saxofone é de metal, mas é classificado como instrumento de madeira."
+    },
+    "pr21-08": {
+      "word": "accordion",
+      "translit": null,
+      "example": "Grandpa's accordion was louder than the whole band.",
+      "examplePt": "O acordeão do vovô era mais alto que a banda toda.",
+      "pron": "a-CÓR-di-on — a força cai no 'cór'; 'cc' soa 'k'",
+      "curiosity": "'Accordion fold' descreve qualquer coisa dobrada em sanfona."
+    },
+    "pr22-01": {
+      "word": "hammer",
+      "translit": null,
+      "example": "I dropped the hammer on my toe!",
+      "examplePt": "Deixei o martelo cair no meu dedão!",
+      "pron": "HÉ-mâr — o 'h' é um sopro; 'mm' é um 'm' só",
+      "curiosity": "'Hit the nail on the head' é acertar em cheio."
+    },
+    "pr22-02": {
+      "word": "drill",
+      "translit": null,
+      "example": "If you drill here, you'll find a pipe.",
+      "examplePt": "Se você furar aqui, vai achar um cano.",
+      "pron": "DRÍL — o 'i' é curto; o 'll' é um 'l' só",
+      "curiosity": "'Fire drill' é o treino de evacuação em caso de incêndio."
+    },
+    "pr22-03": {
+      "word": "screw",
+      "translit": null,
+      "example": "This screw is too small for the wall.",
+      "examplePt": "Este parafuso é pequeno demais para a parede.",
+      "pron": "SCRÚ — 'scr' juntos; 'ew' soa 'u'",
+      "curiosity": "'A screw loose' diz que alguém é meio maluquinho."
+    },
+    "pr22-04": {
+      "word": "ladder",
+      "translit": null,
+      "example": "Be careful when you climb the ladder.",
+      "examplePt": "Cuidado ao subir na escada.",
+      "pron": "LÉ-dâr — o 'a' é aberto; 'dd' é um 'd' só",
+      "curiosity": "'Stairs' são escadas fixas; 'ladder' é a de apoiar."
+    },
+    "pr22-05": {
+      "word": "paintbrush",
+      "translit": null,
+      "example": "The paintbrush dripped blue on the floor.",
+      "examplePt": "O pincel pingou azul no chão.",
+      "pron": "PÊINT-brâsh — 'ai' soa 'êi'; 'u' soa 'â'",
+      "curiosity": "'Brush' vira escova ou pincel: toothbrush, hairbrush, paintbrush."
+    },
+    "pr22-06": {
+      "word": "rope",
+      "translit": null,
+      "example": "If you pull this rope, a bell rings.",
+      "examplePt": "Se você puxar esta corda, um sino toca.",
+      "pron": "RÔUP — o 'o' vira 'ou'; o 'e' final é mudo",
+      "curiosity": "'Learn the ropes' é aprender o básico de uma atividade."
+    },
+    "pr22-07": {
+      "word": "magnet",
+      "translit": null,
+      "example": "Have you seen a magnet pick up keys?",
+      "examplePt": "Você já viu um ímã pegar chaves?",
+      "pron": "MÉG-nit — o 'a' é aberto; o 'e' final soa 'i'",
+      "curiosity": "'Magnet' vem de Magnésia, região grega onde havia pedras magnéticas."
+    },
+    "pr22-08": {
+      "word": "bucket",
+      "translit": null,
+      "example": "The bucket was full of sand.",
+      "examplePt": "O balde estava cheio de areia.",
+      "pron": "BÂ-kit — o 'u' soa 'â'; o 'e' soa 'i' curto",
+      "curiosity": "'Bucket list' é a lista de sonhos para realizar na vida."
+    },
+    "pr23-01": {
+      "word": "computer",
+      "translit": null,
+      "example": "My computer froze during the best part.",
+      "examplePt": "Meu computador travou na melhor parte.",
+      "pron": "com-PIU-târ — a força cai em 'piu'; o 'er' final soa 'âr'",
+      "curiosity": "Antes das máquinas, 'computer' era a pessoa que fazia os cálculos."
+    },
+    "pr23-02": {
+      "word": "cell phone",
+      "translit": null,
+      "example": "If your cell phone rings, please answer it.",
+      "examplePt": "Se seu celular tocar, por favor, atenda.",
+      "pron": "SÉL FÔUN — o 'ce' soa 's'; 'ph' soa 'f'",
+      "curiosity": "'Cell' vem das células (áreas) da rede; no Reino Unido, é 'mobile'."
+    },
+    "pr23-03": {
+      "word": "keyboard",
+      "translit": null,
+      "example": "Cats love walking on my keyboard.",
+      "examplePt": "Gatos adoram andar no meu teclado.",
+      "pron": "KI-bórd — 'ey' soa 'i' longo; 'oar' soa 'ór'",
+      "curiosity": "'Keyboard' também é o teclado do piano."
+    },
+    "pr23-04": {
+      "word": "camera",
+      "translit": null,
+      "example": "Smile! The camera is almost ready.",
+      "examplePt": "Sorria! A câmera está quase pronta.",
+      "pron": "KÉM-ra — o 'a' é aberto; o 'e' do meio quase some",
+      "curiosity": "'Camera' vem do latim 'câmara': a antiga 'camera obscura' era uma sala escura."
+    },
+    "pr23-05": {
+      "word": "headphones",
+      "translit": null,
+      "example": "I wear headphones so I don't bother anyone.",
+      "examplePt": "Uso fones para não incomodar ninguém.",
+      "pron": "HÉD-fôunz — o 'ea' soa 'é'; 'ph' soa 'f'",
+      "curiosity": "Fone de encaixe no ouvido é 'earbuds' (brotos de ouvido)."
+    },
+    "pr23-06": {
+      "word": "printer",
+      "translit": null,
+      "example": "The printer jammed again, as usual.",
+      "examplePt": "A impressora travou de novo, como sempre.",
+      "pron": "PRÍN-târ — o 'i' é curto; o 'er' final soa 'âr'",
+      "curiosity": "Papel enroscado na impressora chama-se 'paper jam'."
+    },
+    "pr23-07": {
+      "word": "robot",
+      "translit": null,
+      "example": "Will robots clean our houses someday?",
+      "examplePt": "Os robôs vão limpar nossas casas algum dia?",
+      "pron": "RÔU-bót — o 'o' inicial vira 'ou'; o 'ot' final é aberto",
+      "curiosity": "'Robot' vem da palavra tcheca 'robota', trabalho forçado."
+    },
+    "pr23-08": {
+      "word": "charger",
+      "translit": null,
+      "example": "My charger never works when I need it.",
+      "examplePt": "Meu carregador nunca funciona quando preciso.",
+      "pron": "TCHÁR-djâr — 'ch' como 'tch'; o 'ge' soa 'dj'",
+      "curiosity": "'Charge' é carregar a bateria e também cobrar uma taxa."
+    },
+    "pr24-01": {
+      "word": "brain",
+      "translit": null,
+      "example": "Your brain never stops working, even asleep.",
+      "examplePt": "Seu cérebro nunca para, nem dormindo.",
+      "pron": "BRÊIN — o 'ai' soa 'êi'",
+      "curiosity": "'Brainstorm' é a chuva de ideias em grupo."
+    },
+    "pr24-02": {
+      "word": "bone",
+      "translit": null,
+      "example": "The dog buried a bone yesterday.",
+      "examplePt": "O cachorro enterrou um osso ontem.",
+      "pron": "BÔUN — o 'o' vira 'ou'; o 'e' final é mudo",
+      "curiosity": "Adultos têm 206 ossos; os bebês nascem com cerca de 300."
+    },
+    "pr24-03": {
+      "word": "muscle",
+      "translit": null,
+      "example": "Which muscle do you use to smile?",
+      "examplePt": "Qual músculo você usa para sorrir?",
+      "pron": "MÂ-sl — o 'c' é mudo; o 'u' soa 'â'",
+      "curiosity": "O coração é um músculo que bate uns 100 mil vezes por dia."
+    },
+    "pr24-04": {
+      "word": "hair",
+      "translit": null,
+      "example": "Her hair turned blue after the party.",
+      "examplePt": "O cabelo dela ficou azul depois da festa.",
+      "pron": "HÉR — o 'h' é um sopro; 'air' soa 'ér'",
+      "curiosity": "'Hair' é incontável: 'my hair is long', e 'hairs' só para fios soltos."
+    },
+    "pr24-05": {
+      "word": "nail",
+      "translit": null,
+      "example": "He bites his nail when he's nervous.",
+      "examplePt": "Ele roe a unha quando está nervoso.",
+      "pron": "NÊIL — o 'ai' soa 'êi'",
+      "curiosity": "'Nail' significa unha e também prego."
+    },
+    "pr24-06": {
+      "word": "knee",
+      "translit": null,
+      "example": "Her knee hurt after the long hike.",
+      "examplePt": "O joelho dela doeu depois da longa trilha.",
+      "pron": "NI — o 'k' é mudo; 'ee' é um 'i' longo",
+      "curiosity": "'The bee's knees' é a expressão para algo o máximo."
+    },
+    "pr24-07": {
+      "word": "finger",
+      "translit": null,
+      "example": "A tiny finger pressed the red button.",
+      "examplePt": "Um dedinho apertou o botão vermelho.",
+      "pron": "FÍN-gâr — o 'ng' leva o 'g' pronunciado",
+      "curiosity": "'Fingers crossed' é torcer por sorte, cruzando os dedos."
+    },
+    "pr24-08": {
+      "word": "lung",
+      "translit": null,
+      "example": "Your lung fills with air each time you laugh.",
+      "examplePt": "Seu pulmão se enche de ar toda vez que você ri.",
+      "pron": "LÂNG — o \"u\" é curto e aberto, quase \"â\"; o \"ng\" final é nasal",
+      "curiosity": "O pulmão esquerdo é um pouco menor que o direito para abrir espaço ao coração."
+    },
+    "pr25-01": {
+      "word": "vaccine",
+      "translit": null,
+      "example": "A vaccine protects you from a disease.",
+      "examplePt": "Uma vacina protege você de uma doença.",
+      "pron": "vak-SIN — 'cc' soa 'k'; a força cai no final",
+      "curiosity": "'Vaccine' vem de 'vacca', vaca em latim, por causa da varíola bovina."
+    },
+    "pr25-02": {
+      "word": "thermometer",
+      "translit": null,
+      "example": "Does the thermometer show a fever?",
+      "examplePt": "O termômetro mostra febre?",
+      "pron": "thâr-MÓ-mâ-târ — 'th' com a língua entre os dentes",
+      "curiosity": "Nos EUA, 98,6 °F equivale a 37 °C, a temperatura normal do corpo."
+    },
+    "pr25-03": {
+      "word": "bandage",
+      "translit": null,
+      "example": "She put a bandage on his knee.",
+      "examplePt": "Ela colocou um curativo no joelho dele.",
+      "pron": "BÉN-didj — o 'a' é aberto; o 'ge' soa 'dj'",
+      "curiosity": "No Reino Unido, o curativo adesivo é 'plaster'."
+    },
+    "pr25-04": {
+      "word": "flu",
+      "translit": null,
+      "example": "Half the class has the flu today.",
+      "examplePt": "Metade da turma está gripada hoje.",
+      "pron": "FLU — 'u' longo",
+      "curiosity": "'Flu' é a abreviação de 'influenza'."
+    },
+    "pr25-05": {
+      "word": "cough",
+      "translit": null,
+      "example": "A cough can scare a sleeping cat.",
+      "examplePt": "Uma tosse pode assustar um gato dormindo.",
+      "pron": "CÓF — o 'ou' soa 'ó'; o 'gh' final soa 'f'",
+      "curiosity": "'Cough', 'tough' e 'though' acabam igual na escrita, mas soam diferente."
+    },
+    "pr25-06": {
+      "word": "pain",
+      "translit": null,
+      "example": "I felt a sharp pain in my foot.",
+      "examplePt": "Senti uma dor aguda no pé.",
+      "pron": "PÊIN — o 'ai' soa 'êi'",
+      "curiosity": "Falso amigo curioso: 'pain' é dor; em francês, 'pain' é pão."
+    },
+    "pr25-07": {
+      "word": "crutches",
+      "translit": null,
+      "example": "He walked with crutches for a month.",
+      "examplePt": "Ele andou de muletas por um mês.",
+      "pron": "CRÂ-tchiz — o 'u' soa 'â'; 'tch' como em 'tchau'",
+      "curiosity": "'Crutch' também é muleta figurada: um apoio emocional."
+    },
+    "pr25-08": {
+      "word": "stethoscope",
+      "translit": null,
+      "example": "The doctor placed the stethoscope on my chest.",
+      "examplePt": "O médico pôs o estetoscópio no meu peito.",
+      "pron": "STÉ-thos-kôup — 'th' com a língua entre os dentes",
+      "curiosity": "Do grego: 'stethos' (peito) + 'skopein' (examinar)."
+    },
+    "pr26-01": {
+      "word": "money",
+      "translit": null,
+      "example": "Money can't buy a happy cat.",
+      "examplePt": "Dinheiro não compra um gato feliz.",
+      "pron": "MÂ-ni — o 'o' soa 'â'; 'ey' final soa 'i'",
+      "curiosity": "'Money doesn't grow on trees' é dinheiro não dá em árvore."
+    },
+    "pr26-02": {
+      "word": "coin",
+      "translit": null,
+      "example": "He flipped a coin to decide.",
+      "examplePt": "Ele jogou uma moeda para decidir.",
+      "pron": "KÓIN — 'oi' como 'ói'",
+      "curiosity": "Cara ou coroa em inglês é 'heads or tails'."
+    },
+    "pr26-03": {
+      "word": "card",
+      "translit": null,
+      "example": "Can I pay by card here?",
+      "examplePt": "Posso pagar com cartão aqui?",
+      "pron": "CÁRD — o 'a' é aberto; o 'r' é pronunciado",
+      "curiosity": "'Credit' vem do latim 'credere', acreditar: crédito é confiança."
+    },
+    "pr26-04": {
+      "word": "wallet",
+      "translit": null,
+      "example": "My wallet disappeared like magic.",
+      "examplePt": "Minha carteira sumiu como mágica.",
+      "pron": "UÓ-lit — 'w' soa 'u'; 'a' soa 'ó'",
+      "curiosity": "'Wallet-friendly' descreve algo barato, que cabe no bolso."
+    },
+    "pr26-05": {
+      "word": "price",
+      "translit": null,
+      "example": "The price of that pizza made me gasp.",
+      "examplePt": "O preço daquela pizza me fez arfar.",
+      "pron": "PRÁIS — o 'i' soa 'ai'; o 'ce' soa 's'",
+      "curiosity": "'Priceless' significa inestimável, e não 'sem valor'."
+    },
+    "pr26-06": {
+      "word": "piggy bank",
+      "translit": null,
+      "example": "My piggy bank sounds full of treasure.",
+      "examplePt": "Meu cofrinho parece cheio de tesouros.",
+      "pron": "PÍ-gui BÉNK — 'gg' soa 'g'; 'bank' tem 'a' aberto",
+      "curiosity": "Literalmente 'banco-porquinho': o cofre infantil em inglês é um porco."
+    },
+    "pr26-07": {
+      "word": "discount",
+      "translit": null,
+      "example": "Is there a discount for kids?",
+      "examplePt": "Tem desconto para crianças?",
+      "pron": "DÍS-caunt — a força cai no início; 'ou' soa 'au'",
+      "curiosity": "Nas lojas dos EUA, 'sale' e '50% off' anunciam descontos."
+    },
+    "pr26-08": {
+      "word": "receipt",
+      "translit": null,
+      "example": "Keep the receipt in case it breaks.",
+      "examplePt": "Guarde o recibo caso quebre.",
+      "pron": "ri-SIT — o 'p' é mudo; o 'ei' soa 'i' longo",
+      "curiosity": "Falso amigo: 'recipe' é receita de cozinha; 'receipt' é recibo."
+    },
+    "pr27-01": {
+      "word": "student",
+      "translit": null,
+      "example": "Every student gets a gold star.",
+      "examplePt": "Todo aluno ganha uma estrela dourada.",
+      "pron": "STIÚ-dnt — 'stiú' forte; o final é fraco",
+      "curiosity": "'Student' vale do ensino fundamental à universidade."
+    },
+    "pr27-02": {
+      "word": "class",
+      "translit": null,
+      "example": "Our class starts at eight sharp.",
+      "examplePt": "Nossa aula começa às oito em ponto.",
+      "pron": "KLÉSS — o 'a' é aberto como 'é'; 'ss' final",
+      "curiosity": "'Class' também é classe social; 'first class' é a primeira classe."
+    },
+    "pr27-03": {
+      "word": "test",
+      "translit": null,
+      "example": "I studied all night for the test!",
+      "examplePt": "Estudei a noite toda para a prova!",
+      "pron": "TÉST — o 'e' é aberto; 'st' no final",
+      "curiosity": "'Pop quiz' é a prova-surpresa em sala de aula, nos EUA."
+    },
+    "pr27-04": {
+      "word": "blackboard",
+      "translit": null,
+      "example": "The teacher wrote on the blackboard with chalk.",
+      "examplePt": "A professora escreveu no quadro-negro com giz.",
+      "pron": "BLÉC-bórd — o 'a' é aberto; 'oar' soa 'ór'",
+      "curiosity": "Muitas salas hoje trocaram o 'blackboard' pelo 'whiteboard', quadro branco."
+    },
+    "pr27-05": {
+      "word": "dictionary",
+      "translit": null,
+      "example": "Look it up in the dictionary first.",
+      "examplePt": "Procure primeiro no dicionário.",
+      "pron": "DÍK-sho-nê-ri — a força cai no início; 'tion' soa 'sho'",
+      "curiosity": "'Dictionary' vem do latim 'dicere', dizer."
+    },
+    "pr27-06": {
+      "word": "diploma",
+      "translit": null,
+      "example": "She framed her diploma and smiled.",
+      "examplePt": "Ela emoldurou seu diploma e sorriu.",
+      "pron": "di-PLÔU-ma — a força cai no 'plou'",
+      "curiosity": "Nos EUA, o 'high school diploma' marca o fim do ensino médio."
+    },
+    "pr27-07": {
+      "word": "math",
+      "translit": null,
+      "example": "Math is hard until the puzzle clicks.",
+      "examplePt": "A matemática é difícil até a ficha cair.",
+      "pron": "MÉTH — o 'a' é aberto; 'th' com a língua entre os dentes",
+      "curiosity": "Nos EUA é 'math'; no Reino Unido, 'maths' com 's'."
+    },
+    "pr27-08": {
+      "word": "science",
+      "translit": null,
+      "example": "Science class turned our kitchen into a lab.",
+      "examplePt": "A aula de ciências transformou nossa cozinha em laboratório.",
+      "pron": "SÁI-ens — o 'sc' soa só 's'; 'ie' soa 'ai'",
+      "curiosity": "'Sci-fi' é a abreviação de 'science fiction'."
+    },
+    "pr28-01": {
+      "word": "painting",
+      "translit": null,
+      "example": "That painting makes me feel like I'm swimming.",
+      "examplePt": "Esse quadro me faz sentir que estou nadando.",
+      "pron": "PÊIN-tin — o 'ai' soa 'êi'; o 'ng' é nasal, sem 'g'",
+      "curiosity": "'Painting' é o ato de pintar e também a obra pronta."
+    },
+    "pr28-02": {
+      "word": "drawing",
+      "translit": null,
+      "example": "Her drawing of a dragon covers the whole wall.",
+      "examplePt": "O desenho de um dragão dela cobre a parede toda.",
+      "pron": "DRÓ-in — 'aw' soa 'ó' aberto",
+      "curiosity": "'Back to the drawing board' é recomeçar o plano do zero."
+    },
+    "pr28-03": {
+      "word": "sculpture",
+      "translit": null,
+      "example": "The sculpture looked alive until a bird landed on it.",
+      "examplePt": "A escultura parecia viva até um pássaro pousar nela.",
+      "pron": "SCÂLP-tchâr — o 'u' soa 'â'; o 'p' é pronunciado",
+      "curiosity": "'Sculpture' vem do latim 'sculpere', esculpir."
+    },
+    "pr28-04": {
+      "word": "theater",
+      "translit": null,
+      "example": "Have you ever been to a theater at night?",
+      "examplePt": "Você já foi a um teatro à noite?",
+      "pron": "THÍ-â-târ — 'th' com a língua entre os dentes",
+      "curiosity": "Nos EUA é 'theater'; no Reino Unido, 'theatre', com -re."
+    },
+    "pr28-05": {
+      "word": "music",
+      "translit": null,
+      "example": "Music helps me think when the house is silent.",
+      "examplePt": "A música me ajuda a pensar quando a casa está em silêncio.",
+      "pron": "MIÚ-zic — 'miú'; o 's' do meio soa 'z'",
+      "curiosity": "'Music' e 'museum' vêm das Musas, deusas gregas da inspiração."
+    },
+    "pr28-06": {
+      "word": "dancing",
+      "translit": null,
+      "example": "Dancing in the rain made us laugh.",
+      "examplePt": "Dançar na chuva nos fez rir.",
+      "pron": "DÉN-sin — o 'a' é aberto; o 'ng' é nasal, sem 'g'",
+      "curiosity": "'A dance' também é um baile escolar nos EUA."
+    },
+    "pr28-07": {
+      "word": "movie",
+      "translit": null,
+      "example": "We watched a movie about a talking spoon.",
+      "examplePt": "Assistimos a um filme sobre uma colher falante.",
+      "pron": "MÚ-vi — o 'oo' soa 'u' longo; o 'ie' final é um 'i' curto",
+      "curiosity": "Nos EUA é 'movie'; no Reino Unido, 'film'."
+    },
+    "pr28-08": {
+      "word": "poem",
+      "translit": null,
+      "example": "Dad wrote a poem about my sneezes.",
+      "examplePt": "Papai escreveu um poema sobre meus espirros.",
+      "pron": "PÔU-im — duas sílabas, com a força na primeira",
+      "curiosity": "'Poem' é um texto; 'poetry' é a arte da poesia."
+    },
+    "pr29-01": {
+      "word": "planet",
+      "translit": null,
+      "example": "Which planet looks red in the night sky?",
+      "examplePt": "Qual planeta parece vermelho no céu noturno?",
+      "pron": "PLÉ-nit — o 'a' é aberto; o 'e' final soa 'i'",
+      "curiosity": "'Planet' vem do grego 'planetes', errante: pareciam vagar no céu."
+    },
+    "pr29-02": {
+      "word": "rocket",
+      "translit": null,
+      "example": "The rocket shakes before it flies to the stars.",
+      "examplePt": "O foguete treme antes de voar até as estrelas.",
+      "pron": "RÓ-kit — o 'r' é suave; o 'o' é aberto",
+      "curiosity": "'It's not rocket science' quer dizer 'não é tão difícil'."
+    },
+    "pr29-03": {
+      "word": "astronaut",
+      "translit": null,
+      "example": "An astronaut can't hear a sound in space.",
+      "examplePt": "Um astronauta não ouve nenhum som no espaço.",
+      "pron": "ÉS-tro-nót — a força cai no início; o 'aut' soa 'nót'",
+      "curiosity": "'Astronaut' vem do grego: 'astro' (estrela) + 'nautes' (navegante)."
+    },
+    "pr29-04": {
+      "word": "telescope",
+      "translit": null,
+      "example": "A telescope showed me rings around a planet.",
+      "examplePt": "Um telescópio me mostrou anéis ao redor de um planeta.",
+      "pron": "TÉ-lis-cop — a força cai no início; o 'e' final é mudo",
+      "curiosity": "Telescópios olham para o passado: a luz de estrelas distantes leva muito tempo para chegar."
+    },
+    "pr29-05": {
+      "word": "galaxy",
+      "translit": null,
+      "example": "Our galaxy has billions of stars.",
+      "examplePt": "Nossa galáxia tem bilhões de estrelas.",
+      "pron": "GÉ-lek-si — o 'a' é aberto; o 'x' soa 'ks'",
+      "curiosity": "'Galaxy' vem do grego 'galaxias', leite: por isso, Via Láctea é 'Milky Way'."
+    },
+    "pr29-06": {
+      "word": "comet",
+      "translit": null,
+      "example": "Will the comet pass over our town tonight?",
+      "examplePt": "O cometa vai passar sobre nossa cidade hoje à noite?",
+      "pron": "KÓ-mit — o 'o' é aberto; o 'e' soa 'i' curto",
+      "curiosity": "'Comet' vem do grego 'kometes', 'cabeludo', por causa da cauda."
+    },
+    "pr29-07": {
+      "word": "satellite",
+      "translit": null,
+      "example": "That satellite helps us find the way home.",
+      "examplePt": "Aquele satélite nos ajuda a achar o caminho de casa.",
+      "pron": "SÉ-te-láit — o 'a' é aberto; 'ite' soa 'ait'",
+      "curiosity": "A Lua é o satélite natural da Terra."
+    },
+    "pr29-08": {
+      "word": "eclipse",
+      "translit": null,
+      "example": "When the moon hides the sun, we see an eclipse.",
+      "examplePt": "Quando a lua esconde o sol, vemos um eclipse.",
+      "pron": "i-KLÍPS — a força cai em 'klips'; o 'e' final é mudo",
+      "curiosity": "'Eclipse' vem do grego 'ekleipsis', que quer dizer 'abandono' ou 'desaparecimento'."
+    },
+    "pr30-01": {
+      "word": "trash",
+      "translit": null,
+      "example": "He sorted the trash into three bins.",
+      "examplePt": "Ele separou o lixo em três lixeiras.",
+      "pron": "TRÉSH — o 'a' é aberto; 'sh' como 'ch'",
+      "curiosity": "Nos EUA, 'trash' ou 'garbage'; no Reino Unido, 'rubbish'."
+    },
+    "pr30-02": {
+      "word": "recycling",
+      "translit": null,
+      "example": "Recycling saves more trees than you imagine.",
+      "examplePt": "Reciclar salva mais árvores do que você imagina.",
+      "pron": "ri-SÁI-clin — a força cai no 'sai'; 'y' soa 'ai'",
+      "curiosity": "O símbolo da reciclagem tem três setas formando um triângulo."
+    },
+    "pr30-03": {
+      "word": "energy",
+      "translit": null,
+      "example": "Sleeping gives my body new energy.",
+      "examplePt": "Dormir dá ao meu corpo energia nova.",
+      "pron": "É-nâr-dji — a força cai no início; 'gy' soa 'dji'",
+      "curiosity": "'Energy' vem do grego 'energeia', que quer dizer 'atividade'."
+    },
+    "pr30-04": {
+      "word": "pollution",
+      "translit": null,
+      "example": "Pollution is making the sky look gray.",
+      "examplePt": "A poluição está deixando o céu cinza.",
+      "pron": "po-LU-shân — a força cai no 'lu'; 'tion' soa 'shân'",
+      "curiosity": "'Pollution' vem do latim 'polluere', sujar."
+    },
+    "pr30-05": {
+      "word": "oil",
+      "translit": null,
+      "example": "The country sells oil to the whole world.",
+      "examplePt": "O país vende petróleo para o mundo todo.",
+      "pron": "ÓIL — 'oi' e 'l' formam uma sílaba só",
+      "curiosity": "'Oil' é óleo e petróleo: 'olive oil' e 'crude oil'."
+    },
+    "pr30-06": {
+      "word": "solar panel",
+      "translit": null,
+      "example": "Our roof uses a solar panel to charge phones.",
+      "examplePt": "Nosso telhado usa um painel solar para carregar celulares.",
+      "pron": "SÔU-lâr PÉ-nol — 'o' vira 'ou'; 'a' de 'panel' é aberto",
+      "curiosity": "'Solar' vem do latim 'sol', igual ao português."
+    },
+    "pr30-07": {
+      "word": "plastic",
+      "translit": null,
+      "example": "Plastic bottles can take centuries to break down.",
+      "examplePt": "Garrafas de plástico levam séculos para se decompor.",
+      "pron": "PLÉS-tic — o 'a' é aberto; a força cai no início",
+      "curiosity": "'Plastic' vem do grego 'plastikos', que quer dizer 'moldável'."
+    },
+    "pr30-08": {
+      "word": "metal",
+      "translit": null,
+      "example": "A magnet sticks to this metal spoon.",
+      "examplePt": "Um ímã gruda nesta colher de metal.",
+      "pron": "MÉ-dl — o 't' vira um 'd' rápido; o final é fraco",
+      "curiosity": "'Metal' e 'mettle' (coragem) soam iguais em inglês americano."
+    }
+  }
+}
