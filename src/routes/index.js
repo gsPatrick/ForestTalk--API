@@ -3,6 +3,7 @@ const healthRoutes = require('../features/health/health.routes');
 const devicesRoutes = require('../features/devices/devices.routes');
 const languagesRoutes = require('../features/languages/languages.routes');
 const progressRoutes = require('../features/progress/progress.routes');
+const profileRoutes = require('../features/profile/profile.routes');
 const walletRoutes = require('../features/wallet/wallet.routes');
 const shopRoutes = require('../features/shop/shop.routes');
 const powerUpsRoutes = require('../features/power-ups/power-ups.routes');
@@ -24,6 +25,7 @@ router.use('/v1/devices', devicesRoutes);
 router.use('/v1/languages', languagesRoutes); // idiomas + trilha + progresso + conteúdo dos jogos (por idioma)
 router.use('/v1/languages', progressRoutes);
 router.use('/v1/languages', gameContentRoutes);
+router.use('/v1/languages', profileRoutes);
 router.use('/v1/wallet', walletRoutes);
 router.use('/v1/shop', shopRoutes);
 router.use('/v1/power-ups', powerUpsRoutes);

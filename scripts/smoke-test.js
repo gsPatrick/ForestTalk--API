@@ -59,6 +59,11 @@ const steps = [
     const r = await call('GET', `/v1/languages/${LANG}/progress`);
     expectOk(r, 'progress');
   }],
+  ['perfil do idioma', async () => {
+    const r = await call('GET', `/v1/languages/${LANG}/profile`);
+    expectOk(r, 'profile');
+    expect(r.data.stats.phasesCompleted >= 1, 'perfil sem a fase 1 concluída');
+  }],
   ['abrir baú, desbloquear carta e receber power-ups (como o app)', async () => {
     expectOk(await call('POST', `/v1/languages/${LANG}/chests/5/open`, { coins: 30 }), 'chest');
     expectOk(await call('POST', '/v1/collection/unlock', { animalId: 'rabbit' }), 'unlock');
