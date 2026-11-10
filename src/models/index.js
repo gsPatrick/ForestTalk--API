@@ -16,11 +16,13 @@ const models = {
   SimulationCompletion: require('./SimulationCompletion')(sequelize),
   ChatUsage: require('./ChatUsage')(sequelize),
   ChatMessage: require('./ChatMessage')(sequelize),
+  TutorSession: require('./TutorSession')(sequelize),
+  TutorSetting: require('./TutorSetting')(sequelize),
   WebhookEvent: require('./WebhookEvent')(sequelize),
 };
 
 // Tudo pertence a um aparelho (device); apagar o aparelho apaga seus dados.
-const owned = ['Wallet', 'Subscription', 'PhaseProgress', 'OpenedChest', 'Collection', 'CollectionCard', 'SimulationCompletion', 'ChatUsage', 'ChatMessage'];
+const owned = ['Wallet', 'Subscription', 'PhaseProgress', 'OpenedChest', 'Collection', 'CollectionCard', 'SimulationCompletion', 'ChatUsage', 'ChatMessage', 'TutorSession', 'TutorSetting'];
 for (const name of owned) {
   models.Device.hasMany(models[name], { foreignKey: 'deviceId', onDelete: 'CASCADE' });
   models[name].belongsTo(models.Device, { foreignKey: 'deviceId' });

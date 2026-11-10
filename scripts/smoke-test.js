@@ -3,6 +3,7 @@
 // Uso: API_URL=http://localhost:3333/api npm run smoke:test
 const API_URL = (process.env.API_URL || 'http://localhost:3333/api').replace(/\/$/, '');
 const LANG = 'en';
+const tutorStep = require('./smoke-tutor');
 
 let token;
 const state = {};
@@ -121,6 +122,7 @@ const steps = [
     expectOk(msg, 'chat');
     expect(typeof msg.data.text === 'string', 'resposta sem text');
   }],
+  ['professor de IA: aula, progresso e meta', () => tutorStep({ call, expect, expectOk, lang: LANG })],
   ['cancelar assinatura', async () => {
     const r = await call('DELETE', '/v1/subscription');
     expectOk(r, 'cancel');

@@ -14,6 +14,7 @@ const simulationsRoutes = require('../features/simulations/simulations.routes');
 const chatRoutes = require('../features/chat/chat.routes');
 const speechRoutes = require('../features/speech/speech.routes');
 const subscriptionRoutes = require('../features/subscription/subscription.routes');
+const tutorRoutes = require('../features/tutor/tutor.routes');
 
 const router = Router();
 
@@ -36,5 +37,6 @@ router.use('/v1/sim', simulationsRoutes);
 router.use('/v1/chat', chatRoutes);
 router.use('/v1/speech', speechRoutes);
 router.use('/v1/subscription', subscriptionRoutes);
+router.use('/v1/tutor', tutorRoutes);
 
 module.exports = router;
