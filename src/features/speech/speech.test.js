@@ -85,3 +85,14 @@ test('cada personagem fala com a própria voz; sem personagem usa a padrão', as
   assert.equal(calls[1].body.voice_settings, undefined);
   assert.equal((await c.post('/v1/speech', { text: 'Hi', languageCode: 'en', characterId: 'dragao' })).status, 400);
 });
+
+test('os 13 professores do tutor têm voz própria, todas diferentes', async () => {
+  const { CHARACTER_VOICES } = require('../../providers/elevenlabs/character-voices');
+  const ids = ['teacher_marina', 'teacher_carlos', 'lion', 'cat', 'dog', 'rabbit', 'elephant', 'giraffe', 'horse', 'kangaroo', 'fox', 'owl', 'bear'];
+  const voices = ids.map((id) => CHARACTER_VOICES[id]?.voice);
+  assert.ok(voices.every(Boolean));
+  assert.equal(new Set(voices).size, ids.length);
+  const c = await premiumClient();
+  mockEleven(() => new Response(Buffer.from([1]), { status: 200 }));
+  for (const id of ids) assert.equal((await c.post('/v1/speech', { text: 'Hi', languageCode: 'en', characterId: id })).status, 200, id);
+});
