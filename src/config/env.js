@@ -28,7 +28,7 @@ const schema = z.object({
   OPENAI_MODEL: z.string().default('gpt-4o-mini'),
   ELEVENLABS_API_KEY: z.string().default(''),
   ELEVENLABS_VOICE_ID: z.string().default(''),
-  ELEVENLABS_MODEL: z.string().default('eleven_multilingual_v2'),
+  ELEVENLABS_MODEL: z.string().default('eleven_v4'),
   CHAT_DAILY_LIMIT: z.coerce.number().int().positive().default(60),
 });
 

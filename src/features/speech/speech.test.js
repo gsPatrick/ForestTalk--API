@@ -62,7 +62,7 @@ test('com chave: chama o ElevenLabs com a docs e devolve o MP3', async () => {
   assert.equal(calls.length, 1);
   assert.match(calls[0].url, /\/v1\/text-to-speech\/voz123\?output_format=mp3_44100_128$/);
   assert.equal(calls[0].init.headers['xi-api-key'], 'xi-teste');
-  assert.deepEqual(calls[0].body, { text: 'Привет', model_id: 'eleven_multilingual_v2' });
+  assert.deepEqual(calls[0].body, { text: 'Привет', model_id: 'eleven_v4' });
 });
 
 test('ElevenLabs fora do ar: 502 SPEECH_UNAVAILABLE sem vazar a chave', async () => {
@@ -80,7 +80,8 @@ test('cada personagem fala com a própria voz; sem personagem usa a padrão', as
   assert.equal((await c.post('/v1/speech', { text: 'Hi', languageCode: 'en', characterId: 'bear' })).status, 200);
   assert.equal((await c.post('/v1/speech', { text: 'Hi', languageCode: 'en' })).status, 200);
   assert.match(calls[0].url, /text-to-speech\/nPczCjzI2devNBz1zQrb/);
-  assert.equal(calls[0].body.voice_settings.speed, 0.85);
+  assert.deepEqual(calls[0].body.voice_settings, { stability: 0.5, similarity_boost: 0.75, speed: 0.95 });
+  assert.equal(calls[0].body.model_id, 'eleven_v4');
   assert.match(calls[1].url, /text-to-speech\/voz123/);
   assert.equal(calls[1].body.voice_settings, undefined);
   assert.equal((await c.post('/v1/speech', { text: 'Hi', languageCode: 'en', characterId: 'dragao' })).status, 400);
