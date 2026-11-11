@@ -1,5 +1,6 @@
 const { chatJson, isEnabled } = require('../../providers/openai/openai.client');
-const { turnSchema, buildMessages, NAMES } = require('./tutor-ai.prompt');
+const { turnSchema, buildMessages } = require('./tutor-ai.prompt');
+const GREETINGS = require('./tutor-greetings.data');
 
 const FOLLOW_UP = {
   en: 'Can you tell me more?',
@@ -9,16 +10,11 @@ const FOLLOW_UP = {
   ru: 'Можешь рассказать подробнее?',
 };
 
-/** Saudação local (sem chamar o modelo): barata e sempre disponível. */
+/** Saudação local (sem chamar o modelo): barata, sempre disponível e só no idioma estudado. */
 function greeting(session) {
-  const lang = NAMES[session.languageCode];
-  const about = {
-    topic: `Hoje vamos conversar em ${lang} sobre "${session.topic}".`,
-    scenario: `Vamos praticar ${lang} neste cenário: "${session.topic}".`,
-    free: `Vamos conversar em ${lang}.`,
-    lesson: `Vamos praticar ${lang}.`,
-  }[session.kind];
-  return `Oi, ${session.displayName}! ${about} ${FOLLOW_UP[session.languageCode]}`;
+  const g = GREETINGS[session.languageCode];
+  const about = g[session.kind](session.topic);
+  return `${g.hi}, ${session.displayName}! ${about} ${g.ask}`;
 }
 
 const fallbackTurn = (session) => ({

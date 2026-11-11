@@ -40,6 +40,8 @@ test('conversa livre com chave: usa o modelo; falha do modelo cai no fallback', 
   assert.deepEqual(t.metrics, { grammar: 1, suggestions: 2, pronunciation: 0 });
   assert.equal(calls.length, 1);
   assert.match(calls[0].messages[0].content, /Negotiations/);
+  assert.match(calls[0].messages[0].content, /Speak ONLY English/);
+  assert.doesNotMatch(calls[0].messages[0].content, /Brazilian Portuguese/);
   restoreFetch();
   mockOpenAi(() => new Response('{}', { status: 400 }));
   const fb = (await turn(c, s.id, 'And you?')).body.data;

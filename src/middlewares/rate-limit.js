@@ -13,10 +13,10 @@ const globalLimiter = rateLimit({
   skip: () => env.isTest,
 });
 
-/** Limite da voz (custo por chamada): 20 por minuto por aparelho (cai no IP sem token). Desligado nos testes. */
+/** Limite da voz (custo por chamada): 60 por minuto por aparelho (uma aula fala ~10 mensagens por rodada) (cai no IP sem token). Desligado nos testes. */
 const speechLimiter = rateLimit({
   windowMs: 60_000,
-  limit: 20,
+  limit: 60,
   standardHeaders: 'draft-7',
   legacyHeaders: false,
   message: tooMany,

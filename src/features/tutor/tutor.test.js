@@ -37,7 +37,7 @@ test('sessão de Catching Up pela API e desbloqueio da próxima aula', async () 
   assert.equal(s.done, false);
   assert.deepEqual(s.metrics, { grammar: 0, suggestions: 0, pronunciation: 0 });
   assert.equal(s.messages.length, 1);
-  assert.match(s.messages[0].text, /^Oi, Bruno! Como está o seu dia/);
+  assert.match(s.messages[0].text, /^Hi, Bruno! How is your day/);
   assert.equal(s.messages[0].role, 'tutor');
   assert.ok(s.messages[0].id);
 

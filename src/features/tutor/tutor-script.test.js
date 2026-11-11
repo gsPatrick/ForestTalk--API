@@ -25,37 +25,37 @@ test('saudação exata', () => {
   assert.equal(messages[0].type, 'question');
   assert.equal(
     messages[0].text,
-    'Oi, Bruno! Como está o seu dia até agora? Hoje, vamos aprender como usar "I\'ve been meaning to..." para falar sobre intenções recentes em inglês. Está pronto para começar?',
+    'Hi, Bruno! How is your day going so far? Today, we are going to learn how to use "I\'ve been meaning to..." to talk about recent intentions. Are you ready to start?',
   );
 });
 
 test('sequência exata até a conclusão (A, A)', () => {
   const [a, b, c, d] = run([['Estou bem'], ['Não'], ['A'], ['a)']]);
   assert.deepEqual(types(a), ['feedback', 'explanation', 'question']);
-  assert.equal(a.messages[0].text, 'Ótimo, Bruno! Vamos direto ao ponto.');
+  assert.equal(a.messages[0].text, "Great, Bruno! Let's get straight to the point.");
   assert.equal(a.messages[1].text.split('\n').length, 3);
-  assert.match(a.messages[1].text, /^Quando você quer dizer que está pensando em fazer algo há um tempo/);
-  assert.equal(a.messages[2].text, 'Tem alguma dúvida sobre essa explicação antes de praticarmos?');
+  assert.match(a.messages[1].text, /^When you want to say that you have been thinking about doing something/);
+  assert.equal(a.messages[2].text, 'Do you have any questions about this explanation before we practice?');
   assert.equal(script.stepName(a.step), 'lesson');
-  assert.deepEqual(texts(b)[0], 'Perfeito! Vamos praticar.');
+  assert.deepEqual(texts(b)[0], "Perfect! Let's practice.");
   const ex1 = b.messages[1];
   assert.equal(ex1.type, 'exercise');
   assert.equal(ex1.correctKey, 'A');
   assert.deepEqual(ex1.options, [{ key: 'A', text: 'postpone' }, { key: 'B', text: 'coordinate' }, { key: 'C', text: 'reconnect' }]);
-  assert.match(ex1.text, /^Complete a frase com a opção correta: "I've been meaning to ___ our meeting/);
+  assert.match(ex1.text, /^Complete the sentence with the correct option: "I've been meaning to ___ our meeting/);
   assert.equal(script.stepName(b.step), 'practice');
-  assert.equal(c.messages[0].text, 'Correto, Bruno! Vamos para a próxima.');
-  assert.match(c.messages[1].text, /^Escolha a opção correta para completar: "I've been meaning to ___ with you/);
+  assert.equal(c.messages[0].text, "Correct, Bruno! Let's move on to the next one.");
+  assert.match(c.messages[1].text, /^Choose the correct option to complete: "I've been meaning to ___ with you/);
   assert.deepEqual(c.messages[1].options.map((o) => o.text), ['reconnect', 'availability', 'postpone']);
   assert.equal(c.done, false);
-  assert.deepEqual(texts(d), ['Aula concluída, Bruno! Hoje você praticou "I\'ve been meaning to...". Até a próxima!']);
+  assert.deepEqual(texts(d), ['Lesson complete, Bruno! Today you practiced "I\'ve been meaning to...". See you next time!']);
   assert.equal(d.done, true);
   assert.deepEqual(d.delta, {});
 });
 
 test('resposta errada: correção, grammar +1 e segue', () => {
   const [, , wrong] = run([['oi'], ['ok'], ['B']]);
-  assert.equal(wrong.messages[0].text, 'Quase, Bruno. A resposta correta é A) postpone.');
+  assert.equal(wrong.messages[0].text, 'Almost, Bruno. The correct answer is A) postpone.');
   assert.equal(wrong.messages[1].type, 'explanation');
   assert.equal(wrong.messages[2].type, 'exercise');
   assert.deepEqual(wrong.delta, { grammar: 1, pronunciation: 0 });
@@ -66,8 +66,8 @@ test('erro no último exercício conclui a aula', () => {
   const outs = run([['oi'], ['ok'], ['A'], ['c']]);
   const last = outs[3];
   assert.equal(last.done, true);
-  assert.match(last.messages[0].text, /^Quase, Bruno\. A resposta correta é A\) reconnect\.$/);
-  assert.match(last.messages.at(-1).text, /^Aula concluída, Bruno!/);
+  assert.match(last.messages[0].text, /^Almost, Bruno\. The correct answer is A\) reconnect\.$/);
+  assert.match(last.messages.at(-1).text, /^Lesson complete, Bruno!/);
   assert.equal(last.delta.grammar, 1);
 });
 
@@ -76,7 +76,7 @@ test('entrada inválida pede A, B ou C e não avança', () => {
   assert.equal(outs[2].step, 2);
   assert.equal(outs[2].done, false);
   assert.equal(outs[2].messages.length, 1);
-  assert.match(outs[2].messages[0].text, /A, B ou C/);
+  assert.match(outs[2].messages[0].text, /A, B or C/);
   assert.deepEqual(outs[2].delta, { suggestions: 1, pronunciation: 0 });
 });
 

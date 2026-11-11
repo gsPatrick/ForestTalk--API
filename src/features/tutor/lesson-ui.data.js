@@ -1,9 +1,9 @@
 // Frases fixas do tutor por idioma da aula. `{name}`, `{key}` e `{text}` são substituídos pelo motor.
 module.exports = {
   en: {
-    right: 'Correto, {name}! Vamos para a próxima.',
-    wrong: 'Quase, {name}. A resposta correta é {key}) {text}.',
-    pick: 'Escolha A, B ou C para responder, {name}.',
+    right: "Correct, {name}! Let's move on to the next one.",
+    wrong: 'Almost, {name}. The correct answer is {key}) {text}.',
+    pick: 'Choose A, B or C to answer, {name}.',
   },
   es: {
     right: '¡Correcto, {name}! Vamos con la siguiente.',

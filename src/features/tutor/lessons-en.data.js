@@ -1,88 +1,88 @@
-// Aulas de inglês (tutor fala português). Formato: ver tutor-script.js.
+// Aulas de inglês: o tutor fala só inglês (simples e claro). Formato: ver tutor-script.js.
 const ex = (prompt, options, correct, why) => ({ prompt, options, correct, why });
-const PRACTICE = 'Perfeito! Vamos praticar.';
-const DOUBT = 'Tem alguma dúvida sobre essa explicação antes de praticarmos?';
-const INTRO = 'Ótimo, {name}! Vamos direto ao ponto.';
+const PRACTICE = "Perfect! Let's practice.";
+const DOUBT = 'Do you have any questions about this explanation before we practice?';
+const INTRO = "Great, {name}! Let's get straight to the point.";
 
 module.exports = [
   {
     id: 'catching-up', title: 'Catching Up', icon: 'chat', order: 1,
     newWords: ['reconnect', 'reschedule', 'postpone', 'coordinate', 'availability'],
-    greeting: 'Oi, {name}! Como está o seu dia até agora? Hoje, vamos aprender como usar "I\'ve been meaning to..." para falar sobre intenções recentes em inglês. Está pronto para começar?',
+    greeting: 'Hi, {name}! How is your day going so far? Today, we are going to learn how to use "I\'ve been meaning to..." to talk about recent intentions. Are you ready to start?',
     intro: INTRO,
     explanations: [
-      'Quando você quer dizer que está pensando em fazer algo há um tempo, mas ainda não fez, use "I\'ve been meaning to...".',
-      'Depois, coloque a ação que você quer fazer, como reconnect (reconectar) ou reschedule (remarcar).',
-      'Isso mostra que a intenção existe há algum tempo, mas por algum motivo foi adiada.',
+      'When you want to say that you have been thinking about doing something for a while, but you have not done it yet, use "I\'ve been meaning to...".',
+      'Then add the action you want to do, like reconnect or reschedule.',
+      'It shows that the intention has been there for some time, but it was delayed for some reason.',
     ],
     doubt: DOUBT, practice: PRACTICE,
     exercises: [
-      ex('Complete a frase com a opção correta: "I\'ve been meaning to ___ our meeting, but I haven\'t checked your availability yet."',
+      ex('Complete the sentence with the correct option: "I\'ve been meaning to ___ our meeting, but I haven\'t checked your availability yet."',
         ['postpone', 'coordinate', 'reconnect'], 'A',
-        '"Postpone" significa adiar e combina com "our meeting": a reunião foi deixada para depois.'),
-      ex('Escolha a opção correta para completar: "I\'ve been meaning to ___ with you, but things kept getting in the way."',
+        '"Postpone" means to move something to a later time, and it fits "our meeting".'),
+      ex('Choose the correct option to complete: "I\'ve been meaning to ___ with you, but things kept getting in the way."',
         ['reconnect', 'availability', 'postpone'], 'A',
-        '"Reconnect with you" significa retomar o contato; "availability" é um substantivo e "postpone" pede um objeto.'),
+        '"Reconnect with you" means to get back in touch. "Availability" is a noun, and "postpone" needs an object.'),
     ],
-    closing: 'Aula concluída, {name}! Hoje você praticou "I\'ve been meaning to...". Até a próxima!',
+    closing: 'Lesson complete, {name}! Today you practiced "I\'ve been meaning to...". See you next time!',
   },
   {
     id: 'weekend-getaway', title: 'Weekend Getaway', icon: 'flight', order: 2,
     newWords: ['getaway', 'book', 'itinerary', 'beach', 'reservation'],
-    greeting: 'Oi, {name}! Já pensou em viajar neste fim de semana? Hoje vamos aprender a falar de planos de viagem com "I\'m thinking of...". Pronto para começar?',
+    greeting: 'Hi, {name}! Have you thought about traveling this weekend? Today we are going to talk about travel plans with "I\'m thinking of...". Ready to start?',
     intro: INTRO,
     explanations: [
-      'Use "I\'m thinking of" para dizer que você está considerando um plano.',
-      'Depois de "of", o verbo vai no -ing, como em "I\'m thinking of going to the beach".',
-      'Para reservar hotel ou voo, use o verbo "book": "We should book a hotel".',
+      'Use "I\'m thinking of" to say that you are considering a plan.',
+      'After "of", the verb ends in -ing, like in "I\'m thinking of going to the beach".',
+      'To reserve a hotel or a flight, use the verb "book": "We should book a hotel".',
     ],
     doubt: DOUBT, practice: PRACTICE,
     exercises: [
-      ex('Complete a frase: "I\'m thinking of ___ to the beach this weekend."', ['go', 'going', 'went'], 'B',
-        'Depois de "thinking of" usamos o verbo com -ing: "going".'),
-      ex('Escolha a opção correta: "We should ___ a hotel before it gets full."', ['book', 'books', 'booking'], 'A',
-        'Depois de "should" usamos o verbo na forma base: "book".'),
+      ex('Complete the sentence: "I\'m thinking of ___ to the beach this weekend."', ['go', 'going', 'went'], 'B',
+        'After "thinking of" we use the -ing form: "going".'),
+      ex('Choose the correct option: "We should ___ a hotel before it gets full."', ['book', 'books', 'booking'], 'A',
+        'After "should" we use the base form of the verb: "book".'),
     ],
-    closing: 'Aula concluída, {name}! Hoje você praticou planos de viagem. Até a próxima!',
+    closing: 'Lesson complete, {name}! Today you practiced travel plans. See you next time!',
   },
   {
     id: 'thats-so-true', title: "That's So True", icon: 'thumb_up', order: 3,
     newWords: ['agree', 'exactly', 'absolutely', 'true', 'exhausting'],
-    greeting: 'Oi, {name}! Como foi a sua semana? Hoje vamos aprender a concordar com alguém de forma natural, usando "That\'s so true". Vamos começar?',
+    greeting: 'Hi, {name}! How was your week? Today we are going to learn how to agree with someone in a natural way, using "That\'s so true". Shall we start?',
     intro: INTRO,
     explanations: [
-      'Para concordar com alguém, diga "That\'s so true!" ou "Exactly!".',
-      'Uma forma mais forte é "I couldn\'t agree more", que significa "concordo totalmente".',
-      'Esses jeitos de concordar deixam a conversa mais natural e amigável.',
+      'To agree with someone, say "That\'s so true!" or "Exactly!".',
+      'A stronger way is "I couldn\'t agree more", which means "I totally agree".',
+      'These ways of agreeing make the conversation more natural and friendly.',
     ],
     doubt: DOUBT, practice: PRACTICE,
     exercises: [
-      ex('Seu amigo diz: "Traffic is terrible today." Escolha uma resposta que concorda:',
+      ex('Your friend says: "Traffic is terrible today." Choose an answer that agrees:',
         ['I couldn\'t agree more.', 'I don\'t think so.', 'Not at all.'], 'A',
-        '"I couldn\'t agree more" expressa concordância total; as outras opções discordam.'),
-      ex('Complete: "Mondays are exhausting." — "___! I need coffee already."',
+        '"I couldn\'t agree more" shows total agreement. The other options disagree.'),
+      ex('Complete: "Mondays are exhausting." - "___! I need coffee already."',
         ['That\'s so true', 'That\'s false', 'That\'s weird'], 'A',
-        '"That\'s so true" é a forma natural de concordar com a frase do seu amigo.'),
+        '"That\'s so true" is the natural way to agree with your friend.'),
     ],
-    closing: 'Aula concluída, {name}! Hoje você praticou formas de concordar. Até a próxima!',
+    closing: 'Lesson complete, {name}! Today you practiced ways to agree. See you next time!',
   },
   {
     id: 'spending-free-time', title: 'Spending Free Time', icon: 'sunny', order: 4,
     newWords: ['hobby', 'relax', 'weekend', 'usually', 'free time'],
-    greeting: 'Oi, {name}! O que você mais gosta de fazer quando está livre? Hoje vamos falar sobre tempo livre e hobbies. Pronto para começar?',
+    greeting: 'Hi, {name}! What do you like to do the most when you are free? Today we are going to talk about free time and hobbies. Ready to start?',
     intro: INTRO,
     explanations: [
-      'Para falar do seu tempo livre, comece com "In my free time, I like to...".',
-      'Depois de "like to" use o verbo na forma base, como read, cook ou walk.',
-      'Para hábitos, use "usually": "On weekends, I usually meet friends".',
+      'To talk about your free time, start with "In my free time, I like to...".',
+      'After "like to", use the base form of the verb, like read, cook or walk.',
+      'For habits, use "usually": "On weekends, I usually meet friends".',
     ],
     doubt: DOUBT, practice: PRACTICE,
     exercises: [
-      ex('Complete a frase: "In my free time, I like to ___ books."', ['read', 'reads', 'reading'], 'A',
-        'Depois de "like to" usamos o verbo na forma base: "read".'),
-      ex('Escolha a opção correta: "On weekends, I usually ___ friends."', ['meeting', 'meet', 'meets'], 'B',
-        'Com "I" o verbo fica na forma base: "meet".'),
+      ex('Complete the sentence: "In my free time, I like to ___ books."', ['read', 'reads', 'reading'], 'A',
+        'After "like to" we use the base form of the verb: "read".'),
+      ex('Choose the correct option: "On weekends, I usually ___ friends."', ['meeting', 'meet', 'meets'], 'B',
+        'With "I", the verb stays in the base form: "meet".'),
     ],
-    closing: 'Aula concluída, {name}! Hoje você praticou como falar do tempo livre. Até a próxima!',
+    closing: 'Lesson complete, {name}! Today you practiced how to talk about free time. See you next time!',
   },
 ];
