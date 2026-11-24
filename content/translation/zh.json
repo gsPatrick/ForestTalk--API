@@ -288,14 +288,14 @@
    "translit": "kǎo",
    "example": "奶奶会烤面包。",
    "examplePt": "A vovó sabe assar pão.",
-   "pron": "KÃO — 'k' aspirado, tom baixo; soa como 'cáo' longo",
+   "pron": "KAO — 'k' aspirado, com um sopro; tom baixo: desce e sobe",
    "curiosity": "烤鸭 (kǎoyā), pato assado, é um dos pratos mais famosos de Pequim."
   },
   "tr04-07": {
    "word": "炸",
    "translit": "zhá",
    "example": "炸薯条真香！",
-   "examplePt": "Batata frita é muito cheirosa!",
+   "examplePt": "Batata frita tem um cheiro tão bom!",
    "pron": "JÁ — 'zh' enrolado como um 'j'; tom ascendente",
    "curiosity": "炸 também significa 'explodir': 爆炸 (bàozhà) é 'explosão'."
   },
@@ -334,10 +334,10 @@
   "tr05-02": {
    "word": "关上",
    "translit": "guānshang",
-   "example": "出门前关上灯。",
-   "examplePt": "Apague a luz antes de sair.",
+   "example": "出门时请关上门。",
+   "examplePt": "Ao sair, feche a porta.",
    "pron": "GUAN-SHANG — 'guān' alto; 'shang' vira leve",
-   "curiosity": "上 depois do verbo indica ação concluída: 关上 é 'fechar de vez'."
+   "curiosity": "上 depois do verbo indica que a ação chegou ao resultado: 关上 é 'fechar até ficar fechado'."
   },
   "tr05-03": {
    "word": "坐",
@@ -456,7 +456,7 @@
    "translit": "lǚxíng",
    "example": "暑假我想去旅行。",
    "examplePt": "Nas férias de verão quero viajar.",
-   "pron": "LÜ-XING — o 'ü' é um 'u' com lábios de 'i'; tom baixo",
+   "pron": "LÜ-XING — o 'ü' soa como 'i' dito com os lábios arredondados; tom baixo",
    "curiosity": "旅行 e 旅游 (lǚyóu) são parentes: o segundo foca no turismo."
   },
   "tr06-08": {
@@ -552,7 +552,7 @@
    "translit": "diū",
    "example": "我的伞丢了。",
    "examplePt": "Perdi o meu guarda-chuva.",
-   "pron": "DIÚ — tom alto e plano; 'iu' soa como 'iôu'",
+   "pron": "DIÔU — tom alto e plano; 'iu' soa como 'iôu'",
    "curiosity": "丢 vale para objetos; já para perder um jogo usa-se 输 (shū)."
   },
   "tr07-10": {
@@ -702,7 +702,7 @@
   "tr09-08": {
    "word": "展示",
    "translit": "zhǎnshì",
-   "example": "他向大家展示画。",
+   "example": "他向大家展示自己的画。",
    "examplePt": "Ele mostra o desenho a todos.",
    "pron": "JAN-XI — 'zhǎn' desce e sobe; 'shì' cai",
    "curiosity": "展 é 'abrir/expor': 展览 (zhǎnlǎn) é 'exposição' de museu."
@@ -744,7 +744,7 @@
    "translit": "dǎ pēntì",
    "example": "他又打喷嚏了。",
    "examplePt": "Ele espirrou de novo.",
-   "pron": "DÁ PÊN-TI — 'dǎ' sobe por ser antes de tom baixo",
+   "pron": "DA PEN-TI — 'dǎ' fica baixo; 'pēn' é alto e plano; 'tì' cai",
    "curiosity": "喷嚏 (pēntì) é o espirro; o verbo 打 aparece em 打哈欠, 打电话 e outros."
   },
   "tr10-04": {
@@ -782,7 +782,7 @@
   "tr10-08": {
    "word": "吞咽",
    "translit": "tūnyàn",
-   "example": "吃太快会不好吞咽。",
+   "example": "吃得太快，不容易吞咽。",
    "examplePt": "Comer rápido demais dificulta engolir.",
    "pron": "TUN-IEN — 'tūn' alto; 'yàn' cai, com 'a' aberto",
    "curiosity": "吞 é engolir inteiro e 咽 é engolir com a garganta: juntos, 'engolir'."
@@ -801,7 +801,7 @@
    "example": "演出后大家鼓掌。",
    "examplePt": "Depois do show todos aplaudiram.",
    "pron": "GU-JANG — dois tons baixos: o primeiro vira ascendente",
-   "curiosity": "鼓 é 'tambor' e 掌 é 'palma': aplaudir é, literalmente, 'bater tambor com as palmas'."
+   "curiosity": "掌 é 'palma da mão' e 鼓 aqui é 'bater': aplaudir é 'bater as palmas'."
   },
   "tr11-01": {
    "word": "买",
@@ -904,7 +904,7 @@
    "translit": "dǎ zhāohu",
    "example": "他笑着跟我打招呼。",
    "examplePt": "Ele me cumprimentou sorrindo.",
-   "pron": "DÁ JAO-ru — 'dǎ' sobe antes de 'zhāo'; 'hu' leve",
+   "pron": "DA JAO-ru — 'dǎ' fica baixo; 'zhāo' é alto e plano; 'hu' leve",
    "curiosity": "招 é 'acenar com a mão': cumprimentar é, literalmente, 'bater um aceno'."
   },
   "tr12-04": {
@@ -1184,7 +1184,7 @@
    "translit": "qǐng dǎbāo",
    "example": "吃不完，请打包。",
    "examplePt": "Não consigo acabar, embale para viagem.",
-   "pron": "TCHING DÁ-BAO — 'dǎ' sobe antes de 'bāo'",
+   "pron": "TCHING DA-BAO — 'dǎ' fica baixo; 'bāo' é alto e plano",
    "curiosity": "打包 é 'embalar'; levar as sobras do restaurante é bem comum na China."
   },
   "tr15-09": {
@@ -1193,7 +1193,7 @@
    "example": "你看，这盘菜凉了。",
    "examplePt": "Olha, este prato esfriou.",
    "pron": "TSAI LIANG LE — 'cài' cai; 'liáng' sobe",
-   "curiosity": "Na China se come quente: 凉了 (esfriou) é motivo de reclamação."
+   "curiosity": "凉 é 'fresco ou frio' para comida e bebida; para o tempo ou o ambiente se diz mais 冷 (lěng)."
   },
   "tr15-10": {
    "word": "我要甜点",
@@ -1201,7 +1201,7 @@
    "example": "吃完饭，我要甜点。",
    "examplePt": "Depois da refeição, quero sobremesa.",
    "pron": "UÓ IAO TIEN-DIEN — 'tián' sobe; 'diǎn' desce e sobe",
-   "curiosity": "甜 é 'doce': 甜点 é 'ponto doce', a sobremesa."
+   "curiosity": "甜 é 'doce': além de 甜点, existe 点心 (diǎnxin), palavra para doces e petiscos leves."
   },
   "tr16-01": {
    "word": "我订了房间",
@@ -1255,9 +1255,9 @@
    "word": "请给我钥匙",
    "translit": "qǐng gěi wǒ yàoshi",
    "example": "请给我钥匙，谢谢。",
-   "examplePt": "Pode me dar a chave, obrigado?",
+   "examplePt": "Pode me dar a chave? Obrigado.",
    "pron": "TCHING GÊI UÓ IAO-shi — 'yào' cai; 'shi' fica leve e neutro",
-   "curiosity": "钥匙 é 'chave' mesmo quando é cartão eletrônico: 房卡 (fángkǎ)."
+   "curiosity": "钥匙 é 'chave'; o cartão que abre o quarto de hotel chama-se 房卡 (fángkǎ)."
   },
   "tr16-08": {
    "word": "可以寄存行李吗？",
@@ -1296,7 +1296,7 @@
    "translit": "qǐngwèn nǎ wèi?",
    "example": "你好，请问哪位？",
    "examplePt": "Olá, quem fala?",
-   "pron": "TCHING-UÊN NÁ UÊI — 'qǐng' sobe; 'wèn' cai",
+   "pron": "TCHING-UÊN NA UÊI — 'qǐng' e 'nǎ' ficam baixos; 'wèn' e 'wèi' caem",
    "curiosity": "位 é o classificador educado para pessoas: 哪位 é 'qual pessoa', de modo polido."
   },
   "tr17-03": {
@@ -1328,7 +1328,7 @@
    "translit": "dǎcuò le",
    "example": "对不起，我打错了。",
    "examplePt": "Desculpe, liguei errado.",
-   "pron": "DÁ-TSUÔ LE — 'dǎ' sobe antes de 'cuò'; 'c' soa 'ts'",
+   "pron": "DA-TSUÔ LE — 'dǎ' fica baixo; 'cuò' cai; 'c' soa 'ts'",
    "curiosity": "错 é 'errado': 错了 serve para tudo: 走错了 (andar errado), 说错了 (falar errado)."
   },
   "tr17-07": {
@@ -1582,7 +1582,7 @@
   "tr20-08": {
    "word": "我有一个主意",
    "translit": "wǒ yǒu yí ge zhǔyi",
-   "example": "我有一个主意，听听吗？",
+   "example": "我有一个主意，你想听听吗？",
    "examplePt": "Tenho uma ideia, quer ouvir?",
    "pron": "UÓ IÔU I GE JU-i — 'zhǔ' desce e sobe; 'yi' leve",
    "curiosity": "主意 é 'ideia' ou 'plano': 好主意 (hǎo zhǔyi) é o nosso 'boa ideia!'."
@@ -1841,7 +1841,7 @@
    "example": "我不介意坐后面。",
    "examplePt": "Não me importo de sentar atrás.",
    "pron": "UÓ BU JIÊ-I — 'bù' vira 'bú'; 'jiè' cai",
-   "curiosity": "介意 é 'ter ressentimento/importar-se' e quase sempre aparece negado."
+   "curiosity": "介意 é 'importar-se' e aparece sobretudo em frases negativas ou em perguntas: 你介意吗？"
   },
   "tr24-01": {
    "word": "能帮帮我吗？",
@@ -2000,7 +2000,7 @@
    "translit": "wǒ yǐjīng hǎo duō le",
    "example": "吃了药，我已经好多了。",
    "examplePt": "Tomei o remédio e já estou bem melhor.",
-   "pron": "UÓ I-JING RAO DUÔ LE — 'yǐ' sobe antes de 'jīng'",
+   "pron": "UÓ I-JING RAO DUÔ LE — 'yǐ' fica baixo; 'jīng' é alto",
    "curiosity": "好多了 é 'muito melhor': 多 depois do adjetivo mostra a diferença para mais."
   },
   "tr26-01": {
@@ -2048,7 +2048,7 @@
    "translit": "wǒ yǒu dōngxi yào shēnbào",
    "example": "海关问我有没有东西要申报。",
    "examplePt": "A alfândega perguntou se tenho algo a declarar.",
-   "pron": "uó iôu dôngshi iao chên-bao — 'shēn' com a língua para trás; 'bào' cai firme",
+   "pron": "uó iôu dôngchi iao chên-bao — 'shēn' com a língua para trás; 'bào' cai firme",
    "curiosity": "东西 é literalmente 'leste e oeste', mas com o 'xi' leve quer dizer 'coisa'."
   },
   "tr26-07": {
@@ -2073,7 +2073,7 @@
    "example": "请问，哪里可以换钱？",
    "examplePt": "Com licença, onde posso trocar dinheiro?",
    "pron": "uó chü-iao rruan tchien — 'xū' é alto com 'ü'; 'huàn' cai; 'qián' sobe",
-   "curiosity": "换 é trocar e vale para dinheiro, roupa e até de ideia: 换钱, 换衣服, 换主意."
+   "curiosity": "换 é trocar e vale para dinheiro, roupa e até emprego: 换钱, 换衣服, 换工作."
   },
   "tr26-10": {
    "word": "这是我的护照",
@@ -2102,7 +2102,7 @@
   "tr27-03": {
    "word": "睡得像猪",
    "translit": "shuì de xiàng zhū",
-   "example": "他一躺下就睡得像猪。",
+   "example": "他一躺下就睡得像猪一样。",
    "examplePt": "Ele deita e dorme como uma pedra.",
    "pron": "shuêi de chiang djú — 'shuì' cai; 'zhū' é alto e plano; 'x' é um 'ch' sorrindo",
    "curiosity": "Em chinês quem dorme pesado 'dorme como um porco', não como uma pedra."
@@ -2303,7 +2303,7 @@
    "word": "慢工出细活",
    "translit": "màn gōng chū xì huó",
    "example": "别着急，慢工出细活。",
-   "examplePt": "Sem pressa, devagar se vai ao longe.",
+   "examplePt": "Sem pressa, a pressa é inimiga da perfeição.",
    "pron": "man gung tchu chi rruó — 'màn' cai; 'gōng' e 'chū' altos; 'xì' cai; 'huó' sobe",
    "curiosity": "细活 é 'trabalho fino': o ditado valoriza o artesão que não tem pressa."
   },
@@ -2319,7 +2319,7 @@
    "word": "笑一笑，十年少",
    "translit": "xiào yi xiào, shí nián shào",
    "example": "多笑笑吧，笑一笑，十年少。",
-   "examplePt": "Ria mais, rir é o melhor remédio.",
+   "examplePt": "Ria mais: um sorriso rejuvenesce dez anos.",
    "pron": "chiao i chiao, shi nien shao — 'xiào' cai; 'yi' leve no meio; 'shí' e 'nián' sobem",
    "curiosity": "Repetir o verbo (笑一笑) suaviza e dá a ideia de 'dar um sorrisinho'; vale para 看一看, 想一想."
   },
@@ -2356,18 +2356,18 @@
    "curiosity": "主意 é 'ideia ou decisão': 有主意 é ter opinião própria e 没主意 é estar indeciso."
   },
   "tr30-05": {
-   "word": "断了思路",
-   "translit": "duàn le sīlù",
-   "example": "被打断后，我断了思路。",
+   "word": "思路断了",
+   "translit": "sīlù duàn le",
+   "example": "被打断后，我的思路断了。",
    "examplePt": "Depois da interrupção, perdi o fio da meada.",
-   "pron": "duan le sê-lu — 'duàn' cai; 'sī' alto; 'lù' cai",
+   "pron": "sê-lu duan le — 'sī' alto; 'lù' e 'duàn' caem",
    "curiosity": "思路 é o 'caminho do pensamento': perder o fio da meada é 'cortar o caminho'."
   },
   "tr30-06": {
    "word": "话到嘴边",
    "translit": "huà dào zuǐbiān",
-   "example": "那个词话到嘴边，就是想不起来。",
-   "examplePt": "A palavra está na ponta da língua e não vem.",
+   "example": "话到嘴边，我却突然想不起那个词了。",
+   "examplePt": "Estava na ponta da língua, mas de repente não lembrei a palavra.",
    "pron": "rrua dao dzuêi-bien — 'huà' e 'dào' caem; 'zuǐ' desce e sobe; 'biān' alto",
    "curiosity": "Em chinês a palavra está 'na beira da boca', não na ponta da língua."
   },
@@ -2953,7 +2953,7 @@
    "example": "这么吵，我实在无法忍受。",
    "examplePt": "Está barulhento demais, não aguento.",
    "pron": "rrên-shôu — 'rěn' desce e sobe; 'shòu' cai",
-   "curiosity": "忍 tem 刃 (lâmina) em cima de 心 (coração): aguentar dói por dentro."
+   "curiosity": "忍 tem 刃 (lâmina) sobre 心 (coração): um bom truque para lembrar do caractere."
   },
   "tr37-10": {
    "word": "支持",
@@ -2961,7 +2961,7 @@
    "example": "我们都支持你的决定。",
    "examplePt": "Todos nós apoiamos a sua decisão.",
    "pron": "djï-tchï — 'zhī' alto e 'chí' sobe, com a língua para trás",
-   "curiosity": "支 também é classificador de canetas: 一支笔, e de ideia 'apoio': 支持."
+   "curiosity": "支 também é classificador de canetas e bastões: 一支笔; em 支持 ele tem o sentido de 'sustentar'."
   },
   "tr38-01": {
    "word": "变胖",
@@ -3126,7 +3126,7 @@
   "tr40-01": {
    "word": "每周一次",
    "translit": "měi zhōu yí cì",
-   "example": "我们每周一次去游泳。",
+   "example": "我们每周一次，一起去游泳。",
    "examplePt": "Vamos nadar uma vez por semana.",
    "pron": "mêi djôu i tsï — 'měi' desce e sobe; 'zhōu' alto; 'yí' sobe; 'cì' cai",
    "curiosity": "每 + unidade é 'cada': 每天, 每周, 每月, 每年."
@@ -3175,7 +3175,7 @@
    "word": "每隔一天",
    "translit": "měi gé yì tiān",
    "example": "我每隔一天跑步。",
-   "examplePt": "Corro a cada dois dias.",
+   "examplePt": "Corro dia sim, dia não.",
    "pron": "mêi gê i tien — 'měi' desce e sobe; 'gé' sobe; 'yì' cai",
    "curiosity": "隔 é separar: 隔壁 é 'parede ao lado' (vizinho) e 每隔 é 'a cada intervalo'."
   },
@@ -3206,7 +3206,7 @@
   "tr41-01": {
    "word": "除非",
    "translit": "chúfēi",
-   "example": "除非下雨，我们就出发。",
+   "example": "除非下雨，否则我们就出发。",
    "examplePt": "A menos que chova, nós saímos.",
    "pron": "tchú-fêi — 'chú' sobe; 'fēi' alto; 'ch' com a língua para trás",
    "curiosity": "除非 costuma vir com 才 ou 否则: 除非你来，我才去 é 'só vou se você vier'."
@@ -3222,7 +3222,7 @@
   "tr41-03": {
    "word": "一方面",
    "translit": "yì fāngmiàn",
-   "example": "一方面便宜，一方面方便。",
+   "example": "一方面便宜，另一方面也很方便。",
    "examplePt": "De um lado é barato, de outro é prático.",
    "pron": "i fang-mien — 'yì' cai; 'fāng' alto; 'miàn' cai",
    "curiosity": "方面 é 'lado ou aspecto'; o par clássico é 一方面…另一方面…."

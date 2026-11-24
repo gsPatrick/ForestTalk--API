@@ -24,7 +24,7 @@
    "translit": "liǎo bu qǐ",
    "example": "你跑得这么快，了不起！",
    "examplePt": "Você corre tão rápido, incrível!",
-   "pron": "liáo bu tchi — 'liǎo' desce e sobe; 'qǐ' tem 'q' como 'tch' suave",
+   "pron": "liao bu tchi — 'liǎo' desce e sobe; 'qǐ' desce e sobe, com 'q' como 'tch' suave",
    "curiosity": "O 了 lê-se liǎo em 了不起, mas le em 吃了: o mesmo caractere muda de som."
   },
   "sp01-04": {
@@ -73,23 +73,23 @@
    "example": "请你帮忙，好吗？",
    "examplePt": "Pode ajudar, por favor?",
    "pron": "bang-máng — 'bāng' agudo e reto (tom 1); 'máng' sobe",
-   "curiosity": "帮忙 aceita meio no meio: 帮个忙 quer dizer 'dar uma mãozinha'."
+   "curiosity": "帮忙 aceita uma palavra no meio: 帮个忙 quer dizer 'dar uma mãozinha'."
   },
   "sp02-02": {
-   "word": "肃静",
-   "translit": "sùjìng",
-   "example": "老师说：请肃静！",
+   "word": "请安静",
+   "translit": "qǐng ānjìng",
+   "example": "老师说：请大家保持安静！",
    "examplePt": "A professora disse: silêncio!",
-   "pron": "su-djing — os dois tons caem seco (tom 4); 'j' como 'dj'",
-   "curiosity": "Placas de teatros e tribunais usam 肃静 para pedir silêncio total."
+   "pron": "tching an-djing — 'q' é 'tch' suave; 'ān' é agudo e reto; 'jìng' cai seco, com 'j' como 'dj'",
+   "curiosity": "安静 também descreve lugares: 这里很安静 quer dizer 'aqui é silencioso'."
   },
   "sp02-03": {
-   "word": "忍耐",
-   "translit": "rěnnài",
-   "example": "学习需要忍耐。",
+   "word": "有耐心",
+   "translit": "yǒu nàixīn",
+   "example": "学习要有耐心。",
    "examplePt": "Estudar exige paciência.",
-   "pron": "rên-nai — 'r' é um 'r' suave de língua enrolada, perto do 'j' francês",
-   "curiosity": "O caractere 忍 é uma lâmina (刃) sobre um coração (心): aguentar dói."
+   "pron": "iou nai-chin — 'yǒu' desce e sobe; 'nài' cai seco; 'xīn' é agudo e reto, com 'x' como um 'ch' suave",
+   "curiosity": "Para elogiar alguém, diz-se 你真有耐心！; sem paciência é 没耐心."
   },
   "sp02-04": {
    "word": "注意",
@@ -126,8 +126,8 @@
   "sp02-08": {
    "word": "好运",
    "translit": "hǎoyùn",
-   "example": "祝你考试好运！",
-   "examplePt": "Boa sorte na prova!",
+   "example": "祝你好运，考试加油！",
+   "examplePt": "Boa sorte, e mandou bem na prova!",
    "pron": "hao-ün — em 'yùn' faça lábios em 'u' e diga 'i': som de ü",
    "curiosity": "八 (bā, oito) soa como 发 (fā, prosperar), por isso é número de sorte."
   },
@@ -161,7 +161,7 @@
    "example": "那个男孩在踢球。",
    "examplePt": "Aquele menino joga bola.",
    "pron": "nán-rrái — 'nán' sobe (tom 2); 'h' é um 'rr' suave",
-   "curiosity": "Diz-se que 男 junta 田 (campo) e 力 (força): quem trabalha o campo."
+   "curiosity": "O caractere 男 é formado por 田 (campo) e 力 (força)."
   },
   "sp03-05": {
    "word": "女孩",
@@ -177,7 +177,7 @@
    "example": "那位先生在等你。",
    "examplePt": "Aquele senhor espera por você.",
    "pron": "chian-sheng — 'x' é 'ch' suave; 'sheng' leve, com língua enrolada",
-   "curiosity": "先生 é literalmente 'nascido antes' e também significa 'marido' e 'professor'."
+   "curiosity": "先生 é literalmente 'nascido antes' e é o tratamento 'senhor' para um homem."
   },
   "sp03-07": {
    "word": "女士",
@@ -481,7 +481,7 @@
    "example": "孩子们爱吃香肠面包。",
    "examplePt": "As crianças adoram pão com salsicha.",
    "pron": "chiang-tcháng-miên-bao — 'x' é 'ch' suave; 'ch' com língua enrolada",
-   "curiosity": "É um nome descritivo: literalmente 'pão com salsicha'; o chinês adora isso."
+   "curiosity": "É um nome descritivo: literalmente 'pão com salsicha'."
   },
   "sp08-05": {
    "word": "薯片",
@@ -505,7 +505,7 @@
    "example": "外婆做的春卷很香。",
    "examplePt": "Os rolinhos da vovó são cheirosos.",
    "pron": "tchun-düán — 'ch' com língua enrolada; 'juǎn' leva ü e desce e sobe",
-   "curiosity": "Come-se 春卷 na Festa da Primavera, o Ano Novo Chinês."
+   "curiosity": "春 é 'primavera' e 卷 é 'enrolar': 春卷 é o 'rolinho de primavera'."
   },
   "sp08-08": {
    "word": "焦糖布丁",
@@ -816,7 +816,7 @@
    "translit": "fēicháng hǎo",
    "example": "你的作业写得非常好。",
    "examplePt": "Sua lição foi escrita muito bem.",
-   "pron": "fêi-tchang rão — 'fēi' é agudo e plano; 'chá' sobe como pergunta",
+   "pron": "fêi-tcháng rao — 'fēi' é agudo e plano; 'cháng' sobe como numa pergunta; 'hǎo' desce e sobe",
    "curiosity": "非常 junta 非 ('não') e 常 ('comum'): literalmente 'fora do comum'."
   },
   "sp13-07": {
@@ -1369,7 +1369,7 @@
    "example": "会议要用，你能把文件发给我吗？",
    "examplePt": "Vou precisar na reunião, pode me enviar o arquivo?",
    "pron": "ni nêng ba uên-djien fa gêi uô ma — 'wén' sobe",
-   "curiosity": "发 lê-se fā ('enviar') mas fà em 头发 ('cabelo')."
+   "curiosity": "发 lê-se fā ('enviar') mas fà em 理发 ('cortar o cabelo')."
   },
   "sp22-04": {
    "word": "我周五之前做完",
@@ -1436,12 +1436,12 @@
    "curiosity": "更 antes do verbo dá o 'mais': 更喜欢 = 'gostar mais'; 而不是 = 'e não'."
   },
   "sp23-04": {
-   "word": "这首音乐很欢快",
-   "translit": "zhè shǒu yīnyuè hěn huānkuài",
+   "word": "这首曲子很欢快",
+   "translit": "zhè shǒu qǔzi hěn huānkuài",
    "example": "这首音乐很欢快，让人想跳舞。",
    "examplePt": "Essa música é animada, dá vontade de dançar.",
-   "pron": "djê chou in-iuê rên ruan-kuai — 'huān' agudo",
-   "curiosity": "首 é o classificador de canções e poemas."
+   "pron": "djê chou tchü-dz rên ruan-kuai — 'qǔ' tem 'ü' e desce e sobe; 'huān' agudo; 'zi' é leve",
+   "curiosity": "首 é o classificador de canções e poemas; 曲子 é a 'melodia' ou 'peça musical'."
   },
   "sp23-05": {
    "word": "我不同意你的看法",
@@ -1622,8 +1622,8 @@
   "sp26-03": {
    "word": "我们可以做朋友吗？",
    "translit": "wǒmen kěyǐ zuò péngyou ma?",
-   "example": "我们不是早就是朋友了吗？",
-   "examplePt": "Já não somos amigos faz tempo?",
+   "example": "我们早就是朋友了啊！",
+   "examplePt": "Já somos amigos faz tempo!",
    "pron": "uó-men KÊ-i dzuó PÊNG-iou ma — o 'z' soa 'dz'; 'kěyǐ' tem dois tons baixos",
    "curiosity": "可以 é o 'pode' de permissão; para capacidade, usa-se 能."
   },
@@ -1669,11 +1669,11 @@
   },
   "sp27-01": {
    "word": "要不要喝点什么？",
-   "translit": "yào bù yào hē diǎn shénme?",
+   "translit": "yào bu yào hē diǎn shénme?",
    "example": "来杯热茶就好。",
    "examplePt": "Só um chá quente está ótimo.",
-   "pron": "iao bú iao rê dien SHÊN-me — 'yào bú yào' em tom 4, 'sh' é 'x' enrolado",
-   "curiosity": "要不要 é a pergunta 'verbo + não + verbo': quer ou não quer?"
+   "pron": "iao bu iao rê dien SHÊN-me — 'yào' cai; o 'bu' do meio é leve; 'sh' é 'x' enrolado",
+   "curiosity": "Aqui 点 vale 'um pouco': 喝点茶 é 'tomar um pouco de chá'."
   },
   "sp27-02": {
    "word": "晚饭已经做好了",
@@ -1833,7 +1833,7 @@
    "example": "提前两小时到够吗？",
    "examplePt": "Duas horas antes bastam?",
    "pron": "uó-men DZAO-dien dao dji-TCHANG ba — 'chǎng' é 'tchang' com língua enrolada",
-   "curiosity": "机场 junta 机 (de 飞机, 'máquina voadora') e 场 ('campo'): campo de aviões."
+   "curiosity": "提前 é 'adiantar': 提前两小时 quer dizer 'duas horas antes do previsto'."
   },
   "sp29-06": {
    "word": "哪里可以租车？",
@@ -1846,8 +1846,8 @@
   "sp29-07": {
    "word": "我想参观城里的博物馆",
    "translit": "wǒ xiǎng cānguān chéng lǐ de bówùguǎn",
-   "example": "听说里面有很多古董。",
-   "examplePt": "Dizem que há muitas antiguidades lá dentro.",
+   "example": "听说里面有很多文物。",
+   "examplePt": "Dizem que há muitos artefatos históricos lá dentro.",
    "pron": "uó CHIANG tsan-GUAN tchêng li de BUÓ-u-guan — 'c' é 'ts'; 'ch' é 'tch' enrolado",
    "curiosity": "馆 forma lugares públicos: 博物馆, 图书馆, 大使馆."
   },
@@ -1887,7 +1887,7 @@
    "word": "请代我问候你的家人",
    "translit": "qǐng dài wǒ wènhòu nǐ de jiārén",
    "example": "好的，我一定转告他们。",
-   "examplePt": "Certo, com certeza vou avisar a eles.",
+   "examplePt": "Certo, com certeza vou dar o recado a eles.",
    "pron": "tching dai uó uên-rou ni de DJIA-rên — 'h' é 'r' aspirado; 'r' é um 'j' francês",
    "curiosity": "代 é 'em nome de': 代我 significa 'por mim', 'em meu nome'."
   },
@@ -1996,11 +1996,11 @@
    "curiosity": "靠 é encostar: 靠窗 é junto à janela e 靠右 é pela direita."
   },
   "sp32-02": {
-   "word": "方便的时候请结账",
-   "translit": "fāngbiàn de shíhou qǐng jiézhàng",
-   "example": "不着急，慢慢吃。",
-   "examplePt": "Sem pressa, coma com calma.",
-   "pron": "FANG-bien de SHR-rou tching DJIÊ-djang — 'sh' é 'x' enrolado; 'jié' sobe",
+   "word": "请帮我结账",
+   "translit": "qǐng bāng wǒ jiézhàng",
+   "example": "好的，请稍等。",
+   "examplePt": "Certo, um momento.",
+   "pron": "tching bang uó DJIÊ-djang — 'q' é 'tch' aspirado; 'jié' sobe; 'zh' é 'dj' enrolado",
    "curiosity": "买单 (mǎidān) é o jeito falado de pedir a conta; 结账 soa mais formal."
   },
   "sp32-03": {
@@ -2095,7 +2095,7 @@
    "word": "现金有折扣吗？",
    "translit": "xiànjīn yǒu zhékòu ma?",
    "example": "满一百可以打九折。",
-   "examplePt": "Acima de cem tem noventa por cento.",
+   "examplePt": "A partir de cem yuans, 10% de desconto.",
    "pron": "CHIEN-djin iou DJÊ-kou ma — 'xiàn' sorridente; 'zhé' é 'djê' enrolado",
    "curiosity": "打九折 é 'pagar 90%', ou seja 10% de desconto: o número é o que se paga."
   },
@@ -2110,8 +2110,8 @@
   "sp33-08": {
    "word": "我想换一个别的颜色",
    "translit": "wǒ xiǎng huàn yí ge bié de yánsè",
-   "example": "红色的您看喜欢吗？",
-   "examplePt": "O vermelho agrada ao senhor?",
+   "example": "红色的您看怎么样？",
+   "examplePt": "O que acha do vermelho?",
    "pron": "uó CHIANG ruan i ge biê de IÉN-sê — 'huàn' é 'ruan'; 'sè' é seco",
    "curiosity": "换 serve para trocar roupa, dinheiro, ônibus e até de lugar."
   },
@@ -2244,11 +2244,11 @@
    "curiosity": "楼 é 'andar' e também 'prédio': 一楼 é o térreo, como no Brasil."
   },
   "sp36-01": {
-   "word": "红绿灯处向左拐",
-   "translit": "hónglǜdēng chù xiàng zuǒ guǎi",
+   "word": "到红绿灯向左拐",
+   "translit": "dào hónglǜdēng xiàng zuǒ guǎi",
    "example": "然后一直往前走。",
    "examplePt": "Depois siga sempre em frente.",
-   "pron": "RONG-liu-dêng tchu CHIANG DZUÓ guai — 'lǜ' é 'li' com lábios em 'u'",
+   "pron": "dao RONG-lü-dêng CHIANG DZUÓ guai — 'lǜ' tem 'ü': lábios em 'u' dizendo 'i'",
    "curiosity": "红绿灯 lista as cores: 红 (vermelho), 绿 (verde) e 灯 (luz)."
   },
   "sp36-02": {
@@ -2639,7 +2639,7 @@
    "word": "我不是故意的，请原谅",
    "translit": "wǒ bú shì gùyì de, qǐng yuánliàng",
    "example": "我知道，别放在心上。",
-   "examplePt": "Eu sei, não leve a sério.",
+   "examplePt": "Eu sei, não ligue para isso.",
    "pron": "uó bu shr GU-i de, tching IUAN-liang — 'yuán' soa 'iuan' com 'ü'",
    "curiosity": "故意 é 'de propósito': 不是故意的 é o 'foi sem querer'."
   },
@@ -2857,7 +2857,7 @@
    "example": "傍晚可能会下大雨。",
    "examplePt": "No fim da tarde pode chover forte.",
    "pron": "biê uang le dai IU-san — 'yǔ' é 'iu' com lábios fechados; 'sǎn' é 'san'",
-   "curiosity": "伞 desenha um guarda-chuva aberto: o caractere é quase uma figura."
+   "curiosity": "伞 sozinho já é 'guarda-chuva': 雨伞 especifica 'de chuva' e 太阳伞 é o guarda-sol."
   },
   "sp45-06": {
    "word": "风刮得太大了",
@@ -2940,11 +2940,11 @@
    "curiosity": "机 é 'máquina': 关机, 开机 e 手机 ('máquina de mão')."
   },
   "sp46-08": {
-   "word": "我给风景拍了张照片",
-   "translit": "wǒ gěi fēngjǐng pāi le zhāng zhàopiàn",
+   "word": "我拍了一张风景照片",
+   "translit": "wǒ pāi le yì zhāng fēngjǐng zhàopiàn",
    "example": "夕阳把山染成了金色。",
    "examplePt": "O pôr do sol tingiu a montanha de dourado.",
-   "pron": "uó gêi FÊNG-djing pai le djang DJAO-pien — 'pāi' é 'p' aspirado; 'zh' enrolado",
+   "pron": "uó pai le i djang FÊNG-djing djao-pien — 'pāi' é 'p' aspirado; 'zh' é 'dj' enrolado",
    "curiosity": "拍 é 'bater' e também 'tirar foto' e 'filmar'."
   },
   "sp47-01": {

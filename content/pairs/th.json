@@ -16,7 +16,7 @@
    "translit": "suea",
    "example": "เสือตัวนี้กินอะไร?",
    "examplePt": "O que este tigre come?",
-   "pron": "SÊ-a com 'ʉ' (u sem arredondar os lábios); tom ascendente",
+   "pron": "sʉ̌a — 'ʉ' é um 'u' com os lábios esticados (sem arredondar), seguido de 'a'; tom ascendente",
    "curiosity": "Cada tigre tem listras únicas, como uma impressão digital."
   },
   "pr01-03": {
@@ -32,7 +32,7 @@
    "translit": "yirap",
    "example": "ยีราฟคอยาวมาก",
    "examplePt": "A girafa tem o pescoço bem comprido.",
-   "pron": "yi-RÁP — 'y' como em 'iode'; o 'f' final soa como 'p'",
+   "pron": "yii-RÂAP — 'y' como em 'iode'; vogal longa e tom descendente; o 'f' final soa como 'p'",
    "curiosity": "Palavra vinda do inglês 'giraffe': o ฟ no fim é lido como 'p' em tailandês."
   },
   "pr01-05": {
@@ -64,8 +64,8 @@
    "translit": "chorakhe",
    "example": "จระเข้ซ่อนตัวใต้น้ำ",
    "examplePt": "O crocodilo se esconde debaixo d'água.",
-   "pron": "joh-rá-KÊE — 'kh' aspirado; a última sílaba cai (descendente)",
-   "curiosity": "Escreve-se com um ร no meio, mas se lê 'cho-ra-khê', com 3 sílabas."
+   "pron": "jɔɔ-rá-KHÊE — 'kh' aspirado; a última sílaba cai (descendente)",
+   "curiosity": "Na escrita, a vogal da 1ª sílaba não aparece: o จ é lido 'jɔɔ', por isso a palavra tem 3 sílabas (jɔɔ-ra-khê)."
   },
   "pr02-01": {
    "word": "นกอินทรี",
@@ -101,7 +101,7 @@
   },
   "pr02-05": {
    "word": "ฟลามิงโก",
-   "translit": "flamingo",
+   "translit": "flamingko",
    "example": "ฟลามิงโกยืนขาเดียว",
    "examplePt": "O flamingo fica em pé numa perna só.",
    "pron": "fla-MING-goh — 'fl' junto; é empréstimo do inglês",
@@ -253,7 +253,7 @@
   },
   "pr04-08": {
    "word": "แมวน้ำ",
-   "translit": "maewnam",
+   "translit": "maeonam",
    "example": "แมวน้ำตบมือเก่งไหม?",
    "examplePt": "A foca bate palmas bem?",
    "pron": "mɛɛo-NÁAM — 'ae' aberto + 'o'; 2ª sílaba alta",
@@ -277,7 +277,7 @@
   },
   "pr05-03": {
    "word": "มะเขือเทศ",
-   "translit": "makhuethet",
+   "translit": "makhueathet",
    "example": "มะเขือเทศสีแดงสุกแล้ว",
    "examplePt": "O tomate vermelho já está maduro.",
    "pron": "má-KHʉ̌A-têet — 'khʉ̌a' ascendente; 'th' é 't' com sopro",
@@ -333,7 +333,7 @@
   },
   "pr06-02": {
    "word": "ไอศกรีม",
-   "translit": "aiskrim",
+   "translit": "aisakrim",
    "example": "ไอศกรีมละลายในแดดร้อน",
    "examplePt": "O sorvete derrete no sol quente.",
    "pron": "ai-sa-GRIIM — 'ไอ' soa como 'ai'; vem do inglês 'ice cream'",
@@ -360,7 +360,7 @@
    "translit": "omyim",
    "example": "อมยิ้มรสสตรอว์เบอร์รี",
    "examplePt": "Pirulito de morango.",
-   "pron": "òm-YÍM — 1ª baixa, 2ª alta",
+   "pron": "om-YÍM — 'om' em tom médio; 'yím' alto",
    "curiosity": "Literalmente 'segurar um sorriso': อม é manter na boca e ยิ้ม é sorriso."
   },
   "pr06-06": {
@@ -781,15 +781,15 @@
   },
   "pr13-02": {
    "word": "บาสเกตบอล",
-   "translit": "basketbon",
+   "translit": "batsaketbon",
    "example": "บาสเกตบอลต้องโยนลงห่วง",
    "examplePt": "No basquete, a bola tem de cair na cesta.",
-   "pron": "bàat-sa-get-BOON — 'l' final vira 'n'",
+   "pron": "bàat-sa-gèt-BOON — 'gèt' baixo e curto; o 'l' final de 'ball' vira 'n'",
    "curiosity": "O 'l' final de 'ball' é lido como 'n' em tailandês."
   },
   "pr13-03": {
    "word": "เทนนิส",
-   "translit": "thennis",
+   "translit": "thennit",
    "example": "เทนนิสเล่นสองคนได้ไหม?",
    "examplePt": "Dá para jogar tênis em duas pessoas?",
    "pron": "TEN-nít — 'th' soa 't' com sopro; 2ª alta",
@@ -821,7 +821,7 @@
   },
   "pr13-07": {
    "word": "สกี",
-   "translit": "ski",
+   "translit": "saki",
    "example": "สกีลงเนินหิมะสนุกจริง",
    "examplePt": "Esquiar na ladeira de neve é muito divertido.",
    "pron": "sà-GII — sílaba final longa e média",
@@ -829,7 +829,7 @@
   },
   "pr13-08": {
    "word": "เบสบอล",
-   "translit": "besbon",
+   "translit": "betbon",
    "example": "เบสบอลใช้ไม้ตีลูกบอล",
    "examplePt": "No beisebol se usa um taco para bater na bola.",
    "pron": "bèet-BOON — 'bèet' é curto e baixo",
@@ -837,7 +837,7 @@
   },
   "pr14-01": {
    "word": "ตุ๊กตา",
-   "translit": "tukta",
+   "translit": "tukkata",
    "example": "ตุ๊กตาตัวไหนเป็นของน้อง?",
    "examplePt": "Qual boneca é da sua irmã?",
    "pron": "DTÚK-ga-dtaa — 'd' e 't' secos; 1ª alta",
@@ -861,7 +861,7 @@
   },
   "pr14-04": {
    "word": "ตุ๊กตาหมี",
-   "translit": "tuktamii",
+   "translit": "tukkatami",
    "example": "ตุ๊กตาหมีอ้วนและนุ่ม",
    "examplePt": "O ursinho é gordinho e macio.",
    "pron": "dtúk-ga-dtaa-MĬI — a última sílaba é ascendente",
@@ -888,7 +888,7 @@
    "translit": "rongthaosaket",
    "example": "รองเท้าสเก็ตมีล้อสี่ล้อ",
    "examplePt": "Os patins têm quatro rodas.",
-   "pron": "roong-táao-sa-GÉT — 'sk' vira 'sa-k'",
+   "pron": "roong-táao-sa-GÈT — 'sk' vira 'sa-k'; 'gèt' baixo e curto",
    "curiosity": "Literalmente 'sapato de skate': รองเท้า é sapato."
   },
   "pr14-08": {
@@ -952,7 +952,7 @@
    "translit": "khrueangkhitlek",
    "example": "เครื่องคิดเลขเครื่องนี้ใช้ถ่านไหม?",
    "examplePt": "Esta calculadora usa pilha?",
-   "pron": "krʉ̂ang-kít-LÉEK — 'khrʉ̂ang' descendente",
+   "pron": "krʉ̂ang-kít-LÊEK — 'krʉ̂ang' descendente; 'lêek' longo e descendente",
    "curiosity": "Literalmente 'máquina de pensar números'."
   },
   "pr15-08": {
@@ -1216,8 +1216,8 @@
    "translit": "sokkaprok",
    "example": "มือสกปรกไปล้างก่อน",
    "examplePt": "Mãos sujas: vá lavar primeiro.",
-   "pron": "sòk-gà-BPRÒK — as quatro sílabas são baixas",
-   "curiosity": "'สกปรก' tem quatro sílabas curtas e baixas, quase uma rima."
+   "pron": "sòk-gà-BPRÒK — as três sílabas têm tom baixo; 'bpr' junto",
+   "curiosity": "สกปรก tem três sílabas curtas, todas de tom baixo: sòk-gà-bpròk."
   },
   "pr20-01": {
    "word": "สีเทา",
@@ -1240,7 +1240,7 @@
    "translit": "singoen",
    "example": "รถสีเงินวิ่งเร็วไหม?",
    "examplePt": "O carro prateado anda rápido?",
-   "pron": "sǐi-NGOEN — 'ng' no começo, como em 'ngoen'",
+   "pron": "sǐi-NGOEN — o 'ng' inicial soa como o final de 'ring'; 'oen' é um 'ê' sem arredondar os lábios",
    "curiosity": "เงิน é prata e também 'dinheiro': a mesma palavra."
   },
   "pr20-04": {
@@ -1248,7 +1248,7 @@
    "translit": "sibet",
    "example": "ผนังสีเบจดูอบอุ่น",
    "examplePt": "A parede bege parece aconchegante.",
-   "pron": "sǐi-BÉET — vem do francês 'beige'",
+   "pron": "sǐi-BÈET — vem do francês 'beige'; 'bèet' é longo e baixo",
    "curiosity": "Do francês 'beige', cor da lã natural, sem tingimento."
   },
   "pr20-05": {
@@ -1256,7 +1256,7 @@
    "translit": "sithoekwoi",
    "example": "ทะเลสีเทอร์ควอยซ์ใสมาก",
    "examplePt": "O mar turquesa é cristalino.",
-   "pron": "sǐi-TOEK-kwɔɔi — 'th' é 't' com sopro; 'oe' soa 'ê' fechado",
+   "pron": "sǐi-thɤɤk-wɔɔi — 'th' é 't' com sopro; 'ɤɤ' é um 'ê' com os lábios esticados; 'wɔɔi' tem 'ɔ' aberto",
    "curiosity": "Turquesa vem do francês e quer dizer 'turca': a pedra chegava pela Turquia."
   },
   "pr20-06": {
@@ -1287,8 +1287,8 @@
    "word": "กีตาร์",
    "translit": "kita",
    "example": "กีตาร์ตัวนี้เสียงดีไหม?",
-   "examplePt": "Esta guitarra tem bom som?",
-   "pron": "gii-DTÀA — 'r' final não soa",
+   "examplePt": "Este violão tem um som bom?",
+   "pron": "gii-DTAA — as duas sílabas têm tom médio; o 'r' final não soa",
    "curiosity": "A guitarra elétrica é 'กีตาร์ไฟฟ้า': ไฟฟ้า é 'eletricidade'."
   },
   "pr21-02": {
@@ -1297,15 +1297,15 @@
    "example": "ลูกฉันเล่นเปียโนทุกวัน",
    "examplePt": "Meu filho toca piano todo dia.",
    "pron": "bpiia-NOO — 'ia' ditongo; 2ª média",
-   "curiosity": "เปียโน é empréstimo do italiano 'piano'."
+   "curiosity": "O ditongo 'เปีย' de เปียโน lê-se 'bpia', como em 'piano' no português; o 'p' inicial é seco."
   },
   "pr21-03": {
-   "word": "กลอง",
-   "translit": "klong",
-   "example": "กลองดังจนหูอื้อ",
-   "examplePt": "O tambor soa tão alto que o ouvido zumbe.",
-   "pron": "GLOONG — 'kl' junto; vogal longa, tom médio",
-   "curiosity": "Na Tailândia existe uma enorme variedade de tambores tradicionais."
+   "word": "กลองชุด",
+   "translit": "klongchut",
+   "example": "กลองชุดดังจนหูอื้อ",
+   "examplePt": "A bateria soa tão alto que o ouvido zumbe.",
+   "pron": "glɔɔng-chút — 'gl' junto; 'ɔɔ' aberto e longo; 'chút' alto e curto",
+   "curiosity": "กลองชุด é literalmente 'tambores em conjunto': ชุด quer dizer 'conjunto, jogo'."
   },
   "pr21-04": {
    "word": "ไวโอลิน",
@@ -1317,10 +1317,10 @@
   },
   "pr21-05": {
    "word": "ทรัมเป็ต",
-   "translit": "thrampet",
+   "translit": "trampet",
    "example": "ทรัมเป็ตเสียงดังมาก",
    "examplePt": "O trompete é muito barulhento.",
-   "pron": "tram-BPÉT — 'thr' é 't' com sopro; 'pet' alto",
+   "pron": "tram-BPÈT — 'tr' junto; 'bpèt' baixo e curto",
    "curiosity": "ทร normalmente soa 's' (ทราย = 'sai'), mas em ทรัมเป็ต, empréstimo, soa 'tr'."
   },
   "pr21-06": {
@@ -1336,7 +1336,7 @@
    "translit": "saeksofon",
    "example": "แซกโซโฟนเล่นเพลงแจ๊สเก่ง",
    "examplePt": "O saxofone toca jazz muito bem.",
-   "pron": "sɛ̂k-soh-FOON — 'ae' aberto",
+   "pron": "sɛ̂ɛk-soh-FOON — 'ɛɛ' é um 'é' aberto e longo; 'sɛ̂ɛk' desce",
    "curiosity": "Foi inventado na Bélgica no século 19."
   },
   "pr21-08": {
@@ -1413,7 +1413,7 @@
   },
   "pr23-01": {
    "word": "คอมพิวเตอร์",
-   "translit": "khomphiutoe",
+   "translit": "khomphiotoe",
    "example": "คอมพิวเตอร์เครื่องนี้เร็วไหม?",
    "examplePt": "Este computador é rápido?",
    "pron": "kom-piu-TƏƏ — 'oe' soa como 'é' + 'r' mudo",
@@ -1472,7 +1472,7 @@
    "translit": "thichat",
    "example": "ขอยืมที่ชาร์จหน่อยได้ไหม?",
    "examplePt": "Posso pegar seu carregador emprestado?",
-   "pron": "tîi-CHÁAT — 'ที่' é descendente; 'ชาร์จ' vem do inglês 'charge'",
+   "pron": "tîi-CHÂAT — 'tîi' desce; 'châat' longo e descendente; 'ชาร์จ' vem do inglês 'charge'",
    "curiosity": "ที่ é 'lugar/aquilo que': ที่ชาร์จ é 'aquilo que carrega'."
   },
   "pr24-01": {
@@ -1541,7 +1541,7 @@
   },
   "pr25-01": {
    "word": "วัคซีน",
-   "translit": "wakhsin",
+   "translit": "waksin",
    "example": "วัคซีนเข็มนี้กันโรคอะไร?",
    "examplePt": "Contra qual doença esta vacina protege?",
    "pron": "wák-SIIN — 1ª alta e curta; 2ª média",
@@ -1549,18 +1549,18 @@
   },
   "pr25-02": {
    "word": "ปรอทวัดไข้",
-   "translit": "protwatkhai",
+   "translit": "parotwatkhai",
    "example": "ปรอทวัดไข้ขึ้นสูงมาก",
    "examplePt": "O termômetro marcou febre alta.",
-   "pron": "bprà-ròot-wát-KHÂI — 5 sílabas",
+   "pron": "bpà-rɔ̂ɔt-wát-KHÂI — 4 sílabas; 'rɔ̂ɔt' longo e descendente",
    "curiosity": "Literalmente 'mercúrio para medir febre'."
   },
   "pr25-03": {
    "word": "พลาสเตอร์",
-   "translit": "phlasetoe",
+   "translit": "phlatsatoe",
    "example": "พลาสเตอร์ปิดแผลลายการ์ตูน",
    "examplePt": "O curativo com estampa de desenho.",
-   "pron": "plàat-sa-DTƏƏ — 'ph' é 'p' com sopro",
+   "pron": "plâat-sa-DTƏƏ — 'plâat' longo e descendente; 'tɤɤ' com lábios esticados",
    "curiosity": "Do inglês 'plaster'; ร์ final não soa."
   },
   "pr25-04": {
@@ -1680,7 +1680,7 @@
    "translit": "khaprian",
    "example": "คาบเรียนต่อไปเริ่มกี่โมง?",
    "examplePt": "A que horas começa a próxima aula?",
-   "pron": "KHAP-RIAN — 'kh' é 'k' com sopro; 'khap' tem vogal longa e tom alto",
+   "pron": "KHÂAP-RIAN — 'kh' é 'k' com sopro; 'khâap' tem vogal longa e tom descendente",
    "curiosity": "'คาบ' também é segurar com a boca: หมาคาบกระดูก (cão leva o osso)."
   },
   "pr27-03": {
@@ -1744,7 +1744,7 @@
    "translit": "phapwat",
    "example": "ภาพวาดของน้องสีสดใสมาก",
    "examplePt": "O desenho da minha irmãzinha tem cores vivas.",
-   "pron": "PHAP WAT — 'ph' é 'p' com sopro; 'phap' desce; 'wat' é curto",
+   "pron": "PHÂAP WÂAT — 'ph' é 'p' com sopro; as duas sílabas têm vogal longa e tom descendente",
    "curiosity": "'วาด' é desenhar e 'ภาพ' é imagem: 'ภาพวาด' é a imagem desenhada."
   },
   "pr28-03": {
@@ -1752,7 +1752,7 @@
    "translit": "pratimakam",
    "example": "ประติมากรรมรูปช้างตั้งกลางสวน",
    "examplePt": "Uma escultura de elefante fica no meio do jardim.",
-   "pron": "pra-ti-ma-KAM — 'pra' com 'r' brando; todas as sílabas curtas",
+   "pron": "bprà-dtì-maa-GAM — 'maa' é longo; 'gam' médio",
    "curiosity": "'กรรม' no fim indica obra: 'จิตรกรรม', 'ประติมากรรม', 'ศิลปกรรม'."
   },
   "pr28-04": {
@@ -1792,7 +1792,7 @@
    "translit": "botkawi",
    "example": "เธออ่านบทกวีให้ดวงจันทร์ฟัง",
    "examplePt": "Ela leu um poema para a lua ouvir.",
-   "pron": "BOT ka-WI — 'bot' curto e baixo; 'o' aberto como 'ó'",
+   "pron": "bòt ga-WII — 'o' fechado como em 'avô', curto e baixo; 'wii' longo",
    "curiosity": "'กวี' quer dizer poeta: 'บทกวี' é o texto do poeta."
   },
   "pr29-01": {
@@ -1800,7 +1800,7 @@
    "translit": "daokhro",
    "example": "ดาวเคราะห์ดวงไหนมีวงแหวน?",
    "examplePt": "Qual planeta tem anéis?",
-   "pron": "dao KHRO — 'dao' sobe de leve; 'khro' é alto e curto",
+   "pron": "daao-KRÓ — 'daao' em tom médio e vogal longa; 'kró' é alto e curto, com 'ɔ' aberto",
    "curiosity": "'ดวง' é o classificador de astros: 'ดาวเคราะห์สามดวง'."
   },
   "pr29-02": {
@@ -1816,7 +1816,7 @@
    "translit": "nakbinawakat",
    "example": "นักบินอวกาศลอยอยู่ในยาน",
    "examplePt": "O astronauta flutua dentro da nave.",
-   "pron": "nak-BIN a-wa-KAT — 'bin' tom médio; 'kat' curto e baixo",
+   "pron": "nák-bin a-wa-GÀAT — 'nák' alto; 'bin' médio; 'gàat' baixo e longo",
    "curiosity": "'บิน' é voar e 'อวกาศ' é espaço: piloto do espaço."
   },
   "pr29-04": {
@@ -1853,10 +1853,10 @@
   },
   "pr29-08": {
    "word": "สุริยุปราคา",
-   "translit": "suriyuprakha",
+   "translit": "suriyupparakha",
    "example": "ตอนเกิดสุริยุปราคา ฟ้ามืดลง",
    "examplePt": "Quando houve o eclipse solar, o céu escureceu.",
-   "pron": "su-ri-yu-pra-KHA — 'su' curto; 'r' brando; 'kh' com sopro",
+   "pron": "su-ri-yup-pa-raa-KHAA — 6 sílabas; 'kh' é 'k' com sopro",
    "curiosity": "'จันทรุปราคา' é o eclipse da lua; 'สุริยุ' é do sol."
   },
   "pr30-01": {
@@ -1864,7 +1864,7 @@
    "translit": "khaya",
    "example": "ทิ้งขยะลงถังด้วยนะ",
    "examplePt": "Jogue o lixo na lixeira, por favor.",
-   "pron": "kha-YA — 'kh' é um 'k' com sopro, como em 'quase' falado forte",
+   "pron": "khà-yà — as duas sílabas têm tom baixo; 'kh' é um 'k' com sopro",
    "curiosity": "Para dizer 'lixeira' usa-se 'ถังขยะ': ถัง=balde, ขยะ=lixo."
   },
   "pr30-02": {
@@ -1909,10 +1909,10 @@
   },
   "pr30-07": {
    "word": "พลาสติก",
-   "translit": "phlastik",
+   "translit": "phlatsatik",
    "example": "ของเล่นพลาสติกลอยน้ำได้",
    "examplePt": "O brinquedo de plástico flutua na água.",
-   "pron": "phla-STIK — 'phl' junta 'p' com sopro e 'l'; 'tik' curto",
+   "pron": "plâat-sa-DTÌK — 'plâat' longo e descendente; 'dtìk' baixo e curto",
    "curiosity": "Muita coisa leva o nome: 'ขวดพลาสติก' (garrafa) e 'ถุงพลาสติก' (sacola)."
   },
   "pr30-08": {
@@ -1920,7 +1920,7 @@
    "translit": "loha",
    "example": "โลหะร้อนจัดเมื่อโดนแดด",
    "examplePt": "O metal fica quente demais no sol.",
-   "pron": "LO-ha — 'o' longo e fechado; tom médio nas duas sílabas",
+   "pron": "loo-hà — 'loo' médio e longo, com 'o' fechado; 'hà' baixo e curto",
    "curiosity": "'ทอง' (ouro) e 'เหล็ก' (ferro) são tipos de 'โลหะ'."
   },
   "pr31-01": {
@@ -1976,7 +1976,7 @@
    "translit": "maikwat",
    "example": "ไม้กวาดอยู่หลังประตู",
    "examplePt": "A vassoura está atrás da porta.",
-   "pron": "MAI KWAT — 'mai' alto; 'kwat' curto e baixo, 'kw' como em 'quase'",
+   "pron": "MÁAI GWÀAT — 'máai' alto; 'gwàat' baixo e longo, 'gw' como em 'guano'",
    "curiosity": "'กวาด' é varrer e 'ไม้' é pau: 'pau de varrer'."
   },
   "pr31-08": {
@@ -1992,7 +1992,7 @@
    "translit": "kratha",
    "example": "ใส่ไข่ลงในกระทะร้อน",
    "examplePt": "Ponha o ovo na frigideira quente.",
-   "pron": "kra-THA — 'th' é um 't' com sopro; 'tha' sobe, tom alto",
+   "pron": "grà-THÁ — 'th' é um 't' com sopro; 'grà' baixo; 'thá' alto e curto",
    "curiosity": "'กระทะ' é para fritar e 'หม้อ' é para ferver ou cozinhar."
   },
   "pr32-02": {
@@ -2000,7 +2000,7 @@
    "translit": "katomnam",
    "example": "กาต้มน้ำเดือดแล้วหรือยัง?",
    "examplePt": "A chaleira já ferveu?",
-   "pron": "KA tom NAM — 'tom' desce; 'nam' é alto como pergunta curta",
+   "pron": "gaa dtôm náam — 'gaa' médio; 'dtôm' desce; 'náam' alto e longo",
    "curiosity": "'ต้ม' é ferver: a chaleira é a 'jarra de ferver água'."
   },
   "pr32-03": {
@@ -2008,7 +2008,7 @@
    "translit": "khrueangpan",
    "example": "เครื่องปั่นเสียงดังมากตอนเช้า",
    "examplePt": "O liquidificador faz muito barulho de manhã.",
-   "pron": "khrueang PAN — 'ueang' é 'u' esticado + 'ang'; 'pan' sobe de leve",
+   "pron": "krʉ̂ang BPÀN — 'krʉ̂ang' desce; 'bpàn' baixo, com 'p' seco",
    "curiosity": "'เครื่อง' é máquina: เครื่องปั่น, เครื่องซักผ้า (máquina de lavar)."
   },
   "pr32-04": {
@@ -2048,7 +2048,7 @@
    "translit": "thikhut",
    "example": "ที่ขูดช่วยให้แครอทเป็นเส้นเล็ก",
    "examplePt": "O ralador deixa a cenoura em fios finos.",
-   "pron": "THI KHUT — 'thi' desce; 'khut' é curto e baixo; 'u' como 'u' de 'tu'",
+   "pron": "TÎI KHÙUT — 'tîi' desce; 'khùut' longo e baixo; 'uu' como em 'tu' do português",
    "curiosity": "'ที่' + verbo forma utensílios: ที่ขูด (ralador), ที่เปิดขวด (abridor)."
   },
   "pr33-01": {
@@ -2056,7 +2056,7 @@
    "translit": "kratiknam",
    "example": "น้ำเย็นอยู่ในกระติกน้ำนานเลย",
    "examplePt": "A água fica gelada na garrafa por muito tempo.",
-   "pron": "kra-TIK NAM — 'tik' é curto e alto; 'nam' alto",
+   "pron": "grà-DTÌK NÁAM — 'dtìk' baixo e curto; 'náam' alto e longo",
    "curiosity": "'กระติกน้ำแข็ง' é a caixa de isopor de gelo, bem comum em passeios."
   },
   "pr33-02": {
@@ -2064,7 +2064,7 @@
    "translit": "ten",
    "example": "เต็นท์หลังเล็กตั้งอยู่ริมลำธาร",
    "examplePt": "A barraca pequena fica na beira do riacho.",
-   "pron": "TEN — 'nt' final lê-se só 'n'; vogal curta e tom descendente",
+   "pron": "dten — 't' seco, entre 't' e 'd'; vogal curta; o 'nt' final lê-se só 'n'",
    "curiosity": "O classificador de barracas é 'หลัง', o mesmo de casas."
   },
   "pr33-03": {
@@ -2085,10 +2085,10 @@
   },
   "pr33-05": {
    "word": "เรือแคนู",
-   "translit": "rueakhanu",
+   "translit": "rueakhaenu",
    "example": "เรือแคนูลอยช้าๆ ตามน้ำ",
    "examplePt": "A canoa flutua devagar ao sabor da água.",
-   "pron": "RUEA kha-NU — 'ruea' desliza e tem tom médio; 'nu' médio",
+   "pron": "rʉa kɛɛ-NUU — 'rʉa' em tom médio; 'kɛɛ' com 'ɛ' aberto; 'nuu' longo",
    "curiosity": "'เรือ' é a palavra geral para barco: เรือใบ, เรือแคนู."
   },
   "pr33-06": {
@@ -2096,7 +2096,7 @@
    "translit": "thangdoenpa",
    "example": "ทางเดินป่าสายนี้ยาวกี่กิโล?",
    "examplePt": "Quantos quilômetros tem esta trilha?",
-   "pron": "thang DOEN PA — 'oe' é um 'ê' fechado; todas as sílabas em tom médio",
+   "pron": "thaang dəən bpàa — 'bpàa' baixo; 'dəən' médio, com 'ə' de lábios esticados",
    "curiosity": "'เดินป่า' é fazer trilha; 'ทาง' é caminho."
   },
   "pr33-07": {
@@ -2104,7 +2104,7 @@
    "translit": "samoruea",
    "example": "ทอดสมอเรือลงกลางอ่าว",
    "examplePt": "Lançaram a âncora no meio da baía.",
-   "pron": "sa-MO RUEA — 'sa' curto; 'mo' sobe de leve; 'o' fechado",
+   "pron": "sa-MǑO ruea — 'sa' curto; 'mǒo' sobe, com 'ɔ' aberto",
    "curiosity": "Lançar âncora diz-se 'ทอดสมอ': o verbo 'ทอด' também é fritar."
   },
   "pr33-08": {
@@ -2117,7 +2117,7 @@
   },
   "pr34-01": {
    "word": "สกู๊ตเตอร์",
-   "translit": "sakutter",
+   "translit": "sakuttoe",
    "example": "น้องขี่สกู๊ตเตอร์ไปสวนสาธารณะ",
    "examplePt": "O irmãozinho foi de patinete ao parque.",
    "pron": "sa-KUT-toe — 'sa' curto; 'kut' alto; 'toe' como 'tôe'",
@@ -2157,15 +2157,15 @@
   },
   "pr34-06": {
    "word": "สเก็ตบอร์ด",
-   "translit": "sakettbot",
+   "translit": "saketbot",
    "example": "เขากระโดดข้ามขั้นบันไดด้วยสเก็ตบอร์ด",
    "examplePt": "Ele pulou os degraus com o skate.",
-   "pron": "sa-KET-BOT — 'ket' curto e alto; o 'r' de 'บอร์ด' não soa",
+   "pron": "sa-GÈT-bòot — 'gèt' baixo e curto; o 'r' de 'บอร์ด' não soa",
    "curiosity": "Vem do inglês 'board': o 'd' final vira um 't' preso."
   },
   "pr34-07": {
    "word": "เลื่อนหิมะ",
-   "translit": "luenhima",
+   "translit": "lueanhima",
    "example": "เลื่อนหิมะพุ่งลงเนินอย่างเร็ว",
    "examplePt": "O trenó desceu a ladeira bem rápido.",
    "pron": "LUEN hi-MA — 'ue' com lábios esticados; 'luen' desce; 'ma' alto",
@@ -2184,7 +2184,7 @@
    "translit": "mao",
    "example": "เมาส์ไร้สายหายไปไหนนะ?",
    "examplePt": "Onde foi parar o mouse sem fio?",
-   "pron": "MAO — o 's' final não soa; soa como 'máu'; tom descendente",
+   "pron": "MAO — o 's' final não soa; 'ao' em tom médio",
    "curiosity": "'ไร้สาย' quer dizer sem fio: 'ไร้' é sem, 'สาย' é fio."
   },
   "pr35-02": {
@@ -2221,15 +2221,15 @@
   },
   "pr35-06": {
    "word": "แฟลชไดรฟ์",
-   "translit": "flaedrai",
+   "translit": "flaetdrai",
    "example": "เสียบแฟลชไดรฟ์เข้ากับคอมพิวเตอร์",
    "examplePt": "Encaixe o pen drive no computador.",
-   "pron": "FLAE-DRAI — 'fl' e 'dr' juntos; 'ae' é 'é' aberto",
+   "pron": "FLÊET-DRAI — 'fl' e 'dr' juntos; 'ae' é um 'é' aberto e longo",
    "curiosity": "'เสียบ' é encaixar: เสียบปลั๊ก (ligar na tomada), เสียบแฟลชไดรฟ์."
   },
   "pr35-07": {
    "word": "เว็บไซต์",
-   "translit": "websai",
+   "translit": "wepsai",
    "example": "เว็บไซต์นี้มีภาพสัตว์น่ารักเยอะ",
    "examplePt": "Este site tem muitas fotos de bichinhos fofos.",
    "pron": "WEP SAI — o 'b' final soa como 'p' preso; 'sai' médio",
@@ -2264,7 +2264,7 @@
    "translit": "kangkengkhasan",
    "example": "กางเกงขาสั้นเหมาะกับอากาศร้อน",
    "examplePt": "A bermuda combina com tempo quente.",
-   "pron": "kang-KENG kha SAN — 'kheng' tom médio; 'kha' sobe; 'san' é baixo",
+   "pron": "gaang-GENG kǎa SÂN — 'gaang' e 'geng' médios; 'kǎa' sobe; 'sân' desce",
    "curiosity": "'ขาสั้น' é perna curta; 'ขายาว' é perna comprida (calça)."
   },
   "pr36-04": {
@@ -2272,7 +2272,7 @@
    "translit": "sueachaekket",
    "example": "เสื้อแจ็กเก็ตตัวนี้กันลมได้ไหม?",
    "examplePt": "Esta jaqueta protege do vento?",
-   "pron": "SUEA CHAEK-ket — 'suea' desce e desliza; 'chaek' é alto",
+   "pron": "SÛA JÈK-gèt — 'sûa' desce; 'jèk' e 'gèt' baixos e curtos",
    "curiosity": "O classificador de roupas é 'ตัว': 'เสื้อสองตัว'."
   },
   "pr36-05": {
@@ -2336,7 +2336,7 @@
    "translit": "ekkasanprakopkanrian",
    "example": "เอกสารประกอบการเรียนแจกที่หน้าห้อง",
    "examplePt": "A apostila é distribuída na frente da sala.",
-   "pron": "ek-ka-SAN pra-KOP kan-RIAN — 'ek' baixo e curto; 'san' sobe",
+   "pron": "èek-ka-SǍAN pra-KÒOP kaan-RIAN — 'èek' baixo e longo; 'sǎan' sobe",
    "curiosity": "'เอกสาร' é documento e 'ประกอบ' é complementar: papéis de apoio."
   },
   "pr37-05": {
@@ -2376,7 +2376,7 @@
    "translit": "it",
    "example": "บ้านหลังนี้สร้างจากอิฐสีแดง",
    "examplePt": "Esta casa foi feita de tijolos vermelhos.",
-   "pron": "IT — 'i' curto e o 't' final fica preso; tom alto",
+   "pron": "ÌT — 'i' curto; o 't' final fica preso; tom baixo",
    "curiosity": "O classificador de tijolos é 'ก้อน': อิฐสามก้อน."
   },
   "pr38-02": {
@@ -2448,7 +2448,7 @@
    "translit": "chalak",
    "example": "อ่านฉลากก่อนซื้อขนมนะ",
    "examplePt": "Leia o rótulo antes de comprar o doce.",
-   "pron": "cha-LAK — 'ch' como 'tch' suave; 'lak' é curto e baixo",
+   "pron": "chà-LÂAK — 'ch' como 'tch' suave; 'lâak' longo e descendente",
    "curiosity": "'ฉลาก' também é papelzinho de sorteio: 'จับฉลาก' é tirar a sorte."
   },
   "pr39-03": {
@@ -2480,7 +2480,7 @@
    "translit": "kamrai",
    "example": "ร้านขายผลไม้ได้กำไรมากเดือนนี้",
    "examplePt": "A loja de frutas teve muito lucro este mês.",
-   "pron": "kam-RAI — 'kam' é médio; 'rai' sobe de leve, 'ai' de 'pai'",
+   "pron": "gam-RAI — as duas sílabas em tom médio; 'ai' de 'pai'",
    "curiosity": "O contrário de 'กำไร' é 'ขาดทุน' (prejuízo)."
   },
   "pr39-07": {
@@ -2488,7 +2488,7 @@
    "translit": "rankha",
    "example": "ร้านค้าเล็กๆ ปากซอยเปิดแต่เช้า",
    "examplePt": "A lojinha da entrada da rua abre cedo.",
-   "pron": "RAN KHA — 'r' tailandês é brando, perto de 'l'; 'kha' desce",
+   "pron": "RÁAN KHÁA — as duas sílabas em tom alto; o 'r' tailandês é brando, perto de 'l'",
    "curiosity": "'ร้าน' é loja ou restaurante: ร้านอาหาร, ร้านหนังสือ."
   },
   "pr39-08": {
@@ -2517,7 +2517,7 @@
   },
   "pr40-03": {
    "word": "แวววาว",
-   "translit": "waewwao",
+   "translit": "waeowao",
    "example": "แก้วใบนี้แวววาวใต้แสงไฟ",
    "examplePt": "Este copo brilha sob a luz.",
    "pron": "WAEW-WAO — 'ae' é 'é' aberto; 'w' soa como 'u' curto",
@@ -2568,7 +2568,7 @@
    "translit": "thuk",
    "example": "ตั๋วใบนี้ถูกจริงๆ",
    "examplePt": "Este bilhete está barato de verdade.",
-   "pron": "THUK — 'th' é 't' com sopro; 'u' curto e tom baixo",
+   "pron": "THÙUK — 'th' é 't' com sopro; 'u' longo; tom baixo",
    "curiosity": "'ถูก' é barato e também certo: 'ตอบถูก' é acertar."
   },
   "pr41-02": {
@@ -2640,7 +2640,7 @@
    "translit": "khangnok",
    "example": "ออกไปเล่นข้างนอกกันไหม?",
    "examplePt": "Vamos brincar lá fora?",
-   "pron": "KHANG NOK — 'nok' é curto e alto, 'o' aberto; 'khang' desce",
+   "pron": "KHÂANG NÔOK — 'khâang' desce; 'nôok' longo e descendente, com 'ɔ' aberto",
    "curiosity": "É o contrário de 'ข้างใน'; na conversa também é 'lá fora'."
   },
   "pr42-03": {
@@ -2696,7 +2696,7 @@
    "translit": "khrueng",
    "example": "หนึ่งชั่วโมงครึ่งผ่านไปไวมาก",
    "examplePt": "Uma hora e meia passou voando.",
-   "pron": "KHRUEANG — 'khr' junta 'k' com sopro e 'r'; 'ue' esticado, tom descendente",
+   "pron": "KHRʉ̂NG — 'khr' junta 'k' com sopro e 'r'; 'ʉ' curto, com lábios esticados; tom descendente",
    "curiosity": "'ครึ่ง' vem depois do número: 'หนึ่งชั่วโมงครึ่ง' é uma hora e meia."
   },
   "pr43-02": {
@@ -2728,7 +2728,7 @@
    "translit": "chin",
    "example": "ขอเค้กอีกหนึ่งชิ้นได้ไหม?",
    "examplePt": "Posso pegar mais um pedaço de bolo?",
-   "pron": "CHIN — 'ch' como 'tch' suave; tom descendente",
+   "pron": "CHÍN — 'ch' como 'tch' suave; tom alto",
    "curiosity": "'ชิ้น' é o classificador de pedaços: 'เค้กสองชิ้น'."
   },
   "pr43-06": {
@@ -2736,15 +2736,15 @@
    "translit": "yot",
    "example": "น้ำหยดหนึ่งตกลงบนใบไม้",
    "examplePt": "Uma gota de água caiu na folha.",
-   "pron": "YOT — o 'h' não soa; 'o' longo e fechado, 't' final preso; tom baixo",
+   "pron": "YÒT — o 'h' não soa; 'o' curto e fechado; o 't' final fica preso; tom baixo",
    "curiosity": "'หยด' é gota e também gotejar: 'ก๊อกน้ำหยด'."
   },
   "pr43-07": {
    "word": "เปอร์เซ็นต์",
-   "translit": "phoesen",
+   "translit": "poesen",
    "example": "แบตเหลืออีกกี่เปอร์เซ็นต์?",
    "examplePt": "Quantos por cento ainda restam na bateria?",
-   "pron": "phoe-SEN — 'oe' é um 'ê' fechado; o 'r' de 'เปอร์' não soa",
+   "pron": "bpəə-SEN — 'əə' é um 'ê' com lábios esticados; o 'r' de 'เปอร์' não soa",
    "curiosity": "Vem do inglês 'percent'; na escrita formal há 'ร้อยละ'."
   },
   "pr43-08": {
@@ -2760,7 +2760,7 @@
    "translit": "koknam",
    "example": "ปิดก๊อกน้ำด้วยนะ",
    "examplePt": "Feche a torneira, por favor.",
-   "pron": "KOK NAM — 'kok' é alto e curto; 'nam' é alto também",
+   "pron": "GÓOK NÁAM — 'góok' alto e longo, com 'ɔ' aberto; 'náam' alto",
    "curiosity": "Os verbos 'เปิด' (abrir) e 'ปิด' (fechar) valem para a torneira."
   },
   "pr44-02": {
@@ -2808,7 +2808,7 @@
    "translit": "takrapha",
    "example": "ใส่เสื้อเปื้อนลงตะกร้าผ้าด้วยนะ",
    "examplePt": "Ponha a camisa suja no cesto de roupa.",
-   "pron": "ta-KRA PHA — 'ta' curto; 'kra' é alto; 'pha' desce",
+   "pron": "dtà-GRÂA PHÂA — 'dtà' baixo e curto; 'grâa' e 'phâa' descem",
    "curiosity": "'ตะกร้า' também é o cesto de compras que se leva na mão."
   },
   "pr44-08": {
@@ -2829,10 +2829,10 @@
   },
   "pr45-02": {
    "word": "เกษตรกร",
-   "translit": "kasetrakon",
+   "translit": "kasettrakon",
    "example": "เกษตรกรตื่นตั้งแต่ตีห้า",
    "examplePt": "O agricultor acorda desde as cinco da manhã.",
-   "pron": "ka-SET-tra-KON — 'set' é baixo e curto; o 'r' é brando",
+   "pron": "ka-SÈET-dtra-KOON — 'sèet' baixo e longo; o 'r' é brando",
    "curiosity": "'ชาวนา' é quem planta arroz; 'เกษตรกร' é qualquer agricultor."
   },
   "pr45-03": {
@@ -2888,7 +2888,7 @@
    "translit": "dokmaifai",
    "example": "ดอกไม้ไฟบานสวยเต็มฟ้า",
    "examplePt": "Os fogos florescem lindos pelo céu inteiro.",
-   "pron": "DOK MAI FAI — 'dok' baixo e curto; 'mai' alto; 'fai' médio",
+   "pron": "DÒOK MÁAI FAI — 'dòok' baixo e longo; 'máai' alto; 'fai' médio",
    "curiosity": "É literalmente 'flor de fogo': 'ดอกไม้' é flor e 'ไฟ' é fogo."
   },
   "pr46-02": {
@@ -3080,7 +3080,7 @@
    "translit": "makruk",
    "example": "พี่ชายสอนฉันเดินหมากรุก",
    "examplePt": "Meu irmão mais velho me ensinou a jogar xadrez.",
-   "pron": "MAK RUK — 'mak' é baixo e curto; 'ruk' é alto, 'r' brando",
+   "pron": "MÀAK RÚK — 'màak' baixo e longo; 'rúk' alto e curto, 'r' brando",
    "curiosity": "Existe o 'หมากรุกไทย', xadrez tailandês com regras próprias."
   },
   "pr49-02": {
@@ -3109,7 +3109,7 @@
   },
   "pr49-05": {
    "word": "โบว์ลิ่ง",
-   "translit": "bowling",
+   "translit": "boling",
    "example": "ใครล้มพินโบว์ลิ่งได้ครบสิบตัว?",
    "examplePt": "Quem derrubou os dez pinos do boliche?",
    "pron": "BOW-LING — 'bow' como 'bô' longo; 'ling' desce",
@@ -3133,7 +3133,7 @@
   },
   "pr49-08": {
    "word": "วิดีโอเกม",
-   "translit": "widioekem",
+   "translit": "widiokem",
    "example": "วิดีโอเกมใหม่สนุกจนลืมเวลา",
    "examplePt": "O videogame novo é tão divertido que esqueço da hora.",
    "pron": "wi-di-O-kem — 'wi' médio; 'o' longo; 'kem' médio",

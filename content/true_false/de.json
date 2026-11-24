@@ -321,7 +321,7 @@
    "example": "Im Nebel sehe ich fast nichts.",
    "examplePt": "Na névoa eu quase não vejo nada.",
    "pron": "NÊ-bel — 'e' longo e 'b' normal",
-   "curiosity": "'Nebel' e 'nebulosa' vêm da mesma família: do latim 'nebula'."
+   "curiosity": "'Nebelhorn' é a sirene de neblina dos navios: Nebel + Horn, 'chifre de névoa'."
   },
   "tf05-01": {
    "word": "der Apfel",
@@ -447,7 +447,7 @@
    "word": "die Limo",
    "translit": null,
    "example": "Gibt es hier auch kalte Limo?",
-   "examplePt": "Tem limonada gaseificada gelada aqui?",
+   "examplePt": "Tem refrigerante gelado aqui também?",
    "pron": "LI-mo — 'i' curto e 'o' final fechado",
    "curiosity": "'Limo' é apelido de 'Limonade': o alemão adora encurtar palavras."
   },
@@ -462,8 +462,8 @@
   "tf06-08": {
    "word": "der Kakao",
    "translit": null,
-   "example": "Zum Schlafen gibt es heißen Kakao.",
-   "examplePt": "Para dormir há chocolate quente.",
+   "example": "Vor dem Schlafen gibt es heißen Kakao.",
+   "examplePt": "Antes de dormir há chocolate quente.",
    "pron": "ka-KAU — o 'ao' final soa 'au'",
    "curiosity": "'Kakao' vem do náuatle, língua dos astecas, via espanhol."
   },
@@ -672,7 +672,7 @@
    "translit": null,
    "example": "Entschuldigung, wo ist der Bahnhof?",
    "examplePt": "Com licença, onde fica a estação?",
-   "pron": "ent-XUL-di-gung — 'sch' soa 'x' e 'ung' é um final nasal curto",
+   "pron": "ent-XUL-di-gung — 'sch' soa 'x' e o 'ng' final é um só som nasal",
    "curiosity": "'Schuld' é 'culpa': 'Entschuldigung' é 'tirar a culpa'."
   },
   "tf09-05": {
@@ -793,7 +793,7 @@
    "example": "Das Telefon klingelt schon wieder!",
    "examplePt": "O telefone está tocando de novo!",
    "pron": "TÊ-le-fon — a força cai na 1ª sílaba",
-   "curiosity": "Em alemão, o celular é 'Handy': parece inglês, mas lá ninguém no exterior usa assim!"
+   "curiosity": "'Handy' é celular em alemão: parece inglês, mas em inglês essa palavra não tem esse sentido."
   },
   "tf10-10": {
    "word": "der Freund",
@@ -873,7 +873,7 @@
    "example": "Im Winter ist alles weiß.",
    "examplePt": "No inverno tudo é branco.",
    "pron": "VAIS — 'w' soa 'v' e 'ß' soa 's' forte",
-   "curiosity": "'Ich weiß' (eu sei) é escrito quase igual: weiß = branco, mas 'weiß' também é 'sabe'!"
+   "curiosity": "'Ich weiß' (eu sei) tem a mesma grafia de 'weiß' (branco): são palavras diferentes."
   },
   "tf11-10": {
    "word": "braun",
@@ -944,7 +944,7 @@
    "translit": null,
    "example": "Um acht Uhr beginnt der Unterricht.",
    "examplePt": "Às oito começa a aula.",
-   "pron": "ART — 'ch' depois de 'a' é um 'rr' raspado na garganta",
+   "pron": "ARRT — 'ch' depois de 'a' é um 'rr' raspado na garganta",
    "curiosity": "'Acht geben' é prestar atenção: 'Gib Acht!' = cuidado!"
   },
   "tf12-09": {
@@ -1025,7 +1025,7 @@
    "example": "Wer wirft den Würfel zuerst?",
    "examplePt": "Quem joga o dado primeiro?",
    "pron": "VÜR-fel — 'w' soa 'v' e 'ü' tem boca de 'i'",
-   "curiosity": "'Würfel' é cubo e dado: 'Der Würfel ist gefallen' (a sorte está lançada)."
+   "curiosity": "'Die Würfel sind gefallen' é a nossa 'a sorte está lançada'; 'Würfel' é cubo e dado."
   },
   "tf13-09": {
    "word": "die Kugel",
@@ -1112,7 +1112,7 @@
    "translit": null,
    "example": "Tausend Sterne leuchten am Himmel.",
    "examplePt": "Mil estrelas brilham no céu.",
-   "pron": "TAU-zent — 'au' soa 'au', 'z' soa 'z', 'd' final soa 't'",
+   "pron": "TAU-zent — 'au' soa 'au', o 's' vibra como 'z' e o 'd' final soa 't'",
    "curiosity": "'Tausendfüßler' (mil-pés) é o nome alemão do piolho-de-cobra."
   },
   "tf14-10": {
@@ -1126,10 +1126,10 @@
   "tf15-01": {
    "word": "aufwachen",
    "translit": null,
-   "example": "Morgen werde ich früh aufwachen.",
-   "examplePt": "Amanhã vou acordar cedo.",
+   "example": "Morgen will ich ganz früh aufwachen.",
+   "examplePt": "Amanhã quero acordar bem cedo.",
    "pron": "AUF-va-xen — 'w' soa 'v' e 'ch' é um sopro",
-   "curiosity": "Verbo separável: 'Ich wache um sieben auf' — o 'auf' vai para o fim."
+   "curiosity": "Verbo separável: 'Ich wache um sieben auf': o 'auf' vai para o fim da frase."
   },
   "tf15-02": {
    "word": "aufstehen",
@@ -1160,7 +1160,7 @@
    "translit": null,
    "example": "Ich muss meine langen Haare kämmen.",
    "examplePt": "Preciso pentear meu cabelo comprido.",
-   "pron": "KÊ-men — 'ä' soa 'ê' aberto",
+   "pron": "KÉ-men — 'ä' curto soa como um 'é' aberto",
    "curiosity": "Pente é 'der Kamm'; no verbo, o 'a' ganha trema: kämmen."
   },
   "tf15-06": {
@@ -1177,7 +1177,7 @@
    "example": "Um sieben Uhr wollen wir zu Abend essen.",
    "examplePt": "Às sete queremos jantar.",
    "pron": "tsu Á-bent Ê-sen — 'd' final de Abend soa 't'",
-   "curiosity": "O jantar frio com pão e frios chama 'Abendbrot' (pão da noite)."
+   "curiosity": "O jantar frio, com pão e frios, é o 'Abendbrot' (pão da noite)."
   },
   "tf15-08": {
    "word": "lernen",
@@ -1224,7 +1224,7 @@
    "translit": null,
    "example": "Die Kinder springen in die Pfütze.",
    "examplePt": "As crianças pulam na poça.",
-   "pron": "XPRIN-guen — 'sp' soa 'schp' e 'g' duro",
+   "pron": "XPRIN-en — 'sp' soa 'schp' e 'ng' é um só som nasal, sem 'g'",
    "curiosity": "'Sprungbrett' é o trampolim: Sprung (salto) + Brett (prancha)."
   },
   "tf16-04": {
@@ -1270,8 +1270,8 @@
   "tf16-09": {
    "word": "ziehen",
    "translit": null,
-   "example": "Zieh die Tür bitte fest zu!",
-   "examplePt": "Puxe bem a porta, por favor!",
+   "example": "Hilfst du mir, den Schlitten zu ziehen?",
+   "examplePt": "Você me ajuda a puxar o trenó?",
    "pron": "TSI-en — 'z' soa 'ts' e o 'h' só alonga",
    "curiosity": "Nas portas, 'Ziehen' = puxar e 'Drücken' = empurrar."
   },
@@ -1438,7 +1438,7 @@
   "tf18-10": {
    "word": "das Museum",
    "translit": null,
-   "example": "Das Museum zeigt alte Spielzeuge.",
+   "example": "Das Museum zeigt altes Spielzeug.",
    "examplePt": "O museu mostra brinquedos antigos.",
    "pron": "mu-ZÊ-um — 's' soa 'z' e a tônica é 'ZÊ'",
    "curiosity": "A 'Museumsinsel' de Berlim reúne cinco museus numa ilha, patrimônio da Unesco."
@@ -1568,7 +1568,7 @@
    "translit": null,
    "example": "Haben Sie eine Reservierung für heute?",
    "examplePt": "O senhor tem reserva para hoje?",
-   "pron": "re-zer-VI-rung — 's' soa 'z' e 'ung' é nasal",
+   "pron": "re-zer-VI-rung — 's' soa 'z' e o 'ng' final é um só som nasal",
    "curiosity": "Para quarto de hotel, também se diz 'Buchung' (de 'buchen', reservar)."
   },
   "tf20-07": {
@@ -1585,7 +1585,7 @@
    "example": "An der Grenze zeigt man den Pass.",
    "examplePt": "Na fronteira mostra-se o passaporte.",
    "pron": "GREN-tse — 'z' soa 'ts'",
-   "curiosity": "A Alemanha faz fronteira com nove países, mais que quase qualquer país europeu."
+   "curiosity": "A Alemanha faz fronteira com nove países, um dos números mais altos da Europa."
   },
   "tf20-09": {
    "word": "der Zoll",
@@ -1702,7 +1702,7 @@
   "tf22-03": {
    "word": "wütend",
    "translit": null,
-   "example": "Er wurde wütend, weil der Bus fehlte.",
+   "example": "Er wurde wütend, weil der Bus nicht kam.",
    "examplePt": "Ele ficou furioso porque o ônibus não veio.",
    "pron": "VÜ-tent — 'w' soa 'v' e 'd' soa 't'",
    "curiosity": "'Wutanfall' é um ataque de fúria, sobretudo de criança."
@@ -1713,7 +1713,7 @@
    "example": "Unser Hund ist bei Gewitter sehr ängstlich.",
    "examplePt": "Nosso cachorro fica muito medroso com tempestade.",
    "pron": "ÉNGST-lix — 'ä' soa 'é' aberto",
-   "curiosity": "'Angst' entrou no inglês e no francês como 'German angst'."
+   "curiosity": "'Angst' (medo) foi emprestado pelo inglês, que usa 'angst' para ansiedade profunda."
   },
   "tf22-05": {
    "word": "überrascht",
@@ -1928,7 +1928,7 @@
    "translit": null,
    "example": "Der Arzt untersucht meinen kranken Fuß.",
    "examplePt": "O médico examina meu pé machucado.",
-   "pron": "ARTST — 'rzt' soa 'rtst' e a vogal é curta",
+   "pron": "ARTST — 'rzt' soa 'rtst', tudo junto numa sílaba",
    "curiosity": "O feminino é 'die Ärztin'; 'Arzt' vem do grego 'archiatros', o médico-chefe."
   },
   "tf25-02": {
@@ -1990,8 +1990,8 @@
   "tf25-09": {
    "word": "der Ingenieur",
    "translit": null,
-   "example": "Die Ingenieurin baut eine neue Brücke.",
-   "examplePt": "A engenheira constrói uma ponte nova.",
+   "example": "Der Ingenieur baut eine neue Brücke.",
+   "examplePt": "O engenheiro constrói uma ponte nova.",
    "pron": "in-je-NIÖR — 'g' soa 'j' e 'eur' é 'iör'",
    "curiosity": "O título 'Dipl.-Ing.' (engenheiro diplomado) tem muito prestígio na Alemanha."
   },
@@ -2041,7 +2041,7 @@
    "example": "Hast du den Vertrag schon unterschrieben?",
    "examplePt": "Você já assinou o contrato?",
    "pron": "fer-TRAK — 'v' soa 'f' e 'g' final soa 'k'",
-   "curiosity": "'Sich vertragen' (de 'vertragen') é se dar bem com alguém."
+   "curiosity": "'Vertrag' (contrato) e 'sich vertragen' (se dar bem) são da mesma família."
   },
   "tf26-06": {
    "word": "der Lebenslauf",
@@ -2073,7 +2073,7 @@
    "example": "Die Frist endet am Freitag um fünf.",
    "examplePt": "O prazo termina na sexta às cinco.",
    "pron": "FRIST — 'i' curto",
-   "curiosity": "'Fristlos' (sem prazo) designa uma demissão imediata."
+   "curiosity": "'Fristlose Kündigung' é demissão imediata, sem aviso prévio."
   },
   "tf26-10": {
    "word": "die Firma",
@@ -2152,7 +2152,7 @@
    "translit": null,
    "example": "Nach dem Regen kam das Hochwasser.",
    "examplePt": "Depois da chuva veio a enchente.",
-   "pron": "HÔ-rra-vá-sa — 'ch' raspado após 'o' e 'w' soa 'v'",
+   "pron": "HÔRR-vá-sa — 'ch' raspado após 'o' e 'w' soa 'v'",
    "curiosity": "Hoch (alto) + Wasser (água): 'água alta'; 'Niedrigwasser' é o rio baixo."
   },
   "tf27-10": {
@@ -2292,12 +2292,12 @@
    "curiosity": "Outro jeito: 'Mach es dir gemütlich' (acomode-se)."
   },
   "tf29-07": {
-   "word": "Prost!",
+   "word": "Gesundheit!",
    "translit": null,
-   "example": "Prost! Auf einen schönen Abend!",
-   "examplePt": "Saúde! A uma bela noite!",
-   "pron": "PRÔST — 'ô' longo e 'st' firme no fim",
-   "curiosity": "'Prost' vem do latim 'prosit' (que lhe faça bem)."
+   "example": "Gesundheit! Hast du dich erkältet?",
+   "examplePt": "Saúde! Você se resfriou?",
+   "pron": "ge-ZUNT-hait — 's' soa 'z', 'd' final soa 't' e 'ei' soa 'ai'",
+   "curiosity": "'Gesundheit' é 'saúde' e também se diz após um espirro, até no inglês dos EUA."
   },
   "tf29-08": {
    "word": "Guten Appetit!",
@@ -2417,7 +2417,7 @@
    "example": "Im Tal liegt ein kleines Dorf.",
    "examplePt": "No vale há uma pequena aldeia.",
    "pron": "TAL — 'a' longo e o 'l' é bem firme",
-   "curiosity": "'Neandertal' quer dizer 'vale de Neander', na Alemanha, e deu nome ao Neandertal."
+   "curiosity": "O vale de Neander ('Neandertal'), perto de Düsseldorf, deu nome ao homem de Neandertal."
   },
   "tf31-03": {
    "word": "die Hochebene",
@@ -2440,7 +2440,7 @@
    "translit": null,
    "example": "Wie schnell schmilzt der Gletscher im Sommer?",
    "examplePt": "Com que velocidade a geleira derrete no verão?",
-   "pron": "GLÉT-cher — 'tsch' soa como o 'tch' de 'tchau'",
+   "pron": "GLÉ-tcha — 'tsch' soa 'tch' como em 'tchau' e o 'er' final soa 'a'",
    "curiosity": "'Gletscher' tem plural igual ao singular: 'die Gletscher'."
   },
   "tf31-06": {
@@ -2480,7 +2480,7 @@
    "translit": null,
    "example": "Ein Archipel besteht aus vielen Inseln.",
    "examplePt": "Um arquipélago é feito de muitas ilhas.",
-   "pron": "ar-chi-PÉL — 'ch' soa 'k' e a tônica vai no fim",
+   "pron": "ar-xi-PÊL — 'ch' é o sopro suave de 'ich' e a tônica vai no fim",
    "curiosity": "'Inselgruppe' (grupo de ilhas) é a forma mais simples de dizer o mesmo."
   },
   "tf32-01": {
@@ -2552,7 +2552,7 @@
    "translit": null,
    "example": "Der Ozean bedeckt den größten Teil der Erde.",
    "examplePt": "O oceano cobre a maior parte da Terra.",
-   "pron": "O-tse-AN — 'z' soa 'ts' e a tônica fica no fim",
+   "pron": "Ô-tse-an — 'z' soa 'ts' e a tônica cai na 1ª sílaba",
    "curiosity": "'Ozean' soa mais científico; no dia a dia fala-se mais 'Meer' (mar)."
   },
   "tf32-10": {
@@ -2648,7 +2648,7 @@
    "translit": null,
    "example": "Ein Hurrikan nähert sich der Küste.",
    "examplePt": "Um furacão se aproxima da costa.",
-   "pron": "HÃ-ri-kan — 'h' aspirado e 'u' curto",
+   "pron": "HU-ri-kan — 'h' é um sopro e o 'u' é curto",
    "curiosity": "A palavra veio do espanhol 'huracán' e chegou a muitas línguas."
   },
   "tf34-02": {
@@ -2679,7 +2679,7 @@
    "word": "der Blitz",
    "translit": null,
    "example": "Hast du den Blitz gesehen?",
-   "examplePt": "Você viu o raio?",
+   "examplePt": "Você viu o relâmpago?",
    "pron": "BLITS — 'z' soa 'ts' e 'bl' vêm juntos",
    "curiosity": "'Blitzschnell' (rápido como um raio) é um adjetivo muito usado."
   },
@@ -2865,7 +2865,7 @@
    "example": "Das Glas fiel vom Tisch und zerbrach.",
    "examplePt": "O vidro caiu da mesa e quebrou.",
    "pron": "GLÁS — 'a' longo",
-   "curiosity": "'Glas' é vidro e copo; o plural 'Gläser' (copos) ganha tréma."
+   "curiosity": "'Glas' é vidro e copo; o plural 'Gläser' (copos) ganha trema."
   },
   "tf36-09": {
    "word": "die Keramik",
@@ -2984,7 +2984,7 @@
    "translit": null,
    "example": "Mit dem Trichter füllen wir die Flasche.",
    "examplePt": "Com o funil enchemos a garrafa.",
-   "pron": "TRICH-ter — 'ch' é um sopro suave após 'i'",
+   "pron": "TRIX-ta — 'ch' é um sopro suave após 'i' e o 'er' final soa 'a'",
    "curiosity": "'Auf den Trichter kommen' quer dizer 'sacar' a ideia."
   },
   "tf38-04": {
@@ -3152,7 +3152,7 @@
    "translit": null,
    "example": "Die Orchidee blüht schon seit Wochen.",
    "examplePt": "A orquídea está florida há semanas.",
-   "pron": "or-ki-DÊ-e — 'ch' soa 'k' e a tônica no 'dê'",
+   "pron": "or-xi-DÊ-e — 'ch' é o sopro suave de 'ich' e a tônica cai no 'dê'",
    "curiosity": "É muito popular como planta de casa: 'Zimmerpflanze'."
   },
   "tf40-05": {
@@ -3369,7 +3369,7 @@
    "example": "Die Schwester legt Mull auf die Wunde.",
    "examplePt": "A enfermeira coloca gaze no ferimento.",
    "pron": "MUL — 'u' curto; não confunda com 'Müll'",
-   "curiosity": "'Mull' (gaze) e 'Müll' (lixo) são palavras diferentes: o tréma muda tudo."
+   "curiosity": "'Mull' (gaze) e 'Müll' (lixo) são palavras diferentes: o trema muda tudo."
   },
   "tf43-02": {
    "word": "die Spritze",
@@ -3457,7 +3457,7 @@
    "example": "Das Niesen kam ganz plötzlich.",
    "examplePt": "O espirro veio de repente.",
    "pron": "NI-zen — 'ie' é 'i' longo e 's' soa 'z'",
-   "curiosity": "Quando alguém espirra, os alemães dizem 'Gesundheit!'."
+   "curiosity": "O verbo é 'niesen': 'Ich muss niesen' quer dizer 'preciso espirrar'."
   },
   "tf44-03": {
    "word": "der Schluckauf",
@@ -3550,8 +3550,8 @@
   "tf45-04": {
    "word": "die Überführung",
    "translit": null,
-   "example": "Über die Überführung gehen Fußgänger sicher auf die andere Seite.",
-   "examplePt": "Pela passarela os pedestres vão com segurança ao outro lado.",
+   "example": "Unter der Überführung fährt gerade ein Zug.",
+   "examplePt": "Sob o viaduto passa um trem agora.",
    "pron": "ü-ber-FÜ-rung — 'ü' como 'i' arredondado",
    "curiosity": "'Über' (sobre) + 'führen' (conduzir): passagem que leva por cima."
   },
@@ -3600,7 +3600,7 @@
    "translit": null,
    "example": "Der Regen fließt direkt in den Gully.",
    "examplePt": "A chuva escorre direto para o bueiro.",
-   "pron": "GÃ-li — 'u' curto e 'y' final soa 'i'",
+   "pron": "GU-li — 'u' curto e o 'y' final soa 'i'",
    "curiosity": "A tampa do bueiro se chama 'Gullydeckel'."
   },
   "tf46-01": {
@@ -3623,7 +3623,7 @@
    "word": "die Burg",
    "translit": null,
    "example": "Eine alte Burg steht hoch über dem Tal.",
-   "examplePt": "No monte há um castelo antigo.",
+   "examplePt": "Um castelo antigo se ergue bem acima do vale.",
    "pron": "BURK — 'g' final soa 'k'",
    "curiosity": "'Burg' é fortaleza medieval; 'Schloss' é o castelo-palácio."
   },
@@ -3646,8 +3646,8 @@
   "tf46-06": {
    "word": "die Fabrik",
    "translit": null,
-   "example": "Die Fabrik beginnt früh um sechs Uhr.",
-   "examplePt": "A fábrica começa cedo, às seis.",
+   "example": "In der Fabrik beginnt die Frühschicht um sechs Uhr.",
+   "examplePt": "Na fábrica, o primeiro turno começa às seis.",
    "pron": "fa-BRIK — a tônica fica no fim",
    "curiosity": "Vem do latim 'fabrica' (oficina), o mesmo radical de 'fabricar'."
   },
@@ -4000,7 +4000,7 @@
    "translit": null,
    "example": "Sie hat einen neuen Tennisschläger gekauft.",
    "examplePt": "Ela comprou uma raquete de tênis nova.",
-   "pron": "TÉ-nis-schlê-ger — 'ä' soa 'ê' longo",
+   "pron": "TÉ-nis-xlê-ga — 'sch' soa 'x' e o 'er' final soa 'a'",
    "curiosity": "'Schläger' vem de 'schlagen' (bater): é o que bate na bola."
   }
  }

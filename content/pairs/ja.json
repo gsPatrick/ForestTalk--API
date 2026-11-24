@@ -32,8 +32,8 @@
    "translit": "Kirin",
    "example": "キリンは首がとても長いです。",
    "examplePt": "A girafa tem o pescoço muito comprido.",
-   "pron": "KI-rin — 'i' curto e 'n' final nasal, sem separar o 'g'",
-   "curiosity": "Kirin é também o nome de uma criatura lendária chinesa, escrita 麒麟, igual à girafa."
+   "pron": "KI-rin — 'i' curto e 'n' final nasal, sem 'g' no meio",
+   "curiosity": "O nome vem de 麒麟 (kirin), criatura lendária chinesa; a girafa recebeu o mesmo nome."
   },
   "pr01-05": {
    "word": "サル",
@@ -153,7 +153,7 @@
    "example": "アリが砂糖に集まっています。",
    "examplePt": "As formigas estão se juntando no açúcar.",
    "pron": "A-ri — 'a' aberto e 'r' de uma batida só",
-   "curiosity": "A fábula da cigarra e da formiga se chama ありときりぎりす em japonês."
+   "curiosity": "Em kanji, アリ é 蟻, mas no dia a dia costuma-se escrever em katakana ou hiragana."
   },
   "pr03-04": {
    "word": "クモ",
@@ -392,7 +392,7 @@
    "translit": "Daidokoro",
    "example": "台所はどこですか？",
    "examplePt": "Onde fica a cozinha?",
-   "pron": "dai-do-KO-ro — 'ai' como em 'pai'; 'o' sempre aberto",
+   "pron": "dai-do-KO-ro — 'ai' como em 'pai'; o 'o' é fechado e curto",
    "curiosity": "Em vários lugares aparece 所 (tokoro), 'lugar': 台所, 事務所, 場所."
   },
   "pr07-02": {
@@ -848,7 +848,7 @@
    "translit": "Fūsen",
    "example": "風船が空に飛んでいきました。",
    "examplePt": "O balão voou para o céu.",
-   "pron": "FUUN-sen — 'fū' longo, 'f' suave; 'n' nasal",
+   "pron": "FUU-sen — 'fū' longo, com 'f' suave, quase um sopro; 'n' nasal",
    "curiosity": "Literalmente 'barco de vento': 風 (vento) + 船 (barco)."
   },
   "pr14-03": {
@@ -983,7 +983,7 @@
    "word": "浜辺",
    "translit": "Hamabe",
    "example": "浜辺で貝を拾いました。",
-   "examplePt": "Apanhei conchas na praia.",
+   "examplePt": "Juntei conchas na praia.",
    "pron": "ha-MA-be — 'b' suave; 'e' fechado",
    "curiosity": "Ir nadar na praia é 海水浴に行く, literalmente 'banho de água do mar'."
   },
@@ -1214,8 +1214,8 @@
   "pr19-08": {
    "word": "汚い",
    "translit": "Kitanai",
-   "example": "この靴は泥で汚いです。",
-   "examplePt": "Este sapato está sujo de lama.",
+   "example": "この靴は泥だらけで汚いです。",
+   "examplePt": "Este sapato está sujo, cheio de lama.",
    "pron": "ki-TA-nai — 'ai' como em 'pai'",
    "curiosity": "汚い vale também para 'sujo' no sentido de injusto: 汚いやり方, um método sujo."
   },
@@ -1605,15 +1605,15 @@
   },
   "pr26-01": {
    "word": "お金",
-   "translit": "okane",
+   "translit": "Okane",
    "example": "お金を貯めて自転車を買います。",
    "examplePt": "Vou juntar dinheiro e comprar uma bicicleta.",
    "pron": "o-KA-ne — todas as vogais curtas, o 'k' é seco",
-   "curiosity": "Em japonês, o prefixo 'o' em 'okane' é um toque de polidez: o dinheiro merece respeito."
+   "curiosity": "お é um prefixo de polidez: お金 soa mais suave e educado que só 金 (kane)."
   },
   "pr26-02": {
    "word": "硬貨",
-   "translit": "kōka",
+   "translit": "Kōka",
    "example": "自動販売機は硬貨も使えますか？",
    "examplePt": "A máquina de venda aceita moedas também?",
    "pron": "KÔ-ka — o 'ô' é longo, segure o som por dois tempos",
@@ -1621,7 +1621,7 @@
   },
   "pr26-03": {
    "word": "カード",
-   "translit": "kādo",
+   "translit": "Kādo",
    "example": "このカードで払えますか？",
    "examplePt": "Posso pagar com este cartão?",
    "pron": "KÂ-do — o 'â' é longo; o 'do' sai leve, sem 'i' no fim",
@@ -1629,7 +1629,7 @@
   },
   "pr26-04": {
    "word": "財布",
-   "translit": "saifu",
+   "translit": "Saifu",
    "example": "財布を家に忘れました。",
    "examplePt": "Esqueci a carteira em casa.",
    "pron": "SAI-fu — o 'f' é sopro suave entre 'f' e 'h', e o 'u' quase some",
@@ -1637,7 +1637,7 @@
   },
   "pr26-05": {
    "word": "値段",
-   "translit": "nedan",
+   "translit": "Nedan",
    "example": "この値段は高すぎませんか？",
    "examplePt": "Este preço não é alto demais?",
    "pron": "NE-dan — 'e' como em 'pé' curto, e 'n' final nasal",
@@ -1645,7 +1645,7 @@
   },
   "pr26-06": {
    "word": "貯金箱",
-   "translit": "chokinbako",
+   "translit": "Chokinbako",
    "example": "貯金箱がコインでいっぱいです。",
    "examplePt": "O cofrinho está cheio de moedas.",
    "pron": "cho-kin-BA-ko — o 'ch' soa como o 'tch' de 'tchau'",
@@ -1653,7 +1653,7 @@
   },
   "pr26-07": {
    "word": "割引",
-   "translit": "waribiki",
+   "translit": "Waribiki",
    "example": "この店は今日だけ割引です。",
    "examplePt": "Esta loja tem desconto só hoje.",
    "pron": "wa-ri-BI-ki — o 'r' japonês é um 'l' rápido, entre 'r' e 'd'",
@@ -1661,7 +1661,7 @@
   },
   "pr26-08": {
    "word": "レシート",
-   "translit": "reshīto",
+   "translit": "Reshīto",
    "example": "レシートを捨てないでください。",
    "examplePt": "Por favor, não jogue o recibo fora.",
    "pron": "re-SHÎ-to — 'sh' como 'ch' de 'chuva' e o 'î' é longo",
@@ -1669,7 +1669,7 @@
   },
   "pr27-01": {
    "word": "生徒",
-   "translit": "seito",
+   "translit": "Seito",
    "example": "生徒たちは教室で本を読んでいます。",
    "examplePt": "Os alunos leem livros na sala.",
    "pron": "SÊ-i-to — o 'ei' de 生徒 soa 'ê' alongado",
@@ -1677,23 +1677,23 @@
   },
   "pr27-02": {
    "word": "授業",
-   "translit": "jugyō",
+   "translit": "Jugyō",
    "example": "授業は八時半に始まります。",
    "examplePt": "A aula começa às oito e meia.",
    "pron": "jyu-GYÔ — 'j' suave e 'gyô' longo, como 'guiô'",
-   "curiosity": "Os alunos japoneses cumprimentam a turma com 'kiritsu, rei': em pé, reverência."
+   "curiosity": "A aula começa com 'kiritsu, rei': a turma se levanta e faz reverência ao professor."
   },
   "pr27-03": {
    "word": "試験",
-   "translit": "shiken",
+   "translit": "Shiken",
    "example": "明日の試験が心配ですか？",
    "examplePt": "Você está preocupado com a prova de amanhã?",
    "pron": "shi-KEN — 'sh' como em 'chá' e 'n' final nasal",
-   "curiosity": "Em japonês 試 vem de 'testar' e 験 de 'efeito': a prova testa o seu efeito."
+   "curiosity": "試験 = 試 (testar) + 験 (comprovar); 試験勉強 é 'estudar para a prova'."
   },
   "pr27-04": {
    "word": "黒板",
-   "translit": "kokuban",
+   "translit": "Kokuban",
    "example": "先生が黒板に字を書きました。",
    "examplePt": "A professora escreveu letras no quadro-negro.",
    "pron": "ko-ku-BAN — o 'u' do meio quase não se ouve",
@@ -1701,23 +1701,23 @@
   },
   "pr27-05": {
    "word": "辞書",
-   "translit": "jisho",
+   "translit": "Jisho",
    "example": "この言葉を辞書で調べましょう。",
    "examplePt": "Vamos procurar esta palavra no dicionário.",
-   "pron": "JI-sho — 'j' suave e 'sho' como 'chô' curto",
+   "pron": "JI-sho — 'j' suave e 'sho' curto, como o 'xo' de 'xodó'",
    "curiosity": "Dicionários japoneses organizam as palavras na ordem do alfabeto kana, o 'gojūon'."
   },
   "pr27-06": {
    "word": "卒業証書",
-   "translit": "sotsugyō shōsho",
+   "translit": "Sotsugyō shōsho",
    "example": "卒業証書を両親に見せました。",
    "examplePt": "Mostrei o diploma aos meus pais.",
    "pron": "so-tsu-GYÔ SHÔ-sho — 'ts' como em 'tsé-tsé'",
-   "curiosity": "A cerimônia de formatura no Japão costuma ser em março, com as cerejeiras quase prontas."
+   "curiosity": "Em 証書, 証 é 'provar' e 書 é 'documento': o papel que comprova o estudo."
   },
   "pr27-07": {
    "word": "数学",
-   "translit": "sūgaku",
+   "translit": "Sūgaku",
    "example": "数学の宿題は難しいですか？",
    "examplePt": "A lição de matemática é difícil?",
    "pron": "SÛ-ga-ku — o 'û' é longo; o 'g' é de 'gato'",
@@ -1725,7 +1725,7 @@
   },
   "pr27-08": {
    "word": "科学",
-   "translit": "kagaku",
+   "translit": "Kagaku",
    "example": "科学の実験で水が青くなりました。",
    "examplePt": "Na experiência de ciência a água ficou azul.",
    "pron": "ka-GA-ku — todas as vogais curtas e claras",
@@ -1733,7 +1733,7 @@
   },
   "pr28-01": {
    "word": "絵画",
-   "translit": "kaiga",
+   "translit": "Kaiga",
    "example": "この絵画は百年前のものです。",
    "examplePt": "Esta pintura é de cem anos atrás.",
    "pron": "KAI-ga — 'ai' como em 'pai' e 'g' de 'gato'",
@@ -1741,7 +1741,7 @@
   },
   "pr28-02": {
    "word": "デッサン",
-   "translit": "dessan",
+   "translit": "Dessan",
    "example": "彼女はデッサンがとても上手です。",
    "examplePt": "Ela desenha muito bem.",
    "pron": "DÊS-san — o 'ss' dobrado é uma pausa curtinha antes do 's'",
@@ -1749,7 +1749,7 @@
   },
   "pr28-03": {
    "word": "彫刻",
-   "translit": "chōkoku",
+   "translit": "Chōkoku",
    "example": "公園に大きな彫刻があります。",
    "examplePt": "Há uma grande escultura no parque.",
    "pron": "chô-KO-ku — 'ch' como em 'tchau' e 'ô' longo",
@@ -1757,7 +1757,7 @@
   },
   "pr28-04": {
    "word": "演劇",
-   "translit": "engeki",
+   "translit": "Engeki",
    "example": "学校の演劇で王様をやりました。",
    "examplePt": "Fiz o rei na peça da escola.",
    "pron": "EN-ge-ki — 'e' claro, 'g' duro e 'n' nasal",
@@ -1765,7 +1765,7 @@
   },
   "pr28-05": {
    "word": "音楽",
-   "translit": "ongaku",
+   "translit": "Ongaku",
    "example": "音楽を聞くと元気になります。",
    "examplePt": "Ouvir música me deixa animado.",
    "pron": "ON-ga-ku — 'n' final nasal, sem forçar o 'g'",
@@ -1773,7 +1773,7 @@
   },
   "pr28-06": {
    "word": "踊り",
-   "translit": "odori",
+   "translit": "Odori",
    "example": "お祭りで皆の踊りを見ました。",
    "examplePt": "No festival vi a dança de todos.",
    "pron": "o-DO-ri — 'r' suave, quase um 'd' rápido",
@@ -1781,7 +1781,7 @@
   },
   "pr28-07": {
    "word": "映画",
-   "translit": "eiga",
+   "translit": "Eiga",
    "example": "週末に映画を見に行きませんか？",
    "examplePt": "Vamos ao cinema no fim de semana?",
    "pron": "Ê-ga — o 'ei' vira um 'ê' longo",
@@ -1789,23 +1789,23 @@
   },
   "pr28-08": {
    "word": "詩",
-   "translit": "shi",
+   "translit": "Shi",
    "example": "姉は毎晩ノートに詩を書きます。",
    "examplePt": "Minha irmã escreve poemas no caderno toda noite.",
-   "pron": "SHI — 'sh' como em 'chi' fino e curto, só uma sílaba",
+   "pron": "SHI — 'sh' como o 'x' de 'xícara'; 'i' curto, uma só sílaba",
    "curiosity": "O haiku, poema curto japonês, tem 17 sons divididos em 5, 7 e 5."
   },
   "pr29-01": {
    "word": "惑星",
-   "translit": "wakusei",
-   "example": "地球は太陽に近い惑星です。",
-   "examplePt": "A Terra é um planeta perto do sol.",
+   "translit": "Wakusei",
+   "example": "地球は青い惑星です。",
+   "examplePt": "A Terra é um planeta azul.",
    "pron": "wa-KU-sê — o 'w' é leve e o 'ei' final é 'ê' longo",
    "curiosity": "惑星 quer dizer 'estrela errante' (惑 = vagar, 星 = estrela)."
   },
   "pr29-02": {
    "word": "ロケット",
-   "translit": "roketto",
+   "translit": "Roketto",
    "example": "ロケットは空高く飛びました。",
    "examplePt": "O foguete voou bem alto no céu.",
    "pron": "ro-KÊT-to — o 'tt' dobrado exige uma pausa antes do 't'",
@@ -1813,7 +1813,7 @@
   },
   "pr29-03": {
    "word": "宇宙飛行士",
-   "translit": "uchū hikōshi",
+   "translit": "Uchū hikōshi",
    "example": "宇宙飛行士は月を歩きました。",
    "examplePt": "O astronauta caminhou pela lua.",
    "pron": "u-CHÛ hi-KÔ-shi — 'chû' longo, 'kô' longo",
@@ -1821,7 +1821,7 @@
   },
   "pr29-04": {
    "word": "望遠鏡",
-   "translit": "bōenkyō",
+   "translit": "Bōenkyō",
    "example": "望遠鏡で月が見えますか？",
    "examplePt": "Dá para ver a lua com o telescópio?",
    "pron": "BÔ-en-kyô — o 'ô' longo, 'ky' como 'qui' colado",
@@ -1829,7 +1829,7 @@
   },
   "pr29-05": {
    "word": "銀河",
-   "translit": "ginga",
+   "translit": "Ginga",
    "example": "夜空に銀河がはっきり見えました。",
    "examplePt": "A galáxia apareceu bem clara no céu noturno.",
    "pron": "GIN-ga — 'g' duro de 'gato' nas duas sílabas",
@@ -1837,7 +1837,7 @@
   },
   "pr29-06": {
    "word": "彗星",
-   "translit": "suisei",
+   "translit": "Suisei",
    "example": "彗星の尾は長くて光っています。",
    "examplePt": "A cauda do cometa é longa e brilhante.",
    "pron": "SUI-sê — 'ui' junto e 'ei' final em 'ê' longo",
@@ -1845,15 +1845,15 @@
   },
   "pr29-07": {
    "word": "人工衛星",
-   "translit": "jinkō eisei",
+   "translit": "Jinkō eisei",
    "example": "人工衛星が夜空を横切りました。",
    "examplePt": "Um satélite cruzou o céu noturno.",
-   "pron": "jin-KÔ ÊI-sei — 'kô' longo e 'ei' como 'ê' longo",
+   "pron": "jin-KÔ Ê-sê — 'kô' longo e 'ei' como 'ê' longo",
    "curiosity": "Em japonês, 人工 quer dizer 'feito por gente', ao contrário de natural."
   },
   "pr29-08": {
    "word": "日食",
-   "translit": "nisshoku",
+   "translit": "Nisshoku",
    "example": "今日は日食が見られますか？",
    "examplePt": "Hoje dá para ver o eclipse solar?",
    "pron": "NIS-sho-ku — 'ss' dobrado e 'sh' como em 'chá'",
@@ -1861,7 +1861,7 @@
   },
   "pr30-01": {
    "word": "ごみ",
-   "translit": "gomi",
+   "translit": "Gomi",
    "example": "町のごみは毎朝集めます。",
    "examplePt": "O lixo da cidade é recolhido toda manhã.",
    "pron": "GO-mi — 'g' duro e 'i' curto",
@@ -1869,7 +1869,7 @@
   },
   "pr30-02": {
    "word": "リサイクル",
-   "translit": "risaikuru",
+   "translit": "Risaikuru",
    "example": "缶をリサイクルに出しました。",
    "examplePt": "Coloquei as latas para reciclagem.",
    "pron": "ri-SAI-ku-ru — o 'r' é um 'l' rápido; 'ai' como 'ái'",
@@ -1877,7 +1877,7 @@
   },
   "pr30-03": {
    "word": "エネルギー",
-   "translit": "enerugī",
+   "translit": "Enerugī",
    "example": "太陽のエネルギーは無料ですか？",
    "examplePt": "A energia do sol é grátis?",
    "pron": "e-NE-ru-GÎ — 'ī' longo e 'r' suave",
@@ -1885,7 +1885,7 @@
   },
   "pr30-04": {
    "word": "汚染",
-   "translit": "osen",
+   "translit": "Osen",
    "example": "川の汚染を減らしましょう。",
    "examplePt": "Vamos reduzir a poluição do rio.",
    "pron": "o-SEN — 'o' curto e 'n' final nasal",
@@ -1893,15 +1893,15 @@
   },
   "pr30-05": {
    "word": "石油",
-   "translit": "sekiyu",
-   "example": "石油はもうすぐ高くなります。",
-   "examplePt": "O petróleo logo ficará caro.",
+   "translit": "Sekiyu",
+   "example": "石油は地下から掘り出します。",
+   "examplePt": "O petróleo é extraído do subsolo.",
    "pron": "SE-ki-yu — 'ki' e 'yu' se unem como 'kiyu' rápido",
    "curiosity": "石油 quer dizer 'óleo de pedra' (石 = pedra, 油 = óleo)."
   },
   "pr30-06": {
    "word": "ソーラーパネル",
-   "translit": "sōrā paneru",
+   "translit": "Sōrā paneru",
    "example": "屋根にソーラーパネルを付けました。",
    "examplePt": "Instalamos painéis solares no telhado.",
    "pron": "SÔ-râ pa-NE-ru — 'ô' e 'â' longos",
@@ -1909,7 +1909,7 @@
   },
   "pr30-07": {
    "word": "プラスチック",
-   "translit": "purasuchikku",
+   "translit": "Purasuchikku",
    "example": "海のプラスチックは危険です。",
    "examplePt": "O plástico no mar é perigoso.",
    "pron": "pu-ra-su-CHIK-ku — o 'u' é curto e o 'kk' tem pausa",
@@ -1917,7 +1917,7 @@
   },
   "pr30-08": {
    "word": "金属",
-   "translit": "kinzoku",
+   "translit": "Kinzoku",
    "example": "金属は熱をよく伝えますか？",
    "examplePt": "O metal conduz bem o calor?",
    "pron": "kin-ZO-ku — 'n' nasal antes do 'z'",
@@ -1925,7 +1925,7 @@
   },
   "pr31-01": {
    "word": "のこぎり",
-   "translit": "nokogiri",
+   "translit": "Nokogiri",
    "example": "のこぎりで木の板を切りました。",
    "examplePt": "Cortei a tábua de madeira com a serra.",
    "pron": "no-ko-GI-ri — 'g' de 'gato' e 'r' suave",
@@ -1933,7 +1933,7 @@
   },
   "pr31-02": {
    "word": "レンチ",
-   "translit": "renchi",
+   "translit": "Renchi",
    "example": "レンチでボルトを回しましょう。",
    "examplePt": "Vamos girar o parafuso com a chave inglesa.",
    "pron": "REN-chi — 'ch' como 'tch' e 'n' nasal",
@@ -1941,7 +1941,7 @@
   },
   "pr31-03": {
    "word": "ペンチ",
-   "translit": "penchi",
+   "translit": "Penchi",
    "example": "このペンチで針金を切れますか？",
    "examplePt": "Dá para cortar o arame com este alicate?",
    "pron": "PEN-chi — 'p' sem explosão de ar",
@@ -1949,7 +1949,7 @@
   },
   "pr31-04": {
    "word": "メジャー",
-   "translit": "mejā",
+   "translit": "Mejā",
    "example": "メジャーで机の長さを測りました。",
    "examplePt": "Medi o comprimento da mesa com a trena.",
    "pron": "me-JÂ — 'j' suave e 'â' bem esticado",
@@ -1957,7 +1957,7 @@
   },
   "pr31-05": {
    "word": "接着剤",
-   "translit": "setchakuzai",
+   "translit": "Setchakuzai",
    "example": "壊れた皿を接着剤で直します。",
    "examplePt": "Conserto o prato quebrado com cola.",
    "pron": "set-cha-ku-ZAI — 'tch' duplo, como em 'atchim'",
@@ -1965,7 +1965,7 @@
   },
   "pr31-06": {
    "word": "つるはし",
-   "translit": "tsuruhashi",
+   "translit": "Tsuruhashi",
    "example": "つるはしで固い土を掘りました。",
    "examplePt": "Cavei a terra dura com a picareta.",
    "pron": "tsu-ru-HA-shi — 'ts' seco, como em 'tsé-tsé'",
@@ -1973,7 +1973,7 @@
   },
   "pr31-07": {
    "word": "ほうき",
-   "translit": "hōki",
+   "translit": "Hōki",
    "example": "ほうきで庭の葉を集めました。",
    "examplePt": "Juntei as folhas do jardim com a vassoura.",
    "pron": "HÔ-ki — o 'ô' longo e o 'h' bem suave",
@@ -1981,23 +1981,23 @@
   },
   "pr31-08": {
    "word": "ペンキ",
-   "translit": "penki",
-   "example": "ペンキが乾くまで触らないで。",
+   "translit": "Penki",
+   "example": "ペンキが乾くまで触らないでください。",
    "examplePt": "Não toque até a tinta secar.",
    "pron": "PEN-ki — 'n' nasal antes de 'k'",
    "curiosity": "Para tinta de parede usa-se ペンキ; para tinta de pintar quadro, 絵の具."
   },
   "pr32-01": {
    "word": "フライパン",
-   "translit": "furaipan",
+   "translit": "Furaipan",
    "example": "フライパンで卵を焼きます。",
    "examplePt": "Frito um ovo na frigideira.",
    "pron": "fu-RAI-pan — 'fu' é um sopro suave, sem morder o lábio",
-   "curiosity": "フライパン vem do inglês, mas パン (pão) veio do português 'pão'!"
+   "curiosity": "O パン de フライパン é 'pan' (frigideira), e não o パン de 'pão'; é só coincidência."
   },
   "pr32-02": {
    "word": "やかん",
-   "translit": "yakan",
+   "translit": "Yakan",
    "example": "やかんのお湯が沸きました。",
    "examplePt": "A água da chaleira ferveu.",
    "pron": "YA-kan — 'y' leve e 'n' final nasal",
@@ -2005,7 +2005,7 @@
   },
   "pr32-03": {
    "word": "ミキサー",
-   "translit": "mikisā",
+   "translit": "Mikisā",
    "example": "ミキサーでバナナを混ぜましょう。",
    "examplePt": "Vamos bater banana no liquidificador.",
    "pron": "mi-KI-sâ — 'â' longo no final",
@@ -2013,7 +2013,7 @@
   },
   "pr32-04": {
    "word": "エプロン",
-   "translit": "epuron",
+   "translit": "Epuron",
    "example": "母はエプロンを着けて料理します。",
    "examplePt": "Minha mãe cozinha usando avental.",
    "pron": "e-PU-ron — 'u' curto e 'r' suave",
@@ -2021,7 +2021,7 @@
   },
   "pr32-05": {
    "word": "スポンジ",
-   "translit": "suponji",
+   "translit": "Suponji",
    "example": "スポンジでコップを洗いますか？",
    "examplePt": "Você lava o copo com a esponja?",
    "pron": "su-PON-ji — 'j' suave, tipo 'dji'",
@@ -2029,7 +2029,7 @@
   },
   "pr32-06": {
    "word": "ごみ箱",
-   "translit": "gomibako",
+   "translit": "Gomibako",
    "example": "ごみ箱は台所の隅にあります。",
    "examplePt": "A lixeira fica no canto da cozinha.",
    "pron": "go-mi-BA-ko — 'g' duro e 'i' curto",
@@ -2037,7 +2037,7 @@
   },
   "pr32-07": {
    "word": "水差し",
-   "translit": "mizusashi",
+   "translit": "Mizusashi",
    "example": "水差しにレモンを入れました。",
    "examplePt": "Coloquei limão na jarra de água.",
    "pron": "mi-zu-SA-shi — 'z' sonoro, 'sh' como 'ch'",
@@ -2045,7 +2045,7 @@
   },
   "pr32-08": {
    "word": "おろし金",
-   "translit": "oroshigane",
+   "translit": "Oroshigane",
    "example": "おろし金でチーズをすりました。",
    "examplePt": "Ralei queijo com o ralador.",
    "pron": "o-ro-shi-GA-ne — 'r' suave e 'g' duro",
@@ -2053,7 +2053,7 @@
   },
   "pr33-01": {
    "word": "水筒",
-   "translit": "suitō",
+   "translit": "Suitō",
    "example": "水筒に冷たいお茶を入れました。",
    "examplePt": "Pus chá gelado na garrafinha.",
    "pron": "SUI-tô — 'ui' junto e 'tô' longo",
@@ -2061,15 +2061,15 @@
   },
   "pr33-02": {
    "word": "テント",
-   "translit": "tento",
+   "translit": "Tento",
    "example": "庭でテントを張りましょう。",
    "examplePt": "Vamos montar a barraca no jardim.",
-   "pron": "TEN-to — 'e' aberto e 'o' curto",
+   "pron": "TEN-to — 'e' fechado e 'o' curto",
    "curiosity": "'Tento' vem do inglês 'tent'. Em português, 'tento' é outra coisa!"
   },
   "pr33-03": {
    "word": "焚き火",
-   "translit": "takibi",
+   "translit": "Takibi",
    "example": "焚き火の周りで歌を歌いました。",
    "examplePt": "Cantamos em volta da fogueira.",
    "pron": "ta-KI-bi — 'k' seco e 'b' de 'bola'",
@@ -2077,7 +2077,7 @@
   },
   "pr33-04": {
    "word": "双眼鏡",
-   "translit": "sōgankyō",
+   "translit": "Sōgankyō",
    "example": "双眼鏡で鳥を見つけました。",
    "examplePt": "Achei um pássaro com o binóculo.",
    "pron": "SÔ-gan-KYÔ — 'ô' longo duas vezes",
@@ -2085,7 +2085,7 @@
   },
   "pr33-05": {
    "word": "カヌー",
-   "translit": "kanū",
+   "translit": "Kanū",
    "example": "湖でカヌーに乗りませんか？",
    "examplePt": "Que tal andar de canoa no lago?",
    "pron": "ka-NÛ — o 'û' é longo, quase 'nuu'",
@@ -2093,7 +2093,7 @@
   },
   "pr33-06": {
    "word": "山道",
-   "translit": "yamamichi",
+   "translit": "Yamamichi",
    "example": "山道は雨で滑りやすいです。",
    "examplePt": "A trilha de montanha fica escorregadia com chuva.",
    "pron": "ya-ma-MI-chi — 'ch' como 'tch'",
@@ -2101,7 +2101,7 @@
   },
   "pr33-07": {
    "word": "錨",
-   "translit": "ikari",
+   "translit": "Ikari",
    "example": "船は錨を下ろして止まりました。",
    "examplePt": "O barco jogou a âncora e parou.",
    "pron": "i-KA-ri — 'i' curto e 'r' suave",
@@ -2109,7 +2109,7 @@
   },
   "pr33-08": {
    "word": "日焼け止め",
-   "translit": "hiyakedome",
+   "translit": "Hiyakedome",
    "example": "日焼け止めをこまめに塗りましょう。",
    "examplePt": "Vamos passar protetor solar com frequência.",
    "pron": "hi-ya-ke-DO-me — 'dome' com 'd' leve",
@@ -2117,7 +2117,7 @@
   },
   "pr34-01": {
    "word": "キックボード",
-   "translit": "kikku bōdo",
+   "translit": "Kikku bōdo",
    "example": "公園でキックボードに乗りました。",
    "examplePt": "Andei de patinete no parque.",
    "pron": "KIK-ku BÔ-do — o 'kk' é uma pausa curta, 'ô' longo",
@@ -2125,7 +2125,7 @@
   },
   "pr34-02": {
    "word": "トラクター",
-   "translit": "torakutā",
+   "translit": "Torakutā",
    "example": "農家はトラクターで畑を耕します。",
    "examplePt": "O agricultor ara o campo com o trator.",
    "pron": "to-ra-KU-tâ — 'r' suave e 'â' longo",
@@ -2133,7 +2133,7 @@
   },
   "pr34-03": {
    "word": "客船",
-   "translit": "kyakusen",
+   "translit": "Kyakusen",
    "example": "大きな客船が港に着きました。",
    "examplePt": "Um grande navio de passageiros chegou ao porto.",
    "pron": "kya-ku-SEN — 'kya' como 'quia' junto",
@@ -2141,15 +2141,15 @@
   },
   "pr34-04": {
    "word": "ロープウェイ",
-   "translit": "rōpuwei",
+   "translit": "Rōpuwei",
    "example": "ロープウェイで山に登りますか？",
    "examplePt": "Você vai subir a montanha de teleférico?",
    "pron": "RÔ-pu-UÊ-i — 'rô' longo e 'ue' bem separados",
-   "curiosity": "É da expressão inglesa 'ropeway', cabo-guia: 'rope' (corda) + 'way'."
+   "curiosity": "Vem do inglês 'ropeway': 'rope' (corda) + 'way' (via)."
   },
   "pr34-05": {
    "word": "新幹線",
-   "translit": "shinkansen",
+   "translit": "Shinkansen",
    "example": "新幹線は東京と大阪を結びます。",
    "examplePt": "O trem-bala liga Tóquio e Osaka.",
    "pron": "shin-KAN-sen — 'sh' como em 'chá', 'n' nasal",
@@ -2157,7 +2157,7 @@
   },
   "pr34-06": {
    "word": "スケートボード",
-   "translit": "sukētobōdo",
+   "translit": "Sukētobōdo",
    "example": "彼はスケートボードが上手です。",
    "examplePt": "Ele anda muito bem de skate.",
    "pron": "su-KÊ-to-BÔ-do — 'ê' e 'ô' longos",
@@ -2165,7 +2165,7 @@
   },
   "pr34-07": {
    "word": "そり",
-   "translit": "sori",
+   "translit": "Sori",
    "example": "雪の丘でそりに乗りました。",
    "examplePt": "Andei de trenó na colina de neve.",
    "pron": "SO-ri — o 'r' é um 'l' rápido",
@@ -2173,7 +2173,7 @@
   },
   "pr34-08": {
    "word": "路面電車",
-   "translit": "romen densha",
+   "translit": "Romen densha",
    "example": "路面電車は町の中を走ります。",
    "examplePt": "O bonde corre pelo meio da cidade.",
    "pron": "ro-MEN DEN-sha — 'n' nasal e 'sha' como 'chá'",
@@ -2181,7 +2181,7 @@
   },
   "pr35-01": {
    "word": "マウス",
-   "translit": "mausu",
+   "translit": "Mausu",
    "example": "マウスが動かなくなりました。",
    "examplePt": "O mouse parou de funcionar.",
    "pron": "MAU-su — 'au' como 'ou' e 'su' quase sem o 'u'",
@@ -2189,7 +2189,7 @@
   },
   "pr35-02": {
    "word": "ワイファイ",
-   "translit": "waifai",
+   "translit": "Waifai",
    "example": "ここでワイファイが使えますか？",
    "examplePt": "Posso usar o wi-fi aqui?",
    "pron": "WAI-fai — 'ai' como 'ái' nas duas partes",
@@ -2197,7 +2197,7 @@
   },
   "pr35-03": {
    "word": "アプリ",
-   "translit": "apuri",
+   "translit": "Apuri",
    "example": "このアプリは無料で使えます。",
    "examplePt": "Este aplicativo é grátis de usar.",
    "pron": "a-PU-ri — 'pu' curto e 'r' suave",
@@ -2205,7 +2205,7 @@
   },
   "pr35-04": {
    "word": "メッセージ",
-   "translit": "messēji",
+   "translit": "Messēji",
    "example": "友達からメッセージが来ましたか？",
    "examplePt": "Chegou mensagem de algum amigo?",
    "pron": "mes-SÊ-ji — 'ss' dobrado e 'ê' longo",
@@ -2213,7 +2213,7 @@
   },
   "pr35-05": {
    "word": "ファイル",
-   "translit": "fairu",
+   "translit": "Fairu",
    "example": "大事なファイルを保存しました。",
    "examplePt": "Salvei o arquivo importante.",
    "pron": "FAI-ru — 'f' suave e 'r' tipo 'l'",
@@ -2221,39 +2221,39 @@
   },
   "pr35-06": {
    "word": "フラッシュメモリ",
-   "translit": "furasshumemori",
+   "translit": "Furasshumemori",
    "example": "フラッシュメモリに写真を入れました。",
    "examplePt": "Guardei fotos no pen drive.",
    "pron": "fu-RAS-shu-me-MO-ri — 'ss' dobrado e 'sh' suave",
-   "curiosity": "Em japonês corrente, esse aparelho prefere o nome em katakana ao termo pen drive."
+   "curiosity": "フラッシュ (flash) é também o 'flash' da câmera: é a mesma palavra do inglês."
   },
   "pr35-07": {
    "word": "ウェブサイト",
-   "translit": "uebusaito",
+   "translit": "Webusaito",
    "example": "新しいウェブサイトを作りました。",
    "examplePt": "Criei um novo site.",
-   "pron": "u-E-bu-SAI-to — 'ue' em duas sílabas e 'ai' como 'ái'",
+   "pron": "we-bu-SAI-to — 'we' como 'uê' rápido; 'ai' como 'ái'",
    "curiosity": "Muitas vezes se diz só 'サイト' (saito), que é o 'site' abreviado."
   },
   "pr35-08": {
    "word": "ドローン",
-   "translit": "dorōn",
+   "translit": "Dorōn",
    "example": "ドローンが空を飛んでいます。",
    "examplePt": "O drone está voando no céu.",
    "pron": "do-RÔN — 'ô' longo e 'n' final nasal",
-   "curiosity": "Em inglês 'drone' também é o zangão da abelha, mas no Japão só vale para o aparelho."
+   "curiosity": "Em inglês, 'drone' também é o zangão da abelha; em japonês, ドローン é o aparelho voador."
   },
   "pr36-01": {
    "word": "ネクタイ",
-   "translit": "nekutai",
+   "translit": "Nekutai",
    "example": "父はネクタイを毎朝締めます。",
    "examplePt": "Meu pai aperta a gravata toda manhã.",
    "pron": "ne-KU-tai — 'u' curto e 'ai' como 'ái'",
-   "curiosity": "'Nekutai' vem do inglês 'necktie' (nó no pescoço) e é escrito em katakana."
+   "curiosity": "'Nekutai' vem do inglês 'necktie' (laço de pescoço) e é escrito em katakana."
   },
   "pr36-02": {
    "word": "マフラー",
-   "translit": "mafurā",
+   "translit": "Mafurā",
    "example": "寒いのでマフラーを巻きました。",
    "examplePt": "Estava frio, por isso enrolei o cachecol.",
    "pron": "ma-FU-râ — 'fu' suave e 'â' longo",
@@ -2261,15 +2261,15 @@
   },
   "pr36-03": {
    "word": "半ズボン",
-   "translit": "hanzubon",
+   "translit": "Hanzubon",
    "example": "夏は半ズボンが涼しいです。",
    "examplePt": "No verão a bermuda é fresquinha.",
    "pron": "han-ZU-bon — 'n' nasal e 'z' sonoro",
-   "curiosity": "半 quer dizer 'meio' e ズボン 'calça': uma 'meia calça comprida'."
+   "curiosity": "半 é 'meio' e ズボン é 'calça': uma 'calça pela metade', ou seja, curta."
   },
   "pr36-04": {
    "word": "ジャケット",
-   "translit": "jaketto",
+   "translit": "Jaketto",
    "example": "この青いジャケットは新しいですか？",
    "examplePt": "Esta jaqueta azul é nova?",
    "pron": "ja-KET-to — 'j' suave e 'tt' dobrado",
@@ -2277,7 +2277,7 @@
   },
   "pr36-05": {
    "word": "ビーチサンダル",
-   "translit": "bīchi sandaru",
+   "translit": "Bīchi sandaru",
    "example": "ビーチサンダルで海へ行きました。",
    "examplePt": "Fui ao mar de chinelo.",
    "pron": "BÎ-chi SAN-da-ru — 'ī' longo e 'ch' como 'tch'",
@@ -2285,7 +2285,7 @@
   },
   "pr36-06": {
    "word": "ブーツ",
-   "translit": "būtsu",
+   "translit": "Būtsu",
    "example": "雨の日はブーツをはきます。",
    "examplePt": "Em dia de chuva calço botas.",
    "pron": "BÛ-tsu — 'û' longo e 'ts' como em 'tsé-tsé'",
@@ -2293,15 +2293,15 @@
   },
   "pr36-07": {
    "word": "ネックレス",
-   "translit": "nekkuresu",
+   "translit": "Nekkuresu",
    "example": "このネックレスはおばあさんのものです。",
    "examplePt": "Este colar é da vovó.",
    "pron": "nek-KU-re-su — 'kk' dobrado e 'r' suave",
-   "curiosity": "ネックレス = 'neck' (pescoço) + 'less' do inglês 'necklace'."
+   "curiosity": "Vem do inglês 'necklace'; o ッ pequeno cria uma pausa antes de 'ku'."
   },
   "pr36-08": {
    "word": "帽子",
-   "translit": "bōshi",
+   "translit": "Bōshi",
    "example": "日差しが強いので帽子をかぶります。",
    "examplePt": "O sol está forte, então ponho o chapéu.",
    "pron": "BÔ-shi — 'ô' longo e 'sh' suave",
@@ -2309,7 +2309,7 @@
   },
   "pr37-01": {
    "word": "大学",
-   "translit": "daigaku",
+   "translit": "Daigaku",
    "example": "兄は東京の大学に通っています。",
    "examplePt": "Meu irmão vai a uma universidade de Tóquio.",
    "pron": "DAI-ga-ku — 'ai' como 'ái' e 'g' de 'gato'",
@@ -2317,7 +2317,7 @@
   },
   "pr37-02": {
    "word": "卒業式",
-   "translit": "sotsugyōshiki",
+   "translit": "Sotsugyōshiki",
    "example": "卒業式で友達が泣きました。",
    "examplePt": "Meu amigo chorou na formatura.",
    "pron": "so-tsu-GYÔ-shi-ki — 'ts' seco e 'gyô' longo",
@@ -2325,7 +2325,7 @@
   },
   "pr37-03": {
    "word": "実験室",
-   "translit": "jikkenshitsu",
+   "translit": "Jikkenshitsu",
    "example": "実験室では白い服を着ます。",
    "examplePt": "No laboratório vestimos roupa branca.",
    "pron": "jik-ken-SHI-tsu — 'kk' dobrado e 'tsu' final",
@@ -2333,7 +2333,7 @@
   },
   "pr37-04": {
    "word": "プリント",
-   "translit": "purinto",
+   "translit": "Purinto",
    "example": "先生がプリントを配りました。",
    "examplePt": "A professora distribuiu as apostilas.",
    "pron": "pu-RIN-to — 'n' nasal e 'to' curto",
@@ -2341,7 +2341,7 @@
   },
   "pr37-05": {
    "word": "講演",
-   "translit": "kōen",
+   "translit": "Kōen",
    "example": "今日の講演は何時からですか？",
    "examplePt": "A que horas começa a palestra de hoje?",
    "pron": "KÔ-en — o 'ô' é longo; o 'e' é bem claro",
@@ -2349,7 +2349,7 @@
   },
   "pr37-06": {
    "word": "研究",
-   "translit": "kenkyū",
+   "translit": "Kenkyū",
    "example": "彼女は海の生き物を研究しています。",
    "examplePt": "Ela pesquisa seres vivos do mar.",
    "pron": "KEN-kyû — 'n' nasal e 'kyû' longo, como 'quiu'",
@@ -2357,7 +2357,7 @@
   },
   "pr37-07": {
    "word": "作文",
-   "translit": "sakubun",
+   "translit": "Sakubun",
    "example": "先生は毎週作文を出します。",
    "examplePt": "A professora passa redação toda semana.",
    "pron": "sa-KU-bun — o 'u' do meio quase desaparece",
@@ -2365,7 +2365,7 @@
   },
   "pr37-08": {
    "word": "カレンダー",
-   "translit": "karendā",
+   "translit": "Karendā",
    "example": "カレンダーに予定を書きましょう。",
    "examplePt": "Vamos escrever os planos no calendário.",
    "pron": "ka-REN-dâ — 'r' suave e 'â' longo no fim",
@@ -2373,7 +2373,7 @@
   },
   "pr38-01": {
    "word": "レンガ",
-   "translit": "renga",
+   "translit": "Renga",
    "example": "この家はレンガでできています。",
    "examplePt": "Esta casa é feita de tijolos.",
    "pron": "REN-ga — 'r' suave e 'g' duro",
@@ -2381,7 +2381,7 @@
   },
   "pr38-02": {
    "word": "クレーン",
-   "translit": "kurēn",
+   "translit": "Kurēn",
    "example": "大きなクレーンがビルを作っています。",
    "examplePt": "Um grande guindaste está construindo o prédio.",
    "pron": "ku-RÊN — o 'ê' é longo e o 'n' é nasal",
@@ -2389,7 +2389,7 @@
   },
   "pr38-03": {
    "word": "スコップ",
-   "translit": "sukoppu",
+   "translit": "Sukoppu",
    "example": "スコップで砂を掘りました。",
    "examplePt": "Cavei a areia com a pá.",
    "pron": "su-KOP-pu — 'pp' dobrado",
@@ -2397,7 +2397,7 @@
   },
   "pr38-04": {
    "word": "屋根",
-   "translit": "yane",
+   "translit": "Yane",
    "example": "屋根に雪が積もりました。",
    "examplePt": "A neve acumulou no telhado.",
    "pron": "YA-ne — 'y' leve e 'e' claro",
@@ -2405,7 +2405,7 @@
   },
   "pr38-05": {
    "word": "エレベーター",
-   "translit": "erebētā",
+   "translit": "Erebētā",
    "example": "エレベーターは何階まで行きますか？",
    "examplePt": "Até que andar vai o elevador?",
    "pron": "e-re-BÊ-tâ — 'ê' e 'â' longos",
@@ -2413,7 +2413,7 @@
   },
   "pr38-06": {
    "word": "三角定規",
-   "translit": "sankaku jōgi",
+   "translit": "Sankaku jōgi",
    "example": "三角定規で線を引きました。",
    "examplePt": "Tracei uma linha com o esquadro.",
    "pron": "san-KA-ku JÔ-gi — 'n' nasal e 'jô' longo",
@@ -2421,7 +2421,7 @@
   },
   "pr38-07": {
    "word": "工事",
-   "translit": "kōji",
+   "translit": "Kōji",
    "example": "道の工事は来月終わります。",
    "examplePt": "A obra da rua termina no mês que vem.",
    "pron": "KÔ-ji — o 'ô' é longo; 'j' suave",
@@ -2429,7 +2429,7 @@
   },
   "pr38-08": {
    "word": "鍵",
-   "translit": "kagi",
+   "translit": "Kagi",
    "example": "玄関の鍵はどこですか？",
    "examplePt": "Onde está a chave da entrada?",
    "pron": "KA-gi — 'g' duro de 'gato'",
@@ -2437,7 +2437,7 @@
   },
   "pr39-01": {
    "word": "カート",
-   "translit": "kāto",
+   "translit": "Kāto",
    "example": "カートに牛乳を入れました。",
    "examplePt": "Pus leite no carrinho.",
    "pron": "KÂ-to — 'â' bem longo",
@@ -2445,7 +2445,7 @@
   },
   "pr39-02": {
    "word": "値札",
-   "translit": "nefuda",
+   "translit": "Nefuda",
    "example": "この値札の数字は読めますか？",
    "examplePt": "Dá para ler o número desta etiqueta de preço?",
    "pron": "ne-FU-da — 'f' suave e 'd' de 'dedo'",
@@ -2453,7 +2453,7 @@
   },
   "pr39-03": {
    "word": "レジ袋",
-   "translit": "rejibukuro",
+   "translit": "Rejibukuro",
    "example": "レジ袋はいりません。",
    "examplePt": "Não preciso de sacola de plástico.",
    "pron": "re-ji-BU-ku-ro — 'j' suave e 'r' suave",
@@ -2461,7 +2461,7 @@
   },
   "pr39-04": {
    "word": "現金自動預払機",
-   "translit": "genkin jidō azukebaraiki",
+   "translit": "Genkin jidō azukebaraiki",
    "example": "現金自動預払機で千円おろします。",
    "examplePt": "Vou sacar mil ienes no caixa eletrônico.",
    "pron": "gen-KIN ji-DÔ a-zu-ke-ba-RAI-ki — nome oficial, bem comprido",
@@ -2469,7 +2469,7 @@
   },
   "pr39-05": {
    "word": "チップ",
-   "translit": "chippu",
+   "translit": "Chippu",
    "example": "日本ではチップはいりません。",
    "examplePt": "No Japão não precisa de gorjeta.",
    "pron": "CHIP-pu — 'ch' como 'tch' e 'pp' dobrado",
@@ -2477,7 +2477,7 @@
   },
   "pr39-06": {
    "word": "利益",
-   "translit": "rieki",
+   "translit": "Rieki",
    "example": "会社は今年も利益が出ました。",
    "examplePt": "A empresa teve lucro este ano também.",
    "pron": "ri-E-ki — 'r' suave; 'i' e 'e' separados",
@@ -2485,7 +2485,7 @@
   },
   "pr39-07": {
    "word": "店",
-   "translit": "mise",
+   "translit": "Mise",
    "example": "この店は朝から開いていますか？",
    "examplePt": "Esta loja abre desde a manhã?",
    "pron": "MI-se — 'i' curto e 's' limpo",
@@ -2493,7 +2493,7 @@
   },
   "pr39-08": {
    "word": "ショーウィンドウ",
-   "translit": "shōuindō",
+   "translit": "Shōwindō",
    "example": "ショーウィンドウに赤い靴があります。",
    "examplePt": "Há sapatos vermelhos na vitrine.",
    "pron": "SHÔ-uin-DÔ — 'sh' suave e dois 'ô' longos",
@@ -2501,7 +2501,7 @@
   },
   "pr40-01": {
    "word": "柔らかい",
-   "translit": "yawarakai",
+   "translit": "Yawarakai",
    "example": "このパンは柔らかいですか？",
    "examplePt": "Este pão é macio?",
    "pron": "ya-wa-ra-KAI — 'r' suave e 'ai' final",
@@ -2509,7 +2509,7 @@
   },
   "pr40-02": {
    "word": "硬い",
-   "translit": "katai",
+   "translit": "Katai",
    "example": "この石はとても硬いです。",
    "examplePt": "Esta pedra é muito dura.",
    "pron": "ka-TAI — 'ai' como 'ái'",
@@ -2517,7 +2517,7 @@
   },
   "pr40-03": {
    "word": "ピカピカ",
-   "translit": "pikapika",
+   "translit": "Pikapika",
    "example": "靴をピカピカにみがきました。",
    "examplePt": "Poli os sapatos até ficarem brilhando.",
    "pron": "PI-ka-PI-ka — repete o som para dar efeito de brilho",
@@ -2525,7 +2525,7 @@
   },
   "pr40-04": {
    "word": "暗い",
-   "translit": "kurai",
+   "translit": "Kurai",
    "example": "夜の森は暗いです。",
    "examplePt": "A floresta à noite é escura.",
    "pron": "ku-RAI — 'r' suave e 'ai' final",
@@ -2533,7 +2533,7 @@
   },
   "pr40-05": {
    "word": "濡れる",
-   "translit": "nureru",
+   "translit": "Nureru",
    "example": "雨に濡れるのは嫌いですか？",
    "examplePt": "Você não gosta de se molhar na chuva?",
    "pron": "nu-RE-ru — 'r' suave nos dois 'r'",
@@ -2541,7 +2541,7 @@
   },
   "pr40-06": {
    "word": "乾く",
-   "translit": "kawaku",
+   "translit": "Kawaku",
    "example": "洗濯物が乾く日は気分がいいです。",
    "examplePt": "Em dia de roupa secando, o astral é bom.",
    "pron": "ka-WA-ku — 'w' suave",
@@ -2549,7 +2549,7 @@
   },
   "pr40-07": {
    "word": "トゲトゲ",
-   "translit": "togetoge",
+   "translit": "Togetoge",
    "example": "サボテンはトゲトゲしています。",
    "examplePt": "O cacto é espinhoso.",
    "pron": "TO-ge-TO-ge — 'g' duro e repetição do som",
@@ -2557,7 +2557,7 @@
   },
   "pr40-08": {
    "word": "うるさい",
-   "translit": "urusai",
+   "translit": "Urusai",
    "example": "隣の犬はとてもうるさいです。",
    "examplePt": "O cachorro do vizinho é muito barulhento.",
    "pron": "u-ru-SAI — 'r' suave e 'ai' final",
@@ -2565,15 +2565,15 @@
   },
   "pr41-01": {
    "word": "安い",
-   "translit": "yasui",
+   "translit": "Yasui",
    "example": "この店のパンは安いです。",
    "examplePt": "O pão desta loja é barato.",
    "pron": "ya-SUI — 'ui' junto, como 'ui' de 'muito'",
-   "curiosity": "安い também significa 'tranquilo/seguro' no kanji 安 de 安心."
+   "curiosity": "O kanji 安 também é 'tranquilo': 安心 (anshin) é 'sossego, alívio'."
   },
   "pr41-02": {
    "word": "高い",
-   "translit": "takai",
+   "translit": "Takai",
    "example": "この時計は高いですか？",
    "examplePt": "Este relógio é caro?",
    "pron": "ta-KAI — 'ai' como 'ái'",
@@ -2581,7 +2581,7 @@
   },
   "pr41-03": {
    "word": "簡単",
-   "translit": "kantan",
+   "translit": "Kantan",
    "example": "この問題は簡単ですか？",
    "examplePt": "Este problema é fácil?",
    "pron": "kan-TAN — dois 'n' nasais",
@@ -2589,7 +2589,7 @@
   },
   "pr41-04": {
    "word": "難しい",
-   "translit": "muzukashii",
+   "translit": "Muzukashii",
    "example": "日本語は難しいけれど楽しいです。",
    "examplePt": "O japonês é difícil, mas é divertido.",
    "pron": "mu-zu-ka-SHÎ — o 'ii' final é um 'i' longo",
@@ -2597,7 +2597,7 @@
   },
   "pr41-05": {
    "word": "無料",
-   "translit": "muryō",
+   "translit": "Muryō",
    "example": "この展示は無料です。",
    "examplePt": "Esta exposição é gratuita.",
    "pron": "mu-RYÔ — 'ryô' longo, como 'riô'",
@@ -2605,7 +2605,7 @@
   },
   "pr41-06": {
    "word": "混む",
-   "translit": "komu",
+   "translit": "Komu",
    "example": "朝の電車は混むことが多いです。",
    "examplePt": "O trem da manhã costuma ficar lotado.",
    "pron": "KO-mu — 'o' curto e 'u' quase mudo",
@@ -2613,7 +2613,7 @@
   },
   "pr41-07": {
    "word": "静か",
-   "translit": "shizuka",
+   "translit": "Shizuka",
    "example": "図書館はとても静かです。",
    "examplePt": "A biblioteca é muito silenciosa.",
    "pron": "shi-ZU-ka — 'sh' suave e 'z' sonoro",
@@ -2621,7 +2621,7 @@
   },
   "pr41-08": {
    "word": "珍しい",
-   "translit": "mezurashii",
+   "translit": "Mezurashii",
    "example": "この花は珍しいですね？",
    "examplePt": "Esta flor é rara, não é?",
    "pron": "me-zu-ra-SHÎ — 'r' suave e 'ii' longo",
@@ -2629,7 +2629,7 @@
   },
   "pr42-01": {
    "word": "中",
-   "translit": "naka",
+   "translit": "Naka",
    "example": "かばんの中に何がありますか？",
    "examplePt": "O que há dentro da bolsa?",
    "pron": "NA-ka — 'k' leve",
@@ -2637,7 +2637,7 @@
   },
   "pr42-02": {
    "word": "外",
-   "translit": "soto",
+   "translit": "Soto",
    "example": "外はとても寒いです。",
    "examplePt": "Lá fora está muito frio.",
    "pron": "SO-to — 'o' curto",
@@ -2645,15 +2645,15 @@
   },
   "pr42-03": {
    "word": "上",
-   "translit": "ue",
+   "translit": "Ue",
    "example": "猫は机の上で寝ています。",
    "examplePt": "O gato dorme em cima da mesa.",
    "pron": "U-e — duas sílabas, 'u' e 'e'",
-   "curiosity": "上 (ue) também é 'cima' em 上手 (jōzu), 'hábil'."
+   "curiosity": "上 lê-se 'ue' (cima) ou 'jō'; 上がる (agaru) é 'subir'."
   },
   "pr42-04": {
    "word": "下",
-   "translit": "shita",
+   "translit": "Shita",
    "example": "ベッドの下に靴があります。",
    "examplePt": "Há um sapato embaixo da cama.",
    "pron": "SHI-ta — 'sh' suave",
@@ -2661,7 +2661,7 @@
   },
   "pr42-05": {
    "word": "左",
-   "translit": "hidari",
+   "translit": "Hidari",
    "example": "左に曲がると駅があります。",
    "examplePt": "Virando à esquerda há uma estação.",
    "pron": "hi-DA-ri — 'r' suave",
@@ -2669,15 +2669,15 @@
   },
   "pr42-06": {
    "word": "右",
-   "translit": "migi",
+   "translit": "Migi",
    "example": "右の手でペンを持ちます。",
    "examplePt": "Seguro a caneta com a mão direita.",
    "pron": "MI-gi — 'g' duro de 'gato'",
-   "curiosity": "Em japonês, 右 e 左 têm traços quase iguais; só o primeiro traço muda."
+   "curiosity": "右 (migi) e 左 (hidari) formam 左右 (sayū), 'esquerda e direita'."
   },
   "pr42-07": {
    "word": "真ん中",
-   "translit": "mannaka",
+   "translit": "Mannaka",
    "example": "公園の真ん中に大きな木があります。",
    "examplePt": "No meio do parque há uma grande árvore.",
    "pron": "man-NA-ka — o 'nn' dobra o som nasal",
@@ -2685,15 +2685,15 @@
   },
   "pr42-08": {
    "word": "後ろ",
-   "translit": "ushiro",
+   "translit": "Ushiro",
    "example": "私の後ろに誰か立っていますか？",
    "examplePt": "Tem alguém parado atrás de mim?",
    "pron": "u-SHI-ro — 'sh' suave e 'r' tipo 'l'",
-   "curiosity": "後ろ também quer dizer 'costas' e aparece em 後ろ姿, a 'imagem de costas'."
+   "curiosity": "後ろ姿 (ushirosugata) é a 'figura vista de costas'."
   },
   "pr43-01": {
    "word": "半分",
-   "translit": "hanbun",
+   "translit": "Hanbun",
    "example": "ケーキを半分に切りましょう。",
    "examplePt": "Vamos cortar o bolo ao meio.",
    "pron": "han-BUN — 'n' nasal antes do 'b'",
@@ -2701,7 +2701,7 @@
   },
   "pr43-02": {
    "word": "ダース",
-   "translit": "dāsu",
+   "translit": "Dāsu",
    "example": "えんぴつを一ダース買いました。",
    "examplePt": "Comprei uma dúzia de lápis.",
    "pron": "DÂ-su — 'â' longo e 'u' quase mudo",
@@ -2709,7 +2709,7 @@
   },
   "pr43-03": {
    "word": "十個",
-   "translit": "jukko",
+   "translit": "Jukko",
    "example": "りんごを十個買いますか？",
    "examplePt": "Você vai comprar dez maçãs?",
    "pron": "JUK-ko — 'kk' dobrado e 'j' suave",
@@ -2717,7 +2717,7 @@
   },
   "pr43-04": {
    "word": "ペア",
-   "translit": "pea",
+   "translit": "Pea",
    "example": "この靴下は二つでペアです。",
    "examplePt": "Estas meias são duas, formam um par.",
    "pron": "PE-a — 'e' e 'a' separados",
@@ -2725,7 +2725,7 @@
   },
   "pr43-05": {
    "word": "一切れ",
-   "translit": "hitokire",
+   "translit": "Hitokire",
    "example": "ケーキを一切れ食べましょう。",
    "examplePt": "Vamos comer um pedaço de bolo.",
    "pron": "hi-to-KI-re — 'r' suave",
@@ -2733,7 +2733,7 @@
   },
   "pr43-06": {
    "word": "しずく",
-   "translit": "shizuku",
+   "translit": "Shizuku",
    "example": "葉の上に朝のしずくが光ります。",
    "examplePt": "Sobre a folha, brilha uma gota da manhã.",
    "pron": "shi-ZU-ku — 'sh' suave e 'z' sonoro",
@@ -2741,7 +2741,7 @@
   },
   "pr43-07": {
    "word": "パーセント",
-   "translit": "pāsento",
+   "translit": "Pāsento",
    "example": "百パーセント元気です。",
    "examplePt": "Estou cem por cento bem.",
    "pron": "PÂ-sen-to — 'â' longo e 'n' nasal",
@@ -2749,7 +2749,7 @@
   },
   "pr43-08": {
    "word": "ひとつかみ",
-   "translit": "hitotsukami",
+   "translit": "Hitotsukami",
    "example": "砂糖をひとつかみ入れました。",
    "examplePt": "Pus um punhado de açúcar.",
    "pron": "hi-to-tsu-KA-mi — 'ts' seco",
@@ -2757,7 +2757,7 @@
   },
   "pr44-01": {
    "word": "蛇口",
-   "translit": "jaguchi",
+   "translit": "Jaguchi",
    "example": "蛇口から水が出ません。",
    "examplePt": "A água não sai da torneira.",
    "pron": "ja-GU-chi — 'j' suave e 'ch' como 'tch'",
@@ -2765,7 +2765,7 @@
   },
   "pr44-02": {
    "word": "プラグ",
-   "translit": "puragu",
+   "translit": "Puragu",
    "example": "プラグをコンセントに差しました。",
    "examplePt": "Enfiei o plugue na tomada.",
    "pron": "pu-RA-gu — 'r' suave e 'g' duro",
@@ -2773,7 +2773,7 @@
   },
   "pr44-03": {
    "word": "呼び鈴",
-   "translit": "yobirin",
+   "translit": "Yobirin",
    "example": "玄関の呼び鈴が鳴りました。",
    "examplePt": "A campainha da entrada tocou.",
    "pron": "yo-bi-RIN — 'r' suave e 'n' nasal",
@@ -2781,7 +2781,7 @@
   },
   "pr44-04": {
    "word": "カーテン",
-   "translit": "kāten",
+   "translit": "Kāten",
    "example": "朝になったらカーテンを開けます。",
    "examplePt": "De manhã eu abro a cortina.",
    "pron": "KÂ-ten — 'â' longo e 'n' nasal",
@@ -2789,7 +2789,7 @@
   },
   "pr44-05": {
    "word": "シャワー",
-   "translit": "shawā",
+   "translit": "Shawā",
    "example": "夜はシャワーが気持ちいいです。",
    "examplePt": "À noite o chuveiro é gostoso.",
    "pron": "SHA-wâ — 'sh' como em 'chá' e 'â' longo",
@@ -2797,7 +2797,7 @@
   },
   "pr44-06": {
    "word": "枕",
-   "translit": "makura",
+   "translit": "Makura",
    "example": "このふかふかの枕が好きです。",
    "examplePt": "Gosto deste travesseiro fofinho.",
    "pron": "ma-KU-ra — 'r' suave",
@@ -2805,7 +2805,7 @@
   },
   "pr44-07": {
    "word": "かご",
-   "translit": "kago",
+   "translit": "Kago",
    "example": "洗濯物をかごに入れましょう。",
    "examplePt": "Vamos pôr a roupa suja no cesto.",
    "pron": "KA-go — 'g' duro",
@@ -2813,7 +2813,7 @@
   },
   "pr44-08": {
    "word": "扇風機",
-   "translit": "senpūki",
+   "translit": "Senpūki",
    "example": "暑いので扇風機をつけます。",
    "examplePt": "Faz calor, então ligo o ventilador.",
    "pron": "sen-PÛ-ki — 'n' nasal, 'pû' longo",
@@ -2821,7 +2821,7 @@
   },
   "pr45-01": {
    "word": "郵便配達員",
-   "translit": "yūbin haitatsuin",
+   "translit": "Yūbin haitatsuin",
    "example": "郵便配達員が荷物を届けました。",
    "examplePt": "O carteiro entregou uma encomenda.",
    "pron": "yû-bin hai-TA-tsu-in — 'yû' longo e 'ts' seco",
@@ -2829,7 +2829,7 @@
   },
   "pr45-02": {
    "word": "農家",
-   "translit": "nōka",
+   "translit": "Nōka",
    "example": "農家は毎朝早く起きます。",
    "examplePt": "O agricultor acorda cedo toda manhã.",
    "pron": "NÔ-ka — 'ô' longo",
@@ -2837,7 +2837,7 @@
   },
   "pr45-03": {
    "word": "パイロット",
-   "translit": "pairotto",
+   "translit": "Pairotto",
    "example": "あのパイロットは世界を飛びます。",
    "examplePt": "Aquele piloto voa pelo mundo.",
    "pron": "PAI-rot-to — 'ai' como 'ái' e 'tt' dobrado",
@@ -2845,7 +2845,7 @@
   },
   "pr45-04": {
    "word": "科学者",
-   "translit": "kagakusha",
+   "translit": "Kagakusha",
    "example": "科学者は海の水を調べています。",
    "examplePt": "A cientista estuda a água do mar.",
    "pron": "ka-GA-ku-sha — 'sha' como 'chá'",
@@ -2853,7 +2853,7 @@
   },
   "pr45-05": {
    "word": "整備士",
-   "translit": "seibishi",
+   "translit": "Seibishi",
    "example": "整備士は車の音を聞きました。",
    "examplePt": "O mecânico ouviu o barulho do carro.",
    "pron": "SÊ-bi-shi — 'ei' longo como 'ê'",
@@ -2861,7 +2861,7 @@
   },
   "pr45-06": {
    "word": "芸術家",
-   "translit": "geijutsuka",
+   "translit": "Geijutsuka",
    "example": "あの芸術家の絵は有名ですか？",
    "examplePt": "A pintura daquele artista é famosa?",
    "pron": "GÊ-jut-su-ka — 'ei' longo e 'ts' seco",
@@ -2869,7 +2869,7 @@
   },
   "pr45-07": {
    "word": "裁判官",
-   "translit": "saibankan",
+   "translit": "Saibankan",
    "example": "裁判官は静かに話を聞きました。",
    "examplePt": "O juiz ouviu a história em silêncio.",
    "pron": "sai-BAN-kan — 'n' nasal nas duas pontas",
@@ -2877,7 +2877,7 @@
   },
   "pr45-08": {
    "word": "写真家",
-   "translit": "shashinka",
+   "translit": "Shashinka",
    "example": "写真家が森の鳥を撮りました。",
    "examplePt": "O fotógrafo fotografou os pássaros da floresta.",
    "pron": "sha-SHIN-ka — 'sh' como em 'chá'",
@@ -2885,7 +2885,7 @@
   },
   "pr46-01": {
    "word": "花火",
-   "translit": "hanabi",
+   "translit": "Hanabi",
    "example": "夏の夜に花火を見ましたか？",
    "examplePt": "Você viu fogos de artifício numa noite de verão?",
    "pron": "ha-NA-bi — 'h' suave",
@@ -2893,7 +2893,7 @@
   },
   "pr46-02": {
    "word": "プレゼント",
-   "translit": "purezento",
+   "translit": "Purezento",
    "example": "誕生日にプレゼントをもらいました。",
    "examplePt": "Ganhei um presente de aniversário.",
    "pron": "pu-re-ZEN-to — 'z' sonoro e 'n' nasal",
@@ -2901,7 +2901,7 @@
   },
   "pr46-03": {
    "word": "招待状",
-   "translit": "shōtaijō",
+   "translit": "Shōtaijō",
    "example": "結婚式の招待状が届きました。",
    "examplePt": "Chegou o convite de casamento.",
    "pron": "SHÔ-tai-JÔ — 'ô' longo duas vezes",
@@ -2909,7 +2909,7 @@
   },
   "pr46-04": {
    "word": "ろうそく",
-   "translit": "rōsoku",
+   "translit": "Rōsoku",
    "example": "ケーキにろうそくを立てました。",
    "examplePt": "Coloquei velas no bolo.",
    "pron": "RÔ-so-ku — 'r' suave e 'ô' longo",
@@ -2917,7 +2917,7 @@
   },
   "pr46-05": {
    "word": "旗",
-   "translit": "hata",
+   "translit": "Hata",
    "example": "学校の屋上に旗が揺れています。",
    "examplePt": "Uma bandeira balança no telhado da escola.",
    "pron": "HA-ta — 'h' suave",
@@ -2925,7 +2925,7 @@
   },
   "pr46-06": {
    "word": "サーカス",
-   "translit": "sākasu",
+   "translit": "Sākasu",
    "example": "町にサーカスが来ましたか？",
    "examplePt": "O circo chegou à cidade?",
    "pron": "SÂ-ka-su — 'â' longo e 'u' final quase mudo",
@@ -2933,7 +2933,7 @@
   },
   "pr46-07": {
    "word": "仮面",
-   "translit": "kamen",
+   "translit": "Kamen",
    "example": "祭りでキツネの仮面をつけました。",
    "examplePt": "Usei uma máscara de raposa no festival.",
    "pron": "KA-men — 'n' nasal",
@@ -2941,7 +2941,7 @@
   },
   "pr46-08": {
    "word": "紙吹雪",
-   "translit": "kamifubuki",
+   "translit": "Kamifubuki",
    "example": "紙吹雪が空から降ってきました。",
    "examplePt": "Confete caiu do céu.",
    "pron": "ka-mi-fu-BU-ki — 'f' suave",
@@ -2949,7 +2949,7 @@
   },
   "pr47-01": {
    "word": "クリップ",
-   "translit": "kurippu",
+   "translit": "Kurippu",
    "example": "書類をクリップで留めました。",
    "examplePt": "Prendi os documentos com um clipe.",
    "pron": "ku-RIP-pu — 'r' suave e 'pp' dobrado",
@@ -2957,7 +2957,7 @@
   },
   "pr47-02": {
    "word": "封筒",
-   "translit": "fūtō",
+   "translit": "Fūtō",
    "example": "封筒に手紙を入れましょう。",
    "examplePt": "Vamos pôr a carta no envelope.",
    "pron": "FÛ-tô — 'û' e 'ô' longos, 'f' suave",
@@ -2965,7 +2965,7 @@
   },
   "pr47-03": {
    "word": "引き出し",
-   "translit": "hikidashi",
+   "translit": "Hikidashi",
    "example": "引き出しに鍵はありますか？",
    "examplePt": "A gaveta tem chave?",
    "pron": "hi-ki-DA-shi — 'sh' suave",
@@ -2973,7 +2973,7 @@
   },
   "pr47-04": {
    "word": "社員証",
-   "translit": "shainshō",
+   "translit": "Shainshō",
    "example": "社員証を忘れて入れませんでした。",
    "examplePt": "Esqueci o crachá e não pude entrar.",
    "pron": "SHA-in-SHÔ — 'ô' longo no fim",
@@ -2981,15 +2981,15 @@
   },
   "pr47-05": {
    "word": "ホッチキス",
-   "translit": "hocchikisu",
+   "translit": "Hotchikisu",
    "example": "ホッチキスで紙を止めました。",
    "examplePt": "Prendi o papel com o grampeador.",
-   "pron": "hot-CHI-ki-su — 'cch' dobrado, como em 'tch'",
+   "pron": "hot-CHI-ki-su — 'tch' dobrado, como em 'atchim'",
    "curiosity": "Vem do nome de uma marca americana, e virou o nome de qualquer grampeador."
   },
   "pr47-06": {
    "word": "フォルダー",
-   "translit": "forudā",
+   "translit": "Forudā",
    "example": "大事な書類はフォルダーに入れます。",
    "examplePt": "Guardo papéis importantes na pasta.",
    "pron": "FO-ru-DÂ — 'r' suave e 'â' longo",
@@ -2997,7 +2997,7 @@
   },
   "pr47-07": {
    "word": "手帳",
-   "translit": "techō",
+   "translit": "Techō",
    "example": "新しい手帳を買いましたか？",
    "examplePt": "Você comprou uma agenda nova?",
    "pron": "te-CHÔ — 'ch' como 'tch' e 'ô' longo",
@@ -3005,7 +3005,7 @@
   },
   "pr47-08": {
    "word": "メモ帳",
-   "translit": "memochō",
+   "translit": "Memochō",
    "example": "メモ帳に買う物を書きました。",
    "examplePt": "Anotei no bloco o que comprar.",
    "pron": "me-mo-CHÔ — 'ch' como 'tch'",
@@ -3013,7 +3013,7 @@
   },
   "pr48-01": {
    "word": "唐辛子",
-   "translit": "tōgarashi",
+   "translit": "Tōgarashi",
    "example": "唐辛子を入れると辛くなります。",
    "examplePt": "Com pimenta, fica ardido.",
    "pron": "TÔ-ga-ra-shi — 'ô' longo e 'g' duro",
@@ -3021,7 +3021,7 @@
   },
   "pr48-02": {
    "word": "はちみつ",
-   "translit": "hachimitsu",
+   "translit": "Hachimitsu",
    "example": "パンにはちみつを塗りますか？",
    "examplePt": "Você passa mel no pão?",
    "pron": "ha-chi-MI-tsu — 'ch' como 'tch'",
@@ -3029,7 +3029,7 @@
   },
   "pr48-03": {
    "word": "塩",
-   "translit": "shio",
+   "translit": "Shio",
    "example": "スープに塩を少し入れました。",
    "examplePt": "Pus um pouco de sal na sopa.",
    "pron": "SHI-o — 'sh' suave",
@@ -3037,7 +3037,7 @@
   },
   "pr48-04": {
    "word": "オリーブ",
-   "translit": "orību",
+   "translit": "Orību",
    "example": "オリーブの実は小さくて緑です。",
    "examplePt": "A azeitona é pequena e verde.",
    "pron": "o-RÎ-bu — 'r' suave e 'î' longo",
@@ -3045,7 +3045,7 @@
   },
   "pr48-05": {
    "word": "しょうが",
-   "translit": "shōga",
+   "translit": "Shōga",
    "example": "しょうがで体が温まりますか？",
    "examplePt": "O gengibre esquenta o corpo?",
    "pron": "SHÔ-ga — 'ô' longo e 'g' duro",
@@ -3053,7 +3053,7 @@
   },
   "pr48-06": {
    "word": "ピーナッツ",
-   "translit": "pīnattsu",
+   "translit": "Pīnattsu",
    "example": "ピーナッツを一袋食べました。",
    "examplePt": "Comi um saquinho de amendoim.",
    "pron": "PÎ-nat-tsu — 'î' longo e 'tts' dobrado",
@@ -3061,7 +3061,7 @@
   },
   "pr48-07": {
    "word": "アボカド",
-   "translit": "abokado",
+   "translit": "Abokado",
    "example": "アボカドは緑色で柔らかいです。",
    "examplePt": "O abacate é verde e macio.",
    "pron": "a-bo-KA-do — todas as vogais claras",
@@ -3069,7 +3069,7 @@
   },
   "pr48-08": {
    "word": "ココナッツ",
-   "translit": "kokonattsu",
+   "translit": "Kokonattsu",
    "example": "ココナッツの中に甘い水があります。",
    "examplePt": "Dentro do coco há uma água doce.",
    "pron": "ko-ko-NAT-tsu — 'ts' seco e 'tt' dobrado",
@@ -3077,7 +3077,7 @@
   },
   "pr49-01": {
    "word": "チェス",
-   "translit": "chesu",
+   "translit": "Chesu",
    "example": "祖父とチェスをしました。",
    "examplePt": "Joguei xadrez com meu avô.",
    "pron": "CHE-su — 'ch' como 'tch'",
@@ -3085,7 +3085,7 @@
   },
   "pr49-02": {
    "word": "トランプ",
-   "translit": "toranpu",
+   "translit": "Toranpu",
    "example": "トランプで遊びましょうか？",
    "examplePt": "Vamos jogar baralho?",
    "pron": "to-RAN-pu — 'r' suave e 'n' nasal",
@@ -3093,7 +3093,7 @@
   },
   "pr49-03": {
    "word": "凧",
-   "translit": "tako",
+   "translit": "Tako",
    "example": "風の強い日に凧を揚げます。",
    "examplePt": "Em dia de vento forte, solto pipa.",
    "pron": "TA-ko — 'k' seco",
@@ -3101,7 +3101,7 @@
   },
   "pr49-04": {
    "word": "ヨーヨー",
-   "translit": "yōyō",
+   "translit": "Yōyō",
    "example": "ヨーヨーを上手に回せますか？",
    "examplePt": "Você consegue girar bem o ioiô?",
    "pron": "YÔ-yô — 'ô' longo duas vezes",
@@ -3109,7 +3109,7 @@
   },
   "pr49-05": {
    "word": "ボウリング",
-   "translit": "bōringu",
+   "translit": "Bōringu",
    "example": "週末に家族とボウリングへ行きます。",
    "examplePt": "No fim de semana vou jogar boliche com a família.",
    "pron": "BÔ-rin-gu — 'ô' longo e 'ng' nasal com 'g' leve",
@@ -3117,7 +3117,7 @@
   },
   "pr49-06": {
    "word": "ゲームセンター",
-   "translit": "gēmu sentā",
+   "translit": "Gēmu sentā",
    "example": "ゲームセンターで友達と遊びました。",
    "examplePt": "Brinquei com meus amigos no fliperama.",
    "pron": "GÊ-mu SEN-tâ — 'ê' longo e 'â' longo",
@@ -3125,7 +3125,7 @@
   },
   "pr49-07": {
    "word": "滑り台",
-   "translit": "suberidai",
+   "translit": "Suberidai",
    "example": "公園の滑り台は高いですか？",
    "examplePt": "O escorregador do parque é alto?",
    "pron": "su-be-ri-DAI — 'r' suave e 'ai' final",
@@ -3133,7 +3133,7 @@
   },
   "pr49-08": {
    "word": "ゲーム",
-   "translit": "gēmu",
+   "translit": "Gēmu",
    "example": "兄は毎晩ゲームをしています。",
    "examplePt": "Meu irmão joga videogame toda noite.",
    "pron": "GÊ-mu — 'ê' longo e 'u' quase mudo",
@@ -3141,7 +3141,7 @@
   },
   "pr50-01": {
    "word": "出口",
-   "translit": "deguchi",
+   "translit": "Deguchi",
    "example": "出口はどこですか？",
    "examplePt": "Onde fica a saída?",
    "pron": "de-GU-chi — 'g' duro e 'ch' como 'tch'",
@@ -3149,7 +3149,7 @@
   },
   "pr50-02": {
    "word": "禁止",
-   "translit": "kinshi",
+   "translit": "Kinshi",
    "example": "ここは写真撮影が禁止です。",
    "examplePt": "Aqui é proibido tirar fotos.",
    "pron": "KIN-shi — 'n' nasal e 'sh' suave",
@@ -3157,7 +3157,7 @@
   },
   "pr50-03": {
    "word": "危険",
-   "translit": "kiken",
+   "translit": "Kiken",
    "example": "この橋は渡るのが危険ですか？",
    "examplePt": "É perigoso atravessar esta ponte?",
    "pron": "ki-KEN — 'n' final nasal",
@@ -3165,7 +3165,7 @@
   },
   "pr50-04": {
    "word": "緊急",
-   "translit": "kinkyū",
+   "translit": "Kinkyū",
    "example": "緊急の電話は百十番にかけます。",
    "examplePt": "Chamadas de emergência vão para o 110.",
    "pron": "KIN-kyû — 'n' nasal e 'kyû' longo",
@@ -3173,15 +3173,15 @@
   },
   "pr50-05": {
    "word": "割れ物",
-   "translit": "waremono",
-   "example": "この箱は割れ物なので注意します。",
-   "examplePt": "Esta caixa é frágil, por isso cuidado.",
+   "translit": "Waremono",
+   "example": "この箱は割れ物なので、気をつけてください。",
+   "examplePt": "Esta caixa é frágil, então tenha cuidado.",
    "pron": "wa-re-MO-no — 'r' suave",
    "curiosity": "割れ物 junta 割れる (quebrar) + 物 (coisa): 'coisa que quebra'."
   },
   "pr50-06": {
    "word": "営業中",
-   "translit": "eigyōchū",
+   "translit": "Eigyōchū",
    "example": "その店はまだ営業中ですか？",
    "examplePt": "Aquela loja ainda está aberta?",
    "pron": "Ê-gyô-CHÛ — 'ei' como 'ê', 'gyô' e 'chû' longos",
@@ -3189,7 +3189,7 @@
   },
   "pr50-07": {
    "word": "閉店",
-   "translit": "heiten",
+   "translit": "Heiten",
    "example": "店は夜九時に閉店します。",
    "examplePt": "A loja fecha às nove da noite.",
    "pron": "HÊ-ten — 'ei' como 'ê' longo",
@@ -3197,9 +3197,9 @@
   },
   "pr50-08": {
    "word": "案内",
-   "translit": "annai",
-   "example": "入口で案内を受けました。",
-   "examplePt": "Recebi informações na entrada.",
+   "translit": "Annai",
+   "example": "入口で案内してもらいました。",
+   "examplePt": "Fui orientado na entrada.",
    "pron": "AN-nai — 'nn' dobra o 'n' nasal, 'ai' final",
    "curiosity": "案内 é 'guia/informação' e aparece em 案内所, o balcão de informações."
   }

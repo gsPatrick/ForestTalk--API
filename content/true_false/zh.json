@@ -2222,8 +2222,8 @@
   "tf28-08": {
    "word": "请买单",
    "translit": "qǐng mǎidān",
-   "example": "吃完饭，我们请买单吧。",
-   "examplePt": "Terminamos de comer, vamos pedir a conta.",
+   "example": "我们吃好了，请买单。",
+   "examplePt": "Terminamos, a conta, por favor.",
    "pron": "tching mái-dan — 3º tom; 3º tom; 1º tom",
    "curiosity": "买单 é 'comprar a conta': em chinês se 'compra' a conta."
   },
@@ -2480,7 +2480,7 @@
    "translit": "qúndǎo",
    "example": "这个群岛有上百个小岛。",
    "examplePt": "Este arquipélago tem mais de cem ilhotas.",
-   "pron": "tchuên-DAU — 'q' = 'tch'; 'ün' soa como 'uen' com lábios fechados",
+   "pron": "tchün-DAU — 'q' = 'tch' soprado; 'ü' é 'u' com lábios de 'i'; 2º tom sobe",
    "curiosity": "群 é 'grupo', como em 人群 (multidão); 群岛 é um 'grupo de ilhas'."
   },
   "tf32-01": {
@@ -2505,7 +2505,7 @@
    "example": "潮汐是月亮造成的吗？",
    "examplePt": "A maré é causada pela lua?",
    "pron": "tchau-CI — 'ch' é 'tch' enrolado; 2º tom sobe, 1º tom fica alto",
-   "curiosity": "潮 era a maré da manhã e 汐 a da tarde na língua antiga; juntos, 'as marés'."
+   "curiosity": "Na língua antiga, 潮 era a maré da manhã e 汐 a da noite; juntos, 潮汐 são as marés."
   },
   "tf32-04": {
    "word": "海浪",
@@ -2705,7 +2705,7 @@
    "example": "早晨的露水亮晶晶的。",
    "examplePt": "O orvalho da manhã brilha todo.",
    "pron": "lu-CHUEI — 4º tom e 3º tom; 'shui' soa 'chuêi'",
-   "curiosity": "No calendário de 24 termos solares há 白露 e 寒露: 'orvalho branco' e 'frio'."
+   "curiosity": "No calendário de 24 termos solares há 白露 e 寒露: 'orvalho branco' e 'orvalho frio'."
   },
   "tf34-09": {
    "word": "毛毛雨",
@@ -2849,7 +2849,7 @@
    "example": "天鹅绒窗帘又厚又重。",
    "examplePt": "A cortina de veludo é grossa e pesada.",
    "pron": "tien-ê-RRUNG — 'r' é um 'rr' curvado; 1º, 2º e 2º tom",
-   "curiosity": "天鹅绒 é 'penugem de cisne do céu' (天鹅 = cisne, 绒 = penugem): nome poético."
+   "curiosity": "天鹅绒 é 'veludo de cisne' (天鹅 = cisne, 绒 = penugem): nome poético, sem relação com cisnes de verdade."
   },
   "tf36-07": {
    "word": "橡胶",
@@ -3049,7 +3049,7 @@
    "example": "发电机在停电时开始工作。",
    "examplePt": "O gerador começa a trabalhar na queda de energia.",
    "pron": "fa-dien-TCI — 1º tom, 4º tom e 1º tom",
-   "curiosity": "发电机 = 发 (emitir) + 电 (eletricidade) + 机 (máquina): 'máquina que emite luz'."
+   "curiosity": "发电机 = 发 (gerar) + 电 (eletricidade) + 机 (máquina): a 'máquina que gera eletricidade'."
   },
   "tf39-02": {
    "word": "风力涡轮机",
@@ -3206,8 +3206,8 @@
   "tf41-01": {
    "word": "脾",
    "translit": "pí",
-   "example": "脾在胃的左边。",
-   "examplePt": "O baço fica à esquerda do estômago.",
+   "example": "脾在腹部的左上方。",
+   "examplePt": "O baço fica na parte superior esquerda do abdômen.",
    "pron": "pi — 2º tom ascendente, como uma pergunta curta",
    "curiosity": "脾气 (píqi) é 'temperamento': 发脾气 é 'perder a paciência'."
   },
@@ -3636,12 +3636,12 @@
    "curiosity": "坊 aparece em 作坊 (oficina) e 磨坊 é a 'oficina de moer'."
   },
   "tf46-05": {
-   "word": "输水道",
-   "translit": "shūshuǐdào",
-   "example": "古罗马人建了许多输水道。",
+   "word": "引水渠",
+   "translit": "yǐnshuǐqú",
+   "example": "古罗马人建了许多引水渠。",
    "examplePt": "Os romanos antigos construíram muitos aquedutos.",
-   "pron": "chu-chuêi-DAU — 'sh' curvado; 1º, 3º e 4º tom",
-   "curiosity": "输 é 'transportar' e aparece em 运输 (transporte)."
+   "pron": "in-chuêi-TCHÜ — 3º, 3º e 2º tom; 'q' = 'tch' soprado, com 'ü' de lábios de 'i'",
+   "curiosity": "引 é 'conduzir' e 渠 é 'canal': 引水渠 é o canal que conduz a água até a cidade."
   },
   "tf46-06": {
    "word": "工厂",

@@ -55,7 +55,7 @@
     {
      "npc": "ริมหน้าต่างหรือทางเดินคะ",
      "npcPt": "Janela ou corredor?",
-     "translit": "Rim naatang rue thang doen kha?",
+     "translit": "Rim natang rue thang doen kha?",
      "options": [
       {
        "text": "ใช่ครับ",
@@ -72,7 +72,7 @@
       {
        "text": "ขอริมหน้าต่างครับ",
        "textPt": "Janela, por favor.",
-       "translit": "Kho rim naatang khrap"
+       "translit": "Kho rim natang khrap"
       }
      ]
     },
@@ -441,7 +441,7 @@
        "text": "เราต้องการทดสอบแอปครับ",
        "textPt": "Precisamos testar o app.",
        "translit": "Rao tongkan thotsop aep khrap",
-       "hint": "'ต้องการ' é 'precisar/querer' com substantivo; antes de verbo use 'ต้อง' (ter que)."
+       "hint": "'ต้องการ' soa como 'querer/exigir'; para obrigação use 'ต้อง' (ter que)."
       },
       {
        "text": "เราต้องทดสอบแอปเมื่อวานครับ",
@@ -566,7 +566,7 @@
        "text": "ครับ ร้านหนังสืออยู่ที่ไหนครับ",
        "textPt": "Sim. Onde fica a livraria?",
        "translit": "Khrap, ran nangsue yu thi nai khrap",
-       "hint": "Falso amigo: 'ร้านหนังสือ' é livraria. Biblioteca é 'ห้องสมุด'."
+       "hint": "'ร้านหนังสือ' é livraria (loja de livros). Biblioteca é 'ห้องสมุด'."
       },
       {
        "text": "ครับ ห้องสมุดอยู่ที่ไหนครับ",
@@ -786,12 +786,12 @@
     {
      "npc": "อยู่ข้างสวนสาธารณะครับ",
      "npcPt": "Fica ao lado do parque.",
-     "translit": "Yu khang suan sathanana khrap.",
+     "translit": "Yu khang suan satharana khrap.",
      "options": [
       {
        "text": "ข้างคือสวนสาธารณะครับ",
        "textPt": "Ao lado é um parque.",
-       "translit": "Khang khue suan sathanana khrap",
+       "translit": "Khang khue suan satharana khrap",
        "hint": "Frase invertida; não é preciso repetir."
       },
       {
@@ -802,7 +802,7 @@
       {
        "text": "ผมไม่ชอบสวนสาธารณะครับ",
        "textPt": "Não gosto de parques.",
-       "translit": "Phom mai chop suan sathanana khrap",
+       "translit": "Phom mai chop suan satharana khrap",
        "hint": "Fora de contexto: agradeça pela ajuda."
       }
      ]
@@ -945,7 +945,7 @@
       {
        "text": "ผมชอบทำงานเป็นทีมและอยากเติบโตครับ",
        "textPt": "Gosto de trabalho em equipe e quero crescer.",
-       "translit": "Phom chop tham ngan pen thim lae yak toetto khrap"
+       "translit": "Phom chop tham ngan pen thim lae yak toepto khrap"
       },
       {
        "text": "เพราะผมต้องการเงินเท่านั้นครับ",
@@ -956,7 +956,7 @@
       {
        "text": "ผมอยากได้เพราะมันเจ๋งครับ",
        "textPt": "Quero porque é legal.",
-       "translit": "Phom yak dai phro man choeng khrap",
+       "translit": "Phom yak dai phro man cheng khrap",
        "hint": "Vago e informal demais ('เจ๋ง' é gíria); dê um motivo concreto."
       }
      ]

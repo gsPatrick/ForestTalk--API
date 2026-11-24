@@ -809,7 +809,7 @@
   },
   "im21-02": {
    "word": "バスケットボール",
-   "translit": "Basukettobōru"
+   "translit": "Basuketto bōru"
   },
   "im21-03": {
    "word": "テニスボール",
@@ -817,7 +817,7 @@
   },
   "im21-04": {
    "word": "バレーボール",
-   "translit": "Barēbōru"
+   "translit": "Barē bōru"
   },
   "im21-05": {
    "word": "卓球",
@@ -837,7 +837,7 @@
   },
   "im21-09": {
    "word": "スケートボード",
-   "translit": "Sukētobōdo"
+   "translit": "Sukēto bōdo"
   },
   "im21-10": {
    "word": "アイススケート靴",
@@ -1473,7 +1473,7 @@
   },
   "im37-08": {
    "word": "ファラフェル",
-   "translit": "Farafuru"
+   "translit": "Faraferu"
   },
   "im37-09": {
    "word": "サラダ",
@@ -1728,8 +1728,8 @@
    "translit": "Matsu"
   },
   "im44-02": {
-   "word": "麦",
-   "translit": "Mugi"
+   "word": "小麦",
+   "translit": "Komugi"
   },
   "im44-03": {
    "word": "クローバー",
@@ -2000,8 +2000,8 @@
    "translit": "Furui kagi"
   },
   "im50-10": {
-   "word": "石油樽",
-   "translit": "Sekiyu taru"
+   "word": "ドラム缶",
+   "translit": "Doramukan"
   }
  }
 }

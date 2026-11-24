@@ -231,7 +231,7 @@
    "word": "kommen",
    "translit": null,
    "example": "Kommst du mit ins Schwimmbad?",
-   "examplePt": "Você vem junto à piscina?",
+   "examplePt": "Você vem junto para a piscina?",
    "pron": "KÓ-men — o 'o' é curto e o 'mm' é um 'm' só",
    "curiosity": "Para ir junto diz-se 'mitkommen': Kommst du mit? (vem junto?)."
   },
@@ -518,7 +518,7 @@
   "tr07-05": {
    "word": "leihen",
    "translit": null,
-   "example": "Darf ich deinen Stift leihen?",
+   "example": "Kannst du mir deinen Stift leihen?",
    "examplePt": "Pode me emprestar sua caneta?",
    "pron": "LAI-en — 'ei' soa 'ai' e o 'h' fica mudo",
    "curiosity": "'Leihen' vale para emprestar e para pegar emprestado; o contexto decide."
@@ -583,7 +583,7 @@
    "word": "anhalten",
    "translit": null,
    "example": "Bitte kurz anhalten, ich muss aussteigen.",
-   "examplePt": "Você pode parar um instante, por favor?",
+   "examplePt": "Pare um instante, por favor, preciso descer.",
    "pron": "AN-hal-ten — o 'h' é um sopro leve e o 'a' é curto",
    "curiosity": "'Anhalten' vale para parar o carro e para segurar o fôlego: den Atem anhalten."
   },
@@ -695,7 +695,7 @@
    "word": "kopieren",
    "translit": null,
    "example": "Bitte die Seite zweimal kopieren.",
-   "examplePt": "Pode copiar a página?",
+   "examplePt": "Copie a página duas vezes, por favor.",
    "pron": "ko-PI-ren — o 'ie' é um 'i' longo",
    "curiosity": "'Kopieren' é o ctrl+C, e 'einfügen' é o ctrl+V em alemão."
   },
@@ -1215,7 +1215,7 @@
    "word": "Ein Zimmer für zwei Nächte",
    "translit": null,
    "example": "Wir suchen ein Zimmer für zwei Nächte.",
-   "examplePt": "Tem um quarto para duas noites?",
+   "examplePt": "Procuramos um quarto para duas noites.",
    "pron": "ain TSI-mer für tsvai NÉ-çte — 'z' soa 'ts' e 'ä' soa 'é'",
    "curiosity": "'Die Nacht' faz plural com trema: 'die Nächte'."
   },
@@ -1399,7 +1399,7 @@
    "word": "Ich nehme das hier",
    "translit": null,
    "example": "Ich nehme das hier, bitte einpacken.",
-   "examplePt": "Vou levar este, por favor embrulhe.",
+   "examplePt": "Vou levar este; pode embrulhar, por favor.",
    "pron": "iç NÊ-me das HIR — o 'e' de 'nehme' é longo e o 'h' fica mudo",
    "curiosity": "Ao decidir uma compra, diz-se 'Ich nehme es': literalmente 'eu pego'."
   },
@@ -1412,12 +1412,12 @@
    "curiosity": "Muitos lugares na Alemanha ainda preferem dinheiro: 'Nur Bargeld'."
   },
   "tr18-07": {
-   "word": "Gibt es das in anderer Farbe?",
+   "word": "In einer anderen Farbe?",
    "translit": null,
-   "example": "Rot vielleicht? Gibt es das in anderer Farbe?",
+   "example": "Rot vielleicht? Gibt es das in einer anderen Farbe?",
    "examplePt": "Tem isto em outra cor? Vermelho, talvez?",
-   "pron": "guibt es das in AN-de-rer FAR-be — 'r' suave; 'f' como em 'faca'",
-   "curiosity": "'Die Farbe' é feminina, por isso 'in anderer Farbe' (dativo)."
+   "pron": "in AI-ner AN-de-ren FAR-be — 'r' suave; 'f' como em 'faca'",
+   "curiosity": "'Die Farbe' é feminina, por isso 'in einer anderen Farbe' (dativo)."
   },
   "tr18-08": {
    "word": "Ich brauche eine Tüte",
@@ -1478,8 +1478,8 @@
   "tr19-05": {
    "word": "Zeig es mir auf der Karte",
    "translit": null,
-   "example": "Wir sind verloren. Zeig es mir auf der Karte!",
-   "examplePt": "Estou perdido. Mostre-me no mapa!",
+   "example": "Wir haben uns verlaufen. Zeig es mir auf der Karte!",
+   "examplePt": "Nós nos perdemos. Mostre no mapa!",
    "pron": "tsaig es mir auf der KAR-te — 'z' soa 'ts' e 'au' soa 'áu'",
    "curiosity": "'Die Karte' tem muitos sentidos: mapa, cardápio, cartão e carta de baralho."
   },
@@ -1510,8 +1510,8 @@
   "tr19-09": {
    "word": "Ich bin zu spät",
    "translit": null,
-   "example": "Entschuldige, ich bin zu spät, die Stunde läuft.",
-   "examplePt": "Estou atrasado, a aula já começou.",
+   "example": "Entschuldigung, ich bin zu spät, die Stunde hat schon angefangen.",
+   "examplePt": "Desculpe, estou atrasado, a aula já começou.",
    "pron": "iç bin tsu SCHPÊT — 'z' soa 'ts'; 'sp' soa 'schp'",
    "curiosity": "'Zu spät' é tarde demais e 'zu früh' é cedo demais: 'zu' marca o excesso."
   },
@@ -1583,7 +1583,7 @@
    "word": "Ich habe eine Idee",
    "translit": null,
    "example": "Hört zu, ich habe eine Idee: Wir backen Pizza!",
-   "examplePt": "Tive uma ideia: vamos assar pizza!",
+   "examplePt": "Ouçam, tive uma ideia: vamos assar uma pizza!",
    "pron": "iç HÁ-be AI-ne i-DÊ — o 'ee' final é um 'ê' longo",
    "curiosity": "'Schnapsidee' é uma ideia maluca, dita em tom de brincadeira."
   },
@@ -1713,7 +1713,7 @@
    "example": "Der Bus ist fast voll.",
    "examplePt": "O ônibus está quase lotado.",
    "pron": "FAST — o 'a' é curto e o 'st' soa 'st', não 'scht'",
-   "curiosity": "'Fast' (quase) não tem relação com o inglês 'fast' (rápido)."
+   "curiosity": "'Fast' combina com 'alle', 'nie' e 'immer': 'fast alle' (quase todos), 'fast nie' (quase nunca)."
   },
   "tr22-05": {
    "word": "noch",
@@ -1838,7 +1838,7 @@
   "tr23-10": {
    "word": "Das ist mir egal",
    "translit": null,
-   "example": "Das ist mir egal, wähle du aus.",
+   "example": "Das ist mir egal, such du aus.",
    "examplePt": "Não me importo, escolha você.",
    "pron": "das ist mir e-GÁL — o 'e' inicial é fechado e a ênfase cai no fim",
    "curiosity": "O dativo 'mir' aparece em 'egal': literalmente 'isso é igual para mim'."
@@ -1959,7 +1959,7 @@
    "word": "Ich brauche einen Arzt",
    "translit": null,
    "example": "Schnell, wir brauchen einen Arzt, es ist dringend.",
-   "examplePt": "Preciso de um médico, é urgente.",
+   "examplePt": "Rápido, precisamos de um médico, é urgente.",
    "pron": "iç BRAU-che AI-nen ARTST — o 'z' soa 'ts' e 'au' soa 'áu'",
    "curiosity": "Para a médica diz-se 'die Ärztin': o feminino ganha '-in' e o trema."
   },
@@ -1967,7 +1967,7 @@
    "word": "Ich bin allergisch gegen Erdnüsse",
    "translit": null,
    "example": "Vorsicht, ich bin allergisch gegen Erdnüsse!",
-   "examplePt": "Sou alérgico a amendoim, por favor nenhum!",
+   "examplePt": "Cuidado, sou alérgico a amendoim!",
    "pron": "iç bin a-LÉR-guisch GÊ-guen ÉRT-nü-sse — 'g' duro; 'ü' = 'i' com lábios em 'u'",
    "curiosity": "'Erdnuss' é literalmente 'noz da terra' (Erde + Nuss)."
   },
@@ -1975,7 +1975,7 @@
    "word": "Ich habe einen Termin",
    "translit": null,
    "example": "Um zehn Uhr habe ich einen Termin.",
-   "examplePt": "Tenho uma consulta às dez horas.",
+   "examplePt": "Tenho um compromisso às dez horas.",
    "pron": "iç HÁ-be AI-nen ter-MÍN — a ênfase cai no fim e o 'i' é longo",
    "curiosity": "Falso amigo: 'der Termin' é compromisso marcado, não 'termo'."
   },
@@ -2142,8 +2142,8 @@
   "tr27-08": {
    "word": "ein Auge darauf haben",
    "translit": null,
-   "example": "Hast du ein Auge auf den Kuchen?",
-   "examplePt": "Você está de olho no bolo?",
+   "example": "Hab bitte ein Auge auf den Kuchen im Ofen!",
+   "examplePt": "Fique de olho no bolo no forno, por favor!",
    "pron": "ain AU-gue da-RAUF RÁ-ben — 'au' soa 'au' como em 'mau'",
    "curiosity": "'Auge' (olho) forma o plural 'Augen'; 'Augenblick' é um instante."
   },
@@ -2425,7 +2425,7 @@
    "example": "Wir verhandeln über den Preis des Autos.",
    "examplePt": "Negociamos o preço do carro.",
    "pron": "fer-RAN-deln — 'v' soa 'f', 'h' aspirado",
-   "curiosity": "A raiz 'Hand' (mão) está em verhandeln: negociar é lidar com as mãos."
+   "curiosity": "'Die Verhandlung' é a negociação; 'verhandeln über' pede acusativo: 'über den Preis'."
   },
   "tr31-04": {
    "word": "unterschreiben",
@@ -2478,8 +2478,8 @@
   "tr31-10": {
    "word": "profitieren",
    "translit": null,
-   "example": "Wer lernt, profitiert sein ganzes Leben.",
-   "examplePt": "Quem aprende lucra a vida inteira.",
+   "example": "Wer lernt, profitiert sein Leben lang.",
+   "examplePt": "Quem aprende se beneficia a vida inteira.",
    "pron": "pro-fi-TI-ren — 'ie' soa 'i' longo",
    "curiosity": "Usa 'von': 'Ich profitiere von dir' = eu me beneficio de você."
   },
@@ -2492,11 +2492,11 @@
    "curiosity": "'Ausmachen' também significa apagar a luz: o contexto decide."
   },
   "tr32-02": {
-   "word": "Was ist die Frist?",
+   "word": "Wann ist die Frist?",
    "translit": null,
-   "example": "Was ist die Frist für das Projekt?",
+   "example": "Wann ist die Frist für das Projekt?",
    "examplePt": "Qual é o prazo do projeto?",
-   "pron": "VAS ist di FRIST — 'w' soa 'v'",
+   "pron": "VAN ist di FRIST — 'w' soa 'v'",
    "curiosity": "'Frist' é prazo combinado ou legal; 'Deadline' também circula."
   },
   "tr32-03": {
@@ -2736,7 +2736,7 @@
    "translit": null,
    "example": "Die Klimaanlage ist kaputt und es ist heiß.",
    "examplePt": "O ar-condicionado quebrou e está quente.",
-   "pron": "di KLI-ma-an-la-gue ist ka-PUT — 'ß' soa 'ss'",
+   "pron": "di KLI-ma-an-la-gue ist ka-PUT — o 'u' final é curto e o 't' final é bem marcado",
    "curiosity": "'Kaputt' é um empréstimo do francês e vale para qualquer coisa quebrada."
   },
   "tr35-03": {
@@ -2767,7 +2767,7 @@
    "word": "Das Zimmer ist zu laut",
    "translit": null,
    "example": "Das Zimmer ist zu laut, ich kann nicht schlafen.",
-   "examplePt": "O quarto está alto demais, não consigo dormir.",
+   "examplePt": "O quarto está barulhento demais, não consigo dormir.",
    "pron": "das TSI-mer ist TSU LAUT — 'z' soa 'ts'",
    "curiosity": "'Zu' antes de adjetivo quer dizer demais: 'zu laut', 'zu heiß'."
   },
@@ -2790,7 +2790,7 @@
   "tr35-09": {
    "word": "Man hat mir zu viel berechnet",
    "translit": null,
-   "example": "Moment, hier stimmt etwas nicht: zu viel berechnet!",
+   "example": "Moment, hier stimmt etwas nicht. Man hat mir zu viel berechnet!",
    "examplePt": "Um momento, algo não está certo: cobraram a mais!",
    "pron": "MAN hat mir tsu FIL be-RÉÇ-net — 'v' soa 'f'",
    "curiosity": "'Rechnung' (conta) e 'rechnen' (calcular) vêm da mesma raiz."
@@ -2937,7 +2937,7 @@
    "example": "Wen verdächtigst du? Den Hund?",
    "examplePt": "Quem você suspeita? O cachorro?",
    "pron": "fer-DÉÇ-ti-guen — 'ä' soa 'é', 'v' soa 'f'",
-   "curiosity": "'Verdacht' (suspeita) está ligado a 'denken', pensar."
+   "curiosity": "'Der Verdacht' é a suspeita; 'verdächtig' é suspeito."
   },
   "tr37-08": {
    "word": "vermeiden",
@@ -3270,8 +3270,8 @@
   "tr41-09": {
    "word": "gemäß",
    "translit": null,
-   "example": "Gemäß Plan kommt der Zug um acht.",
-   "examplePt": "De acordo com o plano, o trem chega às oito.",
+   "example": "Gemäß Fahrplan kommt der Zug um acht.",
+   "examplePt": "De acordo com o horário, o trem chega às oito.",
    "pron": "ge-MÉS — 'ä' longo soa 'é', 'ß' soa 's'",
    "curiosity": "É mais formal que 'laut' e aparece em regras, leis e contratos."
   },
@@ -3304,14 +3304,14 @@
    "translit": null,
    "example": "Das ergibt keinen Sinn. Wer hat das gesagt?",
    "examplePt": "Isso não faz sentido. Quem disse isso?",
-   "pron": "das er-GIPT KAI-nen ZIN — 'z' soa 'ts' só em 'zu'; aqui 's' soa 'z'",
+   "pron": "das er-GIPT KAI-nen ZIN — o 'ei' soa 'ai' e o 's' de 'Sinn' soa 'z'",
    "curiosity": "'Sinn' é sentido, e 'Sinne' são os cinco sentidos."
   },
   "tr42-04": {
    "word": "Es lohnt sich, es zu probieren",
    "translit": null,
-   "example": "Lohnt sich der Ausflug? Ja, es lohnt sich!",
-   "examplePt": "Vale a pena o passeio? Sim, vale a pena!",
+   "example": "Eis mit Basilikum? Es lohnt sich, es zu probieren!",
+   "examplePt": "Sorvete de manjericão? Vale a pena experimentar!",
    "pron": "és LÔNT ziç és tsu pro-BI-ren — 'z' soa 'ts'",
    "curiosity": "'Lohn' é salário: o que 'lohnt sich' paga o esforço."
   },
@@ -3383,7 +3383,7 @@
    "word": "bar bezahlen",
    "translit": null,
    "example": "Hier kann man nur bar bezahlen.",
-   "examplePt": "Aqui só se pode pagar à vista.",
+   "examplePt": "Aqui só se pode pagar em dinheiro.",
    "pron": "BAR be-TSA-len — 'z' soa 'ts'",
    "curiosity": "'Bar' é dinheiro vivo e também o bar: duas palavras iguais."
   },
@@ -3428,11 +3428,11 @@
    "curiosity": "'Gebühr' é taxa de serviço; imposto é 'Steuer'."
   },
   "tr43-09": {
-   "word": "die Steuer erklären",
+   "word": "die Steuererklärung machen",
    "translit": null,
-   "example": "Im Frühling erklären viele die Steuer.",
-   "examplePt": "Na primavera, muitos declaram o imposto.",
-   "pron": "di SCHTOI-er er-KLÊ-ren — 'eu' soa 'ói'",
+   "example": "Im Frühling machen viele ihre Steuererklärung.",
+   "examplePt": "Na primavera, muitos fazem a declaração de imposto.",
+   "pron": "di SCHTÓI-er-er-KLÊ-rung MÁ-ren — 'eu' soa 'ói'; 'st' soa 'scht'",
    "curiosity": "'Das Steuer' (neutro) é o volante; 'die Steuer' (feminino) é o imposto."
   },
   "tr43-10": {
@@ -3519,7 +3519,7 @@
    "word": "wie auf Eiern gehen",
    "translit": null,
    "example": "Nach dem Streit ging ich wie auf Eiern.",
-   "examplePt": "Depois da briga, pisei em ovos.",
+   "examplePt": "Depois da briga, andei como se pisasse em ovos.",
    "pron": "vi auf AI-ern GÊ-en — 'ei' soa 'ai'",
    "curiosity": "'Ei' é ovo e o plural é 'Eier': a expressão fala de andar sobre ovos."
   },
@@ -3640,7 +3640,7 @@
    "translit": null,
    "example": "Zögerst du noch? Spring doch!",
    "examplePt": "Ainda hesita? Pule logo!",
-   "pron": "TSÖ-gern — 'ö' como 'eu' em 'peu' francês",
+   "pron": "TSÖ-gern — 'ö': 'é' com lábios em 'ô'; o 'z' soa 'ts'",
    "curiosity": "'Ohne zu zögern' é a expressão para 'sem hesitar'."
   },
   "tr46-06": {
@@ -3798,7 +3798,7 @@
   "tr48-05": {
    "word": "Das ist doch absurd!",
    "translit": null,
-   "example": "Vinte euros por uma água? Das ist doch absurd!",
+   "example": "Zwanzig Euro für ein Wasser? Das ist doch absurd!",
    "examplePt": "Vinte euros por uma água? Que absurdo!",
    "pron": "das ist DOCH ap-ZURT — 'ch' gutural, 'b' soa 'p'",
    "curiosity": "'Doch' é uma partícula de ênfase: 'Das ist doch...' = mas isso é..."

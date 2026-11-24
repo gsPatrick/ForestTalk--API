@@ -112,7 +112,7 @@
    "translit": "kǒngquè",
    "example": "孔雀打开了漂亮的尾巴。",
    "examplePt": "O pavão abriu a cauda bonita.",
-   "pron": "KRONG-tchüe — 'k' é aspirado; 'q' = 'tch'; tons 3 e 4",
+   "pron": "KONG-tchüe — 'k' aspirado (com sopro); 'q' = 'tch'; tons 3 e 4",
    "curiosity": "A expressão 孔雀开屏 descreve o pavão abrindo a cauda como um leque."
   },
   "pr02-07": {
@@ -161,7 +161,7 @@
    "example": "蜘蛛在墙角织网。",
    "examplePt": "A aranha tece uma teia no canto.",
    "pron": "djí-djú — 'zh' é um 'dj' com a língua enrolada; dois 1º tons",
-   "curiosity": "蜘蛛 é uma das poucas palavras em que o mesmo som se repete: zhī-zhū."
+   "curiosity": "蜘蛛 tem 虫 (inseto) em 蛛 e em 蜘: os dois caracteres levam a chave dos bichinhos."
   },
   "pr03-05": {
    "word": "苍蝇",
@@ -233,7 +233,7 @@
    "example": "章鱼有几条腿？",
    "examplePt": "Quantos tentáculos o polvo tem?",
    "pron": "DJANG-iü — 'zh' = 'dj' com a língua enrolada; 1º tom, 2º tom",
-   "curiosity": "Existe a palavra 章鱼 para o polvo, mas muita gente também a usa para lulas."
+   "curiosity": "O classificador usual de animais pequenos serve para o polvo: 一只章鱼 (yì zhī zhāngyú)."
   },
   "pr04-06": {
    "word": "海龟",
@@ -305,7 +305,7 @@
    "example": "西兰花是绿色的。",
    "examplePt": "O brócolis é verde.",
    "pron": "chi-lan-RRUA — 'x' = 'ch' suave; tons 1, 2 e 1",
-   "curiosity": "西兰花 quer dizer 'flor azul do Ocidente'."
+   "curiosity": "西兰花 junta 西 (oeste, ocidental), 兰 e 花 (flor): o brócolis veio de fora da China."
   },
   "pr05-07": {
    "word": "大蒜",
@@ -337,7 +337,7 @@
    "example": "夏天最想吃冰淇淋。",
    "examplePt": "No verão a vontade é de tomar sorvete.",
    "pron": "bing-tchi-LIN — 'q' = 'tch'; tons 1, 2 e 2",
-   "curiosity": "Os caracteres de 冰淇淋 são mais usados pelo som do que pelo significado."
+   "curiosity": "冰淇淋 começa com 冰 (gelo); também se escreve 冰激凌, com o mesmo som."
   },
   "pr06-03": {
    "word": "饼干",
@@ -391,9 +391,9 @@
    "word": "厨房",
    "translit": "chúfáng",
    "example": "妈妈在厨房做饭。",
-   "examplePt": "Mamãe cozinha na cozinha.",
+   "examplePt": "Mamãe está fazendo comida na cozinha.",
    "pron": "tchu-FANG — 'ch' enrolado; 2º tom sobe duas vezes",
-   "curiosity": "厨房 junta 厨 (cozinhar) e 房 (cômodo/casa)."
+   "curiosity": "厨房 junta 厨 (cozinha, cozinhar) e 房 (cômodo/casa)."
   },
   "pr07-02": {
    "word": "卫生间",
@@ -457,7 +457,7 @@
    "example": "小猫躺在床上。",
    "examplePt": "O gatinho está deitado na cama.",
    "pron": "tchuang — 'ch' enrolado; 2º tom sobe",
-   "curiosity": "床 aparece em 起床 (levantar da cama), verbo que você já viu."
+   "curiosity": "床 aparece em 起床 (levantar da cama) e 床单 (lençol)."
   },
   "pr08-02": {
    "word": "桌子",
@@ -630,16 +630,16 @@
   "pr10-07": {
    "word": "腿",
    "translit": "tuǐ",
-   "example": "我的腿跑得很累。",
-   "examplePt": "Minhas pernas estão cansadas de correr.",
+   "example": "跑了一天，我的腿好累。",
+   "examplePt": "Depois de correr o dia todo, minhas pernas estão muito cansadas.",
    "pron": "TUEI — 't' é aspirado; 3º tom desce e sobe",
    "curiosity": "腿 também designa a perna de uma mesa ou cadeira: 桌子腿."
   },
   "pr10-08": {
    "word": "牙齿",
    "translit": "yáchǐ",
-   "example": "每天要刷牙齿吗？",
-   "examplePt": "É preciso escovar os dentes todo dia?",
+   "example": "你的牙齿疼吗？",
+   "examplePt": "Seus dentes doem?",
    "pron": "IA-tchi — 'ch' enrolado; 2º tom e 3º tom",
    "curiosity": "Na fala, os chineses também dizem só 牙 (dente)."
   },
@@ -809,7 +809,7 @@
    "example": "排球要用手打。",
    "examplePt": "No vôlei se bate com a mão.",
    "pron": "PAI-tchiôu — 'p' aspirado; 'q' = 'tch'; 2º tom duas vezes",
-   "curiosity": "排球 é 'bola alinhada'; 排 também aparece em 排队 (fazer fila)."
+   "curiosity": "排 também aparece em 排队 (fazer fila) e 排名 (classificação)."
   },
   "pr13-06": {
    "word": "骑行",
@@ -823,7 +823,7 @@
    "word": "滑雪",
    "translit": "huáxuě",
    "example": "我第一次学滑雪。",
-   "examplePt": "Aprendo esquiar pela primeira vez.",
+   "examplePt": "É a minha primeira vez aprendendo a esquiar.",
    "pron": "RRUA-chüê — 'h' aspirado; 'xu' = 'chü'; 2º e 3º tons",
    "curiosity": "滑雪 é 'deslizar na neve': 滑 (deslizar) + 雪 (neve)."
   },
@@ -873,7 +873,7 @@
    "example": "他把骰子扔在桌上。",
    "examplePt": "Ele jogou o dado na mesa.",
    "pron": "TÔU-dze — 't' aspirado; 2º tom e sílaba leve",
-   "curiosity": "Os dados chineses já existem há milênios, e 骰子 também é o nome de um jogo."
+   "curiosity": "骰子 leva o radical 骨 (osso): antigamente os dados eram feitos de osso."
   },
   "pr14-06": {
    "word": "皮球",
@@ -1105,7 +1105,7 @@
    "example": "这只猫很小。",
    "examplePt": "Este gato é bem pequeno.",
    "pron": "CHIAU — 'x' = 'ch' suave; 3º tom desce e sobe",
-   "curiosity": "小 aparece em apelidos de afeto, como 小宝 (bebê, benzinho)."
+   "curiosity": "小 aparece em 小朋友 (criança, um jeito carinhoso de falar) e 小心 (cuidado)."
   },
   "pr18-03": {
    "word": "长",
@@ -1182,8 +1182,8 @@
   "pr19-04": {
    "word": "老",
    "translit": "lǎo",
-   "example": "我的爷爷很老了。",
-   "examplePt": "Meu avô já é bem velho.",
+   "example": "这棵树很老了。",
+   "examplePt": "Esta árvore é bem velha.",
    "pron": "LAU — 3º tom desce e sobe",
    "curiosity": "老 é respeitoso: 老师 (professor) usa 老, que dá ideia de experiência."
   },
@@ -1241,7 +1241,7 @@
    "example": "那辆车是银色的。",
    "examplePt": "Aquele carro é prateado.",
    "pron": "IN-sê — 2º tom e 4º tom",
-   "curiosity": "银 (prata) forma 银行, o banco, onde antes se guardava prata."
+   "curiosity": "银 (prata) forma 银行 (banco) e 银河 (Via Láctea)."
   },
   "pr20-04": {
    "word": "米色",
@@ -1313,7 +1313,7 @@
    "example": "小提琴的声音很美。",
    "examplePt": "O som do violino é lindo.",
    "pron": "CHIAU-ti-TCHIN — 'x' = 'ch' suave; 3º, 2º e 2º tons",
-   "curiosity": "小提琴 é 'violino pequeno' porque 提 vem de 'puxar' o arco."
+   "curiosity": "小提琴 tem irmãos com o tamanho no nome: 中提琴 (viola) e 大提琴 (violoncelo)."
   },
   "pr21-05": {
    "word": "小号",
@@ -1321,7 +1321,7 @@
    "example": "他吹小号吹得很好。",
    "examplePt": "Ele toca trompete muito bem.",
    "pron": "CHIAU-rrau — 'h' aspirado; 3º tom e 4º tom",
-   "curiosity": "小号 é o 'número pequeno' entre os metais: 小 (pequeno) + 号 (corneta)."
+   "curiosity": "号 aparece em nomes de metais: 小号 (trompete), 圆号 (trompa) e 长号 (trombone)."
   },
   "pr21-06": {
    "word": "长笛",
@@ -1401,7 +1401,7 @@
    "example": "磁铁能吸住钉子吗？",
    "examplePt": "O ímã consegue prender um prego?",
    "pron": "TSÍ-tiê — 'c' = 'ts' aspirado; 2º tom e 3º tom",
-   "curiosity": "A bússola é uma invenção chinesa, e os antigos usavam 磁 (magnetita) para fazê-la."
+   "curiosity": "磁铁 junta 磁 (magnético) e 铁 (ferro): é o ímã que gruda no ferro."
   },
   "pr22-08": {
    "word": "水桶",
@@ -1409,7 +1409,7 @@
    "example": "水桶里装满了水。",
    "examplePt": "O balde está cheio de água.",
    "pron": "SHUEI-tong — 3º tom desce e sobe; 3º tom",
-   "curiosity": "水桶 é 'tubo de água': 水 (água) + 桶 (balde, barril)."
+   "curiosity": "水桶 é 'balde de água': 水 (água) + 桶 (balde, barril); não confunda 桶 com 筒 (tubo)."
   },
   "pr23-01": {
    "word": "电脑",
@@ -1582,8 +1582,8 @@
   "pr25-06": {
    "word": "疼痛",
    "translit": "téngtòng",
-   "example": "你哪里疼痛吗？",
-   "examplePt": "Você sente dor em algum lugar?",
+   "example": "你的背部疼痛吗？",
+   "examplePt": "Suas costas doem?",
    "pron": "TÊNG-tong — 2º tom e 4º tom",
    "curiosity": "疼 sozinho é mais comum no dia a dia; 疼痛 é mais formal."
   },
@@ -1593,7 +1593,7 @@
    "example": "他的腿受伤了，要用腋拐走路。",
    "examplePt": "Ele machucou a perna e anda de muletas.",
    "pron": "iê-GUAI — 4º tom que cai e 3º tom que desce e sobe",
-   "curiosity": "腋 é 'axila' e 拐 é 'apoiar-se': a muleta que se apoia debaixo do braço."
+   "curiosity": "No dia a dia também se diz 拐杖 (guǎizhàng) para bengala ou muleta."
   },
   "pr25-08": {
    "word": "听诊器",
@@ -1703,7 +1703,7 @@
    "word": "字典",
    "translit": "zìdiǎn",
    "example": "他在字典里查了这个字。",
-   "examplePt": "Ele procurou esta palavra no dicionário.",
+   "examplePt": "Ele procurou este caractere no dicionário.",
    "pron": "dzi-dién — 4º tom (cai) e 3º tom; o 'z' é um 'dz'",
    "curiosity": "字 é 'caractere' e 典 é 'obra de referência': 字典 é o dicionário de caracteres."
   },
@@ -1865,7 +1865,7 @@
    "example": "请把垃圾扔进桶里。",
    "examplePt": "Jogue o lixo na lixeira, por favor.",
    "pron": "lá-dji — 1º tom (alto) nas duas sílabas",
-   "curiosity": "Em grandes cidades chinesas, 垃圾分类 (separar o lixo) é obrigatório desde 2019."
+   "curiosity": "垃圾分类 (lājī fēnlèi) quer dizer 'separar o lixo' e aparece em muitas campanhas."
   },
   "pr30-02": {
    "word": "回收",
@@ -1894,7 +1894,7 @@
   "pr30-05": {
    "word": "石油",
    "translit": "shíyóu",
-   "example": "石油是从地下来的。",
+   "example": "石油来自地下。",
    "examplePt": "O petróleo vem do subsolo.",
    "pron": "chrr-iôu — 2º tom (sobe) nas duas sílabas",
    "curiosity": "石油 é 'óleo de pedra': 石 (pedra) + 油 (óleo)."
@@ -2177,13 +2177,13 @@
    "example": "有轨电车沿着铁轨慢慢走。",
    "examplePt": "O bonde anda devagar pelos trilhos.",
    "pron": "iôu-guêi-dién-tchê — 3º, 3º, 4º e 1º tom",
-   "curiosity": "有轨电车 é 'carro elétrico com trilho'; em Hong Kong é o 叮叮车, nome imitando o sino."
+   "curiosity": "有轨电车 é 'carro elétrico com trilho': 有 (ter) + 轨 (trilho) + 电车 (carro elétrico)."
   },
   "pr35-01": {
    "word": "鼠标",
    "translit": "shǔbiāo",
    "example": "我的鼠标没电了。",
-   "examplePt": "O meu mouse ficou sem bateria.",
+   "examplePt": "Meu mouse ficou sem bateria.",
    "pron": "chu-biáo — 3º tom (desce e sobe) e 1º tom",
    "curiosity": "鼠 é 'rato': em chinês, o bicho e o mouse do computador têm o mesmo nome 鼠."
   },
@@ -2439,7 +2439,7 @@
    "word": "购物车",
    "translit": "gòuwùchē",
    "example": "弟弟坐在购物车里。",
-   "examplePt": "Meu irmão sentou no carrinho de compras.",
+   "examplePt": "Meu irmãozinho sentou no carrinho de compras.",
    "pron": "gôu-u-tchê — 4º, 4º e 1º tom",
    "curiosity": "购物车 é 'carro de comprar coisas': 购 (comprar) + 物 (coisa) + 车."
   },
@@ -3017,7 +3017,7 @@
    "example": "汤里再加一点胡椒。",
    "examplePt": "Ponha mais um pouco de pimenta na sopa.",
    "pron": "rru-djiáo — 2º tom (sobe) e 1º tom (alto)",
-   "curiosity": "胡 marcava o que veio do Ocidente pela Rota da Seda: 胡椒 e 胡萝卜 (cenoura)."
+   "curiosity": "椒 é 'pimenta': 胡椒 (pimenta-do-reino), 辣椒 (pimenta ardida) e 花椒 (pimenta de Sichuan)."
   },
   "pr48-02": {
    "word": "蜂蜜",
@@ -3057,7 +3057,7 @@
    "example": "他最爱吃花生。",
    "examplePt": "Ele adora comer amendoim.",
    "pron": "rruá-chêng — 1º tom (alto) nas duas sílabas",
-   "curiosity": "花生 é 'flor que nasce': 花 (flor) + 生 (nascer)."
+   "curiosity": "花生油 (óleo de amendoim) é muito usado na cozinha chinesa."
   },
   "pr48-07": {
    "word": "牛油果",

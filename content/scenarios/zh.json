@@ -290,14 +290,14 @@
        "hint": "Não responde à pergunta: diga o seu número."
       },
       {
-       "text": "是138-0013-8000。你呢？",
+       "text": "是555-0123。你呢？",
        "textPt": "É 555-0123. E o seu?",
-       "translit": "Shì yāo sān bā, líng líng yāo sān, bā líng líng líng. Nǐ ne?"
+       "translit": "Shì wǔ wǔ wǔ, líng yāo èr sān. Nǐ ne?"
       },
       {
-       "text": "是138-0013-8000。你吗？",
+       "text": "是555-0123。你吗？",
        "textPt": "É 555-0123. E você?",
-       "translit": "Shì yāo sān bā, líng líng yāo sān, bā líng líng líng. Nǐ ma?",
+       "translit": "Shì wǔ wǔ wǔ, líng yāo èr sān. Nǐ ma?",
        "hint": "Para devolver a pergunta use «你呢?» (e você?). «你吗?» não funciona assim."
       }
      ]
@@ -409,9 +409,9 @@
    "npcName": "刘静",
    "turns": [
     {
-     "npc": "早上好。您能汇报一下项目进展吗？",
+     "npc": "早上好。你能汇报一下项目进展吗？",
      "npcPt": "Bom dia. Pode nos atualizar sobre o projeto?",
-     "translit": "Zǎoshang hǎo. Nín néng huìbào yíxià xiàngmù jìnzhǎn ma?",
+     "translit": "Zǎoshang hǎo. Nǐ néng huìbào yíxià xiàngmù jìnzhǎn ma?",
      "options": [
       {
        "text": "当然。项目进展顺利。",
@@ -468,9 +468,9 @@
        "hint": "«同意» já é verbo: diga «我同意». Não use «是» antes, como no português «eu sou de acordo»."
       },
       {
-       "text": "我觉得清晰又现代。",
+       "text": "我觉得简洁又现代。",
        "textPt": "Acho que está claro e moderno.",
-       "translit": "Wǒ juéde qīngxī yòu xiàndài."
+       "translit": "Wǒ juéde jiǎnjié yòu xiàndài."
       },
       {
        "text": "不知道，随便。",
@@ -635,9 +635,9 @@
      ]
     },
     {
-     "npc": "您穿多大的？",
+     "npc": "您穿多大号的？",
      "npcPt": "Qual é o seu tamanho?",
-     "translit": "Nín chuān duō dà de?",
+     "translit": "Nín chuān duō dà hào de?",
      "options": [
       {
        "text": "我二十岁。",
@@ -654,7 +654,7 @@
       {
        "text": "中号吧。",
        "textPt": "Médio, acho.",
-       "translit": "Zhōng hào ba."
+       "translit": "Zhōnghào ba."
       }
      ]
     },
@@ -765,16 +765,16 @@
      "translit": "Ránhòu zài yínháng nàr wǎng zuǒ guǎi.",
      "options": [
       {
-       "text": "我往右拐。",
-       "textPt": "Vire esquerda é banco?",
-       "translit": "Wǒ wǎng yòu guǎi.",
-       "hint": "Ela disse «左» (esquerda), não «右» (direita)."
-      },
-      {
        "text": "左拐是银行？",
-       "textPt": "Eu viro à direita.",
+       "textPt": "Vire esquerda é banco?",
        "translit": "Zuǒ guǎi shì yínháng?",
        "hint": "Pergunta confusa. Confirme: «在银行左拐，对吗？»"
+      },
+      {
+       "text": "我往右拐。",
+       "textPt": "Eu viro à direita.",
+       "translit": "Wǒ wǎng yòu guǎi.",
+       "hint": "Ela disse «左» (esquerda), não «右» (direita)."
       },
       {
        "text": "银行那儿左拐，明白了。",
@@ -914,9 +914,9 @@
    "npcName": "吴女士",
    "turns": [
     {
-     "npc": "谢谢您来。请介绍一下自己。",
+     "npc": "谢谢您今天过来。请介绍一下自己。",
      "npcPt": "Obrigada por vir. Fale sobre você.",
-     "translit": "Xièxie nín lái. Qǐng jièshào yíxià zìjǐ.",
+     "translit": "Xièxie nín jīntiān guòlái. Qǐng jièshào yíxià zìjǐ.",
      "options": [
       {
        "text": "我二十五岁，喜欢披萨。",

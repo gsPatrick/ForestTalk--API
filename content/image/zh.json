@@ -409,7 +409,7 @@
   },
   "im11-02": {
    "word": "企鹅",
-   "translit": "qǐé"
+   "translit": "qǐ'é"
   },
   "im11-03": {
    "word": "猫头鹰",
@@ -756,8 +756,8 @@
    "translit": "diànchí"
   },
   "im19-09": {
-   "word": "毛绒熊",
-   "translit": "máoróngxióng"
+   "word": "泰迪熊",
+   "translit": "tàidíxióng"
   },
   "im19-10": {
    "word": "磁铁",
@@ -772,8 +772,8 @@
    "translit": "qiānbǐ"
   },
   "im20-03": {
-   "word": "钢笔",
-   "translit": "gāngbǐ"
+   "word": "圆珠笔",
+   "translit": "yuánzhūbǐ"
   },
   "im20-04": {
    "word": "笔记本",
@@ -1080,8 +1080,8 @@
    "translit": "chātóu"
   },
   "im27-10": {
-   "word": "游戏手柄",
-   "translit": "yóuxì shǒubǐng"
+   "word": "摇杆",
+   "translit": "yáogǎn"
   },
   "im28-01": {
    "word": "吉他",
@@ -1360,8 +1360,8 @@
    "translit": "pēnquán"
   },
   "im34-10": {
-   "word": "石像",
-   "translit": "shíxiàng"
+   "word": "复活节岛石像",
+   "translit": "fùhuójié dǎo shíxiàng"
   },
   "im35-01": {
    "word": "行星",
@@ -1420,8 +1420,8 @@
    "translit": "chūzūchē"
   },
   "im36-05": {
-   "word": "电动滑板车",
-   "translit": "diàndòng huábǎnchē"
+   "word": "踏板摩托车",
+   "translit": "tàbǎn mótuōchē"
   },
   "im36-06": {
    "word": "拖拉机",
@@ -1432,8 +1432,8 @@
    "translit": "dìtiě"
   },
   "im36-08": {
-   "word": "踏板车",
-   "translit": "tàbǎnchē"
+   "word": "滑板车",
+   "translit": "huábǎnchē"
   },
   "im36-09": {
    "word": "降落伞",
@@ -1484,8 +1484,8 @@
    "translit": "dùncài"
   },
   "im38-01": {
-   "word": "羊角面包",
-   "translit": "yángjiǎo miànbāo"
+   "word": "牛角包",
+   "translit": "niújiǎobāo"
   },
   "im38-02": {
    "word": "椒盐卷饼",
@@ -1496,20 +1496,20 @@
    "translit": "bèiguǒ"
   },
   "im38-04": {
-   "word": "煎饼",
-   "translit": "jiānbǐng"
+   "word": "薄煎饼",
+   "translit": "báojiānbǐng"
   },
   "im38-05": {
    "word": "华夫饼",
    "translit": "huáfūbǐng"
   },
   "im38-06": {
-   "word": "墨西哥卷饼",
-   "translit": "mòxīgē juǎnbǐng"
+   "word": "塔可",
+   "translit": "tǎkě"
   },
   "im38-07": {
-   "word": "卷饼",
-   "translit": "juǎnbǐng"
+   "word": "墨西哥卷饼",
+   "translit": "mòxīgē juǎnbǐng"
   },
   "im38-08": {
    "word": "三明治",
@@ -1528,8 +1528,8 @@
    "translit": "bùdīng"
   },
   "im39-02": {
-   "word": "馅饼",
-   "translit": "xiànbǐng"
+   "word": "派",
+   "translit": "pài"
   },
   "im39-03": {
    "word": "纸杯蛋糕",
@@ -1672,8 +1672,8 @@
    "translit": "dàxīngxing"
   },
   "im42-08": {
-   "word": "猩猩",
-   "translit": "xīngxing"
+   "word": "红毛猩猩",
+   "translit": "hóngmáo xīngxing"
   },
   "im42-09": {
    "word": "豹子",
@@ -1752,16 +1752,16 @@
    "translit": "chújú"
   },
   "im44-08": {
-   "word": "木槿花",
-   "translit": "mùjǐnhuā"
+   "word": "扶桑花",
+   "translit": "fúsānghuā"
   },
   "im44-09": {
    "word": "落叶",
    "translit": "luòyè"
   },
   "im44-10": {
-   "word": "枯花",
-   "translit": "kūhuā"
+   "word": "枯萎的花",
+   "translit": "kūwěi de huā"
   },
   "im45-01": {
    "word": "领带",
@@ -1792,8 +1792,8 @@
    "translit": "xuēzi"
   },
   "im45-08": {
-   "word": "拖鞋",
-   "translit": "tuōxié"
+   "word": "人字拖",
+   "translit": "rénzìtuō"
   },
   "im45-09": {
    "word": "帽子",
@@ -1872,8 +1872,8 @@
    "translit": "qiúmén"
   },
   "im47-08": {
-   "word": "高尔夫球旗",
-   "translit": "gāo'ěrfūqiú qí"
+   "word": "高尔夫旗杆",
+   "translit": "gāo'ěrfū qígān"
   },
   "im47-09": {
    "word": "悠悠球",
@@ -1920,8 +1920,8 @@
    "translit": "huàbǐ"
   },
   "im48-10": {
-   "word": "喇叭",
-   "translit": "lǎba"
+   "word": "号角",
+   "translit": "hàojiǎo"
   },
   "im49-01": {
    "word": "盾牌",

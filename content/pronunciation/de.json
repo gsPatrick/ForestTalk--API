@@ -49,7 +49,7 @@
    "example": "Der Clown war heute richtig witzig.",
    "examplePt": "O palhaço foi muito divertido hoje.",
    "pron": "VIT-siç — 'w' soa 'v', 'tz' soa 'ts' e o 'ig' final é 'i' + 'ch' suave",
-   "curiosity": "Witzig vem de Witz (piada): é quem faz a gente rir, e 'Witz' é uma piada."
+   "curiosity": "Witzig vem de Witz (piada): é quem faz a gente rir."
   },
   "sp01-07": {
    "word": "klug",
@@ -88,7 +88,7 @@
    "translit": null,
    "example": "Mit Geduld lernt man jede Sprache.",
    "examplePt": "Com paciência se aprende qualquer língua.",
-   "pron": "ge-DULT — o 'u' é longo e o 'd' final soa 't'",
+   "pron": "ge-DULT — o 'u' é curto e o 'd' final soa 't'",
    "curiosity": "Geduld está ligada ao verbo 'dulden', que significa suportar, tolerar."
   },
   "sp02-04": {
@@ -119,7 +119,7 @@
    "word": "der Respekt",
    "translit": null,
    "example": "Respekt, das hast du super gemacht!",
-   "examplePt": "Respeito, você mandou muito bem!",
+   "examplePt": "Tiro o chapéu, você mandou muito bem!",
    "pron": "re-SPÉKT — o 'e' é aberto e o 't' final é pronunciado",
    "curiosity": "Dizer só 'Respekt!' é um elogio informal para quem fez algo difícil."
   },
@@ -543,7 +543,7 @@
    "word": "das Kaufhaus",
    "translit": null,
    "example": "Im Kaufhaus gibt es drei Etagen.",
-   "examplePt": "No shopping há três andares.",
+   "examplePt": "Na loja de departamentos há três andares.",
    "pron": "KAUF-haus — 'au' soa 'áu' e o 'h' é soprado",
    "curiosity": "Kaufhaus é a 'casa de compras': kaufen significa comprar."
   },
@@ -648,7 +648,7 @@
    "translit": null,
    "example": "Ja, gern, ich habe richtig Hunger.",
    "examplePt": "Sim, com prazer, estou com muita fome.",
-   "pron": "MÖRCH-test du ET-vas da-FÔN — 'ö' é um 'ê' com lábios em 'o'",
+   "pron": "MÖÇ-test du ET-vas da-FÔN — 'ö' é um 'ê' com lábios em 'o' e 'ch' é suave",
    "curiosity": "'Möchtest du' é o jeito educado de oferecer; 'willst du' soa mais direto."
   },
   "sp11-02": {
@@ -814,7 +814,7 @@
   "sp13-06": {
    "word": "Sehr gut",
    "translit": null,
-   "example": "Sehr gut, du hast alles richtig.",
+   "example": "Sehr gut, du hast alles richtig gemacht.",
    "examplePt": "Muito bem, você acertou tudo.",
    "pron": "ZÊR GUT — o 'e' é longo e o 'g' é de 'gato'",
    "curiosity": "Nas escolas alemãs, 'sehr gut' é a nota 1, a melhor de todas."
@@ -974,7 +974,7 @@
   "sp16-02": {
    "word": "Welches Gleis?",
    "translit": null,
-   "example": "Welches Gleis hat der Regionalzug?",
+   "example": "Auf welchem Gleis fährt der Regionalzug?",
    "examplePt": "Qual é a plataforma do trem regional?",
    "pron": "VEL-çes GLAIS — 'ch' suave e 'ei' soa 'ái'",
    "curiosity": "Nas estações alemãs, a plataforma é indicada pelo número do 'Gleis' (trilho)."
@@ -1049,7 +1049,7 @@
    "example": "Noch ein bisschen Suppe, bitte.",
    "examplePt": "Mais um pouco de sopa, por favor.",
    "pron": "noch ain BIS-çen — 'ss' é um 's' e o 'chen' leva 'ch' suave",
-   "curiosity": "'Bisschen' vem de 'Biss' (mordida): é um 'bocadinho'."
+   "curiosity": "'Bisschen' é o diminutivo de 'Bissen' (bocado): um 'pedacinho'."
   },
   "sp17-04": {
    "word": "Für mich auch",
@@ -1206,7 +1206,7 @@
   "sp19-07": {
    "word": "Magst du Musik?",
    "translit": null,
-   "example": "Jeden Tag höre ich Lieder.",
+   "example": "Ja, jeden Tag höre ich Lieder.",
    "examplePt": "Sim, escuto canções todo dia.",
    "pron": "MAKST du mu-ZIK — o 'g' antes de 's' soa 'k'",
    "curiosity": "'Mögen' tem 'mag' no singular: ich mag, du magst, er mag."
@@ -1352,7 +1352,7 @@
    "translit": null,
    "example": "Klar, ich habe gleich Zeit.",
    "examplePt": "Claro, já tenho tempo.",
-   "pron": "ich MUS mit dir SCHPRE-chen — 'sp' soa 'schp' e 'ch' é áspero",
+   "pron": "ich MUS mit dir SCHPRE-çen — 'sp' soa 'schp' e o 'ch' depois de 'e' é suave",
    "curiosity": "'Müssen' é irregular: ich muss, du musst, er muss."
   },
   "sp22-02": {
@@ -1360,7 +1360,7 @@
    "translit": null,
    "example": "Ja, morgen um zehn passt gut.",
    "examplePt": "Sim, amanhã às dez serve bem.",
-   "pron": "kan ich ain ge-SCHPRÉCH fer-AIN-ba-ren — 'v' soa 'f' e 'ä' soa 'é'",
+   "pron": "kan ich ain ge-SCHPRÉÇ fer-AIN-ba-ren — 'v' soa 'f', 'ä' soa 'é' e o 'ch' final é suave",
    "curiosity": "'Einen Termin vereinbaren' é o jeito formal de marcar um compromisso."
   },
   "sp22-03": {
@@ -1400,7 +1400,7 @@
    "translit": null,
    "example": "Gut, ich schreibe die Punkte auf.",
    "examplePt": "Bom, eu anoto os pontos.",
-   "pron": "GUÊ-en vir den PLAN ge-MAIN-zam DURCH — 'ch' final áspero",
+   "pron": "GUÊ-en vir den PLAN ge-MAIN-zam DURÇ — o 'ch' final é suave",
    "curiosity": "'Durchgehen' é separável: rever algo ponto a ponto."
   },
   "sp22-08": {
@@ -1472,7 +1472,7 @@
    "translit": null,
    "example": "Meine Schwester ist genau umgekehrt.",
    "examplePt": "Minha irmã é exatamente o contrário.",
-   "pron": "ich MAK HUN-de LI-ba als KA-tsen — 'z' soa 'ts' e 'ß' soa 's'",
+   "pron": "ich MAK HUN-de LI-ba als KA-tsen — 'z' soa 'ts' e o 'er' final soa 'a'",
    "curiosity": "Depois de 'lieber' vem 'als' (do que): 'lieber als', nunca 'wie'."
   },
   "sp24-01": {
@@ -1608,7 +1608,7 @@
    "translit": null,
    "example": "Ganz meinerseits, wie war die Anreise?",
    "examplePt": "Igualmente, como foi a viagem?",
-   "pron": "FROIT mich, dich KE-nen-tsu-LER-nen — 'eu' soa 'ói'; 'ch' é um 'r' suave",
+   "pron": "FROIT miç, diç KE-nen-tsu-LER-nen — 'eu' soa 'ói'; 'ch' é o som suave de 'ich'",
    "curiosity": "'Kennen' é conhecer pessoas ou lugares; 'wissen' é saber um fato."
   },
   "sp26-02": {
@@ -1616,7 +1616,7 @@
    "translit": null,
    "example": "Gern, ich kenne ein nettes Café.",
    "examplePt": "Com prazer, conheço um café simpático.",
-   "pron": "MÖCH-test du AI-nen KA-fê mit mir TRIN-ken — 'ö' é 'é' com lábios em 'o'",
+   "pron": "MÖÇ-test du AI-nen KA-fe mit mir TRIN-ken — 'ö' é um 'ê' com lábios em 'o'",
    "curiosity": "'Kaffee' leva a força na 1ª sílaba; o lugar 'Café' na 2ª."
   },
   "sp26-03": {
@@ -1624,7 +1624,7 @@
    "translit": null,
    "example": "Natürlich, das würde mich sehr freuen.",
    "examplePt": "Claro, isso me deixaria muito feliz.",
-   "pron": "KÖ-nen vir FROIN-de zain — 'w' soa 'v', 'ei' soa 'ai'",
+   "pron": "KÖ-nen vir FROIN-de zain — 'w' soa 'v', 'eu' soa 'ói' e 'ei' soa 'ái'",
    "curiosity": "'Mein Freund' pode ser meu amigo ou meu namorado; o contexto decide."
   },
   "sp26-04": {
@@ -1632,7 +1632,7 @@
    "translit": null,
    "example": "Gern, ich rufe dich morgen an.",
    "examplePt": "Com prazer, ligo para você amanhã.",
-   "pron": "las uns Ö-fter RÊ-den — 'ö' é 'é' com lábios em 'o'",
+   "pron": "las uns Ö-fter RÊ-den — 'ö' é um 'ê' com lábios em 'o'",
    "curiosity": "'Lass uns' mais verbo é o jeito mais comum de dizer 'vamos'."
   },
   "sp26-05": {
@@ -1656,7 +1656,7 @@
    "translit": null,
    "example": "Fand ich auch, bis bald!",
    "examplePt": "Achei também, até logo!",
-   "pron": "es var schön, mit dir tsu RÊ-den — 'z' soa 'ts'; 'ö' é 'é' arredondado",
+   "pron": "es var schön, mit dir tsu RÊ-den — 'z' soa 'ts'; 'ö' é um 'ê' com lábios em 'o'",
    "curiosity": "'Schön' vale para bonito e também para agradável: 'schönes Wochenende!'"
   },
   "sp26-08": {
@@ -1688,7 +1688,7 @@
    "translit": null,
    "example": "Danke, hier ist es richtig gemütlich.",
    "examplePt": "Obrigado, aqui é bem aconchegante.",
-   "pron": "tsets dich doch HIR-hêr — 'z' soa 'ts'; 'ch' é um 'r' soprado",
+   "pron": "tsets diç doç HIR-hêr — 'z' soa 'ts'; 'ch' é o som suave de 'ich'",
    "curiosity": "'Doch' suaviza o convite: não tem tradução exata, dá um tom amigável."
   },
   "sp27-04": {
@@ -2080,7 +2080,7 @@
    "translit": null,
    "example": "Ja, das geht überall.",
    "examplePt": "Sim, dá para pagar em qualquer lugar.",
-   "pron": "kan ich mit KAR-te TSA-len — 'z' soa 'ts'",
+   "pron": "NÊMT ir AUCH KAR-ten — 'eh' é um 'ê' longo e o 'ch' de 'auch' é áspero",
    "curiosity": "Em muitos lugares alemães ainda se prefere dinheiro vivo."
   },
   "sp33-05": {
@@ -2135,7 +2135,7 @@
    "word": "Mein Koffer ist nicht angekommen",
    "translit": null,
    "example": "Wir suchen ihn sofort für dich.",
-   "examplePt": "Vamos procurá-la já para você.",
+   "examplePt": "Vamos procurá-lo já para você.",
    "pron": "main KO-fer ist nicht AN-ge-ko-men — 'ei' soa 'ai'; 'ch' suave",
    "curiosity": "'Ankommen' é separável: 'Wir kommen um acht an'; no particípio, 'angekommen'."
   },
@@ -2174,7 +2174,7 @@
   "sp34-08": {
    "word": "Ich gehe durch den Zoll",
    "translit": null,
-   "example": "Hast du etwas zu verzollen?",
+   "example": "Haben Sie etwas zu verzollen?",
    "examplePt": "Você tem algo a declarar?",
    "pron": "ich GÊ-e durch den tsol — 'z' soa 'ts'; 'ch' soprado",
    "curiosity": "'Zoll' é alfândega e também polegada, a unidade de medida."
@@ -2204,11 +2204,11 @@
    "curiosity": "'Kein' nega substantivos: 'kein Wasser' é 'nenhuma água'."
   },
   "sp35-04": {
-   "word": "Kannst du mir ein Taxi rufen?",
+   "word": "Können Sie mir ein Taxi rufen?",
    "translit": null,
    "example": "Natürlich, in fünf Minuten ist es da.",
    "examplePt": "Claro, em cinco minutos ele chega.",
-   "pron": "kanst du mir ain TA-ksi RU-fen — 'x' soa 'ks'",
+   "pron": "KÖ-nen zi mir ain TA-ksi RU-fen — 'x' soa 'ks'",
    "curiosity": "'Rufen' é chamar; 'anrufen' é ligar para alguém."
   },
   "sp35-05": {
@@ -2534,7 +2534,7 @@
   "sp40-05": {
    "word": "Wann kann ich anfangen?",
    "translit": null,
-   "example": "Ab dem ersten des Monats.",
+   "example": "Ab dem Ersten des Monats.",
    "examplePt": "A partir do primeiro do mês.",
    "pron": "van kan ich AN-fan-gen — 'w' soa 'v'",
    "curiosity": "'Wann' é quando (tempo); 'wenn' é se ou sempre que."
@@ -2732,11 +2732,11 @@
    "curiosity": "'Spaß' tem 'ß'; na Suíça se escreve 'Spass'."
   },
   "sp43-06": {
-   "word": "Warum schaust du so müde?",
+   "word": "Warum siehst du so müde aus?",
    "translit": null,
    "example": "Ich habe die ganze Nacht gelernt.",
    "examplePt": "Estudei a noite inteira.",
-   "pron": "va-RUM schaust du zô MÜ-de — 'w' soa 'v'; 'ü'",
+   "pron": "va-RUM zist du zô MÜ-de aus — 'w' soa 'v'; 'ü' é um 'i' com lábios em 'u'",
    "curiosity": "'Müde' é cansado ou com sono; 'schläfrig' é sonolento."
   },
   "sp43-07": {

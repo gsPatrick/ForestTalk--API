@@ -574,15 +574,15 @@
   "tf08-02": {
    "word": "さようなら",
    "translit": "sayōnara",
-   "example": "さようなら、また来週！",
-   "examplePt": "Tchau, até a semana que vem!",
+   "example": "先生、さようなら！",
+   "examplePt": "Tchau, professor!",
    "pron": "sa-yô-NA-ra — 'yō' longo",
    "curiosity": "さようなら soa como despedida longa; amigos dizem 'ja ne' (じゃあね)."
   },
   "tf08-03": {
    "word": "おはよう",
    "translit": "ohayō",
-   "example": "おはよう、よく眠れましたか？",
+   "example": "おはよう、よく眠れた？",
    "examplePt": "Bom dia, dormiu bem?",
    "pron": "o-ha-YÔ — o 'ō' final é longo",
    "curiosity": "おはよう vem de 'cedo' (早い); a versão educada é おはようございます."
@@ -606,8 +606,8 @@
   "tf08-06": {
    "word": "お元気ですか",
    "translit": "ogenki desu ka",
-   "example": "最近、調子はどうですか？",
-   "examplePt": "Como você tem passado ultimamente?",
+   "example": "お久しぶりです。お元気ですか？",
+   "examplePt": "Quanto tempo! Como você está?",
    "pron": "o-GEN-ki DES ka — o 'u' de 'desu' quase some",
    "curiosity": "Japoneses perguntam お元気ですか a quem não veem há tempo, não nos encontros diários."
   },
@@ -633,15 +633,15 @@
    "example": "日本へようこそ！",
    "examplePt": "Bem-vindo ao Japão!",
    "pron": "yô-KO-so — o 'yō' é longo",
-   "curiosity": "Nos aeroportos, o cartaz 'Yōkoso Nippon' dá boas-vindas aos visitantes."
+   "curiosity": "ようこそ vale para receber alguém em casa, no país ou num evento; nas lojas se ouve いらっしゃいませ."
   },
   "tf08-10": {
    "word": "良い週末を",
-   "translit": "yoi shūmatsu wo",
+   "translit": "yoi shūmatsu o",
    "example": "良い週末をお過ごしください。",
    "examplePt": "Tenha um bom fim de semana.",
-   "pron": "yo-i shû-MA-tsu o — o 'wo' soa como 'o'",
-   "curiosity": "土曜日 é 'dia da terra' e 日曜日 é 'dia do sol': os dias têm nomes de astros e elementos."
+   "pron": "yo-i shû-MA-tsu o — o 'を' soa como 'o'",
+   "curiosity": "週末 junta 週 (semana) e 末 (fim): o 'fim da semana'."
   },
   "tf09-01": {
    "word": "ありがとう",
@@ -672,7 +672,7 @@
    "translit": "sumimasen",
    "example": "すみません、駅はどこですか？",
    "examplePt": "Com licença, onde fica a estação?",
-   "pron": "su-mi-MA-sen — o 'u' do início é quase mudo",
+   "pron": "su-mi-MA-sen — o 'u' é curto e claro, sem arredondar os lábios",
    "curiosity": "すみません serve para pedir licença, chamar o garçom, pedir desculpa e até agradecer."
   },
   "tf09-05": {
@@ -1141,15 +1141,15 @@
   },
   "tf15-03": {
    "word": "シャワーを浴びる",
-   "translit": "shawā wo abiru",
+   "translit": "shawā o abiru",
    "example": "寝る前にシャワーを浴びます。",
    "examplePt": "Tomo banho antes de dormir.",
-   "pron": "sha-uâ o a-BI-ru — o 'wo' soa como 'o'",
+   "pron": "sha-uâ o a-BI-ru — o 'を' soa como 'o'",
    "curiosity": "Muitos japoneses se lavam fora da banheira e só então entram na água quente."
   },
   "tf15-04": {
    "word": "歯を磨く",
-   "translit": "ha wo migaku",
+   "translit": "ha o migaku",
    "example": "食べたあと歯を磨きます。",
    "examplePt": "Escovo os dentes depois de comer.",
    "pron": "ha o mi-GA-ku — 'g' duro, como em 'gato'",
@@ -1157,15 +1157,15 @@
   },
   "tf15-05": {
    "word": "髪をとかす",
-   "translit": "kami wo tokasu",
+   "translit": "kami o tokasu",
    "example": "出かける前に髪をとかします。",
    "examplePt": "Penteio o cabelo antes de sair.",
-   "pron": "ka-mi o to-KA-su — 'wo' soa 'o'",
+   "pron": "ka-mi o to-KA-su — 'を' soa 'o'",
    "curiosity": "髪 (cabelo), 神 (deus) e 紙 (papel) se pronunciam todos 'kami'."
   },
   "tf15-06": {
    "word": "昼ご飯を食べる",
-   "translit": "hirugohan wo taberu",
+   "translit": "hirugohan o taberu",
    "example": "友達と昼ご飯を食べました。",
    "examplePt": "Almocei com um amigo.",
    "pron": "hi-ru-go-HAN o ta-BE-ru — 'g' duro",
@@ -1173,7 +1173,7 @@
   },
   "tf15-07": {
    "word": "晩ご飯を食べる",
-   "translit": "bangohan wo taberu",
+   "translit": "bangohan o taberu",
    "example": "家族で晩ご飯を食べます。",
    "examplePt": "Jantamos em família.",
    "pron": "ban-go-HAN o ta-BE-ru — 'n' nasal",
@@ -1197,10 +1197,10 @@
   },
   "tf15-10": {
    "word": "夢を見る",
-   "translit": "yume wo miru",
+   "translit": "yume o miru",
    "example": "昨日、変な夢を見ました。",
    "examplePt": "Ontem tive um sonho estranho.",
-   "pron": "yu-me o MI-ru — 'wo' soa como 'o'",
+   "pron": "yu-me o MI-ru — 'を' soa como 'o'",
    "curiosity": "Em japonês 'vê-se' o sonho: 夢を見る é literalmente 'ver um sonho'."
   },
   "tf16-01": {
@@ -1433,7 +1433,7 @@
    "example": "週末に映画館へ行きます。",
    "examplePt": "No fim de semana vou ao cinema.",
    "pron": "ei-ga-KAN — 'ei' como 'ê-i'",
-   "curiosity": "Muitos cinemas japoneses têm desconto no 'Dia do Cinema' (映画の日), todo dia 1."
+   "curiosity": "映画 junta 映 (projetar) e 画 (imagem): o cinema é a 'imagem projetada'."
   },
   "tf18-10": {
    "word": "博物館",
@@ -1640,7 +1640,7 @@
    "translit": "musuko",
    "example": "息子は今年小学生になります。",
    "examplePt": "Meu filho entra na escola este ano.",
-   "pron": "mu-SU-ko — o 'u' do início é quase mudo",
+   "pron": "mu-SU-ko — o 'u' é curto, sem arredondar os lábios",
    "curiosity": "Do próprio filho diz-se 息子 (musuko); do filho alheio, 息子さん (musuko-san)."
   },
   "tf21-06": {
@@ -1870,8 +1870,8 @@
   "tf24-04": {
    "word": "恥ずかしさ",
    "translit": "hazukashisa",
-   "example": "間違えて恥ずかしさで赤くなりました。",
-   "examplePt": "Errei e fiquei vermelho de vergonha.",
+   "example": "間違えて、恥ずかしさで顔が赤くなりました。",
+   "examplePt": "Errei e fiquei com o rosto vermelho de vergonha.",
    "pron": "ha-zu-ka-SHI-sa — 'sh' como 'x'",
    "curiosity": "'Haji no bunka' (恥の文化), 'cultura da vergonha', é um termo famoso sobre o Japão."
   },
@@ -2086,8 +2086,8 @@
   "tf27-01": {
    "word": "救急車",
    "translit": "kyūkyūsha",
-   "example": "救急車が病院に急ぎます。",
-   "examplePt": "A ambulância corre para o hospital.",
+   "example": "救急車が病院に向かっています。",
+   "examplePt": "A ambulância está indo para o hospital.",
    "pron": "kyû-kyû-SHA — 'ky' é 'ki' rápido",
    "curiosity": "No Japão, ambulância e bombeiros se chamam pelo mesmo número: 119."
   },
@@ -2190,16 +2190,16 @@
   "tf28-04": {
    "word": "もっとゆっくり話してください",
    "translit": "motto yukkuri hanashite kudasai",
-   "example": "ゆっくり話してくれますか？",
-   "examplePt": "Pode falar devagar?",
+   "example": "すみません、もっとゆっくり話してください。",
+   "examplePt": "Desculpe, fale mais devagar, por favor.",
    "pron": "MOT-to yuk-KU-ri ha-NA-shi-te ku-da-SAI — 'tt' e 'kk' com pausinha",
    "curiosity": "ゆっくり é 'devagar' e também 'com calma, sem pressa'."
   },
   "tf28-05": {
    "word": "もう一度お願いします",
    "translit": "mō ichido onegai shimasu",
-   "example": "すみません、もう一度言えますか？",
-   "examplePt": "Com licença, pode dizer de novo?",
+   "example": "すみません、もう一度お願いします。",
+   "examplePt": "Desculpe, pode repetir, por favor?",
    "pron": "mô i-chi-do o-ne-GAI shi-MAS — 'mō' longo",
    "curiosity": "一度 (ichido) é 'uma vez'; もう一度 é 'mais uma vez'."
   },
@@ -2221,10 +2221,10 @@
   },
   "tf28-08": {
    "word": "お会計をお願いします",
-   "translit": "okaikei wo onegai shimasu",
+   "translit": "okaikei o onegai shimasu",
    "example": "食事のあと、お会計をお願いしました。",
    "examplePt": "Depois da refeição, pedi a conta.",
-   "pron": "o-KAI-kei o o-ne-GAI shi-MAS — 'wo' soa 'o'",
+   "pron": "o-KAI-kei o o-ne-GAI shi-MAS — 'を' soa 'o'",
    "curiosity": "No Japão não se dá gorjeta; paga-se no caixa, perto da saída."
   },
   "tf28-09": {
@@ -2309,15 +2309,15 @@
   },
   "tf29-09": {
    "word": "良い旅を",
-   "translit": "yoi tabi wo",
+   "translit": "yoi tabi o",
    "example": "良い旅を！お土産を楽しみにしています。",
    "examplePt": "Boa viagem! Espero as lembrancinhas.",
-   "pron": "yo-i TA-bi o — 'wo' soa 'o'",
+   "pron": "yo-i TA-bi o — 'を' soa 'o'",
    "curiosity": "旅 (tabi) é uma viagem longa e cheia de descobertas; 旅行 (ryokō) é a viagem de passeio."
   },
   "tf29-10": {
    "word": "気をつけてね",
-   "translit": "ki wo tsukete ne",
+   "translit": "ki o tsukete ne",
    "example": "雨だから、気をつけてね。",
    "examplePt": "Está chovendo, cuide-se.",
    "pron": "ki o tsu-KE-te ne — 'ts' como em 'pizza'",
@@ -2374,8 +2374,8 @@
   "tf30-07": {
    "word": "間違いなく",
    "translit": "machigai naku",
-   "example": "間違いなく彼が一番ですか？",
-   "examplePt": "Sem dúvida ele é o melhor?",
+   "example": "間違いなく、あの店が一番おいしいです。",
+   "examplePt": "Sem dúvida, aquele restaurante é o mais gostoso.",
    "pron": "ma-chi-GAI na-ku — 'ch' como 'tch'",
    "curiosity": "間違い (machigai) é 'erro'; 'sem erro' (なく) vira 'com certeza'."
   },
@@ -2533,10 +2533,10 @@
   },
   "tf32-07": {
    "word": "間欠泉",
-   "translit": "kankessen",
+   "translit": "kanketsusen",
    "example": "間欠泉はお湯を空高く噴き上げます。",
    "examplePt": "O gêiser lança água quente bem alto.",
-   "pron": "kan-KES-sen — o 'ss' é 's' dobrado, mais longo",
+   "pron": "kan-KE-tsu-sen — 'tsu' como o 'ts' de 'pizza'",
    "curiosity": "間欠 quer dizer 'intermitente': é a 'fonte que vem e vai'."
   },
   "tf32-08": {
@@ -2617,7 +2617,7 @@
    "example": "月にはクレーターがたくさんあります。",
    "examplePt": "Há muitas crateras na Lua.",
    "pron": "ku-RÊ-tā — o traço ー alonga a vogal",
-   "curiosity": "O traço longo ー do katakana alonga a vogal: ku-rē-tā tem 4 batidas."
+   "curiosity": "O traço longo ー do katakana alonga a vogal: ku-rē-tā tem 5 batidas."
   },
   "tf33-08": {
    "word": "重力",
@@ -2681,7 +2681,7 @@
    "example": "稲妻が夜空を走りました。",
    "examplePt": "Um relâmpago cortou o céu noturno.",
    "pron": "i-na-ZU-ma — 'zu' com z sonoro",
-   "curiosity": "稲妻 é 'esposa do arroz': antigamente se achava que raios ajudavam o arroz a crescer."
+   "curiosity": "稲妻 junta 稲 (arroz) e 妻 (cônjuge): antigamente se achava que o raio 'casava' com o arroz e o fazia crescer."
   },
   "tf34-06": {
    "word": "嵐",
@@ -3101,10 +3101,10 @@
   },
   "tf39-08": {
    "word": "スイッチ",
-   "translit": "suicchi",
+   "translit": "suitchi",
    "example": "部屋のスイッチはどこですか？",
    "examplePt": "Onde fica o interruptor do quarto?",
-   "pron": "su-IC-chi — o 'cch' é 'tch' dobrado",
+   "pron": "su-IT-chi — o 'tch' é dobrado, com uma pausinha antes",
    "curiosity": "Liga-se com スイッチを入れる ('colocar') e desliga-se com スイッチを切る ('cortar')."
   },
   "tf39-09": {
@@ -3118,8 +3118,8 @@
   "tf39-10": {
    "word": "ダム",
    "translit": "damu",
-   "example": "山の谷に大きなダムがあります。",
-   "examplePt": "Há uma grande barragem no vale da montanha.",
+   "example": "山の中に大きなダムがあります。",
+   "examplePt": "Há uma grande barragem no meio das montanhas.",
    "pron": "DA-mu — 'u' fraquinho no final",
    "curiosity": "No Japão existem ダムカード, cartões colecionáveis de barragens."
   },
@@ -3206,8 +3206,8 @@
   "tf41-01": {
    "word": "脾臓",
    "translit": "hizō",
-   "example": "脾臓は血液を守る臓器です。",
-   "examplePt": "O baço é um órgão que protege o sangue.",
+   "example": "脾臓は血液をろ過する臓器です。",
+   "examplePt": "O baço é um órgão que filtra o sangue.",
    "pron": "hi-ZÔ — 'ō' longo no final",
    "curiosity": "Muitos órgãos têm o radical 月 (carne) no kanji: 脾, 肝, 腎, 腸."
   },
@@ -3238,8 +3238,8 @@
   "tf41-05": {
    "word": "膵臓",
    "translit": "suizō",
-   "example": "膵臓は消化を助けるホルモンを作ります。",
-   "examplePt": "O pâncreas produz hormônios que ajudam a digestão.",
+   "example": "膵臓は消化を助ける膵液を出します。",
+   "examplePt": "O pâncreas libera o suco pancreático, que ajuda na digestão.",
    "pron": "sui-ZÔ — 'u' e 'i' juntos, sem pausa",
    "curiosity": "膵 é um kokuji, kanji inventado no Japão, e não existe no chinês antigo."
   },
@@ -3585,7 +3585,7 @@
    "example": "高速道路で渋滞に巻き込まれました。",
    "examplePt": "Fiquei preso no congestionamento da rodovia.",
    "pron": "KÔ-so-ku DÔ-ro — 'ō' longos",
-   "curiosity": "No Japão, as rodovias expressas costumam ter pedágio, e por isso se diz só 高速."
+   "curiosity": "高速道路 é a rodovia expressa; no dia a dia se encurta para 高速 (kōsoku)."
   },
   "tf45-09": {
    "word": "ロータリー",

@@ -130,9 +130,9 @@
      ]
     },
     {
-     "npc": "ご注文は何にしますか。",
+     "npc": "ご注文はお決まりですか。",
      "npcPt": "O que você gostaria?",
-     "translit": "Gochūmon wa nani ni shimasu ka.",
+     "translit": "Gochūmon wa okimari desu ka.",
      "options": [
       {
        "text": "私はピザが好きです。",
@@ -173,7 +173,7 @@
        "text": "食べません、ありがとう。",
        "textPt": "Não comer, obrigado.",
        "translit": "Tabemasen, arigatō.",
-       "hint": "'食べる' é comer, e a pergunta é sobre bebida (飲む). Falta também o 'ございます'."
+       "hint": "'食べる' é comer, e a pergunta é sobre bebida (飲む). Além disso, 'ありがとう' sozinho é casual."
       }
      ]
     },
@@ -268,7 +268,7 @@
        "text": "サッカーを好きです。",
        "textPt": "Eu estou gostando de futebol.",
        "translit": "Sakkā o suki desu.",
-       "hint": "Com '好き' o objeto leva 'が', não 'を': 'サッカーが好きです'."
+       "hint": "Com '好き' o natural é 'が', não 'を': 'サッカーが好きです'."
       },
       {
        "text": "私はサッカーの趣味を持っています。",
@@ -433,9 +433,9 @@
      ]
     },
     {
-     "npc": "まだ何をする必要がありますか。",
+     "npc": "あと何をする必要がありますか。",
      "npcPt": "O que ainda precisamos fazer?",
-     "translit": "Mada nani o suru hitsuyō ga arimasu ka.",
+     "translit": "Ato nani o suru hitsuyō ga arimasu ka.",
      "options": [
       {
        "text": "アプリをテストする必要です。",
@@ -553,7 +553,7 @@
        "text": "はい。私は疑いがあります。",
        "textPt": "Sim. Eu tenho uma dúvida.",
        "translit": "Hai. Watashi wa utagai ga arimasu.",
-       "hint": "Falso cognato: '疑い' é suspeita/desconfiança. Para dúvida diga '質問があります'."
+       "hint": "Falso amigo: '疑い' é suspeita/desconfiança. Para dúvida diga '質問があります'."
       }
      ]
     },
@@ -938,9 +938,9 @@
      ]
     },
     {
-     "npc": "なぜこの仕事を希望しますか。",
+     "npc": "なぜこの仕事を希望されましたか。",
      "npcPt": "Por que você quer este emprego?",
-     "translit": "Naze kono shigoto o kibō shimasu ka.",
+     "translit": "Naze kono shigoto o kibō saremashita ka.",
      "options": [
       {
        "text": "チームで働くのが好きで、成長したいです。",

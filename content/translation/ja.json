@@ -47,7 +47,7 @@
    "word": "どれ？",
    "translit": "Dore?",
    "example": "好きなのはどれですか？",
-   "examplePt": "Qual é o que você gosta?",
+   "examplePt": "De qual você gosta?",
    "pron": "DÔ-re — o 'r' é um toque rápido da língua no céu da boca",
    "curiosity": "'Dore' é 'qual entre vários'; antes de um substantivo vira 'dono': dono hon, qual livro."
   },
@@ -425,7 +425,7 @@
    "example": "猫の絵を描きますか？",
    "examplePt": "Você desenha um gato?",
    "pron": "e-GÁ-ku — 'g' duro, como em 'gato'",
-   "curiosity": "O kanji 描 também lê-se 'kaku': 'e o kaku' é desenhar, e 'ji o kaku' é escrever."
+   "curiosity": "O mesmo som 'kaku' escreve 'desenhar' (絵を描く) e 'escrever' (字を書く): muda só o kanji, 描 ou 書."
   },
   "tr06-04": {
    "word": "塗る",
@@ -729,7 +729,7 @@
    "example": "深く息をしてください。",
    "examplePt": "Respire fundo, por favor.",
    "pron": "i-KI o SU-ru — 'i' curto e fechado",
-   "curiosity": "'Ikinuki' (息抜き) é 'tirar o fôlego': um descanso curto para renovar as energias."
+   "curiosity": "'Ikinuki' (息抜き) é 'soltar o fôlego': uma pausa curta para descansar e recomeçar com energia."
   },
   "tr10-02": {
    "word": "嗅ぐ",
@@ -817,7 +817,7 @@
    "example": "あの店は新鮮な魚を売っています。",
    "examplePt": "Aquela loja vende peixe fresco.",
    "pron": "Ú-ru — 'u' curto e 'r' leve",
-   "curiosity": "Os kanji 売 (vender) e 買 (comprar) são quase espelhados: um 'comerciante' tem os dois."
+   "curiosity": "Os kanji 売 (vender) e 買 (comprar) formam juntos 売買 (baibai), 'compra e venda'."
   },
   "tr11-03": {
    "word": "払う",
@@ -840,7 +840,7 @@
    "translit": "Setsuyaku suru",
    "example": "電気を節約します。",
    "examplePt": "Eu economizo energia elétrica.",
-   "pron": "set-sú-YÁ-ku SU-ru — 'ts' num só som",
+   "pron": "setsu-YÁ-ku SU-ru — 'ts' num só som, 'u' final fraco",
    "curiosity": "No Japão o conceito 'mottainai' (que desperdício!) reforça a ideia de economizar."
   },
   "tr11-06": {
@@ -848,7 +848,7 @@
    "translit": "Torikaeru",
    "example": "小さい靴を大きいのに取り替えます。",
    "examplePt": "Troco o sapato pequeno por um maior.",
-   "pron": "to-ri-ká-Ê-ru — cada vogal vale uma batida",
+   "pron": "to-ri-KÁ-e-ru — 'ka' e 'e' em sílabas separadas",
    "curiosity": "'Kōkan' (交換) é a troca formal; 'torikaeru' é a troca do dia a dia, como pilhas."
   },
   "tr11-07": {
@@ -1088,7 +1088,7 @@
    "translit": "Daikirai da",
    "example": "弟は雷が大嫌いです。",
    "examplePt": "Meu irmão detesta trovão.",
-   "pron": "dai-KI-rái da — três toques de 'ai' e 'r' leves",
+   "pron": "dai-ki-RAI da — 'ai' é ditongo; o 'r' é um toque leve",
    "curiosity": "Para suavizar, os japoneses preferem 'amari suki ja nai' (não gosto muito)."
   },
   "tr14-07": {
@@ -1121,7 +1121,7 @@
    "example": "誕生日に母を驚かせます。",
    "examplePt": "No aniversário eu surpreendo minha mãe.",
    "pron": "o-do-ro-ka-SÊ-ru — cada sílaba com uma batida",
-   "curiosity": "'Odoroku' é ficar surpreso e 'odorokaseru' é causar surpresa: o primeiro é só você."
+   "curiosity": "'Odoroku' é ficar surpreso; 'odorokaseru' é provocar surpresa em alguém: no segundo há sempre quem causa."
   },
   "tr15-01": {
    "word": "二人です。",
@@ -1144,8 +1144,8 @@
    "translit": "Higawari teishoku wa nan desu ka?",
    "example": "今日の日替わり定食は何ですか？",
    "examplePt": "Qual é o prato do dia hoje?",
-   "pron": "hi-ga-ua-ri tê-shô-ku ua NAN des ka — o 'ei' soa 'êi'",
-   "curiosity": "'Hikawari' é 'muda a cada dia': 'teishoku' é o almoço de preço fixo, com arroz e sopa."
+   "pron": "hi-ga-ua-ri têi-SHÔ-ku ua NAN des ka — 'ei' soa 'êi'",
+   "curiosity": "'Higawari' é 'muda a cada dia': 'teishoku' é a refeição de preço fixo, com arroz e sopa."
   },
   "tr15-04": {
    "word": "玉ねぎ抜きでお願いします。",
@@ -1390,7 +1390,7 @@
   "tr18-04": {
    "word": "見ているだけです。",
    "translit": "Miteiru dake desu.",
-   "example": "ありがとう、見ているだけです。",
+   "example": "ありがとうございます、見ているだけです。",
    "examplePt": "Obrigado, só estou olhando.",
    "pron": "mi-TÊ-i-ru DA-ke des — 'dake' soa 'dá-kê'",
    "curiosity": "É a frase de ouro de quem não quer comprar; 'dake' quer dizer 'apenas'."
@@ -1518,7 +1518,7 @@
   "tr19-10": {
    "word": "バスに乗り遅れました。",
    "translit": "Basu ni noriokuremashita.",
-   "example": "ごめん、バスに乗り遅れました。",
+   "example": "ごめんなさい、バスに乗り遅れました。",
    "examplePt": "Desculpe, perdi o ônibus.",
    "pron": "BA-su ni no-ri-o-ku-re-ma-SHI-ta — 'sh' suave",
    "curiosity": "'Noriokureru' une 'noru' (embarcar) e 'okureru' (atrasar): perder o transporte."
@@ -1584,7 +1584,7 @@
    "translit": "Ii kangae ga arimasu.",
    "example": "いい考えがあります。聞きますか？",
    "examplePt": "Tenho uma ideia. Quer ouvir?",
-   "pron": "ii kan-GAI ga a-RI-mas — 'g' duro",
+   "pron": "ii kan-GA-e ga a-RI-mas — 'g' duro",
    "curiosity": "'Kangaeru' é pensar; 'kangae' é a forma substantivada: ideia, ponto de vista."
   },
   "tr20-09": {
@@ -1798,7 +1798,7 @@
   "tr23-05": {
    "word": "勘違いしていました",
    "translit": "Kanchigai shite imashita",
-   "example": "ごめん、勘違いしていました。",
+   "example": "ごめんなさい、勘違いしていました。",
    "examplePt": "Desculpe, eu me enganei.",
    "pron": "kan-CHI-gai shi-te i-ma-SHI-ta — 'ch' como em 'tchau'",
    "curiosity": "'Kanchigai' é mal-entendido; 'machigai' é erro: um engano de pessoas, o outro de fatos."
@@ -1903,7 +1903,7 @@
    "word": "私に任せてください",
    "translit": "Watashi ni makasete kudasai",
    "example": "私に任せてください。得意です。",
-   "examplePt": "Deixe comigo. Eu cuido disso.",
+   "examplePt": "Deixe comigo. Sou bom nisso.",
    "pron": "ua-TA-shi ni ma-ka-SÊ-te ku-DÁ-sai",
    "curiosity": "'Makaseru' é deixar a cargo; 'Makasete!' equivale a 'deixa comigo!'."
   },
@@ -2048,7 +2048,7 @@
    "translit": "Shinkoku suru mono ga arimasu.",
    "example": "高い時計を申告します。",
    "examplePt": "Vou declarar um relógio caro.",
-   "pron": "shin-KO-ku su-ru MÔ-no ga a-ri-MASS — 'sh' = x, 'ng' não existe: 'ga' seco",
+   "pron": "shin-KO-ku su-ru MÔ-no ga a-ri-MASS — 'sh' = x; o 'n' nasaliza antes de 'k'",
    "curiosity": "申告 também é a declaração de imposto de renda, chamada 確定申告 (kakutei shinkoku)."
   },
   "tr26-07": {
@@ -2263,7 +2263,7 @@
    "word": "習うより慣れよ",
    "translit": "Narau yori nareyo",
    "example": "習うより慣れよと先生は言います。",
-   "examplePt": "O professor diz: pratique mais do que aprenda.",
+   "examplePt": "O professor diz: mais vale praticar do que só estudar.",
    "pron": "na-RA-u yo-ri na-RE-yo — o 'r' é um toque rápido",
    "curiosity": "慣れよ é imperativo antigo de 慣れる 'acostumar-se': mais que aprender, acostume-se."
   },
@@ -2788,11 +2788,11 @@
    "curiosity": "呼ぶ 'chamar' serve para táxi, médico e para chamar alguém pelo nome."
   },
   "tr35-09": {
-   "word": "料金が多いようです。",
-   "translit": "Ryōkin ga ōi yō desu.",
-   "example": "請求書の料金が多いようです。",
-   "examplePt": "O valor da conta parece alto demais.",
-   "pron": "RYÔ-kin ga Ô-i YÔ dess — 'ry' = 'rio' rápido",
+   "word": "料金が高いようです。",
+   "translit": "Ryōkin ga takai yō desu.",
+   "example": "請求書の料金が高いようです。",
+   "examplePt": "O valor da conta parece alto.",
+   "pron": "RYÔ-kin ga ta-KAI YÔ dess — 'ry' = 'rio' rápido",
    "curiosity": "ようです suaviza: 'parece que...'. É a forma educada de reclamar."
   },
   "tr35-10": {
@@ -3520,7 +3520,7 @@
    "translit": "Hakuhyō o fumu",
    "example": "薄氷を踏む思いで話しました。",
    "examplePt": "Falei pisando em ovos.",
-   "pron": "ha-KYÔ o FU-mu — 'hyo' = 'hio', com o 'h' suave",
+   "pron": "ha-ku-HYÔ o FU-mu — 'hyo' = 'hio', com o 'h' suave; 'ô' longo",
    "curiosity": "No japonês não são ovos: é 'pisar no gelo fino' (薄氷)."
   },
   "tr45-01": {
@@ -3540,11 +3540,11 @@
    "curiosity": "Literal: 'a gota da chuva fura a pedra'; 穿つ é 'perfurar', palavra culta."
   },
   "tr45-03": {
-   "word": "輝くもの必ずしも金ならず",
-   "translit": "Kagayaku mono kanarazushimo kin narazu",
-   "example": "輝くもの必ずしも金ならずですよ。",
+   "word": "光るもの必ずしも金ならず",
+   "translit": "Hikaru mono kanarazushimo kin narazu",
+   "example": "光るもの必ずしも金ならずですよ。",
    "examplePt": "Nem tudo que reluz é ouro.",
-   "pron": "ka-GA-ya-ku MÔ-no ka-na-ra-zu-SHI-mo KIN na-RA-zu — 'ya' = 'iá'",
+   "pron": "hi-KA-ru MÔ-no ka-na-ra-zu-SHI-mo KIN na-RA-zu — o 'r' é um toque leve",
    "curiosity": "必ずしも…ならず 'nem sempre é': estilo clássico de provérbio, hoje seria ない."
   },
   "tr45-04": {

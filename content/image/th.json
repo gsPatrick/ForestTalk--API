@@ -77,7 +77,7 @@
   },
   "im02-09": {
    "word": "ไก่งวง",
-   "translit": "kaingguang"
+   "translit": "kainguang"
   },
   "im02-10": {
    "word": "เป็ด",
@@ -193,7 +193,7 @@
   },
   "im05-08": {
    "word": "เฟรนช์ฟรายส์",
-   "translit": "frenchfrai"
+   "translit": "frenfrai"
   },
   "im05-09": {
    "word": "เนื้อ",
@@ -293,7 +293,7 @@
   },
   "im08-03": {
    "word": "ชุดเดรส",
-   "translit": "chutdres"
+   "translit": "chutdret"
   },
   "im08-04": {
    "word": "เสื้อโค้ท",
@@ -725,7 +725,7 @@
   },
   "im19-01": {
    "word": "โทรศัพท์มือถือ",
-   "translit": "thorasapmuetho"
+   "translit": "thorasapmuethue"
   },
   "im19-02": {
    "word": "นาฬิกาข้อมือ",
@@ -817,7 +817,7 @@
   },
   "im21-04": {
    "word": "ลูกวอลเลย์บอล",
-   "translit": "lukwollebon"
+   "translit": "lukwonlebon"
   },
   "im21-05": {
    "word": "ปิงปอง",
@@ -829,7 +829,7 @@
   },
   "im21-07": {
    "word": "โบว์ลิ่ง",
-   "translit": "bowling"
+   "translit": "boling"
   },
   "im21-08": {
    "word": "ธนู",
@@ -837,7 +837,7 @@
   },
   "im21-09": {
    "word": "สเกตบอร์ด",
-   "translit": "saketbo"
+   "translit": "saketbot"
   },
   "im21-10": {
    "word": "รองเท้าสเก็ตน้ำแข็ง",
@@ -928,8 +928,8 @@
    "translit": "kaoi"
   },
   "im24-02": {
-   "word": "รูปภาพ",
-   "translit": "rupphap"
+   "word": "กรอบรูป",
+   "translit": "kroprup"
   },
   "im24-03": {
    "word": "เทียน",
@@ -957,7 +957,7 @@
   },
   "im24-09": {
    "word": "กระดิ่ง",
-   "translit": "kradin"
+   "translit": "krading"
   },
   "im24-10": {
    "word": "ถังดับเพลิง",
@@ -1049,7 +1049,7 @@
   },
   "im27-02": {
    "word": "คีย์บอร์ด",
-   "translit": "khibo"
+   "translit": "khibot"
   },
   "im27-03": {
    "word": "เมาส์",
@@ -1113,7 +1113,7 @@
   },
   "im28-08": {
    "word": "แอคคอร์เดียน",
-   "translit": "aekkhoediean"
+   "translit": "aekkhodian"
   },
   "im28-09": {
    "word": "โน้ตเพลง",
@@ -1224,8 +1224,8 @@
    "translit": "protwatkhai"
   },
   "im31-06": {
-   "word": "รถเข็น",
-   "translit": "rotkhen"
+   "word": "วีลแชร์",
+   "translit": "wilchae"
   },
   "im31-07": {
    "word": "ไม้เท้า",
@@ -1241,7 +1241,7 @@
   },
   "im31-10": {
    "word": "ดีเอ็นเอ",
-   "translit": "diien"
+   "translit": "diene"
   },
   "im32-01": {
    "word": "กล้องจุลทรรศน์",
@@ -1421,11 +1421,11 @@
   },
   "im36-05": {
    "word": "สกู๊ตเตอร์",
-   "translit": "sakutte"
+   "translit": "sakuttoe"
   },
   "im36-06": {
    "word": "รถแทรกเตอร์",
-   "translit": "rotthraekto"
+   "translit": "rotthraektoe"
   },
   "im36-07": {
    "word": "รถไฟใต้ดิน",
@@ -1433,7 +1433,7 @@
   },
   "im36-08": {
    "word": "สกู๊ตเตอร์ขาไถ",
-   "translit": "sakuttekhathai"
+   "translit": "sakuttoekhathai"
   },
   "im36-09": {
    "word": "ร่มชูชีพ",
@@ -1473,7 +1473,7 @@
   },
   "im37-08": {
    "word": "ฟาลาเฟล",
-   "translit": "falafel"
+   "translit": "falafen"
   },
   "im37-09": {
    "word": "สลัด",
@@ -1588,8 +1588,8 @@
    "translit": "chakhaimuk"
   },
   "im40-07": {
-   "word": "เครื่องดื่มเขตร้อน",
-   "translit": "khrueangduemkhetron"
+   "word": "ค็อกเทลผลไม้",
+   "translit": "khokthenphonlamai"
   },
   "im40-08": {
    "word": "ขวดนมเด็ก",
@@ -1873,7 +1873,7 @@
   },
   "im47-08": {
    "word": "ธงกอล์ฟ",
-   "translit": "thongkof"
+   "translit": "thongkop"
   },
   "im47-09": {
    "word": "โยโย่",
@@ -1901,7 +1901,7 @@
   },
   "im48-05": {
    "word": "ฟิล์มภาพยนตร์",
-   "translit": "filmphapphayon"
+   "translit": "fimphapphayon"
   },
   "im48-06": {
    "word": "เครื่องฉายภาพยนตร์",

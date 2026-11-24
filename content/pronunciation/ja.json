@@ -134,8 +134,8 @@
   "sp03-01": {
    "word": "隣人",
    "translit": "Rinjin",
-   "example": "隣人を知っていますか？",
-   "examplePt": "Você conhece o vizinho?",
+   "example": "隣人はとても親切です。",
+   "examplePt": "O vizinho é muito gentil.",
    "pron": "rin-JIN — o 'r' é um 'l' tocado e 'j' soa 'dj' suave",
    "curiosity": "近所 (kinjo) é 'vizinhança'; já 隣 sozinho é 'ao lado'."
   },
@@ -153,7 +153,7 @@
    "example": "赤ちゃんが笑っています。",
    "examplePt": "O bebê está rindo.",
    "pron": "a-KA-chan — 'ch' soa 'tch' e o 'n' final nasala",
-   "curiosity": "Contém 赤 (vermelho): recém-nascidos têm a pele rosadinha."
+   "curiosity": "O ちゃん é um sufixo carinhoso, também usado com nomes de crianças e de bichinhos."
   },
   "sp03-04": {
    "word": "男の子",
@@ -484,12 +484,12 @@
    "curiosity": "O japonês põe vogal depois de consoante final: 'dog' vira ドッグ (doggu)."
   },
   "sp08-05": {
-   "word": "スナック",
-   "translit": "Sunakku",
-   "example": "スナックを一袋買いました。",
+   "word": "スナック菓子",
+   "translit": "Sunakku gashi",
+   "example": "スナック菓子を一袋買いました。",
    "examplePt": "Comprei um pacote de salgadinho.",
-   "pron": "su-NAK-ku — o 'kk' pede uma micro pausa",
-   "curiosity": "As lojas de conveniência, コンビニ, vendem muitos tipos de スナック."
+   "pron": "su-NAK-ku GA-shi — o 'kk' pede uma micro pausa e 'shi' soa 'xi'",
+   "curiosity": "Sozinho, スナック também nomeia um tipo de barzinho; por isso o salgadinho leva 菓子, 'guloseima'."
   },
   "sp08-06": {
    "word": "アイスキャンディー",
@@ -582,8 +582,8 @@
   "sp10-01": {
    "word": "今日",
    "translit": "Kyō",
-   "example": "今日は天気がいいですか？",
-   "examplePt": "Hoje o tempo está bom?",
+   "example": "今日は何曜日ですか？",
+   "examplePt": "Que dia da semana é hoje?",
    "pron": "KYŌ — 'ky' e 'ō' longo, numa só sílaba",
    "curiosity": "Esta é a base do cumprimento こんにちは, que nasceu de 今日は, 'hoje é...'."
   },
@@ -958,8 +958,8 @@
   "sp15-08": {
    "word": "おいしそう",
    "translit": "Oishisō",
-   "example": "早く食べたいですか？",
-   "examplePt": "Você quer comer logo?",
+   "example": "早く食べたいですね。",
+   "examplePt": "Dá vontade de comer logo, né?",
    "pron": "o-i-shi-SŌ — 'shi' soa 'xi' e 'sō' é longo",
    "curiosity": "No fim do radical, そう significa 'parece': 'parece gostoso'."
   },
@@ -1038,8 +1038,8 @@
   "sp17-02": {
    "word": "氷ありで",
    "translit": "Kōri ari de",
-   "example": "夏は氷ありが好きです。",
-   "examplePt": "No verão gosto com gelo.",
+   "example": "飲み物は氷ありでお願いします。",
+   "examplePt": "Quero a bebida com gelo, por favor.",
    "pron": "KŌ-ri a-ri de — o 'ō' é longo e o 'r' é leve",
    "curiosity": "No verão se come かき氷 (kakigōri), a raspadinha de gelo."
   },
@@ -1265,7 +1265,7 @@
    "example": "卵と小麦粉を使います。",
    "examplePt": "Vamos usar ovos e farinha.",
    "pron": "KĒ-ki o tsu-ku-ri-ma-SHŌ — o 'ē' é longo",
-   "curiosity": "O bolo de aniversário no Japão costuma ser de chantilly e morango."
+   "curiosity": "O bolo de Natal clássico do Japão leva chantilly e morango."
   },
   "sp20-07": {
    "word": "映画を見ましょう",
@@ -1505,7 +1505,7 @@
    "example": "毎朝焼きたてを売ります。",
    "examplePt": "Vou vender pão quentinho toda manhã.",
    "pron": "PAN-ya o hi-RA-ku tsu-MO-ri des — 'ts' colado",
-   "curiosity": "パン vem do português 'pão', palavra que chegou ao Japão há séculos."
+   "curiosity": "Radical + たて quer dizer 'recém': 焼きたて (recém-assado), 炊きたて (recém-cozido)."
   },
   "sp24-05": {
    "word": "いつか海を見に行きます",
@@ -1518,16 +1518,16 @@
   "sp24-06": {
    "word": "犬を飼いたいです",
    "translit": "Inu o kaitai desu",
-   "example": "犬を飼いたいですか？",
-   "examplePt": "Você quer ter um cachorro?",
+   "example": "毎日散歩に連れて行きます。",
+   "examplePt": "Vou levá-lo para passear todo dia.",
    "pron": "I-nu o ka-i-TAI des — 'ai' soa como em 'pai'",
    "curiosity": "飼う (criar animal) e 買う (comprar) soam igual: kau."
   },
   "sp24-07": {
    "word": "毎朝走ります",
    "translit": "Maiasa hashirimasu",
-   "example": "毎朝走りますか？",
-   "examplePt": "Você corre toda manhã?",
+   "example": "朝の空気が気持ちいいです。",
+   "examplePt": "O ar da manhã é uma delícia.",
    "pron": "MAI-a-sa ha-shi-ri-MAS — 'shi' soa 'xi' e o 'r' é leve",
    "curiosity": "毎 + tempo: 毎日, 毎週, 毎晩 seguem o mesmo molde."
   },
@@ -1542,8 +1542,8 @@
   "sp25-01": {
    "word": "土曜日は海に行きました",
    "translit": "Doyōbi wa umi ni ikimashita",
-   "example": "土曜日は海に行きましたか？",
-   "examplePt": "Você foi à praia no sábado?",
+   "example": "貝殻をたくさん拾いました。",
+   "examplePt": "Juntei muitas conchas.",
    "pron": "do-YŌ-bi wa U-mi ni i-ki-MA-shi-ta — 'yō' longo",
    "curiosity": "O destino leva に ou へ: 海に行く, 海へ行く."
   },
@@ -1566,8 +1566,8 @@
   "sp25-04": {
    "word": "一日中雨が降りました",
    "translit": "Ichinichijū ame ga furimashita",
-   "example": "雨が降りましたか？",
-   "examplePt": "Choveu?",
+   "example": "傘を持って出かけました。",
+   "examplePt": "Saí levando o guarda-chuva.",
    "pron": "i-chi-ni-chi-JŪ A-me ga fu-ri-MA-shi-ta — 'jū' longo",
    "curiosity": "O japonês tem muitas palavras de chuva, como 小雨 (kosame), a garoa."
   },
@@ -1605,27 +1605,27 @@
   },
   "sp26-01": {
    "word": "お会いできて嬉しいです",
-   "translit": "Oaidekite ureshii desu",
+   "translit": "Oai dekite ureshii desu",
    "example": "私もです。よろしくお願いします。",
    "examplePt": "Eu também. Conto com você.",
    "pron": "o-a-i-de-KI-te u-RE-shi-i dess — o 'u' final de 'desu' quase some",
-   "curiosity": "O 'お' no início eleva o respeito: é a forma humilde para dizer que foi um prazer encontrar alguém."
+   "curiosity": "お会いする é a forma humilde de 会う: ao usá-la, você se coloca abaixo de quem encontra."
   },
   "sp26-02": {
-   "word": "いっしょにコーヒーを飲みませんか？",
-   "translit": "Issho ni kōhī o nomimasen ka",
+   "word": "一緒にコーヒーを飲みませんか？",
+   "translit": "Issho ni kōhī o nomimasen ka?",
    "example": "いいですね、いつにしますか？",
-   "examplePt": "Boa ideia, quando fica bom?",
-   "pron": "is-SHO ni kô-RÍ o no-mi-ma-SEN ka — 'ssh' é um 'x' prolongado",
+   "examplePt": "Boa ideia! Quando você pode?",
+   "pron": "is-SHO ni KŌ-HĪ o no-mi-ma-SEN ka — 'ssh' é um 'x' prolongado; 'kō' e 'hī' são longos",
    "curiosity": "Perguntar 'ませんか' (literalmente 'não bebemos?') é o jeito mais gentil de convidar alguém."
   },
   "sp26-03": {
-   "word": "友だちになりませんか？",
-   "translit": "Tomodachi ni narimasen ka",
+   "word": "友達になりませんか？",
+   "translit": "Tomodachi ni narimasen ka?",
    "example": "はい、ぜひなりましょう。",
-   "examplePt": "Sim, vamos ser, sim.",
+   "examplePt": "Sim, vamos ser amigos!",
    "pron": "to-mo-DA-tchi ni na-ri-ma-SEN ka — 'chi' soa 'tchi', sem acento forte",
-   "curiosity": "Em 友だち, o 'だち' vem do sufixo plural 'たち'; hoje a palavra serve até para um único amigo."
+   "curiosity": "Em 友達, o 達 é o sufixo plural 'たち' (como em 私たち); hoje a palavra serve até para um único amigo."
   },
   "sp26-04": {
    "word": "もっと話しましょう",
@@ -1641,11 +1641,11 @@
    "example": "私もいつも笑顔になります。",
    "examplePt": "Eu também sempre fico sorrindo.",
    "pron": "a-na-ta to i-ru to ta-no-SHI-i dess — 'shii' com i longo",
-   "curiosity": "O kanji 楽 aparece em 楽しい (divertido) e em 音楽 (ongaku, música): diversão e música andam juntas."
+   "curiosity": "〜といると quer dizer 'quando estou com...': あなたといると, 'quando estou com você'."
   },
   "sp26-06": {
-   "word": "友だちを紹介してもいいですか？",
-   "translit": "Tomodachi o shōkai shite mo ii desu ka",
+   "word": "友達を紹介してもいいですか？",
+   "translit": "Tomodachi o shōkai shite mo ii desu ka?",
    "example": "ええ、ぜひ会いたいです。",
    "examplePt": "Claro, adoraria conhecê-la.",
    "pron": "to-mo-da-tchi o SHÔ-ka-i shi-te mo i-i des ka — 'shō' longo",
@@ -1657,7 +1657,7 @@
    "example": "こちらこそ、ありがとう。",
    "examplePt": "Eu é que agradeço.",
    "pron": "o-ha-na-shi de-KI-te ta-no-shi-KAT-ta dess — 'kk/tt' com pausa curta",
-   "curiosity": "O passado de いい (bom) é よかった, não 'いかった': é um dos poucos adjetivos irregulares."
+   "curiosity": "楽しかった é o passado de 楽しい: troque o い final por かった."
   },
   "sp26-08": {
    "word": "今日は来てくれてありがとうございます",
@@ -1669,7 +1669,7 @@
   },
   "sp27-01": {
    "word": "お飲み物はいかがですか？",
-   "translit": "O nomimono wa ikaga desu ka",
+   "translit": "O nomimono wa ikaga desu ka?",
    "example": "お茶をお願いします。",
    "examplePt": "Um chá, por favor.",
    "pron": "o no-mi-mo-NO wa i-KA-ga des ka — o 'ga' é nasal suave",
@@ -1693,7 +1693,7 @@
   },
   "sp27-04": {
    "word": "おかわりしますか？",
-   "translit": "Okawari shimasu ka",
+   "translit": "Okawari shimasu ka?",
    "example": "はい、もう少しいただきます。",
    "examplePt": "Sim, aceito um pouco mais.",
    "pron": "o-ka-WA-ri shi-ma-su ka — o 'r' é um toque leve de língua, entre 'r' e 'l'",
@@ -1704,7 +1704,7 @@
    "translit": "Kono sūpu wa totemo atsui desu",
    "example": "気をつけてくださいね。",
    "examplePt": "Cuidado, hein.",
-   "pron": "ko-no SÛ-pu wa to-TE-mo at-SU-i dess — 'sū' com u longo",
+   "pron": "ko-no SŪ-pu wa to-TE-mo a-TSU-i dess — 'sū' com u longo; 'ts' é um 't' colado ao 's'",
    "curiosity": "熱い e 暑い (calor do clima) soam igual, 'atsui', mas têm kanji diferentes."
   },
   "sp27-06": {
@@ -1717,7 +1717,7 @@
   },
   "sp27-07": {
    "word": "塩を取ってもらえますか？",
-   "translit": "Shio o totte moraemasu ka",
+   "translit": "Shio o totte moraemasu ka?",
    "example": "はい、どうぞ。",
    "examplePt": "Claro, aqui está.",
    "pron": "shi-O o tot-TE mo-ra-e-mas ka — 'tt' com pausa; 'r' leve",
@@ -1813,7 +1813,7 @@
   },
   "sp29-03": {
    "word": "切符はいくらですか？",
-   "translit": "Kippu wa ikura desu ka",
+   "translit": "Kippu wa ikura desu ka?",
    "example": "往復で二万円ぐらいです。",
    "examplePt": "Ida e volta custa cerca de vinte mil ienes.",
    "pron": "KIP-pu wa i-KU-ra des ka — 'pp' com pausa curta",
@@ -1833,11 +1833,11 @@
    "example": "朝の便は混みますからね。",
    "examplePt": "Os voos da manhã costumam encher.",
    "pron": "KÛ-kô ni ha-YA-ku tsu-ki-ma-SHÔ — 'tsu' como 'ts' de 'tsé-tsé'",
-   "curiosity": "空港 é 空 (céu) + 港 (porto): literalmente, 'porto do céu'."
+   "curiosity": "早く é 'cedo'; 速く é 'rápido': a leitura é a mesma (hayaku), mas o kanji muda."
   },
   "sp29-06": {
    "word": "どこで車を借りられますか？",
-   "translit": "Doko de kuruma o karirare masu ka",
+   "translit": "Doko de kuruma o kariraremasu ka?",
    "example": "駅の前に店がありますよ。",
    "examplePt": "Tem uma loja em frente à estação.",
    "pron": "DO-ko de ku-RU-ma o ka-ri-ra-re-mas ka — 'r' leve de língua",
@@ -1865,7 +1865,7 @@
    "example": "私も、とても楽しかったです。",
    "examplePt": "Eu também me diverti muito.",
    "pron": "a-E-te yo-KAT-ta dess — 'tt' com pausa curtinha",
-   "curiosity": "'会う' pede a partícula に: 友だちに会う significa 'encontrar um amigo'."
+   "curiosity": "会えて é a forma potencial de 会う: 'consegui encontrar você'."
   },
   "sp30-02": {
    "word": "メッセージを送ってください",
@@ -1905,7 +1905,7 @@
    "example": "私も寂しいです。",
    "examplePt": "Eu também sinto sua falta.",
    "pron": "a-na-ta ga i-na-KU-te sa-BI-shi-ku na-ri-mas — 'ga' nasal suave",
-   "curiosity": "Não há verbo para 'sentir falta': diz-se que algo 'fica solitário', com 寂しい (sabishii)."
+   "curiosity": "寂しい é 'solitário' e também 'com saudade': 寂しくなる é 'vai ficar solitário sem você'."
   },
   "sp30-07": {
    "word": "また今度会いましょう",
@@ -1921,11 +1921,11 @@
    "example": "ありがとう、あなたもどうぞ。",
    "examplePt": "Obrigado, você também.",
    "pron": "i-i is-SHÛ-kan o su-go-SHI-te ku-da-sa-i — 'ssh' prolongado, 'shū' longo",
-   "curiosity": "Os dias da semana vêm de elementos: 月曜日 é 'dia da lua' e 火曜日 é 'dia do fogo'."
+   "curiosity": "週 é 'semana': 今週 (esta semana), 来週 (a próxima) e 先週 (a passada)."
   },
   "sp31-01": {
    "word": "手を貸してくれませんか？",
-   "translit": "Te o kashite kuremasen ka",
+   "translit": "Te o kashite kuremasen ka?",
    "example": "はい、何をしましょうか？",
    "examplePt": "Claro, o que faço?",
    "pron": "te o ka-SHI-te ku-re-ma-SEN ka — 'shi' soa 'xi'",
@@ -1933,7 +1933,7 @@
   },
   "sp31-02": {
    "word": "お待ちいただけますか？",
-   "translit": "Omachi itadakemasu ka",
+   "translit": "Omachi itadakemasu ka?",
    "example": "はい、ここで待ちます。",
    "examplePt": "Sim, espero aqui.",
    "pron": "o-MA-tchi i-ta-da-KE-mas ka — 'chi' soa 'tchi'",
@@ -1949,7 +1949,7 @@
   },
   "sp31-04": {
    "word": "充電器を借りてもいいですか？",
-   "translit": "Jūdenki o karite mo ii desu ka",
+   "translit": "Jūdenki o karite mo ii desu ka?",
    "example": "どうぞ、机の上にあります。",
    "examplePt": "Fique à vontade, está sobre a mesa.",
    "pron": "JÛ-den-ki o ka-RI-te mo i-i des ka — 'jū' é 'djû' longo",
@@ -1973,7 +1973,7 @@
   },
   "sp31-07": {
    "word": "席を取っておいてくれますか？",
-   "translit": "Seki o totte oite kuremasu ka",
+   "translit": "Seki o totte oite kuremasu ka?",
    "example": "いいですよ、ここに荷物を置きます。",
    "examplePt": "Pode deixar, ponho minha bagagem aqui.",
    "pron": "SE-ki o tot-TE o-I-te ku-re-mas ka — 'tt' com pausa curta",
@@ -1981,7 +1981,7 @@
   },
   "sp31-08": {
    "word": "窓を開けてもいいですか？",
-   "translit": "Mado o akete mo ii desu ka",
+   "translit": "Mado o akete mo ii desu ka?",
    "example": "ええ、少し暑いですね。",
    "examplePt": "Claro, está um pouco quente.",
    "pron": "MA-do o a-KE-te mo i-i des ka — 'do' seco, sem 'dô' longo",
@@ -1997,7 +1997,7 @@
   },
   "sp32-02": {
    "word": "お会計をお願いできますか？",
-   "translit": "Okaikei o onegai dekimasu ka",
+   "translit": "Okaikei o onegai dekimasu ka?",
    "example": "はい、少々お待ちください。",
    "examplePt": "Certo, um momento, por favor.",
    "pron": "o-KA-i-kê o o-ne-GA-i de-ki-mas ka — 'kei' soa 'kê'",
@@ -2005,7 +2005,7 @@
   },
   "sp32-03": {
    "word": "今日のおすすめは何ですか？",
-   "translit": "Kyō no osusume wa nan desu ka",
+   "translit": "Kyō no osusume wa nan desu ka?",
    "example": "焼き魚定食がおすすめです。",
    "examplePt": "Recomendo o menu de peixe grelhado.",
    "pron": "KYÔ no o-su-SU-me wa NAN des ka — 'n' final nasaliza a vogal",
@@ -2013,7 +2013,7 @@
   },
   "sp32-04": {
    "word": "この料理は辛いですか？",
-   "translit": "Kono ryōri wa karai desu ka",
+   "translit": "Kono ryōri wa karai desu ka?",
    "example": "いいえ、とてもまろやかです。",
    "examplePt": "Não, é bem suave.",
    "pron": "ko-no RYÔ-ri wa ka-RA-i des ka — 'ryō' é 'riô' com o longo",
@@ -2021,7 +2021,7 @@
   },
   "sp32-05": {
    "word": "パンをもう少しいただけますか？",
-   "translit": "Pan o mō sukoshi itadakemasu ka",
+   "translit": "Pan o mō sukoshi itadakemasu ka?",
    "example": "はい、すぐお持ちします。",
    "examplePt": "Sim, já trago.",
    "pron": "PAN o mô su-ko-SHI i-ta-da-KE-mas ka — 'pan' como 'pão' sem nasal forte",
@@ -2045,7 +2045,7 @@
   },
   "sp32-08": {
    "word": "会計を二つに分けられますか？",
-   "translit": "Kaikei o futatsu ni wakeraremasu ka",
+   "translit": "Kaikei o futatsu ni wakeraremasu ka?",
    "example": "はい、大丈夫です。",
    "examplePt": "Sim, sem problema.",
    "pron": "KA-i-kê o fu-TA-tsu ni wa-ke-ra-re-mas ka — 'fu' é um 'f' bem leve",
@@ -2061,7 +2061,7 @@
   },
   "sp33-02": {
    "word": "もう少し小さいサイズはありますか？",
-   "translit": "Mō sukoshi chiisai saizu wa arimasu ka",
+   "translit": "Mō sukoshi chiisai saizu wa arimasu ka?",
    "example": "はい、在庫を見てきます。",
    "examplePt": "Sim, vou verificar o estoque.",
    "pron": "mô su-ko-SHI tchî-sa-i SA-i-zu wa a-ri-mas ka — 'chii' é 'tchî' longo",
@@ -2069,7 +2069,7 @@
   },
   "sp33-03": {
    "word": "このシャツを試着してもいいですか？",
-   "translit": "Kono shatsu o shichaku shite mo ii desu ka",
+   "translit": "Kono shatsu o shichaku shite mo ii desu ka?",
    "example": "はい、こちらへどうぞ。",
    "examplePt": "Claro, por aqui.",
    "pron": "ko-no SHA-tsu o shi-CHA-ku shi-te mo i-i des ka — 'sha' soa 'xa'",
@@ -2077,7 +2077,7 @@
   },
   "sp33-04": {
    "word": "カードで払えますか？",
-   "translit": "Kādo de haraemasu ka",
+   "translit": "Kādo de haraemasu ka?",
    "example": "はい、どのカードでも大丈夫です。",
    "examplePt": "Sim, qualquer cartão serve.",
    "pron": "KÂ-do de ha-ra-E-mas ka — 'kā' longo; 'r' leve",
@@ -2093,7 +2093,7 @@
   },
   "sp33-06": {
    "word": "現金で払うと安くなりますか？",
-   "translit": "Genkin de harau to yasuku narimasu ka",
+   "translit": "Genkin de harau to yasuku narimasu ka?",
    "example": "すみません、同じ値段です。",
    "examplePt": "Desculpe, o preço é o mesmo.",
    "pron": "GEN-kin de ha-RA-u to ya-SU-ku na-ri-mas ka — 'g' duro, 'n' nasal",
@@ -2101,7 +2101,7 @@
   },
   "sp33-07": {
    "word": "プレゼント用に包んでもらえますか？",
-   "translit": "Purezento-yō ni tsutsunde moraemasu ka",
+   "translit": "Purezento-yō ni tsutsunde moraemasu ka?",
    "example": "はい、リボンもつけますね。",
    "examplePt": "Sim, ponho uma fita também.",
    "pron": "pu-re-ZEN-to yô ni tsu-TSUN-de mo-ra-E-mas ka — 'tsu' com 'ts'",
@@ -2125,7 +2125,7 @@
   },
   "sp34-02": {
    "word": "搭乗口はどこですか？",
-   "translit": "Tōjōguchi wa doko desu ka",
+   "translit": "Tōjōguchi wa doko desu ka?",
    "example": "あの案内板の右です。",
    "examplePt": "É à direita daquela placa.",
    "pron": "TÔ-jô-gu-tchi wa DO-ko des ka — 'tō' e 'jō' longos",
@@ -2165,7 +2165,7 @@
   },
   "sp34-07": {
    "word": "搭乗は何時ですか？",
-   "translit": "Tōjō wa nanji desu ka",
+   "translit": "Tōjō wa nanji desu ka?",
    "example": "三時半から始まります。",
    "examplePt": "Começa às três e meia.",
    "pron": "TÔ-jô wa NAN-ji des ka — 'tō/jō' longos; 'nanji' com 'n' nasal",
@@ -2189,7 +2189,7 @@
   },
   "sp35-02": {
    "word": "朝食は何時からですか？",
-   "translit": "Chōshoku wa nanji kara desu ka",
+   "translit": "Chōshoku wa nanji kara desu ka?",
    "example": "七時から十時までです。",
    "examplePt": "Das sete às dez.",
    "pron": "TCHÔ-sho-ku wa NAN-ji ka-ra des ka — 'chō' é 'tchô' longo",
@@ -2205,7 +2205,7 @@
   },
   "sp35-04": {
    "word": "タクシーを呼んでもらえますか？",
-   "translit": "Takushī o yonde moraemasu ka",
+   "translit": "Takushī o yonde moraemasu ka?",
    "example": "はい、五分で来ます。",
    "examplePt": "Sim, chega em cinco minutos.",
    "pron": "ta-KU-shî o YON-de mo-ra-E-mas ka — 'shī' longo",
@@ -2229,7 +2229,7 @@
   },
   "sp35-07": {
    "word": "部屋にインターネットはありますか？",
-   "translit": "Heya ni intānetto wa arimasu ka",
+   "translit": "Heya ni intānetto wa arimasu ka?",
    "example": "はい、無料で使えます。",
    "examplePt": "Sim, é de graça.",
    "pron": "HE-ya ni in-TÂ-net-to wa a-ri-mas ka — 'tā' longo",
@@ -2237,7 +2237,7 @@
   },
   "sp35-08": {
    "word": "部屋は二階ですか？",
-   "translit": "Heya wa nikai desu ka",
+   "translit": "Heya wa nikai desu ka?",
    "example": "はい、エレベーターの右です。",
    "examplePt": "Sim, à direita do elevador.",
    "pron": "HE-ya wa ni-KA-i des ka — 'ya' aberto",
@@ -2269,7 +2269,7 @@
   },
   "sp36-04": {
    "word": "ここから歩くと遠いですか？",
-   "translit": "Koko kara aruku to tōi desu ka",
+   "translit": "Koko kara aruku to tōi desu ka?",
    "example": "歩いて五分ぐらいです。",
    "examplePt": "Uns cinco minutos a pé.",
    "pron": "KO-ko ka-ra a-RU-ku to TÔ-i des ka — 'tōi' com o longo",
@@ -2285,7 +2285,7 @@
   },
   "sp36-06": {
    "word": "このあたりに近道はありますか？",
-   "translit": "Kono atari ni chikamichi wa arimasu ka",
+   "translit": "Kono atari ni chikamichi wa arimasu ka?",
    "example": "公園を通ると早いですよ。",
    "examplePt": "Passando pelo parque é mais rápido.",
    "pron": "ko-no a-TA-ri ni tchi-ka-MI-tchi wa a-ri-mas ka — 'chi' soa 'tchi'",
@@ -2293,7 +2293,7 @@
   },
   "sp36-07": {
    "word": "どこに駐車できますか？",
-   "translit": "Doko ni chūsha dekimasu ka",
+   "translit": "Doko ni chūsha dekimasu ka?",
    "example": "裏に駐車場があります。",
    "examplePt": "Tem um estacionamento nos fundos.",
    "pron": "DO-ko ni TCHÛ-sha de-ki-mas ka — 'chū' é 'tchû' longo",
@@ -2305,7 +2305,7 @@
    "example": "では、少し待ちましょう。",
    "examplePt": "Então vamos esperar um pouco.",
    "pron": "BA-su wa jup-PUN o-ki ni ki-mas — 'pp' com pausa; 'ju' soa 'dju'",
-   "curiosity": "十分 lê-se 'juppun' (dez minutos) ou 'jūbun' (suficiente): mesma escrita, dois sentidos!"
+   "curiosity": "おき quer dizer 'a cada intervalo': 十分おき, 一日おき (dia sim, dia não)."
   },
   "sp37-01": {
    "word": "頭がずきずきします",
@@ -2349,7 +2349,7 @@
   },
   "sp37-06": {
    "word": "これはどのくらいの頻度で飲みますか？",
-   "translit": "Kore wa dono kurai no hindo de nomimasu ka",
+   "translit": "Kore wa dono kurai no hindo de nomimasu ka?",
    "example": "一日三回、食後です。",
    "examplePt": "Três vezes ao dia, após a refeição.",
    "pron": "ko-re wa do-no KU-ra-i no HIN-do de no-mi-mas ka — 'n' nasal",
@@ -2445,7 +2445,7 @@
   },
   "sp39-02": {
    "word": "提案してもいいですか？",
-   "translit": "Teian shite mo ii desu ka",
+   "translit": "Teian shite mo ii desu ka?",
    "example": "はい、聞かせてください。",
    "examplePt": "Sim, quero ouvir.",
    "pron": "te-AN shi-te mo i-i des ka — 'tei' soa 'tê-i' ",
@@ -2457,7 +2457,7 @@
    "example": "私も同じ考えです。",
    "examplePt": "Penso igual.",
    "pron": "a-na-ta no i-KEN ni SAN-sê dess — 'sei' soa 'sê'",
-   "curiosity": "賛成 (concordar) tem o oposto 反対 (hantai, discordar); ambos são essenciais em reuniões."
+   "curiosity": "意見 é 'opinião': 意見を言う quer dizer 'dar uma opinião'."
   },
   "sp39-04": {
    "word": "締め切りは金曜日です",
@@ -2477,7 +2477,7 @@
   },
   "sp39-06": {
    "word": "これは誰が担当しますか？",
-   "translit": "Kore wa dare ga tantō shimasu ka",
+   "translit": "Kore wa dare ga tantō shimasu ka?",
    "example": "私がやります。",
    "examplePt": "Eu faço.",
    "pron": "ko-re wa DA-re ga tan-TÔ shi-mas ka — 'dare' com 'r' leve",
@@ -2485,7 +2485,7 @@
   },
   "sp39-07": {
    "word": "明日に延期できますか？",
-   "translit": "Ashita ni enki dekimasu ka",
+   "translit": "Ashita ni enki dekimasu ka?",
    "example": "はい、問題ありません。",
    "examplePt": "Sim, sem problema.",
    "pron": "a-SHI-ta ni EN-ki de-ki-mas ka — 'shi' soa 'xi'",
@@ -2533,7 +2533,7 @@
   },
   "sp40-05": {
    "word": "いつから始められますか？",
-   "translit": "Itsu kara hajimeraremasu ka",
+   "translit": "Itsu kara hajimeraremasu ka?",
    "example": "来週の月曜日からです。",
    "examplePt": "A partir de segunda que vem.",
    "pron": "I-tsu ka-ra ha-ji-me-RA-re-mas ka — 'tsu' com 'ts'",
@@ -2549,10 +2549,10 @@
   },
   "sp40-07": {
    "word": "月給はいくらですか？",
-   "translit": "Gekkyū wa ikura desu ka",
+   "translit": "Gekkyū wa ikura desu ka?",
    "example": "詳しくは書類をご覧ください。",
    "examplePt": "Veja os detalhes no documento.",
-   "pron": "guêk-KYÛ wa i-KU-ra des ka — 'kyū' é 'quiû' longo",
+   "pron": "GEK-kyū wa i-KU-ra des ka — 'kk' com pausa curta; 'kyū' é longo",
    "curiosity": "月給 é o salário do mês: 月 é 'mês' e 給 é 'fornecer'; 年収 é o ganho do ano."
   },
   "sp40-08": {
@@ -2573,7 +2573,7 @@
   },
   "sp41-02": {
    "word": "この案についてどう思いますか？",
-   "translit": "Kono an ni tsuite dō omoimasu ka",
+   "translit": "Kono an ni tsuite dō omoimasu ka?",
    "example": "私は少し心配です。",
    "examplePt": "Estou um pouco preocupado.",
    "pron": "ko-no AN ni tsu-I-te DÔ o-MO-i-mas ka — 'dō' com o longo",
@@ -2668,12 +2668,12 @@
    "curiosity": "'つもりはない' quer dizer 'não era minha intenção': つもり é 'intenção, plano'."
   },
   "sp42-06": {
-   "word": "この話はもう忘れませんか？",
-   "translit": "Kono hanashi wa mō wasuremasen ka",
+   "word": "この話はもう忘れましょうか？",
+   "translit": "Kono hanashi wa mō wasuremashō ka?",
    "example": "そうしましょう、仲直りです。",
    "examplePt": "Vamos, fazer as pazes.",
-   "pron": "ko-no ha-NA-shi wa mô wa-su-re-ma-SEN ka — 'su' curto",
-   "curiosity": "忘れ物 (wasuremono) é 'coisa esquecida', e as lojas de achados e perdidos usam esse nome."
+   "pron": "ko-no ha-NA-shi wa mô wa-su-re-ma-SHÔ ka — 'shō' é longo",
+   "curiosity": "忘れる é 'esquecer'; 忘れ物 (wasuremono) é 'objeto esquecido', aviso comum em trens."
   },
   "sp42-07": {
    "word": "分かってくれてうれしいです",
@@ -2697,11 +2697,11 @@
    "example": "もっと面白い話がありますよ。",
    "examplePt": "Tenho histórias ainda mais engraçadas.",
    "pron": "SO-re o-mo-SHI-ro-i, su-GO-ku wa-ra-i-ma-SHI-ta — 'r' leve",
-   "curiosity": "面白い (omoshiroi) vale para 'engraçado' e 'interessante': o contexto decide."
+   "curiosity": "すごく é o 'muito' do dia a dia, mais solto do que とても."
   },
   "sp43-02": {
    "word": "冗談でしょう？",
-   "translit": "Jōdan deshō",
+   "translit": "Jōdan deshō?",
    "example": "いいえ、本当の話です。",
    "examplePt": "Não, é verdade.",
    "pron": "JÔ-dan de-SHÔ — 'jō' longo, 'shō' é 'xô' longo",
@@ -2773,7 +2773,7 @@
   },
   "sp44-03": {
    "word": "次回にしましょう、いいですか？",
-   "translit": "Jikai ni shimashō, ii desu ka",
+   "translit": "Jikai ni shimashō, ii desu ka?",
    "example": "はい、そうしましょう。",
    "examplePt": "Sim, vamos fazer assim.",
    "pron": "JI-ka-i ni shi-ma-SHÔ, i-i des ka — 'ji' soa 'dji'",
@@ -2782,14 +2782,14 @@
   "sp44-04": {
    "word": "誰でも連れてきていいですよ",
    "translit": "Dare demo tsurete kite ii desu yo",
-   "example": "では、友だちを二人連れていきます。",
+   "example": "では、友達を二人連れていきます。",
    "examplePt": "Então levo dois amigos.",
    "pron": "DA-re de-mo tsu-RE-te KI-te i-i des yo — 'tsu' com 'ts'",
    "curiosity": "連れる (tsureru) é para levar pessoas ou animais; para objetos usa-se 持つ (motsu)."
   },
   "sp44-05": {
    "word": "パーティーは何時に始まりますか？",
-   "translit": "Pātī wa nanji ni hajimarimasu ka",
+   "translit": "Pātī wa nanji ni hajimarimasu ka?",
    "example": "夕方の六時からです。",
    "examplePt": "A partir das seis da tarde.",
    "pron": "PÂ-tî wa NAN-ji ni ha-ji-ma-ri-mas ka — 'pā' e 'tī' longos",
@@ -2797,7 +2797,7 @@
   },
   "sp44-06": {
    "word": "デザートを持っていってもいいですか？",
-   "translit": "Dezāto o motte itte mo ii desu ka",
+   "translit": "Dezāto o motte itte mo ii desu ka?",
    "example": "うれしいです、お願いします。",
    "examplePt": "Fico feliz, por favor.",
    "pron": "de-ZÂ-to o mot-TE it-TE mo i-i des ka — 'zā' longo",
@@ -2901,7 +2901,7 @@
   },
   "sp46-03": {
    "word": "リンクを送ってもらえますか？",
-   "translit": "Rinku o okutte moraemasu ka",
+   "translit": "Rinku o okutte moraemasu ka?",
    "example": "はい、メールで送ります。",
    "examplePt": "Sim, mando por e-mail.",
    "pron": "RIN-ku o o-KUT-te mo-ra-E-mas ka — 'r' leve, tipo 'l'",
@@ -2948,19 +2948,19 @@
    "curiosity": "Fotografar usa 撮る (toru), com o kanji 撮, e não o 取る de 'pegar'."
   },
   "sp47-01": {
-   "word": "子どものころ、田舎に住んでいました",
+   "word": "子供のころ、田舎に住んでいました",
    "translit": "Kodomo no koro, inaka ni sunde imashita",
    "example": "毎日、川で遊びました。",
    "examplePt": "Brincava no rio todos os dias.",
    "pron": "ko-DO-mo no KO-ro, i-NA-ka ni SUN-de i-ma-SHI-ta — 'r' leve",
-   "curiosity": "ころ (頃) quer dizer 'época de': 子どものころ é 'quando eu era criança'."
+   "curiosity": "ころ (頃) quer dizer 'época de': 子供のころ é 'quando eu era criança'."
   },
   "sp47-02": {
-   "word": "学校の初日をよく覚えています",
-   "translit": "Gakkō no shonichi o yoku oboete imasu",
+   "word": "初めて学校に行った日をよく覚えています",
+   "translit": "Hajimete gakkō ni itta hi o yoku oboete imasu",
    "example": "緊張して朝ご飯を残しました。",
    "examplePt": "Fiquei tenso e deixei o café da manhã.",
-   "pron": "gak-KÔ no sho-NI-tchi o YO-ku o-BO-e-te i-mas — 'kk' com pausa",
+   "pron": "ha-ji-me-te gak-KÔ ni it-TA hi o YO-ku o-BO-e-te i-mas — 'kk' e 'tt' com pausa curta",
    "curiosity": "覚える (oboeru) é 'lembrar' e também 'memorizar': 単語を覚える é 'decorar palavras'."
   },
   "sp47-03": {
@@ -3005,7 +3005,7 @@
   },
   "sp47-08": {
    "word": "それで、そのあとどうなりましたか？",
-   "translit": "Sorede, sono ato dō narimashita ka",
+   "translit": "Sorede, sono ato dō narimashita ka?",
    "example": "結局、みんなで大笑いしました。",
    "examplePt": "No fim, todos caímos na risada.",
    "pron": "so-RE-de, so-no A-to DÔ na-ri-ma-SHI-ta ka — 'dō' longo",
@@ -3049,7 +3049,7 @@
    "example": "続ければ、きっと道が開けます。",
    "examplePt": "Se continuar, o caminho se abre.",
    "pron": "DO-ryo-ku su-RE-ba NAN de-mo de-ki-MAS — 'ryo' é 'rio' curto",
-   "curiosity": "'すれば' é a forma condicional: 'se fizer'. Trocando o final だ→ば, os verbos viram 'se'."
+   "curiosity": "O condicional ば troca a última sílaba por uma em え e põe ば: 行く vira 行けば; 食べる vira 食べれば."
   },
   "sp48-06": {
    "word": "まだまだ学ぶことがたくさんあります",
@@ -3097,7 +3097,7 @@
    "example": "歯をみがく間は止めましょう。",
    "examplePt": "Vamos fechar a torneira ao escovar os dentes.",
    "pron": "mi-ZU o set-SU-ya-ku shi-na-KE-re-ba na-ri-ma-SEN — 'tsu' com 'ts'",
-   "curiosity": "節約 vem do kanji 節 (moderação) + 約 (aperto): economizar é 'apertar com moderação'."
+   "curiosity": "節約 é 'economia' de água, energia ou dinheiro; 節約する é o verbo."
   },
   "sp49-04": {
    "word": "仕事には自転車で行くほうが好きです",
@@ -3113,11 +3113,11 @@
    "example": "週末に公園で植えませんか？",
    "examplePt": "Que tal plantar no parque no fim de semana?",
    "pron": "KI o u-E-ru to tchi-KYÛ no ta-ME ni na-ri-mas — 'kyū' longo",
-   "curiosity": "Um 木 é árvore, dois 木 formam 林 (bosque) e três formam 森 (floresta)."
+   "curiosity": "植える é 'plantar' mudas e flores; 植物 (shokubutsu) é 'planta' em geral."
   },
   "sp49-06": {
    "word": "ビニール袋は使わないようにしましょう",
-   "translit": "Biniiru bukuro wa tsukawanai yō ni shimashō",
+   "translit": "Binīru bukuro wa tsukawanai yō ni shimashō",
    "example": "買い物袋を持ってきましたか？",
    "examplePt": "Trouxe a sacola de compras?",
    "pron": "bi-NÎ-ru BU-ku-ro wa tsu-KA-wa-na-i YÔ ni shi-ma-SHÔ — 'nī' longo",
@@ -3129,7 +3129,7 @@
    "example": "毎朝みんなで掃除していますよ。",
    "examplePt": "Todos limpamos toda manhã.",
    "pron": "hi-RO-ba wa KI-rê de su-TE-ki dess — 'rei' soa 'rê'",
-   "curiosity": "きれい quer dizer 'bonito' e também 'limpo': uma palavra para as duas ideias."
+   "curiosity": "Adjetivos-na ligam-se com で (きれいで); nos adjetivos em い, troca-se い por くて (広くて)."
   },
   "sp49-08": {
    "word": "みんなで町を大切にしましょう",
