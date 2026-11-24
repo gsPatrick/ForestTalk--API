@@ -1,0 +1,3207 @@
+{
+ "game": "pairs",
+ "language": "zh",
+ "version": 2,
+ "entries": {
+  "pr01-01": {
+   "word": "狮子",
+   "translit": "shīzi",
+   "example": "狮子在草地上睡觉。",
+   "examplePt": "O leão dorme na grama.",
+   "pron": "SHI-dze — 'sh' com a língua enrolada; 1º tom, alto e plano",
+   "curiosity": "Na dança do leão (舞狮), feita no Ano Novo Chinês, duas pessoas vestem uma fantasia de leão."
+  },
+  "pr01-02": {
+   "word": "老虎",
+   "translit": "lǎohǔ",
+   "example": "老虎在森林里散步。",
+   "examplePt": "O tigre passeia pela floresta.",
+   "pron": "lau-RRU — 3º tom: a voz desce e sobe; 'h' é aspirado",
+   "curiosity": "老虎 é 'velho tigre', mas 老 aqui só dá um tom familiar ao nome do animal."
+  },
+  "pr01-03": {
+   "word": "大象",
+   "translit": "dàxiàng",
+   "example": "大象用鼻子喝水。",
+   "examplePt": "O elefante bebe água com a tromba.",
+   "pron": "da-CHIANG — 'x' é um 'ch' suave com os lábios esticados; tons 4 e 4",
+   "curiosity": "大象 é 'grande elefante'; o caractere 象 sozinho já significa elefante."
+  },
+  "pr01-04": {
+   "word": "长颈鹿",
+   "translit": "chángjǐnglù",
+   "example": "长颈鹿的脖子真长！",
+   "examplePt": "O pescoço da girafa é bem longo!",
+   "pron": "chang-djing-LU — 'ch' com a língua enrolada; 2º, 3º e 4º tons",
+   "curiosity": "O nome diz tudo: 长 (longo) + 颈 (pescoço) + 鹿 (cervo), ou seja, 'cervo de pescoço longo'."
+  },
+  "pr01-05": {
+   "word": "猴子",
+   "translit": "hóuzi",
+   "example": "猴子爬到树上了。",
+   "examplePt": "O macaco subiu na árvore.",
+   "pron": "rrôu-dze — 'h' aspirado e 2º tom subindo; 'zi' fica leve",
+   "curiosity": "O sufixo 子 aparece em muitas palavras, como 猴子 e 桌子; ele costuma marcar substantivos."
+  },
+  "pr01-06": {
+   "word": "斑马",
+   "translit": "bānmǎ",
+   "example": "斑马身上有什么？",
+   "examplePt": "O que tem no corpo da zebra?",
+   "pron": "ban-MA — 'b' é um 'p' sem sopro; 1º tom alto e 3º tom baixo",
+   "curiosity": "斑马 é 'cavalo com manchas/listras': 斑 quer dizer pintas ou listras, e 马 é cavalo."
+  },
+  "pr01-07": {
+   "word": "河马",
+   "translit": "hémǎ",
+   "example": "河马张开了大嘴。",
+   "examplePt": "O hipopótamo abriu a bocona.",
+   "pron": "rrê-MA — 'h' aspirado; 2º tom sobe e 3º tom desce",
+   "curiosity": "Em chinês o hipopótamo é o 'cavalo do rio': 河 (rio) + 马 (cavalo)."
+  },
+  "pr01-08": {
+   "word": "鳄鱼",
+   "translit": "èyú",
+   "example": "鳄鱼躲在河水里。",
+   "examplePt": "O crocodilo se esconde na água do rio.",
+   "pron": "ê-IÜ — 'ü' é um 'i' com lábios de 'u'; 4º tom cai e 2º sobe",
+   "curiosity": "鳄鱼 tem 鱼 (peixe) no nome, mas o crocodilo é réptil, não peixe."
+  },
+  "pr02-01": {
+   "word": "老鹰",
+   "translit": "lǎoyīng",
+   "example": "老鹰在天上盘旋。",
+   "examplePt": "A águia circula no céu.",
+   "pron": "lau-ING — 3º tom (desce e sobe) e depois 1º tom alto",
+   "curiosity": "鹰 sozinho já quer dizer águia ou gavião; 老鹰 é a forma mais falada no dia a dia."
+  },
+  "pr02-02": {
+   "word": "企鹅",
+   "translit": "qǐ'é",
+   "example": "企鹅走路摇摇摆摆。",
+   "examplePt": "O pinguim anda balançando.",
+   "pron": "tchi-Ê — 'q' é um 'tch' com a língua atrás dos dentes de baixo",
+   "curiosity": "O nome junta 企 (ficar na ponta dos pés, de pé) com 鹅 (ganso)."
+  },
+  "pr02-03": {
+   "word": "鹦鹉",
+   "translit": "yīngwǔ",
+   "example": "鹦鹉会学人说话吗？",
+   "examplePt": "O papagaio aprende a falar como gente?",
+   "pron": "ING-u — 1º tom alto e plano, depois 3º tom baixo",
+   "curiosity": "Os dois caracteres de 鹦鹉 têm 鸟 (pássaro) como parte da escrita."
+  },
+  "pr02-04": {
+   "word": "天鹅",
+   "translit": "tiān'é",
+   "example": "天鹅在湖上游泳。",
+   "examplePt": "O cisne nada no lago.",
+   "pron": "tiên-Ê — o apóstrofo separa as sílabas; 1º tom e 2º tom",
+   "curiosity": "天鹅 é 'ganso do céu': 天 (céu) + 鹅 (ganso)."
+  },
+  "pr02-05": {
+   "word": "火烈鸟",
+   "translit": "huǒlièniǎo",
+   "example": "火烈鸟用一只脚站着。",
+   "examplePt": "O flamingo fica em pé numa perna só.",
+   "pron": "rruô-liê-NIAU — 'h' aspirado, 'uo' é 'uô'; tons 3, 4 e 3",
+   "curiosity": "Em 火烈鸟, 火 é fogo e 鸟 é pássaro: um nome que lembra o rosa-alaranjado das penas."
+  },
+  "pr02-06": {
+   "word": "孔雀",
+   "translit": "kǒngquè",
+   "example": "孔雀打开了漂亮的尾巴。",
+   "examplePt": "O pavão abriu a cauda bonita.",
+   "pron": "KRONG-tchüe — 'k' é aspirado; 'q' = 'tch'; tons 3 e 4",
+   "curiosity": "A expressão 孔雀开屏 descreve o pavão abrindo a cauda como um leque."
+  },
+  "pr02-07": {
+   "word": "鸽子",
+   "translit": "gēzi",
+   "example": "鸽子飞过广场。",
+   "examplePt": "O pombo voa sobre a praça.",
+   "pron": "GA-dze — 'g' é um 'k' sem sopro; 1º tom alto e plano",
+   "curiosity": "Em chinês, 和平鸽 (pomba da paz) é um símbolo da paz, como em muitos países."
+  },
+  "pr02-08": {
+   "word": "鸵鸟",
+   "translit": "tuóniǎo",
+   "example": "鸵鸟跑得很快。",
+   "examplePt": "A avestruz corre muito rápido.",
+   "pron": "tuô-NIAU — 'uo' soa como 'uô'; 2º tom sobe e 3º tom desce",
+   "curiosity": "鸟 (niǎo) é o caractere de 'pássaro' e aparece em quase todos os nomes de aves."
+  },
+  "pr03-01": {
+   "word": "蜜蜂",
+   "translit": "mìfēng",
+   "example": "蜜蜂在花上采蜜。",
+   "examplePt": "A abelha colhe mel na flor.",
+   "pron": "mi-FÊNG — 4º tom cai; 'eng' soa como 'êng' nasal",
+   "curiosity": "蜜蜂 é 'abelha do mel': 蜜 (mel) + 蜂 (abelha/vespa)."
+  },
+  "pr03-02": {
+   "word": "蝴蝶",
+   "translit": "húdié",
+   "example": "蝴蝶落在我手上。",
+   "examplePt": "A borboleta pousou na minha mão.",
+   "pron": "rru-DIÊ — 'h' aspirado; 2º tom sobe e 2º tom também",
+   "curiosity": "Os dois caracteres de 蝴蝶 têm 虫 (inseto) à esquerda, a chave dos bichinhos."
+  },
+  "pr03-03": {
+   "word": "蚂蚁",
+   "translit": "mǎyǐ",
+   "example": "蚂蚁搬着一块面包。",
+   "examplePt": "A formiga carrega um pedaço de pão.",
+   "pron": "ma-I — 3º tom seguido de 3º tom: o primeiro vira um 2º tom",
+   "curiosity": "Quando dois 3º tons ficam juntos, como em 蚂蚁, o primeiro soa como 2º tom."
+  },
+  "pr03-04": {
+   "word": "蜘蛛",
+   "translit": "zhīzhū",
+   "example": "蜘蛛在墙角织网。",
+   "examplePt": "A aranha tece uma teia no canto.",
+   "pron": "djí-djú — 'zh' é um 'dj' com a língua enrolada; dois 1º tons",
+   "curiosity": "蜘蛛 é uma das poucas palavras em que o mesmo som se repete: zhī-zhū."
+  },
+  "pr03-05": {
+   "word": "苍蝇",
+   "translit": "cāngying",
+   "example": "这里怎么有苍蝇？",
+   "examplePt": "Por que tem mosca aqui?",
+   "pron": "TSANG-ing — 'c' é 'ts' aspirado; 1º tom e sílaba final leve",
+   "curiosity": "Na segunda sílaba, 蝇 soa quase neutro: cāngying (o 'ying' fica curtinho)."
+  },
+  "pr03-06": {
+   "word": "瓢虫",
+   "translit": "piáochóng",
+   "example": "瓢虫有七个点。",
+   "examplePt": "A joaninha tem sete pintinhas.",
+   "pron": "piau-TCHONG — 'p' aspirado; 'ch' com a língua enrolada; 2º tom duas vezes",
+   "curiosity": "瓢 é a concha feita de cabaça; a joaninha ganhou esse nome por causa do corpo redondo."
+  },
+  "pr03-07": {
+   "word": "蚯蚓",
+   "translit": "qiūyǐn",
+   "example": "下雨后蚯蚓出来了。",
+   "examplePt": "Depois da chuva as minhocas saem.",
+   "pron": "tchiôu-IN — 'q' é 'tch'; 1º tom alto e 3º tom baixo",
+   "curiosity": "蚯蚓 tem 虫 em ambos os caracteres, como quase todo bicho pequeno."
+  },
+  "pr03-08": {
+   "word": "蜗牛",
+   "translit": "wōniú",
+   "example": "蜗牛爬得很慢。",
+   "examplePt": "O caracol anda bem devagar.",
+   "pron": "uô-NIÔU — 'w' é um 'u' rápido; 1º tom e 2º tom",
+   "curiosity": "蜗牛 usa 牛 (vaca/boi), por isso é como um 'boi de concha'."
+  },
+  "pr04-01": {
+   "word": "鱼",
+   "translit": "yú",
+   "example": "鱼在水里游来游去。",
+   "examplePt": "O peixe nada de lá para cá na água.",
+   "pron": "IÜ — 'ü' é 'i' com lábios arredondados; 2º tom sobe",
+   "curiosity": "鱼 (yú) soa como 余 (sobra); por isso, no Ano Novo, o peixe simboliza fartura."
+  },
+  "pr04-02": {
+   "word": "鲨鱼",
+   "translit": "shāyú",
+   "example": "鲨鱼的牙齿很多。",
+   "examplePt": "O tubarão tem muitos dentes.",
+   "pron": "SHA-iü — 'sh' com a língua enrolada; 1º tom e 2º tom",
+   "curiosity": "Muitos nomes de peixe terminam em 鱼: 鲨鱼, 鲸鱼, 章鱼."
+  },
+  "pr04-03": {
+   "word": "鲸鱼",
+   "translit": "jīngyú",
+   "example": "鲸鱼是最大的动物吗？",
+   "examplePt": "A baleia é o maior animal?",
+   "pron": "DJING-iü — 'j' é um 'dj' suave; 1º tom alto e 2º tom",
+   "curiosity": "A baleia é mamífero, mas em chinês leva 鱼 (peixe) no nome por tradição."
+  },
+  "pr04-04": {
+   "word": "海豚",
+   "translit": "hǎitún",
+   "example": "海豚跳出了水面。",
+   "examplePt": "O golfinho saltou da água.",
+   "pron": "rrai-TUN — 'h' aspirado; 3º tom desce e sobe; 2º tom",
+   "curiosity": "海豚 é 'porco do mar': 海 (mar) + 豚 (porquinho)."
+  },
+  "pr04-05": {
+   "word": "章鱼",
+   "translit": "zhāngyú",
+   "example": "章鱼有几条腿？",
+   "examplePt": "Quantos tentáculos o polvo tem?",
+   "pron": "DJANG-iü — 'zh' = 'dj' com a língua enrolada; 1º tom, 2º tom",
+   "curiosity": "Existe a palavra 章鱼 para o polvo, mas muita gente também a usa para lulas."
+  },
+  "pr04-06": {
+   "word": "海龟",
+   "translit": "hǎiguī",
+   "example": "海龟慢慢游向海边。",
+   "examplePt": "A tartaruga marinha nada devagar até a costa.",
+   "pron": "rrai-GUEI — 'h' aspirado; 3º tom e 1º tom alto",
+   "curiosity": "海龟 é 'tartaruga do mar'; a tartaruga de terra é 乌龟 (wūguī)."
+  },
+  "pr04-07": {
+   "word": "螃蟹",
+   "translit": "pángxiè",
+   "example": "螃蟹横着走路。",
+   "examplePt": "O caranguejo anda de lado.",
+   "pron": "PANG-chiê — 'x' soa como 'ch' suave; 2º tom sobe, 4º tom cai",
+   "curiosity": "Em chinês, 螃蟹 é muito ligado ao outono, época em que as pessoas gostam de comê-lo."
+  },
+  "pr04-08": {
+   "word": "海豹",
+   "translit": "hǎibào",
+   "example": "海豹在冰上晒太阳。",
+   "examplePt": "A foca toma sol no gelo.",
+   "pron": "rrai-BAU — 'b' é um 'p' sem sopro; 3º tom e 4º tom",
+   "curiosity": "豹 sozinho é leopardo; 海豹 é, literalmente, 'leopardo do mar'."
+  },
+  "pr05-01": {
+   "word": "胡萝卜",
+   "translit": "húluóbo",
+   "example": "兔子爱吃胡萝卜。",
+   "examplePt": "Coelhos adoram comer cenoura.",
+   "pron": "rru-luô-bo — 'h' aspirado; 2º tom, 2º tom e sílaba final leve",
+   "curiosity": "Em palavras de comida, o prefixo 胡 costuma indicar algo que veio de regiões do Ocidente."
+  },
+  "pr05-02": {
+   "word": "土豆",
+   "translit": "tǔdòu",
+   "example": "你想吃土豆泥吗？",
+   "examplePt": "Você quer comer purê de batata?",
+   "pron": "tu-DÔU — 3º tom desce e sobe; 4º tom cai",
+   "curiosity": "土豆 é 'feijão de terra': 土 (terra) + 豆 (feijão), pois cresce no chão."
+  },
+  "pr05-03": {
+   "word": "西红柿",
+   "translit": "xīhóngshì",
+   "example": "西红柿又圆又红。",
+   "examplePt": "O tomate é redondo e vermelho.",
+   "pron": "chi-RRONG-shi — 'x' = 'ch' suave; 'sh' enrolado; tons 1, 2 e 4",
+   "curiosity": "O nome quer dizer 'caqui vermelho do Ocidente': 西 (oeste) + 红 (vermelho) + 柿 (caqui)."
+  },
+  "pr05-04": {
+   "word": "洋葱",
+   "translit": "yángcōng",
+   "example": "洋葱让我流眼泪了。",
+   "examplePt": "A cebola me fez chorar.",
+   "pron": "IANG-tsong — 2º tom sobe; 'c' = 'ts' aspirado; 1º tom",
+   "curiosity": "洋 significa 'estrangeiro/do exterior'; 洋葱 é, por assim dizer, 'cebolinha estrangeira'."
+  },
+  "pr05-05": {
+   "word": "玉米",
+   "translit": "yùmǐ",
+   "example": "夏天我们吃玉米。",
+   "examplePt": "No verão nós comemos milho.",
+   "pron": "IÜ-mi — 'ü' é 'i' com lábios de 'u'; 4º tom e 3º tom",
+   "curiosity": "玉米 é 'arroz de jade': 玉 (jade) + 米 (arroz/grão)."
+  },
+  "pr05-06": {
+   "word": "西兰花",
+   "translit": "xīlánhuā",
+   "example": "西兰花是绿色的。",
+   "examplePt": "O brócolis é verde.",
+   "pron": "chi-lan-RRUA — 'x' = 'ch' suave; tons 1, 2 e 1",
+   "curiosity": "西兰花 quer dizer 'flor azul do Ocidente'."
+  },
+  "pr05-07": {
+   "word": "大蒜",
+   "translit": "dàsuàn",
+   "example": "大蒜的味道很重。",
+   "examplePt": "O alho tem um cheiro forte.",
+   "pron": "da-SUAN — 'd' é um 'd' leve; os dois tons são 4º tom caindo",
+   "curiosity": "大蒜 junta 大 (grande) e 蒜 (alho)."
+  },
+  "pr05-08": {
+   "word": "黄瓜",
+   "translit": "huángguā",
+   "example": "黄瓜怎么是绿色的？",
+   "examplePt": "Por que o pepino é verde?",
+   "pron": "rruang-GUA — 'h' aspirado; 2º tom e 1º tom alto",
+   "curiosity": "黄瓜 é 'melão amarelo', mas o pepino que conhecemos é verde!"
+  },
+  "pr06-01": {
+   "word": "蛋糕",
+   "translit": "dàngāo",
+   "example": "这个蛋糕太好吃了！",
+   "examplePt": "Este bolo é gostoso demais!",
+   "pron": "dan-GAU — 4º tom cai e 1º tom alto e plano",
+   "curiosity": "蛋糕 é literalmente 'bolo de ovo' (蛋 ovo + 糕 bolo)."
+  },
+  "pr06-02": {
+   "word": "冰淇淋",
+   "translit": "bīngqílín",
+   "example": "夏天最想吃冰淇淋。",
+   "examplePt": "No verão a vontade é de tomar sorvete.",
+   "pron": "bing-tchi-LIN — 'q' = 'tch'; tons 1, 2 e 2",
+   "curiosity": "Os caracteres de 冰淇淋 são mais usados pelo som do que pelo significado."
+  },
+  "pr06-03": {
+   "word": "饼干",
+   "translit": "bǐnggān",
+   "example": "饼干掉在地上了。",
+   "examplePt": "O biscoito caiu no chão.",
+   "pron": "bing-GAN — 3º tom desce e sobe; 1º tom alto e plano",
+   "curiosity": "饼干 junta 饼 (massa achatada) e 干 (seco)."
+  },
+  "pr06-04": {
+   "word": "甜甜圈",
+   "translit": "tiántiánquān",
+   "example": "你喜欢甜甜圈吗？",
+   "examplePt": "Você gosta de rosquinha?",
+   "pron": "tien-tien-TCHUAN — 'q' = 'tch'; 2º, 2º e 1º tons",
+   "curiosity": "O nome repete 甜 (doce) e termina com 圈 (círculo): 'círculo bem doce'."
+  },
+  "pr06-05": {
+   "word": "棒棒糖",
+   "translit": "bàngbàngtáng",
+   "example": "他舔着棒棒糖笑了。",
+   "examplePt": "Ele sorriu lambendo o pirulito.",
+   "pron": "BANG-bang-TANG — a segunda sílaba é leve; 4º, 4º e 2º tons",
+   "curiosity": "棒 quer dizer 'bastão'; 棒棒糖 é o 'doce de bastão'."
+  },
+  "pr06-06": {
+   "word": "巧克力",
+   "translit": "qiǎokèlì",
+   "example": "我想要一块巧克力。",
+   "examplePt": "Quero um pedaço de chocolate.",
+   "pron": "tchiau-KÊ-li — 'q' = 'tch'; 'k' aspirado; tons 3, 4 e 4",
+   "curiosity": "Alguns nomes estrangeiros viram sons em chinês; 巧克力 imita o som de 'chocolate'."
+  },
+  "pr06-07": {
+   "word": "爆米花",
+   "translit": "bàomǐhuā",
+   "example": "看电影要吃爆米花。",
+   "examplePt": "No cinema é preciso comer pipoca.",
+   "pron": "BAU-mi-RRUA — 'b' é um 'p' sem sopro; tons 4, 3 e 1",
+   "curiosity": "爆米花 é 'flor de arroz que estoura': 爆 (estourar) + 米 + 花 (flor)."
+  },
+  "pr06-08": {
+   "word": "馅饼",
+   "translit": "xiànbǐng",
+   "example": "馅饼里有苹果。",
+   "examplePt": "Há maçã dentro da torta.",
+   "pron": "chien-BING — 'x' = 'ch' suave; 4º tom e 3º tom",
+   "curiosity": "馅 é o recheio; 馅饼 é 'massa com recheio'."
+  },
+  "pr07-01": {
+   "word": "厨房",
+   "translit": "chúfáng",
+   "example": "妈妈在厨房做饭。",
+   "examplePt": "Mamãe cozinha na cozinha.",
+   "pron": "tchu-FANG — 'ch' enrolado; 2º tom sobe duas vezes",
+   "curiosity": "厨房 junta 厨 (cozinhar) e 房 (cômodo/casa)."
+  },
+  "pr07-02": {
+   "word": "卫生间",
+   "translit": "wèishēngjiān",
+   "example": "卫生间在哪儿？",
+   "examplePt": "Onde fica o banheiro?",
+   "pron": "uei-SHÊNG-djien — 'w' é 'u' rápido; tons 4, 1 e 1",
+   "curiosity": "卫生间 vem de 卫生 (higiene): o 'cômodo da higiene'."
+  },
+  "pr07-03": {
+   "word": "卧室",
+   "translit": "wòshì",
+   "example": "我的卧室很安静。",
+   "examplePt": "Meu quarto é bem silencioso.",
+   "pron": "uô-SHI — 'sh' enrolado; 4º tom cai duas vezes",
+   "curiosity": "卧 é deitar/descansar; 卧室 é o 'cômodo de deitar'."
+  },
+  "pr07-04": {
+   "word": "客厅",
+   "translit": "kètīng",
+   "example": "大家都坐在客厅里。",
+   "examplePt": "Todo mundo está sentado na sala.",
+   "pron": "kê-TING — 'k' aspirado; 4º tom e 1º tom",
+   "curiosity": "客厅 é a 'sala de visitas': 客 quer dizer convidado."
+  },
+  "pr07-05": {
+   "word": "车库",
+   "translit": "chēkù",
+   "example": "车库里停着一辆车。",
+   "examplePt": "Há um carro parado na garagem.",
+   "pron": "tchê-KU — 'ch' enrolado; 1º tom alto e 4º tom",
+   "curiosity": "车库 é 'depósito de carros': 车 (carro) + 库 (depósito)."
+  },
+  "pr07-06": {
+   "word": "花园",
+   "translit": "huāyuán",
+   "example": "花园里开满了花。",
+   "examplePt": "O jardim está cheio de flores.",
+   "pron": "rrua-IUAN — 'h' aspirado; 1º tom e 2º tom",
+   "curiosity": "花园 é 'jardim de flores': 花 (flor) + 园 (jardim/parque)."
+  },
+  "pr07-07": {
+   "word": "门",
+   "translit": "mén",
+   "example": "请你关上门。",
+   "examplePt": "Por favor, feche a porta.",
+   "pron": "MÊN — 2º tom sobe, como numa pergunta",
+   "curiosity": "O caractere 门 lembra duas portas de abrir; ele aparece em 开门 (abrir a porta)."
+  },
+  "pr07-08": {
+   "word": "窗户",
+   "translit": "chuānghu",
+   "example": "窗户外面有什么？",
+   "examplePt": "O que há do lado de fora da janela?",
+   "pron": "tchuang-RRU — 'ch' enrolado; 1º tom e sílaba final leve",
+   "curiosity": "Na fala do dia a dia, o 'hu' de 窗户 fica fraquinho, quase sem tom."
+  },
+  "pr08-01": {
+   "word": "床",
+   "translit": "chuáng",
+   "example": "小猫躺在床上。",
+   "examplePt": "O gatinho está deitado na cama.",
+   "pron": "tchuang — 'ch' enrolado; 2º tom sobe",
+   "curiosity": "床 aparece em 起床 (levantar da cama), verbo que você já viu."
+  },
+  "pr08-02": {
+   "word": "桌子",
+   "translit": "zhuōzi",
+   "example": "桌子上放着一本书。",
+   "examplePt": "Tem um livro em cima da mesa.",
+   "pron": "djuô-dze — 'zh' enrolado; 'uo' = 'uô'; 1º tom e sílaba leve",
+   "curiosity": "Em 桌子, o 子 fica leve; sem ele, 桌 também aparece em 书桌 (escrivaninha)."
+  },
+  "pr08-03": {
+   "word": "椅子",
+   "translit": "yǐzi",
+   "example": "这把椅子太高了。",
+   "examplePt": "Esta cadeira é alta demais.",
+   "pron": "I-dze — 3º tom desce e sobe; sílaba final leve",
+   "curiosity": "O classificador de cadeiras é 把: uma cadeira = 一把椅子."
+  },
+  "pr08-04": {
+   "word": "沙发",
+   "translit": "shāfā",
+   "example": "他在沙发上睡着了。",
+   "examplePt": "Ele adormeceu no sofá.",
+   "pron": "SHA-fa — 'sh' enrolado; dois 1º tons altos",
+   "curiosity": "沙发 é uma palavra que imita o som de 'sofa', do inglês."
+  },
+  "pr08-05": {
+   "word": "镜子",
+   "translit": "jìngzi",
+   "example": "镜子里的人是谁？",
+   "examplePt": "Quem é a pessoa no espelho?",
+   "pron": "DJING-dze — 'j' = 'dj'; 4º tom e sílaba leve",
+   "curiosity": "镜 aparece também em 眼镜 (óculos), pois ambos têm vidro que reflete ou corrige."
+  },
+  "pr08-06": {
+   "word": "冰箱",
+   "translit": "bīngxiāng",
+   "example": "冰箱里还有牛奶吗？",
+   "examplePt": "Ainda tem leite na geladeira?",
+   "pron": "bing-CHIANG — 'x' = 'ch' suave; 1º tom e 1º tom",
+   "curiosity": "冰箱 é 'caixa de gelo': 冰 (gelo) + 箱 (caixa)."
+  },
+  "pr08-07": {
+   "word": "电视",
+   "translit": "diànshì",
+   "example": "我们晚上看电视。",
+   "examplePt": "Nós assistimos televisão à noite.",
+   "pron": "dien-SHI — 4º tom cai duas vezes",
+   "curiosity": "电视 é 'visão elétrica': 电 (eletricidade) + 视 (ver)."
+  },
+  "pr08-08": {
+   "word": "灯泡",
+   "translit": "dēngpào",
+   "example": "灯泡突然坏了。",
+   "examplePt": "A lâmpada queimou de repente.",
+   "pron": "DÊNG-pau — 'p' é aspirado; 1º tom e 4º tom",
+   "curiosity": "灯 é lâmpada ou luz; 灯泡 é 'luz em forma de bolha'."
+  },
+  "pr09-01": {
+   "word": "叉子",
+   "translit": "chāzi",
+   "example": "他用叉子吃面。",
+   "examplePt": "Ele come o macarrão com garfo.",
+   "pron": "TCHA-dze — 'ch' enrolado; 1º tom e sílaba leve",
+   "curiosity": "Na China, o par mais comum à mesa é 筷子 (pauzinhos), não 叉子."
+  },
+  "pr09-02": {
+   "word": "刀",
+   "translit": "dāo",
+   "example": "小心，这把刀很快！",
+   "examplePt": "Cuidado, esta faca é afiada!",
+   "pron": "DAU — 1º tom alto e plano",
+   "curiosity": "刀 também aparece em 剪刀 (tesoura), literalmente 'faca de cortar'."
+  },
+  "pr09-03": {
+   "word": "勺子",
+   "translit": "sháozi",
+   "example": "请给我一把勺子。",
+   "examplePt": "Por favor, me dê uma colher.",
+   "pron": "SHAU-dze — 'sh' enrolado; 2º tom sobe",
+   "curiosity": "Para a sopa, os chineses usam muito a colher de porcelana, 汤匙 (tāngchí)."
+  },
+  "pr09-04": {
+   "word": "盘子",
+   "translit": "pánzi",
+   "example": "盘子里有三个苹果。",
+   "examplePt": "Tem três maçãs no prato.",
+   "pron": "PAN-dze — 'p' aspirado; 2º tom sobe",
+   "curiosity": "Para pratos e coisas achatadas, 盘 também é usado como classificador."
+  },
+  "pr09-05": {
+   "word": "杯子",
+   "translit": "bēizi",
+   "example": "你的杯子是什么颜色？",
+   "examplePt": "De que cor é o seu copo?",
+   "pron": "BEI-dze — 1º tom alto e plano; 'ei' = 'êi'",
+   "curiosity": "杯 também é classificador: 一杯水 (um copo de água)."
+  },
+  "pr09-06": {
+   "word": "锅",
+   "translit": "guō",
+   "example": "锅里的汤很热。",
+   "examplePt": "A sopa na panela está quente.",
+   "pron": "GUÔ — 'g' = 'k' sem sopro; 1º tom alto",
+   "curiosity": "A frigideira wok, comum na cozinha chinesa, é chamada de 炒锅 (chǎoguō)."
+  },
+  "pr09-07": {
+   "word": "茶杯",
+   "translit": "chábēi",
+   "example": "他把茶杯放在桌上。",
+   "examplePt": "Ele pôs a xícara de chá na mesa.",
+   "pron": "tcha-BEI — 'ch' enrolado; 2º tom e 1º tom",
+   "curiosity": "茶杯 junta 茶 (chá) e 杯 (copo): 'copo de chá'."
+  },
+  "pr09-08": {
+   "word": "碗",
+   "translit": "wǎn",
+   "example": "我想再来一碗饭。",
+   "examplePt": "Quero mais uma tigela de arroz.",
+   "pron": "UAN — 'w' = 'u' rápido; 3º tom desce e sobe",
+   "curiosity": "Na China, é normal levar a tigela à boca para comer o arroz."
+  },
+  "pr10-01": {
+   "word": "手",
+   "translit": "shǒu",
+   "example": "请洗洗你的手。",
+   "examplePt": "Por favor, lave as suas mãos.",
+   "pron": "SHÔU — 'sh' enrolado; 3º tom desce e sobe",
+   "curiosity": "Muitos aparelhos têm 手 no nome: 手机 (celular) é 'máquina de mão'."
+  },
+  "pr10-02": {
+   "word": "脚",
+   "translit": "jiǎo",
+   "example": "我的脚有点疼。",
+   "examplePt": "Meu pé dói um pouco.",
+   "pron": "DJIAU — 'j' = 'dj'; 3º tom desce e sobe",
+   "curiosity": "脚 (pé) lembra 脚步 (passos): pés em ação."
+  },
+  "pr10-03": {
+   "word": "眼睛",
+   "translit": "yǎnjing",
+   "example": "她的眼睛又大又亮。",
+   "examplePt": "Os olhos dela são grandes e brilhantes.",
+   "pron": "IEN-djing — 3º tom e sílaba final leve",
+   "curiosity": "Cuidado: 眼睛 (olho) e 眼镜 (óculos) têm quase o mesmo som!"
+  },
+  "pr10-04": {
+   "word": "鼻子",
+   "translit": "bízi",
+   "example": "你的鼻子冷不冷？",
+   "examplePt": "Seu nariz está frio?",
+   "pron": "BI-dze — 'b' é 'p' sem sopro; 2º tom sobe",
+   "curiosity": "Para falar 'meu nariz entupiu', os chineses dizem 鼻子堵了."
+  },
+  "pr10-05": {
+   "word": "嘴",
+   "translit": "zuǐ",
+   "example": "张开嘴，说啊！",
+   "examplePt": "Abra a boca e diga 'ah'!",
+   "pron": "DZUEI — 'z' é 'dz'; 3º tom desce e sobe",
+   "curiosity": "嘴 também significa 'bico' das aves: 鸟嘴."
+  },
+  "pr10-06": {
+   "word": "耳朵",
+   "translit": "ěrduo",
+   "example": "小兔子的耳朵很长。",
+   "examplePt": "As orelhas do coelhinho são compridas.",
+   "pron": "ER-duô — 'er' tem um 'r' no fim; 3º tom e sílaba leve",
+   "curiosity": "耳 sozinho também é orelha, mas 耳朵 é o que se ouve mais na fala."
+  },
+  "pr10-07": {
+   "word": "腿",
+   "translit": "tuǐ",
+   "example": "我的腿跑得很累。",
+   "examplePt": "Minhas pernas estão cansadas de correr.",
+   "pron": "TUEI — 't' é aspirado; 3º tom desce e sobe",
+   "curiosity": "腿 também designa a perna de uma mesa ou cadeira: 桌子腿."
+  },
+  "pr10-08": {
+   "word": "牙齿",
+   "translit": "yáchǐ",
+   "example": "每天要刷牙齿吗？",
+   "examplePt": "É preciso escovar os dentes todo dia?",
+   "pron": "IA-tchi — 'ch' enrolado; 2º tom e 3º tom",
+   "curiosity": "Na fala, os chineses também dizem só 牙 (dente)."
+  },
+  "pr11-01": {
+   "word": "短袖",
+   "translit": "duǎnxiù",
+   "example": "夏天我穿短袖。",
+   "examplePt": "No verão eu uso camiseta.",
+   "pron": "duan-CHIÔU — 'x' = 'ch' suave; 3º tom e 4º tom",
+   "curiosity": "短袖 quer dizer 'manga curta': 短 (curto) + 袖 (manga) — o jeito comum de falar camiseta."
+  },
+  "pr11-02": {
+   "word": "裤子",
+   "translit": "kùzi",
+   "example": "我的裤子太长了。",
+   "examplePt": "Minha calça ficou comprida demais.",
+   "pron": "KU-dze — 'k' aspirado; 4º tom e sílaba leve",
+   "curiosity": "O classificador de calças é 条: 一条裤子."
+  },
+  "pr11-03": {
+   "word": "鞋子",
+   "translit": "xiézi",
+   "example": "你的鞋子在哪里？",
+   "examplePt": "Onde estão os seus sapatos?",
+   "pron": "CHIÊ-dze — 'x' = 'ch' suave; 2º tom sobe",
+   "curiosity": "O classificador de sapatos é 双 (par): 一双鞋子."
+  },
+  "pr11-04": {
+   "word": "袜子",
+   "translit": "wàzi",
+   "example": "他穿了一双红袜子。",
+   "examplePt": "Ele calçou um par de meias vermelhas.",
+   "pron": "UA-dze — 'w' = 'u'; 4º tom e sílaba leve",
+   "curiosity": "Também usam 双 como classificador: 一双袜子."
+  },
+  "pr11-05": {
+   "word": "外套",
+   "translit": "wàitào",
+   "example": "外面冷，穿上外套。",
+   "examplePt": "Faz frio lá fora, vista o casaco.",
+   "pron": "uai-TAU — 'w' = 'u' rápido; 4º tom e 4º tom",
+   "curiosity": "外套 é 'a camada de fora': 外 (fora) + 套 (conjunto/capa)."
+  },
+  "pr11-06": {
+   "word": "连衣裙",
+   "translit": "liányīqún",
+   "example": "她穿了一条连衣裙。",
+   "examplePt": "Ela usou um vestido.",
+   "pron": "lien-I-tchün — 'q' = 'tch'; 'ün' soa como 'iun'; tons 2, 1, 2",
+   "curiosity": "连衣裙 é 'saia com roupa ligada', ou seja, um vestido de peça única."
+  },
+  "pr11-07": {
+   "word": "手套",
+   "translit": "shǒutào",
+   "example": "冬天要戴手套。",
+   "examplePt": "No inverno é preciso usar luvas.",
+   "pron": "SHÔU-tau — 'sh' enrolado; 3º tom e 4º tom",
+   "curiosity": "手套 é 'capa para a mão': 手 (mão) + 套 (capa)."
+  },
+  "pr11-08": {
+   "word": "鸭舌帽",
+   "translit": "yāshémào",
+   "example": "他戴着一顶鸭舌帽。",
+   "examplePt": "Ele usa um boné.",
+   "pron": "IA-shê-MAU — 'sh' enrolado; tons 1, 2 e 4",
+   "curiosity": "鸭舌帽 é 'chapéu de língua de pato': a aba lembra um bico de pato."
+  },
+  "pr12-01": {
+   "word": "眼镜",
+   "translit": "yǎnjìng",
+   "example": "我的眼镜在哪里？",
+   "examplePt": "Onde estão meus óculos?",
+   "pron": "IEN-djing — 3º tom e 4º tom; 'j' = 'dj'",
+   "curiosity": "眼镜 é 'espelho dos olhos'; não confunda com 眼睛 (olho)."
+  },
+  "pr12-02": {
+   "word": "手提包",
+   "translit": "shǒutíbāo",
+   "example": "她的手提包很漂亮。",
+   "examplePt": "A bolsa dela é bem bonita.",
+   "pron": "SHÔU-ti-BAU — tons 3, 2 e 1; 'sh' enrolado",
+   "curiosity": "手提包 quer dizer 'bolsa de carregar na mão': 手 + 提 (carregar) + 包."
+  },
+  "pr12-03": {
+   "word": "雨伞",
+   "translit": "yǔsǎn",
+   "example": "别忘了带雨伞。",
+   "examplePt": "Não esqueça de levar o guarda-chuva.",
+   "pron": "IÜ-san — 'ü' arredondado; 3º tom e 3º tom",
+   "curiosity": "雨伞 é 'guarda-chuva': 雨 (chuva) + 伞 (guarda-sol/guarda-chuva)."
+  },
+  "pr12-04": {
+   "word": "戒指",
+   "translit": "jièzhi",
+   "example": "她手上有一枚戒指。",
+   "examplePt": "Há um anel na mão dela.",
+   "pron": "DJIÊ-dji — 'j' = 'dj'; 'zh' enrolado; 4º tom e leve",
+   "curiosity": "O classificador de anéis é 枚: 一枚戒指."
+  },
+  "pr12-05": {
+   "word": "手表",
+   "translit": "shǒubiǎo",
+   "example": "这块手表走得很准。",
+   "examplePt": "Este relógio de pulso é bem preciso.",
+   "pron": "SHÔU-biau — 3º tom e 3º tom: o primeiro vira 2º tom",
+   "curiosity": "手表 é 'relógio de mão': 手 (mão) + 表 (relógio)."
+  },
+  "pr12-06": {
+   "word": "挂锁",
+   "translit": "guàsuǒ",
+   "example": "自行车上有一把挂锁。",
+   "examplePt": "Há um cadeado na bicicleta.",
+   "pron": "GUA-suô — 'g' = 'k' sem sopro; 4º tom e 3º tom",
+   "curiosity": "挂锁 é 'fechadura pendurada': 挂 (pendurar) + 锁 (fechadura)."
+  },
+  "pr12-07": {
+   "word": "背包",
+   "translit": "bēibāo",
+   "example": "背包里装满了东西。",
+   "examplePt": "A mochila está cheia de coisas.",
+   "pron": "BEI-bau — 1º tom alto e 1º tom alto",
+   "curiosity": "背 (bēi) é carregar nas costas; já 背 (bèi) significa costas."
+  },
+  "pr12-08": {
+   "word": "手电筒",
+   "translit": "shǒudiàntǒng",
+   "example": "停电了，快拿手电筒！",
+   "examplePt": "Acabou a luz, pegue a lanterna!",
+   "pron": "SHÔU-dien-TONG — tons 3, 4 e 3",
+   "curiosity": "手电筒 é um 'tubo elétrico de mão': 手 + 电 (eletricidade) + 筒 (tubo)."
+  },
+  "pr13-01": {
+   "word": "足球",
+   "translit": "zúqiú",
+   "example": "他们在公园里踢足球。",
+   "examplePt": "Eles jogam futebol no parque.",
+   "pron": "DZU-tchiôu — 'q' = 'tch'; 2º tom e 2º tom",
+   "curiosity": "足球 é 'bola de pé': 足 (pé) + 球 (bola); verbo usado: 踢 (chutar)."
+  },
+  "pr13-02": {
+   "word": "篮球",
+   "translit": "lánqiú",
+   "example": "你会打篮球吗？",
+   "examplePt": "Você sabe jogar basquete?",
+   "pron": "LAN-tchiôu — 'q' = 'tch'; 2º tom duas vezes",
+   "curiosity": "篮球 é 'bola de cesta': 篮 (cesta) + 球 (bola)."
+  },
+  "pr13-03": {
+   "word": "网球",
+   "translit": "wǎngqiú",
+   "example": "姐姐喜欢打网球。",
+   "examplePt": "Minha irmã gosta de jogar tênis.",
+   "pron": "UANG-tchiôu — 'w' = 'u'; 3º tom e 2º tom",
+   "curiosity": "网球 é 'bola de rede': 网 (rede) + 球 (bola)."
+  },
+  "pr13-04": {
+   "word": "游泳运动",
+   "translit": "yóuyǒng yùndòng",
+   "example": "游泳运动对身体好。",
+   "examplePt": "A natação faz bem ao corpo.",
+   "pron": "IÔU-iong ün-DONG — 'ü' de 'yùn' é arredondado; 2º, 3º, 4º, 4º tons",
+   "curiosity": "运动 quer dizer 'esporte/exercício' e dá nome a muitas modalidades."
+  },
+  "pr13-05": {
+   "word": "排球",
+   "translit": "páiqiú",
+   "example": "排球要用手打。",
+   "examplePt": "No vôlei se bate com a mão.",
+   "pron": "PAI-tchiôu — 'p' aspirado; 'q' = 'tch'; 2º tom duas vezes",
+   "curiosity": "排球 é 'bola alinhada'; 排 também aparece em 排队 (fazer fila)."
+  },
+  "pr13-06": {
+   "word": "骑行",
+   "translit": "qíxíng",
+   "example": "周末我们去骑行。",
+   "examplePt": "No fim de semana vamos pedalar.",
+   "pron": "TCHI-ching — 'q' = 'tch'; 'x' = 'ch' suave; 2º tom duas vezes",
+   "curiosity": "骑 (qí) é o verbo para montar: serve para bicicleta e para cavalo."
+  },
+  "pr13-07": {
+   "word": "滑雪",
+   "translit": "huáxuě",
+   "example": "我第一次学滑雪。",
+   "examplePt": "Aprendo esquiar pela primeira vez.",
+   "pron": "RRUA-chüê — 'h' aspirado; 'xu' = 'chü'; 2º e 3º tons",
+   "curiosity": "滑雪 é 'deslizar na neve': 滑 (deslizar) + 雪 (neve)."
+  },
+  "pr13-08": {
+   "word": "棒球",
+   "translit": "bàngqiú",
+   "example": "棒球比赛开始了吗？",
+   "examplePt": "O jogo de beisebol já começou?",
+   "pron": "BANG-tchiôu — 'b' = 'p' sem sopro; 4º tom e 2º tom",
+   "curiosity": "棒球 é 'bola de bastão': 棒 (bastão) + 球 (bola)."
+  },
+  "pr14-01": {
+   "word": "洋娃娃",
+   "translit": "yángwáwa",
+   "example": "小女孩抱着洋娃娃。",
+   "examplePt": "A menina abraça a boneca.",
+   "pron": "IANG-ua-ua — 'w' = 'u'; 2º tom, 2º tom e sílaba leve",
+   "curiosity": "洋娃娃 vem de 洋 (estrangeiro) + 娃娃 (bebê): 'bebê estrangeiro'."
+  },
+  "pr14-02": {
+   "word": "气球",
+   "translit": "qìqiú",
+   "example": "气球飞走了！",
+   "examplePt": "O balão voou embora!",
+   "pron": "TCHI-tchiôu — 'q' = 'tch' (as duas sílabas); 4º tom e 2º tom",
+   "curiosity": "气球 é 'bola de ar': 气 (ar) + 球 (bola)."
+  },
+  "pr14-03": {
+   "word": "拼图",
+   "translit": "pīntú",
+   "example": "我们一起玩拼图吧。",
+   "examplePt": "Vamos brincar de quebra-cabeça juntos.",
+   "pron": "PIN-tu — 'p' aspirado; 1º tom e 2º tom",
+   "curiosity": "拼图 é 'juntar imagem': 拼 (montar/juntar) + 图 (imagem)."
+  },
+  "pr14-04": {
+   "word": "玩具熊",
+   "translit": "wánjùxióng",
+   "example": "床上有一只玩具熊。",
+   "examplePt": "Tem um ursinho de brinquedo na cama.",
+   "pron": "UAN-djü-CHIONG — 'ü' arredondado; 'x' = 'ch' suave; 2º, 4º e 2º tons",
+   "curiosity": "玩具熊 é 'urso de brinquedo': 玩具 (brinquedo) + 熊 (urso)."
+  },
+  "pr14-05": {
+   "word": "骰子",
+   "translit": "tóuzi",
+   "example": "他把骰子扔在桌上。",
+   "examplePt": "Ele jogou o dado na mesa.",
+   "pron": "TÔU-dze — 't' aspirado; 2º tom e sílaba leve",
+   "curiosity": "Os dados chineses já existem há milênios, e 骰子 também é o nome de um jogo."
+  },
+  "pr14-06": {
+   "word": "皮球",
+   "translit": "píqiú",
+   "example": "孩子们在拍皮球。",
+   "examplePt": "As crianças quicam a bola.",
+   "pron": "PI-tchiôu — 'p' aspirado; 2º tom e 2º tom",
+   "curiosity": "皮球 é 'bola de couro/borracha': 皮 (pele) + 球 (bola)."
+  },
+  "pr14-07": {
+   "word": "轮滑鞋",
+   "translit": "lúnhuáxié",
+   "example": "他穿着轮滑鞋滑得很快。",
+   "examplePt": "Ele desliza rápido de patins.",
+   "pron": "LUN-rrua-CHIÊ — 'h' aspirado; 'x' = 'ch' suave; 2º, 2º e 2º tons",
+   "curiosity": "轮滑鞋 é 'sapato de rodas': 轮 (roda) + 滑 (deslizar) + 鞋 (sapato)."
+  },
+  "pr14-08": {
+   "word": "旋转木马",
+   "translit": "xuánzhuǎnmùmǎ",
+   "example": "孩子们爱坐旋转木马。",
+   "examplePt": "As crianças adoram andar no carrossel.",
+   "pron": "chüan-djuan-mu-MA — 'xu' = 'chü'; tons 2, 3, 4 e 3",
+   "curiosity": "旋转木马 é 'cavalo de madeira que gira': 旋转 (girar) + 木 (madeira) + 马."
+  },
+  "pr15-01": {
+   "word": "铅笔",
+   "translit": "qiānbǐ",
+   "example": "请用铅笔写名字。",
+   "examplePt": "Por favor, escreva o nome a lápis.",
+   "pron": "TCHIEN-bi — 'q' = 'tch'; 1º tom e 3º tom",
+   "curiosity": "铅笔 é 'pincel de chumbo': 铅 (chumbo) + 笔 (instrumento de escrever), embora o grafite não seja chumbo."
+  },
+  "pr15-02": {
+   "word": "圆珠笔",
+   "translit": "yuánzhūbǐ",
+   "example": "我的圆珠笔没水了。",
+   "examplePt": "Minha caneta esferográfica acabou.",
+   "pron": "IUAN-dju-BI — 'zh' enrolado; tons 2, 1 e 3",
+   "curiosity": "圆珠笔 é 'caneta de bolinha': 圆 (redondo) + 珠 (conta) + 笔."
+  },
+  "pr15-03": {
+   "word": "笔记本",
+   "translit": "bǐjìběn",
+   "example": "笔记本是新的吗？",
+   "examplePt": "O caderno é novo?",
+   "pron": "bi-dji-BÊN — 'j' = 'dj'; tons 3, 4 e 3",
+   "curiosity": "笔记本 é 'livro de anotar': 笔记 (anotações) + 本 (caderno/volume)."
+  },
+  "pr15-04": {
+   "word": "书",
+   "translit": "shū",
+   "example": "桌上有一本书。",
+   "examplePt": "Há um livro na mesa.",
+   "pron": "SHU — 'sh' enrolado; 1º tom alto e plano",
+   "curiosity": "O classificador de livros é 本: 一本书."
+  },
+  "pr15-05": {
+   "word": "尺子",
+   "translit": "chǐzi",
+   "example": "用尺子画一条线。",
+   "examplePt": "Trace uma linha com a régua.",
+   "pron": "TCHI-dze — 'ch' enrolado; 3º tom e sílaba leve",
+   "curiosity": "尺 era uma antiga medida chinesa de comprimento, e 尺子 virou a régua."
+  },
+  "pr15-06": {
+   "word": "剪刀",
+   "translit": "jiǎndāo",
+   "example": "这把剪刀很锋利。",
+   "examplePt": "Esta tesoura é bem afiada.",
+   "pron": "DJIEN-dau — 'j' = 'dj'; 3º tom e 1º tom",
+   "curiosity": "剪刀 é 'faca de cortar': 剪 (cortar) + 刀 (faca)."
+  },
+  "pr15-07": {
+   "word": "计算器",
+   "translit": "jìsuànqì",
+   "example": "数学课可以用计算器吗？",
+   "examplePt": "Pode usar calculadora na aula de matemática?",
+   "pron": "dji-SUAN-tchi — tons 4, 4 e 4",
+   "curiosity": "计算器 é 'aparelho de calcular': 计算 (calcular) + 器 (aparelho)."
+  },
+  "pr15-08": {
+   "word": "纸",
+   "translit": "zhǐ",
+   "example": "请给我一张纸。",
+   "examplePt": "Por favor, me dê uma folha de papel.",
+   "pron": "DJI — 'zh' enrolado; 3º tom desce e sobe",
+   "curiosity": "A invenção do papel é um dos Quatro Grandes Inventos da China antiga."
+  },
+  "pr16-01": {
+   "word": "河",
+   "translit": "hé",
+   "example": "河水流向大海。",
+   "examplePt": "A água do rio corre para o mar.",
+   "pron": "RRÊ — 'h' aspirado; 2º tom sobe",
+   "curiosity": "O Rio Amarelo se chama 黄河 (Huáng Hé) e é um dos maiores rios da China."
+  },
+  "pr16-02": {
+   "word": "山",
+   "translit": "shān",
+   "example": "我们明天去爬山。",
+   "examplePt": "Amanhã vamos escalar a montanha.",
+   "pron": "SHAN — 'sh' enrolado; 1º tom alto e plano",
+   "curiosity": "O caractere 山 lembra três picos; o verbo 爬山 quer dizer 'escalar montanha'."
+  },
+  "pr16-03": {
+   "word": "海滩",
+   "translit": "hǎitān",
+   "example": "海滩上有很多贝壳。",
+   "examplePt": "Há muitas conchas na praia.",
+   "pron": "rrai-TAN — 'h' aspirado; 3º tom e 1º tom",
+   "curiosity": "海滩 é 'terreno plano do mar': 海 (mar) + 滩 (praia/banco de areia)."
+  },
+  "pr16-04": {
+   "word": "沙漠",
+   "translit": "shāmò",
+   "example": "沙漠里白天很热。",
+   "examplePt": "No deserto faz muito calor de dia.",
+   "pron": "SHA-mô — 'sh' enrolado; 1º tom e 4º tom",
+   "curiosity": "沙漠 junta 沙 (areia) e 漠 (deserto/vastidão)."
+  },
+  "pr16-05": {
+   "word": "岛屿",
+   "translit": "dǎoyǔ",
+   "example": "这个岛屿很小。",
+   "examplePt": "Esta ilha é bem pequena.",
+   "pron": "DAU-iü — 'ü' arredondado; 3º tom e 3º tom",
+   "curiosity": "岛屿 é a palavra formal; no dia a dia basta falar 岛."
+  },
+  "pr16-06": {
+   "word": "火山",
+   "translit": "huǒshān",
+   "example": "火山突然喷发了。",
+   "examplePt": "O vulcão entrou em erupção de repente.",
+   "pron": "RRUÔ-shan — 'h' aspirado; 3º tom e 1º tom",
+   "curiosity": "火山 é 'montanha de fogo': 火 (fogo) + 山 (montanha)."
+  },
+  "pr16-07": {
+   "word": "大海",
+   "translit": "dàhǎi",
+   "example": "大海看起来很蓝。",
+   "examplePt": "O mar parece bem azul.",
+   "pron": "DA-rrai — 4º tom e 3º tom",
+   "curiosity": "大海 é 'grande mar'; só 海 também é correto, mas 大海 soa mais poético."
+  },
+  "pr16-08": {
+   "word": "田野",
+   "translit": "tiányě",
+   "example": "田野里长满了麦子。",
+   "examplePt": "O campo está cheio de trigo.",
+   "pron": "TIEN-iê — 2º tom e 3º tom",
+   "curiosity": "田野 junta 田 (campo cultivado) e 野 (selvagem, aberto)."
+  },
+  "pr17-01": {
+   "word": "春天",
+   "translit": "chūntiān",
+   "example": "春天的花开得真美！",
+   "examplePt": "As flores da primavera são lindas!",
+   "pron": "tchun-TIEN — 'ch' enrolado; 1º tom e 1º tom",
+   "curiosity": "春天 é 'dia/estação da primavera' e começa em fevereiro no calendário solar chinês."
+  },
+  "pr17-02": {
+   "word": "夏天",
+   "translit": "xiàtiān",
+   "example": "夏天我们去游泳。",
+   "examplePt": "No verão vamos nadar.",
+   "pron": "CHIA-tien — 'x' = 'ch' suave; 4º tom e 1º tom",
+   "curiosity": "天 (tiān) significa 'céu' e 'dia'; por isso 夏天 é 'o dia/tempo do verão'."
+  },
+  "pr17-03": {
+   "word": "秋天",
+   "translit": "qiūtiān",
+   "example": "秋天到了，天气变凉了。",
+   "examplePt": "O outono chegou e o tempo esfriou.",
+   "pron": "TCHIÔU-tien — 'q' = 'tch'; 1º tom e 1º tom",
+   "curiosity": "No outono ocorre a Festa da Lua (中秋节), celebrada com bolos redondos."
+  },
+  "pr17-04": {
+   "word": "冬天",
+   "translit": "dōngtiān",
+   "example": "冬天北方会下雪吗？",
+   "examplePt": "No inverno neva no norte?",
+   "pron": "DONG-tien — 1º tom e 1º tom",
+   "curiosity": "Na China, 冬天 é a estação em que se come bolinhos (饺子), sobretudo no norte."
+  },
+  "pr17-05": {
+   "word": "早晨",
+   "translit": "zǎochen",
+   "example": "早晨的空气很新鲜。",
+   "examplePt": "O ar da manhã é bem fresco.",
+   "pron": "DZAU-tchen — 3º tom desce e sobe; sílaba final leve",
+   "curiosity": "早晨 é a manhã bem cedo: 早 (cedo) + 晨 (alvorada)."
+  },
+  "pr17-06": {
+   "word": "夜晚",
+   "translit": "yèwǎn",
+   "example": "夜晚的星星真亮。",
+   "examplePt": "As estrelas da noite são bem brilhantes.",
+   "pron": "IÊ-uan — 4º tom e 3º tom",
+   "curiosity": "夜晚 junta 夜 (noite) e 晚 (tarde/tardio)."
+  },
+  "pr17-07": {
+   "word": "一周",
+   "translit": "yīzhōu",
+   "example": "一周有七天。",
+   "examplePt": "Uma semana tem sete dias.",
+   "pron": "I-DJÔU — 'zh' enrolado; tons 1 e 1",
+   "curiosity": "一周 quer dizer 'uma semana' e também pode significar 'uma volta'."
+  },
+  "pr17-08": {
+   "word": "月份",
+   "translit": "yuèfèn",
+   "example": "你最喜欢哪个月份？",
+   "examplePt": "Qual mês você mais gosta?",
+   "pron": "iüê-FÊN — 'ü' arredondado; tons 4 e 4",
+   "curiosity": "月 significa 'lua' e 'mês': os meses chineses se chamam 一月, 二月, 三月..."
+  },
+  "pr18-01": {
+   "word": "大",
+   "translit": "dà",
+   "example": "这只狗真大！",
+   "examplePt": "Este cachorro é enorme!",
+   "pron": "DA — 4º tom cai com força",
+   "curiosity": "大 é muito produtivo: 大人 (adulto), 大海 (mar), 大学 (universidade)."
+  },
+  "pr18-02": {
+   "word": "小",
+   "translit": "xiǎo",
+   "example": "这只猫很小。",
+   "examplePt": "Este gato é bem pequeno.",
+   "pron": "CHIAU — 'x' = 'ch' suave; 3º tom desce e sobe",
+   "curiosity": "小 aparece em apelidos de afeto, como 小宝 (bebê, benzinho)."
+  },
+  "pr18-03": {
+   "word": "长",
+   "translit": "cháng",
+   "example": "这条路很长。",
+   "examplePt": "Esta estrada é bem longa.",
+   "pron": "TCHANG — 'ch' enrolado; 2º tom sobe",
+   "curiosity": "Com outro tom, 长 se lê zhǎng e significa 'crescer'."
+  },
+  "pr18-04": {
+   "word": "短",
+   "translit": "duǎn",
+   "example": "这根绳子太短了。",
+   "examplePt": "Esta corda é curta demais.",
+   "pron": "DUAN — 3º tom desce e sobe",
+   "curiosity": "短 é o oposto de 长; juntos formam 长短 (comprimento)."
+  },
+  "pr18-05": {
+   "word": "重",
+   "translit": "zhòng",
+   "example": "这个箱子好重！",
+   "examplePt": "Esta caixa é muito pesada!",
+   "pron": "DJONG — 'zh' enrolado; 4º tom cai",
+   "curiosity": "Com outro som, 重 se lê chóng e significa 'repetir'."
+  },
+  "pr18-06": {
+   "word": "满",
+   "translit": "mǎn",
+   "example": "杯子满了吗？",
+   "examplePt": "O copo está cheio?",
+   "pron": "MAN — 3º tom desce e sobe",
+   "curiosity": "满 também quer dizer 'satisfeito' em 满意 (estar contente)."
+  },
+  "pr18-07": {
+   "word": "空",
+   "translit": "kōng",
+   "example": "这个盒子是空的。",
+   "examplePt": "Esta caixa está vazia.",
+   "pron": "KONG — 'k' aspirado; 1º tom alto e plano",
+   "curiosity": "Com outro tom, 空 (kòng) é 'tempo livre': 有空吗？ (tem tempo?)."
+  },
+  "pr18-08": {
+   "word": "宽",
+   "translit": "kuān",
+   "example": "这条河很宽。",
+   "examplePt": "Este rio é bem largo.",
+   "pron": "KUAN — 'k' aspirado; 1º tom alto e plano",
+   "curiosity": "宽 também significa 'tolerante': 宽容 quer dizer 'ser compreensivo'."
+  },
+  "pr19-01": {
+   "word": "热",
+   "translit": "rè",
+   "example": "今天天气好热！",
+   "examplePt": "O tempo está muito quente hoje!",
+   "pron": "RRÊ — 'r' chinês é um 'r' enrolado, quase 'j' francês; 4º tom",
+   "curiosity": "热 forma 热水 (água quente) e 热情 (calor humano, entusiasmo)."
+  },
+  "pr19-02": {
+   "word": "冷",
+   "translit": "lěng",
+   "example": "外面很冷，别出去。",
+   "examplePt": "Está frio lá fora, não saia.",
+   "pron": "LÊNG — 3º tom desce e sobe",
+   "curiosity": "冷 e 热 são opostos clássicos: 冷热 quer dizer 'frio e calor'."
+  },
+  "pr19-03": {
+   "word": "新",
+   "translit": "xīn",
+   "example": "我有一双新鞋。",
+   "examplePt": "Eu tenho um par de sapatos novos.",
+   "pron": "CHIN — 'x' = 'ch' suave; 1º tom alto",
+   "curiosity": "新年 (xīnnián) é 'ano novo', usado também na festa 新年快乐."
+  },
+  "pr19-04": {
+   "word": "老",
+   "translit": "lǎo",
+   "example": "我的爷爷很老了。",
+   "examplePt": "Meu avô já é bem velho.",
+   "pron": "LAU — 3º tom desce e sobe",
+   "curiosity": "老 é respeitoso: 老师 (professor) usa 老, que dá ideia de experiência."
+  },
+  "pr19-05": {
+   "word": "快",
+   "translit": "kuài",
+   "example": "他跑得很快。",
+   "examplePt": "Ele corre muito rápido.",
+   "pron": "KUAI — 'k' aspirado; 4º tom cai",
+   "curiosity": "快 também é 'feliz' em 快乐 e 'logo' em 快点儿 (anda logo)."
+  },
+  "pr19-06": {
+   "word": "慢",
+   "translit": "màn",
+   "example": "请走慢一点。",
+   "examplePt": "Por favor, ande mais devagar.",
+   "pron": "MAN — 4º tom cai; 'm' normal",
+   "curiosity": "慢走 é o jeito de dizer 'vá com calma', como despedida educada."
+  },
+  "pr19-07": {
+   "word": "干净",
+   "translit": "gānjìng",
+   "example": "你的手干净吗？",
+   "examplePt": "Suas mãos estão limpas?",
+   "pron": "GAN-djing — 'j' = 'dj'; 1º tom e 4º tom",
+   "curiosity": "干净 junta 干 (seco) e 净 (puro): 'seco e puro' é sinal de limpo."
+  },
+  "pr19-08": {
+   "word": "脏",
+   "translit": "zāng",
+   "example": "小狗的脚太脏了。",
+   "examplePt": "As patinhas do cachorrinho estão sujas demais.",
+   "pron": "DZANG — 'z' = 'dz'; 1º tom alto",
+   "curiosity": "脏 se escreve com o radical 月 (carne) à esquerda."
+  },
+  "pr20-01": {
+   "word": "灰色",
+   "translit": "huīsè",
+   "example": "天空变成了灰色。",
+   "examplePt": "O céu ficou cinza.",
+   "pron": "RRUEI-sê — 'h' aspirado; 1º tom e 4º tom",
+   "curiosity": "灰 também é 'cinza' de cigarro ou de fogueira: 灰色 é a cor da cinza."
+  },
+  "pr20-02": {
+   "word": "金色",
+   "translit": "jīnsè",
+   "example": "金色的叶子落下来了。",
+   "examplePt": "As folhas douradas caíram.",
+   "pron": "DJIN-sê — 'j' = 'dj'; 1º tom e 4º tom",
+   "curiosity": "金 é 'ouro' e também 'metal', pois está em 金色 e em 金属."
+  },
+  "pr20-03": {
+   "word": "银色",
+   "translit": "yínsè",
+   "example": "那辆车是银色的。",
+   "examplePt": "Aquele carro é prateado.",
+   "pron": "IN-sê — 2º tom e 4º tom",
+   "curiosity": "银 (prata) forma 银行, o banco, onde antes se guardava prata."
+  },
+  "pr20-04": {
+   "word": "米色",
+   "translit": "mǐsè",
+   "example": "这件外套是米色的。",
+   "examplePt": "Este casaco é bege.",
+   "pron": "MI-sê — 3º tom e 4º tom",
+   "curiosity": "米色 é 'cor de arroz': 米 (arroz) + 色 (cor)."
+  },
+  "pr20-05": {
+   "word": "青绿色",
+   "translit": "qīnglǜsè",
+   "example": "海水是青绿色的。",
+   "examplePt": "A água do mar é turquesa.",
+   "pron": "TCHING-lü-sê — 'q' = 'tch'; 'lü' arredondado; tons 1, 4 e 4",
+   "curiosity": "青 em chinês antigo cobria o verde e o azul, por isso 青绿色 mistura as duas cores."
+  },
+  "pr20-06": {
+   "word": "淡紫色",
+   "translit": "dànzǐsè",
+   "example": "她买了淡紫色的花。",
+   "examplePt": "Ela comprou flores lilás.",
+   "pron": "DAN-dzi-sê — 4º tom, 3º tom e 4º tom",
+   "curiosity": "淡 quer dizer 'claro, suave': 淡紫色 é 'roxo suave'."
+  },
+  "pr20-07": {
+   "word": "深蓝色",
+   "translit": "shēnlánsè",
+   "example": "他喜欢深蓝色的书包。",
+   "examplePt": "Ele gosta de mochilas azul-marinho.",
+   "pron": "SHÊN-lan-sê — 'sh' enrolado; 1º, 2º e 4º tons",
+   "curiosity": "深 quer dizer 'profundo': 深蓝色 é 'azul profundo'."
+  },
+  "pr20-08": {
+   "word": "彩色",
+   "translit": "cǎisè",
+   "example": "孩子画了一幅彩色的画。",
+   "examplePt": "A criança fez um desenho colorido.",
+   "pron": "TSAI-sê — 'c' = 'ts' aspirado; 3º tom e 4º tom",
+   "curiosity": "彩色 também descreve a TV a cores: 彩色电视."
+  },
+  "pr21-01": {
+   "word": "吉他",
+   "translit": "jítā",
+   "example": "他在弹吉他。",
+   "examplePt": "Ele toca violão.",
+   "pron": "DJI-ta — 'j' = 'dj'; 2º tom e 1º tom",
+   "curiosity": "吉他 imita o som de 'guitar'; o verbo usado é 弹 (tocar com dedos)."
+  },
+  "pr21-02": {
+   "word": "钢琴",
+   "translit": "gāngqín",
+   "example": "你会弹钢琴吗？",
+   "examplePt": "Você sabe tocar piano?",
+   "pron": "GANG-tchin — 'q' = 'tch'; 1º tom e 2º tom",
+   "curiosity": "钢琴 é 'instrumento de aço': 钢 (aço) + 琴 (instrumento de cordas)."
+  },
+  "pr21-03": {
+   "word": "架子鼓",
+   "translit": "jiàzigǔ",
+   "example": "他打架子鼓打得很响。",
+   "examplePt": "Ele toca bateria bem alto.",
+   "pron": "DJIA-dze-GU — 'j' = 'dj'; 4º tom, leve e 3º tom",
+   "curiosity": "Na bateria, o verbo é 打 (bater): 打鼓 (tocar tambor)."
+  },
+  "pr21-04": {
+   "word": "小提琴",
+   "translit": "xiǎotíqín",
+   "example": "小提琴的声音很美。",
+   "examplePt": "O som do violino é lindo.",
+   "pron": "CHIAU-ti-TCHIN — 'x' = 'ch' suave; 3º, 2º e 2º tons",
+   "curiosity": "小提琴 é 'violino pequeno' porque 提 vem de 'puxar' o arco."
+  },
+  "pr21-05": {
+   "word": "小号",
+   "translit": "xiǎohào",
+   "example": "他吹小号吹得很好。",
+   "examplePt": "Ele toca trompete muito bem.",
+   "pron": "CHIAU-rrau — 'h' aspirado; 3º tom e 4º tom",
+   "curiosity": "小号 é o 'número pequeno' entre os metais: 小 (pequeno) + 号 (corneta)."
+  },
+  "pr21-06": {
+   "word": "长笛",
+   "translit": "chángdí",
+   "example": "长笛的声音很清脆。",
+   "examplePt": "O som da flauta é bem cristalino.",
+   "pron": "TCHANG-di — 'ch' enrolado; 2º tom e 2º tom",
+   "curiosity": "长笛 é 'flauta longa': 长 (longo) + 笛 (flauta)."
+  },
+  "pr21-07": {
+   "word": "萨克斯",
+   "translit": "sàkèsī",
+   "example": "老爷爷在吹萨克斯。",
+   "examplePt": "O vovô está tocando saxofone.",
+   "pron": "SA-kê-SI — 'k' aspirado; 4º, 4º e 1º tons",
+   "curiosity": "萨克斯 é uma adaptação do som de 'saxophone'."
+  },
+  "pr21-08": {
+   "word": "手风琴",
+   "translit": "shǒufēngqín",
+   "example": "街头艺人拉手风琴。",
+   "examplePt": "O artista de rua toca acordeão.",
+   "pron": "SHÔU-fêng-TCHIN — 'sh' enrolado; 3º, 1º e 2º tons",
+   "curiosity": "手风琴 é 'piano de vento de mão': 手 + 风 (vento) + 琴."
+  },
+  "pr22-01": {
+   "word": "锤子",
+   "translit": "chuízi",
+   "example": "他用锤子敲钉子。",
+   "examplePt": "Ele bate o prego com o martelo.",
+   "pron": "TCHUEI-dze — 'ch' enrolado; 2º tom e sílaba leve",
+   "curiosity": "锤 também é o nome do martelo em formas como 铁锤 (martelo de ferro)."
+  },
+  "pr22-02": {
+   "word": "电钻",
+   "translit": "diànzuàn",
+   "example": "电钻的声音好吵！",
+   "examplePt": "O barulho da furadeira é alto demais!",
+   "pron": "dien-DZUAN — 'z' = 'dz'; 4º tom e 4º tom",
+   "curiosity": "电钻 é 'broca elétrica': 电 (eletricidade) + 钻 (furar)."
+  },
+  "pr22-03": {
+   "word": "螺丝钉",
+   "translit": "luósīdīng",
+   "example": "这颗螺丝钉太小了。",
+   "examplePt": "Este parafuso é pequeno demais.",
+   "pron": "luô-si-DING — tons 2, 1 e 1",
+   "curiosity": "螺丝 é o parafuso; 螺 também aparece em 海螺 (concha-espiral)."
+  },
+  "pr22-04": {
+   "word": "梯子",
+   "translit": "tīzi",
+   "example": "他爬上梯子换灯泡。",
+   "examplePt": "Ele subiu a escada para trocar a lâmpada.",
+   "pron": "TI-dze — 1º tom alto e sílaba leve",
+   "curiosity": "O classificador de escadas é 把: 一把梯子."
+  },
+  "pr22-05": {
+   "word": "画笔",
+   "translit": "huàbǐ",
+   "example": "她拿起画笔开始画画。",
+   "examplePt": "Ela pegou o pincel e começou a pintar.",
+   "pron": "RRUA-bi — 'h' aspirado; 4º tom e 3º tom",
+   "curiosity": "画笔 é 'pincel de pintura': 画 (pintar) + 笔 (instrumento de escrever)."
+  },
+  "pr22-06": {
+   "word": "绳子",
+   "translit": "shéngzi",
+   "example": "请把绳子递给我。",
+   "examplePt": "Por favor, me passe a corda.",
+   "pron": "SHÊNG-dze — 'sh' enrolado; 2º tom e sílaba leve",
+   "curiosity": "O classificador de cordas é 根 (haste): 一根绳子."
+  },
+  "pr22-07": {
+   "word": "磁铁",
+   "translit": "cítiě",
+   "example": "磁铁能吸住钉子吗？",
+   "examplePt": "O ímã consegue prender um prego?",
+   "pron": "TSÍ-tiê — 'c' = 'ts' aspirado; 2º tom e 3º tom",
+   "curiosity": "A bússola é uma invenção chinesa, e os antigos usavam 磁 (magnetita) para fazê-la."
+  },
+  "pr22-08": {
+   "word": "水桶",
+   "translit": "shuǐtǒng",
+   "example": "水桶里装满了水。",
+   "examplePt": "O balde está cheio de água.",
+   "pron": "SHUEI-tong — 3º tom desce e sobe; 3º tom",
+   "curiosity": "水桶 é 'tubo de água': 水 (água) + 桶 (balde, barril)."
+  },
+  "pr23-01": {
+   "word": "电脑",
+   "translit": "diànnǎo",
+   "example": "我用电脑写作业。",
+   "examplePt": "Eu faço a lição no computador.",
+   "pron": "dien-NAU — 4º tom e 3º tom",
+   "curiosity": "电脑 é 'cérebro elétrico': 电 (eletricidade) + 脑 (cérebro)."
+  },
+  "pr23-02": {
+   "word": "手机",
+   "translit": "shǒujī",
+   "example": "我的手机没电了。",
+   "examplePt": "Meu celular ficou sem bateria.",
+   "pron": "SHÔU-dji — 'j' = 'dj'; 3º tom e 1º tom",
+   "curiosity": "手机 é 'máquina de mão': 手 (mão) + 机 (máquina)."
+  },
+  "pr23-03": {
+   "word": "键盘",
+   "translit": "jiànpán",
+   "example": "这个键盘用起来很舒服。",
+   "examplePt": "Este teclado é confortável de usar.",
+   "pron": "DJIEN-pan — 'p' aspirado; 4º tom e 2º tom",
+   "curiosity": "键盘 é 'bandeja de teclas': 键 (tecla) + 盘 (prato/bandeja)."
+  },
+  "pr23-04": {
+   "word": "相机",
+   "translit": "xiàngjī",
+   "example": "相机能拍照吗？",
+   "examplePt": "A câmera consegue tirar foto?",
+   "pron": "CHIANG-dji — 'x' = 'ch' suave; 4º tom e 1º tom",
+   "curiosity": "相机 é 'máquina de imagem'; 机 (jī) aparece em 飞机 (avião)."
+  },
+  "pr23-05": {
+   "word": "耳机",
+   "translit": "ěrjī",
+   "example": "请把耳机戴上。",
+   "examplePt": "Por favor, coloque o fone de ouvido.",
+   "pron": "ER-dji — 3º tom e 1º tom",
+   "curiosity": "耳机 é 'máquina de ouvido': 耳 (orelha) + 机 (máquina)."
+  },
+  "pr23-06": {
+   "word": "打印机",
+   "translit": "dǎyìnjī",
+   "example": "打印机里没有纸了。",
+   "examplePt": "A impressora ficou sem papel.",
+   "pron": "DA-in-DJI — tons 3, 4 e 1",
+   "curiosity": "打印 é 'imprimir'; 打 (bater) aqui quer dizer 'fazer'."
+  },
+  "pr23-07": {
+   "word": "机器人",
+   "translit": "jīqìrén",
+   "example": "机器人会跳舞吗？",
+   "examplePt": "O robô sabe dançar?",
+   "pron": "dji-tchi-RRÊN — 'r' chinês é um 'r' enrolado; tons 1, 4 e 2",
+   "curiosity": "机器人 é 'pessoa-máquina': 机器 (máquina) + 人 (pessoa)."
+  },
+  "pr23-08": {
+   "word": "充电器",
+   "translit": "chōngdiànqì",
+   "example": "我忘了带充电器。",
+   "examplePt": "Esqueci de levar o carregador.",
+   "pron": "TCHONG-dien-TCHI — 'ch' enrolado; 1º, 4º e 4º tons",
+   "curiosity": "充电 é 'carregar' (bateria): 充 (encher) + 电 (eletricidade)."
+  },
+  "pr24-01": {
+   "word": "大脑",
+   "translit": "dànǎo",
+   "example": "大脑控制全身。",
+   "examplePt": "O cérebro controla o corpo todo.",
+   "pron": "da-NAU — 4º tom e 3º tom",
+   "curiosity": "大脑 é 'grande cérebro'; 脑 aparece também em 电脑 (computador)."
+  },
+  "pr24-02": {
+   "word": "骨头",
+   "translit": "gǔtou",
+   "example": "小狗在啃骨头。",
+   "examplePt": "O cachorrinho rói um osso.",
+   "pron": "GU-tou — 3º tom e sílaba leve",
+   "curiosity": "Em 骨头 o 头 fica leve; 头 sozinho significa 'cabeça'."
+  },
+  "pr24-03": {
+   "word": "肌肉",
+   "translit": "jīròu",
+   "example": "他的肌肉很结实。",
+   "examplePt": "Os músculos dele são firmes.",
+   "pron": "DJI-rrôu — 'j' = 'dj'; 'r' enrolado; 1º tom e 4º tom",
+   "curiosity": "肉 significa 'carne' e 'músculo', e por isso entra em 肌肉."
+  },
+  "pr24-04": {
+   "word": "头发",
+   "translit": "tóufa",
+   "example": "她的头发又黑又长。",
+   "examplePt": "O cabelo dela é preto e comprido.",
+   "pron": "TÔU-fa — 2º tom e sílaba leve",
+   "curiosity": "头发 é 'pelos da cabeça': 头 (cabeça) + 发 (cabelo)."
+  },
+  "pr24-05": {
+   "word": "指甲",
+   "translit": "zhǐjia",
+   "example": "你的指甲该剪了。",
+   "examplePt": "Suas unhas precisam ser cortadas.",
+   "pron": "DJI-dja — 'zh' enrolado; 3º tom e sílaba leve",
+   "curiosity": "指甲 é 'casca do dedo': 指 (dedo) + 甲 (casco, carapaça)."
+  },
+  "pr24-06": {
+   "word": "膝盖",
+   "translit": "xīgài",
+   "example": "我的膝盖受伤了。",
+   "examplePt": "Machuquei o joelho.",
+   "pron": "CHI-gai — 'x' = 'ch' suave; 1º tom e 4º tom",
+   "curiosity": "膝盖 junta 膝 (joelho) e 盖 (tampa), a 'tampa' do joelho."
+  },
+  "pr24-07": {
+   "word": "手指",
+   "translit": "shǒuzhǐ",
+   "example": "我有十个手指。",
+   "examplePt": "Tenho dez dedos nas mãos.",
+   "pron": "SHÔU-dji — 3º tom e 3º tom: o primeiro vira 2º tom",
+   "curiosity": "手指 é 'dedo da mão'; 脚趾 (jiǎozhǐ) é o dedo do pé."
+  },
+  "pr24-08": {
+   "word": "肺",
+   "translit": "fèi",
+   "example": "深呼吸，肺会更健康。",
+   "examplePt": "Respire fundo e o pulmão ficará mais saudável.",
+   "pron": "FEI — 4º tom cai",
+   "curiosity": "Os pulmões se chamam 肺 e a pneumonia 肺炎 (fèiyán), 'inflamação do pulmão'."
+  },
+  "pr25-01": {
+   "word": "疫苗",
+   "translit": "yìmiáo",
+   "example": "小朋友该打疫苗了。",
+   "examplePt": "As crianças precisam tomar a vacina.",
+   "pron": "I-miau — 4º tom e 2º tom",
+   "curiosity": "疫苗 vem de 疫 (epidemia) + 苗 (broto, muda): 'broto contra a epidemia'."
+  },
+  "pr25-02": {
+   "word": "体温计",
+   "translit": "tǐwēnjì",
+   "example": "体温计显示三十七度。",
+   "examplePt": "O termômetro marca trinta e sete graus.",
+   "pron": "TI-uên-DJI — 'w' = 'u' rápido; 3º, 1º e 4º tons",
+   "curiosity": "体温计 é 'medidor da temperatura do corpo': 体 + 温 (calor) + 计."
+  },
+  "pr25-03": {
+   "word": "创可贴",
+   "translit": "chuāngkětiē",
+   "example": "他在手指上贴了创可贴。",
+   "examplePt": "Ele pôs um curativo no dedo.",
+   "pron": "tchuang-kê-TIÊ — 'ch' enrolado; tons 4, 3 e 1",
+   "curiosity": "创可贴 quer dizer 'ferida que pode ser colada': 创 + 可 (pode) + 贴 (colar)."
+  },
+  "pr25-04": {
+   "word": "感冒",
+   "translit": "gǎnmào",
+   "example": "我感冒了，头好疼。",
+   "examplePt": "Peguei gripe e minha cabeça dói.",
+   "pron": "GAN-mau — 3º tom e 4º tom",
+   "curiosity": "感冒 serve tanto para gripe quanto para resfriado em chinês."
+  },
+  "pr25-05": {
+   "word": "咳嗽",
+   "translit": "késou",
+   "example": "他咳嗽了一整夜。",
+   "examplePt": "Ele tossiu a noite toda.",
+   "pron": "KÊ-sou — 'k' aspirado; 2º tom e sílaba leve",
+   "curiosity": "Na fala, o 'sou' de 咳嗽 fica leve: késou."
+  },
+  "pr25-06": {
+   "word": "疼痛",
+   "translit": "téngtòng",
+   "example": "你哪里疼痛吗？",
+   "examplePt": "Você sente dor em algum lugar?",
+   "pron": "TÊNG-tong — 2º tom e 4º tom",
+   "curiosity": "疼 sozinho é mais comum no dia a dia; 疼痛 é mais formal."
+  },
+  "pr25-07": {
+   "word": "腋拐",
+   "translit": "yèguǎi",
+   "example": "他的腿受伤了，要用腋拐走路。",
+   "examplePt": "Ele machucou a perna e anda de muletas.",
+   "pron": "iê-GUAI — 4º tom que cai e 3º tom que desce e sobe",
+   "curiosity": "腋 é 'axila' e 拐 é 'apoiar-se': a muleta que se apoia debaixo do braço."
+  },
+  "pr25-08": {
+   "word": "听诊器",
+   "translit": "tīngzhěnqì",
+   "example": "医生用听诊器听心跳。",
+   "examplePt": "A médica ouve o coração com o estetoscópio.",
+   "pron": "TING-djên-TCHI — 'zh' enrolado; 1º, 3º e 4º tons",
+   "curiosity": "听诊器 é 'aparelho de escutar o diagnóstico': 听 + 诊 (diagnosticar) + 器."
+  },
+  "pr26-01": {
+   "word": "钱",
+   "translit": "qián",
+   "example": "我的钱放在口袋里。",
+   "examplePt": "Meu dinheiro está no bolso.",
+   "pron": "tchién — 2º tom (sobe); o 'q' é um 'tch' soprado",
+   "curiosity": "Para saber o preço, pergunte 多少钱？ (duōshao qián): a frase mais útil nas compras."
+  },
+  "pr26-02": {
+   "word": "硬币",
+   "translit": "yìngbì",
+   "example": "他把硬币扔进了水里。",
+   "examplePt": "Ele jogou a moeda na água.",
+   "pron": "ing-bi — 4º tom (cai) nas duas sílabas, bem seco",
+   "curiosity": "硬 é 'duro' e 币 é 'dinheiro': 硬币 é literalmente 'dinheiro duro'."
+  },
+  "pr26-03": {
+   "word": "银行卡",
+   "translit": "yínhángkǎ",
+   "example": "我用银行卡付钱。",
+   "examplePt": "Eu pago com o cartão de banco.",
+   "pron": "ín-rráng-ká — 2º, 2º e 3º tom (desce e sobe); 'h' é um 'r' suave",
+   "curiosity": "O 卡 de 银行卡 veio do inglês 'card': é um som emprestado, não um caractere antigo."
+  },
+  "pr26-04": {
+   "word": "钱包",
+   "translit": "qiánbāo",
+   "example": "我的钱包不见了！",
+   "examplePt": "Minha carteira sumiu!",
+   "pron": "tchién-páo — 2º tom (sobe) e 1º tom (alto e reto)",
+   "curiosity": "钱包 é literalmente 'bolsa de dinheiro': 钱 (dinheiro) + 包 (bolsa)."
+  },
+  "pr26-05": {
+   "word": "价格",
+   "translit": "jiàgé",
+   "example": "价格写在标签上。",
+   "examplePt": "O preço está escrito na etiqueta.",
+   "pron": "djiá-guê — 4º tom (cai) e 2º tom; o 'j' é um 'dj' suave",
+   "curiosity": "Na loja muita gente diz só 多少钱？ em vez de 价格; 价格 soa mais formal."
+  },
+  "pr26-06": {
+   "word": "存钱罐",
+   "translit": "cúnqiánguàn",
+   "example": "存钱罐满了吗？",
+   "examplePt": "O cofrinho já encheu?",
+   "pron": "tsun-tchién-guan — 2º, 2º e 4º tom; o 'c' é um 'ts'",
+   "curiosity": "存 é 'guardar': 存钱罐 é o 'pote de guardar dinheiro'."
+  },
+  "pr26-07": {
+   "word": "折扣",
+   "translit": "zhékòu",
+   "example": "这件衣服有折扣。",
+   "examplePt": "Esta roupa está com desconto.",
+   "pron": "djê-kôu — 2º e 4º tom; 'zh' é um 'dj' com a língua enrolada",
+   "curiosity": "Nas lojas, 八折 (bā zhé) é 20% de desconto: o número diz quanto você PAGA."
+  },
+  "pr26-08": {
+   "word": "收据",
+   "translit": "shōujù",
+   "example": "请给我一张收据。",
+   "examplePt": "Por favor, me dê um recibo.",
+   "pron": "chôu-dju — 1º tom (alto) e 4º tom; o 'ü' sai com lábios em 'u'",
+   "curiosity": "收据 junta 收 (receber) e 据 (comprovante): o papel que prova que você pagou."
+  },
+  "pr27-01": {
+   "word": "学生",
+   "translit": "xuésheng",
+   "example": "每个学生都有一支笔。",
+   "examplePt": "Cada aluno tem uma caneta.",
+   "pron": "siüé-chêng — 2º tom (sobe); o 2º 'sheng' é leve, sem tom",
+   "curiosity": "Em 学生 a segunda sílaba perde o tom: soa 'xuésheng' leve e curto."
+  },
+  "pr27-02": {
+   "word": "课",
+   "translit": "kè",
+   "example": "今天的课很有趣。",
+   "examplePt": "A aula de hoje é muito divertida.",
+   "pron": "kê — 4º tom (cai); o 'k' é um 'c' bem soprado",
+   "curiosity": "O classificador das aulas é 节: 一节课 (yì jié kè) é 'uma aula'."
+  },
+  "pr27-03": {
+   "word": "考试",
+   "translit": "kǎoshì",
+   "example": "明天有考试吗？",
+   "examplePt": "Amanhã tem prova?",
+   "pron": "cáo-chrr — 3º tom (desce e sobe) e 4º tom; 'shi' vira um zumbido",
+   "curiosity": "O vestibular nacional da China chama-se 高考 (gāokǎo); 考 é 'fazer prova'."
+  },
+  "pr27-04": {
+   "word": "黑板",
+   "translit": "hēibǎn",
+   "example": "老师在黑板上写字。",
+   "examplePt": "A professora escreve no quadro-negro.",
+   "pron": "rrêi-bán — 1º tom (alto) e 3º tom; o 'h' é um 'r' arranhado",
+   "curiosity": "黑板 é a 'tábua preta': 黑 (preto) + 板 (tábua)."
+  },
+  "pr27-05": {
+   "word": "字典",
+   "translit": "zìdiǎn",
+   "example": "他在字典里查了这个字。",
+   "examplePt": "Ele procurou esta palavra no dicionário.",
+   "pron": "dzi-dién — 4º tom (cai) e 3º tom; o 'z' é um 'dz'",
+   "curiosity": "字 é 'caractere' e 典 é 'obra de referência': 字典 é o dicionário de caracteres."
+  },
+  "pr27-06": {
+   "word": "毕业证",
+   "translit": "bìyèzhèng",
+   "example": "她拿到了毕业证！",
+   "examplePt": "Ela recebeu o diploma!",
+   "pron": "bi-iê-djêng — 4º, 4º e 4º tom, todos caindo",
+   "curiosity": "毕业 é 'formar-se' e 证 é 'certificado': 'certificado de conclusão'."
+  },
+  "pr27-07": {
+   "word": "数学",
+   "translit": "shùxué",
+   "example": "数学作业太难了吗？",
+   "examplePt": "O dever de matemática é difícil demais?",
+   "pron": "chu-siüé — 4º e 2º tom; o 'xu' tem lábios em 'ü'",
+   "curiosity": "数 vem de 'número': 数学 é a 'ciência dos números'."
+  },
+  "pr27-08": {
+   "word": "科学",
+   "translit": "kēxué",
+   "example": "科学让我们看见星星。",
+   "examplePt": "A ciência nos faz enxergar as estrelas.",
+   "pron": "kê-siüé — 1º tom (alto) e 2º tom (sobe)",
+   "curiosity": "科 quer dizer 'disciplina': por isso 科学 (ciência) e 科目 (matéria) compartilham o 科."
+  },
+  "pr28-01": {
+   "word": "绘画",
+   "translit": "huìhuà",
+   "example": "他的绘画像照片一样。",
+   "examplePt": "A pintura dele parece uma foto.",
+   "pron": "rruêi-rruá — 4º tom (cai) nas duas sílabas",
+   "curiosity": "画 é verbo ('pintar') e substantivo ('quadro'); 绘画 soa mais formal e artístico."
+  },
+  "pr28-02": {
+   "word": "素描",
+   "translit": "sùmiáo",
+   "example": "我喜欢用铅笔素描。",
+   "examplePt": "Gosto de fazer esboços a lápis.",
+   "pron": "su-miáo — 4º tom (cai) e 2º tom (sobe)",
+   "curiosity": "素 é 'simples' e 描 é 'traçar': 素描 é o 'traço simples' do desenho a lápis."
+  },
+  "pr28-03": {
+   "word": "雕塑",
+   "translit": "diāosù",
+   "example": "公园里有一座大雕塑。",
+   "examplePt": "Há uma grande escultura no parque.",
+   "pron": "diáo-su — 1º tom (alto e reto) e 4º tom",
+   "curiosity": "雕 é 'entalhar' e 塑 é 'modelar': as duas técnicas da escultura."
+  },
+  "pr28-04": {
+   "word": "戏剧",
+   "translit": "xìjù",
+   "example": "今晚我们去看戏剧。",
+   "examplePt": "Hoje à noite vamos ver teatro.",
+   "pron": "si-dju — 4º tom (cai) nas duas sílabas; o 'ju' tem lábios em 'ü'",
+   "curiosity": "A ópera de Pequim se chama 京剧 (jīngjù): o 剧 é o mesmo de 戏剧."
+  },
+  "pr28-05": {
+   "word": "音乐",
+   "translit": "yīnyuè",
+   "example": "你喜欢什么音乐？",
+   "examplePt": "Que música você gosta?",
+   "pron": "ín-iüê — 1º tom (alto) e 4º tom (cai)",
+   "curiosity": "O caractere 乐 se lê yuè (música) e também lè (alegre): música e alegria juntas!"
+  },
+  "pr28-06": {
+   "word": "舞蹈",
+   "translit": "wǔdǎo",
+   "example": "舞蹈演员轻轻地转圈。",
+   "examplePt": "A bailarina gira de leve.",
+   "pron": "u-dáo — 3º tom nas duas sílabas (a 1ª vira 2º tom na fala)",
+   "curiosity": "Quem dança diz 跳舞 (verbo); 舞蹈 é a arte da dança como um todo."
+  },
+  "pr28-07": {
+   "word": "电影",
+   "translit": "diànyǐng",
+   "example": "这部电影让我哭了。",
+   "examplePt": "Este filme me fez chorar.",
+   "pron": "dién-ing — 4º tom (cai) e 3º tom (desce e sobe)",
+   "curiosity": "电影 é literalmente 'sombras elétricas': 电 (eletricidade) + 影 (sombra)."
+  },
+  "pr28-08": {
+   "word": "诗",
+   "translit": "shī",
+   "example": "他给妈妈写了一首诗。",
+   "examplePt": "Ele escreveu um poema para a mãe.",
+   "pron": "chrr — 1º tom (alto e reto); a língua se enrola e o 'i' vira zumbido",
+   "curiosity": "Crianças chinesas decoram 唐诗 (poemas da dinastia Tang), famosos até hoje."
+  },
+  "pr29-01": {
+   "word": "行星",
+   "translit": "xíngxīng",
+   "example": "地球是一颗行星。",
+   "examplePt": "A Terra é um planeta.",
+   "pron": "sing-sing — 2º tom (sobe) e 1º tom (alto)",
+   "curiosity": "行星 quer dizer 'estrela que anda' (行 = andar): os antigos viam planetas se mover."
+  },
+  "pr29-02": {
+   "word": "火箭",
+   "translit": "huǒjiàn",
+   "example": "火箭飞向天空！",
+   "examplePt": "O foguete voa para o céu!",
+   "pron": "rruó-djién — 3º tom e 4º tom",
+   "curiosity": "火箭 é 'flecha de fogo': 火 (fogo) + 箭 (flecha)."
+  },
+  "pr29-03": {
+   "word": "宇航员",
+   "translit": "yǔhángyuán",
+   "example": "宇航员在太空吃饭吗？",
+   "examplePt": "O astronauta come no espaço?",
+   "pron": "iü-rráng-iüán — 3º, 2º e 2º tom; o 'yu' tem lábios em 'ü'",
+   "curiosity": "宇航员 = 宇 (universo) + 航 (navegar) + 员 (pessoa): 'quem navega o universo'."
+  },
+  "pr29-04": {
+   "word": "望远镜",
+   "translit": "wàngyuǎnjìng",
+   "example": "用望远镜看月亮吧。",
+   "examplePt": "Vamos olhar a Lua com o telescópio.",
+   "pron": "uáng-iüán-djing — 4º, 3º e 4º tom",
+   "curiosity": "望远镜 é 'lente de olhar longe': 望 (olhar) + 远 (longe) + 镜 (lente)."
+  },
+  "pr29-05": {
+   "word": "银河系",
+   "translit": "yínhéxì",
+   "example": "我们住在银河系里。",
+   "examplePt": "Nós moramos na Via Láctea.",
+   "pron": "ín-rrê-si — 2º, 2º e 4º tom",
+   "curiosity": "Em chinês a Via Láctea é 银河, o 'rio de prata' do céu."
+  },
+  "pr29-06": {
+   "word": "彗星",
+   "translit": "huìxīng",
+   "example": "你见过彗星吗？",
+   "examplePt": "Você já viu um cometa?",
+   "pron": "rruêi-sing — 4º tom (cai) e 1º tom (alto)",
+   "curiosity": "Antigamente o cometa também era chamado de 扫帚星, a 'estrela vassoura'."
+  },
+  "pr29-07": {
+   "word": "卫星",
+   "translit": "wèixīng",
+   "example": "卫星绕着地球转。",
+   "examplePt": "O satélite gira em volta da Terra.",
+   "pron": "uêi-sing — 4º tom (cai) e 1º tom (alto)",
+   "curiosity": "卫 é 'proteger' e 星 é 'estrela': o satélite é uma 'estrela guardiã'."
+  },
+  "pr29-08": {
+   "word": "日食",
+   "translit": "rìshí",
+   "example": "日食时天会变暗。",
+   "examplePt": "Durante o eclipse, o céu escurece.",
+   "pron": "rri-chrr — 4º e 2º tom; o 'r' é um 'r' retroflexo, quase 'j'",
+   "curiosity": "日食 é literalmente 'sol comido': 日 (sol) + 食 (comer)."
+  },
+  "pr30-01": {
+   "word": "垃圾",
+   "translit": "lājī",
+   "example": "请把垃圾扔进桶里。",
+   "examplePt": "Jogue o lixo na lixeira, por favor.",
+   "pron": "lá-dji — 1º tom (alto) nas duas sílabas",
+   "curiosity": "Em grandes cidades chinesas, 垃圾分类 (separar o lixo) é obrigatório desde 2019."
+  },
+  "pr30-02": {
+   "word": "回收",
+   "translit": "huíshōu",
+   "example": "旧瓶子可以回收。",
+   "examplePt": "Garrafas velhas podem ser recicladas.",
+   "pron": "rruêi-chôu — 2º tom (sobe) e 1º tom (alto)",
+   "curiosity": "回 é 'voltar' e 收 é 'recolher': 回收 é 'recolher de volta'."
+  },
+  "pr30-03": {
+   "word": "能源",
+   "translit": "néngyuán",
+   "example": "风是干净的能源。",
+   "examplePt": "O vento é uma energia limpa.",
+   "pron": "nêng-iüán — 2º tom (sobe) nas duas sílabas",
+   "curiosity": "能 é 'poder' e 源 é 'fonte': 能源 é a 'fonte do poder', ou seja, a energia."
+  },
+  "pr30-04": {
+   "word": "污染",
+   "translit": "wūrǎn",
+   "example": "空气污染让天空变灰。",
+   "examplePt": "A poluição do ar deixa o céu cinza.",
+   "pron": "u-ran — 1º tom (alto) e 3º tom; o 'r' é retroflexo",
+   "curiosity": "染 é 'tingir': 污染 é 'tingir de sujeira', imagem perfeita da poluição."
+  },
+  "pr30-05": {
+   "word": "石油",
+   "translit": "shíyóu",
+   "example": "石油是从地下来的。",
+   "examplePt": "O petróleo vem do subsolo.",
+   "pron": "chrr-iôu — 2º tom (sobe) nas duas sílabas",
+   "curiosity": "石油 é 'óleo de pedra': 石 (pedra) + 油 (óleo)."
+  },
+  "pr30-06": {
+   "word": "太阳能板",
+   "translit": "tàiyángnéngbǎn",
+   "example": "屋顶上有太阳能板。",
+   "examplePt": "Há painéis solares no telhado.",
+   "pron": "tái-iáng-nêng-ban — 4º, 2º, 2º e 3º tom",
+   "curiosity": "太阳能 é energia solar (太阳 = sol) e 板 é 'placa': a 'placa de energia solar'."
+  },
+  "pr30-07": {
+   "word": "塑料",
+   "translit": "sùliào",
+   "example": "塑料袋会污染海洋。",
+   "examplePt": "Sacolas plásticas poluem os oceanos.",
+   "pron": "su-liáo — 4º tom (cai) nas duas sílabas",
+   "curiosity": "塑 é 'modelar' e 料 é 'material': plástico é o 'material que se molda'."
+  },
+  "pr30-08": {
+   "word": "金属",
+   "translit": "jīnshǔ",
+   "example": "磁铁吸住了金属。",
+   "examplePt": "O ímã grudou no metal.",
+   "pron": "djin-chu — 1º tom (alto) e 3º tom (desce e sobe)",
+   "curiosity": "金 significa 'ouro' e também 'metal': 金属 é a 'família do metal'."
+  },
+  "pr31-01": {
+   "word": "锯子",
+   "translit": "jùzi",
+   "example": "爸爸用锯子锯木头。",
+   "examplePt": "Papai serra a madeira com a serra.",
+   "pron": "dju-dzi — 4º tom (cai); o 'zi' final é leve, sem tom",
+   "curiosity": "O mesmo caractere 锯 é nome (a serra) e verbo (serrar): 锯子锯木头."
+  },
+  "pr31-02": {
+   "word": "扳手",
+   "translit": "bānshǒu",
+   "example": "请递给我扳手。",
+   "examplePt": "Passe-me a chave inglesa, por favor.",
+   "pron": "ban-chôu — 1º tom (alto) e 3º tom",
+   "curiosity": "扳 é 'girar com força' e 手 é 'mão': a 'mão que gira'."
+  },
+  "pr31-03": {
+   "word": "钳子",
+   "translit": "qiánzi",
+   "example": "用钳子夹住小钉子。",
+   "examplePt": "Segure o prego pequeno com o alicate.",
+   "pron": "tchién-dzi — 2º tom (sobe); o 'zi' final é leve",
+   "curiosity": "钳 (qián) soa igual a 钱 (dinheiro), mas se escreve diferente: contexto resolve!"
+  },
+  "pr31-04": {
+   "word": "卷尺",
+   "translit": "juǎnchǐ",
+   "example": "用卷尺量一下桌子。",
+   "examplePt": "Meça a mesa com a trena.",
+   "pron": "djüán-tchrr — 3º tom (desce e sobe) nas duas sílabas",
+   "curiosity": "卷尺 é a 'régua enrolada': 卷 (enrolar) + 尺 (régua)."
+  },
+  "pr31-05": {
+   "word": "胶水",
+   "translit": "jiāoshuǐ",
+   "example": "别把胶水弄到手上。",
+   "examplePt": "Não deixe a cola cair na mão.",
+   "pron": "djiáo-chuêi — 1º tom (alto) e 3º tom",
+   "curiosity": "胶水 é 'água grudenta': 胶 (cola) + 水 (água)."
+  },
+  "pr31-06": {
+   "word": "镐头",
+   "translit": "gǎotou",
+   "example": "工人用镐头挖石头。",
+   "examplePt": "O operário cava a pedra com a picareta.",
+   "pron": "gáo-tou — 3º tom e sílaba final leve",
+   "curiosity": "O sufixo 头 aparece em muitas coisas: 木头 (madeira), 石头 (pedra), 镐头 (picareta)."
+  },
+  "pr31-07": {
+   "word": "扫帚",
+   "translit": "sàozhou",
+   "example": "她用扫帚扫地。",
+   "examplePt": "Ela varre o chão com a vassoura.",
+   "pron": "sáo-djou — 4º tom (cai); o 'zhou' final é leve",
+   "curiosity": "帚 quase nunca aparece sozinho: vive em 扫帚, 'varrer' (扫) + 'vassoura'."
+  },
+  "pr31-08": {
+   "word": "油漆",
+   "translit": "yóuqī",
+   "example": "这面墙刷了新油漆。",
+   "examplePt": "Esta parede levou tinta nova.",
+   "pron": "iôu-tchi — 2º tom (sobe) e 1º tom (alto)",
+   "curiosity": "漆 é a laca tirada de uma árvore; objetos de laca são arte chinesa de milhares de anos."
+  },
+  "pr32-01": {
+   "word": "平底锅",
+   "translit": "píngdǐguō",
+   "example": "平底锅里的蛋香极了。",
+   "examplePt": "O ovo na frigideira está cheirosíssimo.",
+   "pron": "ping-di-guô — 2º, 3º e 1º tom",
+   "curiosity": "O wok chinês é o 炒锅 (chǎoguō), a 'panela de refogar'."
+  },
+  "pr32-02": {
+   "word": "烧水壶",
+   "translit": "shāoshuǐhú",
+   "example": "烧水壶响了，水开了。",
+   "examplePt": "A chaleira apitou: a água ferveu.",
+   "pron": "cháo-chuêi-rru — 1º, 3º e 2º tom",
+   "curiosity": "烧水壶 é 'a panela de queimar água': 烧 (queimar/ferver) + 水 + 壶."
+  },
+  "pr32-03": {
+   "word": "搅拌机",
+   "translit": "jiǎobànjī",
+   "example": "搅拌机的声音好大！",
+   "examplePt": "O barulho do liquidificador é enorme!",
+   "pron": "djiáo-ban-dji — 3º, 4º e 1º tom",
+   "curiosity": "机 é 'máquina' em 搅拌机, 手机 e 飞机: é só juntar o verbo e o 机."
+  },
+  "pr32-04": {
+   "word": "围裙",
+   "translit": "wéiqún",
+   "example": "妈妈系上围裙开始做饭。",
+   "examplePt": "Mamãe amarra o avental e começa a cozinhar.",
+   "pron": "uêi-tchün — 2º tom (sobe) nas duas sílabas",
+   "curiosity": "围 é 'cercar' e 裙 é 'saia': o avental é a 'saia que cerca'."
+  },
+  "pr32-05": {
+   "word": "海绵",
+   "translit": "hǎimián",
+   "example": "用海绵擦桌子。",
+   "examplePt": "Limpe a mesa com a esponja.",
+   "pron": "rrái-mién — 3º e 2º tom",
+   "curiosity": "海绵 é literalmente 'algodão do mar': 海 (mar) + 绵 (algodão macio)."
+  },
+  "pr32-06": {
+   "word": "垃圾桶",
+   "translit": "lājītǒng",
+   "example": "垃圾桶在门后面。",
+   "examplePt": "A lixeira está atrás da porta.",
+   "pron": "lá-dji-tong — 1º, 1º e 3º tom",
+   "curiosity": "桶 é 'balde' ou 'barril': 垃圾桶 = lixo + balde; 水桶 é o balde de água."
+  },
+  "pr32-07": {
+   "word": "水罐",
+   "translit": "shuǐguàn",
+   "example": "水罐里有冰块。",
+   "examplePt": "Tem gelo na jarra de água.",
+   "pron": "chuêi-guán — 3º e 4º tom",
+   "curiosity": "罐 também está em 罐头, a comida enlatada."
+  },
+  "pr32-08": {
+   "word": "刨丝器",
+   "translit": "bàosīqì",
+   "example": "用刨丝器把胡萝卜擦成丝。",
+   "examplePt": "Rale a cenoura com o ralador.",
+   "pron": "báo-ssi-tchi — 4º, 1º e 4º tom",
+   "curiosity": "丝 é 'fio': o ralador (刨丝器) é o 'utensílio de fazer fios'."
+  },
+  "pr33-01": {
+   "word": "水瓶",
+   "translit": "shuǐpíng",
+   "example": "出发前先把水瓶装满。",
+   "examplePt": "Antes de sair, encha a garrafa de água.",
+   "pron": "chuêi-ping — 3º tom (desce e sobe) e 2º tom (sobe)",
+   "curiosity": "瓶 é o classificador de garrafas: 一瓶水 (yì píng shuǐ) é 'uma garrafa de água'."
+  },
+  "pr33-02": {
+   "word": "帐篷",
+   "translit": "zhàngpeng",
+   "example": "我们在山边搭了帐篷。",
+   "examplePt": "Armamos a barraca ao pé da montanha.",
+   "pron": "djáng-pêng — 4º tom (cai); 'peng' final é leve",
+   "curiosity": "Montar a barraca é 搭帐篷; o mesmo 搭 vale para 搭车, 'pegar carona'."
+  },
+  "pr33-03": {
+   "word": "篝火",
+   "translit": "gōuhuǒ",
+   "example": "大家围着篝火唱歌。",
+   "examplePt": "Todos cantam em volta da fogueira.",
+   "pron": "gôu-rruó — 1º tom (alto) e 3º tom",
+   "curiosity": "篝火晚会 (gōuhuǒ wǎnhuì) é a festa em volta da fogueira, comum em acampamentos."
+  },
+  "pr33-04": {
+   "word": "双筒望远镜",
+   "translit": "shuāngtǒngwàngyuǎnjìng",
+   "example": "用双筒望远镜看小鸟。",
+   "examplePt": "Observe os passarinhos com o binóculo.",
+   "pron": "chuáng-tong-uáng-iüán-djing — 1º, 3º, 4º, 3º e 4º tom",
+   "curiosity": "双筒 é 'dois tubos': o binóculo é um telescópio de dois canudos."
+  },
+  "pr33-05": {
+   "word": "独木舟",
+   "translit": "dúmùzhōu",
+   "example": "独木舟在湖上慢慢划。",
+   "examplePt": "A canoa desliza devagar no lago.",
+   "pron": "du-mu-djôu — 2º, 4º e 1º tom",
+   "curiosity": "独木舟 é o 'barco de um só tronco': 独 (único) + 木 (madeira) + 舟 (barco)."
+  },
+  "pr33-06": {
+   "word": "小径",
+   "translit": "xiǎojìng",
+   "example": "这条小径通往森林。",
+   "examplePt": "Esta trilha leva à floresta.",
+   "pron": "siáo-djing — 3º tom (desce e sobe) e 4º tom",
+   "curiosity": "径 é 'caminho' em estilo escrito; na fala do dia a dia, 路 (lù) é mais comum."
+  },
+  "pr33-07": {
+   "word": "锚",
+   "translit": "máo",
+   "example": "船靠近岸边，抛下了锚。",
+   "examplePt": "O navio chegou à margem e lançou a âncora.",
+   "pron": "máo — 2º tom (sobe)",
+   "curiosity": "抛锚 (pāomáo) é 'lançar a âncora' e também 'pifar': um carro parado na estrada."
+  },
+  "pr33-08": {
+   "word": "防晒霜",
+   "translit": "fángshàishuāng",
+   "example": "去海边要擦防晒霜！",
+   "examplePt": "Na praia, é preciso passar protetor solar!",
+   "pron": "fáng-cháishuáng — 2º, 4º e 1º tom",
+   "curiosity": "防 é 'prevenir', 晒 é 'tomar sol' e 霜 é 'creme': 'creme contra o sol'."
+  },
+  "pr34-01": {
+   "word": "滑板车",
+   "translit": "huábǎnchē",
+   "example": "小朋友踩着滑板车上学。",
+   "examplePt": "A criança vai à escola de patinete.",
+   "pron": "rruá-ban-tchê — 2º, 3º e 1º tom",
+   "curiosity": "滑板车 é 'carro de tábua que desliza': 滑 (deslizar) + 板 (tábua) + 车 (veículo)."
+  },
+  "pr34-02": {
+   "word": "拖拉机",
+   "translit": "tuōlājī",
+   "example": "农民开着拖拉机去田里。",
+   "examplePt": "O fazendeiro vai ao campo de trator.",
+   "pron": "tuô-lá-dji — 1º tom (alto) nas três sílabas",
+   "curiosity": "拖 e 拉 significam 'puxar': o trator é a 'máquina de puxar'."
+  },
+  "pr34-03": {
+   "word": "轮船",
+   "translit": "lúnchuán",
+   "example": "轮船缓缓驶出港口。",
+   "examplePt": "O navio sai devagar do porto.",
+   "pron": "lun-tchuán — 2º tom (sobe) nas duas sílabas",
+   "curiosity": "轮 é 'roda': os primeiros navios a vapor tinham rodas de pás, daí 轮船."
+  },
+  "pr34-04": {
+   "word": "缆车",
+   "translit": "lǎnchē",
+   "example": "我们坐缆车上山吧？",
+   "examplePt": "Vamos subir a montanha de teleférico?",
+   "pron": "lan-tchê — 3º tom e 1º tom",
+   "curiosity": "缆 é 'cabo': 缆车 é o 'carro do cabo'."
+  },
+  "pr34-05": {
+   "word": "高铁",
+   "translit": "gāotiě",
+   "example": "坐高铁去北京要几个小时？",
+   "examplePt": "Quantas horas de trem-bala até Pequim?",
+   "pron": "gáo-tiê — 1º tom (alto) e 3º tom",
+   "curiosity": "高铁 é a abreviação de 高速铁路, 'ferrovia de alta velocidade'."
+  },
+  "pr34-06": {
+   "word": "滑板",
+   "translit": "huábǎn",
+   "example": "他在广场上玩滑板。",
+   "examplePt": "Ele anda de skate na praça.",
+   "pron": "rruá-ban — 2º tom (sobe) e 3º tom",
+   "curiosity": "滑 (deslizar) também forma 滑雪 (esquiar): o que desliza é 滑."
+  },
+  "pr34-07": {
+   "word": "雪橇",
+   "translit": "xuěqiāo",
+   "example": "狗拉着雪橇跑过雪地。",
+   "examplePt": "Os cães puxam o trenó pela neve.",
+   "pron": "siüê-tchiáo — 3º tom e 1º tom; o 'xue' tem lábios em 'ü'",
+   "curiosity": "雪橇 junta 雪 (neve) e 橇 (trenó): o 'veículo de neve'."
+  },
+  "pr34-08": {
+   "word": "有轨电车",
+   "translit": "yǒuguǐdiànchē",
+   "example": "有轨电车沿着铁轨慢慢走。",
+   "examplePt": "O bonde anda devagar pelos trilhos.",
+   "pron": "iôu-guêi-dién-tchê — 3º, 3º, 4º e 1º tom",
+   "curiosity": "有轨电车 é 'carro elétrico com trilho'; em Hong Kong é o 叮叮车, nome imitando o sino."
+  },
+  "pr35-01": {
+   "word": "鼠标",
+   "translit": "shǔbiāo",
+   "example": "我的鼠标没电了。",
+   "examplePt": "O meu mouse ficou sem bateria.",
+   "pron": "chu-biáo — 3º tom (desce e sobe) e 1º tom",
+   "curiosity": "鼠 é 'rato': em chinês, o bicho e o mouse do computador têm o mesmo nome 鼠."
+  },
+  "pr35-02": {
+   "word": "无线网",
+   "translit": "wúxiànwǎng",
+   "example": "咖啡店有无线网吗？",
+   "examplePt": "A cafeteria tem wi-fi?",
+   "pron": "u-sién-uáng — 2º, 4º e 3º tom",
+   "curiosity": "无线网 é a 'rede sem fio': 无 (sem) + 线 (fio) + 网 (rede)."
+  },
+  "pr35-03": {
+   "word": "应用程序",
+   "translit": "yìngyòngchéngxù",
+   "example": "这个应用程序很好用。",
+   "examplePt": "Este aplicativo é muito bom de usar.",
+   "pron": "ing-iông-tchêng-süi — 4º, 4º, 2º e 4º tom",
+   "curiosity": "No dia a dia muita gente encurta para 应用, só 'aplicação'."
+  },
+  "pr35-04": {
+   "word": "短信",
+   "translit": "duǎnxìn",
+   "example": "我给你发了一条短信。",
+   "examplePt": "Eu te mandei uma mensagem.",
+   "pron": "duán-sin — 3º tom e 4º tom",
+   "curiosity": "信 significa 'carta' (写信) e também 'acreditar' (相信): carta e confiança juntas."
+  },
+  "pr35-05": {
+   "word": "文件",
+   "translit": "wénjiàn",
+   "example": "文件在哪个文件夹里？",
+   "examplePt": "Em qual pasta está o arquivo?",
+   "pron": "uên-djién — 2º tom (sobe) e 4º tom (cai)",
+   "curiosity": "件 é classificador de itens (一件衣服); 文件 é o 'item de texto'."
+  },
+  "pr35-06": {
+   "word": "优盘",
+   "translit": "yōupán",
+   "example": "把文件存进优盘里。",
+   "examplePt": "Salve o arquivo no pen drive.",
+   "pron": "iôu-pán — 1º tom (alto) e 2º tom (sobe)",
+   "curiosity": "Em Taiwan o pen drive tem outro nome (随身碟, 'disco de bolso')."
+  },
+  "pr35-07": {
+   "word": "网站",
+   "translit": "wǎngzhàn",
+   "example": "这个网站有很多游戏。",
+   "examplePt": "Este site tem muitos jogos.",
+   "pron": "uáng-djan — 3º tom e 4º tom",
+   "curiosity": "站 é 'estação' (公交站 = ponto de ônibus): o site é uma 'estação da rede'."
+  },
+  "pr35-08": {
+   "word": "无人机",
+   "translit": "wúrénjī",
+   "example": "无人机飞得好高！",
+   "examplePt": "O drone voa bem alto!",
+   "pron": "u-rrên-dji — 2º, 2º e 1º tom",
+   "curiosity": "无人机 é a 'máquina sem gente': 无 (sem) + 人 (pessoa) + 机 (máquina)."
+  },
+  "pr36-01": {
+   "word": "领带",
+   "translit": "lǐngdài",
+   "example": "爸爸今天系了红领带。",
+   "examplePt": "Hoje o papai usa gravata vermelha.",
+   "pron": "ling-dái — 3º tom e 4º tom",
+   "curiosity": "Gravata se 'amarra': o verbo é 系 (jì), mas em 关系 o mesmo caractere lê-se xì."
+  },
+  "pr36-02": {
+   "word": "围巾",
+   "translit": "wéijīn",
+   "example": "天冷了，快围上围巾！",
+   "examplePt": "Está frio, ponha logo o cachecol!",
+   "pron": "uêi-djin — 2º tom (sobe) e 1º tom (alto)",
+   "curiosity": "巾 é 'pano': aparece em 围巾 (cachecol) e 毛巾 (toalha)."
+  },
+  "pr36-03": {
+   "word": "短裤",
+   "translit": "duǎnkù",
+   "example": "夏天穿短裤最舒服。",
+   "examplePt": "No verão, bermuda é o mais confortável.",
+   "pron": "duán-ku — 3º tom e 4º tom",
+   "curiosity": "裤子 é o termo geral de 'calça'; em 短裤 o 子 some e fica só 'calça curta'."
+  },
+  "pr36-04": {
+   "word": "夹克",
+   "translit": "jiākè",
+   "example": "这件夹克太酷了！",
+   "examplePt": "Esta jaqueta é demais!",
+   "pron": "djiá-kê — 1º tom (alto) e 4º tom",
+   "curiosity": "夹克 imita o som de 'jacket' do inglês: um empréstimo sonoro."
+  },
+  "pr36-05": {
+   "word": "拖鞋",
+   "translit": "tuōxié",
+   "example": "进门请换拖鞋。",
+   "examplePt": "Ao entrar, troque por chinelos.",
+   "pron": "tuô-siê — 1º tom (alto) e 2º tom (sobe)",
+   "curiosity": "Em muitas casas chinesas, troca-se o sapato por 拖鞋 ao entrar."
+  },
+  "pr36-06": {
+   "word": "靴子",
+   "translit": "xuēzi",
+   "example": "雨天我穿靴子出门。",
+   "examplePt": "Em dia de chuva, saio de bota.",
+   "pron": "siüê-dzi — 1º tom (alto) e sílaba final leve",
+   "curiosity": "靴 tem o radical 革 (couro) à esquerda: botas eram de couro."
+  },
+  "pr36-07": {
+   "word": "项链",
+   "translit": "xiàngliàn",
+   "example": "奶奶的项链闪闪发光。",
+   "examplePt": "O colar da vovó brilha muito.",
+   "pron": "siáng-lién — 4º tom (cai) nas duas sílabas",
+   "curiosity": "项 é 'pescoço' e 链 é 'corrente': 项链 é a 'corrente do pescoço'."
+  },
+  "pr36-08": {
+   "word": "帽子",
+   "translit": "màozi",
+   "example": "风把我的帽子吹走了！",
+   "examplePt": "O vento levou meu chapéu!",
+   "pron": "máo-dzi — 4º tom (cai); o 'zi' final é leve",
+   "curiosity": "O verbo de usar chapéu, óculos, luvas e anéis é sempre 戴 (dài)."
+  },
+  "pr37-01": {
+   "word": "大学",
+   "translit": "dàxué",
+   "example": "姐姐明年上大学。",
+   "examplePt": "Minha irmã vai para a universidade ano que vem.",
+   "pron": "dá-siüé — 4º tom (cai) e 2º tom (sobe)",
+   "curiosity": "北京大学 vira 北大 (Běidà): pega-se um caractere de cada parte do nome."
+  },
+  "pr37-02": {
+   "word": "毕业典礼",
+   "translit": "bìyèdiǎnlǐ",
+   "example": "毕业典礼上大家都哭了。",
+   "examplePt": "Na formatura, todo mundo chorou.",
+   "pron": "bi-iê-dién-li — 4º, 4º, 3º e 3º tom",
+   "curiosity": "典礼 é 'cerimônia': 毕业典礼 é a 'cerimônia de conclusão'."
+  },
+  "pr37-03": {
+   "word": "实验室",
+   "translit": "shíyànshì",
+   "example": "实验室里有很多瓶子。",
+   "examplePt": "O laboratório tem muitos frascos.",
+   "pron": "chrr-ién-chrr — 2º, 4º e 4º tom",
+   "curiosity": "室 é 'sala': aparece em 卧室, 教室 e 实验室."
+  },
+  "pr37-04": {
+   "word": "讲义",
+   "translit": "jiǎngyì",
+   "example": "老师发了新的讲义。",
+   "examplePt": "A professora distribuiu a nova apostila.",
+   "pron": "djiáng-i — 3º tom e 4º tom",
+   "curiosity": "讲 é 'explicar': 讲义 é o texto de apoio que acompanha a explicação."
+  },
+  "pr37-05": {
+   "word": "讲座",
+   "translit": "jiǎngzuò",
+   "example": "今晚有一场有趣的讲座。",
+   "examplePt": "Hoje à noite tem uma palestra interessante.",
+   "pron": "djiáng-dzuô — 3º tom e 4º tom",
+   "curiosity": "座 é o classificador de montanhas e prédios: 一座山 (yí zuò shān)."
+  },
+  "pr37-06": {
+   "word": "研究",
+   "translit": "yánjiū",
+   "example": "她研究蝴蝶已经十年了。",
+   "examplePt": "Ela estuda borboletas há dez anos.",
+   "pron": "ién-djiôu — 2º tom (sobe) e 1º tom (alto)",
+   "curiosity": "研究生 (yánjiūshēng) é o aluno de pós-graduação: 'aluno que pesquisa'."
+  },
+  "pr37-07": {
+   "word": "作文",
+   "translit": "zuòwén",
+   "example": "你的作文写得真好！",
+   "examplePt": "Sua redação ficou ótima!",
+   "pron": "dzuô-uên — 4º tom (cai) e 2º tom (sobe)",
+   "curiosity": "作文 é a redação escolar; para um texto em geral usa-se 文章 (wénzhāng)."
+  },
+  "pr37-08": {
+   "word": "日历",
+   "translit": "rìlì",
+   "example": "日历上画了一个红圈。",
+   "examplePt": "Há um círculo vermelho no calendário.",
+   "pron": "rri-li — 4º tom (cai) nas duas sílabas",
+   "curiosity": "O 农历 (nónglì) é o calendário lunar que define o Ano Novo chinês."
+  },
+  "pr38-01": {
+   "word": "砖",
+   "translit": "zhuān",
+   "example": "工人一块一块地砌砖。",
+   "examplePt": "O pedreiro assenta tijolo por tijolo.",
+   "pron": "djuán — 1º tom (alto e reto); 'zh' é um 'dj' enrolado",
+   "curiosity": "O classificador do tijolo é 块 (kuài): 一块砖 é 'um tijolo'."
+  },
+  "pr38-02": {
+   "word": "起重机",
+   "translit": "qǐzhòngjī",
+   "example": "起重机能吊起很重的东西。",
+   "examplePt": "O guindaste levanta coisas muito pesadas.",
+   "pron": "tchi-djông-dji — 3º, 4º e 1º tom",
+   "curiosity": "起重机 é a 'máquina de erguer o pesado': 起 (erguer) + 重 (pesado) + 机."
+  },
+  "pr38-03": {
+   "word": "铲子",
+   "translit": "chǎnzi",
+   "example": "小朋友用铲子挖沙子。",
+   "examplePt": "A criança cava areia com a pá.",
+   "pron": "tchán-dzi — 3º tom; o 'zi' final é leve",
+   "curiosity": "铲 é verbo (pegar com pá) e substantivo; 铲子 é a pá da obra ou do jardim."
+  },
+  "pr38-04": {
+   "word": "屋顶",
+   "translit": "wūdǐng",
+   "example": "猫坐在屋顶上晒太阳。",
+   "examplePt": "O gato toma sol no telhado.",
+   "pron": "u-ding — 1º tom (alto) e 3º tom",
+   "curiosity": "顶 é o classificador de chapéus e barracas: 一顶帽子, 一顶帐篷."
+  },
+  "pr38-05": {
+   "word": "电梯",
+   "translit": "diàntī",
+   "example": "电梯坏了，我们走楼梯吧。",
+   "examplePt": "O elevador quebrou, vamos de escada.",
+   "pron": "dién-ti — 4º tom (cai) e 1º tom (alto)",
+   "curiosity": "电梯 é literalmente a 'escada elétrica': 电 (eletricidade) + 梯 (escada)."
+  },
+  "pr38-06": {
+   "word": "角尺",
+   "translit": "jiǎochǐ",
+   "example": "木匠用角尺画直角。",
+   "examplePt": "O marceneiro traça o ângulo reto com o esquadro.",
+   "pron": "djiáo-tchrr — 3º tom nas duas sílabas (a 1ª vira 2º tom)",
+   "curiosity": "角 é 'ângulo' e 尺 é 'régua': o esquadro é a 'régua de ângulos'."
+  },
+  "pr38-07": {
+   "word": "工地",
+   "translit": "gōngdì",
+   "example": "工地上很吵，请戴安全帽。",
+   "examplePt": "A obra é barulhenta, use capacete.",
+   "pron": "gong-di — 1º tom (alto) e 4º tom (cai)",
+   "curiosity": "工地 é 'terreno de trabalho': 工 (trabalho) + 地 (terreno)."
+  },
+  "pr38-08": {
+   "word": "钥匙",
+   "translit": "yàoshi",
+   "example": "我的钥匙放在哪儿了？",
+   "examplePt": "Onde deixei minha chave?",
+   "pron": "iáo-chi — 4º tom (cai); a sílaba final é leve",
+   "curiosity": "匙 também aparece em 汤匙, a colher de sopa."
+  },
+  "pr39-01": {
+   "word": "购物车",
+   "translit": "gòuwùchē",
+   "example": "弟弟坐在购物车里。",
+   "examplePt": "Meu irmão sentou no carrinho de compras.",
+   "pron": "gôu-u-tchê — 4º, 4º e 1º tom",
+   "curiosity": "购物车 é 'carro de comprar coisas': 购 (comprar) + 物 (coisa) + 车."
+  },
+  "pr39-02": {
+   "word": "标签",
+   "translit": "biāoqiān",
+   "example": "标签上写着价格。",
+   "examplePt": "A etiqueta mostra o preço.",
+   "pron": "biáo-tchién — 1º tom (alto) e 1º tom",
+   "curiosity": "Na internet 标签 também é a 'tag' (hashtag), a etiqueta digital."
+  },
+  "pr39-03": {
+   "word": "购物袋",
+   "translit": "gòuwùdài",
+   "example": "请自带购物袋，保护地球。",
+   "examplePt": "Traga sua sacola e proteja a Terra.",
+   "pron": "gôu-u-dái — 4º, 4º e 4º tom",
+   "curiosity": "袋 é 'saco': aparece em 购物袋 e 塑料袋 (sacola plástica)."
+  },
+  "pr39-04": {
+   "word": "自动取款机",
+   "translit": "zìdòngqǔkuǎnjī",
+   "example": "附近有自动取款机吗？",
+   "examplePt": "Há um caixa eletrônico por aqui?",
+   "pron": "dzi-dông-tchü-kuán-dji — 4º, 4º, 3º, 3º e 1º tom",
+   "curiosity": "取款 é 'sacar dinheiro': 自动 (automático) + 取款 + 机 (máquina)."
+  },
+  "pr39-05": {
+   "word": "小费",
+   "translit": "xiǎofèi",
+   "example": "在这里不用给小费。",
+   "examplePt": "Aqui não precisa dar gorjeta.",
+   "pron": "siáo-fêi — 3º tom e 4º tom",
+   "curiosity": "Na China continental, deixar 小费 normalmente não é costume."
+  },
+  "pr39-06": {
+   "word": "利润",
+   "translit": "lìrùn",
+   "example": "小店这个月的利润很高。",
+   "examplePt": "O lucro da lojinha está alto este mês.",
+   "pron": "li-ruên — 4º tom (cai) nas duas sílabas",
+   "curiosity": "利 também aparece em 利息 (juros): o 'ganho' do dinheiro."
+  },
+  "pr39-07": {
+   "word": "商店",
+   "translit": "shāngdiàn",
+   "example": "这家商店几点关门？",
+   "examplePt": "A que horas esta loja fecha?",
+   "pron": "cháng-dién — 1º tom (alto) e 4º tom",
+   "curiosity": "家 é o classificador das lojas: 这家商店 (zhè jiā shāngdiàn)."
+  },
+  "pr39-08": {
+   "word": "橱窗",
+   "translit": "chúchuāng",
+   "example": "她盯着橱窗里的裙子。",
+   "examplePt": "Ela fica olhando o vestido na vitrine.",
+   "pron": "tchu-tchuáng — 2º tom (sobe) e 1º tom (alto)",
+   "curiosity": "橱窗 é a 'janela do armário': 橱 (armário) + 窗 (janela)."
+  },
+  "pr40-01": {
+   "word": "柔软",
+   "translit": "róuruǎn",
+   "example": "小猫的毛又柔软又温暖。",
+   "examplePt": "O pelo do gatinho é macio e quente.",
+   "pron": "rôu-ruán — 2º tom (sobe) e 3º tom",
+   "curiosity": "柔 e 软 são ambos 'macio': a palavra une dois sinônimos para ficar mais forte."
+  },
+  "pr40-02": {
+   "word": "坚硬",
+   "translit": "jiānyìng",
+   "example": "钻石是最坚硬的石头。",
+   "examplePt": "O diamante é a pedra mais dura.",
+   "pron": "djién-ing — 1º tom (alto) e 4º tom (cai)",
+   "curiosity": "坚硬 é o oposto de 柔软: 坚 (firme) + 硬 (duro) contra 柔 + 软."
+  },
+  "pr40-03": {
+   "word": "闪亮",
+   "translit": "shǎnliàng",
+   "example": "星星在夜空中闪亮。",
+   "examplePt": "As estrelas brilham no céu noturno.",
+   "pron": "chán-liáng — 3º tom e 4º tom",
+   "curiosity": "闪 é 'piscar' e 亮 é 'claro': 闪亮 é 'brilhar piscando'."
+  },
+  "pr40-04": {
+   "word": "昏暗",
+   "translit": "hūn'àn",
+   "example": "房间里太昏暗了，开灯吧。",
+   "examplePt": "O quarto está escuro demais, acenda a luz.",
+   "pron": "rruen-an — 1º tom (alto) e 4º tom; o apóstrofo separa as sílabas",
+   "curiosity": "昏 é o fim do dia (黄昏, 'entardecer') e 暗 é 'escuro'."
+  },
+  "pr40-05": {
+   "word": "湿",
+   "translit": "shī",
+   "example": "我的袜子全湿了！",
+   "examplePt": "Minhas meias ficaram todas molhadas!",
+   "pron": "chrr — 1º tom (alto e reto)",
+   "curiosity": "湿 e 诗 (poema) soam igual, shī: só o contexto diz qual é qual."
+  },
+  "pr40-06": {
+   "word": "干燥",
+   "translit": "gānzào",
+   "example": "冬天的空气很干燥。",
+   "examplePt": "O ar do inverno é muito seco.",
+   "pron": "gan-dzáo — 1º tom (alto) e 4º tom",
+   "curiosity": "干 vira gān em 干燥 e gàn em 干活 (trabalhar): o mesmo caractere, tons diferentes."
+  },
+  "pr40-07": {
+   "word": "多刺",
+   "translit": "duōcì",
+   "example": "仙人掌浑身多刺。",
+   "examplePt": "O cacto é cheio de espinhos.",
+   "pron": "duô-tsi — 1º tom (alto) e 4º tom; o 'c' é um 'ts'",
+   "curiosity": "刺 é 'espinho' e também 'picar': 刺猬 (cìwei) é o ouriço."
+  },
+  "pr40-08": {
+   "word": "吵闹",
+   "translit": "chǎonào",
+   "example": "教室里太吵闹了！",
+   "examplePt": "A sala de aula está barulhenta demais!",
+   "pron": "tcháo-náo — 3º tom e 4º tom",
+   "curiosity": "吵 e 闹 ambos significam barulho e confusão; juntos viram 'barulhento'."
+  },
+  "pr41-01": {
+   "word": "便宜",
+   "translit": "piányi",
+   "example": "这里的水果很便宜。",
+   "examplePt": "As frutas daqui são muito baratas.",
+   "pron": "pién-i — 2º tom (sobe); a 2ª sílaba é leve",
+   "curiosity": "便 lê-se pián em 便宜 (barato) e biàn em 方便 (prático)."
+  },
+  "pr41-02": {
+   "word": "贵",
+   "translit": "guì",
+   "example": "这个包太贵了！",
+   "examplePt": "Esta bolsa é cara demais!",
+   "pron": "guêi — 4º tom (cai)",
+   "curiosity": "Perguntar o sobrenome com respeito é 您贵姓？: 贵 vira 'nobre', um elogio."
+  },
+  "pr41-03": {
+   "word": "容易",
+   "translit": "róngyì",
+   "example": "这道题很容易。",
+   "examplePt": "Este exercício é bem fácil.",
+   "pron": "rrông-i — 2º tom (sobe) e 4º tom (cai)",
+   "curiosity": "O oposto é 困难 ou 不容易: 'não é fácil', um jeito educado de dizer 'difícil'."
+  },
+  "pr41-04": {
+   "word": "困难",
+   "translit": "kùnnan",
+   "example": "学汉字有点困难吗？",
+   "examplePt": "Aprender caracteres é meio difícil?",
+   "pron": "kuên-nan — 4º tom (cai); a 2ª sílaba é leve",
+   "curiosity": "难 lê-se nán (difícil) e nàn (desgraça), como em 灾难 (desastre)."
+  },
+  "pr41-05": {
+   "word": "免费",
+   "translit": "miǎnfèi",
+   "example": "免费的茶，请随便喝。",
+   "examplePt": "Chá grátis, fique à vontade.",
+   "pron": "miên-fêi — 3º tom e 4º tom",
+   "curiosity": "免 é 'dispensar' e 费 é 'custo': 免费 é 'dispensar o custo'."
+  },
+  "pr41-06": {
+   "word": "拥挤",
+   "translit": "yōngjǐ",
+   "example": "早上的地铁特别拥挤。",
+   "examplePt": "O metrô de manhã fica lotadíssimo.",
+   "pron": "iông-dji — 1º tom (alto) e 3º tom",
+   "curiosity": "拥 é 'abraçar' e 挤 é 'apertar': gente abraçada e apertada."
+  },
+  "pr41-07": {
+   "word": "安静",
+   "translit": "ānjìng",
+   "example": "图书馆里请保持安静。",
+   "examplePt": "Na biblioteca, mantenha o silêncio.",
+   "pron": "an-djing — 1º tom (alto) e 4º tom",
+   "curiosity": "安 é 'paz': 安静 é paz e calma; 安全 (ānquán) é segurança."
+  },
+  "pr41-08": {
+   "word": "稀有",
+   "translit": "xīyǒu",
+   "example": "熊猫是稀有的动物。",
+   "examplePt": "O panda é um animal raro.",
+   "pron": "si-iôu — 1º tom (alto) e 3º tom",
+   "curiosity": "Pandas selvagens vivem só na China, por isso são mesmo 稀有 (raros)."
+  },
+  "pr42-01": {
+   "word": "里面",
+   "translit": "lǐmiàn",
+   "example": "盒子里面是什么？",
+   "examplePt": "O que tem dentro da caixa?",
+   "pron": "li-mién — 3º tom e 4º tom",
+   "curiosity": "面 aqui quer dizer 'lado/parte': 里面, 外面 e 上面 são lados."
+  },
+  "pr42-02": {
+   "word": "外面",
+   "translit": "wàimiàn",
+   "example": "外面在下雨吗？",
+   "examplePt": "Está chovendo lá fora?",
+   "pron": "uái-mién — 4º tom (cai) nas duas sílabas",
+   "curiosity": "外 é 'fora': por isso 外国 (wàiguó) significa 'país estrangeiro'."
+  },
+  "pr42-03": {
+   "word": "上面",
+   "translit": "shàngmiàn",
+   "example": "书在桌子上面。",
+   "examplePt": "O livro está em cima da mesa.",
+   "pron": "cháng-mién — 4º tom (cai) nas duas sílabas",
+   "curiosity": "Para falar 'em cima da mesa' diz-se 桌子上面: a posição vem depois do objeto."
+  },
+  "pr42-04": {
+   "word": "下面",
+   "translit": "xiàmiàn",
+   "example": "小猫躲在床下面。",
+   "examplePt": "O gatinho se escondeu embaixo da cama.",
+   "pron": "siá-mién — 4º tom (cai) nas duas sílabas",
+   "curiosity": "Esse 面 é 'lado'; o 面 de macarrão (miàn) se escreve igual e soa igual!"
+  },
+  "pr42-05": {
+   "word": "左边",
+   "translit": "zuǒbiān",
+   "example": "洗手间在左边。",
+   "examplePt": "O banheiro fica à esquerda.",
+   "pron": "dzuó-bién — 3º tom e 1º tom",
+   "curiosity": "左右 (zuǒyòu) depois de um número significa 'mais ou menos': 十点左右, 'por volta das dez'."
+  },
+  "pr42-06": {
+   "word": "右边",
+   "translit": "yòubiān",
+   "example": "请靠右边走。",
+   "examplePt": "Por favor, ande pela direita.",
+   "pron": "iôu-bién — 4º tom (cai) e 1º tom (alto)",
+   "curiosity": "边 é 'lado' e aparece também em 旁边 (ao lado) e 身边 (perto de si)."
+  },
+  "pr42-07": {
+   "word": "中间",
+   "translit": "zhōngjiān",
+   "example": "桌子中间放着一盆花。",
+   "examplePt": "No meio da mesa há um vaso de flores.",
+   "pron": "djông-djién — 1º tom (alto) nas duas sílabas",
+   "curiosity": "中国 (Zhōngguó), o nome da China, quer dizer 'país do meio'."
+  },
+  "pr42-08": {
+   "word": "后面",
+   "translit": "hòumiàn",
+   "example": "谁站在我后面？",
+   "examplePt": "Quem está atrás de mim?",
+   "pron": "rrôu-mién — 4º tom (cai) nas duas sílabas",
+   "curiosity": "后 também serve para o tempo: 后天 (hòutiān) é 'depois de amanhã'."
+  },
+  "pr43-01": {
+   "word": "一半",
+   "translit": "yíbàn",
+   "example": "我吃了一半蛋糕。",
+   "examplePt": "Comi metade do bolo.",
+   "pron": "i-ban — o 'yī' vira 2º tom antes do 4º tom; 'bàn' cai",
+   "curiosity": "半 aparece em 半夜 (meia-noite) e 半小时 (meia hora)."
+  },
+  "pr43-02": {
+   "word": "一打",
+   "translit": "yìdá",
+   "example": "请给我一打鸡蛋。",
+   "examplePt": "Me dê uma dúzia de ovos, por favor.",
+   "pron": "i-dá — 4º tom e 2º tom",
+   "curiosity": "一打 vem do inglês 'dozen': o 打 (dá) imita o som."
+  },
+  "pr43-03": {
+   "word": "十来个",
+   "translit": "shílái ge",
+   "example": "篮子里有十来个苹果。",
+   "examplePt": "Há umas dez maçãs na cesta.",
+   "pron": "chrr-lái-gue — 2º tom (sobe) e 2º tom; 'ge' é leve",
+   "curiosity": "来 depois de um número quer dizer 'mais ou menos': 十来个, 'uns dez'."
+  },
+  "pr43-04": {
+   "word": "一对",
+   "translit": "yíduì",
+   "example": "她有一对大眼睛。",
+   "examplePt": "Ela tem um par de olhos grandes.",
+   "pron": "i-duêi — o 'yī' vira 2º tom antes do 4º tom",
+   "curiosity": "对 também significa 'certo': 你说得对！ quer dizer 'você tem razão!'."
+  },
+  "pr43-05": {
+   "word": "一块",
+   "translit": "yíkuài",
+   "example": "给我一块西瓜。",
+   "examplePt": "Me dê um pedaço de melancia.",
+   "pron": "i-kuái — 2º tom e 4º tom; o 'k' é um 'c' soprado",
+   "curiosity": "Na fala, 块 também é 'yuan': 五块钱 quer dizer 'cinco yuans'."
+  },
+  "pr43-06": {
+   "word": "一滴",
+   "translit": "yìdī",
+   "example": "一滴水落在叶子上。",
+   "examplePt": "Uma gota d'água caiu na folha.",
+   "pron": "i-di — 4º tom e 1º tom (alto)",
+   "curiosity": "滴 é gota e também verbo: 滴水 é 'pingar água'."
+  },
+  "pr43-07": {
+   "word": "百分比",
+   "translit": "bǎifēnbǐ",
+   "example": "这个百分比是多少？",
+   "examplePt": "Qual é essa porcentagem?",
+   "pron": "bái-fên-bi — 3º, 1º e 3º tom",
+   "curiosity": "百分之五十 (50%) é 'cinquenta de cada cem partes'."
+  },
+  "pr43-08": {
+   "word": "一把",
+   "translit": "yìbǎ",
+   "example": "他抓了一把花生。",
+   "examplePt": "Ele pegou um punhado de amendoim.",
+   "pron": "i-ba — 4º tom e 3º tom (desce e sobe)",
+   "curiosity": "把 é o classificador de coisas com cabo: 一把伞 (guarda-chuva), 一把椅子 (cadeira)."
+  },
+  "pr44-01": {
+   "word": "水龙头",
+   "translit": "shuǐlóngtóu",
+   "example": "别忘了关水龙头。",
+   "examplePt": "Não esqueça de fechar a torneira.",
+   "pron": "chuêi-lóng-tôu — 3º, 2º e 2º tom",
+   "curiosity": "水龙头 é 'cabeça de dragão de água': a água sai da boca do dragão."
+  },
+  "pr44-02": {
+   "word": "插头",
+   "translit": "chātóu",
+   "example": "把插头插进插座里。",
+   "examplePt": "Ligue o plugue na tomada.",
+   "pron": "tchá-tôu — 1º tom (alto) e 2º tom (sobe)",
+   "curiosity": "插 é 'enfiar': 插头 é o plugue e 插座 é a tomada onde ele entra."
+  },
+  "pr44-03": {
+   "word": "门铃",
+   "translit": "ménlíng",
+   "example": "有人按门铃了！",
+   "examplePt": "Alguém tocou a campainha!",
+   "pron": "mên-ling — 2º tom (sobe) nas duas sílabas",
+   "curiosity": "铃 é 'sino': 门铃 é o 'sino da porta'."
+  },
+  "pr44-04": {
+   "word": "窗帘",
+   "translit": "chuānglián",
+   "example": "请把窗帘拉开。",
+   "examplePt": "Abra a cortina, por favor.",
+   "pron": "tchuáng-lién — 1º tom (alto) e 2º tom (sobe)",
+   "curiosity": "窗帘 junta 窗 (janela) e 帘 (cortina): a 'cortina da janela'."
+  },
+  "pr44-05": {
+   "word": "淋浴",
+   "translit": "línyù",
+   "example": "他每天早上淋浴。",
+   "examplePt": "Ele toma banho de chuveiro toda manhã.",
+   "pron": "lin-iü — 2º tom (sobe) e 4º tom (cai)",
+   "curiosity": "淋 é 'molhar com chuva': 淋雨 é 'tomar chuva'."
+  },
+  "pr44-06": {
+   "word": "枕头",
+   "translit": "zhěntou",
+   "example": "枕头软软的，我睡着了。",
+   "examplePt": "O travesseiro é macio e adormeci.",
+   "pron": "djên-tou — 3º tom e sílaba final leve",
+   "curiosity": "O 头 de 枕头 é só sufixo, igual em 石头 e 木头: não quer dizer 'cabeça'."
+  },
+  "pr44-07": {
+   "word": "脏衣篮",
+   "translit": "zāngyīlán",
+   "example": "请把脏衣服放进脏衣篮。",
+   "examplePt": "Ponha as roupas sujas no cesto.",
+   "pron": "dzáng-i-lan — 1º, 1º e 2º tom",
+   "curiosity": "脏 é sujo: 脏衣篮 é o 'cesto de roupa suja'."
+  },
+  "pr44-08": {
+   "word": "电风扇",
+   "translit": "diànfēngshàn",
+   "example": "夏天开电风扇真凉快。",
+   "examplePt": "No verão, ligar o ventilador é uma delícia.",
+   "pron": "dién-fêng-chan — 4º, 1º e 4º tom",
+   "curiosity": "扇 é verbo (shān, abanar) e substantivo (shàn, leque): 电风扇 é o leque elétrico."
+  },
+  "pr45-01": {
+   "word": "邮递员",
+   "translit": "yóudìyuán",
+   "example": "邮递员送来一封信。",
+   "examplePt": "O carteiro trouxe uma carta.",
+   "pron": "iôu-di-iüán — 2º, 4º e 2º tom",
+   "curiosity": "员 marca profissões: 邮递员 (carteiro), 售货员 (vendedor), 服务员 (garçom)."
+  },
+  "pr45-02": {
+   "word": "农民",
+   "translit": "nóngmín",
+   "example": "农民一早就下田了。",
+   "examplePt": "O agricultor foi para o campo ao amanhecer.",
+   "pron": "nông-min — 2º tom (sobe) nas duas sílabas",
+   "curiosity": "农 é 'lavoura': 农民 é 'o povo da lavoura'."
+  },
+  "pr45-03": {
+   "word": "飞行员",
+   "translit": "fēixíngyuán",
+   "example": "飞行员说：欢迎登机。",
+   "examplePt": "O piloto diz: bem-vindos a bordo.",
+   "pron": "fêi-sing-iüán — 1º, 2º e 2º tom",
+   "curiosity": "飞行 é 'voar': 飞行员 é 'a pessoa que voa'."
+  },
+  "pr45-04": {
+   "word": "科学家",
+   "translit": "kēxuéjiā",
+   "example": "科学家每天在实验室工作。",
+   "examplePt": "O cientista trabalha todo dia no laboratório.",
+   "pron": "kê-siüé-djia — 1º, 2º e 1º tom",
+   "curiosity": "家 ('casa') também forma profissões: 科学家, 画家 (pintor), 作家 (escritor)."
+  },
+  "pr45-05": {
+   "word": "机械师",
+   "translit": "jīxièshī",
+   "example": "机械师修好了我的车。",
+   "examplePt": "O mecânico consertou meu carro.",
+   "pron": "dji-siê-chrr — 1º, 4º e 1º tom",
+   "curiosity": "师 é 'mestre': 机械师 é 'mestre das máquinas', e 老师 é 'professor'."
+  },
+  "pr45-06": {
+   "word": "艺术家",
+   "translit": "yìshùjiā",
+   "example": "这位艺术家用沙子作画。",
+   "examplePt": "Este artista pinta com areia.",
+   "pron": "i-chu-djia — 4º, 4º e 1º tom",
+   "curiosity": "术 é 'técnica': 艺术 (arte), 技术 (tecnologia), 魔术 (mágica)."
+  },
+  "pr45-07": {
+   "word": "法官",
+   "translit": "fǎguān",
+   "example": "法官认真地听两边的话。",
+   "examplePt": "O juiz ouve com atenção os dois lados.",
+   "pron": "fá-guan — 3º tom e 1º tom",
+   "curiosity": "法官 é 'oficial da lei': 法 (lei) + 官 (oficial)."
+  },
+  "pr45-08": {
+   "word": "摄影师",
+   "translit": "shèyǐngshī",
+   "example": "摄影师请大家笑一笑。",
+   "examplePt": "O fotógrafo pede para todos sorrirem.",
+   "pron": "chê-ing-chrr — 4º, 3º e 1º tom",
+   "curiosity": "影 é 'sombra/imagem': aparece em 电影 (filme) e 摄影 (fotografar)."
+  },
+  "pr46-01": {
+   "word": "烟花",
+   "translit": "yānhuā",
+   "example": "夜空里开满了烟花。",
+   "examplePt": "O céu da noite floresce de fogos.",
+   "pron": "ién-rruá — 1º tom (alto) nas duas sílabas",
+   "curiosity": "烟花 é 'flor de fumaça': 烟 (fumaça) + 花 (flor)."
+  },
+  "pr46-02": {
+   "word": "礼物",
+   "translit": "lǐwù",
+   "example": "这是送给你的礼物。",
+   "examplePt": "Este é um presente para você.",
+   "pron": "li-u — 3º tom e 4º tom",
+   "curiosity": "礼 é 'cortesia': 礼貌 (lǐmào) é 'boa educação'."
+  },
+  "pr46-03": {
+   "word": "请柬",
+   "translit": "qǐngjiǎn",
+   "example": "她寄来了一张请柬。",
+   "examplePt": "Ela mandou um convite.",
+   "pron": "tching-djién — 3º tom nas duas sílabas (a 1ª vira 2º tom)",
+   "curiosity": "请 é 'pedir/convidar' e 柬 é 'cartão': o convite é um cartão de pedido."
+  },
+  "pr46-04": {
+   "word": "蜡烛",
+   "translit": "làzhú",
+   "example": "吹灭蜡烛，许个愿吧。",
+   "examplePt": "Apague a vela e faça um desejo.",
+   "pron": "lá-djú — 4º tom e 2º tom",
+   "curiosity": "许愿 (xǔyuàn) é 'fazer um desejo': a hora de soprar a vela!"
+  },
+  "pr46-05": {
+   "word": "旗子",
+   "translit": "qízi",
+   "example": "孩子们挥着小旗子。",
+   "examplePt": "As crianças acenam bandeirinhas.",
+   "pron": "tchi-dzi — 2º tom (sobe); o 'zi' final é leve",
+   "curiosity": "旗 é o classificador das bandeiras: 一面旗 (yí miàn qí)."
+  },
+  "pr46-06": {
+   "word": "马戏团",
+   "translit": "mǎxìtuán",
+   "example": "马戏团的小丑好有趣！",
+   "examplePt": "O palhaço do circo é muito engraçado!",
+   "pron": "ma-si-tuán — 3º, 4º e 2º tom",
+   "curiosity": "团 é 'grupo': 旅行团 é grupo de viagem e 马戏团 é a 'trupe de cavalos'."
+  },
+  "pr46-07": {
+   "word": "面具",
+   "translit": "miànjù",
+   "example": "他戴着一个狮子面具。",
+   "examplePt": "Ele usa uma máscara de leão.",
+   "pron": "mién-dju — 4º tom (cai) nas duas sílabas",
+   "curiosity": "面具 é o 'utensílio do rosto': 面 (rosto) + 具 (utensílio)."
+  },
+  "pr46-08": {
+   "word": "彩纸屑",
+   "translit": "cǎizhǐxiè",
+   "example": "空中飘着彩纸屑。",
+   "examplePt": "Confete flutua no ar.",
+   "pron": "tsái-djrr-siê — 3º, 3º e 4º tom",
+   "curiosity": "屑 é 'migalha': 面包屑 são as migalhas de pão."
+  },
+  "pr47-01": {
+   "word": "回形针",
+   "translit": "huíxíngzhēn",
+   "example": "请给我一个回形针。",
+   "examplePt": "Me dê um clipe, por favor.",
+   "pron": "rruêi-sing-djên — 2º, 2º e 1º tom",
+   "curiosity": "回形针 é a 'agulha em forma de volta': 回 (voltar) + 形 (forma) + 针 (agulha)."
+  },
+  "pr47-02": {
+   "word": "信封",
+   "translit": "xìnfēng",
+   "example": "把信放进信封里。",
+   "examplePt": "Ponha a carta no envelope.",
+   "pron": "sin-fêng — 4º tom (cai) e 1º tom (alto)",
+   "curiosity": "封 é classificador de cartas: 一封信 (yì fēng xìn) é 'uma carta'."
+  },
+  "pr47-03": {
+   "word": "抽屉",
+   "translit": "chōuti",
+   "example": "钥匙在第二个抽屉里。",
+   "examplePt": "A chave está na segunda gaveta.",
+   "pron": "tchôu-ti — 1º tom (alto); a 2ª sílaba é leve",
+   "curiosity": "抽 é 'puxar': a gaveta é o móvel que se puxa."
+  },
+  "pr47-04": {
+   "word": "工作证",
+   "translit": "gōngzuòzhèng",
+   "example": "请出示您的工作证。",
+   "examplePt": "Mostre seu crachá, por favor.",
+   "pron": "gong-dzuô-djêng — 1º, 4º e 4º tom",
+   "curiosity": "工作证 é o 'documento de trabalho': 工作 (trabalho) + 证 (certificado)."
+  },
+  "pr47-05": {
+   "word": "订书机",
+   "translit": "dìngshūjī",
+   "example": "请用订书机订好这几张纸。",
+   "examplePt": "Grampeie estas folhas com o grampeador.",
+   "pron": "ding-chu-dji — 4º, 1º e 1º tom",
+   "curiosity": "订 é 'encadernar': o grampeador é a 'máquina de encadernar livros'."
+  },
+  "pr47-06": {
+   "word": "文件夹",
+   "translit": "wénjiànjiā",
+   "example": "文件夹是蓝色的。",
+   "examplePt": "A pasta é azul.",
+   "pron": "uên-djién-djia — 2º, 4º e 1º tom",
+   "curiosity": "夹 é 'prender entre duas partes': também em 夹子 (pregador)."
+  },
+  "pr47-07": {
+   "word": "日程本",
+   "translit": "rìchéngběn",
+   "example": "我把会议写在日程本上。",
+   "examplePt": "Anotei a reunião na agenda.",
+   "pron": "rri-tchêng-bên — 4º, 2º e 3º tom",
+   "curiosity": "本 é o classificador dos livros: 一本书 é 'um livro'."
+  },
+  "pr47-08": {
+   "word": "便签本",
+   "translit": "biànqiānběn",
+   "example": "便签本上写着电话号码。",
+   "examplePt": "O bloco de notas tem um número de telefone.",
+   "pron": "bién-tchién-bên — 4º, 1º e 3º tom",
+   "curiosity": "签 é 'tira de papel' e também 'assinar': 签名 (qiānmíng) é 'assinatura'."
+  },
+  "pr48-01": {
+   "word": "胡椒",
+   "translit": "hújiāo",
+   "example": "汤里再加一点胡椒。",
+   "examplePt": "Ponha mais um pouco de pimenta na sopa.",
+   "pron": "rru-djiáo — 2º tom (sobe) e 1º tom (alto)",
+   "curiosity": "胡 marcava o que veio do Ocidente pela Rota da Seda: 胡椒 e 胡萝卜 (cenoura)."
+  },
+  "pr48-02": {
+   "word": "蜂蜜",
+   "translit": "fēngmì",
+   "example": "我喜欢在面包上抹蜂蜜。",
+   "examplePt": "Gosto de passar mel no pão.",
+   "pron": "fêng-mi — 1º tom (alto) e 4º tom (cai)",
+   "curiosity": "甜蜜 (tiánmì), 'doce como mel', descreve um sorriso ou um relacionamento carinhoso."
+  },
+  "pr48-03": {
+   "word": "盐",
+   "translit": "yán",
+   "example": "菜里盐放多了。",
+   "examplePt": "A comida ficou com sal demais.",
+   "pron": "ién — 2º tom (sobe)",
+   "curiosity": "柴米油盐酱醋茶 lista as 'sete coisas do dia a dia' de uma casa chinesa: sal incluído."
+  },
+  "pr48-04": {
+   "word": "橄榄",
+   "translit": "gǎnlǎn",
+   "example": "这颗橄榄有点苦。",
+   "examplePt": "Esta azeitona é meio amarga.",
+   "pron": "gan-lan — 3º tom nas duas sílabas (a 1ª vira 2º tom)",
+   "curiosity": "橄榄枝 (gǎnlǎnzhī), o ramo de oliveira, é símbolo de paz também na China."
+  },
+  "pr48-05": {
+   "word": "姜",
+   "translit": "jiāng",
+   "example": "感冒了，喝点姜茶吧。",
+   "examplePt": "Está resfriado? Tome um chá de gengibre.",
+   "pron": "djiáng — 1º tom (alto e reto)",
+   "curiosity": "姜 é o ingrediente-estrela do 姜茶, um chá quente para o frio."
+  },
+  "pr48-06": {
+   "word": "花生",
+   "translit": "huāshēng",
+   "example": "他最爱吃花生。",
+   "examplePt": "Ele adora comer amendoim.",
+   "pron": "rruá-chêng — 1º tom (alto) nas duas sílabas",
+   "curiosity": "花生 é 'flor que nasce': 花 (flor) + 生 (nascer)."
+  },
+  "pr48-07": {
+   "word": "牛油果",
+   "translit": "niúyóuguǒ",
+   "example": "牛油果切开后很快变色。",
+   "examplePt": "O abacate muda de cor logo depois de cortado.",
+   "pron": "niôu-iôu-guô — 2º, 2º e 3º tom",
+   "curiosity": "牛油果 é 'fruta de manteiga': 牛油 (manteiga) + 果 (fruta), pela textura cremosa."
+  },
+  "pr48-08": {
+   "word": "椰子",
+   "translit": "yēzi",
+   "example": "椰子里有甜甜的水。",
+   "examplePt": "Dentro do coco tem água docinha.",
+   "pron": "iê-dzi — 1º tom (alto); o 'zi' final é leve",
+   "curiosity": "椰 aparece também em 椰子水 e 椰树 (coqueiro): é a 'família do coco'."
+  },
+  "pr49-01": {
+   "word": "国际象棋",
+   "translit": "guójìxiàngqí",
+   "example": "我们下国际象棋吧！",
+   "examplePt": "Vamos jogar xadrez!",
+   "pron": "guó-dji-siáng-tchi — 2º, 4º, 4º e 2º tom",
+   "curiosity": "象棋 (xiàngqí) é o xadrez chinês; o ocidental ganha 国际 ('internacional')."
+  },
+  "pr49-02": {
+   "word": "扑克牌",
+   "translit": "pūkèpái",
+   "example": "周末我们玩扑克牌。",
+   "examplePt": "No fim de semana jogamos baralho.",
+   "pron": "pu-kê-pái — 1º, 4º e 2º tom",
+   "curiosity": "扑克 imita o som de 'poker' e 牌 é 'carta/plaquinha'."
+  },
+  "pr49-03": {
+   "word": "风筝",
+   "translit": "fēngzheng",
+   "example": "风筝飞得比树还高。",
+   "examplePt": "A pipa voa mais alto que a árvore.",
+   "pron": "fêng-djêng — 1º tom (alto); a 2ª sílaba é leve",
+   "curiosity": "筝 também nomeia um instrumento de cordas, o 古筝 (gǔzhēng)."
+  },
+  "pr49-04": {
+   "word": "悠悠球",
+   "translit": "yōuyōuqiú",
+   "example": "他的悠悠球转得好快！",
+   "examplePt": "O ioiô dele gira muito rápido!",
+   "pron": "iôu-iôu-tchiôu — 1º, 1º e 2º tom",
+   "curiosity": "悠悠 sugere algo balançando devagar, como o brinquedo para cima e para baixo."
+  },
+  "pr49-05": {
+   "word": "保龄球",
+   "translit": "bǎolíngqiú",
+   "example": "保龄球瓶全倒了！",
+   "examplePt": "Todos os pinos de boliche caíram!",
+   "pron": "báo-ling-tchiôu — 3º, 2º e 2º tom",
+   "curiosity": "保龄 imita o som de 'bowling': é um nome emprestado."
+  },
+  "pr49-06": {
+   "word": "街机",
+   "translit": "jiējī",
+   "example": "他在街机前玩了一小时。",
+   "examplePt": "Ele jogou uma hora no fliperama.",
+   "pron": "djiê-dji — 1º tom (alto) nas duas sílabas",
+   "curiosity": "街机 é a 'máquina de rua': 街 (rua) + 机 (máquina)."
+  },
+  "pr49-07": {
+   "word": "滑梯",
+   "translit": "huátī",
+   "example": "小朋友排队玩滑梯。",
+   "examplePt": "As crianças fazem fila no escorregador.",
+   "pron": "rruá-ti — 2º tom (sobe) e 1º tom (alto)",
+   "curiosity": "滑梯 é a 'escada de deslizar': 滑 (deslizar) + 梯 (escada)."
+  },
+  "pr49-08": {
+   "word": "电子游戏",
+   "translit": "diànzǐyóuxì",
+   "example": "他一放学就玩电子游戏。",
+   "examplePt": "Assim que sai da escola, ele joga videogame.",
+   "pron": "dién-dzi-iôu-si — 4º, 3º, 2º e 4º tom",
+   "curiosity": "游戏 (yóuxì) significa 'jogo' e também 'brincadeira'."
+  },
+  "pr50-01": {
+   "word": "出口",
+   "translit": "chūkǒu",
+   "example": "出口在那边，请跟我走。",
+   "examplePt": "A saída é por ali, venha comigo.",
+   "pron": "tchu-kôu — 1º tom (alto) e 3º tom",
+   "curiosity": "出口 é 'boca de saída'; o oposto 入口 (rùkǒu) é 'boca de entrada'."
+  },
+  "pr50-02": {
+   "word": "禁止",
+   "translit": "jìnzhǐ",
+   "example": "这里禁止拍照。",
+   "examplePt": "Aqui é proibido fotografar.",
+   "pron": "djin-djrr — 4º tom (cai) e 3º tom",
+   "curiosity": "Placas usam 禁止 + verbo: 禁止停车 (proibido estacionar), 禁止入内 (entrada proibida)."
+  },
+  "pr50-03": {
+   "word": "危险",
+   "translit": "wēixiǎn",
+   "example": "前面危险，请小心！",
+   "examplePt": "Perigo à frente, tenha cuidado!",
+   "pron": "uêi-siên — 1º tom (alto) e 3º tom",
+   "curiosity": "危 e 险 ambos já significam 'perigo': a palavra duplica para soar firme."
+  },
+  "pr50-04": {
+   "word": "紧急",
+   "translit": "jǐnjí",
+   "example": "紧急时请打这个电话。",
+   "examplePt": "Em caso de emergência, ligue para este número.",
+   "pron": "djin-dji — 3º tom e 2º tom",
+   "curiosity": "Na China, a polícia é 110, o resgate é 120 e os bombeiros são 119."
+  },
+  "pr50-05": {
+   "word": "易碎",
+   "translit": "yìsuì",
+   "example": "小心，这个箱子易碎！",
+   "examplePt": "Cuidado, esta caixa é frágil!",
+   "pron": "i-suêi — 4º tom (cai) nas duas sílabas",
+   "curiosity": "易 é 'fácil' e 碎 é 'quebrar': 易碎 é 'fácil de quebrar'."
+  },
+  "pr50-06": {
+   "word": "开放",
+   "translit": "kāifàng",
+   "example": "公园每天开放。",
+   "examplePt": "O parque abre todos os dias.",
+   "pron": "kái-fáng — 1º tom (alto) e 4º tom (cai)",
+   "curiosity": "Para lojas, o 'aberto' da placa costuma ser 营业 (yíngyè), 'em funcionamento'."
+  },
+  "pr50-07": {
+   "word": "关闭",
+   "translit": "guānbì",
+   "example": "图书馆今天关闭了。",
+   "examplePt": "A biblioteca está fechada hoje.",
+   "pron": "guan-bi — 1º tom (alto) e 4º tom (cai)",
+   "curiosity": "关 é 'fechar' e 闭 é 'cerrar': 关闭 é 'fechar de vez'."
+  },
+  "pr50-08": {
+   "word": "问讯处",
+   "translit": "wènxùnchù",
+   "example": "请去问讯处问一下。",
+   "examplePt": "Vá ao balcão de informações perguntar.",
+   "pron": "uên-süên-tchu — 4º, 4º e 4º tom",
+   "curiosity": "处 é 'lugar': 问讯处 é o 'lugar de perguntar', e 办事处 é o escritório."
+  }
+ }
+}

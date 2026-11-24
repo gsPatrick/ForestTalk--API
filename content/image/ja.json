@@ -1,0 +1,2007 @@
+{
+ "game": "image",
+ "language": "ja",
+ "version": 2,
+ "entries": {
+  "im01-01": {
+   "word": "ライオン",
+   "translit": "Raion"
+  },
+  "im01-02": {
+   "word": "トラ",
+   "translit": "Tora"
+  },
+  "im01-03": {
+   "word": "ゾウ",
+   "translit": "Zō"
+  },
+  "im01-04": {
+   "word": "キリン",
+   "translit": "Kirin"
+  },
+  "im01-05": {
+   "word": "サル",
+   "translit": "Saru"
+  },
+  "im01-06": {
+   "word": "シマウマ",
+   "translit": "Shimauma"
+  },
+  "im01-07": {
+   "word": "カバ",
+   "translit": "Kaba"
+  },
+  "im01-08": {
+   "word": "サイ",
+   "translit": "Sai"
+  },
+  "im01-09": {
+   "word": "ワニ",
+   "translit": "Wani"
+  },
+  "im01-10": {
+   "word": "クマ",
+   "translit": "Kuma"
+  },
+  "im02-01": {
+   "word": "牛",
+   "translit": "Ushi"
+  },
+  "im02-02": {
+   "word": "ブタ",
+   "translit": "Buta"
+  },
+  "im02-03": {
+   "word": "ヒツジ",
+   "translit": "Hitsuji"
+  },
+  "im02-04": {
+   "word": "ヤギ",
+   "translit": "Yagi"
+  },
+  "im02-05": {
+   "word": "ニワトリ",
+   "translit": "Niwatori"
+  },
+  "im02-06": {
+   "word": "雄鶏",
+   "translit": "Ondori"
+  },
+  "im02-07": {
+   "word": "馬",
+   "translit": "Uma"
+  },
+  "im02-08": {
+   "word": "雄牛",
+   "translit": "Ōshi"
+  },
+  "im02-09": {
+   "word": "七面鳥",
+   "translit": "Shichimenchō"
+  },
+  "im02-10": {
+   "word": "アヒル",
+   "translit": "Ahiru"
+  },
+  "im03-01": {
+   "word": "犬",
+   "translit": "Inu"
+  },
+  "im03-02": {
+   "word": "猫",
+   "translit": "Neko"
+  },
+  "im03-03": {
+   "word": "ハムスター",
+   "translit": "Hamusutā"
+  },
+  "im03-04": {
+   "word": "ウサギ",
+   "translit": "Usagi"
+  },
+  "im03-05": {
+   "word": "カメ",
+   "translit": "Kame"
+  },
+  "im03-06": {
+   "word": "魚",
+   "translit": "Sakana"
+  },
+  "im03-07": {
+   "word": "ネズミ",
+   "translit": "Nezumi"
+  },
+  "im03-08": {
+   "word": "トカゲ",
+   "translit": "Tokage"
+  },
+  "im03-09": {
+   "word": "ヘビ",
+   "translit": "Hebi"
+  },
+  "im03-10": {
+   "word": "カエル",
+   "translit": "Kaeru"
+  },
+  "im04-01": {
+   "word": "リンゴ",
+   "translit": "Ringo"
+  },
+  "im04-02": {
+   "word": "バナナ",
+   "translit": "Banana"
+  },
+  "im04-03": {
+   "word": "ミカン",
+   "translit": "Mikan"
+  },
+  "im04-04": {
+   "word": "ブドウ",
+   "translit": "Budō"
+  },
+  "im04-05": {
+   "word": "イチゴ",
+   "translit": "Ichigo"
+  },
+  "im04-06": {
+   "word": "スイカ",
+   "translit": "Suika"
+  },
+  "im04-07": {
+   "word": "パイナップル",
+   "translit": "Painappuru"
+  },
+  "im04-08": {
+   "word": "サクランボ",
+   "translit": "Sakuranbo"
+  },
+  "im04-09": {
+   "word": "モモ",
+   "translit": "Momo"
+  },
+  "im04-10": {
+   "word": "洋ナシ",
+   "translit": "Yōnashi"
+  },
+  "im05-01": {
+   "word": "パン",
+   "translit": "Pan"
+  },
+  "im05-02": {
+   "word": "チーズ",
+   "translit": "Chīzu"
+  },
+  "im05-03": {
+   "word": "卵",
+   "translit": "Tamago"
+  },
+  "im05-04": {
+   "word": "ご飯",
+   "translit": "Gohan"
+  },
+  "im05-05": {
+   "word": "パスタ",
+   "translit": "Pasuta"
+  },
+  "im05-06": {
+   "word": "ピザ",
+   "translit": "Piza"
+  },
+  "im05-07": {
+   "word": "ハンバーガー",
+   "translit": "Hanbāgā"
+  },
+  "im05-08": {
+   "word": "フライドポテト",
+   "translit": "Furaido poteto"
+  },
+  "im05-09": {
+   "word": "肉",
+   "translit": "Niku"
+  },
+  "im05-10": {
+   "word": "鶏肉",
+   "translit": "Toriniku"
+  },
+  "im06-01": {
+   "word": "赤",
+   "translit": "Aka"
+  },
+  "im06-02": {
+   "word": "オレンジ",
+   "translit": "Orenji"
+  },
+  "im06-03": {
+   "word": "黄色",
+   "translit": "Kiiro"
+  },
+  "im06-04": {
+   "word": "緑",
+   "translit": "Midori"
+  },
+  "im06-05": {
+   "word": "青",
+   "translit": "Ao"
+  },
+  "im06-06": {
+   "word": "紫",
+   "translit": "Murasaki"
+  },
+  "im06-07": {
+   "word": "茶色",
+   "translit": "Chairo"
+  },
+  "im06-08": {
+   "word": "黒",
+   "translit": "Kuro"
+  },
+  "im06-09": {
+   "word": "白",
+   "translit": "Shiro"
+  },
+  "im06-10": {
+   "word": "ピンク",
+   "translit": "Pinku"
+  },
+  "im07-01": {
+   "word": "目",
+   "translit": "Me"
+  },
+  "im07-02": {
+   "word": "鼻",
+   "translit": "Hana"
+  },
+  "im07-03": {
+   "word": "口",
+   "translit": "Kuchi"
+  },
+  "im07-04": {
+   "word": "耳",
+   "translit": "Mimi"
+  },
+  "im07-05": {
+   "word": "手",
+   "translit": "Te"
+  },
+  "im07-06": {
+   "word": "足",
+   "translit": "Ashi"
+  },
+  "im07-07": {
+   "word": "脚",
+   "translit": "Ashi"
+  },
+  "im07-08": {
+   "word": "歯",
+   "translit": "Ha"
+  },
+  "im07-09": {
+   "word": "舌",
+   "translit": "Shita"
+  },
+  "im07-10": {
+   "word": "脳",
+   "translit": "Nō"
+  },
+  "im08-01": {
+   "word": "ティーシャツ",
+   "translit": "Tīshatsu"
+  },
+  "im08-02": {
+   "word": "ズボン",
+   "translit": "Zubon"
+  },
+  "im08-03": {
+   "word": "ワンピース",
+   "translit": "Wanpīsu"
+  },
+  "im08-04": {
+   "word": "コート",
+   "translit": "Kōto"
+  },
+  "im08-05": {
+   "word": "靴下",
+   "translit": "Kutsushita"
+  },
+  "im08-06": {
+   "word": "スニーカー",
+   "translit": "Sunīkā"
+  },
+  "im08-07": {
+   "word": "靴",
+   "translit": "Kutsu"
+  },
+  "im08-08": {
+   "word": "キャップ",
+   "translit": "Kyappu"
+  },
+  "im08-09": {
+   "word": "マフラー",
+   "translit": "Mafurā"
+  },
+  "im08-10": {
+   "word": "手袋",
+   "translit": "Tebukuro"
+  },
+  "im09-01": {
+   "word": "ベッド",
+   "translit": "Beddo"
+  },
+  "im09-02": {
+   "word": "ドア",
+   "translit": "Doa"
+  },
+  "im09-03": {
+   "word": "窓",
+   "translit": "Mado"
+  },
+  "im09-04": {
+   "word": "ソファ",
+   "translit": "Sofa"
+  },
+  "im09-05": {
+   "word": "シャワー",
+   "translit": "Shawā"
+  },
+  "im09-06": {
+   "word": "トイレ",
+   "translit": "Toire"
+  },
+  "im09-07": {
+   "word": "鍵",
+   "translit": "Kagi"
+  },
+  "im09-08": {
+   "word": "電球",
+   "translit": "Denkyū"
+  },
+  "im09-09": {
+   "word": "テレビ",
+   "translit": "Terebi"
+  },
+  "im09-10": {
+   "word": "目覚まし時計",
+   "translit": "Mezamashi dokei"
+  },
+  "im10-01": {
+   "word": "車",
+   "translit": "Kuruma"
+  },
+  "im10-02": {
+   "word": "バス",
+   "translit": "Basu"
+  },
+  "im10-03": {
+   "word": "自転車",
+   "translit": "Jitensha"
+  },
+  "im10-04": {
+   "word": "飛行機",
+   "translit": "Hikōki"
+  },
+  "im10-05": {
+   "word": "電車",
+   "translit": "Densha"
+  },
+  "im10-06": {
+   "word": "船",
+   "translit": "Fune"
+  },
+  "im10-07": {
+   "word": "ヘリコプター",
+   "translit": "Herikoputā"
+  },
+  "im10-08": {
+   "word": "バイク",
+   "translit": "Baiku"
+  },
+  "im10-09": {
+   "word": "救急車",
+   "translit": "Kyūkyūsha"
+  },
+  "im10-10": {
+   "word": "トラック",
+   "translit": "Torakku"
+  },
+  "im11-01": {
+   "word": "ワシ",
+   "translit": "Washi"
+  },
+  "im11-02": {
+   "word": "ペンギン",
+   "translit": "Pengin"
+  },
+  "im11-03": {
+   "word": "フクロウ",
+   "translit": "Fukurō"
+  },
+  "im11-04": {
+   "word": "白鳥",
+   "translit": "Hakuchō"
+  },
+  "im11-05": {
+   "word": "フラミンゴ",
+   "translit": "Furamingo"
+  },
+  "im11-06": {
+   "word": "ハト",
+   "translit": "Hato"
+  },
+  "im11-07": {
+   "word": "クジャク",
+   "translit": "Kujaku"
+  },
+  "im11-08": {
+   "word": "ヒヨコ",
+   "translit": "Hiyoko"
+  },
+  "im11-09": {
+   "word": "オウム",
+   "translit": "Ōmu"
+  },
+  "im11-10": {
+   "word": "鳥",
+   "translit": "Tori"
+  },
+  "im12-01": {
+   "word": "木",
+   "translit": "Ki"
+  },
+  "im12-02": {
+   "word": "ヒマワリ",
+   "translit": "Himawari"
+  },
+  "im12-03": {
+   "word": "サボテン",
+   "translit": "Saboten"
+  },
+  "im12-04": {
+   "word": "ヤシの木",
+   "translit": "Yashi no ki"
+  },
+  "im12-05": {
+   "word": "チューリップ",
+   "translit": "Chūrippu"
+  },
+  "im12-06": {
+   "word": "山",
+   "translit": "Yama"
+  },
+  "im12-07": {
+   "word": "波",
+   "translit": "Nami"
+  },
+  "im12-08": {
+   "word": "火山",
+   "translit": "Kazan"
+  },
+  "im12-09": {
+   "word": "島",
+   "translit": "Shima"
+  },
+  "im12-10": {
+   "word": "砂漠",
+   "translit": "Sabaku"
+  },
+  "im13-01": {
+   "word": "太陽",
+   "translit": "Taiyō"
+  },
+  "im13-02": {
+   "word": "月",
+   "translit": "Tsuki"
+  },
+  "im13-03": {
+   "word": "星",
+   "translit": "Hoshi"
+  },
+  "im13-04": {
+   "word": "雲",
+   "translit": "Kumo"
+  },
+  "im13-05": {
+   "word": "雨",
+   "translit": "Ame"
+  },
+  "im13-06": {
+   "word": "雪の結晶",
+   "translit": "Yuki no kesshō"
+  },
+  "im13-07": {
+   "word": "虹",
+   "translit": "Niji"
+  },
+  "im13-08": {
+   "word": "稲妻",
+   "translit": "Inazuma"
+  },
+  "im13-09": {
+   "word": "竜巻",
+   "translit": "Tatsumaki"
+  },
+  "im13-10": {
+   "word": "傘",
+   "translit": "Kasa"
+  },
+  "im14-01": {
+   "word": "ハチ",
+   "translit": "Hachi"
+  },
+  "im14-02": {
+   "word": "チョウ",
+   "translit": "Chō"
+  },
+  "im14-03": {
+   "word": "アリ",
+   "translit": "Ari"
+  },
+  "im14-04": {
+   "word": "テントウムシ",
+   "translit": "Tentōmushi"
+  },
+  "im14-05": {
+   "word": "毛虫",
+   "translit": "Kemushi"
+  },
+  "im14-06": {
+   "word": "コオロギ",
+   "translit": "Kōrogi"
+  },
+  "im14-07": {
+   "word": "クモ",
+   "translit": "Kumo"
+  },
+  "im14-08": {
+   "word": "サソリ",
+   "translit": "Sasori"
+  },
+  "im14-09": {
+   "word": "蚊",
+   "translit": "Ka"
+  },
+  "im14-10": {
+   "word": "カタツムリ",
+   "translit": "Katatsumuri"
+  },
+  "im15-01": {
+   "word": "イルカ",
+   "translit": "Iruka"
+  },
+  "im15-02": {
+   "word": "クジラ",
+   "translit": "Kujira"
+  },
+  "im15-03": {
+   "word": "サメ",
+   "translit": "Same"
+  },
+  "im15-04": {
+   "word": "タコ",
+   "translit": "Tako"
+  },
+  "im15-05": {
+   "word": "カニ",
+   "translit": "Kani"
+  },
+  "im15-06": {
+   "word": "ロブスター",
+   "translit": "Robusutā"
+  },
+  "im15-07": {
+   "word": "エビ",
+   "translit": "Ebi"
+  },
+  "im15-08": {
+   "word": "フグ",
+   "translit": "Fugu"
+  },
+  "im15-09": {
+   "word": "イカ",
+   "translit": "Ika"
+  },
+  "im15-10": {
+   "word": "貝殻",
+   "translit": "Kaigara"
+  },
+  "im16-01": {
+   "word": "マンゴー",
+   "translit": "Mangō"
+  },
+  "im16-02": {
+   "word": "ココナッツ",
+   "translit": "Kokonattsu"
+  },
+  "im16-03": {
+   "word": "キウイ",
+   "translit": "Kiui"
+  },
+  "im16-04": {
+   "word": "レモン",
+   "translit": "Remon"
+  },
+  "im16-05": {
+   "word": "メロン",
+   "translit": "Meron"
+  },
+  "im16-06": {
+   "word": "アボカド",
+   "translit": "Abokado"
+  },
+  "im16-07": {
+   "word": "ピーナッツ",
+   "translit": "Pīnattsu"
+  },
+  "im16-08": {
+   "word": "クリ",
+   "translit": "Kuri"
+  },
+  "im16-09": {
+   "word": "トマト",
+   "translit": "Tomato"
+  },
+  "im16-10": {
+   "word": "キュウリ",
+   "translit": "Kyūri"
+  },
+  "im17-01": {
+   "word": "ニンジン",
+   "translit": "Ninjin"
+  },
+  "im17-02": {
+   "word": "トウモロコシ",
+   "translit": "Tōmorokoshi"
+  },
+  "im17-03": {
+   "word": "ジャガイモ",
+   "translit": "Jagaimo"
+  },
+  "im17-04": {
+   "word": "ナス",
+   "translit": "Nasu"
+  },
+  "im17-05": {
+   "word": "ブロッコリー",
+   "translit": "Burokkorī"
+  },
+  "im17-06": {
+   "word": "レタス",
+   "translit": "Retasu"
+  },
+  "im17-07": {
+   "word": "タマネギ",
+   "translit": "Tamanegi"
+  },
+  "im17-08": {
+   "word": "ニンニク",
+   "translit": "Ninniku"
+  },
+  "im17-09": {
+   "word": "唐辛子",
+   "translit": "Tōgarashi"
+  },
+  "im17-10": {
+   "word": "キノコ",
+   "translit": "Kinoko"
+  },
+  "im18-01": {
+   "word": "コーヒー",
+   "translit": "Kōhī"
+  },
+  "im18-02": {
+   "word": "牛乳",
+   "translit": "Gyūnyū"
+  },
+  "im18-03": {
+   "word": "ジュース",
+   "translit": "Jūsu"
+  },
+  "im18-04": {
+   "word": "ビール",
+   "translit": "Bīru"
+  },
+  "im18-05": {
+   "word": "ワイン",
+   "translit": "Wain"
+  },
+  "im18-06": {
+   "word": "チョコレート",
+   "translit": "Chokorēto"
+  },
+  "im18-07": {
+   "word": "アイスクリーム",
+   "translit": "Aisukurīmu"
+  },
+  "im18-08": {
+   "word": "ケーキ",
+   "translit": "Kēki"
+  },
+  "im18-09": {
+   "word": "クッキー",
+   "translit": "Kukkī"
+  },
+  "im18-10": {
+   "word": "ドーナツ",
+   "translit": "Dōnatsu"
+  },
+  "im19-01": {
+   "word": "スマホ",
+   "translit": "Sumaho"
+  },
+  "im19-02": {
+   "word": "腕時計",
+   "translit": "Udedokei"
+  },
+  "im19-03": {
+   "word": "メガネ",
+   "translit": "Megane"
+  },
+  "im19-04": {
+   "word": "リュック",
+   "translit": "Ryukku"
+  },
+  "im19-05": {
+   "word": "ハサミ",
+   "translit": "Hasami"
+  },
+  "im19-06": {
+   "word": "懐中電灯",
+   "translit": "Kaichū dentō"
+  },
+  "im19-07": {
+   "word": "カメラ",
+   "translit": "Kamera"
+  },
+  "im19-08": {
+   "word": "電池",
+   "translit": "Denchi"
+  },
+  "im19-09": {
+   "word": "テディベア",
+   "translit": "Tedibea"
+  },
+  "im19-10": {
+   "word": "磁石",
+   "translit": "Jishaku"
+  },
+  "im20-01": {
+   "word": "本",
+   "translit": "Hon"
+  },
+  "im20-02": {
+   "word": "鉛筆",
+   "translit": "Enpitsu"
+  },
+  "im20-03": {
+   "word": "ペン",
+   "translit": "Pen"
+  },
+  "im20-04": {
+   "word": "ノート",
+   "translit": "Nōto"
+  },
+  "im20-05": {
+   "word": "定規",
+   "translit": "Jōgi"
+  },
+  "im20-06": {
+   "word": "クリップ",
+   "translit": "Kurippu"
+  },
+  "im20-07": {
+   "word": "三角定規",
+   "translit": "Sankaku jōgi"
+  },
+  "im20-08": {
+   "word": "そろばん",
+   "translit": "Soroban"
+  },
+  "im20-09": {
+   "word": "学校",
+   "translit": "Gakkō"
+  },
+  "im20-10": {
+   "word": "パレット",
+   "translit": "Paretto"
+  },
+  "im21-01": {
+   "word": "サッカーボール",
+   "translit": "Sakkā bōru"
+  },
+  "im21-02": {
+   "word": "バスケットボール",
+   "translit": "Basukettobōru"
+  },
+  "im21-03": {
+   "word": "テニスボール",
+   "translit": "Tenisu bōru"
+  },
+  "im21-04": {
+   "word": "バレーボール",
+   "translit": "Barēbōru"
+  },
+  "im21-05": {
+   "word": "卓球",
+   "translit": "Takkyū"
+  },
+  "im21-06": {
+   "word": "ボクシンググローブ",
+   "translit": "Bokushingu gurōbu"
+  },
+  "im21-07": {
+   "word": "ボウリング",
+   "translit": "Bōringu"
+  },
+  "im21-08": {
+   "word": "弓矢",
+   "translit": "Yumiya"
+  },
+  "im21-09": {
+   "word": "スケートボード",
+   "translit": "Sukētobōdo"
+  },
+  "im21-10": {
+   "word": "アイススケート靴",
+   "translit": "Aisu sukēto gutsu"
+  },
+  "im22-01": {
+   "word": "皿",
+   "translit": "Sara"
+  },
+  "im22-02": {
+   "word": "スプーン",
+   "translit": "Supūn"
+  },
+  "im22-03": {
+   "word": "ナイフ",
+   "translit": "Naifu"
+  },
+  "im22-04": {
+   "word": "フライパン",
+   "translit": "Furaipan"
+  },
+  "im22-05": {
+   "word": "ボウル",
+   "translit": "Bōru"
+  },
+  "im22-06": {
+   "word": "箸",
+   "translit": "Hashi"
+  },
+  "im22-07": {
+   "word": "塩",
+   "translit": "Shio"
+  },
+  "im22-08": {
+   "word": "缶",
+   "translit": "Kan"
+  },
+  "im22-09": {
+   "word": "コップ",
+   "translit": "Koppu"
+  },
+  "im22-10": {
+   "word": "氷",
+   "translit": "Kōri"
+  },
+  "im23-01": {
+   "word": "歯ブラシ",
+   "translit": "Haburashi"
+  },
+  "im23-02": {
+   "word": "石鹸",
+   "translit": "Sekken"
+  },
+  "im23-03": {
+   "word": "トイレットペーパー",
+   "translit": "Toiretto pēpā"
+  },
+  "im23-04": {
+   "word": "カミソリ",
+   "translit": "Kamisori"
+  },
+  "im23-05": {
+   "word": "浴槽",
+   "translit": "Yokusō"
+  },
+  "im23-06": {
+   "word": "スポンジ",
+   "translit": "Suponji"
+  },
+  "im23-07": {
+   "word": "ほうき",
+   "translit": "Hōki"
+  },
+  "im23-08": {
+   "word": "バケツ",
+   "translit": "Baketsu"
+  },
+  "im23-09": {
+   "word": "鏡",
+   "translit": "Kagami"
+  },
+  "im23-10": {
+   "word": "カゴ",
+   "translit": "Kago"
+  },
+  "im24-01": {
+   "word": "椅子",
+   "translit": "Isu"
+  },
+  "im24-02": {
+   "word": "絵",
+   "translit": "E"
+  },
+  "im24-03": {
+   "word": "ろうそく",
+   "translit": "Rōsoku"
+  },
+  "im24-04": {
+   "word": "スーツケース",
+   "translit": "Sūtsukēsu"
+  },
+  "im24-05": {
+   "word": "南京錠",
+   "translit": "Nankinjō"
+  },
+  "im24-06": {
+   "word": "ゴミ箱",
+   "translit": "Gomibako"
+  },
+  "im24-07": {
+   "word": "はしご",
+   "translit": "Hashigo"
+  },
+  "im24-08": {
+   "word": "ラジオ",
+   "translit": "Rajio"
+  },
+  "im24-09": {
+   "word": "鐘",
+   "translit": "Kane"
+  },
+  "im24-10": {
+   "word": "消火器",
+   "translit": "Shōkaki"
+  },
+  "im25-01": {
+   "word": "ハンマー",
+   "translit": "Hanmā"
+  },
+  "im25-02": {
+   "word": "斧",
+   "translit": "Ono"
+  },
+  "im25-03": {
+   "word": "レンチ",
+   "translit": "Renchi"
+  },
+  "im25-04": {
+   "word": "ドライバー",
+   "translit": "Doraibā"
+  },
+  "im25-05": {
+   "word": "のこぎり",
+   "translit": "Nokogiri"
+  },
+  "im25-06": {
+   "word": "つるはし",
+   "translit": "Tsuruhashi"
+  },
+  "im25-07": {
+   "word": "工具箱",
+   "translit": "Kōgubako"
+  },
+  "im25-08": {
+   "word": "ネジ",
+   "translit": "Neji"
+  },
+  "im25-09": {
+   "word": "歯車",
+   "translit": "Haguruma"
+  },
+  "im25-10": {
+   "word": "鎖",
+   "translit": "Kusari"
+  },
+  "im26-01": {
+   "word": "病院",
+   "translit": "Byōin"
+  },
+  "im26-02": {
+   "word": "銀行",
+   "translit": "Ginkō"
+  },
+  "im26-03": {
+   "word": "教会",
+   "translit": "Kyōkai"
+  },
+  "im26-04": {
+   "word": "ホテル",
+   "translit": "Hoteru"
+  },
+  "im26-05": {
+   "word": "工場",
+   "translit": "Kōjō"
+  },
+  "im26-06": {
+   "word": "ガソリンスタンド",
+   "translit": "Gasorin sutando"
+  },
+  "im26-07": {
+   "word": "信号",
+   "translit": "Shingō"
+  },
+  "im26-08": {
+   "word": "橋",
+   "translit": "Hashi"
+  },
+  "im26-09": {
+   "word": "スタジアム",
+   "translit": "Sutajiamu"
+  },
+  "im26-10": {
+   "word": "店",
+   "translit": "Mise"
+  },
+  "im27-01": {
+   "word": "ノートパソコン",
+   "translit": "Nōto pasokon"
+  },
+  "im27-02": {
+   "word": "キーボード",
+   "translit": "Kībōdo"
+  },
+  "im27-03": {
+   "word": "マウス",
+   "translit": "Mausu"
+  },
+  "im27-04": {
+   "word": "プリンター",
+   "translit": "Purintā"
+  },
+  "im27-05": {
+   "word": "フロッピーディスク",
+   "translit": "Furoppī disuku"
+  },
+  "im27-06": {
+   "word": "ヘッドホン",
+   "translit": "Heddohon"
+  },
+  "im27-07": {
+   "word": "マイク",
+   "translit": "Maiku"
+  },
+  "im27-08": {
+   "word": "アンテナ",
+   "translit": "Antena"
+  },
+  "im27-09": {
+   "word": "プラグ",
+   "translit": "Puragu"
+  },
+  "im27-10": {
+   "word": "ジョイスティック",
+   "translit": "Joisutikku"
+  },
+  "im28-01": {
+   "word": "ギター",
+   "translit": "Gitā"
+  },
+  "im28-02": {
+   "word": "ピアノ",
+   "translit": "Piano"
+  },
+  "im28-03": {
+   "word": "トランペット",
+   "translit": "Toranpetto"
+  },
+  "im28-04": {
+   "word": "バイオリン",
+   "translit": "Baiorin"
+  },
+  "im28-05": {
+   "word": "ドラム",
+   "translit": "Doramu"
+  },
+  "im28-06": {
+   "word": "サックス",
+   "translit": "Sakkusu"
+  },
+  "im28-07": {
+   "word": "バンジョー",
+   "translit": "Banjō"
+  },
+  "im28-08": {
+   "word": "アコーディオン",
+   "translit": "Akōdion"
+  },
+  "im28-09": {
+   "word": "楽譜",
+   "translit": "Gakufu"
+  },
+  "im28-10": {
+   "word": "音符",
+   "translit": "Onpu"
+  },
+  "im29-01": {
+   "word": "サイコロ",
+   "translit": "Saikoro"
+  },
+  "im29-02": {
+   "word": "パズル",
+   "translit": "Pazuru"
+  },
+  "im29-03": {
+   "word": "的",
+   "translit": "Mato"
+  },
+  "im29-04": {
+   "word": "チェス",
+   "translit": "Chesu"
+  },
+  "im29-05": {
+   "word": "ゲーム",
+   "translit": "Gēmu"
+  },
+  "im29-06": {
+   "word": "観覧車",
+   "translit": "Kanransha"
+  },
+  "im29-07": {
+   "word": "ジェットコースター",
+   "translit": "Jettokōsutā"
+  },
+  "im29-08": {
+   "word": "風船",
+   "translit": "Fūsen"
+  },
+  "im29-09": {
+   "word": "凧",
+   "translit": "Tako"
+  },
+  "im29-10": {
+   "word": "メリーゴーランド",
+   "translit": "Merī gōrando"
+  },
+  "im30-01": {
+   "word": "プレゼント",
+   "translit": "Purezento"
+  },
+  "im30-02": {
+   "word": "バースデーケーキ",
+   "translit": "Bāsudē kēki"
+  },
+  "im30-03": {
+   "word": "クリスマスツリー",
+   "translit": "Kurisumasu tsurī"
+  },
+  "im30-04": {
+   "word": "カボチャ",
+   "translit": "Kabocha"
+  },
+  "im30-05": {
+   "word": "花火",
+   "translit": "Hanabi"
+  },
+  "im30-06": {
+   "word": "提灯",
+   "translit": "Chōchin"
+  },
+  "im30-07": {
+   "word": "サンタクロース",
+   "translit": "Santa kurōsu"
+  },
+  "im30-08": {
+   "word": "ピニャータ",
+   "translit": "Pinyāta"
+  },
+  "im30-09": {
+   "word": "リボン",
+   "translit": "Ribon"
+  },
+  "im30-10": {
+   "word": "シャンパン",
+   "translit": "Shanpan"
+  },
+  "im31-01": {
+   "word": "聴診器",
+   "translit": "Chōshinki"
+  },
+  "im31-02": {
+   "word": "注射器",
+   "translit": "Chūshaki"
+  },
+  "im31-03": {
+   "word": "錠剤",
+   "translit": "Jōzai"
+  },
+  "im31-04": {
+   "word": "絆創膏",
+   "translit": "Bansōkō"
+  },
+  "im31-05": {
+   "word": "体温計",
+   "translit": "Taionkei"
+  },
+  "im31-06": {
+   "word": "車椅子",
+   "translit": "Kurumaisu"
+  },
+  "im31-07": {
+   "word": "杖",
+   "translit": "Tsue"
+  },
+  "im31-08": {
+   "word": "細菌",
+   "translit": "Saikin"
+  },
+  "im31-09": {
+   "word": "骨",
+   "translit": "Hone"
+  },
+  "im31-10": {
+   "word": "ディーエヌエー",
+   "translit": "Dīenuē"
+  },
+  "im32-01": {
+   "word": "顕微鏡",
+   "translit": "Kenbikyō"
+  },
+  "im32-02": {
+   "word": "望遠鏡",
+   "translit": "Bōenkyō"
+  },
+  "im32-03": {
+   "word": "試験管",
+   "translit": "Shikenkan"
+  },
+  "im32-04": {
+   "word": "フラスコ",
+   "translit": "Furasuko"
+  },
+  "im32-05": {
+   "word": "シャーレ",
+   "translit": "Shāre"
+  },
+  "im32-06": {
+   "word": "天秤",
+   "translit": "Tenbin"
+  },
+  "im32-07": {
+   "word": "方位磁針",
+   "translit": "Hōi jishin"
+  },
+  "im32-08": {
+   "word": "虫眼鏡",
+   "translit": "Mushimegane"
+  },
+  "im32-09": {
+   "word": "砂時計",
+   "translit": "Sunadokei"
+  },
+  "im32-10": {
+   "word": "原子",
+   "translit": "Genshi"
+  },
+  "im33-01": {
+   "word": "フォルダー",
+   "translit": "Forudā"
+  },
+  "im33-02": {
+   "word": "カレンダー",
+   "translit": "Karendā"
+  },
+  "im33-03": {
+   "word": "グラフ",
+   "translit": "Gurafu"
+  },
+  "im33-04": {
+   "word": "封筒",
+   "translit": "Fūtō"
+  },
+  "im33-05": {
+   "word": "ポスト",
+   "translit": "Posuto"
+  },
+  "im33-06": {
+   "word": "小包",
+   "translit": "Kozutsumi"
+  },
+  "im33-07": {
+   "word": "新聞",
+   "translit": "Shinbun"
+  },
+  "im33-08": {
+   "word": "クレジットカード",
+   "translit": "Kurejitto kādo"
+  },
+  "im33-09": {
+   "word": "コイン",
+   "translit": "Koin"
+  },
+  "im33-10": {
+   "word": "巻物",
+   "translit": "Makimono"
+  },
+  "im34-01": {
+   "word": "家",
+   "translit": "Ie"
+  },
+  "im34-02": {
+   "word": "ビル",
+   "translit": "Biru"
+  },
+  "im34-03": {
+   "word": "レンガ",
+   "translit": "Renga"
+  },
+  "im34-04": {
+   "word": "クレーン",
+   "translit": "Kurēn"
+  },
+  "im34-05": {
+   "word": "小屋",
+   "translit": "Koya"
+  },
+  "im34-06": {
+   "word": "テント",
+   "translit": "Tento"
+  },
+  "im34-07": {
+   "word": "工事現場",
+   "translit": "Kōji genba"
+  },
+  "im34-08": {
+   "word": "城",
+   "translit": "Shiro"
+  },
+  "im34-09": {
+   "word": "噴水",
+   "translit": "Funsui"
+  },
+  "im34-10": {
+   "word": "モアイ",
+   "translit": "Moai"
+  },
+  "im35-01": {
+   "word": "惑星",
+   "translit": "Wakusei"
+  },
+  "im35-02": {
+   "word": "地球",
+   "translit": "Chikyū"
+  },
+  "im35-03": {
+   "word": "満月",
+   "translit": "Mangetsu"
+  },
+  "im35-04": {
+   "word": "彗星",
+   "translit": "Suisei"
+  },
+  "im35-05": {
+   "word": "ロケット",
+   "translit": "Roketto"
+  },
+  "im35-06": {
+   "word": "人工衛星",
+   "translit": "Jinkō eisei"
+  },
+  "im35-07": {
+   "word": "空飛ぶ円盤",
+   "translit": "Soratobu enban"
+  },
+  "im35-08": {
+   "word": "宇宙人",
+   "translit": "Uchūjin"
+  },
+  "im35-09": {
+   "word": "流れ星",
+   "translit": "Nagareboshi"
+  },
+  "im35-10": {
+   "word": "銀河",
+   "translit": "Ginga"
+  },
+  "im36-01": {
+   "word": "ヨット",
+   "translit": "Yotto"
+  },
+  "im36-02": {
+   "word": "カヌー",
+   "translit": "Kanū"
+  },
+  "im36-03": {
+   "word": "モーターボート",
+   "translit": "Mōtā bōto"
+  },
+  "im36-04": {
+   "word": "タクシー",
+   "translit": "Takushī"
+  },
+  "im36-05": {
+   "word": "スクーター",
+   "translit": "Sukūtā"
+  },
+  "im36-06": {
+   "word": "トラクター",
+   "translit": "Torakutā"
+  },
+  "im36-07": {
+   "word": "地下鉄",
+   "translit": "Chikatetsu"
+  },
+  "im36-08": {
+   "word": "キックボード",
+   "translit": "Kikku bōdo"
+  },
+  "im36-09": {
+   "word": "パラシュート",
+   "translit": "Parashūto"
+  },
+  "im36-10": {
+   "word": "パトカー",
+   "translit": "Patokā"
+  },
+  "im37-01": {
+   "word": "寿司",
+   "translit": "Sushi"
+  },
+  "im37-02": {
+   "word": "ラーメン",
+   "translit": "Rāmen"
+  },
+  "im37-03": {
+   "word": "パエリア",
+   "translit": "Paeria"
+  },
+  "im37-04": {
+   "word": "カレー",
+   "translit": "Karē"
+  },
+  "im37-05": {
+   "word": "餃子",
+   "translit": "Gyōza"
+  },
+  "im37-06": {
+   "word": "弁当",
+   "translit": "Bentō"
+  },
+  "im37-07": {
+   "word": "おにぎり",
+   "translit": "Onigiri"
+  },
+  "im37-08": {
+   "word": "ファラフェル",
+   "translit": "Farafuru"
+  },
+  "im37-09": {
+   "word": "サラダ",
+   "translit": "Sarada"
+  },
+  "im37-10": {
+   "word": "シチュー",
+   "translit": "Shichū"
+  },
+  "im38-01": {
+   "word": "クロワッサン",
+   "translit": "Kurowassan"
+  },
+  "im38-02": {
+   "word": "プレッツェル",
+   "translit": "Purettseru"
+  },
+  "im38-03": {
+   "word": "ベーグル",
+   "translit": "Bēguru"
+  },
+  "im38-04": {
+   "word": "パンケーキ",
+   "translit": "Pankēki"
+  },
+  "im38-05": {
+   "word": "ワッフル",
+   "translit": "Waffuru"
+  },
+  "im38-06": {
+   "word": "タコス",
+   "translit": "Takosu"
+  },
+  "im38-07": {
+   "word": "ブリトー",
+   "translit": "Burito"
+  },
+  "im38-08": {
+   "word": "サンドイッチ",
+   "translit": "Sandoitchi"
+  },
+  "im38-09": {
+   "word": "ポップコーン",
+   "translit": "Poppukōn"
+  },
+  "im38-10": {
+   "word": "ホットドッグ",
+   "translit": "Hotto doggu"
+  },
+  "im39-01": {
+   "word": "プリン",
+   "translit": "Purin"
+  },
+  "im39-02": {
+   "word": "パイ",
+   "translit": "Pai"
+  },
+  "im39-03": {
+   "word": "カップケーキ",
+   "translit": "Kappu kēki"
+  },
+  "im39-04": {
+   "word": "キャンディー",
+   "translit": "Kyandī"
+  },
+  "im39-05": {
+   "word": "ペロペロキャンディー",
+   "translit": "Peropero kyandī"
+  },
+  "im39-06": {
+   "word": "ハチミツ",
+   "translit": "Hachimitsu"
+  },
+  "im39-07": {
+   "word": "かき氷",
+   "translit": "Kakigōri"
+  },
+  "im39-08": {
+   "word": "フォーチュンクッキー",
+   "translit": "Fōchun kukkī"
+  },
+  "im39-09": {
+   "word": "バター",
+   "translit": "Batā"
+  },
+  "im39-10": {
+   "word": "団子",
+   "translit": "Dango"
+  },
+  "im40-01": {
+   "word": "お茶",
+   "translit": "Ocha"
+  },
+  "im40-02": {
+   "word": "カクテル",
+   "translit": "Kakuteru"
+  },
+  "im40-03": {
+   "word": "日本酒",
+   "translit": "Nihonshu"
+  },
+  "im40-04": {
+   "word": "ウイスキー",
+   "translit": "Uisukī"
+  },
+  "im40-05": {
+   "word": "マテ茶",
+   "translit": "Mate cha"
+  },
+  "im40-06": {
+   "word": "タピオカティー",
+   "translit": "Tapioka tī"
+  },
+  "im40-07": {
+   "word": "トロピカルドリンク",
+   "translit": "Toropikaru dorinku"
+  },
+  "im40-08": {
+   "word": "哺乳瓶",
+   "translit": "Honyūbin"
+  },
+  "im40-09": {
+   "word": "水滴",
+   "translit": "Suiteki"
+  },
+  "im40-10": {
+   "word": "乾杯",
+   "translit": "Kanpai"
+  },
+  "im41-01": {
+   "word": "オオカミ",
+   "translit": "Ōkami"
+  },
+  "im41-02": {
+   "word": "キツネ",
+   "translit": "Kitsune"
+  },
+  "im41-03": {
+   "word": "シカ",
+   "translit": "Shika"
+  },
+  "im41-04": {
+   "word": "リス",
+   "translit": "Risu"
+  },
+  "im41-05": {
+   "word": "イノシシ",
+   "translit": "Inoshishi"
+  },
+  "im41-06": {
+   "word": "アナグマ",
+   "translit": "Anaguma"
+  },
+  "im41-07": {
+   "word": "アライグマ",
+   "translit": "Araiguma"
+  },
+  "im41-08": {
+   "word": "コウモリ",
+   "translit": "Kōmori"
+  },
+  "im41-09": {
+   "word": "ハリネズミ",
+   "translit": "Harinezumi"
+  },
+  "im41-10": {
+   "word": "スカンク",
+   "translit": "Sukanku"
+  },
+  "im42-01": {
+   "word": "カンガルー",
+   "translit": "Kangarū"
+  },
+  "im42-02": {
+   "word": "コアラ",
+   "translit": "Koara"
+  },
+  "im42-03": {
+   "word": "パンダ",
+   "translit": "Panda"
+  },
+  "im42-04": {
+   "word": "ラクダ",
+   "translit": "Rakuda"
+  },
+  "im42-05": {
+   "word": "ラマ",
+   "translit": "Rama"
+  },
+  "im42-06": {
+   "word": "ナマケモノ",
+   "translit": "Namakemono"
+  },
+  "im42-07": {
+   "word": "ゴリラ",
+   "translit": "Gorira"
+  },
+  "im42-08": {
+   "word": "オランウータン",
+   "translit": "Oranūtan"
+  },
+  "im42-09": {
+   "word": "ヒョウ",
+   "translit": "Hyō"
+  },
+  "im42-10": {
+   "word": "バイソン",
+   "translit": "Baison"
+  },
+  "im43-01": {
+   "word": "ティラノサウルス",
+   "translit": "Tiranosaurusu"
+  },
+  "im43-02": {
+   "word": "ブラキオサウルス",
+   "translit": "Burakiosaurusu"
+  },
+  "im43-03": {
+   "word": "マンモス",
+   "translit": "Manmosu"
+  },
+  "im43-04": {
+   "word": "アザラシ",
+   "translit": "Azarashi"
+  },
+  "im43-05": {
+   "word": "カワウソ",
+   "translit": "Kawauso"
+  },
+  "im43-06": {
+   "word": "水牛",
+   "translit": "Suigyū"
+  },
+  "im43-07": {
+   "word": "ビーバー",
+   "translit": "Bībā"
+  },
+  "im43-08": {
+   "word": "雄羊",
+   "translit": "Ohitsuji"
+  },
+  "im43-09": {
+   "word": "プードル",
+   "translit": "Pūdoru"
+  },
+  "im43-10": {
+   "word": "盲導犬",
+   "translit": "Mōdōken"
+  },
+  "im44-01": {
+   "word": "松",
+   "translit": "Matsu"
+  },
+  "im44-02": {
+   "word": "麦",
+   "translit": "Mugi"
+  },
+  "im44-03": {
+   "word": "クローバー",
+   "translit": "Kurōbā"
+  },
+  "im44-04": {
+   "word": "芽",
+   "translit": "Me"
+  },
+  "im44-05": {
+   "word": "花束",
+   "translit": "Hanataba"
+  },
+  "im44-06": {
+   "word": "桜",
+   "translit": "Sakura"
+  },
+  "im44-07": {
+   "word": "ヒナギク",
+   "translit": "Hinagiku"
+  },
+  "im44-08": {
+   "word": "ハイビスカス",
+   "translit": "Haibisukasu"
+  },
+  "im44-09": {
+   "word": "落ち葉",
+   "translit": "Ochiba"
+  },
+  "im44-10": {
+   "word": "枯れた花",
+   "translit": "Kareta hana"
+  },
+  "im45-01": {
+   "word": "ネクタイ",
+   "translit": "Nekutai"
+  },
+  "im45-02": {
+   "word": "ブラウス",
+   "translit": "Burausu"
+  },
+  "im45-03": {
+   "word": "着物",
+   "translit": "Kimono"
+  },
+  "im45-04": {
+   "word": "ビキニ",
+   "translit": "Bikini"
+  },
+  "im45-05": {
+   "word": "短パン",
+   "translit": "Tanpan"
+  },
+  "im45-06": {
+   "word": "ハイヒール",
+   "translit": "Hai hīru"
+  },
+  "im45-07": {
+   "word": "ブーツ",
+   "translit": "Būtsu"
+  },
+  "im45-08": {
+   "word": "サンダル",
+   "translit": "Sandaru"
+  },
+  "im45-09": {
+   "word": "帽子",
+   "translit": "Bōshi"
+  },
+  "im45-10": {
+   "word": "白衣",
+   "translit": "Hakui"
+  },
+  "im46-01": {
+   "word": "指輪",
+   "translit": "Yubiwa"
+  },
+  "im46-02": {
+   "word": "ダイヤモンド",
+   "translit": "Daiyamondo"
+  },
+  "im46-03": {
+   "word": "ハンドバッグ",
+   "translit": "Handobaggu"
+  },
+  "im46-04": {
+   "word": "小銭入れ",
+   "translit": "Kozeniire"
+  },
+  "im46-05": {
+   "word": "シルクハット",
+   "translit": "Shiruku hatto"
+  },
+  "im46-06": {
+   "word": "サングラス",
+   "translit": "Sangurasu"
+  },
+  "im46-07": {
+   "word": "学士帽",
+   "translit": "Gakushibō"
+  },
+  "im46-08": {
+   "word": "口紅",
+   "translit": "Kuchibeni"
+  },
+  "im46-09": {
+   "word": "数珠",
+   "translit": "Juzu"
+  },
+  "im46-10": {
+   "word": "安全ベスト",
+   "translit": "Anzen besuto"
+  },
+  "im47-01": {
+   "word": "トロフィー",
+   "translit": "Torofī"
+  },
+  "im47-02": {
+   "word": "メダル",
+   "translit": "Medaru"
+  },
+  "im47-03": {
+   "word": "釣り竿",
+   "translit": "Tsurizao"
+  },
+  "im47-04": {
+   "word": "スキー",
+   "translit": "Sukī"
+  },
+  "im47-05": {
+   "word": "そり",
+   "translit": "Sori"
+  },
+  "im47-06": {
+   "word": "バドミントンラケット",
+   "translit": "Badominton raketto"
+  },
+  "im47-07": {
+   "word": "ゴール",
+   "translit": "Gōru"
+  },
+  "im47-08": {
+   "word": "ゴルフ旗",
+   "translit": "Gorufu hata"
+  },
+  "im47-09": {
+   "word": "ヨーヨー",
+   "translit": "Yōyō"
+  },
+  "im47-10": {
+   "word": "ダイビングマスク",
+   "translit": "Daibingu masuku"
+  },
+  "im48-01": {
+   "word": "カチンコ",
+   "translit": "Kachinko"
+  },
+  "im48-02": {
+   "word": "ビデオカメラ",
+   "translit": "Bideo kamera"
+  },
+  "im48-03": {
+   "word": "演劇",
+   "translit": "Engeki"
+  },
+  "im48-04": {
+   "word": "サーカス",
+   "translit": "Sākasu"
+  },
+  "im48-05": {
+   "word": "フィルム",
+   "translit": "Firumu"
+  },
+  "im48-06": {
+   "word": "プロジェクター",
+   "translit": "Purojekutā"
+  },
+  "im48-07": {
+   "word": "カラオケ",
+   "translit": "Karaoke"
+  },
+  "im48-08": {
+   "word": "チケット",
+   "translit": "Chiketto"
+  },
+  "im48-09": {
+   "word": "絵筆",
+   "translit": "Efude"
+  },
+  "im48-10": {
+   "word": "ラッパ",
+   "translit": "Rappa"
+  },
+  "im49-01": {
+   "word": "盾",
+   "translit": "Tate"
+  },
+  "im49-02": {
+   "word": "剣",
+   "translit": "Ken"
+  },
+  "im49-03": {
+   "word": "短剣",
+   "translit": "Tanken"
+  },
+  "im49-04": {
+   "word": "ドラゴン",
+   "translit": "Doragon"
+  },
+  "im49-05": {
+   "word": "ユニコーン",
+   "translit": "Yunikōn"
+  },
+  "im49-06": {
+   "word": "魔法の杖",
+   "translit": "Mahō no tsue"
+  },
+  "im49-07": {
+   "word": "水晶玉",
+   "translit": "Suishōdama"
+  },
+  "im49-08": {
+   "word": "王冠",
+   "translit": "Ōkan"
+  },
+  "im49-09": {
+   "word": "魔法使い",
+   "translit": "Mahōtsukai"
+  },
+  "im49-10": {
+   "word": "妖精",
+   "translit": "Yōsei"
+  },
+  "im50-01": {
+   "word": "壺",
+   "translit": "Tsubo"
+  },
+  "im50-02": {
+   "word": "錨",
+   "translit": "Ikari"
+  },
+  "im50-03": {
+   "word": "石",
+   "translit": "Ishi"
+  },
+  "im50-04": {
+   "word": "丸太",
+   "translit": "Maruta"
+  },
+  "im50-05": {
+   "word": "電話",
+   "translit": "Denwa"
+  },
+  "im50-06": {
+   "word": "ファックス",
+   "translit": "Fakkusu"
+  },
+  "im50-07": {
+   "word": "カセットテープ",
+   "translit": "Kasetto tēpu"
+  },
+  "im50-08": {
+   "word": "メガホン",
+   "translit": "Megahon"
+  },
+  "im50-09": {
+   "word": "古い鍵",
+   "translit": "Furui kagi"
+  },
+  "im50-10": {
+   "word": "石油樽",
+   "translit": "Sekiyu taru"
+  }
+ }
+}

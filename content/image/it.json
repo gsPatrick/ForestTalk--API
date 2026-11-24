@@ -1,0 +1,2007 @@
+{
+ "game": "image",
+ "language": "it",
+ "version": 2,
+ "entries": {
+  "im01-01": {
+   "word": "il leone",
+   "translit": null
+  },
+  "im01-02": {
+   "word": "la tigre",
+   "translit": null
+  },
+  "im01-03": {
+   "word": "l'elefante",
+   "translit": null
+  },
+  "im01-04": {
+   "word": "la giraffa",
+   "translit": null
+  },
+  "im01-05": {
+   "word": "la scimmia",
+   "translit": null
+  },
+  "im01-06": {
+   "word": "la zebra",
+   "translit": null
+  },
+  "im01-07": {
+   "word": "l'ippopotamo",
+   "translit": null
+  },
+  "im01-08": {
+   "word": "il rinoceronte",
+   "translit": null
+  },
+  "im01-09": {
+   "word": "il coccodrillo",
+   "translit": null
+  },
+  "im01-10": {
+   "word": "l'orso",
+   "translit": null
+  },
+  "im02-01": {
+   "word": "la mucca",
+   "translit": null
+  },
+  "im02-02": {
+   "word": "il maiale",
+   "translit": null
+  },
+  "im02-03": {
+   "word": "la pecora",
+   "translit": null
+  },
+  "im02-04": {
+   "word": "la capra",
+   "translit": null
+  },
+  "im02-05": {
+   "word": "la gallina",
+   "translit": null
+  },
+  "im02-06": {
+   "word": "il gallo",
+   "translit": null
+  },
+  "im02-07": {
+   "word": "il cavallo",
+   "translit": null
+  },
+  "im02-08": {
+   "word": "il bue",
+   "translit": null
+  },
+  "im02-09": {
+   "word": "il tacchino",
+   "translit": null
+  },
+  "im02-10": {
+   "word": "l'anatra",
+   "translit": null
+  },
+  "im03-01": {
+   "word": "il cane",
+   "translit": null
+  },
+  "im03-02": {
+   "word": "il gatto",
+   "translit": null
+  },
+  "im03-03": {
+   "word": "il criceto",
+   "translit": null
+  },
+  "im03-04": {
+   "word": "il coniglio",
+   "translit": null
+  },
+  "im03-05": {
+   "word": "la tartaruga",
+   "translit": null
+  },
+  "im03-06": {
+   "word": "il pesce",
+   "translit": null
+  },
+  "im03-07": {
+   "word": "il topo",
+   "translit": null
+  },
+  "im03-08": {
+   "word": "la lucertola",
+   "translit": null
+  },
+  "im03-09": {
+   "word": "il serpente",
+   "translit": null
+  },
+  "im03-10": {
+   "word": "la rana",
+   "translit": null
+  },
+  "im04-01": {
+   "word": "la mela",
+   "translit": null
+  },
+  "im04-02": {
+   "word": "la banana",
+   "translit": null
+  },
+  "im04-03": {
+   "word": "il mandarino",
+   "translit": null
+  },
+  "im04-04": {
+   "word": "l'uva",
+   "translit": null
+  },
+  "im04-05": {
+   "word": "la fragola",
+   "translit": null
+  },
+  "im04-06": {
+   "word": "l'anguria",
+   "translit": null
+  },
+  "im04-07": {
+   "word": "l'ananas",
+   "translit": null
+  },
+  "im04-08": {
+   "word": "la ciliegia",
+   "translit": null
+  },
+  "im04-09": {
+   "word": "la pesca",
+   "translit": null
+  },
+  "im04-10": {
+   "word": "la pera",
+   "translit": null
+  },
+  "im05-01": {
+   "word": "il pane",
+   "translit": null
+  },
+  "im05-02": {
+   "word": "il formaggio",
+   "translit": null
+  },
+  "im05-03": {
+   "word": "l'uovo",
+   "translit": null
+  },
+  "im05-04": {
+   "word": "il riso",
+   "translit": null
+  },
+  "im05-05": {
+   "word": "la pasta",
+   "translit": null
+  },
+  "im05-06": {
+   "word": "la pizza",
+   "translit": null
+  },
+  "im05-07": {
+   "word": "l'hamburger",
+   "translit": null
+  },
+  "im05-08": {
+   "word": "le patatine fritte",
+   "translit": null
+  },
+  "im05-09": {
+   "word": "la carne",
+   "translit": null
+  },
+  "im05-10": {
+   "word": "il pollo",
+   "translit": null
+  },
+  "im06-01": {
+   "word": "rosso",
+   "translit": null
+  },
+  "im06-02": {
+   "word": "arancione",
+   "translit": null
+  },
+  "im06-03": {
+   "word": "giallo",
+   "translit": null
+  },
+  "im06-04": {
+   "word": "verde",
+   "translit": null
+  },
+  "im06-05": {
+   "word": "blu",
+   "translit": null
+  },
+  "im06-06": {
+   "word": "viola",
+   "translit": null
+  },
+  "im06-07": {
+   "word": "marrone",
+   "translit": null
+  },
+  "im06-08": {
+   "word": "nero",
+   "translit": null
+  },
+  "im06-09": {
+   "word": "bianco",
+   "translit": null
+  },
+  "im06-10": {
+   "word": "rosa",
+   "translit": null
+  },
+  "im07-01": {
+   "word": "l'occhio",
+   "translit": null
+  },
+  "im07-02": {
+   "word": "il naso",
+   "translit": null
+  },
+  "im07-03": {
+   "word": "la bocca",
+   "translit": null
+  },
+  "im07-04": {
+   "word": "l'orecchio",
+   "translit": null
+  },
+  "im07-05": {
+   "word": "la mano",
+   "translit": null
+  },
+  "im07-06": {
+   "word": "il piede",
+   "translit": null
+  },
+  "im07-07": {
+   "word": "la gamba",
+   "translit": null
+  },
+  "im07-08": {
+   "word": "il dente",
+   "translit": null
+  },
+  "im07-09": {
+   "word": "la lingua",
+   "translit": null
+  },
+  "im07-10": {
+   "word": "il cervello",
+   "translit": null
+  },
+  "im08-01": {
+   "word": "la maglietta",
+   "translit": null
+  },
+  "im08-02": {
+   "word": "i pantaloni",
+   "translit": null
+  },
+  "im08-03": {
+   "word": "il vestito",
+   "translit": null
+  },
+  "im08-04": {
+   "word": "il cappotto",
+   "translit": null
+  },
+  "im08-05": {
+   "word": "il calzino",
+   "translit": null
+  },
+  "im08-06": {
+   "word": "la scarpa da ginnastica",
+   "translit": null
+  },
+  "im08-07": {
+   "word": "la scarpa",
+   "translit": null
+  },
+  "im08-08": {
+   "word": "il berretto",
+   "translit": null
+  },
+  "im08-09": {
+   "word": "la sciarpa",
+   "translit": null
+  },
+  "im08-10": {
+   "word": "i guanti",
+   "translit": null
+  },
+  "im09-01": {
+   "word": "il letto",
+   "translit": null
+  },
+  "im09-02": {
+   "word": "la porta",
+   "translit": null
+  },
+  "im09-03": {
+   "word": "la finestra",
+   "translit": null
+  },
+  "im09-04": {
+   "word": "il divano",
+   "translit": null
+  },
+  "im09-05": {
+   "word": "la doccia",
+   "translit": null
+  },
+  "im09-06": {
+   "word": "il water",
+   "translit": null
+  },
+  "im09-07": {
+   "word": "la chiave",
+   "translit": null
+  },
+  "im09-08": {
+   "word": "la lampadina",
+   "translit": null
+  },
+  "im09-09": {
+   "word": "la televisione",
+   "translit": null
+  },
+  "im09-10": {
+   "word": "la sveglia",
+   "translit": null
+  },
+  "im10-01": {
+   "word": "l'auto",
+   "translit": null
+  },
+  "im10-02": {
+   "word": "l'autobus",
+   "translit": null
+  },
+  "im10-03": {
+   "word": "la bicicletta",
+   "translit": null
+  },
+  "im10-04": {
+   "word": "l'aereo",
+   "translit": null
+  },
+  "im10-05": {
+   "word": "il treno",
+   "translit": null
+  },
+  "im10-06": {
+   "word": "la nave",
+   "translit": null
+  },
+  "im10-07": {
+   "word": "l'elicottero",
+   "translit": null
+  },
+  "im10-08": {
+   "word": "la moto",
+   "translit": null
+  },
+  "im10-09": {
+   "word": "l'ambulanza",
+   "translit": null
+  },
+  "im10-10": {
+   "word": "il camion",
+   "translit": null
+  },
+  "im11-01": {
+   "word": "l'aquila",
+   "translit": null
+  },
+  "im11-02": {
+   "word": "il pinguino",
+   "translit": null
+  },
+  "im11-03": {
+   "word": "il gufo",
+   "translit": null
+  },
+  "im11-04": {
+   "word": "il cigno",
+   "translit": null
+  },
+  "im11-05": {
+   "word": "il fenicottero",
+   "translit": null
+  },
+  "im11-06": {
+   "word": "la colomba",
+   "translit": null
+  },
+  "im11-07": {
+   "word": "il pavone",
+   "translit": null
+  },
+  "im11-08": {
+   "word": "il pulcino",
+   "translit": null
+  },
+  "im11-09": {
+   "word": "il pappagallo",
+   "translit": null
+  },
+  "im11-10": {
+   "word": "l'uccello",
+   "translit": null
+  },
+  "im12-01": {
+   "word": "l'albero",
+   "translit": null
+  },
+  "im12-02": {
+   "word": "il girasole",
+   "translit": null
+  },
+  "im12-03": {
+   "word": "il cactus",
+   "translit": null
+  },
+  "im12-04": {
+   "word": "la palma",
+   "translit": null
+  },
+  "im12-05": {
+   "word": "il tulipano",
+   "translit": null
+  },
+  "im12-06": {
+   "word": "la montagna",
+   "translit": null
+  },
+  "im12-07": {
+   "word": "l'onda",
+   "translit": null
+  },
+  "im12-08": {
+   "word": "il vulcano",
+   "translit": null
+  },
+  "im12-09": {
+   "word": "l'isola",
+   "translit": null
+  },
+  "im12-10": {
+   "word": "il deserto",
+   "translit": null
+  },
+  "im13-01": {
+   "word": "il sole",
+   "translit": null
+  },
+  "im13-02": {
+   "word": "la luna",
+   "translit": null
+  },
+  "im13-03": {
+   "word": "la stella",
+   "translit": null
+  },
+  "im13-04": {
+   "word": "la nuvola",
+   "translit": null
+  },
+  "im13-05": {
+   "word": "la pioggia",
+   "translit": null
+  },
+  "im13-06": {
+   "word": "il fiocco di neve",
+   "translit": null
+  },
+  "im13-07": {
+   "word": "l'arcobaleno",
+   "translit": null
+  },
+  "im13-08": {
+   "word": "il fulmine",
+   "translit": null
+  },
+  "im13-09": {
+   "word": "il tornado",
+   "translit": null
+  },
+  "im13-10": {
+   "word": "l'ombrello",
+   "translit": null
+  },
+  "im14-01": {
+   "word": "l'ape",
+   "translit": null
+  },
+  "im14-02": {
+   "word": "la farfalla",
+   "translit": null
+  },
+  "im14-03": {
+   "word": "la formica",
+   "translit": null
+  },
+  "im14-04": {
+   "word": "la coccinella",
+   "translit": null
+  },
+  "im14-05": {
+   "word": "il bruco",
+   "translit": null
+  },
+  "im14-06": {
+   "word": "il grillo",
+   "translit": null
+  },
+  "im14-07": {
+   "word": "il ragno",
+   "translit": null
+  },
+  "im14-08": {
+   "word": "lo scorpione",
+   "translit": null
+  },
+  "im14-09": {
+   "word": "la zanzara",
+   "translit": null
+  },
+  "im14-10": {
+   "word": "la lumaca",
+   "translit": null
+  },
+  "im15-01": {
+   "word": "il delfino",
+   "translit": null
+  },
+  "im15-02": {
+   "word": "la balena",
+   "translit": null
+  },
+  "im15-03": {
+   "word": "lo squalo",
+   "translit": null
+  },
+  "im15-04": {
+   "word": "il polpo",
+   "translit": null
+  },
+  "im15-05": {
+   "word": "il granchio",
+   "translit": null
+  },
+  "im15-06": {
+   "word": "l'aragosta",
+   "translit": null
+  },
+  "im15-07": {
+   "word": "il gambero",
+   "translit": null
+  },
+  "im15-08": {
+   "word": "il pesce palla",
+   "translit": null
+  },
+  "im15-09": {
+   "word": "il calamaro",
+   "translit": null
+  },
+  "im15-10": {
+   "word": "la conchiglia",
+   "translit": null
+  },
+  "im16-01": {
+   "word": "il mango",
+   "translit": null
+  },
+  "im16-02": {
+   "word": "la noce di cocco",
+   "translit": null
+  },
+  "im16-03": {
+   "word": "il kiwi",
+   "translit": null
+  },
+  "im16-04": {
+   "word": "il limone",
+   "translit": null
+  },
+  "im16-05": {
+   "word": "il melone",
+   "translit": null
+  },
+  "im16-06": {
+   "word": "l'avocado",
+   "translit": null
+  },
+  "im16-07": {
+   "word": "l'arachide",
+   "translit": null
+  },
+  "im16-08": {
+   "word": "la castagna",
+   "translit": null
+  },
+  "im16-09": {
+   "word": "il pomodoro",
+   "translit": null
+  },
+  "im16-10": {
+   "word": "il cetriolo",
+   "translit": null
+  },
+  "im17-01": {
+   "word": "la carota",
+   "translit": null
+  },
+  "im17-02": {
+   "word": "il mais",
+   "translit": null
+  },
+  "im17-03": {
+   "word": "la patata",
+   "translit": null
+  },
+  "im17-04": {
+   "word": "la melanzana",
+   "translit": null
+  },
+  "im17-05": {
+   "word": "i broccoli",
+   "translit": null
+  },
+  "im17-06": {
+   "word": "la lattuga",
+   "translit": null
+  },
+  "im17-07": {
+   "word": "la cipolla",
+   "translit": null
+  },
+  "im17-08": {
+   "word": "l'aglio",
+   "translit": null
+  },
+  "im17-09": {
+   "word": "il peperoncino",
+   "translit": null
+  },
+  "im17-10": {
+   "word": "il fungo",
+   "translit": null
+  },
+  "im18-01": {
+   "word": "il caffè",
+   "translit": null
+  },
+  "im18-02": {
+   "word": "il latte",
+   "translit": null
+  },
+  "im18-03": {
+   "word": "il succo",
+   "translit": null
+  },
+  "im18-04": {
+   "word": "la birra",
+   "translit": null
+  },
+  "im18-05": {
+   "word": "il vino",
+   "translit": null
+  },
+  "im18-06": {
+   "word": "il cioccolato",
+   "translit": null
+  },
+  "im18-07": {
+   "word": "il gelato",
+   "translit": null
+  },
+  "im18-08": {
+   "word": "la torta",
+   "translit": null
+  },
+  "im18-09": {
+   "word": "il biscotto",
+   "translit": null
+  },
+  "im18-10": {
+   "word": "la ciambella",
+   "translit": null
+  },
+  "im19-01": {
+   "word": "il cellulare",
+   "translit": null
+  },
+  "im19-02": {
+   "word": "l'orologio",
+   "translit": null
+  },
+  "im19-03": {
+   "word": "gli occhiali",
+   "translit": null
+  },
+  "im19-04": {
+   "word": "lo zaino",
+   "translit": null
+  },
+  "im19-05": {
+   "word": "le forbici",
+   "translit": null
+  },
+  "im19-06": {
+   "word": "la torcia",
+   "translit": null
+  },
+  "im19-07": {
+   "word": "la fotocamera",
+   "translit": null
+  },
+  "im19-08": {
+   "word": "la pila",
+   "translit": null
+  },
+  "im19-09": {
+   "word": "l'orsacchiotto",
+   "translit": null
+  },
+  "im19-10": {
+   "word": "la calamita",
+   "translit": null
+  },
+  "im20-01": {
+   "word": "il libro",
+   "translit": null
+  },
+  "im20-02": {
+   "word": "la matita",
+   "translit": null
+  },
+  "im20-03": {
+   "word": "la penna",
+   "translit": null
+  },
+  "im20-04": {
+   "word": "il quaderno",
+   "translit": null
+  },
+  "im20-05": {
+   "word": "il righello",
+   "translit": null
+  },
+  "im20-06": {
+   "word": "la graffetta",
+   "translit": null
+  },
+  "im20-07": {
+   "word": "la squadra",
+   "translit": null
+  },
+  "im20-08": {
+   "word": "l'abaco",
+   "translit": null
+  },
+  "im20-09": {
+   "word": "la scuola",
+   "translit": null
+  },
+  "im20-10": {
+   "word": "la tavolozza",
+   "translit": null
+  },
+  "im21-01": {
+   "word": "il pallone da calcio",
+   "translit": null
+  },
+  "im21-02": {
+   "word": "il pallone da basket",
+   "translit": null
+  },
+  "im21-03": {
+   "word": "la pallina da tennis",
+   "translit": null
+  },
+  "im21-04": {
+   "word": "il pallone da pallavolo",
+   "translit": null
+  },
+  "im21-05": {
+   "word": "il ping pong",
+   "translit": null
+  },
+  "im21-06": {
+   "word": "il guantone da boxe",
+   "translit": null
+  },
+  "im21-07": {
+   "word": "il bowling",
+   "translit": null
+  },
+  "im21-08": {
+   "word": "l'arco e frecce",
+   "translit": null
+  },
+  "im21-09": {
+   "word": "lo skateboard",
+   "translit": null
+  },
+  "im21-10": {
+   "word": "i pattini da ghiaccio",
+   "translit": null
+  },
+  "im22-01": {
+   "word": "il piatto",
+   "translit": null
+  },
+  "im22-02": {
+   "word": "il cucchiaio",
+   "translit": null
+  },
+  "im22-03": {
+   "word": "il coltello",
+   "translit": null
+  },
+  "im22-04": {
+   "word": "la padella",
+   "translit": null
+  },
+  "im22-05": {
+   "word": "la ciotola",
+   "translit": null
+  },
+  "im22-06": {
+   "word": "le bacchette",
+   "translit": null
+  },
+  "im22-07": {
+   "word": "il sale",
+   "translit": null
+  },
+  "im22-08": {
+   "word": "la scatoletta",
+   "translit": null
+  },
+  "im22-09": {
+   "word": "il bicchiere",
+   "translit": null
+  },
+  "im22-10": {
+   "word": "il ghiaccio",
+   "translit": null
+  },
+  "im23-01": {
+   "word": "lo spazzolino",
+   "translit": null
+  },
+  "im23-02": {
+   "word": "il sapone",
+   "translit": null
+  },
+  "im23-03": {
+   "word": "la carta igienica",
+   "translit": null
+  },
+  "im23-04": {
+   "word": "il rasoio",
+   "translit": null
+  },
+  "im23-05": {
+   "word": "la vasca da bagno",
+   "translit": null
+  },
+  "im23-06": {
+   "word": "la spugna",
+   "translit": null
+  },
+  "im23-07": {
+   "word": "la scopa",
+   "translit": null
+  },
+  "im23-08": {
+   "word": "il secchio",
+   "translit": null
+  },
+  "im23-09": {
+   "word": "lo specchio",
+   "translit": null
+  },
+  "im23-10": {
+   "word": "il cesto",
+   "translit": null
+  },
+  "im24-01": {
+   "word": "la sedia",
+   "translit": null
+  },
+  "im24-02": {
+   "word": "il quadro",
+   "translit": null
+  },
+  "im24-03": {
+   "word": "la candela",
+   "translit": null
+  },
+  "im24-04": {
+   "word": "la valigia",
+   "translit": null
+  },
+  "im24-05": {
+   "word": "il lucchetto",
+   "translit": null
+  },
+  "im24-06": {
+   "word": "il cestino",
+   "translit": null
+  },
+  "im24-07": {
+   "word": "la scala",
+   "translit": null
+  },
+  "im24-08": {
+   "word": "la radio",
+   "translit": null
+  },
+  "im24-09": {
+   "word": "la campana",
+   "translit": null
+  },
+  "im24-10": {
+   "word": "l'estintore",
+   "translit": null
+  },
+  "im25-01": {
+   "word": "il martello",
+   "translit": null
+  },
+  "im25-02": {
+   "word": "l'ascia",
+   "translit": null
+  },
+  "im25-03": {
+   "word": "la chiave inglese",
+   "translit": null
+  },
+  "im25-04": {
+   "word": "il cacciavite",
+   "translit": null
+  },
+  "im25-05": {
+   "word": "il seghetto",
+   "translit": null
+  },
+  "im25-06": {
+   "word": "il piccone",
+   "translit": null
+  },
+  "im25-07": {
+   "word": "la cassetta degli attrezzi",
+   "translit": null
+  },
+  "im25-08": {
+   "word": "la vite",
+   "translit": null
+  },
+  "im25-09": {
+   "word": "l'ingranaggio",
+   "translit": null
+  },
+  "im25-10": {
+   "word": "la catena",
+   "translit": null
+  },
+  "im26-01": {
+   "word": "l'ospedale",
+   "translit": null
+  },
+  "im26-02": {
+   "word": "la banca",
+   "translit": null
+  },
+  "im26-03": {
+   "word": "la chiesa",
+   "translit": null
+  },
+  "im26-04": {
+   "word": "l'albergo",
+   "translit": null
+  },
+  "im26-05": {
+   "word": "la fabbrica",
+   "translit": null
+  },
+  "im26-06": {
+   "word": "il distributore",
+   "translit": null
+  },
+  "im26-07": {
+   "word": "il semaforo",
+   "translit": null
+  },
+  "im26-08": {
+   "word": "il ponte",
+   "translit": null
+  },
+  "im26-09": {
+   "word": "lo stadio",
+   "translit": null
+  },
+  "im26-10": {
+   "word": "il negozio",
+   "translit": null
+  },
+  "im27-01": {
+   "word": "il portatile",
+   "translit": null
+  },
+  "im27-02": {
+   "word": "la tastiera",
+   "translit": null
+  },
+  "im27-03": {
+   "word": "il mouse",
+   "translit": null
+  },
+  "im27-04": {
+   "word": "la stampante",
+   "translit": null
+  },
+  "im27-05": {
+   "word": "il floppy disk",
+   "translit": null
+  },
+  "im27-06": {
+   "word": "le cuffie",
+   "translit": null
+  },
+  "im27-07": {
+   "word": "il microfono",
+   "translit": null
+  },
+  "im27-08": {
+   "word": "l'antenna",
+   "translit": null
+  },
+  "im27-09": {
+   "word": "la spina",
+   "translit": null
+  },
+  "im27-10": {
+   "word": "il joystick",
+   "translit": null
+  },
+  "im28-01": {
+   "word": "la chitarra",
+   "translit": null
+  },
+  "im28-02": {
+   "word": "il pianoforte",
+   "translit": null
+  },
+  "im28-03": {
+   "word": "la tromba",
+   "translit": null
+  },
+  "im28-04": {
+   "word": "il violino",
+   "translit": null
+  },
+  "im28-05": {
+   "word": "la batteria",
+   "translit": null
+  },
+  "im28-06": {
+   "word": "il sassofono",
+   "translit": null
+  },
+  "im28-07": {
+   "word": "il banjo",
+   "translit": null
+  },
+  "im28-08": {
+   "word": "la fisarmonica",
+   "translit": null
+  },
+  "im28-09": {
+   "word": "lo spartito",
+   "translit": null
+  },
+  "im28-10": {
+   "word": "la nota musicale",
+   "translit": null
+  },
+  "im29-01": {
+   "word": "il dado",
+   "translit": null
+  },
+  "im29-02": {
+   "word": "il puzzle",
+   "translit": null
+  },
+  "im29-03": {
+   "word": "il bersaglio",
+   "translit": null
+  },
+  "im29-04": {
+   "word": "gli scacchi",
+   "translit": null
+  },
+  "im29-05": {
+   "word": "il videogioco",
+   "translit": null
+  },
+  "im29-06": {
+   "word": "la ruota panoramica",
+   "translit": null
+  },
+  "im29-07": {
+   "word": "le montagne russe",
+   "translit": null
+  },
+  "im29-08": {
+   "word": "il palloncino",
+   "translit": null
+  },
+  "im29-09": {
+   "word": "l'aquilone",
+   "translit": null
+  },
+  "im29-10": {
+   "word": "la giostra",
+   "translit": null
+  },
+  "im30-01": {
+   "word": "il regalo",
+   "translit": null
+  },
+  "im30-02": {
+   "word": "la torta di compleanno",
+   "translit": null
+  },
+  "im30-03": {
+   "word": "l'albero di Natale",
+   "translit": null
+  },
+  "im30-04": {
+   "word": "la zucca",
+   "translit": null
+  },
+  "im30-05": {
+   "word": "i fuochi d'artificio",
+   "translit": null
+  },
+  "im30-06": {
+   "word": "la lanterna di carta",
+   "translit": null
+  },
+  "im30-07": {
+   "word": "il Babbo Natale",
+   "translit": null
+  },
+  "im30-08": {
+   "word": "la piñata",
+   "translit": null
+  },
+  "im30-09": {
+   "word": "il fiocco",
+   "translit": null
+  },
+  "im30-10": {
+   "word": "lo champagne",
+   "translit": null
+  },
+  "im31-01": {
+   "word": "lo stetoscopio",
+   "translit": null
+  },
+  "im31-02": {
+   "word": "la siringa",
+   "translit": null
+  },
+  "im31-03": {
+   "word": "la pastiglia",
+   "translit": null
+  },
+  "im31-04": {
+   "word": "il cerotto",
+   "translit": null
+  },
+  "im31-05": {
+   "word": "il termometro",
+   "translit": null
+  },
+  "im31-06": {
+   "word": "la sedia a rotelle",
+   "translit": null
+  },
+  "im31-07": {
+   "word": "il bastone bianco",
+   "translit": null
+  },
+  "im31-08": {
+   "word": "il microbo",
+   "translit": null
+  },
+  "im31-09": {
+   "word": "l'osso",
+   "translit": null
+  },
+  "im31-10": {
+   "word": "il DNA",
+   "translit": null
+  },
+  "im32-01": {
+   "word": "il microscopio",
+   "translit": null
+  },
+  "im32-02": {
+   "word": "il telescopio",
+   "translit": null
+  },
+  "im32-03": {
+   "word": "la provetta",
+   "translit": null
+  },
+  "im32-04": {
+   "word": "l'alambicco",
+   "translit": null
+  },
+  "im32-05": {
+   "word": "la piastra di Petri",
+   "translit": null
+  },
+  "im32-06": {
+   "word": "la bilancia",
+   "translit": null
+  },
+  "im32-07": {
+   "word": "la bussola",
+   "translit": null
+  },
+  "im32-08": {
+   "word": "la lente d'ingrandimento",
+   "translit": null
+  },
+  "im32-09": {
+   "word": "la clessidra",
+   "translit": null
+  },
+  "im32-10": {
+   "word": "l'atomo",
+   "translit": null
+  },
+  "im33-01": {
+   "word": "la cartella",
+   "translit": null
+  },
+  "im33-02": {
+   "word": "il calendario",
+   "translit": null
+  },
+  "im33-03": {
+   "word": "il grafico",
+   "translit": null
+  },
+  "im33-04": {
+   "word": "la busta",
+   "translit": null
+  },
+  "im33-05": {
+   "word": "la cassetta postale",
+   "translit": null
+  },
+  "im33-06": {
+   "word": "il pacco",
+   "translit": null
+  },
+  "im33-07": {
+   "word": "il giornale",
+   "translit": null
+  },
+  "im33-08": {
+   "word": "la carta di credito",
+   "translit": null
+  },
+  "im33-09": {
+   "word": "la moneta",
+   "translit": null
+  },
+  "im33-10": {
+   "word": "la pergamena",
+   "translit": null
+  },
+  "im34-01": {
+   "word": "la casa",
+   "translit": null
+  },
+  "im34-02": {
+   "word": "il palazzo",
+   "translit": null
+  },
+  "im34-03": {
+   "word": "il mattone",
+   "translit": null
+  },
+  "im34-04": {
+   "word": "la gru",
+   "translit": null
+  },
+  "im34-05": {
+   "word": "la capanna",
+   "translit": null
+  },
+  "im34-06": {
+   "word": "la tenda",
+   "translit": null
+  },
+  "im34-07": {
+   "word": "il cantiere",
+   "translit": null
+  },
+  "im34-08": {
+   "word": "il castello",
+   "translit": null
+  },
+  "im34-09": {
+   "word": "la fontana",
+   "translit": null
+  },
+  "im34-10": {
+   "word": "il moai",
+   "translit": null
+  },
+  "im35-01": {
+   "word": "il pianeta",
+   "translit": null
+  },
+  "im35-02": {
+   "word": "la Terra",
+   "translit": null
+  },
+  "im35-03": {
+   "word": "la luna piena",
+   "translit": null
+  },
+  "im35-04": {
+   "word": "la cometa",
+   "translit": null
+  },
+  "im35-05": {
+   "word": "il razzo",
+   "translit": null
+  },
+  "im35-06": {
+   "word": "il satellite",
+   "translit": null
+  },
+  "im35-07": {
+   "word": "il disco volante",
+   "translit": null
+  },
+  "im35-08": {
+   "word": "l'alieno",
+   "translit": null
+  },
+  "im35-09": {
+   "word": "la stella cadente",
+   "translit": null
+  },
+  "im35-10": {
+   "word": "la galassia",
+   "translit": null
+  },
+  "im36-01": {
+   "word": "la barca a vela",
+   "translit": null
+  },
+  "im36-02": {
+   "word": "la canoa",
+   "translit": null
+  },
+  "im36-03": {
+   "word": "il motoscafo",
+   "translit": null
+  },
+  "im36-04": {
+   "word": "il taxi",
+   "translit": null
+  },
+  "im36-05": {
+   "word": "lo scooter",
+   "translit": null
+  },
+  "im36-06": {
+   "word": "il trattore",
+   "translit": null
+  },
+  "im36-07": {
+   "word": "la metropolitana",
+   "translit": null
+  },
+  "im36-08": {
+   "word": "il monopattino",
+   "translit": null
+  },
+  "im36-09": {
+   "word": "il paracadute",
+   "translit": null
+  },
+  "im36-10": {
+   "word": "l'auto della polizia",
+   "translit": null
+  },
+  "im37-01": {
+   "word": "il sushi",
+   "translit": null
+  },
+  "im37-02": {
+   "word": "il ramen",
+   "translit": null
+  },
+  "im37-03": {
+   "word": "la paella",
+   "translit": null
+  },
+  "im37-04": {
+   "word": "il curry",
+   "translit": null
+  },
+  "im37-05": {
+   "word": "il raviolo",
+   "translit": null
+  },
+  "im37-06": {
+   "word": "il bento",
+   "translit": null
+  },
+  "im37-07": {
+   "word": "l'onigiri",
+   "translit": null
+  },
+  "im37-08": {
+   "word": "il falafel",
+   "translit": null
+  },
+  "im37-09": {
+   "word": "l'insalata",
+   "translit": null
+  },
+  "im37-10": {
+   "word": "lo stufato",
+   "translit": null
+  },
+  "im38-01": {
+   "word": "il cornetto",
+   "translit": null
+  },
+  "im38-02": {
+   "word": "il pretzel",
+   "translit": null
+  },
+  "im38-03": {
+   "word": "il bagel",
+   "translit": null
+  },
+  "im38-04": {
+   "word": "il pancake",
+   "translit": null
+  },
+  "im38-05": {
+   "word": "il waffle",
+   "translit": null
+  },
+  "im38-06": {
+   "word": "il taco",
+   "translit": null
+  },
+  "im38-07": {
+   "word": "il burrito",
+   "translit": null
+  },
+  "im38-08": {
+   "word": "il panino",
+   "translit": null
+  },
+  "im38-09": {
+   "word": "i popcorn",
+   "translit": null
+  },
+  "im38-10": {
+   "word": "l'hot dog",
+   "translit": null
+  },
+  "im39-01": {
+   "word": "il budino",
+   "translit": null
+  },
+  "im39-02": {
+   "word": "la crostata",
+   "translit": null
+  },
+  "im39-03": {
+   "word": "il cupcake",
+   "translit": null
+  },
+  "im39-04": {
+   "word": "la caramella",
+   "translit": null
+  },
+  "im39-05": {
+   "word": "il lecca-lecca",
+   "translit": null
+  },
+  "im39-06": {
+   "word": "il miele",
+   "translit": null
+  },
+  "im39-07": {
+   "word": "la granita",
+   "translit": null
+  },
+  "im39-08": {
+   "word": "il biscotto della fortuna",
+   "translit": null
+  },
+  "im39-09": {
+   "word": "il burro",
+   "translit": null
+  },
+  "im39-10": {
+   "word": "il dango",
+   "translit": null
+  },
+  "im40-01": {
+   "word": "il tè",
+   "translit": null
+  },
+  "im40-02": {
+   "word": "il cocktail",
+   "translit": null
+  },
+  "im40-03": {
+   "word": "il sakè",
+   "translit": null
+  },
+  "im40-04": {
+   "word": "il whisky",
+   "translit": null
+  },
+  "im40-05": {
+   "word": "il mate",
+   "translit": null
+  },
+  "im40-06": {
+   "word": "il bubble tea",
+   "translit": null
+  },
+  "im40-07": {
+   "word": "il drink tropicale",
+   "translit": null
+  },
+  "im40-08": {
+   "word": "il biberon",
+   "translit": null
+  },
+  "im40-09": {
+   "word": "la goccia",
+   "translit": null
+  },
+  "im40-10": {
+   "word": "il brindisi",
+   "translit": null
+  },
+  "im41-01": {
+   "word": "il lupo",
+   "translit": null
+  },
+  "im41-02": {
+   "word": "la volpe",
+   "translit": null
+  },
+  "im41-03": {
+   "word": "il cervo",
+   "translit": null
+  },
+  "im41-04": {
+   "word": "lo scoiattolo",
+   "translit": null
+  },
+  "im41-05": {
+   "word": "il cinghiale",
+   "translit": null
+  },
+  "im41-06": {
+   "word": "il tasso",
+   "translit": null
+  },
+  "im41-07": {
+   "word": "il procione",
+   "translit": null
+  },
+  "im41-08": {
+   "word": "il pipistrello",
+   "translit": null
+  },
+  "im41-09": {
+   "word": "il riccio",
+   "translit": null
+  },
+  "im41-10": {
+   "word": "la puzzola",
+   "translit": null
+  },
+  "im42-01": {
+   "word": "il canguro",
+   "translit": null
+  },
+  "im42-02": {
+   "word": "il koala",
+   "translit": null
+  },
+  "im42-03": {
+   "word": "il panda",
+   "translit": null
+  },
+  "im42-04": {
+   "word": "il cammello",
+   "translit": null
+  },
+  "im42-05": {
+   "word": "il lama",
+   "translit": null
+  },
+  "im42-06": {
+   "word": "il bradipo",
+   "translit": null
+  },
+  "im42-07": {
+   "word": "il gorilla",
+   "translit": null
+  },
+  "im42-08": {
+   "word": "l'orango",
+   "translit": null
+  },
+  "im42-09": {
+   "word": "il leopardo",
+   "translit": null
+  },
+  "im42-10": {
+   "word": "il bisonte",
+   "translit": null
+  },
+  "im43-01": {
+   "word": "il tirannosauro",
+   "translit": null
+  },
+  "im43-02": {
+   "word": "il brachiosauro",
+   "translit": null
+  },
+  "im43-03": {
+   "word": "il mammut",
+   "translit": null
+  },
+  "im43-04": {
+   "word": "la foca",
+   "translit": null
+  },
+  "im43-05": {
+   "word": "la lontra",
+   "translit": null
+  },
+  "im43-06": {
+   "word": "il bufalo",
+   "translit": null
+  },
+  "im43-07": {
+   "word": "il castoro",
+   "translit": null
+  },
+  "im43-08": {
+   "word": "l'ariete",
+   "translit": null
+  },
+  "im43-09": {
+   "word": "il barboncino",
+   "translit": null
+  },
+  "im43-10": {
+   "word": "il cane guida",
+   "translit": null
+  },
+  "im44-01": {
+   "word": "il pino",
+   "translit": null
+  },
+  "im44-02": {
+   "word": "il grano",
+   "translit": null
+  },
+  "im44-03": {
+   "word": "il trifoglio",
+   "translit": null
+  },
+  "im44-04": {
+   "word": "il germoglio",
+   "translit": null
+  },
+  "im44-05": {
+   "word": "il mazzo di fiori",
+   "translit": null
+  },
+  "im44-06": {
+   "word": "il fiore di ciliegio",
+   "translit": null
+  },
+  "im44-07": {
+   "word": "la margherita",
+   "translit": null
+  },
+  "im44-08": {
+   "word": "l'ibisco",
+   "translit": null
+  },
+  "im44-09": {
+   "word": "la foglia secca",
+   "translit": null
+  },
+  "im44-10": {
+   "word": "il fiore appassito",
+   "translit": null
+  },
+  "im45-01": {
+   "word": "la cravatta",
+   "translit": null
+  },
+  "im45-02": {
+   "word": "la camicetta",
+   "translit": null
+  },
+  "im45-03": {
+   "word": "il kimono",
+   "translit": null
+  },
+  "im45-04": {
+   "word": "il bikini",
+   "translit": null
+  },
+  "im45-05": {
+   "word": "i pantaloncini",
+   "translit": null
+  },
+  "im45-06": {
+   "word": "il tacco alto",
+   "translit": null
+  },
+  "im45-07": {
+   "word": "lo stivale",
+   "translit": null
+  },
+  "im45-08": {
+   "word": "la ciabatta",
+   "translit": null
+  },
+  "im45-09": {
+   "word": "il cappello",
+   "translit": null
+  },
+  "im45-10": {
+   "word": "il camice",
+   "translit": null
+  },
+  "im46-01": {
+   "word": "l'anello",
+   "translit": null
+  },
+  "im46-02": {
+   "word": "il diamante",
+   "translit": null
+  },
+  "im46-03": {
+   "word": "la borsa",
+   "translit": null
+  },
+  "im46-04": {
+   "word": "il portamonete",
+   "translit": null
+  },
+  "im46-05": {
+   "word": "il cilindro",
+   "translit": null
+  },
+  "im46-06": {
+   "word": "gli occhiali da sole",
+   "translit": null
+  },
+  "im46-07": {
+   "word": "il tocco",
+   "translit": null
+  },
+  "im46-08": {
+   "word": "il rossetto",
+   "translit": null
+  },
+  "im46-09": {
+   "word": "la collana di perline",
+   "translit": null
+  },
+  "im46-10": {
+   "word": "il gilet",
+   "translit": null
+  },
+  "im47-01": {
+   "word": "il trofeo",
+   "translit": null
+  },
+  "im47-02": {
+   "word": "la medaglia",
+   "translit": null
+  },
+  "im47-03": {
+   "word": "la canna da pesca",
+   "translit": null
+  },
+  "im47-04": {
+   "word": "gli sci",
+   "translit": null
+  },
+  "im47-05": {
+   "word": "la slitta",
+   "translit": null
+  },
+  "im47-06": {
+   "word": "la racchetta da badminton",
+   "translit": null
+  },
+  "im47-07": {
+   "word": "la porta da calcio",
+   "translit": null
+  },
+  "im47-08": {
+   "word": "la bandiera del golf",
+   "translit": null
+  },
+  "im47-09": {
+   "word": "lo yo-yo",
+   "translit": null
+  },
+  "im47-10": {
+   "word": "la maschera da sub",
+   "translit": null
+  },
+  "im48-01": {
+   "word": "il ciak",
+   "translit": null
+  },
+  "im48-02": {
+   "word": "la videocamera",
+   "translit": null
+  },
+  "im48-03": {
+   "word": "il teatro",
+   "translit": null
+  },
+  "im48-04": {
+   "word": "il circo",
+   "translit": null
+  },
+  "im48-05": {
+   "word": "la pellicola",
+   "translit": null
+  },
+  "im48-06": {
+   "word": "il proiettore",
+   "translit": null
+  },
+  "im48-07": {
+   "word": "il karaoke",
+   "translit": null
+  },
+  "im48-08": {
+   "word": "il biglietto",
+   "translit": null
+  },
+  "im48-09": {
+   "word": "il pennello",
+   "translit": null
+  },
+  "im48-10": {
+   "word": "la cornetta acustica",
+   "translit": null
+  },
+  "im49-01": {
+   "word": "lo scudo",
+   "translit": null
+  },
+  "im49-02": {
+   "word": "le spade",
+   "translit": null
+  },
+  "im49-03": {
+   "word": "il pugnale",
+   "translit": null
+  },
+  "im49-04": {
+   "word": "il drago",
+   "translit": null
+  },
+  "im49-05": {
+   "word": "l'unicorno",
+   "translit": null
+  },
+  "im49-06": {
+   "word": "la bacchetta magica",
+   "translit": null
+  },
+  "im49-07": {
+   "word": "la sfera di cristallo",
+   "translit": null
+  },
+  "im49-08": {
+   "word": "la corona",
+   "translit": null
+  },
+  "im49-09": {
+   "word": "il mago",
+   "translit": null
+  },
+  "im49-10": {
+   "word": "la fata",
+   "translit": null
+  },
+  "im50-01": {
+   "word": "l'anfora",
+   "translit": null
+  },
+  "im50-02": {
+   "word": "l'ancora",
+   "translit": null
+  },
+  "im50-03": {
+   "word": "la pietra",
+   "translit": null
+  },
+  "im50-04": {
+   "word": "il tronco",
+   "translit": null
+  },
+  "im50-05": {
+   "word": "il telefono",
+   "translit": null
+  },
+  "im50-06": {
+   "word": "il fax",
+   "translit": null
+  },
+  "im50-07": {
+   "word": "la cassetta",
+   "translit": null
+  },
+  "im50-08": {
+   "word": "il megafono",
+   "translit": null
+  },
+  "im50-09": {
+   "word": "la chiave antica",
+   "translit": null
+  },
+  "im50-10": {
+   "word": "il barile di petrolio",
+   "translit": null
+  }
+ }
+}

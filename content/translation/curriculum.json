@@ -1,1781 +1,2963 @@
 {
-  "game": "translation",
-  "version": 1,
-  "chapterTitles": [
-    "Verbos & Perguntas Básicas",
-    "Dia a Dia & Situações",
-    "Expressões & Conversa Real"
-  ],
-  "phases": [
+ "game": "translation",
+ "version": 1,
+ "chapterTitles": [
+  "Verbos & Perguntas Básicas",
+  "Dia a Dia & Situações",
+  "Expressões & Conversa Real",
+  "Trabalho, Viagem & Saúde",
+  "Argumentos & Idiomatismos"
+ ],
+ "phases": [
+  {
+   "phase": 1,
+   "globalPhase": 101,
+   "chapter": 11,
+   "level": "A1",
+   "theme": "Perguntas básicas",
+   "concepts": [
     {
-      "phase": 1,
-      "globalPhase": 61,
-      "chapter": 7,
-      "level": "A1",
-      "theme": "Perguntas básicas",
-      "concepts": [
-        {
-          "id": "tr01-01",
-          "emoji": "❓",
-          "pt": "quem?"
-        },
-        {
-          "id": "tr01-02",
-          "emoji": "📍",
-          "pt": "onde?"
-        },
-        {
-          "id": "tr01-03",
-          "emoji": "🕒",
-          "pt": "quando?"
-        },
-        {
-          "id": "tr01-04",
-          "emoji": "🤔",
-          "pt": "por quê?"
-        },
-        {
-          "id": "tr01-05",
-          "emoji": "🧩",
-          "pt": "como?"
-        },
-        {
-          "id": "tr01-06",
-          "emoji": "👉",
-          "pt": "qual?"
-        },
-        {
-          "id": "tr01-07",
-          "emoji": "💬",
-          "pt": "o quê?"
-        },
-        {
-          "id": "tr01-08",
-          "emoji": "🛫",
-          "pt": "de onde?"
-        },
-        {
-          "id": "tr01-09",
-          "emoji": "🧭",
-          "pt": "para onde?"
-        },
-        {
-          "id": "tr01-10",
-          "emoji": "👥",
-          "pt": "com quem?"
-        }
-      ]
+     "id": "tr01-01",
+     "emoji": "❓",
+     "pt": "quem?"
     },
     {
-      "phase": 2,
-      "globalPhase": 62,
-      "chapter": 7,
-      "level": "A1",
-      "theme": "Pronomes e lugares",
-      "concepts": [
-        {
-          "id": "tr02-01",
-          "emoji": "🙋",
-          "pt": "eu"
-        },
-        {
-          "id": "tr02-02",
-          "emoji": "🫵",
-          "pt": "você"
-        },
-        {
-          "id": "tr02-03",
-          "emoji": "👨",
-          "pt": "ele"
-        },
-        {
-          "id": "tr02-04",
-          "emoji": "👩",
-          "pt": "ela"
-        },
-        {
-          "id": "tr02-05",
-          "emoji": "🤝",
-          "pt": "nós"
-        },
-        {
-          "id": "tr02-06",
-          "emoji": "🧑‍🤝‍🧑",
-          "pt": "eles"
-        },
-        {
-          "id": "tr02-07",
-          "emoji": "👇",
-          "pt": "isto"
-        },
-        {
-          "id": "tr02-08",
-          "emoji": "☝️",
-          "pt": "aquilo"
-        },
-        {
-          "id": "tr02-09",
-          "emoji": "📌",
-          "pt": "aqui"
-        },
-        {
-          "id": "tr02-10",
-          "emoji": "🔭",
-          "pt": "lá"
-        }
-      ]
+     "id": "tr01-02",
+     "emoji": "📍",
+     "pt": "onde?"
     },
     {
-      "phase": 3,
-      "globalPhase": 63,
-      "chapter": 7,
-      "level": "A1",
-      "theme": "Verbos essenciais",
-      "concepts": [
-        {
-          "id": "tr03-01",
-          "emoji": "🎒",
-          "pt": "ter"
-        },
-        {
-          "id": "tr03-02",
-          "emoji": "🙏",
-          "pt": "querer"
-        },
-        {
-          "id": "tr03-03",
-          "emoji": "💪",
-          "pt": "poder"
-        },
-        {
-          "id": "tr03-04",
-          "emoji": "🆘",
-          "pt": "precisar"
-        },
-        {
-          "id": "tr03-05",
-          "emoji": "🧠",
-          "pt": "saber"
-        },
-        {
-          "id": "tr03-06",
-          "emoji": "👍",
-          "pt": "gostar"
-        },
-        {
-          "id": "tr03-07",
-          "emoji": "🛠️",
-          "pt": "fazer"
-        },
-        {
-          "id": "tr03-08",
-          "emoji": "➡️",
-          "pt": "ir"
-        },
-        {
-          "id": "tr03-09",
-          "emoji": "⬅️",
-          "pt": "vir"
-        },
-        {
-          "id": "tr03-10",
-          "emoji": "🎁",
-          "pt": "dar"
-        }
-      ]
+     "id": "tr01-03",
+     "emoji": "🕒",
+     "pt": "quando?"
     },
     {
-      "phase": 4,
-      "globalPhase": 64,
-      "chapter": 7,
-      "level": "A1",
-      "theme": "Verbos de cozinha",
-      "concepts": [
-        {
-          "id": "tr04-01",
-          "emoji": "🍽️",
-          "pt": "comer"
-        },
-        {
-          "id": "tr04-02",
-          "emoji": "🥤",
-          "pt": "beber"
-        },
-        {
-          "id": "tr04-03",
-          "emoji": "👩‍🍳",
-          "pt": "cozinhar"
-        },
-        {
-          "id": "tr04-04",
-          "emoji": "🔪",
-          "pt": "cortar"
-        },
-        {
-          "id": "tr04-05",
-          "emoji": "🥣",
-          "pt": "misturar"
-        },
-        {
-          "id": "tr04-06",
-          "emoji": "🥧",
-          "pt": "assar"
-        },
-        {
-          "id": "tr04-07",
-          "emoji": "🍳",
-          "pt": "fritar"
-        },
-        {
-          "id": "tr04-08",
-          "emoji": "🧊",
-          "pt": "congelar"
-        },
-        {
-          "id": "tr04-09",
-          "emoji": "♨️",
-          "pt": "ferver"
-        },
-        {
-          "id": "tr04-10",
-          "emoji": "🍊",
-          "pt": "descascar"
-        }
-      ]
+     "id": "tr01-04",
+     "emoji": "🤔",
+     "pt": "por quê?"
     },
     {
-      "phase": 5,
-      "globalPhase": 65,
-      "chapter": 7,
-      "level": "A1",
-      "theme": "Verbos de casa",
-      "concepts": [
-        {
-          "id": "tr05-01",
-          "emoji": "🚪",
-          "pt": "abrir"
-        },
-        {
-          "id": "tr05-02",
-          "emoji": "🔒",
-          "pt": "fechar"
-        },
-        {
-          "id": "tr05-03",
-          "emoji": "🪑",
-          "pt": "sentar"
-        },
-        {
-          "id": "tr05-04",
-          "emoji": "👕",
-          "pt": "vestir"
-        },
-        {
-          "id": "tr05-05",
-          "emoji": "🧽",
-          "pt": "limpar"
-        },
-        {
-          "id": "tr05-06",
-          "emoji": "🧹",
-          "pt": "varrer"
-        },
-        {
-          "id": "tr05-07",
-          "emoji": "🧼",
-          "pt": "lavar"
-        },
-        {
-          "id": "tr05-08",
-          "emoji": "🌬️",
-          "pt": "secar"
-        },
-        {
-          "id": "tr05-09",
-          "emoji": "🧺",
-          "pt": "dobrar"
-        },
-        {
-          "id": "tr05-10",
-          "emoji": "🪝",
-          "pt": "pendurar"
-        }
-      ]
+     "id": "tr01-05",
+     "emoji": "🧩",
+     "pt": "como?"
     },
     {
-      "phase": 6,
-      "globalPhase": 66,
-      "chapter": 7,
-      "level": "A1",
-      "theme": "Verbos de lazer",
-      "concepts": [
-        {
-          "id": "tr06-01",
-          "emoji": "🎮",
-          "pt": "jogar"
-        },
-        {
-          "id": "tr06-02",
-          "emoji": "🎤",
-          "pt": "cantar"
-        },
-        {
-          "id": "tr06-03",
-          "emoji": "✏️",
-          "pt": "desenhar"
-        },
-        {
-          "id": "tr06-04",
-          "emoji": "🎨",
-          "pt": "pintar"
-        },
-        {
-          "id": "tr06-05",
-          "emoji": "📺",
-          "pt": "assistir"
-        },
-        {
-          "id": "tr06-06",
-          "emoji": "🚶",
-          "pt": "passear"
-        },
-        {
-          "id": "tr06-07",
-          "emoji": "🧳",
-          "pt": "viajar"
-        },
-        {
-          "id": "tr06-08",
-          "emoji": "😂",
-          "pt": "rir"
-        },
-        {
-          "id": "tr06-09",
-          "emoji": "😢",
-          "pt": "chorar"
-        },
-        {
-          "id": "tr06-10",
-          "emoji": "🤗",
-          "pt": "abraçar"
-        }
-      ]
+     "id": "tr01-06",
+     "emoji": "👉",
+     "pt": "qual?"
     },
     {
-      "phase": 7,
-      "globalPhase": 67,
-      "chapter": 7,
-      "level": "A1",
-      "theme": "Dar, achar e perder",
-      "concepts": [
-        {
-          "id": "tr07-01",
-          "emoji": "🛍️",
-          "pt": "trazer"
-        },
-        {
-          "id": "tr07-02",
-          "emoji": "🏃",
-          "pt": "levar"
-        },
-        {
-          "id": "tr07-03",
-          "emoji": "📥",
-          "pt": "receber"
-        },
-        {
-          "id": "tr07-04",
-          "emoji": "📤",
-          "pt": "enviar"
-        },
-        {
-          "id": "tr07-05",
-          "emoji": "🤲",
-          "pt": "emprestar"
-        },
-        {
-          "id": "tr07-06",
-          "emoji": "↩️",
-          "pt": "devolver"
-        },
-        {
-          "id": "tr07-07",
-          "emoji": "🔎",
-          "pt": "procurar"
-        },
-        {
-          "id": "tr07-08",
-          "emoji": "🎯",
-          "pt": "encontrar"
-        },
-        {
-          "id": "tr07-09",
-          "emoji": "😟",
-          "pt": "perder"
-        },
-        {
-          "id": "tr07-10",
-          "emoji": "🙈",
-          "pt": "esconder"
-        }
-      ]
+     "id": "tr01-07",
+     "emoji": "💬",
+     "pt": "o quê?"
     },
     {
-      "phase": 8,
-      "globalPhase": 68,
-      "chapter": 7,
-      "level": "A1",
-      "theme": "Começar e terminar",
-      "concepts": [
-        {
-          "id": "tr08-01",
-          "emoji": "🚦",
-          "pt": "começar"
-        },
-        {
-          "id": "tr08-02",
-          "emoji": "🏁",
-          "pt": "terminar"
-        },
-        {
-          "id": "tr08-03",
-          "emoji": "✋",
-          "pt": "parar"
-        },
-        {
-          "id": "tr08-04",
-          "emoji": "⏩",
-          "pt": "continuar"
-        },
-        {
-          "id": "tr08-05",
-          "emoji": "🛬",
-          "pt": "chegar"
-        },
-        {
-          "id": "tr08-06",
-          "emoji": "🚪",
-          "pt": "sair"
-        },
-        {
-          "id": "tr08-07",
-          "emoji": "🏠",
-          "pt": "voltar"
-        },
-        {
-          "id": "tr08-08",
-          "emoji": "🚶‍♂️",
-          "pt": "entrar"
-        },
-        {
-          "id": "tr08-09",
-          "emoji": "🏡",
-          "pt": "morar"
-        },
-        {
-          "id": "tr08-10",
-          "emoji": "🏘️",
-          "pt": "visitar"
-        }
-      ]
+     "id": "tr01-08",
+     "emoji": "🛫",
+     "pt": "de onde?"
     },
     {
-      "phase": 9,
-      "globalPhase": 69,
-      "chapter": 7,
-      "level": "A1",
-      "theme": "Aprender e trabalhar",
-      "concepts": [
-        {
-          "id": "tr09-01",
-          "emoji": "🎓",
-          "pt": "aprender"
-        },
-        {
-          "id": "tr09-02",
-          "emoji": "👩‍🏫",
-          "pt": "ensinar"
-        },
-        {
-          "id": "tr09-03",
-          "emoji": "💼",
-          "pt": "trabalhar"
-        },
-        {
-          "id": "tr09-04",
-          "emoji": "🔁",
-          "pt": "praticar"
-        },
-        {
-          "id": "tr09-05",
-          "emoji": "💡",
-          "pt": "explicar"
-        },
-        {
-          "id": "tr09-06",
-          "emoji": "✅",
-          "pt": "corrigir"
-        },
-        {
-          "id": "tr09-07",
-          "emoji": "📄",
-          "pt": "copiar"
-        },
-        {
-          "id": "tr09-08",
-          "emoji": "☝️",
-          "pt": "mostrar"
-        },
-        {
-          "id": "tr09-09",
-          "emoji": "⚖️",
-          "pt": "decidir"
-        },
-        {
-          "id": "tr09-10",
-          "emoji": "🤝",
-          "pt": "ajudar"
-        }
-      ]
+     "id": "tr01-09",
+     "emoji": "🧭",
+     "pt": "para onde?"
     },
     {
-      "phase": 10,
-      "globalPhase": 70,
-      "chapter": 7,
-      "level": "A1",
-      "theme": "Verbos do corpo",
-      "concepts": [
-        {
-          "id": "tr10-01",
-          "emoji": "😮‍💨",
-          "pt": "respirar"
-        },
-        {
-          "id": "tr10-02",
-          "emoji": "👃",
-          "pt": "cheirar"
-        },
-        {
-          "id": "tr10-03",
-          "emoji": "🤧",
-          "pt": "espirrar"
-        },
-        {
-          "id": "tr10-04",
-          "emoji": "😷",
-          "pt": "tossir"
-        },
-        {
-          "id": "tr10-05",
-          "emoji": "🥱",
-          "pt": "bocejar"
-        },
-        {
-          "id": "tr10-06",
-          "emoji": "😉",
-          "pt": "piscar"
-        },
-        {
-          "id": "tr10-07",
-          "emoji": "😋",
-          "pt": "mastigar"
-        },
-        {
-          "id": "tr10-08",
-          "emoji": "🫗",
-          "pt": "engolir"
-        },
-        {
-          "id": "tr10-09",
-          "emoji": "👈",
-          "pt": "apontar"
-        },
-        {
-          "id": "tr10-10",
-          "emoji": "👏",
-          "pt": "aplaudir"
-        }
-      ]
-    },
-    {
-      "phase": 11,
-      "globalPhase": 71,
-      "chapter": 8,
-      "level": "A2",
-      "theme": "Verbos de compras",
-      "concepts": [
-        {
-          "id": "tr11-01",
-          "emoji": "🛒",
-          "pt": "comprar"
-        },
-        {
-          "id": "tr11-02",
-          "emoji": "🏷️",
-          "pt": "vender"
-        },
-        {
-          "id": "tr11-03",
-          "emoji": "💳",
-          "pt": "pagar"
-        },
-        {
-          "id": "tr11-04",
-          "emoji": "💸",
-          "pt": "gastar"
-        },
-        {
-          "id": "tr11-05",
-          "emoji": "🐷",
-          "pt": "economizar"
-        },
-        {
-          "id": "tr11-06",
-          "emoji": "🔄",
-          "pt": "trocar"
-        },
-        {
-          "id": "tr11-07",
-          "emoji": "👗",
-          "pt": "experimentar"
-        },
-        {
-          "id": "tr11-08",
-          "emoji": "🙋‍♂️",
-          "pt": "pedir"
-        },
-        {
-          "id": "tr11-09",
-          "emoji": "📅",
-          "pt": "reservar"
-        },
-        {
-          "id": "tr11-10",
-          "emoji": "🎀",
-          "pt": "embrulhar"
-        }
-      ]
-    },
-    {
-      "phase": 12,
-      "globalPhase": 72,
-      "chapter": 8,
-      "level": "A2",
-      "theme": "Verbos sociais",
-      "concepts": [
-        {
-          "id": "tr12-01",
-          "emoji": "🤝",
-          "pt": "conhecer"
-        },
-        {
-          "id": "tr12-02",
-          "emoji": "💌",
-          "pt": "convidar"
-        },
-        {
-          "id": "tr12-03",
-          "emoji": "👋",
-          "pt": "cumprimentar"
-        },
-        {
-          "id": "tr12-04",
-          "emoji": "🙏",
-          "pt": "agradecer"
-        },
-        {
-          "id": "tr12-05",
-          "emoji": "🤞",
-          "pt": "prometer"
-        },
-        {
-          "id": "tr12-06",
-          "emoji": "👍",
-          "pt": "concordar"
-        },
-        {
-          "id": "tr12-07",
-          "emoji": "📢",
-          "pt": "avisar"
-        },
-        {
-          "id": "tr12-08",
-          "emoji": "🧑‍💼",
-          "pt": "apresentar"
-        },
-        {
-          "id": "tr12-09",
-          "emoji": "🌟",
-          "pt": "elogiar"
-        },
-        {
-          "id": "tr12-10",
-          "emoji": "🗣️",
-          "pt": "convencer"
-        }
-      ]
-    },
-    {
-      "phase": 13,
-      "globalPhase": 73,
-      "chapter": 8,
-      "level": "A2",
-      "theme": "Verbos de fim de semana",
-      "concepts": [
-        {
-          "id": "tr13-01",
-          "emoji": "⛺",
-          "pt": "acampar"
-        },
-        {
-          "id": "tr13-02",
-          "emoji": "🎣",
-          "pt": "pescar"
-        },
-        {
-          "id": "tr13-03",
-          "emoji": "🐎",
-          "pt": "cavalgar"
-        },
-        {
-          "id": "tr13-04",
-          "emoji": "🛼",
-          "pt": "patinar"
-        },
-        {
-          "id": "tr13-05",
-          "emoji": "🤿",
-          "pt": "mergulhar"
-        },
-        {
-          "id": "tr13-06",
-          "emoji": "🚴",
-          "pt": "pedalar"
-        },
-        {
-          "id": "tr13-07",
-          "emoji": "📷",
-          "pt": "fotografar"
-        },
-        {
-          "id": "tr13-08",
-          "emoji": "🗃️",
-          "pt": "colecionar"
-        },
-        {
-          "id": "tr13-09",
-          "emoji": "🌱",
-          "pt": "plantar"
-        },
-        {
-          "id": "tr13-10",
-          "emoji": "🚿",
-          "pt": "regar"
-        }
-      ]
-    },
-    {
-      "phase": 14,
-      "globalPhase": 74,
-      "chapter": 8,
-      "level": "A2",
-      "theme": "Opinião e sentimento",
-      "concepts": [
-        {
-          "id": "tr14-01",
-          "emoji": "🥇",
-          "pt": "preferir"
-        },
-        {
-          "id": "tr14-02",
-          "emoji": "🌈",
-          "pt": "imaginar"
-        },
-        {
-          "id": "tr14-03",
-          "emoji": "🤨",
-          "pt": "duvidar"
-        },
-        {
-          "id": "tr14-04",
-          "emoji": "🙌",
-          "pt": "acreditar"
-        },
-        {
-          "id": "tr14-05",
-          "emoji": "😍",
-          "pt": "adorar"
-        },
-        {
-          "id": "tr14-06",
-          "emoji": "😒",
-          "pt": "detestar"
-        },
-        {
-          "id": "tr14-07",
-          "emoji": "💓",
-          "pt": "sentir"
-        },
-        {
-          "id": "tr14-08",
-          "emoji": "👀",
-          "pt": "notar"
-        },
-        {
-          "id": "tr14-09",
-          "emoji": "🕊️",
-          "pt": "perdoar"
-        },
-        {
-          "id": "tr14-10",
-          "emoji": "😲",
-          "pt": "surpreender"
-        }
-      ]
-    },
-    {
-      "phase": 15,
-      "globalPhase": 75,
-      "chapter": 8,
-      "level": "A2",
-      "theme": "No restaurante",
-      "concepts": [
-        {
-          "id": "tr15-01",
-          "emoji": "🪑",
-          "pt": "Uma mesa para dois"
-        },
-        {
-          "id": "tr15-02",
-          "emoji": "📋",
-          "pt": "O cardápio, por favor"
-        },
-        {
-          "id": "tr15-03",
-          "emoji": "🍲",
-          "pt": "Qual é o prato do dia?"
-        },
-        {
-          "id": "tr15-04",
-          "emoji": "🚫",
-          "pt": "Sem cebola, por favor"
-        },
-        {
-          "id": "tr15-05",
-          "emoji": "😋",
-          "pt": "Está delicioso!"
-        },
-        {
-          "id": "tr15-06",
-          "emoji": "💧",
-          "pt": "Mais água, por favor"
-        },
-        {
-          "id": "tr15-07",
-          "emoji": "🥗",
-          "pt": "Eu sou vegetariano"
-        },
-        {
-          "id": "tr15-08",
-          "emoji": "🥡",
-          "pt": "Para viagem, por favor"
-        },
-        {
-          "id": "tr15-09",
-          "emoji": "🧊",
-          "pt": "A comida está fria"
-        },
-        {
-          "id": "tr15-10",
-          "emoji": "🍰",
-          "pt": "Quero a sobremesa"
-        }
-      ]
-    },
-    {
-      "phase": 16,
-      "globalPhase": 76,
-      "chapter": 8,
-      "level": "A2",
-      "theme": "No hotel",
-      "concepts": [
-        {
-          "id": "tr16-01",
-          "emoji": "📝",
-          "pt": "Tenho uma reserva"
-        },
-        {
-          "id": "tr16-02",
-          "emoji": "🛏️",
-          "pt": "Um quarto para duas noites"
-        },
-        {
-          "id": "tr16-03",
-          "emoji": "🛁",
-          "pt": "Preciso de uma toalha"
-        },
-        {
-          "id": "tr16-04",
-          "emoji": "🚿",
-          "pt": "O chuveiro não funciona"
-        },
-        {
-          "id": "tr16-05",
-          "emoji": "📶",
-          "pt": "Qual a senha do wi-fi?"
-        },
-        {
-          "id": "tr16-06",
-          "emoji": "🥐",
-          "pt": "Tem café da manhã?"
-        },
-        {
-          "id": "tr16-07",
-          "emoji": "🔑",
-          "pt": "A chave, por favor"
-        },
-        {
-          "id": "tr16-08",
-          "emoji": "🧳",
-          "pt": "Posso deixar a mala aqui?"
-        },
-        {
-          "id": "tr16-09",
-          "emoji": "🛗",
-          "pt": "Tem elevador?"
-        },
-        {
-          "id": "tr16-10",
-          "emoji": "⏰",
-          "pt": "Pode me acordar às sete?"
-        }
-      ]
-    },
-    {
-      "phase": 17,
-      "globalPhase": 77,
-      "chapter": 8,
-      "level": "A2",
-      "theme": "Ao telefone",
-      "concepts": [
-        {
-          "id": "tr17-01",
-          "emoji": "📞",
-          "pt": "Alô?"
-        },
-        {
-          "id": "tr17-02",
-          "emoji": "❔",
-          "pt": "Quem fala?"
-        },
-        {
-          "id": "tr17-03",
-          "emoji": "⏳",
-          "pt": "Um momento, por favor"
-        },
-        {
-          "id": "tr17-04",
-          "emoji": "🔜",
-          "pt": "Ligo mais tarde"
-        },
-        {
-          "id": "tr17-05",
-          "emoji": "📝",
-          "pt": "Deixe um recado"
-        },
-        {
-          "id": "tr17-06",
-          "emoji": "🔢",
-          "pt": "Número errado"
-        },
-        {
-          "id": "tr17-07",
-          "emoji": "📵",
-          "pt": "A linha está ocupada"
-        },
-        {
-          "id": "tr17-08",
-          "emoji": "🪫",
-          "pt": "Estou sem bateria"
-        },
-        {
-          "id": "tr17-09",
-          "emoji": "📉",
-          "pt": "Estou sem sinal"
-        },
-        {
-          "id": "tr17-10",
-          "emoji": "☎️",
-          "pt": "Você pode me ligar?"
-        }
-      ]
-    },
-    {
-      "phase": 18,
-      "globalPhase": 78,
-      "chapter": 8,
-      "level": "A2",
-      "theme": "Nas compras",
-      "concepts": [
-        {
-          "id": "tr18-01",
-          "emoji": "📏",
-          "pt": "Tem um tamanho maior?"
-        },
-        {
-          "id": "tr18-02",
-          "emoji": "💰",
-          "pt": "É muito caro"
-        },
-        {
-          "id": "tr18-03",
-          "emoji": "🏷️",
-          "pt": "Tem desconto?"
-        },
-        {
-          "id": "tr18-04",
-          "emoji": "👀",
-          "pt": "Só estou olhando"
-        },
-        {
-          "id": "tr18-05",
-          "emoji": "🛍️",
-          "pt": "Vou levar este"
-        },
-        {
-          "id": "tr18-06",
-          "emoji": "💳",
-          "pt": "Aceita cartão?"
-        },
-        {
-          "id": "tr18-07",
-          "emoji": "🎨",
-          "pt": "Tem em outra cor?"
-        },
-        {
-          "id": "tr18-08",
-          "emoji": "👜",
-          "pt": "Preciso de uma sacola"
-        },
-        {
-          "id": "tr18-09",
-          "emoji": "🎁",
-          "pt": "É para presente"
-        },
-        {
-          "id": "tr18-10",
-          "emoji": "🧾",
-          "pt": "Onde fica o caixa?"
-        }
-      ]
-    },
-    {
-      "phase": 19,
-      "globalPhase": 79,
-      "chapter": 8,
-      "level": "A2",
-      "theme": "Direções e trânsito",
-      "concepts": [
-        {
-          "id": "tr19-01",
-          "emoji": "↰",
-          "pt": "Vire à esquerda"
-        },
-        {
-          "id": "tr19-02",
-          "emoji": "↱",
-          "pt": "Vire à direita"
-        },
-        {
-          "id": "tr19-03",
-          "emoji": "⬆️",
-          "pt": "Siga em frente"
-        },
-        {
-          "id": "tr19-04",
-          "emoji": "🚸",
-          "pt": "Atravesse a rua"
-        },
-        {
-          "id": "tr19-05",
-          "emoji": "🗺️",
-          "pt": "Mostre no mapa"
-        },
-        {
-          "id": "tr19-06",
-          "emoji": "🚉",
-          "pt": "Onde fica a estação?"
-        },
-        {
-          "id": "tr19-07",
-          "emoji": "🛣️",
-          "pt": "Fica longe daqui?"
-        },
-        {
-          "id": "tr19-08",
-          "emoji": "⌛",
-          "pt": "Quanto tempo leva?"
-        },
-        {
-          "id": "tr19-09",
-          "emoji": "🏃‍♂️",
-          "pt": "Estou atrasado"
-        },
-        {
-          "id": "tr19-10",
-          "emoji": "🚌",
-          "pt": "Perdi o ônibus"
-        }
-      ]
-    },
-    {
-      "phase": 20,
-      "globalPhase": 80,
-      "chapter": 8,
-      "level": "A2",
-      "theme": "Frases do dia a dia",
-      "concepts": [
-        {
-          "id": "tr20-01",
-          "emoji": "🕐",
-          "pt": "Que horas são?"
-        },
-        {
-          "id": "tr20-02",
-          "emoji": "📅",
-          "pt": "Que dia é hoje?"
-        },
-        {
-          "id": "tr20-03",
-          "emoji": "🌧️",
-          "pt": "Está chovendo"
-        },
-        {
-          "id": "tr20-04",
-          "emoji": "🥵",
-          "pt": "Faz calor"
-        },
-        {
-          "id": "tr20-05",
-          "emoji": "⏱️",
-          "pt": "Estou com pressa"
-        },
-        {
-          "id": "tr20-06",
-          "emoji": "📚",
-          "pt": "Estou ocupado"
-        },
-        {
-          "id": "tr20-07",
-          "emoji": "🏖️",
-          "pt": "Estou de férias"
-        },
-        {
-          "id": "tr20-08",
-          "emoji": "💡",
-          "pt": "Tenho uma ideia"
-        },
-        {
-          "id": "tr20-09",
-          "emoji": "🚗",
-          "pt": "Estou a caminho"
-        },
-        {
-          "id": "tr20-10",
-          "emoji": "😶",
-          "pt": "Estou sem fome"
-        }
-      ]
-    },
-    {
-      "phase": 21,
-      "globalPhase": 81,
-      "chapter": 9,
-      "level": "B1",
-      "theme": "Conectivos",
-      "concepts": [
-        {
-          "id": "tr21-01",
-          "emoji": "💭",
-          "pt": "porque"
-        },
-        {
-          "id": "tr21-02",
-          "emoji": "↔️",
-          "pt": "mas"
-        },
-        {
-          "id": "tr21-03",
-          "emoji": "➡️",
-          "pt": "então"
-        },
-        {
-          "id": "tr21-04",
-          "emoji": "🤷",
-          "pt": "embora"
-        },
-        {
-          "id": "tr21-05",
-          "emoji": "⏳",
-          "pt": "enquanto"
-        },
-        {
-          "id": "tr21-06",
-          "emoji": "🟰",
-          "pt": "ou seja"
-        },
-        {
-          "id": "tr21-07",
-          "emoji": "➕",
-          "pt": "além disso"
-        },
-        {
-          "id": "tr21-08",
-          "emoji": "🔄",
-          "pt": "mesmo assim"
-        },
-        {
-          "id": "tr21-09",
-          "emoji": "🔀",
-          "pt": "caso contrário"
-        },
-        {
-          "id": "tr21-10",
-          "emoji": "⚡",
-          "pt": "assim que"
-        }
-      ]
-    },
-    {
-      "phase": 22,
-      "globalPhase": 82,
-      "chapter": 9,
-      "level": "B1",
-      "theme": "Advérbios de tempo",
-      "concepts": [
-        {
-          "id": "tr22-01",
-          "emoji": "♾️",
-          "pt": "sempre"
-        },
-        {
-          "id": "tr22-02",
-          "emoji": "🚫",
-          "pt": "nunca"
-        },
-        {
-          "id": "tr22-03",
-          "emoji": "🌓",
-          "pt": "às vezes"
-        },
-        {
-          "id": "tr22-04",
-          "emoji": "🤏",
-          "pt": "quase"
-        },
-        {
-          "id": "tr22-05",
-          "emoji": "⏸️",
-          "pt": "ainda"
-        },
-        {
-          "id": "tr22-06",
-          "emoji": "✅",
-          "pt": "já"
-        },
-        {
-          "id": "tr22-07",
-          "emoji": "🔜",
-          "pt": "em breve"
-        },
-        {
-          "id": "tr22-08",
-          "emoji": "🌅",
-          "pt": "cedo"
-        },
-        {
-          "id": "tr22-09",
-          "emoji": "📆",
-          "pt": "geralmente"
-        },
-        {
-          "id": "tr22-10",
-          "emoji": "🦄",
-          "pt": "raramente"
-        }
-      ]
-    },
-    {
-      "phase": 23,
-      "globalPhase": 83,
-      "chapter": 9,
-      "level": "B1",
-      "theme": "Dar opinião",
-      "concepts": [
-        {
-          "id": "tr23-01",
-          "emoji": "💬",
-          "pt": "Na minha opinião"
-        },
-        {
-          "id": "tr23-02",
-          "emoji": "⚖️",
-          "pt": "Isso depende"
-        },
-        {
-          "id": "tr23-03",
-          "emoji": "🤔",
-          "pt": "Não tenho certeza"
-        },
-        {
-          "id": "tr23-04",
-          "emoji": "🎯",
-          "pt": "Você tem razão"
-        },
-        {
-          "id": "tr23-05",
-          "emoji": "🙊",
-          "pt": "Eu me enganei"
-        },
-        {
-          "id": "tr23-06",
-          "emoji": "🙂",
-          "pt": "Não é para tanto"
-        },
-        {
-          "id": "tr23-07",
-          "emoji": "😌",
-          "pt": "Fique tranquilo"
-        },
-        {
-          "id": "tr23-08",
-          "emoji": "👍",
-          "pt": "Eu acho que sim"
-        },
-        {
-          "id": "tr23-09",
-          "emoji": "👎",
-          "pt": "Acho que não"
-        },
-        {
-          "id": "tr23-10",
-          "emoji": "🤷‍♂️",
-          "pt": "Não me importo"
-        }
-      ]
-    },
-    {
-      "phase": 24,
-      "globalPhase": 84,
-      "chapter": 9,
-      "level": "B1",
-      "theme": "Desculpas e favores",
-      "concepts": [
-        {
-          "id": "tr24-01",
-          "emoji": "🆘",
-          "pt": "Pode me ajudar?"
-        },
-        {
-          "id": "tr24-02",
-          "emoji": "🙋",
-          "pt": "Posso te perguntar algo?"
-        },
-        {
-          "id": "tr24-03",
-          "emoji": "😔",
-          "pt": "A culpa é minha"
-        },
-        {
-          "id": "tr24-04",
-          "emoji": "🙏",
-          "pt": "Foi sem querer"
-        },
-        {
-          "id": "tr24-05",
-          "emoji": "🤦",
-          "pt": "Eu esqueci"
-        },
-        {
-          "id": "tr24-06",
-          "emoji": "⚠️",
-          "pt": "Estou com um problema"
-        },
-        {
-          "id": "tr24-07",
-          "emoji": "😵",
-          "pt": "Não sei o que fazer"
-        },
-        {
-          "id": "tr24-08",
-          "emoji": "🛠️",
-          "pt": "Eu cuido disso"
-        },
-        {
-          "id": "tr24-09",
-          "emoji": "💖",
-          "pt": "Obrigado por tudo"
-        },
-        {
-          "id": "tr24-10",
-          "emoji": "🌤️",
-          "pt": "Tudo vai dar certo"
-        }
-      ]
-    },
-    {
-      "phase": 25,
-      "globalPhase": 85,
-      "chapter": 9,
-      "level": "B1",
-      "theme": "Na consulta",
-      "concepts": [
-        {
-          "id": "tr25-01",
-          "emoji": "🤕",
-          "pt": "Estou com dor de cabeça"
-        },
-        {
-          "id": "tr25-02",
-          "emoji": "🤢",
-          "pt": "Estou com dor de barriga"
-        },
-        {
-          "id": "tr25-03",
-          "emoji": "👆",
-          "pt": "Dói aqui"
-        },
-        {
-          "id": "tr25-04",
-          "emoji": "🥴",
-          "pt": "Estou me sentindo mal"
-        },
-        {
-          "id": "tr25-05",
-          "emoji": "🩺",
-          "pt": "Preciso de um médico"
-        },
-        {
-          "id": "tr25-06",
-          "emoji": "🥜",
-          "pt": "Sou alérgico a amendoim"
-        },
-        {
-          "id": "tr25-07",
-          "emoji": "📆",
-          "pt": "Tenho uma consulta"
-        },
-        {
-          "id": "tr25-08",
-          "emoji": "🤧",
-          "pt": "Estou resfriado"
-        },
-        {
-          "id": "tr25-09",
-          "emoji": "🛌",
-          "pt": "Preciso descansar"
-        },
-        {
-          "id": "tr25-10",
-          "emoji": "😊",
-          "pt": "Já estou melhor"
-        }
-      ]
-    },
-    {
-      "phase": 26,
-      "globalPhase": 86,
-      "chapter": 9,
-      "level": "B1",
-      "theme": "No aeroporto",
-      "concepts": [
-        {
-          "id": "tr26-01",
-          "emoji": "🛫",
-          "pt": "Qual é o meu portão?"
-        },
-        {
-          "id": "tr26-02",
-          "emoji": "❌",
-          "pt": "Meu voo foi cancelado"
-        },
-        {
-          "id": "tr26-03",
-          "emoji": "🕓",
-          "pt": "O voo está atrasado"
-        },
-        {
-          "id": "tr26-04",
-          "emoji": "🧳",
-          "pt": "Perdi minha bagagem"
-        },
-        {
-          "id": "tr26-05",
-          "emoji": "🛄",
-          "pt": "Onde pego a bagagem?"
-        },
-        {
-          "id": "tr26-06",
-          "emoji": "🛃",
-          "pt": "Tenho algo a declarar"
-        },
-        {
-          "id": "tr26-07",
-          "emoji": "📸",
-          "pt": "Estou aqui a passeio"
-        },
-        {
-          "id": "tr26-08",
-          "emoji": "🪟",
-          "pt": "Prefiro a janela"
-        },
-        {
-          "id": "tr26-09",
-          "emoji": "💱",
-          "pt": "Preciso trocar dinheiro"
-        },
-        {
-          "id": "tr26-10",
-          "emoji": "🛂",
-          "pt": "Aqui está meu passaporte"
-        }
-      ]
-    },
-    {
-      "phase": 27,
-      "globalPhase": 87,
-      "chapter": 9,
-      "level": "B1",
-      "theme": "Ditos populares",
-      "concepts": [
-        {
-          "id": "tr27-01",
-          "emoji": "🧊",
-          "pt": "Quebrar o gelo"
-        },
-        {
-          "id": "tr27-02",
-          "emoji": "💸",
-          "pt": "Custar os olhos da cara"
-        },
-        {
-          "id": "tr27-03",
-          "emoji": "😴",
-          "pt": "Dormir como uma pedra"
-        },
-        {
-          "id": "tr27-04",
-          "emoji": "🗣️",
-          "pt": "Falar pelos cotovelos"
-        },
-        {
-          "id": "tr27-05",
-          "emoji": "☁️",
-          "pt": "Estar nas nuvens"
-        },
-        {
-          "id": "tr27-06",
-          "emoji": "🤤",
-          "pt": "Dar água na boca"
-        },
-        {
-          "id": "tr27-07",
-          "emoji": "🎩",
-          "pt": "Tirar o chapéu"
-        },
-        {
-          "id": "tr27-08",
-          "emoji": "👁️",
-          "pt": "Ficar de olho"
-        },
-        {
-          "id": "tr27-09",
-          "emoji": "🌧️",
-          "pt": "Chover canivete"
-        },
-        {
-          "id": "tr27-10",
-          "emoji": "🧑‍🍳",
-          "pt": "Pôr a mão na massa"
-        }
-      ]
-    },
-    {
-      "phase": 28,
-      "globalPhase": 88,
-      "chapter": 9,
-      "level": "B1",
-      "theme": "Gírias leves",
-      "concepts": [
-        {
-          "id": "tr28-01",
-          "emoji": "😮",
-          "pt": "Nossa!"
-        },
-        {
-          "id": "tr28-02",
-          "emoji": "🏃‍♀️",
-          "pt": "Bora!"
-        },
-        {
-          "id": "tr28-03",
-          "emoji": "😎",
-          "pt": "Beleza!"
-        },
-        {
-          "id": "tr28-04",
-          "emoji": "🛋️",
-          "pt": "Tô com preguiça"
-        },
-        {
-          "id": "tr28-05",
-          "emoji": "🙅",
-          "pt": "Tô fora"
-        },
-        {
-          "id": "tr28-06",
-          "emoji": "💡",
-          "pt": "Sacou?"
-        },
-        {
-          "id": "tr28-07",
-          "emoji": "🧘",
-          "pt": "Fica frio"
-        },
-        {
-          "id": "tr28-08",
-          "emoji": "✋",
-          "pt": "Dá um tempo!"
-        },
-        {
-          "id": "tr28-09",
-          "emoji": "😒",
-          "pt": "Que chato!"
-        },
-        {
-          "id": "tr28-10",
-          "emoji": "🍀",
-          "pt": "Que sorte!"
-        }
-      ]
-    },
-    {
-      "phase": 29,
-      "globalPhase": 89,
-      "chapter": 9,
-      "level": "B1",
-      "theme": "Provérbios",
-      "concepts": [
-        {
-          "id": "tr29-01",
-          "emoji": "⏰",
-          "pt": "Mais vale tarde do que nunca"
-        },
-        {
-          "id": "tr29-02",
-          "emoji": "😄",
-          "pt": "Quem ri por último ri melhor"
-        },
-        {
-          "id": "tr29-03",
-          "emoji": "🏋️",
-          "pt": "A prática leva à perfeição"
-        },
-        {
-          "id": "tr29-04",
-          "emoji": "🐕",
-          "pt": "Cão que ladra não morde"
-        },
-        {
-          "id": "tr29-05",
-          "emoji": "🤝",
-          "pt": "Uma mão lava a outra"
-        },
-        {
-          "id": "tr29-06",
-          "emoji": "💪",
-          "pt": "A união faz a força"
-        },
-        {
-          "id": "tr29-07",
-          "emoji": "🎲",
-          "pt": "Quem não arrisca não ganha"
-        },
-        {
-          "id": "tr29-08",
-          "emoji": "🐢",
-          "pt": "Devagar se vai ao longe"
-        },
-        {
-          "id": "tr29-09",
-          "emoji": "⌚",
-          "pt": "O tempo é dinheiro"
-        },
-        {
-          "id": "tr29-10",
-          "emoji": "😂",
-          "pt": "Rir é o melhor remédio"
-        }
-      ]
-    },
-    {
-      "phase": 30,
-      "globalPhase": 90,
-      "chapter": 9,
-      "level": "B1",
-      "theme": "Expressões figuradas",
-      "concepts": [
-        {
-          "id": "tr30-01",
-          "emoji": "😶",
-          "pt": "Ficar sem palavras"
-        },
-        {
-          "id": "tr30-02",
-          "emoji": "🧗",
-          "pt": "Dar a volta por cima"
-        },
-        {
-          "id": "tr30-03",
-          "emoji": "🧵",
-          "pt": "Estar por um fio"
-        },
-        {
-          "id": "tr30-04",
-          "emoji": "🔁",
-          "pt": "Mudar de ideia"
-        },
-        {
-          "id": "tr30-05",
-          "emoji": "🪢",
-          "pt": "Perder o fio da meada"
-        },
-        {
-          "id": "tr30-06",
-          "emoji": "👅",
-          "pt": "Na ponta da língua"
-        },
-        {
-          "id": "tr30-07",
-          "emoji": "🚣",
-          "pt": "No mesmo barco"
-        },
-        {
-          "id": "tr30-08",
-          "emoji": "🤯",
-          "pt": "Quebrar a cabeça"
-        },
-        {
-          "id": "tr30-09",
-          "emoji": "🏡",
-          "pt": "Sentir-se em casa"
-        },
-        {
-          "id": "tr30-10",
-          "emoji": "🌞",
-          "pt": "Olhar pelo lado bom"
-        }
-      ]
+     "id": "tr01-10",
+     "emoji": "👥",
+     "pt": "com quem?"
     }
-  ]
+   ]
+  },
+  {
+   "phase": 2,
+   "globalPhase": 102,
+   "chapter": 11,
+   "level": "A1",
+   "theme": "Pronomes e lugares",
+   "concepts": [
+    {
+     "id": "tr02-01",
+     "emoji": "🙋",
+     "pt": "eu"
+    },
+    {
+     "id": "tr02-02",
+     "emoji": "🫵",
+     "pt": "você"
+    },
+    {
+     "id": "tr02-03",
+     "emoji": "👨",
+     "pt": "ele"
+    },
+    {
+     "id": "tr02-04",
+     "emoji": "👩",
+     "pt": "ela"
+    },
+    {
+     "id": "tr02-05",
+     "emoji": "🤝",
+     "pt": "nós"
+    },
+    {
+     "id": "tr02-06",
+     "emoji": "🧑‍🤝‍🧑",
+     "pt": "eles"
+    },
+    {
+     "id": "tr02-07",
+     "emoji": "👇",
+     "pt": "isto"
+    },
+    {
+     "id": "tr02-08",
+     "emoji": "☝️",
+     "pt": "aquilo"
+    },
+    {
+     "id": "tr02-09",
+     "emoji": "📌",
+     "pt": "aqui"
+    },
+    {
+     "id": "tr02-10",
+     "emoji": "🔭",
+     "pt": "lá"
+    }
+   ]
+  },
+  {
+   "phase": 3,
+   "globalPhase": 103,
+   "chapter": 11,
+   "level": "A1",
+   "theme": "Verbos essenciais",
+   "concepts": [
+    {
+     "id": "tr03-01",
+     "emoji": "🎒",
+     "pt": "ter"
+    },
+    {
+     "id": "tr03-02",
+     "emoji": "🙏",
+     "pt": "querer"
+    },
+    {
+     "id": "tr03-03",
+     "emoji": "💪",
+     "pt": "poder"
+    },
+    {
+     "id": "tr03-04",
+     "emoji": "🆘",
+     "pt": "precisar"
+    },
+    {
+     "id": "tr03-05",
+     "emoji": "🧠",
+     "pt": "saber"
+    },
+    {
+     "id": "tr03-06",
+     "emoji": "👍",
+     "pt": "gostar"
+    },
+    {
+     "id": "tr03-07",
+     "emoji": "🛠️",
+     "pt": "fazer"
+    },
+    {
+     "id": "tr03-08",
+     "emoji": "➡️",
+     "pt": "ir"
+    },
+    {
+     "id": "tr03-09",
+     "emoji": "⬅️",
+     "pt": "vir"
+    },
+    {
+     "id": "tr03-10",
+     "emoji": "🎁",
+     "pt": "dar"
+    }
+   ]
+  },
+  {
+   "phase": 4,
+   "globalPhase": 104,
+   "chapter": 11,
+   "level": "A1",
+   "theme": "Verbos de cozinha",
+   "concepts": [
+    {
+     "id": "tr04-01",
+     "emoji": "🍽️",
+     "pt": "comer"
+    },
+    {
+     "id": "tr04-02",
+     "emoji": "🥤",
+     "pt": "beber"
+    },
+    {
+     "id": "tr04-03",
+     "emoji": "👩‍🍳",
+     "pt": "cozinhar"
+    },
+    {
+     "id": "tr04-04",
+     "emoji": "🔪",
+     "pt": "cortar"
+    },
+    {
+     "id": "tr04-05",
+     "emoji": "🥣",
+     "pt": "misturar"
+    },
+    {
+     "id": "tr04-06",
+     "emoji": "🥧",
+     "pt": "assar"
+    },
+    {
+     "id": "tr04-07",
+     "emoji": "🍳",
+     "pt": "fritar"
+    },
+    {
+     "id": "tr04-08",
+     "emoji": "🧊",
+     "pt": "congelar"
+    },
+    {
+     "id": "tr04-09",
+     "emoji": "♨️",
+     "pt": "ferver"
+    },
+    {
+     "id": "tr04-10",
+     "emoji": "🍊",
+     "pt": "descascar"
+    }
+   ]
+  },
+  {
+   "phase": 5,
+   "globalPhase": 105,
+   "chapter": 11,
+   "level": "A1",
+   "theme": "Verbos de casa",
+   "concepts": [
+    {
+     "id": "tr05-01",
+     "emoji": "🚪",
+     "pt": "abrir"
+    },
+    {
+     "id": "tr05-02",
+     "emoji": "🔒",
+     "pt": "fechar"
+    },
+    {
+     "id": "tr05-03",
+     "emoji": "🪑",
+     "pt": "sentar"
+    },
+    {
+     "id": "tr05-04",
+     "emoji": "👕",
+     "pt": "vestir"
+    },
+    {
+     "id": "tr05-05",
+     "emoji": "🧽",
+     "pt": "limpar"
+    },
+    {
+     "id": "tr05-06",
+     "emoji": "🧹",
+     "pt": "varrer"
+    },
+    {
+     "id": "tr05-07",
+     "emoji": "🧼",
+     "pt": "lavar"
+    },
+    {
+     "id": "tr05-08",
+     "emoji": "🌬️",
+     "pt": "secar"
+    },
+    {
+     "id": "tr05-09",
+     "emoji": "🧺",
+     "pt": "dobrar"
+    },
+    {
+     "id": "tr05-10",
+     "emoji": "🪝",
+     "pt": "pendurar"
+    }
+   ]
+  },
+  {
+   "phase": 6,
+   "globalPhase": 106,
+   "chapter": 11,
+   "level": "A1",
+   "theme": "Verbos de lazer",
+   "concepts": [
+    {
+     "id": "tr06-01",
+     "emoji": "🎮",
+     "pt": "jogar"
+    },
+    {
+     "id": "tr06-02",
+     "emoji": "🎤",
+     "pt": "cantar"
+    },
+    {
+     "id": "tr06-03",
+     "emoji": "✏️",
+     "pt": "desenhar"
+    },
+    {
+     "id": "tr06-04",
+     "emoji": "🎨",
+     "pt": "pintar"
+    },
+    {
+     "id": "tr06-05",
+     "emoji": "📺",
+     "pt": "assistir"
+    },
+    {
+     "id": "tr06-06",
+     "emoji": "🚶",
+     "pt": "passear"
+    },
+    {
+     "id": "tr06-07",
+     "emoji": "🧳",
+     "pt": "viajar"
+    },
+    {
+     "id": "tr06-08",
+     "emoji": "😂",
+     "pt": "rir"
+    },
+    {
+     "id": "tr06-09",
+     "emoji": "😢",
+     "pt": "chorar"
+    },
+    {
+     "id": "tr06-10",
+     "emoji": "🤗",
+     "pt": "abraçar"
+    }
+   ]
+  },
+  {
+   "phase": 7,
+   "globalPhase": 107,
+   "chapter": 11,
+   "level": "A1",
+   "theme": "Dar, achar e perder",
+   "concepts": [
+    {
+     "id": "tr07-01",
+     "emoji": "🛍️",
+     "pt": "trazer"
+    },
+    {
+     "id": "tr07-02",
+     "emoji": "🏃",
+     "pt": "levar"
+    },
+    {
+     "id": "tr07-03",
+     "emoji": "📥",
+     "pt": "receber"
+    },
+    {
+     "id": "tr07-04",
+     "emoji": "📤",
+     "pt": "enviar"
+    },
+    {
+     "id": "tr07-05",
+     "emoji": "🤲",
+     "pt": "emprestar"
+    },
+    {
+     "id": "tr07-06",
+     "emoji": "↩️",
+     "pt": "devolver"
+    },
+    {
+     "id": "tr07-07",
+     "emoji": "🔎",
+     "pt": "procurar"
+    },
+    {
+     "id": "tr07-08",
+     "emoji": "🎯",
+     "pt": "encontrar"
+    },
+    {
+     "id": "tr07-09",
+     "emoji": "😟",
+     "pt": "perder"
+    },
+    {
+     "id": "tr07-10",
+     "emoji": "🙈",
+     "pt": "esconder"
+    }
+   ]
+  },
+  {
+   "phase": 8,
+   "globalPhase": 108,
+   "chapter": 11,
+   "level": "A1",
+   "theme": "Começar e terminar",
+   "concepts": [
+    {
+     "id": "tr08-01",
+     "emoji": "🚦",
+     "pt": "começar"
+    },
+    {
+     "id": "tr08-02",
+     "emoji": "🏁",
+     "pt": "terminar"
+    },
+    {
+     "id": "tr08-03",
+     "emoji": "✋",
+     "pt": "parar"
+    },
+    {
+     "id": "tr08-04",
+     "emoji": "⏩",
+     "pt": "continuar"
+    },
+    {
+     "id": "tr08-05",
+     "emoji": "🛬",
+     "pt": "chegar"
+    },
+    {
+     "id": "tr08-06",
+     "emoji": "🚪",
+     "pt": "sair"
+    },
+    {
+     "id": "tr08-07",
+     "emoji": "🏠",
+     "pt": "voltar"
+    },
+    {
+     "id": "tr08-08",
+     "emoji": "🚶‍♂️",
+     "pt": "entrar"
+    },
+    {
+     "id": "tr08-09",
+     "emoji": "🏡",
+     "pt": "morar"
+    },
+    {
+     "id": "tr08-10",
+     "emoji": "🏘️",
+     "pt": "visitar"
+    }
+   ]
+  },
+  {
+   "phase": 9,
+   "globalPhase": 109,
+   "chapter": 11,
+   "level": "A1",
+   "theme": "Aprender e trabalhar",
+   "concepts": [
+    {
+     "id": "tr09-01",
+     "emoji": "🎓",
+     "pt": "aprender"
+    },
+    {
+     "id": "tr09-02",
+     "emoji": "👩‍🏫",
+     "pt": "ensinar"
+    },
+    {
+     "id": "tr09-03",
+     "emoji": "💼",
+     "pt": "trabalhar"
+    },
+    {
+     "id": "tr09-04",
+     "emoji": "🔁",
+     "pt": "praticar"
+    },
+    {
+     "id": "tr09-05",
+     "emoji": "💡",
+     "pt": "explicar"
+    },
+    {
+     "id": "tr09-06",
+     "emoji": "✅",
+     "pt": "corrigir"
+    },
+    {
+     "id": "tr09-07",
+     "emoji": "📄",
+     "pt": "copiar"
+    },
+    {
+     "id": "tr09-08",
+     "emoji": "☝️",
+     "pt": "mostrar"
+    },
+    {
+     "id": "tr09-09",
+     "emoji": "⚖️",
+     "pt": "decidir"
+    },
+    {
+     "id": "tr09-10",
+     "emoji": "🤝",
+     "pt": "ajudar"
+    }
+   ]
+  },
+  {
+   "phase": 10,
+   "globalPhase": 110,
+   "chapter": 11,
+   "level": "A1",
+   "theme": "Verbos do corpo",
+   "concepts": [
+    {
+     "id": "tr10-01",
+     "emoji": "😮‍💨",
+     "pt": "respirar"
+    },
+    {
+     "id": "tr10-02",
+     "emoji": "👃",
+     "pt": "cheirar"
+    },
+    {
+     "id": "tr10-03",
+     "emoji": "🤧",
+     "pt": "espirrar"
+    },
+    {
+     "id": "tr10-04",
+     "emoji": "😷",
+     "pt": "tossir"
+    },
+    {
+     "id": "tr10-05",
+     "emoji": "🥱",
+     "pt": "bocejar"
+    },
+    {
+     "id": "tr10-06",
+     "emoji": "😉",
+     "pt": "piscar"
+    },
+    {
+     "id": "tr10-07",
+     "emoji": "😋",
+     "pt": "mastigar"
+    },
+    {
+     "id": "tr10-08",
+     "emoji": "🫗",
+     "pt": "engolir"
+    },
+    {
+     "id": "tr10-09",
+     "emoji": "👈",
+     "pt": "apontar"
+    },
+    {
+     "id": "tr10-10",
+     "emoji": "👏",
+     "pt": "aplaudir"
+    }
+   ]
+  },
+  {
+   "phase": 11,
+   "globalPhase": 111,
+   "chapter": 12,
+   "level": "A2",
+   "theme": "Verbos de compras",
+   "concepts": [
+    {
+     "id": "tr11-01",
+     "emoji": "🛒",
+     "pt": "comprar"
+    },
+    {
+     "id": "tr11-02",
+     "emoji": "🏷️",
+     "pt": "vender"
+    },
+    {
+     "id": "tr11-03",
+     "emoji": "💳",
+     "pt": "pagar"
+    },
+    {
+     "id": "tr11-04",
+     "emoji": "💸",
+     "pt": "gastar"
+    },
+    {
+     "id": "tr11-05",
+     "emoji": "🐷",
+     "pt": "economizar"
+    },
+    {
+     "id": "tr11-06",
+     "emoji": "🔄",
+     "pt": "trocar"
+    },
+    {
+     "id": "tr11-07",
+     "emoji": "👗",
+     "pt": "experimentar"
+    },
+    {
+     "id": "tr11-08",
+     "emoji": "🙋‍♂️",
+     "pt": "pedir"
+    },
+    {
+     "id": "tr11-09",
+     "emoji": "📅",
+     "pt": "reservar"
+    },
+    {
+     "id": "tr11-10",
+     "emoji": "🎀",
+     "pt": "embrulhar"
+    }
+   ]
+  },
+  {
+   "phase": 12,
+   "globalPhase": 112,
+   "chapter": 12,
+   "level": "A2",
+   "theme": "Verbos sociais",
+   "concepts": [
+    {
+     "id": "tr12-01",
+     "emoji": "🤝",
+     "pt": "conhecer"
+    },
+    {
+     "id": "tr12-02",
+     "emoji": "💌",
+     "pt": "convidar"
+    },
+    {
+     "id": "tr12-03",
+     "emoji": "👋",
+     "pt": "cumprimentar"
+    },
+    {
+     "id": "tr12-04",
+     "emoji": "🙏",
+     "pt": "agradecer"
+    },
+    {
+     "id": "tr12-05",
+     "emoji": "🤞",
+     "pt": "prometer"
+    },
+    {
+     "id": "tr12-06",
+     "emoji": "👍",
+     "pt": "concordar"
+    },
+    {
+     "id": "tr12-07",
+     "emoji": "📢",
+     "pt": "avisar"
+    },
+    {
+     "id": "tr12-08",
+     "emoji": "🧑‍💼",
+     "pt": "apresentar"
+    },
+    {
+     "id": "tr12-09",
+     "emoji": "🌟",
+     "pt": "elogiar"
+    },
+    {
+     "id": "tr12-10",
+     "emoji": "🗣️",
+     "pt": "convencer"
+    }
+   ]
+  },
+  {
+   "phase": 13,
+   "globalPhase": 113,
+   "chapter": 12,
+   "level": "A2",
+   "theme": "Verbos de fim de semana",
+   "concepts": [
+    {
+     "id": "tr13-01",
+     "emoji": "⛺",
+     "pt": "acampar"
+    },
+    {
+     "id": "tr13-02",
+     "emoji": "🎣",
+     "pt": "pescar"
+    },
+    {
+     "id": "tr13-03",
+     "emoji": "🐎",
+     "pt": "cavalgar"
+    },
+    {
+     "id": "tr13-04",
+     "emoji": "🛼",
+     "pt": "patinar"
+    },
+    {
+     "id": "tr13-05",
+     "emoji": "🤿",
+     "pt": "mergulhar"
+    },
+    {
+     "id": "tr13-06",
+     "emoji": "🚴",
+     "pt": "pedalar"
+    },
+    {
+     "id": "tr13-07",
+     "emoji": "📷",
+     "pt": "fotografar"
+    },
+    {
+     "id": "tr13-08",
+     "emoji": "🗃️",
+     "pt": "colecionar"
+    },
+    {
+     "id": "tr13-09",
+     "emoji": "🌱",
+     "pt": "plantar"
+    },
+    {
+     "id": "tr13-10",
+     "emoji": "🚿",
+     "pt": "regar"
+    }
+   ]
+  },
+  {
+   "phase": 14,
+   "globalPhase": 114,
+   "chapter": 12,
+   "level": "A2",
+   "theme": "Opinião e sentimento",
+   "concepts": [
+    {
+     "id": "tr14-01",
+     "emoji": "🥇",
+     "pt": "preferir"
+    },
+    {
+     "id": "tr14-02",
+     "emoji": "🌈",
+     "pt": "imaginar"
+    },
+    {
+     "id": "tr14-03",
+     "emoji": "🤨",
+     "pt": "duvidar"
+    },
+    {
+     "id": "tr14-04",
+     "emoji": "🙌",
+     "pt": "acreditar"
+    },
+    {
+     "id": "tr14-05",
+     "emoji": "😍",
+     "pt": "adorar"
+    },
+    {
+     "id": "tr14-06",
+     "emoji": "😒",
+     "pt": "detestar"
+    },
+    {
+     "id": "tr14-07",
+     "emoji": "💓",
+     "pt": "sentir"
+    },
+    {
+     "id": "tr14-08",
+     "emoji": "👀",
+     "pt": "notar"
+    },
+    {
+     "id": "tr14-09",
+     "emoji": "🕊️",
+     "pt": "perdoar"
+    },
+    {
+     "id": "tr14-10",
+     "emoji": "😲",
+     "pt": "surpreender"
+    }
+   ]
+  },
+  {
+   "phase": 15,
+   "globalPhase": 115,
+   "chapter": 12,
+   "level": "A2",
+   "theme": "No restaurante",
+   "concepts": [
+    {
+     "id": "tr15-01",
+     "emoji": "🪑",
+     "pt": "Uma mesa para dois"
+    },
+    {
+     "id": "tr15-02",
+     "emoji": "📋",
+     "pt": "O cardápio, por favor"
+    },
+    {
+     "id": "tr15-03",
+     "emoji": "🍲",
+     "pt": "Qual é o prato do dia?"
+    },
+    {
+     "id": "tr15-04",
+     "emoji": "🚫",
+     "pt": "Sem cebola, por favor"
+    },
+    {
+     "id": "tr15-05",
+     "emoji": "😋",
+     "pt": "Está delicioso!"
+    },
+    {
+     "id": "tr15-06",
+     "emoji": "💧",
+     "pt": "Mais água, por favor"
+    },
+    {
+     "id": "tr15-07",
+     "emoji": "🥗",
+     "pt": "Eu sou vegetariano"
+    },
+    {
+     "id": "tr15-08",
+     "emoji": "🥡",
+     "pt": "Para viagem, por favor"
+    },
+    {
+     "id": "tr15-09",
+     "emoji": "🧊",
+     "pt": "A comida está fria"
+    },
+    {
+     "id": "tr15-10",
+     "emoji": "🍰",
+     "pt": "Quero a sobremesa"
+    }
+   ]
+  },
+  {
+   "phase": 16,
+   "globalPhase": 116,
+   "chapter": 12,
+   "level": "A2",
+   "theme": "No hotel",
+   "concepts": [
+    {
+     "id": "tr16-01",
+     "emoji": "📝",
+     "pt": "Tenho uma reserva"
+    },
+    {
+     "id": "tr16-02",
+     "emoji": "🛏️",
+     "pt": "Um quarto para duas noites"
+    },
+    {
+     "id": "tr16-03",
+     "emoji": "🛁",
+     "pt": "Preciso de uma toalha"
+    },
+    {
+     "id": "tr16-04",
+     "emoji": "🚿",
+     "pt": "O chuveiro não funciona"
+    },
+    {
+     "id": "tr16-05",
+     "emoji": "📶",
+     "pt": "Qual a senha do wi-fi?"
+    },
+    {
+     "id": "tr16-06",
+     "emoji": "🥐",
+     "pt": "Tem café da manhã?"
+    },
+    {
+     "id": "tr16-07",
+     "emoji": "🔑",
+     "pt": "A chave, por favor"
+    },
+    {
+     "id": "tr16-08",
+     "emoji": "🧳",
+     "pt": "Posso deixar a mala aqui?"
+    },
+    {
+     "id": "tr16-09",
+     "emoji": "🛗",
+     "pt": "Tem elevador?"
+    },
+    {
+     "id": "tr16-10",
+     "emoji": "⏰",
+     "pt": "Pode me acordar às sete?"
+    }
+   ]
+  },
+  {
+   "phase": 17,
+   "globalPhase": 117,
+   "chapter": 12,
+   "level": "A2",
+   "theme": "Ao telefone",
+   "concepts": [
+    {
+     "id": "tr17-01",
+     "emoji": "📞",
+     "pt": "Alô?"
+    },
+    {
+     "id": "tr17-02",
+     "emoji": "❔",
+     "pt": "Quem fala?"
+    },
+    {
+     "id": "tr17-03",
+     "emoji": "⏳",
+     "pt": "Um momento, por favor"
+    },
+    {
+     "id": "tr17-04",
+     "emoji": "🔜",
+     "pt": "Ligo mais tarde"
+    },
+    {
+     "id": "tr17-05",
+     "emoji": "📝",
+     "pt": "Deixe um recado"
+    },
+    {
+     "id": "tr17-06",
+     "emoji": "🔢",
+     "pt": "Número errado"
+    },
+    {
+     "id": "tr17-07",
+     "emoji": "📵",
+     "pt": "A linha está ocupada"
+    },
+    {
+     "id": "tr17-08",
+     "emoji": "🪫",
+     "pt": "Estou sem bateria"
+    },
+    {
+     "id": "tr17-09",
+     "emoji": "📉",
+     "pt": "Estou sem sinal"
+    },
+    {
+     "id": "tr17-10",
+     "emoji": "☎️",
+     "pt": "Você pode me ligar?"
+    }
+   ]
+  },
+  {
+   "phase": 18,
+   "globalPhase": 118,
+   "chapter": 12,
+   "level": "A2",
+   "theme": "Nas compras",
+   "concepts": [
+    {
+     "id": "tr18-01",
+     "emoji": "📏",
+     "pt": "Tem um tamanho maior?"
+    },
+    {
+     "id": "tr18-02",
+     "emoji": "💰",
+     "pt": "É muito caro"
+    },
+    {
+     "id": "tr18-03",
+     "emoji": "🏷️",
+     "pt": "Tem desconto?"
+    },
+    {
+     "id": "tr18-04",
+     "emoji": "👀",
+     "pt": "Só estou olhando"
+    },
+    {
+     "id": "tr18-05",
+     "emoji": "🛍️",
+     "pt": "Vou levar este"
+    },
+    {
+     "id": "tr18-06",
+     "emoji": "💳",
+     "pt": "Aceita cartão?"
+    },
+    {
+     "id": "tr18-07",
+     "emoji": "🎨",
+     "pt": "Tem em outra cor?"
+    },
+    {
+     "id": "tr18-08",
+     "emoji": "👜",
+     "pt": "Preciso de uma sacola"
+    },
+    {
+     "id": "tr18-09",
+     "emoji": "🎁",
+     "pt": "É para presente"
+    },
+    {
+     "id": "tr18-10",
+     "emoji": "🧾",
+     "pt": "Onde fica o caixa?"
+    }
+   ]
+  },
+  {
+   "phase": 19,
+   "globalPhase": 119,
+   "chapter": 12,
+   "level": "A2",
+   "theme": "Direções e trânsito",
+   "concepts": [
+    {
+     "id": "tr19-01",
+     "emoji": "↰",
+     "pt": "Vire à esquerda"
+    },
+    {
+     "id": "tr19-02",
+     "emoji": "↱",
+     "pt": "Vire à direita"
+    },
+    {
+     "id": "tr19-03",
+     "emoji": "⬆️",
+     "pt": "Siga em frente"
+    },
+    {
+     "id": "tr19-04",
+     "emoji": "🚸",
+     "pt": "Atravesse a rua"
+    },
+    {
+     "id": "tr19-05",
+     "emoji": "🗺️",
+     "pt": "Mostre no mapa"
+    },
+    {
+     "id": "tr19-06",
+     "emoji": "🚉",
+     "pt": "Onde fica a estação?"
+    },
+    {
+     "id": "tr19-07",
+     "emoji": "🛣️",
+     "pt": "Fica longe daqui?"
+    },
+    {
+     "id": "tr19-08",
+     "emoji": "⌛",
+     "pt": "Quanto tempo leva?"
+    },
+    {
+     "id": "tr19-09",
+     "emoji": "🏃‍♂️",
+     "pt": "Estou atrasado"
+    },
+    {
+     "id": "tr19-10",
+     "emoji": "🚌",
+     "pt": "Perdi o ônibus"
+    }
+   ]
+  },
+  {
+   "phase": 20,
+   "globalPhase": 120,
+   "chapter": 12,
+   "level": "A2",
+   "theme": "Frases do dia a dia",
+   "concepts": [
+    {
+     "id": "tr20-01",
+     "emoji": "🕐",
+     "pt": "Que horas são?"
+    },
+    {
+     "id": "tr20-02",
+     "emoji": "📅",
+     "pt": "Que dia é hoje?"
+    },
+    {
+     "id": "tr20-03",
+     "emoji": "🌧️",
+     "pt": "Está chovendo"
+    },
+    {
+     "id": "tr20-04",
+     "emoji": "🥵",
+     "pt": "Faz calor"
+    },
+    {
+     "id": "tr20-05",
+     "emoji": "⏱️",
+     "pt": "Estou com pressa"
+    },
+    {
+     "id": "tr20-06",
+     "emoji": "📚",
+     "pt": "Estou ocupado"
+    },
+    {
+     "id": "tr20-07",
+     "emoji": "🏖️",
+     "pt": "Estou de férias"
+    },
+    {
+     "id": "tr20-08",
+     "emoji": "💡",
+     "pt": "Tenho uma ideia"
+    },
+    {
+     "id": "tr20-09",
+     "emoji": "🚗",
+     "pt": "Estou a caminho"
+    },
+    {
+     "id": "tr20-10",
+     "emoji": "😶",
+     "pt": "Estou sem fome"
+    }
+   ]
+  },
+  {
+   "phase": 21,
+   "globalPhase": 121,
+   "chapter": 13,
+   "level": "B1",
+   "theme": "Conectivos",
+   "concepts": [
+    {
+     "id": "tr21-01",
+     "emoji": "💭",
+     "pt": "porque"
+    },
+    {
+     "id": "tr21-02",
+     "emoji": "↔️",
+     "pt": "mas"
+    },
+    {
+     "id": "tr21-03",
+     "emoji": "➡️",
+     "pt": "então"
+    },
+    {
+     "id": "tr21-04",
+     "emoji": "🤷",
+     "pt": "embora"
+    },
+    {
+     "id": "tr21-05",
+     "emoji": "⏳",
+     "pt": "enquanto"
+    },
+    {
+     "id": "tr21-06",
+     "emoji": "🟰",
+     "pt": "ou seja"
+    },
+    {
+     "id": "tr21-07",
+     "emoji": "➕",
+     "pt": "além disso"
+    },
+    {
+     "id": "tr21-08",
+     "emoji": "🔄",
+     "pt": "mesmo assim"
+    },
+    {
+     "id": "tr21-09",
+     "emoji": "🔀",
+     "pt": "caso contrário"
+    },
+    {
+     "id": "tr21-10",
+     "emoji": "⚡",
+     "pt": "assim que"
+    }
+   ]
+  },
+  {
+   "phase": 22,
+   "globalPhase": 122,
+   "chapter": 13,
+   "level": "B1",
+   "theme": "Advérbios de tempo",
+   "concepts": [
+    {
+     "id": "tr22-01",
+     "emoji": "♾️",
+     "pt": "sempre"
+    },
+    {
+     "id": "tr22-02",
+     "emoji": "🚫",
+     "pt": "nunca"
+    },
+    {
+     "id": "tr22-03",
+     "emoji": "🌓",
+     "pt": "às vezes"
+    },
+    {
+     "id": "tr22-04",
+     "emoji": "🤏",
+     "pt": "quase"
+    },
+    {
+     "id": "tr22-05",
+     "emoji": "⏸️",
+     "pt": "ainda"
+    },
+    {
+     "id": "tr22-06",
+     "emoji": "✅",
+     "pt": "já"
+    },
+    {
+     "id": "tr22-07",
+     "emoji": "🔜",
+     "pt": "em breve"
+    },
+    {
+     "id": "tr22-08",
+     "emoji": "🌅",
+     "pt": "cedo"
+    },
+    {
+     "id": "tr22-09",
+     "emoji": "📆",
+     "pt": "geralmente"
+    },
+    {
+     "id": "tr22-10",
+     "emoji": "🦄",
+     "pt": "raramente"
+    }
+   ]
+  },
+  {
+   "phase": 23,
+   "globalPhase": 123,
+   "chapter": 13,
+   "level": "B1",
+   "theme": "Dar opinião",
+   "concepts": [
+    {
+     "id": "tr23-01",
+     "emoji": "💬",
+     "pt": "Na minha opinião"
+    },
+    {
+     "id": "tr23-02",
+     "emoji": "⚖️",
+     "pt": "Isso depende"
+    },
+    {
+     "id": "tr23-03",
+     "emoji": "🤔",
+     "pt": "Não tenho certeza"
+    },
+    {
+     "id": "tr23-04",
+     "emoji": "🎯",
+     "pt": "Você tem razão"
+    },
+    {
+     "id": "tr23-05",
+     "emoji": "🙊",
+     "pt": "Eu me enganei"
+    },
+    {
+     "id": "tr23-06",
+     "emoji": "🙂",
+     "pt": "Não é para tanto"
+    },
+    {
+     "id": "tr23-07",
+     "emoji": "😌",
+     "pt": "Fique tranquilo"
+    },
+    {
+     "id": "tr23-08",
+     "emoji": "👍",
+     "pt": "Eu acho que sim"
+    },
+    {
+     "id": "tr23-09",
+     "emoji": "👎",
+     "pt": "Acho que não"
+    },
+    {
+     "id": "tr23-10",
+     "emoji": "🤷‍♂️",
+     "pt": "Não me importo"
+    }
+   ]
+  },
+  {
+   "phase": 24,
+   "globalPhase": 124,
+   "chapter": 13,
+   "level": "B1",
+   "theme": "Desculpas e favores",
+   "concepts": [
+    {
+     "id": "tr24-01",
+     "emoji": "🆘",
+     "pt": "Pode me ajudar?"
+    },
+    {
+     "id": "tr24-02",
+     "emoji": "🙋",
+     "pt": "Posso te perguntar algo?"
+    },
+    {
+     "id": "tr24-03",
+     "emoji": "😔",
+     "pt": "A culpa é minha"
+    },
+    {
+     "id": "tr24-04",
+     "emoji": "🙏",
+     "pt": "Foi sem querer"
+    },
+    {
+     "id": "tr24-05",
+     "emoji": "🤦",
+     "pt": "Eu esqueci"
+    },
+    {
+     "id": "tr24-06",
+     "emoji": "⚠️",
+     "pt": "Estou com um problema"
+    },
+    {
+     "id": "tr24-07",
+     "emoji": "😵",
+     "pt": "Não sei o que fazer"
+    },
+    {
+     "id": "tr24-08",
+     "emoji": "🛠️",
+     "pt": "Eu cuido disso"
+    },
+    {
+     "id": "tr24-09",
+     "emoji": "💖",
+     "pt": "Obrigado por tudo"
+    },
+    {
+     "id": "tr24-10",
+     "emoji": "🌤️",
+     "pt": "Tudo vai dar certo"
+    }
+   ]
+  },
+  {
+   "phase": 25,
+   "globalPhase": 125,
+   "chapter": 13,
+   "level": "B1",
+   "theme": "Na consulta",
+   "concepts": [
+    {
+     "id": "tr25-01",
+     "emoji": "🤕",
+     "pt": "Estou com dor de cabeça"
+    },
+    {
+     "id": "tr25-02",
+     "emoji": "🤢",
+     "pt": "Estou com dor de barriga"
+    },
+    {
+     "id": "tr25-03",
+     "emoji": "👆",
+     "pt": "Dói aqui"
+    },
+    {
+     "id": "tr25-04",
+     "emoji": "🥴",
+     "pt": "Estou me sentindo mal"
+    },
+    {
+     "id": "tr25-05",
+     "emoji": "🩺",
+     "pt": "Preciso de um médico"
+    },
+    {
+     "id": "tr25-06",
+     "emoji": "🥜",
+     "pt": "Sou alérgico a amendoim"
+    },
+    {
+     "id": "tr25-07",
+     "emoji": "📆",
+     "pt": "Tenho uma consulta"
+    },
+    {
+     "id": "tr25-08",
+     "emoji": "🤧",
+     "pt": "Estou resfriado"
+    },
+    {
+     "id": "tr25-09",
+     "emoji": "🛌",
+     "pt": "Preciso descansar"
+    },
+    {
+     "id": "tr25-10",
+     "emoji": "😊",
+     "pt": "Já estou melhor"
+    }
+   ]
+  },
+  {
+   "phase": 26,
+   "globalPhase": 126,
+   "chapter": 13,
+   "level": "B1",
+   "theme": "No aeroporto",
+   "concepts": [
+    {
+     "id": "tr26-01",
+     "emoji": "🛫",
+     "pt": "Qual é o meu portão?"
+    },
+    {
+     "id": "tr26-02",
+     "emoji": "❌",
+     "pt": "Meu voo foi cancelado"
+    },
+    {
+     "id": "tr26-03",
+     "emoji": "🕓",
+     "pt": "O voo está atrasado"
+    },
+    {
+     "id": "tr26-04",
+     "emoji": "🧳",
+     "pt": "Perdi minha bagagem"
+    },
+    {
+     "id": "tr26-05",
+     "emoji": "🛄",
+     "pt": "Onde pego a bagagem?"
+    },
+    {
+     "id": "tr26-06",
+     "emoji": "🛃",
+     "pt": "Tenho algo a declarar"
+    },
+    {
+     "id": "tr26-07",
+     "emoji": "📸",
+     "pt": "Estou aqui a passeio"
+    },
+    {
+     "id": "tr26-08",
+     "emoji": "🪟",
+     "pt": "Prefiro a janela"
+    },
+    {
+     "id": "tr26-09",
+     "emoji": "💱",
+     "pt": "Preciso trocar dinheiro"
+    },
+    {
+     "id": "tr26-10",
+     "emoji": "🛂",
+     "pt": "Aqui está meu passaporte"
+    }
+   ]
+  },
+  {
+   "phase": 27,
+   "globalPhase": 127,
+   "chapter": 13,
+   "level": "B1",
+   "theme": "Ditos populares",
+   "concepts": [
+    {
+     "id": "tr27-01",
+     "emoji": "🧊",
+     "pt": "Quebrar o gelo"
+    },
+    {
+     "id": "tr27-02",
+     "emoji": "💸",
+     "pt": "Custar os olhos da cara"
+    },
+    {
+     "id": "tr27-03",
+     "emoji": "😴",
+     "pt": "Dormir como uma pedra"
+    },
+    {
+     "id": "tr27-04",
+     "emoji": "🗣️",
+     "pt": "Falar pelos cotovelos"
+    },
+    {
+     "id": "tr27-05",
+     "emoji": "☁️",
+     "pt": "Estar nas nuvens"
+    },
+    {
+     "id": "tr27-06",
+     "emoji": "🤤",
+     "pt": "Dar água na boca"
+    },
+    {
+     "id": "tr27-07",
+     "emoji": "🎩",
+     "pt": "Tirar o chapéu"
+    },
+    {
+     "id": "tr27-08",
+     "emoji": "👁️",
+     "pt": "Ficar de olho"
+    },
+    {
+     "id": "tr27-09",
+     "emoji": "🌧️",
+     "pt": "Chover canivete"
+    },
+    {
+     "id": "tr27-10",
+     "emoji": "🧑‍🍳",
+     "pt": "Pôr a mão na massa"
+    }
+   ]
+  },
+  {
+   "phase": 28,
+   "globalPhase": 128,
+   "chapter": 13,
+   "level": "B1",
+   "theme": "Gírias leves",
+   "concepts": [
+    {
+     "id": "tr28-01",
+     "emoji": "😮",
+     "pt": "Nossa!"
+    },
+    {
+     "id": "tr28-02",
+     "emoji": "🏃‍♀️",
+     "pt": "Bora!"
+    },
+    {
+     "id": "tr28-03",
+     "emoji": "😎",
+     "pt": "Beleza!"
+    },
+    {
+     "id": "tr28-04",
+     "emoji": "🛋️",
+     "pt": "Tô com preguiça"
+    },
+    {
+     "id": "tr28-05",
+     "emoji": "🙅",
+     "pt": "Tô fora"
+    },
+    {
+     "id": "tr28-06",
+     "emoji": "💡",
+     "pt": "Sacou?"
+    },
+    {
+     "id": "tr28-07",
+     "emoji": "🧘",
+     "pt": "Fica frio"
+    },
+    {
+     "id": "tr28-08",
+     "emoji": "✋",
+     "pt": "Dá um tempo!"
+    },
+    {
+     "id": "tr28-09",
+     "emoji": "😒",
+     "pt": "Que chato!"
+    },
+    {
+     "id": "tr28-10",
+     "emoji": "🍀",
+     "pt": "Que sorte!"
+    }
+   ]
+  },
+  {
+   "phase": 29,
+   "globalPhase": 129,
+   "chapter": 13,
+   "level": "B1",
+   "theme": "Provérbios",
+   "concepts": [
+    {
+     "id": "tr29-01",
+     "emoji": "⏰",
+     "pt": "Mais vale tarde do que nunca"
+    },
+    {
+     "id": "tr29-02",
+     "emoji": "😄",
+     "pt": "Quem ri por último ri melhor"
+    },
+    {
+     "id": "tr29-03",
+     "emoji": "🏋️",
+     "pt": "A prática leva à perfeição"
+    },
+    {
+     "id": "tr29-04",
+     "emoji": "🐕",
+     "pt": "Cão que ladra não morde"
+    },
+    {
+     "id": "tr29-05",
+     "emoji": "🤝",
+     "pt": "Uma mão lava a outra"
+    },
+    {
+     "id": "tr29-06",
+     "emoji": "💪",
+     "pt": "A união faz a força"
+    },
+    {
+     "id": "tr29-07",
+     "emoji": "🎲",
+     "pt": "Quem não arrisca não ganha"
+    },
+    {
+     "id": "tr29-08",
+     "emoji": "🐢",
+     "pt": "Devagar se vai ao longe"
+    },
+    {
+     "id": "tr29-09",
+     "emoji": "⌚",
+     "pt": "O tempo é dinheiro"
+    },
+    {
+     "id": "tr29-10",
+     "emoji": "😂",
+     "pt": "Rir é o melhor remédio"
+    }
+   ]
+  },
+  {
+   "phase": 30,
+   "globalPhase": 130,
+   "chapter": 13,
+   "level": "B1",
+   "theme": "Expressões figuradas",
+   "concepts": [
+    {
+     "id": "tr30-01",
+     "emoji": "😶",
+     "pt": "Ficar sem palavras"
+    },
+    {
+     "id": "tr30-02",
+     "emoji": "🧗",
+     "pt": "Dar a volta por cima"
+    },
+    {
+     "id": "tr30-03",
+     "emoji": "🧵",
+     "pt": "Estar por um fio"
+    },
+    {
+     "id": "tr30-04",
+     "emoji": "🔁",
+     "pt": "Mudar de ideia"
+    },
+    {
+     "id": "tr30-05",
+     "emoji": "🪢",
+     "pt": "Perder o fio da meada"
+    },
+    {
+     "id": "tr30-06",
+     "emoji": "👅",
+     "pt": "Na ponta da língua"
+    },
+    {
+     "id": "tr30-07",
+     "emoji": "🚣",
+     "pt": "No mesmo barco"
+    },
+    {
+     "id": "tr30-08",
+     "emoji": "🤯",
+     "pt": "Quebrar a cabeça"
+    },
+    {
+     "id": "tr30-09",
+     "emoji": "🏡",
+     "pt": "Sentir-se em casa"
+    },
+    {
+     "id": "tr30-10",
+     "emoji": "🌞",
+     "pt": "Olhar pelo lado bom"
+    }
+   ]
+  },
+  {
+   "phase": 31,
+   "globalPhase": 131,
+   "chapter": 14,
+   "level": "B1",
+   "theme": "Verbos de escritório",
+   "concepts": [
+    {
+     "id": "tr31-01",
+     "emoji": "🤝",
+     "pt": "contratar"
+    },
+    {
+     "id": "tr31-02",
+     "emoji": "👋",
+     "pt": "demitir"
+    },
+    {
+     "id": "tr31-03",
+     "emoji": "🗣️",
+     "pt": "negociar"
+    },
+    {
+     "id": "tr31-04",
+     "emoji": "✍️",
+     "pt": "assinar"
+    },
+    {
+     "id": "tr31-05",
+     "emoji": "📅",
+     "pt": "agendar"
+    },
+    {
+     "id": "tr31-06",
+     "emoji": "❌",
+     "pt": "cancelar"
+    },
+    {
+     "id": "tr31-07",
+     "emoji": "⏳",
+     "pt": "adiar"
+    },
+    {
+     "id": "tr31-08",
+     "emoji": "👀",
+     "pt": "supervisionar"
+    },
+    {
+     "id": "tr31-09",
+     "emoji": "💰",
+     "pt": "investir"
+    },
+    {
+     "id": "tr31-10",
+     "emoji": "📈",
+     "pt": "lucrar"
+    }
+   ]
+  },
+  {
+   "phase": 32,
+   "globalPhase": 132,
+   "chapter": 14,
+   "level": "B1",
+   "theme": "Reunião e prazos",
+   "concepts": [
+    {
+     "id": "tr32-01",
+     "emoji": "📆",
+     "pt": "Vamos marcar uma reunião"
+    },
+    {
+     "id": "tr32-02",
+     "emoji": "⏰",
+     "pt": "Qual é o prazo?"
+    },
+    {
+     "id": "tr32-03",
+     "emoji": "📧",
+     "pt": "Envie por e-mail"
+    },
+    {
+     "id": "tr32-04",
+     "emoji": "🧑‍💼",
+     "pt": "Estou em reunião"
+    },
+    {
+     "id": "tr32-05",
+     "emoji": "🔄",
+     "pt": "Posso remarcar?"
+    },
+    {
+     "id": "tr32-06",
+     "emoji": "📝",
+     "pt": "Anote isso, por favor"
+    },
+    {
+     "id": "tr32-07",
+     "emoji": "🌅",
+     "pt": "Entrego amanhã cedo"
+    },
+    {
+     "id": "tr32-08",
+     "emoji": "🕰️",
+     "pt": "Preciso de um prazo maior"
+    },
+    {
+     "id": "tr32-09",
+     "emoji": "👏",
+     "pt": "Boa apresentação!"
+    },
+    {
+     "id": "tr32-10",
+     "emoji": "🏠",
+     "pt": "Vou trabalhar de casa"
+    }
+   ]
+  },
+  {
+   "phase": 33,
+   "globalPhase": 133,
+   "chapter": 14,
+   "level": "B1",
+   "theme": "Na farmácia",
+   "concepts": [
+    {
+     "id": "tr33-01",
+     "emoji": "💊",
+     "pt": "Tem algo para dor?"
+    },
+    {
+     "id": "tr33-02",
+     "emoji": "🩹",
+     "pt": "Preciso de uma atadura"
+    },
+    {
+     "id": "tr33-03",
+     "emoji": "2️⃣",
+     "pt": "Tome duas vezes ao dia"
+    },
+    {
+     "id": "tr33-04",
+     "emoji": "🍽️",
+     "pt": "Tome depois das refeições"
+    },
+    {
+     "id": "tr33-05",
+     "emoji": "⚠️",
+     "pt": "Tem efeito colateral?"
+    },
+    {
+     "id": "tr33-06",
+     "emoji": "🌡️",
+     "pt": "Tenho febre desde ontem"
+    },
+    {
+     "id": "tr33-07",
+     "emoji": "🧴",
+     "pt": "Preciso de um xarope"
+    },
+    {
+     "id": "tr33-08",
+     "emoji": "🔥",
+     "pt": "Tem pomada para queimadura?"
+    },
+    {
+     "id": "tr33-09",
+     "emoji": "🆓",
+     "pt": "Pode ser sem receita?"
+    },
+    {
+     "id": "tr33-10",
+     "emoji": "🥄",
+     "pt": "Qual é a dose?"
+    }
+   ]
+  },
+  {
+   "phase": 34,
+   "globalPhase": 134,
+   "chapter": 14,
+   "level": "B1",
+   "theme": "Exames e sintomas",
+   "concepts": [
+    {
+     "id": "tr34-01",
+     "emoji": "🩺",
+     "pt": "Preciso fazer um exame"
+    },
+    {
+     "id": "tr34-02",
+     "emoji": "😵‍💫",
+     "pt": "Estou com tontura"
+    },
+    {
+     "id": "tr34-03",
+     "emoji": "🍚",
+     "pt": "Estou sem apetite"
+    },
+    {
+     "id": "tr34-04",
+     "emoji": "🫁",
+     "pt": "Dói quando respiro"
+    },
+    {
+     "id": "tr34-05",
+     "emoji": "🦶",
+     "pt": "Torci o tornozelo"
+    },
+    {
+     "id": "tr34-06",
+     "emoji": "🌙",
+     "pt": "Estou com insônia"
+    },
+    {
+     "id": "tr34-07",
+     "emoji": "❤️‍🩹",
+     "pt": "Tenho pressão alta"
+    },
+    {
+     "id": "tr34-08",
+     "emoji": "🦵",
+     "pt": "Machuquei o joelho"
+    },
+    {
+     "id": "tr34-09",
+     "emoji": "🤢",
+     "pt": "Estou com enjoo"
+    },
+    {
+     "id": "tr34-10",
+     "emoji": "📄",
+     "pt": "Preciso de um atestado"
+    }
+   ]
+  },
+  {
+   "phase": 35,
+   "globalPhase": 135,
+   "chapter": 14,
+   "level": "B1",
+   "theme": "Problemas no hotel",
+   "concepts": [
+    {
+     "id": "tr35-01",
+     "emoji": "🔑",
+     "pt": "Quero trocar de quarto"
+    },
+    {
+     "id": "tr35-02",
+     "emoji": "❄️",
+     "pt": "O ar-condicionado quebrou"
+    },
+    {
+     "id": "tr35-03",
+     "emoji": "🚿",
+     "pt": "Faltou água quente"
+    },
+    {
+     "id": "tr35-04",
+     "emoji": "🚪",
+     "pt": "Que horas é o check-out?"
+    },
+    {
+     "id": "tr35-05",
+     "emoji": "🛌",
+     "pt": "Quero estender a estadia"
+    },
+    {
+     "id": "tr35-06",
+     "emoji": "🔊",
+     "pt": "O quarto está barulhento"
+    },
+    {
+     "id": "tr35-07",
+     "emoji": "🪶",
+     "pt": "Preciso de um travesseiro"
+    },
+    {
+     "id": "tr35-08",
+     "emoji": "🚕",
+     "pt": "Chame um táxi para mim"
+    },
+    {
+     "id": "tr35-09",
+     "emoji": "🧾",
+     "pt": "Cobraram a mais"
+    },
+    {
+     "id": "tr35-10",
+     "emoji": "🎒",
+     "pt": "Deixei algo no quarto"
+    }
+   ]
+  },
+  {
+   "phase": 36,
+   "globalPhase": 136,
+   "chapter": 14,
+   "level": "B1",
+   "theme": "Trânsito e transporte",
+   "concepts": [
+    {
+     "id": "tr36-01",
+     "emoji": "🛑",
+     "pt": "Desça no próximo ponto"
+    },
+    {
+     "id": "tr36-02",
+     "emoji": "🚗",
+     "pt": "Estou preso no trânsito"
+    },
+    {
+     "id": "tr36-03",
+     "emoji": "🛞",
+     "pt": "O pneu furou"
+    },
+    {
+     "id": "tr36-04",
+     "emoji": "🅿️",
+     "pt": "Tem vaga para estacionar?"
+    },
+    {
+     "id": "tr36-05",
+     "emoji": "🔧",
+     "pt": "O carro quebrou"
+    },
+    {
+     "id": "tr36-06",
+     "emoji": "🚉",
+     "pt": "Qual é a próxima parada?"
+    },
+    {
+     "id": "tr36-07",
+     "emoji": "🚆",
+     "pt": "Preciso trocar de trem"
+    },
+    {
+     "id": "tr36-08",
+     "emoji": "➡️",
+     "pt": "Esta rua é mão única"
+    },
+    {
+     "id": "tr36-09",
+     "emoji": "🧭",
+     "pt": "Errei o caminho"
+    },
+    {
+     "id": "tr36-10",
+     "emoji": "⛽",
+     "pt": "Estou sem gasolina"
+    }
+   ]
+  },
+  {
+   "phase": 37,
+   "globalPhase": 137,
+   "chapter": 14,
+   "level": "B1",
+   "theme": "Verbos de convivência",
+   "concepts": [
+    {
+     "id": "tr37-01",
+     "emoji": "🗯️",
+     "pt": "discutir"
+    },
+    {
+     "id": "tr37-02",
+     "emoji": "😤",
+     "pt": "reclamar"
+    },
+    {
+     "id": "tr37-03",
+     "emoji": "🙈",
+     "pt": "ignorar"
+    },
+    {
+     "id": "tr37-04",
+     "emoji": "🙆",
+     "pt": "aceitar"
+    },
+    {
+     "id": "tr37-05",
+     "emoji": "🙅",
+     "pt": "recusar"
+    },
+    {
+     "id": "tr37-06",
+     "emoji": "🙇",
+     "pt": "admitir"
+    },
+    {
+     "id": "tr37-07",
+     "emoji": "🕵️",
+     "pt": "suspeitar"
+    },
+    {
+     "id": "tr37-08",
+     "emoji": "🚧",
+     "pt": "evitar"
+    },
+    {
+     "id": "tr37-09",
+     "emoji": "💪",
+     "pt": "aguentar"
+    },
+    {
+     "id": "tr37-10",
+     "emoji": "🫂",
+     "pt": "apoiar"
+    }
+   ]
+  },
+  {
+   "phase": 38,
+   "globalPhase": 138,
+   "chapter": 14,
+   "level": "B1",
+   "theme": "Verbos de mudança",
+   "concepts": [
+    {
+     "id": "tr38-01",
+     "emoji": "🍔",
+     "pt": "engordar"
+    },
+    {
+     "id": "tr38-02",
+     "emoji": "🏃",
+     "pt": "emagrecer"
+    },
+    {
+     "id": "tr38-03",
+     "emoji": "👴",
+     "pt": "envelhecer"
+    },
+    {
+     "id": "tr38-04",
+     "emoji": "🍎",
+     "pt": "amadurecer"
+    },
+    {
+     "id": "tr38-05",
+     "emoji": "📈",
+     "pt": "melhorar"
+    },
+    {
+     "id": "tr38-06",
+     "emoji": "📉",
+     "pt": "piorar"
+    },
+    {
+     "id": "tr38-07",
+     "emoji": "➕",
+     "pt": "aumentar"
+    },
+    {
+     "id": "tr38-08",
+     "emoji": "➖",
+     "pt": "diminuir"
+    },
+    {
+     "id": "tr38-09",
+     "emoji": "👶",
+     "pt": "nascer"
+    },
+    {
+     "id": "tr38-10",
+     "emoji": "🧠",
+     "pt": "lembrar-se"
+    }
+   ]
+  },
+  {
+   "phase": 39,
+   "globalPhase": 139,
+   "chapter": 14,
+   "level": "B1",
+   "theme": "Consertos em casa",
+   "concepts": [
+    {
+     "id": "tr39-01",
+     "emoji": "🛠️",
+     "pt": "consertar"
+    },
+    {
+     "id": "tr39-02",
+     "emoji": "💥",
+     "pt": "quebrar"
+    },
+    {
+     "id": "tr39-03",
+     "emoji": "✂️",
+     "pt": "rasgar"
+    },
+    {
+     "id": "tr39-04",
+     "emoji": "🥛",
+     "pt": "derramar"
+    },
+    {
+     "id": "tr39-05",
+     "emoji": "🚰",
+     "pt": "vazar"
+    },
+    {
+     "id": "tr39-06",
+     "emoji": "🚽",
+     "pt": "entupir"
+    },
+    {
+     "id": "tr39-07",
+     "emoji": "💧",
+     "pt": "pingar"
+    },
+    {
+     "id": "tr39-08",
+     "emoji": "🍳",
+     "pt": "queimar"
+    },
+    {
+     "id": "tr39-09",
+     "emoji": "🚢",
+     "pt": "afundar"
+    },
+    {
+     "id": "tr39-10",
+     "emoji": "🪛",
+     "pt": "enferrujar"
+    }
+   ]
+  },
+  {
+   "phase": 40,
+   "globalPhase": 140,
+   "chapter": 14,
+   "level": "B1",
+   "theme": "Tempo e frequência",
+   "concepts": [
+    {
+     "id": "tr40-01",
+     "emoji": "🗓️",
+     "pt": "uma vez por semana"
+    },
+    {
+     "id": "tr40-02",
+     "emoji": "📅",
+     "pt": "uma vez por mês"
+    },
+    {
+     "id": "tr40-03",
+     "emoji": "🕐",
+     "pt": "há dois dias"
+    },
+    {
+     "id": "tr40-04",
+     "emoji": "🏛️",
+     "pt": "há muito tempo"
+    },
+    {
+     "id": "tr40-05",
+     "emoji": "⏪",
+     "pt": "no ano passado"
+    },
+    {
+     "id": "tr40-06",
+     "emoji": "🌄",
+     "pt": "de manhã cedo"
+    },
+    {
+     "id": "tr40-07",
+     "emoji": "2️⃣",
+     "pt": "a cada dois dias"
+    },
+    {
+     "id": "tr40-08",
+     "emoji": "⏩",
+     "pt": "na semana que vem"
+    },
+    {
+     "id": "tr40-09",
+     "emoji": "🌐",
+     "pt": "o ano inteiro"
+    },
+    {
+     "id": "tr40-10",
+     "emoji": "🌃",
+     "pt": "de madrugada"
+    }
+   ]
+  },
+  {
+   "phase": 41,
+   "globalPhase": 141,
+   "chapter": 15,
+   "level": "B2",
+   "theme": "Conectivos avançados",
+   "concepts": [
+    {
+     "id": "tr41-01",
+     "emoji": "🚫",
+     "pt": "a menos que"
+    },
+    {
+     "id": "tr41-02",
+     "emoji": "✅",
+     "pt": "desde que"
+    },
+    {
+     "id": "tr41-03",
+     "emoji": "☝️",
+     "pt": "por um lado"
+    },
+    {
+     "id": "tr41-04",
+     "emoji": "👇",
+     "pt": "por outro lado"
+    },
+    {
+     "id": "tr41-05",
+     "emoji": "🔁",
+     "pt": "em vez de"
+    },
+    {
+     "id": "tr41-06",
+     "emoji": "🌦️",
+     "pt": "apesar de"
+    },
+    {
+     "id": "tr41-07",
+     "emoji": "🙏",
+     "pt": "graças a"
+    },
+    {
+     "id": "tr41-08",
+     "emoji": "⚡",
+     "pt": "devido a"
+    },
+    {
+     "id": "tr41-09",
+     "emoji": "📚",
+     "pt": "de acordo com"
+    },
+    {
+     "id": "tr41-10",
+     "emoji": "🏁",
+     "pt": "em resumo"
+    }
+   ]
+  },
+  {
+   "phase": 42,
+   "globalPhase": 142,
+   "chapter": 15,
+   "level": "B2",
+   "theme": "Argumentar e opinar",
+   "concepts": [
+    {
+     "id": "tr42-01",
+     "emoji": "🤷",
+     "pt": "Concordo em parte"
+    },
+    {
+     "id": "tr42-02",
+     "emoji": "🙅‍♂️",
+     "pt": "Discordo totalmente"
+    },
+    {
+     "id": "tr42-03",
+     "emoji": "❓",
+     "pt": "Isso não faz sentido"
+    },
+    {
+     "id": "tr42-04",
+     "emoji": "🎯",
+     "pt": "Vale a pena tentar"
+    },
+    {
+     "id": "tr42-05",
+     "emoji": "🎨",
+     "pt": "É questão de gosto"
+    },
+    {
+     "id": "tr42-06",
+     "emoji": "🤝",
+     "pt": "Estou do seu lado"
+    },
+    {
+     "id": "tr42-07",
+     "emoji": "🆗",
+     "pt": "Não vejo problema nisso"
+    },
+    {
+     "id": "tr42-08",
+     "emoji": "👁️",
+     "pt": "Depende do ponto de vista"
+    },
+    {
+     "id": "tr42-09",
+     "emoji": "😮",
+     "pt": "Quem diria!"
+    },
+    {
+     "id": "tr42-10",
+     "emoji": "🔍",
+     "pt": "Você pode provar isso?"
+    }
+   ]
+  },
+  {
+   "phase": 43,
+   "globalPhase": 143,
+   "chapter": 15,
+   "level": "B2",
+   "theme": "Negócios e finanças",
+   "concepts": [
+    {
+     "id": "tr43-01",
+     "emoji": "🧮",
+     "pt": "fazer um orçamento"
+    },
+    {
+     "id": "tr43-02",
+     "emoji": "💸",
+     "pt": "pedir um reembolso"
+    },
+    {
+     "id": "tr43-03",
+     "emoji": "💵",
+     "pt": "pagar à vista"
+    },
+    {
+     "id": "tr43-04",
+     "emoji": "💳",
+     "pt": "pagar parcelado"
+    },
+    {
+     "id": "tr43-05",
+     "emoji": "📃",
+     "pt": "renovar o contrato"
+    },
+    {
+     "id": "tr43-06",
+     "emoji": "🏦",
+     "pt": "abrir uma conta"
+    },
+    {
+     "id": "tr43-07",
+     "emoji": "🏧",
+     "pt": "pedir um empréstimo"
+    },
+    {
+     "id": "tr43-08",
+     "emoji": "🏷️",
+     "pt": "cobrar uma taxa"
+    },
+    {
+     "id": "tr43-09",
+     "emoji": "🧾",
+     "pt": "declarar imposto"
+    },
+    {
+     "id": "tr43-10",
+     "emoji": "📉",
+     "pt": "ter prejuízo"
+    }
+   ]
+  },
+  {
+   "phase": 44,
+   "globalPhase": 144,
+   "chapter": 15,
+   "level": "B2",
+   "theme": "Expressões do corpo",
+   "concepts": [
+    {
+     "id": "tr44-01",
+     "emoji": "😡",
+     "pt": "Perder a paciência"
+    },
+    {
+     "id": "tr44-02",
+     "emoji": "🧊",
+     "pt": "Ter sangue frio"
+    },
+    {
+     "id": "tr44-03",
+     "emoji": "💗",
+     "pt": "Abrir o coração"
+    },
+    {
+     "id": "tr44-04",
+     "emoji": "🤷‍♀️",
+     "pt": "Dar de ombros"
+    },
+    {
+     "id": "tr44-05",
+     "emoji": "👃",
+     "pt": "Meter o nariz"
+    },
+    {
+     "id": "tr44-06",
+     "emoji": "😢",
+     "pt": "Ter um nó na garganta"
+    },
+    {
+     "id": "tr44-07",
+     "emoji": "🙅‍♀️",
+     "pt": "Ficar de braços cruzados"
+    },
+    {
+     "id": "tr44-08",
+     "emoji": "💔",
+     "pt": "Ter o coração partido"
+    },
+    {
+     "id": "tr44-09",
+     "emoji": "🔥",
+     "pt": "Colocar a mão no fogo"
+    },
+    {
+     "id": "tr44-10",
+     "emoji": "🥚",
+     "pt": "Pisar em ovos"
+    }
+   ]
+  },
+  {
+   "phase": 45,
+   "globalPhase": 145,
+   "chapter": 15,
+   "level": "B2",
+   "theme": "Provérbios do dia a dia",
+   "concepts": [
+    {
+     "id": "tr45-01",
+     "emoji": "🌾",
+     "pt": "De grão em grão"
+    },
+    {
+     "id": "tr45-02",
+     "emoji": "💧",
+     "pt": "Água mole em pedra dura"
+    },
+    {
+     "id": "tr45-03",
+     "emoji": "✨",
+     "pt": "Nem tudo que reluz é ouro"
+    },
+    {
+     "id": "tr45-04",
+     "emoji": "🧲",
+     "pt": "Os opostos se atraem"
+    },
+    {
+     "id": "tr45-05",
+     "emoji": "👁️",
+     "pt": "Ver para crer"
+    },
+    {
+     "id": "tr45-06",
+     "emoji": "👨‍👦",
+     "pt": "Tal pai, tal filho"
+    },
+    {
+     "id": "tr45-07",
+     "emoji": "🧍",
+     "pt": "Antes só que mal acompanhado"
+    },
+    {
+     "id": "tr45-08",
+     "emoji": "🌈",
+     "pt": "Depois da chuva vem o sol"
+    },
+    {
+     "id": "tr45-09",
+     "emoji": "🐦",
+     "pt": "Uma andorinha não faz verão"
+    },
+    {
+     "id": "tr45-10",
+     "emoji": "🗣️",
+     "pt": "Cada cabeça, uma sentença"
+    }
+   ]
+  },
+  {
+   "phase": 46,
+   "globalPhase": 146,
+   "chapter": 15,
+   "level": "B2",
+   "theme": "Verbos de superação",
+   "concepts": [
+    {
+     "id": "tr46-01",
+     "emoji": "🏔️",
+     "pt": "superar"
+    },
+    {
+     "id": "tr46-02",
+     "emoji": "🛡️",
+     "pt": "enfrentar"
+    },
+    {
+     "id": "tr46-03",
+     "emoji": "🏆",
+     "pt": "conquistar"
+    },
+    {
+     "id": "tr46-04",
+     "emoji": "🏳️",
+     "pt": "desistir"
+    },
+    {
+     "id": "tr46-05",
+     "emoji": "😬",
+     "pt": "hesitar"
+    },
+    {
+     "id": "tr46-06",
+     "emoji": "🧬",
+     "pt": "adaptar-se"
+    },
+    {
+     "id": "tr46-07",
+     "emoji": "💡",
+     "pt": "esclarecer"
+    },
+    {
+     "id": "tr46-08",
+     "emoji": "🎁",
+     "pt": "compartilhar"
+    },
+    {
+     "id": "tr46-09",
+     "emoji": "🧱",
+     "pt": "contribuir"
+    },
+    {
+     "id": "tr46-10",
+     "emoji": "📣",
+     "pt": "influenciar"
+    }
+   ]
+  },
+  {
+   "phase": 47,
+   "globalPhase": 147,
+   "chapter": 15,
+   "level": "B2",
+   "theme": "Viagem aérea e visto",
+   "concepts": [
+    {
+     "id": "tr47-01",
+     "emoji": "📱",
+     "pt": "Fiz o check-in online"
+    },
+    {
+     "id": "tr47-02",
+     "emoji": "🎫",
+     "pt": "Quero mudar a passagem"
+    },
+    {
+     "id": "tr47-03",
+     "emoji": "🔀",
+     "pt": "Perdi a conexão"
+    },
+    {
+     "id": "tr47-04",
+     "emoji": "🛂",
+     "pt": "Preciso de um visto"
+    },
+    {
+     "id": "tr47-05",
+     "emoji": "🛫",
+     "pt": "O embarque começou"
+    },
+    {
+     "id": "tr47-06",
+     "emoji": "🧳",
+     "pt": "Posso levar isso na cabine?"
+    },
+    {
+     "id": "tr47-07",
+     "emoji": "⚖️",
+     "pt": "Minha mala está pesada"
+    },
+    {
+     "id": "tr47-08",
+     "emoji": "💺",
+     "pt": "Quero sentar no corredor"
+    },
+    {
+     "id": "tr47-09",
+     "emoji": "🛡️",
+     "pt": "Tem seguro viagem?"
+    },
+    {
+     "id": "tr47-10",
+     "emoji": "🌍",
+     "pt": "Qual é o fuso horário?"
+    }
+   ]
+  },
+  {
+   "phase": 48,
+   "globalPhase": 148,
+   "chapter": 15,
+   "level": "B2",
+   "theme": "Reações e emoções",
+   "concepts": [
+    {
+     "id": "tr48-01",
+     "emoji": "😲",
+     "pt": "Não acredito!"
+    },
+    {
+     "id": "tr48-02",
+     "emoji": "😳",
+     "pt": "Que vergonha!"
+    },
+    {
+     "id": "tr48-03",
+     "emoji": "😮‍💨",
+     "pt": "Que alívio!"
+    },
+    {
+     "id": "tr48-04",
+     "emoji": "🥹",
+     "pt": "Que saudade!"
+    },
+    {
+     "id": "tr48-05",
+     "emoji": "😠",
+     "pt": "Que absurdo!"
+    },
+    {
+     "id": "tr48-06",
+     "emoji": "🎲",
+     "pt": "Que coincidência!"
+    },
+    {
+     "id": "tr48-07",
+     "emoji": "🎉",
+     "pt": "Parabéns!"
+    },
+    {
+     "id": "tr48-08",
+     "emoji": "😱",
+     "pt": "Que susto!"
+    },
+    {
+     "id": "tr48-09",
+     "emoji": "🥰",
+     "pt": "Que fofo!"
+    },
+    {
+     "id": "tr48-10",
+     "emoji": "🤩",
+     "pt": "Que incrível!"
+    }
+   ]
+  },
+  {
+   "phase": 49,
+   "globalPhase": 149,
+   "chapter": 15,
+   "level": "B2",
+   "theme": "Entrevista e carreira",
+   "concepts": [
+    {
+     "id": "tr49-01",
+     "emoji": "🎓",
+     "pt": "Tenho experiência na área"
+    },
+    {
+     "id": "tr49-02",
+     "emoji": "🌐",
+     "pt": "Falo três idiomas"
+    },
+    {
+     "id": "tr49-03",
+     "emoji": "👥",
+     "pt": "Trabalho em equipe"
+    },
+    {
+     "id": "tr49-04",
+     "emoji": "💼",
+     "pt": "Qual é a remuneração?"
+    },
+    {
+     "id": "tr49-05",
+     "emoji": "🚀",
+     "pt": "Quando é o primeiro dia?"
+    },
+    {
+     "id": "tr49-06",
+     "emoji": "🔎",
+     "pt": "Estou procurando emprego"
+    },
+    {
+     "id": "tr49-07",
+     "emoji": "📤",
+     "pt": "Pedi demissão"
+    },
+    {
+     "id": "tr49-08",
+     "emoji": "🥇",
+     "pt": "Fui promovido"
+    },
+    {
+     "id": "tr49-09",
+     "emoji": "🏖️",
+     "pt": "Preciso de uma folga"
+    },
+    {
+     "id": "tr49-10",
+     "emoji": "📋",
+     "pt": "Estou desempregado"
+    }
+   ]
+  },
+  {
+   "phase": 50,
+   "globalPhase": 150,
+   "chapter": 15,
+   "level": "B2",
+   "theme": "Hipóteses e conclusões",
+   "concepts": [
+    {
+     "id": "tr50-01",
+     "emoji": "🧑‍🤝‍🧑",
+     "pt": "Se eu fosse você"
+    },
+    {
+     "id": "tr50-02",
+     "emoji": "⏮️",
+     "pt": "Eu deveria ter ido"
+    },
+    {
+     "id": "tr50-03",
+     "emoji": "😅",
+     "pt": "Foi por pouco"
+    },
+    {
+     "id": "tr50-04",
+     "emoji": "📊",
+     "pt": "Quanto mais, melhor"
+    },
+    {
+     "id": "tr50-05",
+     "emoji": "➕",
+     "pt": "Em todo caso"
+    },
+    {
+     "id": "tr50-06",
+     "emoji": "🚷",
+     "pt": "Nem pensar!"
+    },
+    {
+     "id": "tr50-07",
+     "emoji": "🔮",
+     "pt": "Nunca se sabe"
+    },
+    {
+     "id": "tr50-08",
+     "emoji": "🍃",
+     "pt": "Deixa para lá"
+    },
+    {
+     "id": "tr50-09",
+     "emoji": "🤔",
+     "pt": "Por que não?"
+    },
+    {
+     "id": "tr50-10",
+     "emoji": "🕊️",
+     "pt": "Talvez outra hora"
+    }
+   ]
+  }
+ ]
 }

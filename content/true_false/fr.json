@@ -2402,6 +2402,1606 @@
    "examplePt": "De repente, uma coruja salta da árvore!",
    "pron": "tu-ta-KU — 'ou' soa 'u' e liga o 't' de 'tout' ao 'à'",
    "curiosity": "Para contar histórias: 'tout à coup' faz o suspense. Sinônimo: 'soudain'."
+  },
+  "tf31-01": {
+   "word": "la dune",
+   "translit": null,
+   "example": "Les enfants glissent sur la dune en riant.",
+   "examplePt": "As crianças deslizam pela duna rindo.",
+   "pron": "lá DÜN — 'u' francês (lábios de 'u', língua de 'i')",
+   "curiosity": "La dune du Pilat, perto de Arcachon, é a maior duna da Europa."
+  },
+  "tf31-02": {
+   "word": "la vallée",
+   "translit": null,
+   "example": "Une rivière coule au fond de la vallée.",
+   "examplePt": "Um rio corre no fundo do vale.",
+   "pron": "lá va-LÊ — 'ée' final é um 'ê' fechado",
+   "curiosity": "'Vallée' e 'val' são parentes: 'Val de Loire' é o Vale do Loire."
+  },
+  "tf31-03": {
+   "word": "le plateau",
+   "translit": null,
+   "example": "Le village est perché sur un grand plateau.",
+   "examplePt": "A vila fica empoleirada num grande planalto.",
+   "pron": "lö pla-TÔ — 'eau' final soa 'ô'",
+   "curiosity": "'Plateau' também é a bandeja de servir e o set de gravação da TV."
+  },
+  "tf31-04": {
+   "word": "la falaise",
+   "translit": null,
+   "example": "Les mouettes nichent dans la falaise.",
+   "examplePt": "As gaivotas fazem ninho na falésia.",
+   "pron": "lá fa-LÉZ — 'ai' soa 'é' e o 's' vale 'z'",
+   "curiosity": "Em Étretat, na Normandia, as falésias brancas são famosas."
+  },
+  "tf31-05": {
+   "word": "le glacier",
+   "translit": null,
+   "example": "Ce glacier fond un peu chaque été.",
+   "examplePt": "Esta geleira derrete um pouco a cada verão.",
+   "pron": "lö gla-SIÊ — 'c' antes de 'i' soa 's'",
+   "curiosity": "'Glacier' também é o sorveteiro: quem vende glace, o sorvete!"
+  },
+  "tf31-06": {
+   "word": "la péninsule",
+   "translit": null,
+   "example": "La péninsule avance dans la mer comme un doigt.",
+   "examplePt": "A península avança no mar como um dedo.",
+   "pron": "lá pê-nã-SÜL — 'in' nasal e 'u' francês",
+   "curiosity": "'Presqu'île' (quase ilha) é outro jeito de dizer península em francês."
+  },
+  "tf31-07": {
+   "word": "la grotte",
+   "translit": null,
+   "example": "Peux-tu entrer dans la grotte avec une lampe ?",
+   "examplePt": "Você pode entrar na gruta com uma lanterna?",
+   "pron": "lá GROT — 'o' aberto e 'tt' é um 't' só",
+   "curiosity": "A gruta de Lascaux, na França, tem pinturas de mais de 17 mil anos."
+  },
+  "tf31-08": {
+   "word": "le canyon",
+   "translit": null,
+   "example": "Le canyon est profond et très étroit.",
+   "examplePt": "O cânion é fundo e bem estreito.",
+   "pron": "lö ka-NHÕ — 'on' final é nasal",
+   "curiosity": "Palavra de origem espanhola ('cañón'); em francês perdeu o til."
+  },
+  "tf31-09": {
+   "word": "la colline",
+   "translit": null,
+   "example": "Au sommet de la colline, on voit toute la ville.",
+   "examplePt": "No alto da colina, vê-se a cidade inteira.",
+   "pron": "lá ko-LIN — 'ine' final: 'i' fechado e 'n' leve",
+   "curiosity": "'Butte' é uma colina pequena: a 'butte Montmartre', em Paris."
+  },
+  "tf31-10": {
+   "word": "l'archipel",
+   "translit": null,
+   "example": "Cet archipel compte des centaines de petites îles.",
+   "examplePt": "Este arquipélago tem centenas de ilhotas.",
+   "pron": "lar-shi-PÉL — 'ch' soa 'x' e o 'p' é pronunciado",
+   "curiosity": "Em francês 'archipel' é masculino: un archipel."
+  },
+  "tf32-01": {
+   "word": "la cascade",
+   "translit": null,
+   "example": "L'eau tombe de la cascade avec un grand bruit.",
+   "examplePt": "A água cai da cachoeira com grande barulho.",
+   "pron": "lá kas-KÀD — o 'a' final é aberto e o 'e' é mudo",
+   "curiosity": "'Cascade' também é a cena de dublê no cinema: um dublê é 'cascadeur'."
+  },
+  "tf32-02": {
+   "word": "le lac",
+   "translit": null,
+   "example": "Le lac Léman sépare la France de la Suisse.",
+   "examplePt": "O lago Léman separa a França da Suíça.",
+   "pron": "lö LAK — o 'c' final soa 'k'",
+   "curiosity": "Em Annecy há um lago famoso pela água muito limpa."
+  },
+  "tf32-03": {
+   "word": "la marée",
+   "translit": null,
+   "example": "À marée basse, on peut marcher jusqu'à l'îlot.",
+   "examplePt": "Na maré baixa, dá para andar até a ilhota.",
+   "pron": "lá ma-RÊ — 'r' francês, vindo da garganta",
+   "curiosity": "O Mont-Saint-Michel vira ilha quando a maré sobe muito."
+  },
+  "tf32-04": {
+   "word": "la vague",
+   "translit": null,
+   "example": "Une grosse vague a renversé mon château de sable.",
+   "examplePt": "Uma onda grande derrubou meu castelo de areia.",
+   "pron": "lá VAG — 'gu' soa 'g' duro",
+   "curiosity": "'Vague' também é adjetivo: vago, impreciso. Une idée vague."
+  },
+  "tf32-05": {
+   "word": "la source",
+   "translit": null,
+   "example": "D'où vient la source de cette rivière ?",
+   "examplePt": "De onde vem a nascente deste rio?",
+   "pron": "lá SURS — 'ou' soa 'u' e o 'e' final é mudo",
+   "curiosity": "'Source' também é a fonte de uma informação, como em português."
+  },
+  "tf32-06": {
+   "word": "le delta",
+   "translit": null,
+   "example": "Au printemps, le delta se couvre d'oiseaux migrateurs.",
+   "examplePt": "Na primavera, o delta se cobre de aves migratórias.",
+   "pron": "lö dél-TÁ — o 'a' final é aberto",
+   "curiosity": "O nome vem da letra grega delta, que tem formato de triângulo."
+  },
+  "tf32-07": {
+   "word": "le geyser",
+   "translit": null,
+   "example": "Le geyser lance de l'eau chaude vers le ciel.",
+   "examplePt": "O gêiser lança água quente rumo ao céu.",
+   "pron": "lö ghê-ZÉR — 'g' duro e o 'r' final é gutural",
+   "curiosity": "A palavra vem do islandês 'Geysir', o nome de uma fonte famosa."
+  },
+  "tf32-08": {
+   "word": "l'iceberg",
+   "translit": null,
+   "example": "Seule la pointe de l'iceberg est visible.",
+   "examplePt": "Só a ponta do iceberg está visível.",
+   "pron": "is-BÉRG — o 'c' soa 's' e o 'g' final soa",
+   "curiosity": "'La partie visible de l'iceberg' é a expressão para 'só a ponta do iceberg'."
+  },
+  "tf32-09": {
+   "word": "l'océan",
+   "translit": null,
+   "example": "Le bateau traverse l'océan pendant trois semaines.",
+   "examplePt": "O barco atravessa o oceano durante três semanas.",
+   "pron": "lô-sê-Ã — 'an' final é nasal",
+   "curiosity": "'Océan' é masculino: l'océan Atlantique, l'océan Pacifique."
+  },
+  "tf32-10": {
+   "word": "le marais",
+   "translit": null,
+   "example": "Les grenouilles chantent dans le marais le soir.",
+   "examplePt": "As rãs cantam no pântano à noite.",
+   "pron": "lö ma-RÉ — o 's' final é mudo",
+   "curiosity": "Le Marais é também um bairro de Paris, antes um pântano de verdade."
+  },
+  "tf33-01": {
+   "word": "l'astéroïde",
+   "translit": null,
+   "example": "Un astéroïde a frôlé la Terre hier soir.",
+   "examplePt": "Um asteroide passou raspando na Terra ontem.",
+   "pron": "as-tê-ro-ID — o 'ï' separa o 'o' do 'i'",
+   "curiosity": "A palavra vem do grego e significa 'semelhante a uma estrela'."
+  },
+  "tf33-02": {
+   "word": "l'orbite",
+   "translit": null,
+   "example": "La Lune tourne en orbite autour de la Terre.",
+   "examplePt": "A Lua gira em órbita ao redor da Terra.",
+   "pron": "lor-BIT — o 'r' é suave e o 'e' final é mudo",
+   "curiosity": "'Orbite' também é a cavidade do olho em francês: l'orbite de l'œil."
+  },
+  "tf33-03": {
+   "word": "la constellation",
+   "translit": null,
+   "example": "Sais-tu reconnaître cette constellation dans le ciel ?",
+   "examplePt": "Você sabe reconhecer esta constelação no céu?",
+   "pron": "lá kõs-té-la-SIÕ — duas sílabas nasais 'on'",
+   "curiosity": "São 88 as constelações oficiais reconhecidas hoje pelos astrônomos."
+  },
+  "tf33-04": {
+   "word": "le météore",
+   "translit": null,
+   "example": "Un météore a traversé le ciel en une seconde.",
+   "examplePt": "Um meteoro cruzou o céu em um segundo.",
+   "pron": "lö mê-tê-ÓR — 'é' fechado e 'o' aberto",
+   "curiosity": "Meteoro é o clarão no céu; meteorito é a pedra que cai no chão."
+  },
+  "tf33-05": {
+   "word": "la nébuleuse",
+   "translit": null,
+   "example": "La nébuleuse brille comme un nuage coloré.",
+   "examplePt": "A nebulosa brilha como uma nuvem colorida.",
+   "pron": "lá nê-bü-LÊZ — 'u' francês e 'eu' fechado",
+   "curiosity": "'Nébuleux' também descreve algo vago ou confuso, não só o céu."
+  },
+  "tf33-06": {
+   "word": "le trou noir",
+   "translit": null,
+   "example": "Rien ne s'échappe d'un trou noir, même la lumière.",
+   "examplePt": "Nada escapa de um buraco negro, nem a luz.",
+   "pron": "lö TRU NUAR — 'oi' soa 'uá'",
+   "curiosity": "Em francês é o 'buraco' (trou) e o adjetivo vem depois: trou noir."
+  },
+  "tf33-07": {
+   "word": "le cratère",
+   "translit": null,
+   "example": "Le cratère de la Lune est rempli de poussière.",
+   "examplePt": "A cratera da Lua está cheia de poeira.",
+   "pron": "lö kra-TÉR — 'è' aberto como 'é'",
+   "curiosity": "Vem do grego 'kratêr', um grande vaso para misturar vinho com água."
+  },
+  "tf33-08": {
+   "word": "la gravité",
+   "translit": null,
+   "example": "Sur la Lune, la gravité est plus faible.",
+   "examplePt": "Na Lua, a gravidade é mais fraca.",
+   "pron": "lá gra-vi-TÊ — 'g' duro e 'é' final fechado",
+   "curiosity": "'Gravité' também significa 'seriedade': la gravité d'un accident."
+  },
+  "tf33-09": {
+   "word": "l'observatoire",
+   "translit": null,
+   "example": "Nous visitons l'observatoire de Paris pour voir les étoiles.",
+   "examplePt": "Visitamos o observatório de Paris para ver as estrelas.",
+   "pron": "lob-sér-va-TUAR — 'oi' soa 'uá'",
+   "curiosity": "O Observatório de Paris, fundado em 1667, é um dos mais antigos do mundo."
+  },
+  "tf33-10": {
+   "word": "la supernova",
+   "translit": null,
+   "example": "Une supernova éclaire brièvement toute une galaxie.",
+   "examplePt": "Uma supernova ilumina brevemente uma galáxia inteira.",
+   "pron": "lá sü-pér-no-VÁ — 'u' francês",
+   "curiosity": "'Nova' é 'nova' em latim: antes se achava que a explosão era uma estrela recém-nascida."
+  },
+  "tf34-01": {
+   "word": "l'ouragan",
+   "translit": null,
+   "example": "L'ouragan a arraché les toits de plusieurs maisons.",
+   "examplePt": "O furacão arrancou os telhados de várias casas.",
+   "pron": "lu-ra-GÃ — 'ou' soa 'u' e 'an' é nasal",
+   "curiosity": "'Ouragan' vem de uma língua indígena do Caribe, via espanhol."
+  },
+  "tf34-02": {
+   "word": "la tornade",
+   "translit": null,
+   "example": "Une tornade traverse la plaine à toute vitesse.",
+   "examplePt": "Um tornado atravessa a planície em alta velocidade.",
+   "pron": "lá tor-NÀD — 'o' aberto e 'e' final mudo",
+   "curiosity": "Em francês 'tornade' é feminina, ao contrário do 'tornado' em português."
+  },
+  "tf34-03": {
+   "word": "le givre",
+   "translit": null,
+   "example": "Le givre dessine des fleurs sur la vitre.",
+   "examplePt": "A geada desenha flores no vidro da janela.",
+   "pron": "lö JIVR — 'g' soa 'j' e o 'r' é gutural",
+   "curiosity": "'Givré', no francês falado, também quer dizer 'maluco'. Que frio na cabeça!"
+  },
+  "tf34-04": {
+   "word": "la grêle",
+   "translit": null,
+   "example": "La grêle a abîmé la voiture de mon voisin.",
+   "examplePt": "O granizo estragou o carro do meu vizinho.",
+   "pron": "lá GRÉL — 'ê' aberto e 'r' gutural",
+   "curiosity": "'Grêle' como adjetivo significa 'fino e magro': des jambes grêles."
+  },
+  "tf34-05": {
+   "word": "l'éclair",
+   "translit": null,
+   "example": "Un éclair a illuminé toute la chambre.",
+   "examplePt": "Um relâmpago iluminou o quarto inteiro.",
+   "pron": "lê-KLÉR — 'ai' soa 'é'",
+   "curiosity": "'Éclair' é também o doce alongado recheado e coberto de chocolate."
+  },
+  "tf34-06": {
+   "word": "la tempête",
+   "translit": null,
+   "example": "Une tempête de neige bloque la route ce soir.",
+   "examplePt": "Uma tempestade de neve bloqueia a estrada hoje à noite.",
+   "pron": "lá tã-PÉT — 'em' é nasal e 'ê' aberto",
+   "curiosity": "O circunflexo de 'tempête' marca um antigo 's', como no latim 'tempestas'."
+  },
+  "tf34-07": {
+   "word": "la sécheresse",
+   "translit": null,
+   "example": "La sécheresse a transformé le jardin en désert.",
+   "examplePt": "A seca transformou o jardim em deserto.",
+   "pron": "lá sê-shê-RÉS — 'ch' soa 'x'",
+   "curiosity": "Vem de 'sec' (seco): a sécheresse é a qualidade de estar sec."
+  },
+  "tf34-08": {
+   "word": "la rosée",
+   "translit": null,
+   "example": "Il marche pieds nus dans la rosée du matin.",
+   "examplePt": "Ele anda descalço no orvalho da manhã.",
+   "pron": "lá ro-ZÊ — 's' entre vogais soa 'z'",
+   "curiosity": "Do latim 'ros' (orvalho) vem 'rosmarinus', o alecrim: 'orvalho do mar'."
+  },
+  "tf34-09": {
+   "word": "la bruine",
+   "translit": null,
+   "example": "Une fine bruine tombe sur Paris ce matin.",
+   "examplePt": "Uma garoa fina cai sobre Paris esta manhã.",
+   "pron": "lá BRÜIN — 'ui' soa 'üi' e o 'e' final é mudo",
+   "curiosity": "Existe o verbo impessoal 'bruiner': il bruine = está garoando."
+  },
+  "tf34-10": {
+   "word": "le cyclone",
+   "translit": null,
+   "example": "Le cyclone s'approche des côtes de l'île.",
+   "examplePt": "O ciclone se aproxima das costas da ilha.",
+   "pron": "lö si-KLÔN — 'c' soa 's' e o segundo 'c' soa 'k'",
+   "curiosity": "A palavra vem do grego 'kuklos', que significa círculo."
+  },
+  "tf35-01": {
+   "word": "le granit",
+   "translit": null,
+   "example": "Cette vieille église est construite en granit.",
+   "examplePt": "Esta velha igreja é construída em granito.",
+   "pron": "lö gra-NIT — o 't' final soa neste caso",
+   "curiosity": "A Bretanha tem uma famosa Côte de Granit Rose, a costa de granito rosa."
+  },
+  "tf35-02": {
+   "word": "le marbre",
+   "translit": null,
+   "example": "La statue est taillée dans un bloc de marbre.",
+   "examplePt": "A estátua é esculpida num bloco de mármore.",
+   "pron": "lö MARBR — 'r' gutural e 'e' final mudo",
+   "curiosity": "'Marbrer' é verbo: decorar algo com veios, como se fosse mármore."
+  },
+  "tf35-03": {
+   "word": "le diamant",
+   "translit": null,
+   "example": "Ce diamant brille plus que toutes les étoiles.",
+   "examplePt": "Este diamante brilha mais que todas as estrelas.",
+   "pron": "lö dia-MÃ — 'an' nasal e 't' final mudo",
+   "curiosity": "'Diamant' vem do grego 'adamas', 'indomável': a pedra mais dura."
+  },
+  "tf35-04": {
+   "word": "le charbon",
+   "translit": null,
+   "example": "Autrefois, les trains roulaient au charbon.",
+   "examplePt": "Antigamente, os trens rodavam a carvão.",
+   "pron": "lö shar-BÕ — 'ch' soa 'x' e 'on' é nasal",
+   "curiosity": "'Être sur des charbons ardents' é estar em brasas, muito ansioso."
+  },
+  "tf35-05": {
+   "word": "l'or",
+   "translit": null,
+   "example": "Les pirates cherchent de l'or dans le coffre.",
+   "examplePt": "Os piratas procuram ouro no baú.",
+   "pron": "lor — 'o' aberto e 'r' gutural",
+   "curiosity": "'Or' também é uma conjunção ('ora, pois'): o mesmo som do metal precioso!"
+  },
+  "tf35-06": {
+   "word": "le cuivre",
+   "translit": null,
+   "example": "Les casseroles en cuivre chauffent très vite.",
+   "examplePt": "As panelas de cobre aquecem muito rápido.",
+   "pron": "lö KÜIVR — 'ui' soa 'üi'",
+   "curiosity": "O cobre conduz bem a eletricidade, por isso está nos fios."
+  },
+  "tf35-07": {
+   "word": "le fer",
+   "translit": null,
+   "example": "Le fer rouille si on le laisse sous la pluie.",
+   "examplePt": "O ferro enferruja se o deixarmos sob a chuva.",
+   "pron": "lö FÉR — o 'r' gutural final",
+   "curiosity": "'Fer' também é a ferradura: 'fer à cheval'. Ferro de passar: 'fer à repasser'."
+  },
+  "tf35-08": {
+   "word": "le cristal",
+   "translit": null,
+   "example": "Le verre en cristal chante quand on le frotte.",
+   "examplePt": "O copo de cristal canta quando o esfregamos.",
+   "pron": "lö kris-TAL — 'cr' e o 'l' final é claro",
+   "curiosity": "'Cristal' vem do grego 'krystallos', que significa gelo."
+  },
+  "tf35-09": {
+   "word": "l'argile",
+   "translit": null,
+   "example": "Les potiers modèlent l'argile avec leurs mains.",
+   "examplePt": "Os oleiros modelam a argila com as mãos.",
+   "pron": "lar-JIL — 'g' antes de 'i' soa 'j'",
+   "curiosity": "'Argile' é feminina em francês, apesar da terminação: de l'argile."
+  },
+  "tf35-10": {
+   "word": "le calcaire",
+   "translit": null,
+   "example": "L'eau dure laisse du calcaire dans la bouilloire.",
+   "examplePt": "A água dura deixa calcário na chaleira.",
+   "pron": "lö kal-KÉR — 'ai' soa 'é'",
+   "curiosity": "Em francês, 'calcaire' é também o depósito branco nas torneiras e chaleiras."
+  },
+  "tf36-01": {
+   "word": "le coton",
+   "translit": null,
+   "example": "Ce t-shirt en coton reste frais en été.",
+   "examplePt": "Esta camiseta de algodão fica fresca no verão.",
+   "pron": "lö ko-TÕ — 'on' final é nasal e o 't' é mudo",
+   "curiosity": "'Coton-tige' é o cotonete: literalmente 'algodão-haste'."
+  },
+  "tf36-02": {
+   "word": "la soie",
+   "translit": null,
+   "example": "Cette écharpe en soie glisse entre mes doigts.",
+   "examplePt": "Este lenço de seda desliza entre meus dedos.",
+   "pron": "lá SUÁ — 'oi' soa 'uá'",
+   "curiosity": "Dizem que os chineses guardaram por séculos o segredo da seda."
+  },
+  "tf36-03": {
+   "word": "la laine",
+   "translit": null,
+   "example": "Mamie tricote un pull en laine pour l'hiver.",
+   "examplePt": "A vovó tricota um suéter de lã para o inverno.",
+   "pron": "lá LÉN — 'ai' soa 'é' e o 'n' é pronunciado",
+   "curiosity": "'Laine de verre' é a lã de vidro, um isolante térmico."
+  },
+  "tf36-04": {
+   "word": "le cuir",
+   "translit": null,
+   "example": "Ces bottes en cuir sont vraiment solides.",
+   "examplePt": "Estas botas de couro são mesmo resistentes.",
+   "pron": "lö KÜIR — 'ui' soa 'üi' e o 'r' é gutural",
+   "curiosity": "'Cuir chevelu' é o couro cabeludo, literalmente 'couro cabeludo'."
+  },
+  "tf36-05": {
+   "word": "le lin",
+   "translit": null,
+   "example": "Le lin est léger, parfait pour une chemise d'été.",
+   "examplePt": "O linho é leve, perfeito para uma camisa de verão.",
+   "pron": "lö LÃ — 'in' é nasal, como 'lã' em português",
+   "curiosity": "O linho é uma das fibras têxteis mais antigas que se conhece."
+  },
+  "tf36-06": {
+   "word": "le velours",
+   "translit": null,
+   "example": "Le rideau de velours cache la scène.",
+   "examplePt": "A cortina de veludo esconde o palco.",
+   "pron": "lö vë-LUR — 'ë' mudo e o 's' final é mudo",
+   "curiosity": "'Velours côtelé' é o veludo cotelê, tecido de calças marcadas."
+  },
+  "tf36-07": {
+   "word": "le caoutchouc",
+   "translit": null,
+   "example": "Mes bottes en caoutchouc sont parfaites pour la pluie.",
+   "examplePt": "Minhas botas de borracha são perfeitas para a chuva.",
+   "pron": "lö ka-u-TCHUK — 'aou' soa 'a-u' e 'ch' soa 'tch'",
+   "curiosity": "A palavra vem de uma língua indígena da América do Sul."
+  },
+  "tf36-08": {
+   "word": "le verre",
+   "translit": null,
+   "example": "Le verre s'est brisé en mille morceaux.",
+   "examplePt": "O vidro se quebrou em mil pedaços.",
+   "pron": "lö VÉR — 'e' aberto e 'r' gutural",
+   "curiosity": "'Verre' também é o copo: un verre d'eau é um copo d'água."
+  },
+  "tf36-09": {
+   "word": "la céramique",
+   "translit": null,
+   "example": "Elle collectionne les tasses en céramique faites main.",
+   "examplePt": "Ela coleciona xícaras de cerâmica feitas à mão.",
+   "pron": "lá sê-ra-MIK — 'c' suave e 'qu' soa 'k'",
+   "curiosity": "Vem do grego 'keramos', que significa argila."
+  },
+  "tf36-10": {
+   "word": "l'acier",
+   "translit": null,
+   "example": "Le pont est soutenu par des câbles d'acier.",
+   "examplePt": "A ponte é sustentada por cabos de aço.",
+   "pron": "la-SIÊ — 'ci' soa 'si' e o 'er' final é 'ê'",
+   "curiosity": "O aço é ferro com um pouco de carbono misturado."
+  },
+  "tf37-01": {
+   "word": "la savane",
+   "translit": null,
+   "example": "Les lions se reposent à l'ombre dans la savane.",
+   "examplePt": "Os leões descansam à sombra na savana.",
+   "pron": "lá sa-VÀN — o 'a' aberto e 'e' mudo",
+   "curiosity": "'Savane' veio do taíno, passando pelo espanhol 'sabana'."
+  },
+  "tf37-02": {
+   "word": "la toundra",
+   "translit": null,
+   "example": "Dans la toundra, le sol reste gelé presque toute l'année.",
+   "examplePt": "Na tundra, o solo fica congelado quase o ano todo.",
+   "pron": "lá tun-DRA — 'oun' soa 'un' e o 'r' é gutural",
+   "curiosity": "A palavra chegou ao francês pelo russo."
+  },
+  "tf37-03": {
+   "word": "la mangrove",
+   "translit": null,
+   "example": "Les crabes se cachent dans les racines de la mangrove.",
+   "examplePt": "Os caranguejos se escondem nas raízes do mangue.",
+   "pron": "lá mã-GROV — 'an' nasal e 'g' duro",
+   "curiosity": "As raízes aéreas ajudam as árvores do mangue a respirar na lama."
+  },
+  "tf37-04": {
+   "word": "la prairie",
+   "translit": null,
+   "example": "Des chevaux sauvages galopent dans la prairie.",
+   "examplePt": "Cavalos selvagens galopam na pradaria.",
+   "pron": "lá prê-RI — 'ai' soa 'ê' e o 'r' é gutural",
+   "curiosity": "Do latim 'pratum' vêm 'pré' (prado) e 'prairie'."
+  },
+  "tf37-05": {
+   "word": "l'oasis",
+   "translit": null,
+   "example": "Quel soulagement de trouver une oasis dans le désert !",
+   "examplePt": "Que alívio encontrar um oásis no deserto!",
+   "pron": "lo-a-ZIS — 'oa' em duas sílabas e 's' final soa",
+   "curiosity": "Nos oásis do Saara cultivam-se tâmaras: 'dattes'."
+  },
+  "tf37-06": {
+   "word": "la forêt tropicale",
+   "translit": null,
+   "example": "Un perroquet crie dans la forêt tropicale.",
+   "examplePt": "Um papagaio grita na floresta tropical.",
+   "pron": "lá fo-RÉ tro-pi-KÀL — 'ê' aberto e 'r' gutural",
+   "curiosity": "As florestas tropicais abrigam grande parte das espécies terrestres."
+  },
+  "tf37-07": {
+   "word": "le récif de corail",
+   "translit": null,
+   "example": "Les poissons colorés nagent autour du récif de corail.",
+   "examplePt": "Peixes coloridos nadam ao redor do recife de coral.",
+   "pron": "lö rê-SIF dö ko-RAI — 'ail' soa 'ai'",
+   "curiosity": "A Grande Barreira de Corais é visível do espaço."
+  },
+  "tf37-08": {
+   "word": "la lagune",
+   "translit": null,
+   "example": "Venise est construite sur une lagune, non ?",
+   "examplePt": "Veneza é construída sobre uma laguna, não é?",
+   "pron": "lá la-GÜN — 'gu' soa 'g' e 'u' francês",
+   "curiosity": "'Lagune' é feminina em francês, como em português."
+  },
+  "tf37-09": {
+   "word": "le nid",
+   "translit": null,
+   "example": "Un oiseau construit son nid avec des brindilles.",
+   "examplePt": "Um pássaro constrói seu ninho com gravetos.",
+   "pron": "lö NI — o 'd' final é mudo",
+   "curiosity": "'Nid de poule' (ninho de galinha) é o buraco no asfalto."
+  },
+  "tf37-10": {
+   "word": "le terrier",
+   "translit": null,
+   "example": "Le lapin s'est caché au fond du terrier.",
+   "examplePt": "O coelho se escondeu no fundo da toca.",
+   "pron": "lö té-RIÊ — 'rr' em francês é um 'r' só gutural",
+   "curiosity": "Os cães 'terrier' vêm de 'terre', a terra: eles entram nas tocas."
+  },
+  "tf38-01": {
+   "word": "le microscope",
+   "translit": null,
+   "example": "Que vois-tu dans le microscope ?",
+   "examplePt": "O que você vê no microscópio?",
+   "pron": "lö mi-kros-KOP — 'o' aberto, sem 'ê' no fim",
+   "curiosity": "Vem do grego: 'mikros' (pequeno) e 'skopein' (observar)."
+  },
+  "tf38-02": {
+   "word": "le tube à essai",
+   "translit": null,
+   "example": "Elle verse le liquide bleu dans le tube à essai.",
+   "examplePt": "Ela despeja o líquido azul no tubo de ensaio.",
+   "pron": "lö TÜB a é-SÉ — 'u' francês e 'ai' soa 'é'",
+   "curiosity": "'Essai' é teste ou tentativa: o tubo à essai é o 'tubo de teste'."
+  },
+  "tf38-03": {
+   "word": "l'entonnoir",
+   "translit": null,
+   "example": "Il utilise un entonnoir pour verser l'huile.",
+   "examplePt": "Ele usa um funil para despejar o óleo.",
+   "pron": "lã-to-NUAR — 'en' nasal e 'oi' soa 'uá'",
+   "curiosity": "'Entonnoir' é masculino e tem 'nn' duplo."
+  },
+  "tf38-04": {
+   "word": "l'atome",
+   "translit": null,
+   "example": "Chaque atome est minuscule, invisible à l'œil nu.",
+   "examplePt": "Cada átomo é minúsculo, invisível a olho nu.",
+   "pron": "la-TÔM — 'o' fechado e 'm' final",
+   "curiosity": "Do grego 'atomos': 'indivisível'. Mas hoje sabemos que se divide!"
+  },
+  "tf38-05": {
+   "word": "la cellule",
+   "translit": null,
+   "example": "Le corps humain contient des milliards de cellules.",
+   "examplePt": "O corpo humano contém bilhões de células.",
+   "pron": "lá sé-LÜL — 'c' soa 's' e 'u' francês",
+   "curiosity": "O inglês Robert Hooke usou 'célula' em 1665, ao ver cortiça."
+  },
+  "tf38-06": {
+   "word": "la boussole",
+   "translit": null,
+   "example": "Sans boussole, nous serions perdus dans la forêt.",
+   "examplePt": "Sem bússola, estaríamos perdidos na floresta.",
+   "pron": "lá bu-SOL — 'ou' soa 'u' e 'ss' soa 's'",
+   "curiosity": "A bússola foi inventada na China."
+  },
+  "tf38-07": {
+   "word": "la loupe",
+   "translit": null,
+   "example": "Il observe le papillon avec une loupe.",
+   "examplePt": "Ele observa a borboleta com uma lupa.",
+   "pron": "lá LUP — 'ou' soa 'u'",
+   "curiosity": "'Passer à la loupe' é examinar algo com todo o cuidado."
+  },
+  "tf38-08": {
+   "word": "la pipette",
+   "translit": null,
+   "example": "Comment mesure-t-on une goutte avec la pipette ?",
+   "examplePt": "Como se mede uma gota com a pipeta?",
+   "pron": "lá pi-PÉT — 'e' aberto e 'tt' é um 't'",
+   "curiosity": "O sufixo '-ette' é um diminutivo, como em 'bicyclette'."
+  },
+  "tf38-09": {
+   "word": "la pile",
+   "translit": null,
+   "example": "Change la pile, la télécommande ne marche plus.",
+   "examplePt": "Troque a pilha, o controle não funciona mais.",
+   "pron": "lá PIL — o 'e' final é mudo",
+   "curiosity": "'Pile ou face ?' é o 'cara ou coroa' em francês."
+  },
+  "tf38-10": {
+   "word": "le prisme",
+   "translit": null,
+   "example": "Le prisme sépare la lumière en sept couleurs.",
+   "examplePt": "O prisma separa a luz em sete cores.",
+   "pron": "lö PRISM — o 'r' é gutural, 'm' final",
+   "curiosity": "Newton mostrou com um prisma que a luz branca tem todas as cores."
+  },
+  "tf39-01": {
+   "word": "le générateur",
+   "translit": null,
+   "example": "Le générateur produit de l'électricité pendant la panne.",
+   "examplePt": "O gerador produz eletricidade durante a queda de energia.",
+   "pron": "lö jê-nê-ra-TEUR — 'j' suave e 'eur' com 'ö' arredondado",
+   "curiosity": "O gerador transforma movimento em eletricidade."
+  },
+  "tf39-02": {
+   "word": "l'éolienne",
+   "translit": null,
+   "example": "Chaque éolienne tourne grâce au vent du nord.",
+   "examplePt": "Cada turbina eólica gira graças ao vento do norte.",
+   "pron": "lê-o-LIÉN — 'ê' fechado e 'ienne' soa 'iên'",
+   "curiosity": "'Éolienne' vem de Éole, o deus grego dos ventos."
+  },
+  "tf39-03": {
+   "word": "la centrale",
+   "translit": null,
+   "example": "La centrale alimente toute la région en électricité.",
+   "examplePt": "A usina abastece toda a região com eletricidade.",
+   "pron": "lá sã-TRAL — 'an' nasal e 'c' soa 's'",
+   "curiosity": "A França tira boa parte da sua eletricidade da energia nuclear."
+  },
+  "tf39-04": {
+   "word": "le bois de chauffage",
+   "translit": null,
+   "example": "Papa range le bois de chauffage dans la cave.",
+   "examplePt": "Papai guarda a lenha no porão.",
+   "pron": "lö BUÁ dö shô-FAJ — 'oi' soa 'uá' e 'ch' soa 'x'",
+   "curiosity": "'Bois' é tanto madeira como bosque; o contexto decide."
+  },
+  "tf39-05": {
+   "word": "le gaz",
+   "translit": null,
+   "example": "Ferme le gaz avant de partir, d'accord ?",
+   "examplePt": "Feche o gás antes de sair, está bem?",
+   "pron": "lö GAZ — 'z' final soa",
+   "curiosity": "Van Helmont criou 'gaz' do grego 'chaos', no século XVII."
+  },
+  "tf39-06": {
+   "word": "le fil",
+   "translit": null,
+   "example": "Le chat joue avec le fil rouge.",
+   "examplePt": "O gato brinca com o fio vermelho.",
+   "pron": "lö FIL — o 'l' final é pronunciado",
+   "curiosity": "'Un coup de fil' (golpe de fio) é um telefonema."
+  },
+  "tf39-07": {
+   "word": "la prise",
+   "translit": null,
+   "example": "Où est la prise pour brancher mon téléphone ?",
+   "examplePt": "Onde fica a tomada para ligar meu telefone?",
+   "pron": "lá PRIZ — 'r' gutural e 's' soa 'z'",
+   "curiosity": "'Prise de courant' é tomada; 'prise' vem de 'prendre', pegar."
+  },
+  "tf39-08": {
+   "word": "l'interrupteur",
+   "translit": null,
+   "example": "Appuie sur l'interrupteur pour allumer la lampe.",
+   "examplePt": "Aperte o interruptor para acender a lâmpada.",
+   "pron": "lé-té-rüp-TEUR — 'u' francês, 'eur' arredondado",
+   "curiosity": "Em francês se 'allume' a luz e também a televisão."
+  },
+  "tf39-09": {
+   "word": "le transformateur",
+   "translit": null,
+   "example": "Le transformateur baisse la tension du courant.",
+   "examplePt": "O transformador baixa a tensão da corrente.",
+   "pron": "lö trãs-for-ma-TEUR — 'an' nasal e 'eur' arredondado",
+   "curiosity": "Transformadores só funcionam com corrente alternada."
+  },
+  "tf39-10": {
+   "word": "le barrage",
+   "translit": null,
+   "example": "Le barrage retient l'eau de toute la vallée.",
+   "examplePt": "A barragem retém a água do vale inteiro.",
+   "pron": "lö ba-RAJ — 'g' suave soa 'j'",
+   "curiosity": "'Barrage routier' é o bloqueio na estrada."
+  },
+  "tf40-01": {
+   "word": "le bambou",
+   "translit": null,
+   "example": "Les pandas adorent mâcher du bambou frais.",
+   "examplePt": "Os pandas adoram mastigar bambu fresco.",
+   "pron": "lö bã-BU — 'an' nasal e o 'ou' soa 'u'",
+   "curiosity": "O bambu é uma gramínea, não uma árvore."
+  },
+  "tf40-02": {
+   "word": "la fougère",
+   "translit": null,
+   "example": "Une fougère pousse à l'ombre près du ruisseau.",
+   "examplePt": "Uma samambaia cresce na sombra perto do riacho.",
+   "pron": "lá fu-JÉR — 'g' soa 'j' e 'è' aberto",
+   "curiosity": "As samambaias existem há mais de 300 milhões de anos."
+  },
+  "tf40-03": {
+   "word": "la mousse",
+   "translit": null,
+   "example": "La mousse verte couvre les pierres humides.",
+   "examplePt": "O musgo verde cobre as pedras úmidas.",
+   "pron": "lá MUS — 'ou' soa 'u'",
+   "curiosity": "'La mousse' é o musgo, a espuma e a sobremesa. 'Le mousse' é o grumete!"
+  },
+  "tf40-04": {
+   "word": "l'orchidée",
+   "translit": null,
+   "example": "Cette orchidée fleurit seulement une fois par an.",
+   "examplePt": "Esta orquídea floresce só uma vez por ano.",
+   "pron": "lor-ki-DÊ — 'ch' soa 'k' e 'ée' fechado",
+   "curiosity": "As orquídeas formam uma das maiores famílias de plantas com flor."
+  },
+  "tf40-05": {
+   "word": "le tournesol",
+   "translit": null,
+   "example": "Le tournesol suit le soleil toute la journée.",
+   "examplePt": "O girassol acompanha o sol o dia todo.",
+   "pron": "lö tur-nö-SOL — 'ou' soa 'u' e o 'e' é leve",
+   "curiosity": "'Tournesol' é literalmente 'gira-sol', em francês."
+  },
+  "tf40-06": {
+   "word": "le palmier",
+   "translit": null,
+   "example": "Le palmier se balance doucement dans la brise.",
+   "examplePt": "A palmeira balança suavemente na brisa.",
+   "pron": "lö pal-MIÊ — 'ier' soa 'iê' e o 'l' soa",
+   "curiosity": "'Palmier' é também um biscoito folhado em formato de palmeira."
+  },
+  "tf40-07": {
+   "word": "le pétale",
+   "translit": null,
+   "example": "Un pétale rose est tombé sur la table.",
+   "examplePt": "Uma pétala rosa caiu sobre a mesa.",
+   "pron": "lö pê-TAL — 'é' fechado e o 'l' soa",
+   "curiosity": "Atenção: em francês é masculino: un pétale."
+  },
+  "tf40-08": {
+   "word": "l'épine",
+   "translit": null,
+   "example": "Aïe ! Une épine m'a piqué le doigt !",
+   "examplePt": "Ai! Um espinho me picou o dedo!",
+   "pron": "lê-PIN — 'é' fechado e 'ine' soa 'in' puro",
+   "curiosity": "'Épine dorsale' é a coluna vertebral, a 'espinha das costas'."
+  },
+  "tf40-09": {
+   "word": "la pomme de pin",
+   "translit": null,
+   "example": "L'écureuil ronge une pomme de pin dans l'arbre.",
+   "examplePt": "O esquilo rói uma pinha na árvore.",
+   "pron": "lá pom dö PÃ — 'pin' é nasal",
+   "curiosity": "'Pomme de pin' é literalmente 'maçã de pinheiro'."
+  },
+  "tf40-10": {
+   "word": "le trèfle",
+   "translit": null,
+   "example": "Elle cherche un trèfle à quatre feuilles dans l'herbe.",
+   "examplePt": "Ela procura um trevo de quatro folhas na grama.",
+   "pron": "lö TRÉFL — 'è' aberto e 'r' gutural",
+   "curiosity": "'Trèfle' é também o naipe de paus nas cartas francesas."
+  },
+  "tf41-01": {
+   "word": "la rate",
+   "translit": null,
+   "example": "La rate aide le corps à filtrer le sang.",
+   "examplePt": "O baço ajuda o corpo a filtrar o sangue.",
+   "pron": "lá RAT — 'a' aberto e o 'e' final é mudo",
+   "curiosity": "'Se dilater la rate' é rir muito, de barriga cheia."
+  },
+  "tf41-02": {
+   "word": "le foie",
+   "translit": null,
+   "example": "Après la fête, il a mal au foie.",
+   "examplePt": "Depois da festa, ele está com o fígado ruim.",
+   "pron": "lö FUÁ — 'oie' soa 'uá'",
+   "curiosity": "Para os franceses, 'une crise de foie' é uma indigestão."
+  },
+  "tf41-03": {
+   "word": "le rein",
+   "translit": null,
+   "example": "Un rein filtre le sang et fabrique l'urine.",
+   "examplePt": "Um rim filtra o sangue e produz a urina.",
+   "pron": "lö RÃ — 'ein' é nasal, como 'rã'",
+   "curiosity": "'Les reins', no plural, também é a parte baixa das costas."
+  },
+  "tf41-04": {
+   "word": "l'estomac",
+   "translit": null,
+   "example": "Mon estomac gargouille : j'ai tellement faim !",
+   "examplePt": "Meu estômago ronca: estou com tanta fome!",
+   "pron": "lés-to-MÁ — o 'c' final é mudo",
+   "curiosity": "'Avoir l'estomac dans les talons' é estar morrendo de fome."
+  },
+  "tf41-05": {
+   "word": "le pancréas",
+   "translit": null,
+   "example": "Le pancréas produit l'insuline dont on a besoin.",
+   "examplePt": "O pâncreas produz a insulina de que precisamos.",
+   "pron": "lö pã-kré-Á — 'an' nasal e 'as' final soa 'á'",
+   "curiosity": "Vem do grego 'pan' (tudo) e 'kreas' (carne)."
+  },
+  "tf41-06": {
+   "word": "l'intestin",
+   "translit": null,
+   "example": "L'intestin mesure plusieurs mètres de long.",
+   "examplePt": "O intestino mede vários metros de comprimento.",
+   "pron": "lã-tés-TÃ — duas vogais nasais",
+   "curiosity": "'Intestin grêle' é o delgado; 'gros intestin' é o grosso."
+  },
+  "tf41-07": {
+   "word": "la colonne vertébrale",
+   "translit": null,
+   "example": "Quel sport protège la colonne vertébrale ?",
+   "examplePt": "Qual esporte protege a coluna vertebral?",
+   "pron": "lá ko-LON vér-tê-BRAL — 'o' aberto e 'r' gutural",
+   "curiosity": "'Colonne' é também a coluna de um templo ou de um jornal."
+  },
+  "tf41-08": {
+   "word": "la côte",
+   "translit": null,
+   "example": "Il s'est cassé une côte en tombant du vélo.",
+   "examplePt": "Ele quebrou uma costela ao cair da bicicleta.",
+   "pron": "lá KÔT — 'ô' fechado",
+   "curiosity": "'Côte' é costela, costa litorânea e costeleta, tudo com a mesma palavra!"
+  },
+  "tf41-09": {
+   "word": "la trachée",
+   "translit": null,
+   "example": "L'air passe par la trachée avant les poumons.",
+   "examplePt": "O ar passa pela traqueia antes dos pulmões.",
+   "pron": "lá tra-SHÊ — 'ch' soa 'x' e 'ée' é 'ê'",
+   "curiosity": "A traqueia é reforçada por anéis de cartilage para não murchar."
+  },
+  "tf41-10": {
+   "word": "la vessie",
+   "translit": null,
+   "example": "Pourquoi dit-on 'prendre des vessies pour des lanternes' ?",
+   "examplePt": "Por que se diz 'tomar bexigas por lanternas'?",
+   "pron": "lá vé-SI — 'ss' soa 's' e 'ie' soa 'i'",
+   "curiosity": "'Prendre des vessies pour des lanternes' é confundir tudo, de propósito!"
+  },
+  "tf42-01": {
+   "word": "la veine",
+   "translit": null,
+   "example": "Cette veine bleue passe sous la peau du bras.",
+   "examplePt": "Esta veia azul passa sob a pele do braço.",
+   "pron": "lá VÉN — 'ei' soa 'é'",
+   "curiosity": "'Avoir de la veine' é ter sorte: literalmente 'ter veia'."
+  },
+  "tf42-02": {
+   "word": "le nerf",
+   "translit": null,
+   "example": "Un nerf transmet la douleur jusqu'au cerveau.",
+   "examplePt": "Um nervo transmite a dor até o cérebro.",
+   "pron": "lö NÉR — o 'f' final é mudo",
+   "curiosity": "'Le nerf de la guerre' é o dinheiro: o 'nervo da guerra'."
+  },
+  "tf42-03": {
+   "word": "le tendon",
+   "translit": null,
+   "example": "Le tendon d'Achille relie le mollet au talon.",
+   "examplePt": "O tendão de Aquiles liga a panturrilha ao calcanhar.",
+   "pron": "lö tã-DÕ — 'en' e 'on' são nasais",
+   "curiosity": "O tendão de Aquiles é o maior e mais forte do corpo humano."
+  },
+  "tf42-04": {
+   "word": "la rétine",
+   "translit": null,
+   "example": "Que voit la rétine quand on ferme les yeux ?",
+   "examplePt": "O que a retina vê quando fechamos os olhos?",
+   "pron": "lá rê-TIN — 'é' fechado e 'r' gutural",
+   "curiosity": "A imagem na retina fica de cabeça para baixo; o cérebro a endireita."
+  },
+  "tf42-05": {
+   "word": "la pupille",
+   "translit": null,
+   "example": "La pupille se ferme quand la lumière est forte.",
+   "examplePt": "A pupila se fecha quando a luz é forte.",
+   "pron": "lá pü-PIL — 'u' francês e 'll' soa 'l'",
+   "curiosity": "A pupila se abre no escuro para deixar entrar mais luz."
+  },
+  "tf42-06": {
+   "word": "le tympan",
+   "translit": null,
+   "example": "Un bruit fort peut abîmer le tympan.",
+   "examplePt": "Um barulho forte pode danificar o tímpano.",
+   "pron": "lö tã-PÃ — 'y' soa 'i' e duas vogais nasais",
+   "curiosity": "'Tympan' também é um painel triangular sobre a porta de uma igreja."
+  },
+  "tf42-07": {
+   "word": "le cartilage",
+   "translit": null,
+   "example": "Le nez est fait de cartilage, pas d'os.",
+   "examplePt": "O nariz é feito de cartilagem, não de osso.",
+   "pron": "lö kar-ti-LAJ — 'g' soa 'j'",
+   "curiosity": "As orelhas também têm cartilage, por isso dobram sem quebrar."
+  },
+  "tf42-08": {
+   "word": "l'œsophage",
+   "translit": null,
+   "example": "La nourriture descend par l'œsophage jusqu'à l'estomac.",
+   "examplePt": "O alimento desce pelo esôfago até o estômago.",
+   "pron": "lé-zo-FAJ — 'œ' soa 'é' e 'g' soa 'j'",
+   "curiosity": "'Œ' é uma letra unida do francês: veja também œil e sœur."
+  },
+  "tf42-09": {
+   "word": "la moelle",
+   "translit": null,
+   "example": "La moelle osseuse fabrique les cellules du sang.",
+   "examplePt": "A medula óssea fabrica as células do sangue.",
+   "pron": "lá MUAL — 'oe' soa 'uá' e 'll' soa 'l'",
+   "curiosity": "'Moelle épinière' é a medula espinhal, dentro da coluna."
+  },
+  "tf42-10": {
+   "word": "la glande",
+   "translit": null,
+   "example": "La glande salivaire produit de la salive.",
+   "examplePt": "A glândula salivar produz saliva.",
+   "pron": "lá GLÃD — 'an' nasal e 'e' final mudo",
+   "curiosity": "Vem do latim 'glans', que significa bolota de carvalho."
+  },
+  "tf43-01": {
+   "word": "la gaze",
+   "translit": null,
+   "example": "L'infirmière enroule la gaze autour de la main.",
+   "examplePt": "A enfermeira enrola a gaze ao redor da mão.",
+   "pron": "lá GAZ — 's' entre vogais soa 'z'",
+   "curiosity": "A 'gaze' é um tecido leve e transparente, usado também em vestidos."
+  },
+  "tf43-02": {
+   "word": "la seringue",
+   "translit": null,
+   "example": "Pourquoi les enfants ont-ils peur de la seringue ?",
+   "examplePt": "Por que as crianças têm medo da seringa?",
+   "pron": "lá sé-RÃG — 'in' nasal e 'g' duro",
+   "curiosity": "Vem do grego 'syrinx', que significa tubo ou flauta."
+  },
+  "tf43-03": {
+   "word": "l'attelle",
+   "translit": null,
+   "example": "Une attelle immobilise le poignet cassé.",
+   "examplePt": "Uma tala imobiliza o pulso quebrado.",
+   "pron": "la-TÉL — 'tt' é um 't' só e 'e' aberto",
+   "curiosity": "A 'attelle' é removível, diferente do gesso."
+  },
+  "tf43-04": {
+   "word": "le plâtre",
+   "translit": null,
+   "example": "Elle a un bras dans le plâtre depuis lundi.",
+   "examplePt": "Ela está com o braço engessado desde segunda.",
+   "pron": "lö PLATR — 'â' é 'a' longo",
+   "curiosity": "'Plâtre' é gesso de ossos e também o de paredes."
+  },
+  "tf43-05": {
+   "word": "la béquille",
+   "translit": null,
+   "example": "Il marche avec une béquille depuis son accident.",
+   "examplePt": "Ele anda de muleta desde o acidente.",
+   "pron": "lá bê-KIY — 'qu' soa 'k' e 'ill' soa 'i'",
+   "curiosity": "'Béquille' é também o apoio de descanso da moto."
+  },
+  "tf43-06": {
+   "word": "le brancard",
+   "translit": null,
+   "example": "Deux secouristes portent le brancard avec soin.",
+   "examplePt": "Dois socorristas carregam a maca com cuidado.",
+   "pron": "lö brã-KAR — 'an' nasal e 'd' final mudo",
+   "curiosity": "Quem carrega a maca é o 'brancardier'."
+  },
+  "tf43-07": {
+   "word": "la radiographie",
+   "translit": null,
+   "example": "Le médecin regarde la radiographie du genou.",
+   "examplePt": "O médico olha o raio-x do joelho.",
+   "pron": "lá ra-dio-gra-FI — 'g' duro e 'ie' soa 'i'",
+   "curiosity": "No dia a dia, abrevia-se: 'une radio'."
+  },
+  "tf43-08": {
+   "word": "la perfusion",
+   "translit": null,
+   "example": "Une perfusion lui donne du liquide pendant une heure.",
+   "examplePt": "Um soro lhe dá líquido durante uma hora.",
+   "pron": "lá pér-fü-ZIÕ — 'u' francês e 'sion' soa 'ziõ'",
+   "curiosity": "'Perfusion' vem do latim 'perfundere': derramar por inteiro."
+  },
+  "tf43-09": {
+   "word": "le fauteuil roulant",
+   "translit": null,
+   "example": "Le fauteuil roulant passe facilement par la porte.",
+   "examplePt": "A cadeira de rodas passa facilmente pela porta.",
+   "pron": "lö fô-TEUI ru-LÃ — 'eui' soa 'eu-i' e 'ant' nasal",
+   "curiosity": "'Fauteuil' é poltrona; 'roulant' significa que rola."
+  },
+  "tf43-10": {
+   "word": "la pommade",
+   "translit": null,
+   "example": "Mets de la pommade sur la brûlure.",
+   "examplePt": "Passe pomada na queimadura.",
+   "pron": "lá po-MAD — 'o' aberto",
+   "curiosity": "'Pommade' tem 'pomme' escondida: antigamente levava maçã."
+  },
+  "tf44-01": {
+   "word": "le frisson",
+   "translit": null,
+   "example": "Un frisson parcourt mon dos quand il fait froid.",
+   "examplePt": "Um calafrio percorre minhas costas no frio.",
+   "pron": "lö fri-SÕ — 's' soa 's' e 'on' nasal",
+   "curiosity": "'Frisson' é também o arrepio de emoção diante de algo lindo."
+  },
+  "tf44-02": {
+   "word": "l'éternuement",
+   "translit": null,
+   "example": "Qui a fait cet énorme éternuement ?",
+   "examplePt": "Quem deu esse espirro enorme?",
+   "pron": "lê-tér-nü-MÃ — 'u' francês e 'ent' nasal",
+   "curiosity": "Depois de um espirro, os franceses dizem 'À tes souhaits !'."
+  },
+  "tf44-03": {
+   "word": "le hoquet",
+   "translit": null,
+   "example": "Le hoquet disparaît quand on retient son souffle.",
+   "examplePt": "O soluço desaparece quando prendemos a respiração.",
+   "pron": "lö o-KÊ — o 'h' é mudo e o 'q' soa 'k'",
+   "curiosity": "'Hoquet' tem 'h' aspirado: 'le hoquet', sem ligação."
+  },
+  "tf44-04": {
+   "word": "le bâillement",
+   "translit": null,
+   "example": "Son bâillement est contagieux à toute la classe.",
+   "examplePt": "O bocejo dele contagia a classe toda.",
+   "pron": "lö bá-ie-MÃ — 'â' longo e 'll' soa 'ie'",
+   "curiosity": "'Bâiller aux corneilles' é ficar de bobeira, olhando as nuvens."
+  },
+  "tf44-05": {
+   "word": "la crampe",
+   "translit": null,
+   "example": "Quelle crampe dans le mollet après la course !",
+   "examplePt": "Que cãibra na panturrilha depois da corrida!",
+   "pron": "lá KRÃP — 'an' nasal e o 'p' soa",
+   "curiosity": "Em francês, a cãibra se 'tem': j'ai une crampe."
+  },
+  "tf44-06": {
+   "word": "l'ampoule",
+   "translit": null,
+   "example": "Mes nouvelles chaussures m'ont fait une ampoule.",
+   "examplePt": "Meus sapatos novos me fizeram uma bolha.",
+   "pron": "lã-PUL — 'am' é nasal e 'ou' soa 'u'",
+   "curiosity": "'Ampoule' também é a lâmpada elétrica!"
+  },
+  "tf44-07": {
+   "word": "l'hématome",
+   "translit": null,
+   "example": "Il a un gros hématome sur la cuisse.",
+   "examplePt": "Ele tem um grande hematoma na coxa.",
+   "pron": "lê-ma-TÔM — o 'h' é mudo",
+   "curiosity": "Do grego 'haima', sangue."
+  },
+  "tf44-08": {
+   "word": "la cicatrice",
+   "translit": null,
+   "example": "Cette cicatrice raconte une chute de vélo.",
+   "examplePt": "Esta cicatriz conta uma queda de bicicleta.",
+   "pron": "lá si-ka-TRIS — 'c' soa 's' e 'tr' gutural",
+   "curiosity": "Pode ser figurado: uma ferida emocional deixa 'une cicatrice'."
+  },
+  "tf44-09": {
+   "word": "la migraine",
+   "translit": null,
+   "example": "Cette migraine m'empêche de lire depuis ce matin.",
+   "examplePt": "Esta enxaqueca me impede de ler desde cedo.",
+   "pron": "lá mi-GRÉN — 'ai' soa 'é'",
+   "curiosity": "Vem do grego 'hemikrania': 'meia cabeça'."
+  },
+  "tf44-10": {
+   "word": "l'allergie",
+   "translit": null,
+   "example": "Est-ce que tu as une allergie au pollen ?",
+   "examplePt": "Você tem alergia a pólen?",
+   "pron": "la-lér-JI — 'g' soa 'j' e 'ie' soa 'i'",
+   "curiosity": "Do grego 'allos' (outro) e 'ergon' (reação)."
+  },
+  "tf45-01": {
+   "word": "le pont",
+   "translit": null,
+   "example": "Les enfants traversent le pont en courant.",
+   "examplePt": "As crianças atravessam a ponte correndo.",
+   "pron": "lö PÕ — 'on' nasal e 't' mudo",
+   "curiosity": "'Faire le pont' é emendar um feriado com o fim de semana."
+  },
+  "tf45-02": {
+   "word": "le tunnel",
+   "translit": null,
+   "example": "Le train disparaît dans le tunnel sombre.",
+   "examplePt": "O trem desaparece no túnel escuro.",
+   "pron": "lö tü-NÉL — 'u' francês e 'e' aberto",
+   "curiosity": "O túnel sob o Canal da Mancha liga a França à Inglaterra."
+  },
+  "tf45-03": {
+   "word": "le feu tricolore",
+   "translit": null,
+   "example": "Attends que le feu tricolore passe au vert.",
+   "examplePt": "Espere o semáforo ficar verde.",
+   "pron": "lö FEU tri-ko-LOR — 'eu' fechado e 'r' gutural",
+   "curiosity": "'Brûler un feu' é furar o sinal: 'queimar um fogo'."
+  },
+  "tf45-04": {
+   "word": "le viaduc",
+   "translit": null,
+   "example": "Le viaduc de Millau est l'un des plus hauts du monde.",
+   "examplePt": "O viaduto de Millau é um dos mais altos do mundo.",
+   "pron": "lö vi-a-DÜK — 'u' francês e 'c' final soa 'k'",
+   "curiosity": "'Viaduc' vem de 'via' (caminho) e 'ductus' (conduzido)."
+  },
+  "tf45-05": {
+   "word": "le trottoir",
+   "translit": null,
+   "example": "Ne marche pas au bord du trottoir !",
+   "examplePt": "Não ande na beirada da calçada!",
+   "pron": "lö tro-TUAR — 'oi' soa 'uá' e 'r' final gutural",
+   "curiosity": "'Trottoir' vem de 'trotter': antes o passo era de trote."
+  },
+  "tf45-06": {
+   "word": "l'égout",
+   "translit": null,
+   "example": "Les égouts de Paris ont plus de deux mille kilomètres.",
+   "examplePt": "Os esgotos de Paris têm mais de dois mil quilômetros.",
+   "pron": "lê-GU — 'g' duro e 't' mudo",
+   "curiosity": "Dá para visitar um museu nos esgotos de Paris."
+  },
+  "tf45-07": {
+   "word": "le poteau",
+   "translit": null,
+   "example": "La voiture a heurté un poteau près de l'école.",
+   "examplePt": "O carro bateu num poste perto da escola.",
+   "pron": "lö po-TÔ — 'eau' soa 'ô'",
+   "curiosity": "No futebol, 'le poteau' é a trave do gol."
+  },
+  "tf45-08": {
+   "word": "l'autoroute",
+   "translit": null,
+   "example": "Prenons l'autoroute pour arriver plus vite à Lyon.",
+   "examplePt": "Vamos pela rodovia para chegar mais rápido a Lyon.",
+   "pron": "lô-to-RUT — 'au' soa 'ô' e 'ou' soa 'u'",
+   "curiosity": "Muitas autoroutes francesas têm pedágio: 'le péage'."
+  },
+  "tf45-09": {
+   "word": "le rond-point",
+   "translit": null,
+   "example": "Au prochain rond-point, tourne à droite.",
+   "examplePt": "No próximo retorno, vire à direita.",
+   "pron": "lö rõ-PUÃ — 'on' nasal e 'oin' soa 'uã'",
+   "curiosity": "'Rond-point' é literalmente 'ponto redondo'."
+  },
+  "tf45-10": {
+   "word": "la bouche d'égout",
+   "translit": null,
+   "example": "Un enfant a laissé tomber sa balle dans la bouche d'égout.",
+   "examplePt": "Uma criança deixou a bola cair no bueiro.",
+   "pron": "lá BUSH dê-GU — 'ou' soa 'u' e 'ch' soa 'x'",
+   "curiosity": "'Bouche' é boca: o bueiro é a 'boca do esgoto'."
+  },
+  "tf46-01": {
+   "word": "le gratte-ciel",
+   "translit": null,
+   "example": "Un gratte-ciel de cent étages domine la ville.",
+   "examplePt": "Um arranha-céu de cem andares domina a cidade.",
+   "pron": "lö grat-SIÉL — 'ie' soa 'iél' e 'c' soa 's'",
+   "curiosity": "Literalmente é um 'raspa-céu': 'gratter' é raspar."
+  },
+  "tf46-02": {
+   "word": "le phare",
+   "translit": null,
+   "example": "Le phare guide les bateaux dans la nuit.",
+   "examplePt": "O farol guia os barcos na noite.",
+   "pron": "lö FAR — 'ph' soa 'f'",
+   "curiosity": "'Phare' também é o farol do carro."
+  },
+  "tf46-03": {
+   "word": "le château",
+   "translit": null,
+   "example": "Quel château a des tours et un pont-levis ?",
+   "examplePt": "Qual castelo tem torres e uma ponte levadiça?",
+   "pron": "lö sha-TÔ — 'ch' soa 'x' e 'eau' soa 'ô'",
+   "curiosity": "O circunflexo substitui um antigo 's': de 'castel' veio 'château'."
+  },
+  "tf46-04": {
+   "word": "le moulin",
+   "translit": null,
+   "example": "Le meunier moud le blé dans le vieux moulin.",
+   "examplePt": "O moleiro mói o trigo no velho moinho.",
+   "pron": "lö mu-LÃ — 'ou' soa 'u' e 'in' nasal",
+   "curiosity": "'Moulin à café' é o moedor de café."
+  },
+  "tf46-05": {
+   "word": "l'aqueduc",
+   "translit": null,
+   "example": "Le Pont du Gard est un aqueduc romain.",
+   "examplePt": "O Pont du Gard é um aqueduto romano.",
+   "pron": "la-kë-DÜK — 'qu' soa 'k' e 'u' francês",
+   "curiosity": "Na França, o Pont du Gard é um aqueduto romano de quase dois mil anos."
+  },
+  "tf46-06": {
+   "word": "l'usine",
+   "translit": null,
+   "example": "Mon oncle travaille dans une usine de jouets.",
+   "examplePt": "Meu tio trabalha numa fábrica de brinquedos.",
+   "pron": "lü-ZIN — 'u' francês e 's' soa 'z'",
+   "curiosity": "'Usine' vem do latim 'officina', oficina."
+  },
+  "tf46-07": {
+   "word": "la muraille",
+   "translit": null,
+   "example": "La muraille protégeait la ville contre les attaques.",
+   "examplePt": "A muralha protegia a cidade contra ataques.",
+   "pron": "lá mü-RAIY — 'u' francês e 'aille' soa 'ai'",
+   "curiosity": "La Grande Muraille é a Grande Muralha da China."
+  },
+  "tf46-08": {
+   "word": "le port",
+   "translit": null,
+   "example": "Marseille a le plus grand port de France.",
+   "examplePt": "Marselha tem o maior porto da França.",
+   "pron": "lö PÓR — 'o' aberto e o 't' final é mudo",
+   "curiosity": "'Port' no plural 'ports' soa igual; o 't' nunca soa."
+  },
+  "tf46-09": {
+   "word": "la tour",
+   "translit": null,
+   "example": "Pourquoi monte-t-on tout en haut de la tour ?",
+   "examplePt": "Por que se sobe até o alto da torre?",
+   "pron": "lá TUR — 'ou' soa 'u' e o 'r' é gutural",
+   "curiosity": "'La tour' é torre; 'le tour' é volta ou passeio."
+  },
+  "tf46-10": {
+   "word": "la grange",
+   "translit": null,
+   "example": "Les vaches dorment dans la grange en hiver.",
+   "examplePt": "As vacas dormem no celeiro no inverno.",
+   "pron": "lá GRÃJ — 'an' nasal e 'g' soa 'j'",
+   "curiosity": "'Grange' tem a mesma raiz de 'grain', o grão."
+  },
+  "tf47-01": {
+   "word": "la pyramide",
+   "translit": null,
+   "example": "Quelle pyramide a plus de quatre mille cinq cents ans ?",
+   "examplePt": "Qual pirâmide tem mais de quatro mil e quinhentos anos?",
+   "pron": "lá pi-ra-MID — 'y' soa 'i'",
+   "curiosity": "A Grande Pirâmide do Egito foi construída para um faraó."
+  },
+  "tf47-02": {
+   "word": "la momie",
+   "translit": null,
+   "example": "Les Égyptiens ont aussi momifié des chats.",
+   "examplePt": "Os egípcios também mumificaram gatos.",
+   "pron": "lá mo-MI — o 'e' final é mudo",
+   "curiosity": "Egito antigo: gatos e crocodilos também viravam 'momies'."
+  },
+  "tf47-03": {
+   "word": "l'armure",
+   "translit": null,
+   "example": "Le chevalier enfile son armure avant le combat.",
+   "examplePt": "O cavaleiro veste a armadura antes da luta.",
+   "pron": "lar-MÜR — 'u' francês e 'r' gutural",
+   "curiosity": "Uma armure completa podia pesar mais de vinte quilos."
+  },
+  "tf47-04": {
+   "word": "le parchemin",
+   "translit": null,
+   "example": "Le moine copie le texte sur un parchemin.",
+   "examplePt": "O monge copia o texto num pergaminho.",
+   "pron": "lö par-shë-MÃ — 'ch' soa 'x' e 'in' nasal",
+   "curiosity": "'Parchemin' vem de Pérgamo, antiga cidade da Ásia Menor."
+  },
+  "tf47-05": {
+   "word": "le trône",
+   "translit": null,
+   "example": "Le roi s'assoit sur son trône doré.",
+   "examplePt": "O rei se senta em seu trono dourado.",
+   "pron": "lö TRÔN — 'ô' fechado",
+   "curiosity": "Vem do grego 'thronos', que significa cadeira."
+  },
+  "tf47-06": {
+   "word": "la couronne",
+   "translit": null,
+   "example": "La reine porte une couronne de diamants.",
+   "examplePt": "A rainha usa uma coroa de diamantes.",
+   "pron": "lá ku-RON — 'ou' soa 'u' e 'o' aberto",
+   "curiosity": "'Couronne' é também a coroa de um dente."
+  },
+  "tf47-07": {
+   "word": "le trésor",
+   "translit": null,
+   "example": "Où les pirates ont-ils caché le trésor ?",
+   "examplePt": "Onde os piratas esconderam o tesouro?",
+   "pron": "lö tré-ZÓR — 'é' fechado e 's' soa 'z'",
+   "curiosity": "'Mon trésor' é um carinho: 'meu tesouro'."
+  },
+  "tf47-08": {
+   "word": "l'amphore",
+   "translit": null,
+   "example": "Une amphore contenait de l'huile ou du vin.",
+   "examplePt": "Uma ânfora guardava azeite ou vinho.",
+   "pron": "lã-FÓR — 'am' nasal e 'ph' soa 'f'",
+   "curiosity": "'Amphore' vem do grego: 'amphi' (dois) e 'phoreus' (portador)."
+  },
+  "tf47-09": {
+   "word": "le carrosse",
+   "translit": null,
+   "example": "Cendrillon monte dans un carrosse doré.",
+   "examplePt": "Cinderela sobe numa carruagem dourada.",
+   "pron": "lö ka-RÓS — 'rr' é um 'r' gutural",
+   "curiosity": "No conto de Cendrillon, uma abóbora vira un carrosse."
+  },
+  "tf47-10": {
+   "word": "la torche",
+   "translit": null,
+   "example": "Le héros avance avec une torche dans la grotte.",
+   "examplePt": "O herói avança com uma tocha na gruta.",
+   "pron": "lá TÓRSH — 'ch' soa 'x'",
+   "curiosity": "A tocha olímpica é acesa em Olímpia, na Grécia."
+  },
+  "tf48-01": {
+   "word": "le chef d'orchestre",
+   "translit": null,
+   "example": "Le chef d'orchestre lève les bras en silence.",
+   "examplePt": "O maestro ergue os braços em silêncio.",
+   "pron": "lö shéf dor-KÉSTR — 'ch' soa 'x', depois 'ch' soa 'k'",
+   "curiosity": "Literalmente é o 'chefe da orquestra'."
+  },
+  "tf48-02": {
+   "word": "la partition",
+   "translit": null,
+   "example": "Peux-tu lire la partition sans te tromper ?",
+   "examplePt": "Você consegue ler a partitura sem errar?",
+   "pron": "lá par-ti-SIÕ — 'ti' soa 'si' antes de 'on'",
+   "curiosity": "Falso amigo: 'partition' é partitura, não 'partição'."
+  },
+  "tf48-03": {
+   "word": "la scène",
+   "translit": null,
+   "example": "La chanteuse entre sur la scène sous les applaudissements.",
+   "examplePt": "A cantora entra no palco sob aplausos.",
+   "pron": "lá SÉN — 'sc' soa 's' e 'è' aberto",
+   "curiosity": "'Scène de ménage' é uma briga de casal."
+  },
+  "tf48-04": {
+   "word": "le public",
+   "translit": null,
+   "example": "Le public se lève pour applaudir le chanteur.",
+   "examplePt": "A plateia se levanta para aplaudir o cantor.",
+   "pron": "lö pü-BLIK — 'u' francês e 'c' final soa 'k'",
+   "curiosity": "'Public' sem 'e' é o masculino; 'publique' é adjetivo feminino."
+  },
+  "tf48-05": {
+   "word": "le microphone",
+   "translit": null,
+   "example": "Il tient le microphone avec les deux mains.",
+   "examplePt": "Ele segura o microfone com as duas mãos.",
+   "pron": "lö mi-kro-FON — 'ph' soa 'f' e 'on' é nasal",
+   "curiosity": "No dia a dia, diz-se 'un micro'."
+  },
+  "tf48-06": {
+   "word": "le chœur",
+   "translit": null,
+   "example": "Le chœur chante en trois langues.",
+   "examplePt": "O coro canta em três línguas.",
+   "pron": "lö KEUR — 'ch' soa 'k' e 'œu' como 'eu' aberto",
+   "curiosity": "'Chœur' soa igual a 'cœur', o coração!"
+  },
+  "tf48-07": {
+   "word": "l'opéra",
+   "translit": null,
+   "example": "Tu veux voir un opéra ce week-end ?",
+   "examplePt": "Você quer ver uma ópera neste fim de semana?",
+   "pron": "lô-pê-RA — 'é' fechado e 'a' final",
+   "curiosity": "Atenção ao gênero: 'un opéra' é masculino."
+  },
+  "tf48-08": {
+   "word": "la baguette",
+   "translit": null,
+   "example": "Le chef d'orchestre agite la baguette avec énergie.",
+   "examplePt": "O maestro agita a batuta com energia.",
+   "pron": "lá ba-GÉT — 'gu' soa 'g' e 'ette' soa 'ét'",
+   "curiosity": "'Baguette' é o pão, a batuta e até os pauzinhos orientais!"
+  },
+  "tf48-09": {
+   "word": "le métronome",
+   "translit": null,
+   "example": "Le métronome bat la mesure sans se fatiguer.",
+   "examplePt": "O metrônomo marca o compasso sem se cansar.",
+   "pron": "lö mê-tro-NÓM — 'é' fechado e 'o' aberto",
+   "curiosity": "Do grego 'metron' (medida) e 'nomos' (lei)."
+  },
+  "tf48-10": {
+   "word": "la loge",
+   "translit": null,
+   "example": "L'artiste se prépare dans sa loge.",
+   "examplePt": "A artista se prepara no seu camarim.",
+   "pron": "lá LÔJ — 'o' fechado e 'g' soa 'j'",
+   "curiosity": "'Loge' também é o camarote de teatro."
+  },
+  "tf49-01": {
+   "word": "l'escrime",
+   "translit": null,
+   "example": "Le fleuret est une arme de l'escrime.",
+   "examplePt": "O florete é uma arma da esgrima.",
+   "pron": "lés-KRIM — 'c' soa 'k' e o 'e' é mudo",
+   "curiosity": "As três armas da esgrima são: épée, fleuret e sabre."
+  },
+  "tf49-02": {
+   "word": "l'aviron",
+   "translit": null,
+   "example": "Au rythme de l'aviron, le bateau glisse sur l'eau.",
+   "examplePt": "No ritmo do remo, o barco desliza na água.",
+   "pron": "la-vi-RÕ — 'on' final nasal",
+   "curiosity": "No remo, rema-se de costas para o destino."
+  },
+  "tf49-03": {
+   "word": "le marathon",
+   "translit": null,
+   "example": "Il court le marathon en moins de quatre heures.",
+   "examplePt": "Ele corre a maratona em menos de quatro horas.",
+   "pron": "lö ma-ra-TÕ — 'th' soa 't' e 'on' é nasal",
+   "curiosity": "A maratona tem 42,195 quilômetros."
+  },
+  "tf49-04": {
+   "word": "le saut à la perche",
+   "translit": null,
+   "example": "Quel athlète vole avec le saut à la perche ?",
+   "examplePt": "Qual atleta voa no salto com vara?",
+   "pron": "lö SÔ a lá PÉRSH — 'au' soa 'ô' e 'ch' soa 'x'",
+   "curiosity": "'Perche' é vara e também o peixe perca."
+  },
+  "tf49-05": {
+   "word": "le patinage",
+   "translit": null,
+   "example": "Le patinage sur glace demande beaucoup d'équilibre.",
+   "examplePt": "A patinação no gelo exige muito equilíbrio.",
+   "pron": "lö pa-ti-NAJ — 'g' soa 'j'",
+   "curiosity": "'Patinoire' é a pista de patinação."
+  },
+  "tf49-06": {
+   "word": "le surf",
+   "translit": null,
+   "example": "Biarritz attire les surfeurs du monde entier.",
+   "examplePt": "Biarritz atrai surfistas do mundo todo.",
+   "pron": "lö SEURF — 'u' soa 'eu' aberto e o 'f' soa",
+   "curiosity": "Biarritz, no sudoeste da França, é famosa pelo surf."
+  },
+  "tf49-07": {
+   "word": "le tir à l'arc",
+   "translit": null,
+   "example": "Le tir à l'arc demande un œil très précis.",
+   "examplePt": "O tiro com arco exige um olho muito preciso.",
+   "pron": "lö TIR a LARK — o 'c' final soa 'k'",
+   "curiosity": "'Tir' é tiro; 'à l'arc' significa 'com arco'."
+  },
+  "tf49-08": {
+   "word": "la gymnastique",
+   "translit": null,
+   "example": "La gymnastique rythmique utilise un ruban coloré.",
+   "examplePt": "A ginástica rítmica usa uma fita colorida.",
+   "pron": "lá jim-nas-TIK — 'g' soa 'j' e 'y' soa 'i'",
+   "curiosity": "Do grego 'gymnos' (nu): os atletas gregos treinavam sem roupa."
+  },
+  "tf49-09": {
+   "word": "le triathlon",
+   "translit": null,
+   "example": "Un triathlon mêle natation, vélo et course.",
+   "examplePt": "Um triatlo mistura natação, bicicleta e corrida.",
+   "pron": "lö tri-at-LÕ — 'th' soa 't' e 'on' nasal",
+   "curiosity": "O triathlon tem natação, ciclismo e corrida."
+  },
+  "tf49-10": {
+   "word": "la plongée",
+   "translit": null,
+   "example": "La plongée sous-marine montre un monde incroyable.",
+   "examplePt": "O mergulho submarino mostra um mundo incrível.",
+   "pron": "lá plõ-JÊ — 'on' nasal e 'g' soa 'j'",
+   "curiosity": "'Plongée' vem de 'plonger', mergulhar; 'plongeon' é o salto de trampolim."
+  },
+  "tf50-01": {
+   "word": "le trophée",
+   "translit": null,
+   "example": "L'équipe soulève le trophée devant la foule.",
+   "examplePt": "A equipe ergue o troféu diante da multidão.",
+   "pron": "lö tro-FÊ — 'ph' soa 'f' e 'ée' é 'ê'",
+   "curiosity": "Do grego 'tropaion', monumento da vitória."
+  },
+  "tf50-02": {
+   "word": "la médaille",
+   "translit": null,
+   "example": "Quelle médaille a-t-elle gagnée, l'or ou l'argent ?",
+   "examplePt": "Que medalha ela ganhou, ouro ou prata?",
+   "pron": "lá mê-DAIY — 'aille' soa 'ai'",
+   "curiosity": "'Le revers de la médaille' é o outro lado da moeda."
+  },
+  "tf50-03": {
+   "word": "le sifflet",
+   "translit": null,
+   "example": "L'arbitre donne un coup de sifflet final.",
+   "examplePt": "O árbitro dá o apito final.",
+   "pron": "lö si-FLÉ — 'et' final soa 'é'",
+   "curiosity": "'Siffler' é assobiar, mas também vaiar!"
+  },
+  "tf50-04": {
+   "word": "le chronomètre",
+   "translit": null,
+   "example": "Qui arrête le chronomètre à l'arrivée ?",
+   "examplePt": "Quem para o cronômetro na chegada?",
+   "pron": "lö kro-no-MÉTR — 'ch' soa 'k'",
+   "curiosity": "No dia a dia, diz-se 'le chrono'."
+  },
+  "tf50-05": {
+   "word": "le podium",
+   "translit": null,
+   "example": "Trois nageurs montent sur le podium en souriant.",
+   "examplePt": "Três nadadores sobem no pódio sorrindo.",
+   "pron": "lö po-DIÓM — 'u' soa 'o' e 'm' final soa",
+   "curiosity": "'Podium' vem do grego 'podion', pequeno pé."
+  },
+  "tf50-06": {
+   "word": "le tableau d'affichage",
+   "translit": null,
+   "example": "Le tableau d'affichage indique un score serré.",
+   "examplePt": "O placar indica um resultado apertado.",
+   "pron": "lö ta-BLÔ da-fi-SHAJ — 'eau' soa 'ô' e 'ch' soa 'x'",
+   "curiosity": "'Tableau' é também quadro de pintura e lousa."
+  },
+  "tf50-07": {
+   "word": "l'arbitre",
+   "translit": null,
+   "example": "L'arbitre siffle une faute près du but.",
+   "examplePt": "O árbitro apita uma falta perto do gol.",
+   "pron": "lar-BITR — o 'r' é gutural e o 'e' final é mudo",
+   "curiosity": "'L'arbitre' é igual para homem e mulher: o artigo não muda."
+  },
+  "tf50-08": {
+   "word": "les supporters",
+   "translit": null,
+   "example": "Les supporters chantent depuis le début du match.",
+   "examplePt": "Os torcedores cantam desde o início da partida.",
+   "pron": "lé sü-por-TÈR — 'u' francês e 's' final mudo",
+   "curiosity": "'Supporter' veio do inglês, mas se pronuncia à francesa."
+  },
+  "tf50-09": {
+   "word": "le casque",
+   "translit": null,
+   "example": "Mets ton casque avant de monter à vélo.",
+   "examplePt": "Ponha o capacete antes de subir na bicicleta.",
+   "pron": "lö KASK — 'qu' soa 'k'",
+   "curiosity": "'Casque' também é o fone de ouvido."
+  },
+  "tf50-10": {
+   "word": "la raquette",
+   "translit": null,
+   "example": "Cette raquette de tennis est légère, non ?",
+   "examplePt": "Esta raquete de tênis é leve, não é?",
+   "pron": "lá ra-KÉT — 'qu' soa 'k'",
+   "curiosity": "'Raquette' é também a sapata de neve para andar na neve fofa."
   }
  }
 }

@@ -1,0 +1,4007 @@
+{
+ "game": "true_false",
+ "language": "ja",
+ "version": 2,
+ "entries": {
+  "tf01-01": {
+   "word": "牛",
+   "translit": "ushi",
+   "example": "牛は草を食べていますか？",
+   "examplePt": "A vaca está comendo capim?",
+   "pron": "U-shi — o 'u' é curto e 'shi' soa como 'xi'",
+   "curiosity": "Em japonês, 牛 serve para boi e vaca; carne de boi é 牛肉 (gyūniku)."
+  },
+  "tf01-02": {
+   "word": "豚",
+   "translit": "buta",
+   "example": "豚は泥が大好きです。",
+   "examplePt": "O porco adora lama.",
+   "pron": "BU-ta — 'u' curtinho, 'ta' com 't' firme",
+   "curiosity": "Em palavras compostas, 豚 lê-se 'ton': tonkatsu (豚カツ) é o porco empanado."
+  },
+  "tf01-03": {
+   "word": "鶏",
+   "translit": "niwatori",
+   "example": "鶏は朝早く鳴きます。",
+   "examplePt": "A galinha canta bem cedo.",
+   "pron": "ni-wa-to-ri — 'w' bem leve e as quatro sílabas com o mesmo tempo",
+   "curiosity": "鶏卵 (keiran) é 'ovo de galinha': o mesmo kanji ganha a leitura 'kei'."
+  },
+  "tf01-04": {
+   "word": "馬",
+   "translit": "uma",
+   "example": "馬は人参が好きです。",
+   "examplePt": "O cavalo gosta de cenoura.",
+   "pron": "U-ma — duas sílabas curtas e iguais",
+   "curiosity": "馬 é um dos 12 animais do zodíaco japonês, o signo 午 (uma)."
+  },
+  "tf01-05": {
+   "word": "羊",
+   "translit": "hitsuji",
+   "example": "羊の毛はふわふわです。",
+   "examplePt": "A lã da ovelha é fofinha.",
+   "pron": "hi-TSU-ji — 'tsu' como em 'pizza'; 'ji' como 'dji'",
+   "curiosity": "山羊 (yagi) é 'cabra' e 羊 (hitsuji) é 'ovelha': os dois dividem o mesmo kanji."
+  },
+  "tf01-06": {
+   "word": "アヒル",
+   "translit": "ahiru",
+   "example": "アヒルが池で泳いでいます。",
+   "examplePt": "O pato nada na lagoa.",
+   "pron": "a-hi-ru — o 'r' é uma batidinha de língua, entre 'r' e 'l'",
+   "curiosity": "O Patinho Feio, de Andersen, é 'Minikui ahiru no ko' em japonês."
+  },
+  "tf01-07": {
+   "word": "ヤギ",
+   "translit": "yagi",
+   "example": "ヤギは山を登ります。",
+   "examplePt": "A cabra sobe a montanha.",
+   "pron": "YA-gi — o 'g' é duro como em 'gato'",
+   "curiosity": "Escrito 山羊, ヤギ é literalmente 'ovelha da montanha'."
+  },
+  "tf01-08": {
+   "word": "ロバ",
+   "translit": "roba",
+   "example": "ロバが荷物を運びます。",
+   "examplePt": "O burro carrega a bagagem.",
+   "pron": "RO-ba — 'r' de batida leve, como o 'r' de 'caro'",
+   "curiosity": "Existe um kanji para o burro, 驢馬, mas quase ninguém o usa: vale katakana."
+  },
+  "tf01-09": {
+   "word": "うさぎ",
+   "translit": "usagi",
+   "example": "うさぎは耳が長いです。",
+   "examplePt": "O coelho tem orelhas compridas.",
+   "pron": "u-sa-gi — o 'u' é curto, sem arredondar os lábios",
+   "curiosity": "Japoneses contam coelhos com 羽 (wa), o contador das aves!"
+  },
+  "tf01-10": {
+   "word": "七面鳥",
+   "translit": "shichimenchō",
+   "example": "七面鳥を食べましたか？",
+   "examplePt": "Você comeu peru?",
+   "pron": "shi-chi-men-CHÔ — o 'ō' final é longo, 'chô-o'",
+   "curiosity": "七面鳥 significa literalmente 'pássaro de sete faces'."
+  },
+  "tf02-01": {
+   "word": "狼",
+   "translit": "ōkami",
+   "example": "狼は夜に遠吠えします。",
+   "examplePt": "O lobo uiva à noite.",
+   "pron": "Ô-ka-mi — o 'ō' inicial é longo, 'ô-o'",
+   "curiosity": "O lobo-japonês (ニホンオオカミ) é considerado extinto desde o início do século XX."
+  },
+  "tf02-02": {
+   "word": "熊",
+   "translit": "kuma",
+   "example": "熊は冬に眠りますか？",
+   "examplePt": "O urso dorme no inverno?",
+   "pron": "KU-ma — 'u' curto e 'ma' bem aberto",
+   "curiosity": "Hokkaido abriga o urso-pardo (ヒグマ), o maior animal terrestre do Japão."
+  },
+  "tf02-03": {
+   "word": "狐",
+   "translit": "kitsune",
+   "example": "狐が森から出てきました。",
+   "examplePt": "A raposa saiu da floresta.",
+   "pron": "ki-TSU-ne — 'tsu' como o 'ts' de 'pizza'",
+   "curiosity": "Kitsune-udon (きつねうどん) leva tofu frito, o petisco que a raposa adora, diz a lenda."
+  },
+  "tf02-04": {
+   "word": "鹿",
+   "translit": "shika",
+   "example": "鹿が公園を歩いています。",
+   "examplePt": "Um cervo anda pelo parque.",
+   "pron": "shi-ka — 'shi' soa como 'xi'",
+   "curiosity": "Em Nara, cervos andam soltos pelo parque e até fazem reverência por biscoitos."
+  },
+  "tf02-05": {
+   "word": "リス",
+   "translit": "risu",
+   "example": "リスはどんぐりを集めます。",
+   "examplePt": "O esquilo junta bolotas.",
+   "pron": "ri-su — o 'u' final é quase mudo",
+   "curiosity": "Em kanji, リス é 栗鼠: 'rato da castanha', mas quase só se vê em katakana."
+  },
+  "tf02-06": {
+   "word": "フクロウ",
+   "translit": "fukurō",
+   "example": "夜になるとフクロウが鳴きます。",
+   "examplePt": "À noite a coruja pia.",
+   "pron": "fu-ku-RÔ — o 'f' sai só com um sopro, sem encostar os dentes",
+   "curiosity": "No Japão a coruja traz sorte: 不苦労 (fukurō) soa como 'sem sofrimento'."
+  },
+  "tf02-07": {
+   "word": "イノシシ",
+   "translit": "inoshishi",
+   "example": "イノシシが畑に来ました。",
+   "examplePt": "O javali veio à plantação.",
+   "pron": "i-no-shi-shi — cada sílaba com a mesma duração",
+   "curiosity": "No zodíaco japonês, o último animal é o javali (亥), e não o porco."
+  },
+  "tf02-08": {
+   "word": "アナグマ",
+   "translit": "anaguma",
+   "example": "アナグマは穴を掘ります。",
+   "examplePt": "O texugo cava buracos.",
+   "pron": "a-na-gu-ma — 'g' duro, como em 'gato'",
+   "curiosity": "Também se escreve 穴熊: 'urso do buraco'."
+  },
+  "tf02-09": {
+   "word": "アライグマ",
+   "translit": "araiguma",
+   "example": "アライグマが手を洗っています。",
+   "examplePt": "O guaxinim está lavando as mãos.",
+   "pron": "a-ra-i-gu-ma — 'ai' são duas vogais, 'a-i'",
+   "curiosity": "O nome vem de 洗熊, 'urso que lava': o bicho molha a comida na água."
+  },
+  "tf02-10": {
+   "word": "ヘラジカ",
+   "translit": "herajika",
+   "example": "ヘラジカは大きな角があります。",
+   "examplePt": "O alce tem chifres enormes.",
+   "pron": "he-ra-ji-ka — 'ji' soa como 'dji'",
+   "curiosity": "Escreve-se 箆鹿: 'cervo-espátula', pelo formato achatado dos chifres."
+  },
+  "tf03-01": {
+   "word": "木",
+   "translit": "ki",
+   "example": "大きな木の下で休みます。",
+   "examplePt": "Descanso embaixo de uma árvore grande.",
+   "pron": "KI — uma sílaba só, curta",
+   "curiosity": "Duas árvores juntas formam 林 (bosque) e três formam 森 (floresta)."
+  },
+  "tf03-02": {
+   "word": "花",
+   "translit": "hana",
+   "example": "春にどんな花が咲きますか？",
+   "examplePt": "Que flores desabrocham na primavera?",
+   "pron": "ha-na — o 'h' é só um sopro suave",
+   "curiosity": "Hanami (花見) é o piquenique sob as cerejeiras em flor, tradição nacional."
+  },
+  "tf03-03": {
+   "word": "葉",
+   "translit": "ha",
+   "example": "秋に葉が赤くなります。",
+   "examplePt": "No outono as folhas ficam vermelhas.",
+   "pron": "HA — curtinho, com sopro suave no 'h'",
+   "curiosity": "Ver folhas vermelhas no outono chama-se momijigari (紅葉狩り)."
+  },
+  "tf03-04": {
+   "word": "草",
+   "translit": "kusa",
+   "example": "草の上に座りましょう。",
+   "examplePt": "Vamos sentar na grama.",
+   "pron": "ku-sa — o 'u' é quase sussurrado",
+   "curiosity": "Na internet, 草 (kusa) vira 'lol': o 'w' de risada lembra grama crescendo."
+  },
+  "tf03-05": {
+   "word": "きのこ",
+   "translit": "kinoko",
+   "example": "森できのこを見つけました。",
+   "examplePt": "Achei um cogumelo na floresta.",
+   "pron": "ki-NO-ko — três sílabas curtas e iguais",
+   "curiosity": "Shiitake e matsutake são cogumelos famosos da culinária japonesa."
+  },
+  "tf03-06": {
+   "word": "根",
+   "translit": "ne",
+   "example": "木の根は地面の下です。",
+   "examplePt": "A raiz da árvore fica sob o chão.",
+   "pron": "NE — como o 'ne' de 'nenê', curto",
+   "curiosity": "Em 根気 (konki), 'perseverança', a raiz representa a força de aguentar firme."
+  },
+  "tf03-07": {
+   "word": "種",
+   "translit": "tane",
+   "example": "この種を庭にまきます。",
+   "examplePt": "Vou semear esta semente no jardim.",
+   "pron": "ta-ne — 't' firme e 'e' como em 'pé'",
+   "curiosity": "種 também se lê 'shu' (espécie), como em 種類 (shurui), 'tipo'."
+  },
+  "tf03-08": {
+   "word": "枝",
+   "translit": "eda",
+   "example": "鳥が枝にとまっています。",
+   "examplePt": "O pássaro pousou no galho.",
+   "pron": "e-da — 'e' como em 'pé'",
+   "curiosity": "枝豆 (edamame) é 'feijão de galho': a vagem era vendida ainda presa ao ramo."
+  },
+  "tf03-09": {
+   "word": "サボテン",
+   "translit": "saboten",
+   "example": "サボテンは水が少なくても育ちます。",
+   "examplePt": "O cacto cresce com pouca água.",
+   "pron": "sa-bo-TEN — o 'n' final é nasal, sem 'ê' depois",
+   "curiosity": "Também se escreve 仙人掌, literalmente 'palma do eremita'."
+  },
+  "tf03-10": {
+   "word": "チューリップ",
+   "translit": "chūrippu",
+   "example": "チューリップが庭に咲きました。",
+   "examplePt": "As tulipas floresceram no jardim.",
+   "pron": "chû-rip-pu — 'ch' como em 'tchau'; o 'pp' tem uma pausinha",
+   "curiosity": "Tonami, em Toyama, faz todo ano um famoso festival de tulipas."
+  },
+  "tf04-01": {
+   "word": "太陽",
+   "translit": "taiyō",
+   "example": "太陽はどこから昇りますか？",
+   "examplePt": "De onde o sol nasce?",
+   "pron": "tai-YÔ — 'ai' como em 'pai'; o 'ō' é longo",
+   "curiosity": "Japão é 日本 (Nihon), 'origem do sol', e a bandeira tem um sol vermelho."
+  },
+  "tf04-02": {
+   "word": "月",
+   "translit": "tsuki",
+   "example": "今夜は月がきれいです。",
+   "examplePt": "A lua está linda esta noite.",
+   "pron": "TSU-ki — 'ts' como em 'pizza'",
+   "curiosity": "Os japoneses veem na Lua um coelho socando mochi."
+  },
+  "tf04-03": {
+   "word": "星",
+   "translit": "hoshi",
+   "example": "星がたくさん見えます。",
+   "examplePt": "Dá para ver muitas estrelas.",
+   "pron": "ho-shi — 'sh' como o 'x' de 'xícara'",
+   "curiosity": "Em Tanabata (7 de julho), crianças penduram desejos em bambu e lembram duas estrelas amantes."
+  },
+  "tf04-04": {
+   "word": "雲",
+   "translit": "kumo",
+   "example": "空に白い雲があります。",
+   "examplePt": "Há uma nuvem branca no céu.",
+   "pron": "ku-mo — duas sílabas curtas",
+   "curiosity": "雲 (kumo, nuvem) e 蜘蛛 (kumo, aranha) soam iguais, mas os kanjis são diferentes."
+  },
+  "tf04-05": {
+   "word": "雨",
+   "translit": "ame",
+   "example": "明日は雨が降りますか？",
+   "examplePt": "Amanhã vai chover?",
+   "pron": "a-me — 'e' como em 'pé'",
+   "curiosity": "Ame (雨, chuva) e ame (飴, bala) escrevem-se diferente e mudam só na entonação."
+  },
+  "tf04-06": {
+   "word": "雪",
+   "translit": "yuki",
+   "example": "雪で学校が休みになりました。",
+   "examplePt": "A escola fechou por causa da neve.",
+   "pron": "YU-ki — 'y' como em 'iogurte'",
+   "curiosity": "雪国 (yukiguni) é o 'país da neve': regiões do norte que recebem muita neve."
+  },
+  "tf04-07": {
+   "word": "風",
+   "translit": "kaze",
+   "example": "強い風が吹いています。",
+   "examplePt": "Está ventando forte.",
+   "pron": "ka-ze — 'z' vibrado como em 'zero'",
+   "curiosity": "風邪 (kaze), 'resfriado', é literalmente 'vento maligno'."
+  },
+  "tf04-08": {
+   "word": "虹",
+   "translit": "niji",
+   "example": "雨のあとに虹が出ました。",
+   "examplePt": "Saiu um arco-íris depois da chuva.",
+   "pron": "NI-ji — 'ji' soa como 'dji'",
+   "curiosity": "No Japão o arco-íris tradicionalmente tem 7 cores, e 虹 leva o radical de inseto 虫."
+  },
+  "tf04-09": {
+   "word": "雷",
+   "translit": "kaminari",
+   "example": "雷の音に驚きました。",
+   "examplePt": "Levei um susto com o trovão.",
+   "pron": "ka-mi-NA-ri — o 'r' é uma batida leve",
+   "curiosity": "Diz o ditado: 'kaminari, jishin, kaji, oyaji': trovão, terremoto, incêndio e pai."
+  },
+  "tf04-10": {
+   "word": "霧",
+   "translit": "kiri",
+   "example": "朝は霧で何も見えません。",
+   "examplePt": "De manhã não se vê nada por causa da neblina.",
+   "pron": "ki-ri — 'r' de batida leve",
+   "curiosity": "霧雨 (kirisame), 'chuva de névoa', é o chuvisco fininho."
+  },
+  "tf05-01": {
+   "word": "りんご",
+   "translit": "ringo",
+   "example": "りんごを一つください。",
+   "examplePt": "Quero uma maçã, por favor.",
+   "pron": "rin-go — o 'n' nasaliza, e o 'g' é duro",
+   "curiosity": "Em Aomori produz-se mais da metade das maçãs do Japão."
+  },
+  "tf05-02": {
+   "word": "バナナ",
+   "translit": "banana",
+   "example": "朝ごはんにバナナを食べますか？",
+   "examplePt": "Você come banana no café da manhã?",
+   "pron": "ba-na-na — as três sílabas com a mesma força",
+   "curiosity": "Bananas, por serem compridas, contam-se com 本 (hon), o contador de coisas longas."
+  },
+  "tf05-03": {
+   "word": "ぶどう",
+   "translit": "budō",
+   "example": "ぶどうは甘くておいしいです。",
+   "examplePt": "A uva é doce e gostosa.",
+   "pron": "bu-DÔ — o 'ō' final é longo",
+   "curiosity": "Yamanashi é famosa pelas uvas e pelo vinho japonês."
+  },
+  "tf05-04": {
+   "word": "いちご",
+   "translit": "ichigo",
+   "example": "いちごのケーキが好きです。",
+   "examplePt": "Gosto de bolo de morango.",
+   "pron": "i-chi-go — 'ch' como em 'tchau'",
+   "curiosity": "No Natal japonês o bolo clássico é de chantilly e morango."
+  },
+  "tf05-05": {
+   "word": "すいか",
+   "translit": "suika",
+   "example": "夏はすいかを食べます。",
+   "examplePt": "No verão como melancia.",
+   "pron": "SUI-ka — 'ui' em uma só emissão",
+   "curiosity": "Suikawari é a brincadeira de verão: de olhos vendados, bate-se na melancia com um bastão."
+  },
+  "tf05-06": {
+   "word": "レモン",
+   "translit": "remon",
+   "example": "レモンは酸っぱいですか？",
+   "examplePt": "O limão é azedo?",
+   "pron": "re-mon — 'r' de batida leve e 'n' nasal final",
+   "curiosity": "Hiroshima, na região do Setouchi, é a maior produtora de limões do Japão."
+  },
+  "tf05-07": {
+   "word": "梨",
+   "translit": "nashi",
+   "example": "梨はシャリシャリしています。",
+   "examplePt": "A pera é crocante.",
+   "pron": "na-shi — 'sh' como o 'x' de 'xícara'",
+   "curiosity": "A pera japonesa é redonda como maçã e muito crocante."
+  },
+  "tf05-08": {
+   "word": "パイナップル",
+   "translit": "painappuru",
+   "example": "沖縄でパイナップルを買いました。",
+   "examplePt": "Comprei abacaxi em Okinawa.",
+   "pron": "pai-nap-pu-ru — o 'pp' tem uma pausinha antes do 'pu'",
+   "curiosity": "Okinawa é conhecida pelos seus abacaxis."
+  },
+  "tf05-09": {
+   "word": "さくらんぼ",
+   "translit": "sakuranbo",
+   "example": "さくらんぼの種を出します。",
+   "examplePt": "Tiro o caroço da cereja.",
+   "pron": "sa-ku-ran-bo — o 'n' antes do 'b' soa como 'm'",
+   "curiosity": "Yamagata produz a maior parte das cerejas do Japão."
+  },
+  "tf05-10": {
+   "word": "メロン",
+   "translit": "meron",
+   "example": "このメロンは高いですか？",
+   "examplePt": "Este melão é caro?",
+   "pron": "me-ron — 'r' de batida leve, 'n' nasal final",
+   "curiosity": "No Japão, melões perfeitos de presente podem custar centenas de reais."
+  },
+  "tf06-01": {
+   "word": "水",
+   "translit": "mizu",
+   "example": "冷たい水をもらえますか？",
+   "examplePt": "Posso pegar água gelada?",
+   "pron": "mi-zu — 'z' vibrado como em 'zero'",
+   "curiosity": "No Japão os restaurantes servem água gelada de graça ao sentar."
+  },
+  "tf06-02": {
+   "word": "牛乳",
+   "translit": "gyūnyū",
+   "example": "毎朝、牛乳を飲みます。",
+   "examplePt": "Bebo leite toda manhã.",
+   "pron": "gyû-nyû — 'ū' longo; 'ny' como o 'nh' de 'ninho'",
+   "curiosity": "Em muitas escolas japonesas a merenda vem com uma caixinha de leite."
+  },
+  "tf06-03": {
+   "word": "ジュース",
+   "translit": "jūsu",
+   "example": "オレンジジュースをお願いします。",
+   "examplePt": "Um suco de laranja, por favor.",
+   "pron": "JÛ-su — 'j' como 'dj' e 'ū' longo",
+   "curiosity": "Nas ruas do Japão há máquinas de venda automática com sucos a cada esquina."
+  },
+  "tf06-04": {
+   "word": "コーヒー",
+   "translit": "kōhī",
+   "example": "コーヒーは熱いですか？",
+   "examplePt": "O café está quente?",
+   "pron": "kô-HÎ — as duas vogais longas valem o dobro",
+   "curiosity": "O traço 'ー' do katakana alonga a vogal: コーヒー tem 'ko-o-hi-i'."
+  },
+  "tf06-05": {
+   "word": "お茶",
+   "translit": "ocha",
+   "example": "お茶をもう一杯どうですか？",
+   "examplePt": "Que tal mais uma xícara de chá?",
+   "pron": "o-CHA — 'ch' como em 'tchau'",
+   "curiosity": "O お antes de 茶 é um prefixo de respeito: o chá merece 'honra'."
+  },
+  "tf06-06": {
+   "word": "炭酸飲料",
+   "translit": "tansan inryō",
+   "example": "炭酸飲料は甘いです。",
+   "examplePt": "O refrigerante é doce.",
+   "pron": "tan-san in-RYÔ — 'ryō' é 'r' leve + 'iô' longo",
+   "curiosity": "炭酸 (tansan) significa 'carbonato': é o 'com gás' em japonês."
+  },
+  "tf06-07": {
+   "word": "レモネード",
+   "translit": "remonēdo",
+   "example": "夏はレモネードが飲みたいです。",
+   "examplePt": "No verão quero beber limonada.",
+   "pron": "re-mo-NÊ-do — o 'ē' é um 'ê' longo",
+   "curiosity": "Ramune (ラムネ), o refri com bolinha de vidro, vem de 'lemonade'."
+  },
+  "tf06-08": {
+   "word": "ココア",
+   "translit": "kokoa",
+   "example": "寒い日にココアを飲みます。",
+   "examplePt": "Em dia frio tomo chocolate quente.",
+   "pron": "ko-ko-a — a última vogal soa separada",
+   "curiosity": "Em japonês, ココア é o chocolate em pó, geralmente tomado quente."
+  },
+  "tf06-09": {
+   "word": "ココナッツウォーター",
+   "translit": "kokonattsu wōtā",
+   "example": "ココナッツウォーターは甘いです。",
+   "examplePt": "A água de coco é doce.",
+   "pron": "ko-ko-NAT-tsu uô-TÂ — o 'tt' tem pausinha e o 'wō' soa 'uô'",
+   "curiosity": "Katakana mistura palavras do inglês: ココナッツ é 'coconut' e ウォーター é 'water'."
+  },
+  "tf06-10": {
+   "word": "ミルクセーキ",
+   "translit": "mirukusēki",
+   "example": "ミルクセーキを作りましょう。",
+   "examplePt": "Vamos fazer um milk-shake.",
+   "pron": "mi-ru-ku-SÊ-ki — o 'sē' é um 'sê' longo",
+   "curiosity": "No dia a dia, ミルクセーキ também vira só シェイク, 'shake'."
+  },
+  "tf07-01": {
+   "word": "パン",
+   "translit": "pan",
+   "example": "朝はパンを食べます。",
+   "examplePt": "De manhã como pão.",
+   "pron": "PAN — o 'n' final é nasal",
+   "curiosity": "パン vem do português 'pão', trazido pelos navegadores no século XVI."
+  },
+  "tf07-02": {
+   "word": "卵",
+   "translit": "tamago",
+   "example": "卵は割って焼きますか？",
+   "examplePt": "Você quebra o ovo e frita?",
+   "pron": "ta-ma-go — 'g' duro, como em 'gato'",
+   "curiosity": "Tamago kake gohan (卵かけご飯) é arroz com ovo cru, um clássico do café da manhã."
+  },
+  "tf07-03": {
+   "word": "チーズ",
+   "translit": "chīzu",
+   "example": "チーズをパンにのせます。",
+   "examplePt": "Coloco queijo no pão.",
+   "pron": "CHÎ-zu — o 'ī' é longo",
+   "curiosity": "A culinária japonesa tradicional quase não usava laticínios; o queijo se popularizou depois."
+  },
+  "tf07-04": {
+   "word": "バター",
+   "translit": "batā",
+   "example": "パンにバターを塗ります。",
+   "examplePt": "Passo manteiga no pão.",
+   "pron": "ba-TÂ — o 'ā' é longo",
+   "curiosity": "Hokkaido é a maior produtora de manteiga do Japão."
+  },
+  "tf07-05": {
+   "word": "ハム",
+   "translit": "hamu",
+   "example": "ハムエッグを作ります。",
+   "examplePt": "Faço presunto com ovo.",
+   "pron": "HA-mu — o 'u' final é quase mudo",
+   "curiosity": "Hamu eggu (ハムエッグ) é presunto com ovo, prato clássico de café da manhã."
+  },
+  "tf07-06": {
+   "word": "シリアル",
+   "translit": "shiriaru",
+   "example": "シリアルに牛乳を入れます。",
+   "examplePt": "Ponho leite no cereal.",
+   "pron": "shi-ri-A-ru — 'ia' sai em duas vogais",
+   "curiosity": "O café da manhã tradicional japonês tem arroz, sopa de missô e peixe, não cereal."
+  },
+  "tf07-07": {
+   "word": "ジャム",
+   "translit": "jamu",
+   "example": "いちごのジャムが好きです。",
+   "examplePt": "Gosto de geleia de morango.",
+   "pron": "JA-mu — 'j' soa como 'dj'",
+   "curiosity": "O japonês põe um 'u' depois do 'm' final: 'jam' vira ジャム (jamu)."
+  },
+  "tf07-08": {
+   "word": "トースト",
+   "translit": "tōsuto",
+   "example": "トーストにバターを塗ります。",
+   "examplePt": "Passo manteiga na torrada.",
+   "pron": "TÔ-su-to — o 'ō' é longo",
+   "curiosity": "Em cafés japoneses o 'morning' (モーニング) é combo de torrada, ovo e café."
+  },
+  "tf07-09": {
+   "word": "パンケーキ",
+   "translit": "pankēki",
+   "example": "パンケーキを三枚焼きました。",
+   "examplePt": "Fiz três panquecas.",
+   "pron": "pan-KÊ-ki — o 'kē' é um 'kê' longo",
+   "curiosity": "As panquecas japonesas estilo suflê são altas e tremem como pudim."
+  },
+  "tf07-10": {
+   "word": "ヨーグルト",
+   "translit": "yōguruto",
+   "example": "ヨーグルトは冷蔵庫にあります。",
+   "examplePt": "O iogurte está na geladeira.",
+   "pron": "yô-GU-ru-to — o 'y' é um 'i' rápido",
+   "curiosity": "A palavra ヨーグルト veio do turco 'yoğurt'."
+  },
+  "tf08-01": {
+   "word": "やあ",
+   "translit": "yā",
+   "example": "やあ、元気？",
+   "examplePt": "Oi, tudo bem?",
+   "pron": "YÂ — o 'ā' é longo",
+   "curiosity": "やあ é informal: entre amigos funciona, com desconhecidos use こんにちは."
+  },
+  "tf08-02": {
+   "word": "さようなら",
+   "translit": "sayōnara",
+   "example": "さようなら、また来週！",
+   "examplePt": "Tchau, até a semana que vem!",
+   "pron": "sa-yô-NA-ra — 'yō' longo",
+   "curiosity": "さようなら soa como despedida longa; amigos dizem 'ja ne' (じゃあね)."
+  },
+  "tf08-03": {
+   "word": "おはよう",
+   "translit": "ohayō",
+   "example": "おはよう、よく眠れましたか？",
+   "examplePt": "Bom dia, dormiu bem?",
+   "pron": "o-ha-YÔ — o 'ō' final é longo",
+   "curiosity": "おはよう vem de 'cedo' (早い); a versão educada é おはようございます."
+  },
+  "tf08-04": {
+   "word": "こんにちは",
+   "translit": "konnichiwa",
+   "example": "こんにちは、お元気ですか？",
+   "examplePt": "Boa tarde, tudo bem?",
+   "pron": "kon-NI-chi-wa — o 'nn' é um 'n' longo; 'ch' como 'tch'",
+   "curiosity": "Escreve-se こんにちは com は, e não わ: a partícula 'wa' vira saudação."
+  },
+  "tf08-05": {
+   "word": "こんばんは",
+   "translit": "konbanwa",
+   "example": "こんばんは、いい夜ですね。",
+   "examplePt": "Boa noite, que bela noite.",
+   "pron": "kon-BAN-wa — o 'n' antes do 'b' soa 'm'",
+   "curiosity": "Para ir dormir diz-se おやすみ (oyasumi), e não こんばんは."
+  },
+  "tf08-06": {
+   "word": "お元気ですか",
+   "translit": "ogenki desu ka",
+   "example": "最近、調子はどうですか？",
+   "examplePt": "Como você tem passado ultimamente?",
+   "pron": "o-GEN-ki DES ka — o 'u' de 'desu' quase some",
+   "curiosity": "Japoneses perguntam お元気ですか a quem não veem há tempo, não nos encontros diários."
+  },
+  "tf08-07": {
+   "word": "またね",
+   "translit": "mata ne",
+   "example": "じゃあ、またね！",
+   "examplePt": "Então, até mais!",
+   "pron": "ma-ta NE — tudo com sílabas curtas",
+   "curiosity": "'Mata ne' é leve e carinhosa: amigos usam em vez de さようなら."
+  },
+  "tf08-08": {
+   "word": "また明日",
+   "translit": "mata ashita",
+   "example": "今日は楽しかった。また明日！",
+   "examplePt": "Foi divertido hoje. Até amanhã!",
+   "pron": "ma-ta a-SHI-ta — 'sh' como 'x' de 'xícara'",
+   "curiosity": "明日 pode ser lido ashita, asu ou myōnichi, conforme o contexto."
+  },
+  "tf08-09": {
+   "word": "ようこそ",
+   "translit": "yōkoso",
+   "example": "日本へようこそ！",
+   "examplePt": "Bem-vindo ao Japão!",
+   "pron": "yô-KO-so — o 'yō' é longo",
+   "curiosity": "Nos aeroportos, o cartaz 'Yōkoso Nippon' dá boas-vindas aos visitantes."
+  },
+  "tf08-10": {
+   "word": "良い週末を",
+   "translit": "yoi shūmatsu wo",
+   "example": "良い週末をお過ごしください。",
+   "examplePt": "Tenha um bom fim de semana.",
+   "pron": "yo-i shû-MA-tsu o — o 'wo' soa como 'o'",
+   "curiosity": "土曜日 é 'dia da terra' e 日曜日 é 'dia do sol': os dias têm nomes de astros e elementos."
+  },
+  "tf09-01": {
+   "word": "ありがとう",
+   "translit": "arigatō",
+   "example": "手伝ってくれてありがとう。",
+   "examplePt": "Obrigado por me ajudar.",
+   "pron": "a-ri-ga-TÔ — o 'ō' final é longo",
+   "curiosity": "ありがとう vem de 有り難い, 'difícil de existir': algo raro merece gratidão."
+  },
+  "tf09-02": {
+   "word": "お願いします",
+   "translit": "onegai shimasu",
+   "example": "水をお願いします。",
+   "examplePt": "Água, por favor.",
+   "pron": "o-ne-GAI shi-MAS — o 'u' final quase some",
+   "curiosity": "お願いします serve para pedir e também ao entregar algo, como no restaurante."
+  },
+  "tf09-03": {
+   "word": "ごめんなさい",
+   "translit": "gomen nasai",
+   "example": "遅れてごめんなさい。",
+   "examplePt": "Desculpe o atraso.",
+   "pron": "go-men na-SAI — 'ai' como em 'pai'",
+   "curiosity": "Entre amigos basta 'ごめん'; ごめんなさい é a versão completa."
+  },
+  "tf09-04": {
+   "word": "すみません",
+   "translit": "sumimasen",
+   "example": "すみません、駅はどこですか？",
+   "examplePt": "Com licença, onde fica a estação?",
+   "pron": "su-mi-MA-sen — o 'u' do início é quase mudo",
+   "curiosity": "すみません serve para pedir licença, chamar o garçom, pedir desculpa e até agradecer."
+  },
+  "tf09-05": {
+   "word": "どういたしまして",
+   "translit": "dō itashimashite",
+   "example": "いいえ、どういたしまして。",
+   "examplePt": "Não foi nada, de nada.",
+   "pron": "dô i-ta-shi-ma-SHI-te — 'dō' longo",
+   "curiosity": "Os japoneses também respondem 'iie iie' (いえいえ), 'não, não', por modéstia."
+  },
+  "tf09-06": {
+   "word": "おめでとう",
+   "translit": "omedetō",
+   "example": "合格おめでとう！",
+   "examplePt": "Parabéns pela aprovação!",
+   "pron": "o-me-de-TÔ — o 'ō' final é longo",
+   "curiosity": "No Ano-Novo diz-se 'akemashite omedetō', 'feliz ano-novo'."
+  },
+  "tf09-07": {
+   "word": "はい",
+   "translit": "hai",
+   "example": "はい、分かりました。",
+   "examplePt": "Sim, entendi.",
+   "pron": "HAI — 'ai' como em 'pai'",
+   "curiosity": "'Hai' pode significar só 'estou ouvindo', e não necessariamente 'concordo'."
+  },
+  "tf09-08": {
+   "word": "いいえ",
+   "translit": "iie",
+   "example": "いいえ、まだです。",
+   "examplePt": "Não, ainda não.",
+   "pron": "i-i-E — três vogais separadas",
+   "curiosity": "Para soarem educados, os japoneses costumam preferir respostas indiretas ao simples 'não'."
+  },
+  "tf09-09": {
+   "word": "たぶん",
+   "translit": "tabun",
+   "example": "たぶん明日は晴れます。",
+   "examplePt": "Talvez amanhã faça sol.",
+   "pron": "ta-BUN — o 'n' final é nasal",
+   "curiosity": "Em kanji, たぶん se escreve 多分, 'muita parte': muita chance."
+  },
+  "tf09-10": {
+   "word": "もちろん",
+   "translit": "mochiron",
+   "example": "もちろん、手伝います。",
+   "examplePt": "Claro, eu ajudo.",
+   "pron": "mo-chi-RON — 'ch' como em 'tchau'",
+   "curiosity": "もちろん se escreve 勿論, um kanji de uso formal e raro."
+  },
+  "tf10-01": {
+   "word": "名前",
+   "translit": "namae",
+   "example": "お名前は何ですか？",
+   "examplePt": "Qual é o seu nome?",
+   "pron": "na-MA-e — 'ae' são duas vogais",
+   "curiosity": "Em japonês o sobrenome vem antes do nome: Yamada Tarō, e não Tarō Yamada."
+  },
+  "tf10-02": {
+   "word": "苗字",
+   "translit": "myōji",
+   "example": "苗字を教えてください。",
+   "examplePt": "Diga-me seu sobrenome, por favor.",
+   "pron": "MYÔ-ji — 'my' é um 'mi' rápido",
+   "curiosity": "Só no século XIX as pessoas comuns passaram a ter sobrenome oficial."
+  },
+  "tf10-03": {
+   "word": "年齢",
+   "translit": "nenrei",
+   "example": "年齢を聞いてもいいですか？",
+   "examplePt": "Posso perguntar a sua idade?",
+   "pron": "nen-RÊ — 'rei' soa como 'rê' longo",
+   "curiosity": "A cerimônia dos 20 anos chama-se 成人式 (seijinshiki), a festa da maioridade."
+  },
+  "tf10-04": {
+   "word": "国",
+   "translit": "kuni",
+   "example": "どの国から来ましたか？",
+   "examplePt": "De que país você veio?",
+   "pron": "KU-ni — 'ni' como em 'nisso'",
+   "curiosity": "国 também é 'terra natal': 'kuni ni kaeru' é voltar para a terra de origem."
+  },
+  "tf10-05": {
+   "word": "都市",
+   "translit": "toshi",
+   "example": "東京は大きな都市です。",
+   "examplePt": "Tóquio é uma cidade grande.",
+   "pron": "TO-shi — 'sh' como 'x' de 'xícara'",
+   "curiosity": "Tōkyō (東京) significa 'capital do leste'."
+  },
+  "tf10-06": {
+   "word": "言語",
+   "translit": "gengo",
+   "example": "好きな言語は何ですか？",
+   "examplePt": "Qual é o seu idioma favorito?",
+   "pron": "GEN-go — 'g' duro nas duas sílabas",
+   "curiosity": "言語 é termo mais técnico; no dia a dia, 言葉 (kotoba) é 'língua' ou 'palavra'."
+  },
+  "tf10-07": {
+   "word": "誕生日",
+   "translit": "tanjōbi",
+   "example": "誕生日にケーキを食べます。",
+   "examplePt": "No aniversário comemos bolo.",
+   "pron": "tan-JÔ-bi — o 'jō' é longo",
+   "curiosity": "Antigamente todos ganhavam um ano a mais no Ano-Novo, e não no aniversário (数え年)."
+  },
+  "tf10-08": {
+   "word": "住所",
+   "translit": "jūsho",
+   "example": "住所を書いてください。",
+   "examplePt": "Escreva o endereço, por favor.",
+   "pron": "JÛ-sho — 'j' como 'dj'",
+   "curiosity": "Endereços japoneses vão do maior ao menor: província, cidade, bairro e número."
+  },
+  "tf10-09": {
+   "word": "電話",
+   "translit": "denwa",
+   "example": "電話が鳴っています。",
+   "examplePt": "O telefone está tocando.",
+   "pron": "DEN-wa — 'w' bem leve",
+   "curiosity": "電話 junta 電 (eletricidade) e 話 (conversa): 'conversa elétrica'."
+  },
+  "tf10-10": {
+   "word": "友達",
+   "translit": "tomodachi",
+   "example": "友達と映画を見ます。",
+   "examplePt": "Vou ao cinema com um amigo.",
+   "pron": "to-mo-DA-chi — 'ch' como em 'tchau'",
+   "curiosity": "O 達 é o sufixo de plural 'tachi', por isso 友達 nasceu como 'os amigos'."
+  },
+  "tf11-01": {
+   "word": "赤",
+   "translit": "aka",
+   "example": "赤い車が止まりました。",
+   "examplePt": "O carro vermelho parou.",
+   "pron": "A-ka — 'k' seco e 'a' aberto",
+   "curiosity": "赤ちゃん (akachan), 'bebê', significa literalmente 'pequeno vermelho'."
+  },
+  "tf11-02": {
+   "word": "青",
+   "translit": "ao",
+   "example": "青い海で泳ぎました。",
+   "examplePt": "Nadei no mar azul.",
+   "pron": "A-O — as duas vogais soam separadas",
+   "curiosity": "O semáforo verde no Japão é chamado 青信号 (ao shingō), 'sinal azul'."
+  },
+  "tf11-03": {
+   "word": "黄色",
+   "translit": "kiiro",
+   "example": "黄色いバナナを買います。",
+   "examplePt": "Vou comprar bananas amarelas.",
+   "pron": "ki-i-ro — o 'ii' é um 'i' longo",
+   "curiosity": "Crianças japonesas usam capas e bonés amarelos para serem vistas no trânsito."
+  },
+  "tf11-04": {
+   "word": "緑",
+   "translit": "midori",
+   "example": "公園の木が緑になりました。",
+   "examplePt": "As árvores do parque ficaram verdes.",
+   "pron": "mi-DO-ri — 'r' de batida leve",
+   "curiosity": "O feriado Midori no Hi (みどりの日), em 4 de maio, celebra a natureza."
+  },
+  "tf11-05": {
+   "word": "オレンジ",
+   "translit": "orenji",
+   "example": "オレンジ色の夕日を見ました。",
+   "examplePt": "Vi um pôr do sol alaranjado.",
+   "pron": "o-REN-ji — 'ji' como 'dji'",
+   "curiosity": "Além de オレンジ, existe 橙色 (daidaiiro), nome tradicional da cor tirado do fruto."
+  },
+  "tf11-06": {
+   "word": "紫",
+   "translit": "murasaki",
+   "example": "紫の花を買いました。",
+   "examplePt": "Comprei uma flor roxa.",
+   "pron": "mu-ra-SA-ki — 'r' de batida leve",
+   "curiosity": "Na antiga corte japonesa, o roxo era cor nobre, difícil de tingir."
+  },
+  "tf11-07": {
+   "word": "ピンク",
+   "translit": "pinku",
+   "example": "ピンクのかばんがほしいです。",
+   "examplePt": "Quero uma bolsa rosa.",
+   "pron": "PIN-ku — 'n' nasal antes do 'k'",
+   "curiosity": "桃色 (momoiro), 'cor de pêssego', é o nome tradicional do rosa."
+  },
+  "tf11-08": {
+   "word": "黒",
+   "translit": "kuro",
+   "example": "黒い猫を見ましたか？",
+   "examplePt": "Você viu um gato preto?",
+   "pron": "KU-ro — 'r' de batida leve",
+   "curiosity": "No Japão o gato preto é visto como sinal de boa sorte."
+  },
+  "tf11-09": {
+   "word": "白",
+   "translit": "shiro",
+   "example": "白い雪が降りました。",
+   "examplePt": "Caiu neve branca.",
+   "pron": "shi-ro — 'sh' como o 'x' de 'xícara'",
+   "curiosity": "O branco é cor de pureza: noivas tradicionais usam quimono branco (shiromuku)."
+  },
+  "tf11-10": {
+   "word": "茶色",
+   "translit": "chairo",
+   "example": "茶色の犬が走ります。",
+   "examplePt": "O cachorro marrom corre.",
+   "pron": "CHAI-ro — 'ch' como 'tch'; 'ai' como em 'pai'",
+   "curiosity": "茶色 é literalmente 'cor de chá'."
+  },
+  "tf12-01": {
+   "word": "一",
+   "translit": "ichi",
+   "example": "りんごが一つあります。",
+   "examplePt": "Há uma maçã.",
+   "pron": "I-chi — 'ch' como em 'tchau'",
+   "curiosity": "Em documentos de dinheiro usa-se 壱 no lugar de 一 para evitar fraudes."
+  },
+  "tf12-02": {
+   "word": "二",
+   "translit": "ni",
+   "example": "二人で映画に行きます。",
+   "examplePt": "Vamos ao cinema em dois.",
+   "pron": "NI — curto, como 'ni' de 'ninho'",
+   "curiosity": "Contando objetos, dois é 二つ (futatsu), com outra leitura."
+  },
+  "tf12-03": {
+   "word": "三",
+   "translit": "san",
+   "example": "三時にお茶を飲みます。",
+   "examplePt": "Tomo chá às três horas.",
+   "pron": "SAN — 'n' final nasal",
+   "curiosity": "Os kanjis 一, 二 e 三 são só riscos horizontais: um, dois e três."
+  },
+  "tf12-04": {
+   "word": "四",
+   "translit": "yon",
+   "example": "四人で食べました。",
+   "examplePt": "Comemos em quatro.",
+   "pron": "YON — 'y' como em 'iogurte'",
+   "curiosity": "四 se lê 'yon' ou 'shi'; 'shi' soa como 死 (morte), então se evita."
+  },
+  "tf12-05": {
+   "word": "五",
+   "translit": "go",
+   "example": "五分だけ待ちます。",
+   "examplePt": "Espero só cinco minutos.",
+   "pron": "GO — 'g' duro, como em 'gato'",
+   "curiosity": "五月 (gogatsu) é maio: literalmente 'quinto mês'."
+  },
+  "tf12-06": {
+   "word": "六",
+   "translit": "roku",
+   "example": "六時に起きますか？",
+   "examplePt": "Você acorda às seis?",
+   "pron": "RO-ku — 'r' de batida leve",
+   "curiosity": "Em 六本 (roppon), o 'k' vira 'p': é o som do contador de coisas longas."
+  },
+  "tf12-07": {
+   "word": "七",
+   "translit": "nana",
+   "example": "虹は七色です。",
+   "examplePt": "O arco-íris tem sete cores.",
+   "pron": "NA-na — duas sílabas iguais",
+   "curiosity": "七五三 (shichi-go-san) é a festa para crianças de 3, 5 e 7 anos."
+  },
+  "tf12-08": {
+   "word": "八",
+   "translit": "hachi",
+   "example": "八時に家を出ます。",
+   "examplePt": "Saio de casa às oito.",
+   "pron": "HA-chi — 'ch' como em 'tchau'",
+   "curiosity": "八 é número de sorte: o kanji se abre como leque, sinal de prosperidade."
+  },
+  "tf12-09": {
+   "word": "九",
+   "translit": "kyū",
+   "example": "九月に旅行に行きました。",
+   "examplePt": "Viajei em setembro.",
+   "pron": "KYÛ — 'ky' é um 'ki' rápido e o 'ū' é longo",
+   "curiosity": "九 também se lê 'ku', mas soa como 苦 (sofrimento), e por isso se evita."
+  },
+  "tf12-10": {
+   "word": "十",
+   "translit": "jū",
+   "example": "十分休みましょう。",
+   "examplePt": "Vamos descansar bastante.",
+   "pron": "JÛ — 'j' como 'dj' e o 'ū' longo",
+   "curiosity": "十 é uma cruz simples, um dos kanjis mais fáceis de escrever."
+  },
+  "tf13-01": {
+   "word": "円",
+   "translit": "en",
+   "example": "丸い円を描きます。",
+   "examplePt": "Desenho um círculo redondo.",
+   "pron": "EN — 'e' como em 'pé' e 'n' nasal",
+   "curiosity": "円 é o círculo e também o iene: a moeda japonesa 'redonda'."
+  },
+  "tf13-02": {
+   "word": "四角",
+   "translit": "shikaku",
+   "example": "この箱は四角ですか？",
+   "examplePt": "Esta caixa é quadrada?",
+   "pron": "shi-KA-ku — 'sh' como 'x'",
+   "curiosity": "四角 é literalmente 'quatro cantos'."
+  },
+  "tf13-03": {
+   "word": "三角",
+   "translit": "sankaku",
+   "example": "三角のおにぎりが好きです。",
+   "examplePt": "Gosto de onigiri triangular.",
+   "pron": "san-KA-ku — o 'n' nasaliza o 'a'",
+   "curiosity": "三角 é literalmente 'três cantos'; onigiri triangulares enchem as lojas de conveniência."
+  },
+  "tf13-04": {
+   "word": "長方形",
+   "translit": "chōhōkei",
+   "example": "ドアは長方形です。",
+   "examplePt": "A porta é retangular.",
+   "pron": "chô-hô-KÊ — 'ch' como em 'tchau' e vogais longas",
+   "curiosity": "長方形 junta 長 (comprido), 方 (lado) e 形 (forma)."
+  },
+  "tf13-05": {
+   "word": "ハート",
+   "translit": "hāto",
+   "example": "ハートのカードをあげます。",
+   "examplePt": "Vou dar um cartão de coração.",
+   "pron": "HÂ-to — o 'ā' é longo",
+   "curiosity": "O órgão coração é 心臓 (shinzō); ハート é o coração como símbolo."
+  },
+  "tf13-06": {
+   "word": "ひし形",
+   "translit": "hishigata",
+   "example": "ひし形の窓があります。",
+   "examplePt": "Há uma janela em losango.",
+   "pron": "hi-shi-GA-ta — 'g' duro, como em 'gato'",
+   "curiosity": "ひし (菱) é uma planta aquática de frutos em losango, que dá nome à forma."
+  },
+  "tf13-07": {
+   "word": "楕円",
+   "translit": "daen",
+   "example": "この皿は楕円形です。",
+   "examplePt": "Este prato é oval.",
+   "pron": "DA-en — as duas vogais soam separadas",
+   "curiosity": "楕円 também é 'elipse': a órbita dos planetas é uma elipse."
+  },
+  "tf13-08": {
+   "word": "立方体",
+   "translit": "rippōtai",
+   "example": "さいころは立方体です。",
+   "examplePt": "O dado é um cubo.",
+   "pron": "rip-PÔ-tai — o 'pp' tem pausinha antes do 'pô'",
+   "curiosity": "立方体 junta 立 (em pé), 方 (quadrado) e 体 (corpo)."
+  },
+  "tf13-09": {
+   "word": "球",
+   "translit": "kyū",
+   "example": "ボールは球の形です。",
+   "examplePt": "A bola tem forma de esfera.",
+   "pron": "KYÛ — 'ky' é um 'ki' rápido; o 'ū' é longo",
+   "curiosity": "球 também aparece em 野球 (yakyū), 'bola de campo', o nome do beisebol."
+  },
+  "tf13-10": {
+   "word": "円柱",
+   "translit": "enchū",
+   "example": "缶は円柱の形です。",
+   "examplePt": "A lata tem forma de cilindro.",
+   "pron": "en-CHÛ — 'ch' como em 'tchau'; 'ū' longo",
+   "curiosity": "円柱 junta 円 (círculo) e 柱 (pilar): um 'pilar redondo'."
+  },
+  "tf14-01": {
+   "word": "十一",
+   "translit": "jūichi",
+   "example": "十一時に寝ます。",
+   "examplePt": "Vou dormir às onze.",
+   "pron": "jû-I-chi — 'j' como 'dj'",
+   "curiosity": "De 11 a 19 o japonês só soma: 十一 é literalmente 'dez-um'."
+  },
+  "tf14-02": {
+   "word": "十二",
+   "translit": "jūni",
+   "example": "十二月は寒いです。",
+   "examplePt": "Dezembro é frio.",
+   "pron": "jû-NI — 'ū' longo",
+   "curiosity": "O zodíaco, usado também no Japão, tem 十二 (doze) animais."
+  },
+  "tf14-03": {
+   "word": "十五",
+   "translit": "jūgo",
+   "example": "十五分で着きます。",
+   "examplePt": "Chego em quinze minutos.",
+   "pron": "jû-GO — 'g' duro, como em 'gato'",
+   "curiosity": "十五夜 (jūgoya) é a noite de lua cheia, celebrada no Japão com bolinhos e capim-prateado (susuki)."
+  },
+  "tf14-04": {
+   "word": "二十",
+   "translit": "nijū",
+   "example": "二十歳になりました。",
+   "examplePt": "Completei vinte anos.",
+   "pron": "ni-JÛ — 'ū' longo",
+   "curiosity": "二十歳 (vinte anos) lê-se 'hatachi', e não 'nijūsai'."
+  },
+  "tf14-05": {
+   "word": "三十",
+   "translit": "sanjū",
+   "example": "三十分待ちました。",
+   "examplePt": "Esperei trinta minutos.",
+   "pron": "san-JÛ — 'n' nasal antes do 'j'",
+   "curiosity": "Em japonês, 三十 é 'três-dez': multiplica-se antes da dezena."
+  },
+  "tf14-06": {
+   "word": "五十",
+   "translit": "gojū",
+   "example": "五十円玉は穴があります。",
+   "examplePt": "A moeda de cinquenta ienes tem um furo.",
+   "pron": "go-JÛ — 'j' como 'dj'",
+   "curiosity": "As moedas de 5 e 50 ienes têm um furo no meio."
+  },
+  "tf14-07": {
+   "word": "百",
+   "translit": "hyaku",
+   "example": "百円でこれを買えますか？",
+   "examplePt": "Dá para comprar isto por cem ienes?",
+   "pron": "HYA-ku — 'hy' é um 'hi' rápido",
+   "curiosity": "百 muda de som: 三百 (sanbyaku), 六百 (roppyaku) e 八百 (happyaku)."
+  },
+  "tf14-08": {
+   "word": "二百",
+   "translit": "nihyaku",
+   "example": "二百人が集まりました。",
+   "examplePt": "Duzentas pessoas se reuniram.",
+   "pron": "ni-HYA-ku — 'hy' rápido",
+   "curiosity": "Duzentos é 二 + 百, sem mudança de som, ao contrário de 三百 (sanbyaku)."
+  },
+  "tf14-09": {
+   "word": "千",
+   "translit": "sen",
+   "example": "千円札を持っています。",
+   "examplePt": "Tenho uma nota de mil ienes.",
+   "pron": "SEN — 'n' final nasal",
+   "curiosity": "千羽鶴 (senbazuru), mil garças de origami, simbolizam desejos de saúde."
+  },
+  "tf14-10": {
+   "word": "百万",
+   "translit": "hyakuman",
+   "example": "百万人が住んでいます。",
+   "examplePt": "Um milhão de pessoas mora lá.",
+   "pron": "hya-KU-man — 'hy' rápido; 'n' final nasal",
+   "curiosity": "O japonês conta de 4 em 4 dígitos: 万 (man) é 10 mil, então 百万 é '100 × 10 mil'."
+  },
+  "tf15-01": {
+   "word": "目覚める",
+   "translit": "mezameru",
+   "example": "朝六時に目覚めました。",
+   "examplePt": "Acordei às seis da manhã.",
+   "pron": "me-za-ME-ru — 'z' vibrado como em 'zero'",
+   "curiosity": "目覚まし時計 (mezamashi dokei) é o despertador, 'relógio que desperta os olhos'."
+  },
+  "tf15-02": {
+   "word": "起きる",
+   "translit": "okiru",
+   "example": "毎朝七時に起きます。",
+   "examplePt": "Levanto todo dia às sete.",
+   "pron": "o-KI-ru — 'r' de batida leve",
+   "curiosity": "'Hayaoki wa san mon no toku': 早起きは三文の徳, acordar cedo traz benefícios."
+  },
+  "tf15-03": {
+   "word": "シャワーを浴びる",
+   "translit": "shawā wo abiru",
+   "example": "寝る前にシャワーを浴びます。",
+   "examplePt": "Tomo banho antes de dormir.",
+   "pron": "sha-uâ o a-BI-ru — o 'wo' soa como 'o'",
+   "curiosity": "Muitos japoneses se lavam fora da banheira e só então entram na água quente."
+  },
+  "tf15-04": {
+   "word": "歯を磨く",
+   "translit": "ha wo migaku",
+   "example": "食べたあと歯を磨きます。",
+   "examplePt": "Escovo os dentes depois de comer.",
+   "pron": "ha o mi-GA-ku — 'g' duro, como em 'gato'",
+   "curiosity": "磨く também significa 'aperfeiçoar': 腕を磨く é 'polir o braço', ou seja, a habilidade."
+  },
+  "tf15-05": {
+   "word": "髪をとかす",
+   "translit": "kami wo tokasu",
+   "example": "出かける前に髪をとかします。",
+   "examplePt": "Penteio o cabelo antes de sair.",
+   "pron": "ka-mi o to-KA-su — 'wo' soa 'o'",
+   "curiosity": "髪 (cabelo), 神 (deus) e 紙 (papel) se pronunciam todos 'kami'."
+  },
+  "tf15-06": {
+   "word": "昼ご飯を食べる",
+   "translit": "hirugohan wo taberu",
+   "example": "友達と昼ご飯を食べました。",
+   "examplePt": "Almocei com um amigo.",
+   "pron": "hi-ru-go-HAN o ta-BE-ru — 'g' duro",
+   "curiosity": "Em muitas escolas e empresas, o 弁当 (bentō) é o almoço caprichado levado de casa."
+  },
+  "tf15-07": {
+   "word": "晩ご飯を食べる",
+   "translit": "bangohan wo taberu",
+   "example": "家族で晩ご飯を食べます。",
+   "examplePt": "Jantamos em família.",
+   "pron": "ban-go-HAN o ta-BE-ru — 'n' nasal",
+   "curiosity": "ご飯 (gohan) quer dizer 'arroz cozido' e também 'refeição'."
+  },
+  "tf15-08": {
+   "word": "勉強する",
+   "translit": "benkyō suru",
+   "example": "図書館で勉強しますか？",
+   "examplePt": "Você estuda na biblioteca?",
+   "pron": "BEN-kyô SU-ru — o 'kyō' é longo",
+   "curiosity": "勉強 junta 勉 (esforço) e 強 (força): estudar é 'se esforçar com força'."
+  },
+  "tf15-09": {
+   "word": "寝る",
+   "translit": "neru",
+   "example": "夜十時に寝ます。",
+   "examplePt": "Durmo às dez da noite.",
+   "pron": "NE-ru — 'e' como em 'pé'",
+   "curiosity": "寝坊 (nebō) é 'dormir demais', a desculpa de muita gente atrasada."
+  },
+  "tf15-10": {
+   "word": "夢を見る",
+   "translit": "yume wo miru",
+   "example": "昨日、変な夢を見ました。",
+   "examplePt": "Ontem tive um sonho estranho.",
+   "pron": "yu-me o MI-ru — 'wo' soa como 'o'",
+   "curiosity": "Em japonês 'vê-se' o sonho: 夢を見る é literalmente 'ver um sonho'."
+  },
+  "tf16-01": {
+   "word": "走る",
+   "translit": "hashiru",
+   "example": "公園で毎日走りますか？",
+   "examplePt": "Você corre no parque todo dia?",
+   "pron": "ha-SHI-ru — 'sh' como 'x'",
+   "curiosity": "Ekiden (駅伝) é a corrida de revezamento, muito popular no Ano-Novo."
+  },
+  "tf16-02": {
+   "word": "歩く",
+   "translit": "aruku",
+   "example": "駅まで歩きましょう。",
+   "examplePt": "Vamos a pé até a estação.",
+   "pron": "a-RU-ku — 'r' de batida leve",
+   "curiosity": "散歩 (sanpo) é o passeio a pé, só pelo prazer de caminhar."
+  },
+  "tf16-03": {
+   "word": "跳ぶ",
+   "translit": "tobu",
+   "example": "子どもが水たまりを跳びます。",
+   "examplePt": "A criança pula na poça.",
+   "pron": "TO-bu — 'o' fechado e 'bu' curto",
+   "curiosity": "跳ぶ (pular) e 飛ぶ (voar) soam igual: 'tobu'."
+  },
+  "tf16-04": {
+   "word": "泳ぐ",
+   "translit": "oyogu",
+   "example": "海で泳いだことがありますか？",
+   "examplePt": "Você já nadou no mar?",
+   "pron": "o-YO-gu — 'g' duro, como em 'gato'",
+   "curiosity": "Os 鯉のぼり, carpas de pano, 'nadam' no vento no Dia das Crianças."
+  },
+  "tf16-05": {
+   "word": "上がる",
+   "translit": "agaru",
+   "example": "階段を上がってください。",
+   "examplePt": "Suba a escada, por favor.",
+   "pron": "a-GA-ru — 'g' duro",
+   "curiosity": "上がる também é 'entrar em casa' tirando os sapatos: お上がりください."
+  },
+  "tf16-06": {
+   "word": "下りる",
+   "translit": "oriru",
+   "example": "山を下りて村に着きました。",
+   "examplePt": "Desci a montanha e cheguei à vila.",
+   "pron": "o-RI-ru — 'r' de batida leve",
+   "curiosity": "下りる é descer de lugares altos; 降りる (mesmo som) é descer de veículos."
+  },
+  "tf16-07": {
+   "word": "踊る",
+   "translit": "odoru",
+   "example": "祭りでみんなが踊ります。",
+   "examplePt": "No festival todos dançam.",
+   "pron": "o-DO-ru — 'r' de batida leve",
+   "curiosity": "Bon odori (盆踊り) é a dança em roda do verão, ao som de tambores."
+  },
+  "tf16-08": {
+   "word": "押す",
+   "translit": "osu",
+   "example": "ドアを押して入ります。",
+   "examplePt": "Empurro a porta e entro.",
+   "pron": "O-su — o 'u' final quase some",
+   "curiosity": "Nas portas japonesas, 押 quer dizer 'empurre' e 引 'puxe'."
+  },
+  "tf16-09": {
+   "word": "引く",
+   "translit": "hiku",
+   "example": "ドアを引いて開けます。",
+   "examplePt": "Puxo a porta para abrir.",
+   "pron": "HI-ku — 'h' é um sopro suave",
+   "curiosity": "引く também é 'pegar': 風邪を引く é literalmente 'puxar um resfriado'."
+  },
+  "tf16-10": {
+   "word": "よじ登る",
+   "translit": "yojinoboru",
+   "example": "子どもが木によじ登りました。",
+   "examplePt": "A criança escalou a árvore.",
+   "pron": "yo-ji-NO-bo-ru — 'j' como 'dj'",
+   "curiosity": "よじ登る é subir agarrando com mãos e pés, esforçando-se."
+  },
+  "tf17-01": {
+   "word": "話す",
+   "translit": "hanasu",
+   "example": "日本語で話しましょう。",
+   "examplePt": "Vamos falar em japonês.",
+   "pron": "ha-NA-su — 'h' é um sopro suave",
+   "curiosity": "話 (hanashi) é 'conversa' e também 'história': a mesma raiz de 話す."
+  },
+  "tf17-02": {
+   "word": "聞く",
+   "translit": "kiku",
+   "example": "どんな音楽を聞きますか？",
+   "examplePt": "Que música você escuta?",
+   "pron": "KI-ku — 'k' seco",
+   "curiosity": "聞く serve para ouvir e para perguntar: 道を聞く é 'perguntar o caminho'."
+  },
+  "tf17-03": {
+   "word": "読む",
+   "translit": "yomu",
+   "example": "毎晩、本を読みます。",
+   "examplePt": "Leio um livro toda noite.",
+   "pron": "YO-mu — 'y' como em 'iogurte'",
+   "curiosity": "空気を読む é 'ler o ar': perceber o clima sem que ninguém diga nada."
+  },
+  "tf17-04": {
+   "word": "書く",
+   "translit": "kaku",
+   "example": "手紙を書きました。",
+   "examplePt": "Escrevi uma carta.",
+   "pron": "KA-ku — duas sílabas curtas",
+   "curiosity": "書道 (shodō) é a arte da caligrafia japonesa com pincel e tinta."
+  },
+  "tf17-05": {
+   "word": "質問する",
+   "translit": "shitsumon suru",
+   "example": "先生に質問しました。",
+   "examplePt": "Fiz uma pergunta ao professor.",
+   "pron": "shi-tsu-MON SU-ru — 'sh' como 'x'",
+   "curiosity": "Para pedir a palavra se diz 'Shitsumon ga arimasu': 'tenho uma pergunta'."
+  },
+  "tf17-06": {
+   "word": "答える",
+   "translit": "kotaeru",
+   "example": "質問に答えてください。",
+   "examplePt": "Responda à pergunta, por favor.",
+   "pron": "ko-TA-e-ru — 'ae' são duas vogais",
+   "curiosity": "答え (kotae) é 'resposta': é só tirar o 'ru' do verbo."
+  },
+  "tf17-07": {
+   "word": "考える",
+   "translit": "kangaeru",
+   "example": "もう少し考えさせてください。",
+   "examplePt": "Deixe-me pensar mais um pouco.",
+   "pron": "kan-GA-e-ru — 'g' duro e 'n' nasal",
+   "curiosity": "'Kangaechū' (考え中) quer dizer 'pensando' e se diz ao hesitar."
+  },
+  "tf17-08": {
+   "word": "思い出す",
+   "translit": "omoidasu",
+   "example": "昔の友達を思い出しました。",
+   "examplePt": "Lembrei de um amigo antigo.",
+   "pron": "o-mo-i-DA-su — 'oi' são duas vogais",
+   "curiosity": "思い出 (omoide) é 'lembrança'; 思い出す é fazer a memória voltar."
+  },
+  "tf17-09": {
+   "word": "忘れる",
+   "translit": "wasureru",
+   "example": "傘を忘れました。",
+   "examplePt": "Esqueci o guarda-chuva.",
+   "pron": "wa-SU-re-ru — 'w' bem leve",
+   "curiosity": "忘年会 (bōnenkai) é a festa de fim de ano para 'esquecer o ano'."
+  },
+  "tf17-10": {
+   "word": "分かる",
+   "translit": "wakaru",
+   "example": "この問題は分かりますか？",
+   "examplePt": "Você entende este problema?",
+   "pron": "wa-KA-ru — 'w' leve e 'r' de batida",
+   "curiosity": "Basta 'Wakarimasu' para dizer 'eu entendo': o japonês dispensa o pronome."
+  },
+  "tf18-01": {
+   "word": "銀行",
+   "translit": "ginkō",
+   "example": "銀行は駅の近くです。",
+   "examplePt": "O banco fica perto da estação.",
+   "pron": "gin-KÔ — 'g' duro nas duas sílabas",
+   "curiosity": "銀行 contém 銀 (prata): é um 'banco de prata'."
+  },
+  "tf18-02": {
+   "word": "薬局",
+   "translit": "yakkyoku",
+   "example": "薬局で薬を買います。",
+   "examplePt": "Compro remédio na farmácia.",
+   "pron": "yak-KYO-ku — o 'kk' tem pausinha antes do 'kyo'",
+   "curiosity": "As farmácias japonesas costumam vender também cosméticos e artigos do dia a dia."
+  },
+  "tf18-03": {
+   "word": "パン屋",
+   "translit": "panya",
+   "example": "パン屋はいい匂いがします。",
+   "examplePt": "A padaria tem um cheiro bom.",
+   "pron": "PAN-ya — 'n' nasal seguido de 'ya'",
+   "curiosity": "O sufixo 屋 (ya) indica a loja: パン屋, 本屋 (livraria), 花屋 (floricultura)."
+  },
+  "tf18-04": {
+   "word": "学校",
+   "translit": "gakkō",
+   "example": "学校は何時に始まりますか？",
+   "examplePt": "A que horas a escola começa?",
+   "pron": "gak-KÔ — o 'kk' tem pausinha; 'ō' longo",
+   "curiosity": "No Japão o ano escolar começa em abril, com as cerejeiras em flor."
+  },
+  "tf18-05": {
+   "word": "病院",
+   "translit": "byōin",
+   "example": "病院で検査を受けました。",
+   "examplePt": "Fiz exames no hospital.",
+   "pron": "BYÔ-in — 'by' é um 'bi' rápido",
+   "curiosity": "O 院 (in) de 病院 aparece também em 美容院, o salão de beleza."
+  },
+  "tf18-06": {
+   "word": "広場",
+   "translit": "hiroba",
+   "example": "広場で子どもが遊んでいます。",
+   "examplePt": "Crianças brincam na praça.",
+   "pron": "hi-RO-ba — 'r' de batida leve",
+   "curiosity": "広場 é 'lugar largo': 広 (amplo) + 場 (local)."
+  },
+  "tf18-07": {
+   "word": "スーパー",
+   "translit": "sūpā",
+   "example": "近くのスーパーで買い物します。",
+   "examplePt": "Faço compras no mercado por perto.",
+   "pron": "SÛ-PÂ — as duas vogais longas",
+   "curiosity": "スーパー é a forma curta de スーパーマーケット, 'supermarket'."
+  },
+  "tf18-08": {
+   "word": "図書館",
+   "translit": "toshokan",
+   "example": "図書館で本を借りました。",
+   "examplePt": "Peguei um livro emprestado na biblioteca.",
+   "pron": "to-sho-KAN — 'sh' como 'x'",
+   "curiosity": "図書館 junta 図 (desenho), 書 (livro) e 館 (edifício)."
+  },
+  "tf18-09": {
+   "word": "映画館",
+   "translit": "eigakan",
+   "example": "週末に映画館へ行きます。",
+   "examplePt": "No fim de semana vou ao cinema.",
+   "pron": "ei-ga-KAN — 'ei' como 'ê-i'",
+   "curiosity": "Muitos cinemas japoneses têm desconto no 'Dia do Cinema' (映画の日), todo dia 1."
+  },
+  "tf18-10": {
+   "word": "博物館",
+   "translit": "hakubutsukan",
+   "example": "博物館で恐竜を見ました。",
+   "examplePt": "Vi dinossauros no museu.",
+   "pron": "ha-ku-BU-tsu-kan — 'tsu' como em 'pizza'",
+   "curiosity": "博物館 une 博 (vasto), 物 (coisas) e 館: 'edifício de muitas coisas'."
+  },
+  "tf19-01": {
+   "word": "バス",
+   "translit": "basu",
+   "example": "バスは十分で来ます。",
+   "examplePt": "O ônibus chega em dez minutos.",
+   "pron": "BA-su — o 'u' final é quase mudo",
+   "curiosity": "Em muitos ônibus japoneses, entra-se por trás e paga-se ao sair pela frente."
+  },
+  "tf19-02": {
+   "word": "電車",
+   "translit": "densha",
+   "example": "電車は時間通りに来ますか？",
+   "examplePt": "O trem chega na hora certa?",
+   "pron": "DEN-sha — 'sh' como 'x' de 'xícara'",
+   "curiosity": "Trens japoneses são tão pontuais que um atraso de um minuto gera pedido de desculpas."
+  },
+  "tf19-03": {
+   "word": "飛行機",
+   "translit": "hikōki",
+   "example": "飛行機は空を飛びます。",
+   "examplePt": "O avião voa pelo céu.",
+   "pron": "hi-KÔ-ki — 'ō' longo",
+   "curiosity": "飛行機 é a 'máquina de voar': 飛 (voar) + 行 (ir) + 機 (máquina)."
+  },
+  "tf19-04": {
+   "word": "地下鉄",
+   "translit": "chikatetsu",
+   "example": "地下鉄で会社に行きます。",
+   "examplePt": "Vou à empresa de metrô.",
+   "pron": "chi-ka-TE-tsu — 'ch' como em 'tchau'",
+   "curiosity": "No horário de pico, o metrô de Tóquio já teve funcionários para empurrar os passageiros para dentro."
+  },
+  "tf19-05": {
+   "word": "自転車",
+   "translit": "jitensha",
+   "example": "自転車で学校に通います。",
+   "examplePt": "Vou à escola de bicicleta.",
+   "pron": "ji-TEN-sha — 'j' como 'dj'",
+   "curiosity": "自転車 é o 'veículo que gira sozinho': 自 (si mesmo), 転 (girar), 車 (veículo)."
+  },
+  "tf19-06": {
+   "word": "タクシー",
+   "translit": "takushī",
+   "example": "タクシーを呼びましょうか？",
+   "examplePt": "Vamos chamar um táxi?",
+   "pron": "ta-ku-SHÎ — 'ī' longo",
+   "curiosity": "Nos táxis japoneses, o motorista abre e fecha a porta de trás automaticamente."
+  },
+  "tf19-07": {
+   "word": "船",
+   "translit": "fune",
+   "example": "船で島に行きます。",
+   "examplePt": "Vou à ilha de barco.",
+   "pron": "FU-ne — o 'f' sai só com um sopro, sem encostar os dentes",
+   "curiosity": "船 se lê 'sen' em palavras como 汽船 (kisen), 'navio a vapor'."
+  },
+  "tf19-08": {
+   "word": "トラック",
+   "translit": "torakku",
+   "example": "トラックが荷物を運びます。",
+   "examplePt": "O caminhão carrega a mercadoria.",
+   "pron": "to-RAK-ku — o 'kk' tem pausinha",
+   "curiosity": "Os 'dekotora' são caminhões japoneses decorados com luzes e pinturas."
+  },
+  "tf19-09": {
+   "word": "バイク",
+   "translit": "baiku",
+   "example": "バイクで海へ行きたいです。",
+   "examplePt": "Quero ir à praia de moto.",
+   "pron": "BAI-ku — 'ai' como em 'pai'",
+   "curiosity": "バイク vem de 'bike', mas no Japão quer dizer 'moto', e não bicicleta!"
+  },
+  "tf19-10": {
+   "word": "ヘリコプター",
+   "translit": "herikoputā",
+   "example": "ヘリコプターが屋上に降ります。",
+   "examplePt": "O helicóptero pousa no terraço.",
+   "pron": "he-ri-ko-PUTÂ — o 'tā' final é longo",
+   "curiosity": "No dia a dia, ヘリコプター é encurtado para ヘリ (heri)."
+  },
+  "tf20-01": {
+   "word": "スーツケース",
+   "translit": "sūtsukēsu",
+   "example": "スーツケースが重いです。",
+   "examplePt": "A mala está pesada.",
+   "pron": "SÛ-tsu-KÊ-su — 'tsu' como em 'pizza'",
+   "curiosity": "Muitos japoneses enviam a mala ao hotel por serviço de entrega, o 宅配便 (takuhaibin)."
+  },
+  "tf20-02": {
+   "word": "パスポート",
+   "translit": "pasupōto",
+   "example": "パスポートを見せてください。",
+   "examplePt": "Mostre o passaporte, por favor.",
+   "pron": "pa-su-PÔ-to — o 'ō' é longo",
+   "curiosity": "A capa do passaporte japonês traz um crisântemo dourado de 16 pétalas."
+  },
+  "tf20-03": {
+   "word": "切符",
+   "translit": "kippu",
+   "example": "切符はどこで買えますか？",
+   "examplePt": "Onde se compra a passagem?",
+   "pron": "KIP-pu — o 'pp' tem pausinha",
+   "curiosity": "O 切 de 切符 é 'cortar': antes, o fiscal cortava um pedacinho do bilhete."
+  },
+  "tf20-04": {
+   "word": "ホテル",
+   "translit": "hoteru",
+   "example": "駅の近くにホテルを予約しました。",
+   "examplePt": "Reservei um hotel perto da estação.",
+   "pron": "ho-TE-ru — 'h' é um sopro suave",
+   "curiosity": "Os 'business hotels' japoneses têm quartos pequenos e eficientes para viagens de trabalho."
+  },
+  "tf20-05": {
+   "word": "地図",
+   "translit": "chizu",
+   "example": "地図を見ながら歩きます。",
+   "examplePt": "Ando olhando o mapa.",
+   "pron": "CHI-zu — 'ch' como em 'tchau'",
+   "curiosity": "地図 junta 地 (terra) e 図 (desenho): 'desenho da terra'."
+  },
+  "tf20-06": {
+   "word": "予約",
+   "translit": "yoyaku",
+   "example": "レストランを予約しますか？",
+   "examplePt": "Você vai reservar o restaurante?",
+   "pron": "yo-YA-ku — 'y' como em 'iogurte'",
+   "curiosity": "予約 junta 予 (de antemão) e 約 (promessa): 'promessa antecipada'."
+  },
+  "tf20-07": {
+   "word": "観光客",
+   "translit": "kankōkyaku",
+   "example": "観光客が写真を撮っています。",
+   "examplePt": "Os turistas estão tirando fotos.",
+   "pron": "kan-KÔ-kya-ku — 'ō' longo; 'kya' como 'kia'",
+   "curiosity": "観光 vem de uma expressão chinesa antiga, 'ver a luz de um país'."
+  },
+  "tf20-08": {
+   "word": "国境",
+   "translit": "kokkyō",
+   "example": "国境を電車で越えました。",
+   "examplePt": "Cruzei a fronteira de trem.",
+   "pron": "kok-KYÔ — o 'kk' tem pausinha",
+   "curiosity": "O Japão é uma ilha: não tem fronteiras terrestres, só marítimas."
+  },
+  "tf20-09": {
+   "word": "税関",
+   "translit": "zeikan",
+   "example": "税関で荷物を開けました。",
+   "examplePt": "Abri a bagagem na alfândega.",
+   "pron": "ZEI-kan — 'z' vibrado; 'ei' como 'ê-i'",
+   "curiosity": "税関 é o 'portão do imposto': 税 (imposto) + 関 (barreira)."
+  },
+  "tf20-10": {
+   "word": "お土産",
+   "translit": "omiyage",
+   "example": "お土産を友達に買いました。",
+   "examplePt": "Comprei uma lembrança para o amigo.",
+   "pron": "o-MI-ya-ge — 'g' duro, como em 'gato'",
+   "curiosity": "No Japão é costume trazer お土産 de viagem para colegas e família."
+  },
+  "tf21-01": {
+   "word": "お母さん",
+   "translit": "okāsan",
+   "example": "お母さんは料理が上手ですか？",
+   "examplePt": "Sua mãe cozinha bem?",
+   "pron": "o-KÂ-san — 'kā' longo; 'n' final nasal",
+   "curiosity": "Da própria mãe se diz 'haha' (母); 'okāsan' é para a mãe dos outros ou ao chamá-la."
+  },
+  "tf21-02": {
+   "word": "お父さん",
+   "translit": "otōsan",
+   "example": "お父さんは毎朝新聞を読みます。",
+   "examplePt": "Meu pai lê o jornal toda manhã.",
+   "pron": "o-TÔ-san — 'tō' longo",
+   "curiosity": "O Dia dos Pais japonês (父の日) cai no terceiro domingo de junho."
+  },
+  "tf21-03": {
+   "word": "兄",
+   "translit": "ani",
+   "example": "兄は私より三歳上です。",
+   "examplePt": "Meu irmão é três anos mais velho que eu.",
+   "pron": "A-ni — 'a' aberto e 'ni' curto",
+   "curiosity": "Japonês separa irmão mais velho (兄) e mais novo (弟): não há uma palavra só para 'irmão'."
+  },
+  "tf21-04": {
+   "word": "姉",
+   "translit": "ane",
+   "example": "姉は東京に住んでいます。",
+   "examplePt": "Minha irmã mora em Tóquio.",
+   "pron": "A-ne — 'e' como em 'pé'",
+   "curiosity": "Ao chamar a irmã mais velha de alguém se diz お姉さん (onēsan), também 'moça'."
+  },
+  "tf21-05": {
+   "word": "息子",
+   "translit": "musuko",
+   "example": "息子は今年小学生になります。",
+   "examplePt": "Meu filho entra na escola este ano.",
+   "pron": "mu-SU-ko — o 'u' do início é quase mudo",
+   "curiosity": "Do próprio filho diz-se 息子 (musuko); do filho alheio, 息子さん (musuko-san)."
+  },
+  "tf21-06": {
+   "word": "娘",
+   "translit": "musume",
+   "example": "娘は毎日ピアノを練習します。",
+   "examplePt": "Minha filha pratica piano todo dia.",
+   "pron": "mu-SU-me — 'u' curto, 'me' como em 'pé'",
+   "curiosity": "娘 leva o radical 女 (mulher): é a 'filha mulher'."
+  },
+  "tf21-07": {
+   "word": "おじいさん",
+   "translit": "ojīsan",
+   "example": "おじいさんは公園を散歩します。",
+   "examplePt": "O vovô passeia no parque.",
+   "pron": "o-JÎ-san — 'jī' longo, com 'j' de 'dj'",
+   "curiosity": "O Keirō no Hi (敬老の日), na terceira segunda de setembro, homenageia os idosos."
+  },
+  "tf21-08": {
+   "word": "おばあさん",
+   "translit": "obāsan",
+   "example": "おばあさんが昔話をしてくれました。",
+   "examplePt": "A vovó me contou histórias antigas.",
+   "pron": "o-BÂ-san — o 'bā' é longo",
+   "curiosity": "Só uma vogal separa 'obāsan' (avó) de 'obasan' (tia): comprimento da vogal importa!"
+  },
+  "tf21-09": {
+   "word": "おじさん",
+   "translit": "ojisan",
+   "example": "おじさんは大阪に住んでいます。",
+   "examplePt": "Meu tio mora em Osaka.",
+   "pron": "o-JI-san — o 'ji' é curto, sem alongar",
+   "curiosity": "おじさん serve para tio e também para qualquer homem de meia-idade."
+  },
+  "tf21-10": {
+   "word": "おばさん",
+   "translit": "obasan",
+   "example": "おばさんがお菓子を送ってくれました。",
+   "examplePt": "Minha tia me mandou doces.",
+   "pron": "o-BA-san — o 'ba' é curto",
+   "curiosity": "Nos kanjis, 伯母 é a irmã mais velha do pai ou da mãe e 叔母 a mais nova."
+  },
+  "tf22-01": {
+   "word": "嬉しい",
+   "translit": "ureshii",
+   "example": "合格して嬉しいですか？",
+   "examplePt": "Você está feliz por ter passado?",
+   "pron": "u-RE-shi-i — 'r' de batida; 'shii' longo",
+   "curiosity": "嬉しい (ureshii) é alegria por algo que acontece; 楽しい (tanoshii) é prazer em fazer."
+  },
+  "tf22-02": {
+   "word": "悲しい",
+   "translit": "kanashii",
+   "example": "友達が引っ越して悲しいです。",
+   "examplePt": "Fico triste porque meu amigo se mudou.",
+   "pron": "ka-NA-shi-i — 'shii' longo",
+   "curiosity": "悲しい é tristeza funda; 寂しい (sabishii) é a tristeza da solidão."
+  },
+  "tf22-03": {
+   "word": "いらいら",
+   "translit": "iraira",
+   "example": "待たされて、いらいらしました。",
+   "examplePt": "Fiquei irritado por ter de esperar.",
+   "pron": "i-ra-i-ra — 'r' de batida leve",
+   "curiosity": "いらいら é uma onomatopeia: imita a sensação que 'pica' por dentro."
+  },
+  "tf22-04": {
+   "word": "怖い",
+   "translit": "kowai",
+   "example": "暗い道は怖いです。",
+   "examplePt": "A rua escura dá medo.",
+   "pron": "ko-WAI — 'ai' como em 'pai'",
+   "curiosity": "怖い é 'assustador', e 怖がり (kowagari) é quem se assusta fácil."
+  },
+  "tf22-05": {
+   "word": "びっくり",
+   "translit": "bikkuri",
+   "example": "大きな音にびっくりしました。",
+   "examplePt": "Levei um susto com o barulho alto.",
+   "pron": "bik-KU-ri — o 'kk' tem pausinha",
+   "curiosity": "びっくり箱 (bikkuribako) é a caixa-surpresa com boneco que pula."
+  },
+  "tf22-06": {
+   "word": "疲れた",
+   "translit": "tsukareta",
+   "example": "今日は歩きすぎて疲れました。",
+   "examplePt": "Hoje andei demais e estou cansado.",
+   "pron": "tsu-ka-RE-ta — 'ts' como em 'pizza'",
+   "curiosity": "'Otsukaresama' (お疲れ様) é o 'bom trabalho' dito entre colegas."
+  },
+  "tf22-07": {
+   "word": "眠い",
+   "translit": "nemui",
+   "example": "昼ご飯のあとは眠いです。",
+   "examplePt": "Depois do almoço dá sono.",
+   "pron": "ne-MU-i — 'ui' separado",
+   "curiosity": "'Inemuri' (居眠り) é cochilar em público e é visto como sinal de esforço."
+  },
+  "tf22-08": {
+   "word": "退屈",
+   "translit": "taikutsu",
+   "example": "この映画は退屈でした。",
+   "examplePt": "Este filme foi entediante.",
+   "pron": "tai-KU-tsu — 'ai' como em 'pai'",
+   "curiosity": "退屈 é o tédio de ter tempo e nada interessante; 暇 (hima) é só estar livre."
+  },
+  "tf22-09": {
+   "word": "わくわく",
+   "translit": "wakuwaku",
+   "example": "明日の遠足にわくわくします。",
+   "examplePt": "Estou animado com o passeio de amanhã.",
+   "pron": "wa-ku-wa-ku — 'w' bem leve",
+   "curiosity": "わくわく imita o som do coração batendo de expectativa."
+  },
+  "tf22-10": {
+   "word": "緊張",
+   "translit": "kinchō",
+   "example": "面接の前は緊張します。",
+   "examplePt": "Fico nervoso antes da entrevista.",
+   "pron": "kin-CHÔ — 'ch' como 'tch'; 'chō' longo",
+   "curiosity": "緊張 junta 緊 (apertado) e 張 (esticar): como uma corda bem esticada."
+  },
+  "tf23-01": {
+   "word": "優しい",
+   "translit": "yasashii",
+   "example": "彼女はとても優しい人です。",
+   "examplePt": "Ela é uma pessoa muito gentil.",
+   "pron": "ya-SA-shi-i — 'y' como em 'iogurte'",
+   "curiosity": "優しい (gentil) e 易しい (fácil) se pronunciam igual: yasashii."
+  },
+  "tf23-02": {
+   "word": "恥ずかしがり屋",
+   "translit": "hazukashigariya",
+   "example": "弟は恥ずかしがり屋です。",
+   "examplePt": "Meu irmão mais novo é tímido.",
+   "pron": "ha-zu-ka-shi-ga-RI-ya — 'g' duro",
+   "curiosity": "O sufixo 屋 define o 'tipo de pessoa': 寂しがり屋 (solitário), 頑張り屋 (esforçado)."
+  },
+  "tf23-03": {
+   "word": "勇敢",
+   "translit": "yūkan",
+   "example": "勇敢な消防士が猫を助けました。",
+   "examplePt": "O corajoso bombeiro salvou um gato.",
+   "pron": "yû-KAN — 'ū' longo",
+   "curiosity": "勇敢 junta 勇 (coragem) e 敢 (ousar)."
+  },
+  "tf23-04": {
+   "word": "怠け者",
+   "translit": "namakemono",
+   "example": "怠け者は朝なかなか起きません。",
+   "examplePt": "O preguiçoso demora para levantar de manhã.",
+   "pron": "na-ma-ke-MO-no — 'e' como em 'pé'",
+   "curiosity": "者 (mono) indica 'pessoa', como em 若者 (wakamono), 'jovem'."
+  },
+  "tf23-05": {
+   "word": "気前がいい",
+   "translit": "kimae ga ii",
+   "example": "彼は気前がいい人です。",
+   "examplePt": "Ele é uma pessoa generosa.",
+   "pron": "ki-MAE ga i-i — 'ae' separado",
+   "curiosity": "気前がいい descreve quem paga a conta sem pensar duas vezes."
+  },
+  "tf23-06": {
+   "word": "頑固",
+   "translit": "ganko",
+   "example": "祖父は少し頑固です。",
+   "examplePt": "Meu avô é um pouco teimoso.",
+   "pron": "GAN-ko — 'g' duro, como em 'gato'",
+   "curiosity": "頑固おやじ (ganko oyaji) é o 'velho teimoso', figura clássica das histórias japonesas."
+  },
+  "tf23-07": {
+   "word": "正直",
+   "translit": "shōjiki",
+   "example": "正直に話してくれてありがとう。",
+   "examplePt": "Obrigado por ter sido sincero.",
+   "pron": "shô-JI-ki — 'sh' como 'x' e 'ō' longo",
+   "curiosity": "正直に言うと (shōjiki ni iu to) é a forma de dizer 'para ser sincero'."
+  },
+  "tf23-08": {
+   "word": "好奇心旺盛",
+   "translit": "kōkishin ōsei",
+   "example": "子どもは好奇心旺盛です。",
+   "examplePt": "Crianças são muito curiosas.",
+   "pron": "kô-KI-shin ô-SÊ — 'ō' longo nas duas palavras",
+   "curiosity": "好奇心 é 'coração de curiosidade' e 旺盛 é 'cheio de energia'."
+  },
+  "tf23-09": {
+   "word": "辛抱強い",
+   "translit": "shinbōzuyoi",
+   "example": "辛抱強い先生が教えてくれます。",
+   "examplePt": "Um professor paciente nos ensina.",
+   "pron": "shim-BÔ-zu-yo-i — 'n' antes de 'b' soa 'm'",
+   "curiosity": "'Ishi no ue ni mo san nen' (石の上にも三年): até uma pedra fria esquenta em 3 anos, paciência!"
+  },
+  "tf23-10": {
+   "word": "面白い",
+   "translit": "omoshiroi",
+   "example": "彼の話は面白いですか？",
+   "examplePt": "As histórias dele são divertidas?",
+   "pron": "o-mo-shi-RO-i — 'oi' separado",
+   "curiosity": "面白い serve para 'engraçado' e também para 'interessante'."
+  },
+  "tf24-01": {
+   "word": "恋しい",
+   "translit": "koishii",
+   "example": "家族が恋しいです。",
+   "examplePt": "Sinto saudade da minha família.",
+   "pron": "ko-I-shi-i — 'shii' longo",
+   "curiosity": "Não há palavra única para 'saudade': 恋しい e 懐かしい (nostalgia do passado) dividem o sentido."
+  },
+  "tf24-02": {
+   "word": "嫉妬",
+   "translit": "shitto",
+   "example": "友達の成功に嫉妬しました。",
+   "examplePt": "Senti ciúme do sucesso do meu amigo.",
+   "pron": "SHIT-to — o 'tt' tem pausinha",
+   "curiosity": "Os dois kanjis de 嫉妬 levam o radical 女 (mulher), marca histórica da escrita."
+  },
+  "tf24-03": {
+   "word": "誇り",
+   "translit": "hokori",
+   "example": "この町を誇りに思います。",
+   "examplePt": "Tenho orgulho desta cidade.",
+   "pron": "ho-KO-ri — 'r' de batida leve",
+   "curiosity": "'Hokori' também é 'poeira' (埃): mesmo som, kanjis diferentes."
+  },
+  "tf24-04": {
+   "word": "恥ずかしさ",
+   "translit": "hazukashisa",
+   "example": "間違えて恥ずかしさで赤くなりました。",
+   "examplePt": "Errei e fiquei vermelho de vergonha.",
+   "pron": "ha-zu-ka-SHI-sa — 'sh' como 'x'",
+   "curiosity": "'Haji no bunka' (恥の文化), 'cultura da vergonha', é um termo famoso sobre o Japão."
+  },
+  "tf24-05": {
+   "word": "希望",
+   "translit": "kibō",
+   "example": "明日への希望を持っています。",
+   "examplePt": "Tenho esperança no amanhã.",
+   "pron": "ki-BÔ — 'bō' longo",
+   "curiosity": "希望 junta 希 (desejar) e 望 (olhar ao longe): olhar adiante, esperando."
+  },
+  "tf24-06": {
+   "word": "信頼",
+   "translit": "shinrai",
+   "example": "友達を信頼しています。",
+   "examplePt": "Eu confio no meu amigo.",
+   "pron": "shin-RAI — 'ai' como em 'pai'",
+   "curiosity": "信頼 junta 信 (acreditar) e 頼 (depender): confiar é crer e contar com alguém."
+  },
+  "tf24-07": {
+   "word": "友情",
+   "translit": "yūjō",
+   "example": "二人の友情は十年続いています。",
+   "examplePt": "A amizade dos dois dura dez anos.",
+   "pron": "yû-JÔ — 'ū' e 'ō' longos",
+   "curiosity": "友情 une 友 (amigo) e 情 (sentimento): 'sentimento de amigos'."
+  },
+  "tf24-08": {
+   "word": "愛",
+   "translit": "ai",
+   "example": "母の愛は深いです。",
+   "examplePt": "O amor de mãe é profundo.",
+   "pron": "AI — 'a-i' juntos, como em 'pai'",
+   "curiosity": "愛 é um amor mais formal; no dia a dia se diz 好き (suki) ou 大好き (daisuki)."
+  },
+  "tf24-09": {
+   "word": "怒り",
+   "translit": "ikari",
+   "example": "彼の怒りはすぐに消えました。",
+   "examplePt": "A raiva dele passou logo.",
+   "pron": "i-KA-ri — 'r' de batida leve",
+   "curiosity": "怒る (okoru) quer dizer 'ficar com raiva' e também 'repreender'."
+  },
+  "tf24-10": {
+   "word": "安心",
+   "translit": "anshin",
+   "example": "無事を聞いて安心しました。",
+   "examplePt": "Fiquei aliviado ao saber que estão bem.",
+   "pron": "AN-shin — 'n' nasal nas duas sílabas",
+   "curiosity": "安心 junta 安 (tranquilo) e 心 (coração): 'coração tranquilo'."
+  },
+  "tf25-01": {
+   "word": "医者",
+   "translit": "isha",
+   "example": "医者は何をしますか？",
+   "examplePt": "O que faz um médico?",
+   "pron": "I-sha — 'sh' como 'x' de 'xícara'",
+   "curiosity": "Ao chamar o médico, diz-se 先生 (sensei), 'mestre'."
+  },
+  "tf25-02": {
+   "word": "先生",
+   "translit": "sensei",
+   "example": "先生は毎日宿題を出します。",
+   "examplePt": "O professor passa lição todo dia.",
+   "pron": "sen-SÊI — 'ei' como 'ê-i'",
+   "curiosity": "先生 é literalmente 'nascido antes': 先 (antes) + 生 (nascer)."
+  },
+  "tf25-03": {
+   "word": "コック",
+   "translit": "kokku",
+   "example": "コックがスープを作っています。",
+   "examplePt": "O cozinheiro está fazendo sopa.",
+   "pron": "KOK-ku — o 'kk' tem pausinha",
+   "curiosity": "'Kokku' veio do holandês 'kok', dos tempos das trocas comerciais com os holandeses."
+  },
+  "tf25-04": {
+   "word": "運転手",
+   "translit": "untenshu",
+   "example": "運転手はバスを止めました。",
+   "examplePt": "O motorista parou o ônibus.",
+   "pron": "un-TEN-shu — 'n' nasal e 'sh' como 'x'",
+   "curiosity": "Motoristas de táxi e ônibus no Japão costumam usar luvas brancas."
+  },
+  "tf25-05": {
+   "word": "消防士",
+   "translit": "shōbōshi",
+   "example": "消防士が火を消しました。",
+   "examplePt": "O bombeiro apagou o fogo.",
+   "pron": "shô-BÔ-shi — 'ō' longo nas duas",
+   "curiosity": "No Ano-Novo, os bombeiros japoneses fazem o dezomeshiki (出初式), um desfile de abertura do ano."
+  },
+  "tf25-06": {
+   "word": "警察官",
+   "translit": "keisatsukan",
+   "example": "警察官が道を教えてくれました。",
+   "examplePt": "O policial me indicou o caminho.",
+   "pron": "kei-SAT-su-kan — 'ei' como 'ê-i'",
+   "curiosity": "Os 'kōban' (交番) são pequenos postos onde policiais ajudam com mapas e achados e perdidos."
+  },
+  "tf25-07": {
+   "word": "歯医者",
+   "translit": "haisha",
+   "example": "歯医者に予約を入れました。",
+   "examplePt": "Marquei hora no dentista.",
+   "pron": "HAI-sha — 'ai' como em 'pai'",
+   "curiosity": "Dente, folha e lâmina soam 'ha', mas os kanjis mudam: 歯, 葉 e 刃."
+  },
+  "tf25-08": {
+   "word": "看護師",
+   "translit": "kangoshi",
+   "example": "看護師が熱を測りました。",
+   "examplePt": "A enfermeira mediu a febre.",
+   "pron": "kan-GO-shi — 'g' duro",
+   "curiosity": "Antes se dizia 看護婦 (kangofu) para mulheres; hoje o termo neutro é 看護師."
+  },
+  "tf25-09": {
+   "word": "エンジニア",
+   "translit": "enjinia",
+   "example": "エンジニアが橋を設計しました。",
+   "examplePt": "O engenheiro projetou a ponte.",
+   "pron": "en-JI-ni-a — 'j' soa 'dj'",
+   "curiosity": "O Japão é famoso por trens-bala (新幹線) e robótica, áreas de muita engenharia."
+  },
+  "tf25-10": {
+   "word": "弁護士",
+   "translit": "bengoshi",
+   "example": "弁護士に相談しました。",
+   "examplePt": "Consultei um advogado.",
+   "pron": "ben-GO-shi — 'g' duro",
+   "curiosity": "弁護士 junta 弁 (falar), 護 (proteger) e 士 (profissional): 'quem defende falando'."
+  },
+  "tf26-01": {
+   "word": "会議",
+   "translit": "kaigi",
+   "example": "午後二時から会議があります。",
+   "examplePt": "Há uma reunião a partir das duas da tarde.",
+   "pron": "KAI-gi — 'ai' como em 'pai'; 'g' duro",
+   "curiosity": "会議 é a reunião formal; 打ち合わせ (uchiawase) é a informal, para combinar detalhes."
+  },
+  "tf26-02": {
+   "word": "給料",
+   "translit": "kyūryō",
+   "example": "給料は月末に入ります。",
+   "examplePt": "O salário cai no fim do mês.",
+   "pron": "kyû-RYÔ — 'ky' é um 'ki' rápido",
+   "curiosity": "O dia de pagamento, 給料日 (kyūryōbi), costuma ser muito esperado."
+  },
+  "tf26-03": {
+   "word": "上司",
+   "translit": "jōshi",
+   "example": "上司に相談してみます。",
+   "examplePt": "Vou consultar meu chefe.",
+   "pron": "JÔ-shi — 'j' soa 'dj'; 'ō' longo",
+   "curiosity": "上司 é literalmente 'o que está acima': 上 (acima) + 司 (cargo)."
+  },
+  "tf26-04": {
+   "word": "同僚",
+   "translit": "dōryō",
+   "example": "同僚と昼ご飯に行きました。",
+   "examplePt": "Fui almoçar com um colega de trabalho.",
+   "pron": "dô-RYÔ — as duas vogais longas",
+   "curiosity": "Colega de classe é クラスメート; 同僚 é só colega de trabalho."
+  },
+  "tf26-05": {
+   "word": "契約",
+   "translit": "keiyaku",
+   "example": "新しい契約にサインしました。",
+   "examplePt": "Assinei o novo contrato.",
+   "pron": "kei-YA-ku — 'ei' como 'ê-i'",
+   "curiosity": "契約 une 契 (prometer) e 約 (acordo): dois kanjis de compromisso."
+  },
+  "tf26-06": {
+   "word": "履歴書",
+   "translit": "rirekisho",
+   "example": "履歴書を書くのは大変です。",
+   "examplePt": "Escrever o currículo dá trabalho.",
+   "pron": "ri-re-KI-sho — 'r' de batida leve",
+   "curiosity": "No Japão, o 履歴書 é frequentemente escrito à mão, com foto colada."
+  },
+  "tf26-07": {
+   "word": "面接",
+   "translit": "mensetsu",
+   "example": "明日、面接を受けます。",
+   "examplePt": "Amanhã faço uma entrevista.",
+   "pron": "men-SE-tsu — 'tsu' como em 'pizza'",
+   "curiosity": "面接 junta 面 (rosto) e 接 (encontrar): 'encontro cara a cara'."
+  },
+  "tf26-08": {
+   "word": "メール",
+   "translit": "mēru",
+   "example": "メールを送りましたか？",
+   "examplePt": "Você enviou o e-mail?",
+   "pron": "MÊ-ru — 'mē' longo",
+   "curiosity": "メール vem do inglês 'mail' e no Japão também designa a mensagem de celular."
+  },
+  "tf26-09": {
+   "word": "締め切り",
+   "translit": "shimekiri",
+   "example": "締め切りは金曜日です。",
+   "examplePt": "O prazo é sexta-feira.",
+   "pron": "shi-me-KI-ri — 'r' de batida leve",
+   "curiosity": "締め切り junta 締 (apertar) e 切 (cortar): fechar e cortar o prazo."
+  },
+  "tf26-10": {
+   "word": "会社",
+   "translit": "kaisha",
+   "example": "会社まで電車で三十分です。",
+   "examplePt": "São trinta minutos de trem até a empresa.",
+   "pron": "KAI-sha — 'sh' como 'x'",
+   "curiosity": "Sararīman (サラリーマン), do inglês 'salary man', é o funcionário de empresa."
+  },
+  "tf27-01": {
+   "word": "救急車",
+   "translit": "kyūkyūsha",
+   "example": "救急車が病院に急ぎます。",
+   "examplePt": "A ambulância corre para o hospital.",
+   "pron": "kyû-kyû-SHA — 'ky' é 'ki' rápido",
+   "curiosity": "No Japão, ambulância e bombeiros se chamam pelo mesmo número: 119."
+  },
+  "tf27-02": {
+   "word": "火事",
+   "translit": "kaji",
+   "example": "近所で火事がありました。",
+   "examplePt": "Houve um incêndio na vizinhança.",
+   "pron": "KA-ji — 'j' soa como 'dj'",
+   "curiosity": "'Kaji to kenka wa Edo no hana': incêndios e brigas eram as 'flores de Edo'."
+  },
+  "tf27-03": {
+   "word": "事故",
+   "translit": "jiko",
+   "example": "交差点で事故がありました。",
+   "examplePt": "Houve um acidente no cruzamento.",
+   "pron": "JI-ko — 'j' soa como 'dj'",
+   "curiosity": "事故 é acidente; 事件 (jiken) é ocorrência, caso, em geral policial."
+  },
+  "tf27-04": {
+   "word": "怪我人",
+   "translit": "keganin",
+   "example": "怪我人は病院に運ばれました。",
+   "examplePt": "O ferido foi levado ao hospital.",
+   "pron": "ke-GA-nin — 'g' duro",
+   "curiosity": "怪我 (kega), 'ferimento', também pode ser escrito só em hiragana: けが."
+  },
+  "tf27-05": {
+   "word": "熱",
+   "translit": "netsu",
+   "example": "熱がありますか？",
+   "examplePt": "Você está com febre?",
+   "pron": "NE-tsu — 'tsu' como em 'pizza'",
+   "curiosity": "熱 é calor e febre; 熱中症 (netchūshō) é a insolação do verão."
+  },
+  "tf27-06": {
+   "word": "薬",
+   "translit": "kusuri",
+   "example": "食後にこの薬を飲みます。",
+   "examplePt": "Tomo este remédio depois de comer.",
+   "pron": "KU-su-ri — 'r' de batida leve",
+   "curiosity": "Com crianças, usa-se o respeitoso お薬 (okusuri) para falar de remédio."
+  },
+  "tf27-07": {
+   "word": "警報",
+   "translit": "keihō",
+   "example": "大雨の警報が出ています。",
+   "examplePt": "Há alerta de chuva forte.",
+   "pron": "kei-HÔ — 'ei' como 'ê-i'; 'hō' longo",
+   "curiosity": "No Japão, os celulares tocam alertas para terremotos, tufões e tsunamis."
+  },
+  "tf27-08": {
+   "word": "救急外来",
+   "translit": "kyūkyū gairai",
+   "example": "夜中に救急外来へ行きました。",
+   "examplePt": "Fui ao pronto-socorro de madrugada.",
+   "pron": "kyû-kyû gai-RAI — 'ai' como em 'pai'",
+   "curiosity": "外来 (gairai) é 'vindo de fora': o paciente que não fica internado."
+  },
+  "tf27-09": {
+   "word": "洪水",
+   "translit": "kōzui",
+   "example": "大雨で洪水が起きました。",
+   "examplePt": "A chuva forte causou uma enchente.",
+   "pron": "KÔ-zui — 'kō' longo",
+   "curiosity": "O Japão distribui 'hazard maps' (ハザードマップ), mapas de risco de enchente e deslizamento."
+  },
+  "tf27-10": {
+   "word": "停電",
+   "translit": "teiden",
+   "example": "台風で停電になりました。",
+   "examplePt": "O tufão causou um apagão.",
+   "pron": "tei-DEN — 'ei' como 'ê-i'",
+   "curiosity": "Muitas casas japonesas têm um 'kit de emergência' (防災グッズ) com lanterna e água."
+  },
+  "tf28-01": {
+   "word": "いくらですか？",
+   "translit": "ikura desu ka",
+   "example": "このりんごはいくらですか？",
+   "examplePt": "Quanto custa esta maçã?",
+   "pron": "i-KU-ra DES ka — o 'u' de 'desu' quase some",
+   "curiosity": "いくら (ikura) também é o nome das ovas de salmão no sushi: イクラ."
+  },
+  "tf28-02": {
+   "word": "トイレはどこですか？",
+   "translit": "toire wa doko desu ka",
+   "example": "すみません、トイレはどこですか？",
+   "examplePt": "Com licença, onde fica o banheiro?",
+   "pron": "to-I-re wa DO-ko des ka — 'wa' é a partícula 'uá'",
+   "curiosity": "'Otearai' (お手洗い) é a forma educada de dizer 'banheiro'."
+  },
+  "tf28-03": {
+   "word": "分かりません",
+   "translit": "wakarimasen",
+   "example": "すみません、分かりません。",
+   "examplePt": "Desculpe, não entendi.",
+   "pron": "wa-ka-ri-MA-sen — 'w' leve",
+   "curiosity": "O japonês marca o 'não' no fim do verbo: -masen é o negativo educado."
+  },
+  "tf28-04": {
+   "word": "もっとゆっくり話してください",
+   "translit": "motto yukkuri hanashite kudasai",
+   "example": "ゆっくり話してくれますか？",
+   "examplePt": "Pode falar devagar?",
+   "pron": "MOT-to yuk-KU-ri ha-NA-shi-te ku-da-SAI — 'tt' e 'kk' com pausinha",
+   "curiosity": "ゆっくり é 'devagar' e também 'com calma, sem pressa'."
+  },
+  "tf28-05": {
+   "word": "もう一度お願いします",
+   "translit": "mō ichido onegai shimasu",
+   "example": "すみません、もう一度言えますか？",
+   "examplePt": "Com licença, pode dizer de novo?",
+   "pron": "mô i-chi-do o-ne-GAI shi-MAS — 'mō' longo",
+   "curiosity": "一度 (ichido) é 'uma vez'; もう一度 é 'mais uma vez'."
+  },
+  "tf28-06": {
+   "word": "助けてください",
+   "translit": "tasukete kudasai",
+   "example": "誰か、助けてください！",
+   "examplePt": "Alguém, me ajude!",
+   "pron": "ta-SU-ke-te ku-da-SAI — 'ai' como em 'pai'",
+   "curiosity": "Em emergência, basta gritar 'Tasukete!' (助けて): 'socorro!'."
+  },
+  "tf28-07": {
+   "word": "道に迷いました",
+   "translit": "michi ni mayoimashita",
+   "example": "地図を見ても道に迷いました。",
+   "examplePt": "Mesmo com o mapa, me perdi.",
+   "pron": "MI-chi ni ma-yo-i-MA-shi-ta — 'ch' como 'tch'",
+   "curiosity": "迷子 (maigo) é a criança perdida, usado nos avisos de lojas e estações."
+  },
+  "tf28-08": {
+   "word": "お会計をお願いします",
+   "translit": "okaikei wo onegai shimasu",
+   "example": "食事のあと、お会計をお願いしました。",
+   "examplePt": "Depois da refeição, pedi a conta.",
+   "pron": "o-KAI-kei o o-ne-GAI shi-MAS — 'wo' soa 'o'",
+   "curiosity": "No Japão não se dá gorjeta; paga-se no caixa, perto da saída."
+  },
+  "tf28-09": {
+   "word": "お腹がすきました",
+   "translit": "onaka ga sukimashita",
+   "example": "朝から何も食べず、お腹がすきました。",
+   "examplePt": "Não comi nada desde cedo e estou com fome.",
+   "pron": "o-NA-ka ga su-ki-MA-shi-ta — 'g' duro",
+   "curiosity": "お腹 (onaka) é a barriga; 'onaka ga pekopeko' diz estar com muita fome."
+  },
+  "tf28-10": {
+   "word": "喉が渇きました",
+   "translit": "nodo ga kawakimashita",
+   "example": "歩きすぎて、喉が渇きました。",
+   "examplePt": "Andei demais e estou com sede.",
+   "pron": "NO-do ga ka-wa-ki-MA-shi-ta — 'w' leve",
+   "curiosity": "喉 (nodo) é garganta e 渇く (kawaku) é secar: 'garganta seca' é sede."
+  },
+  "tf29-01": {
+   "word": "頑張って",
+   "translit": "ganbatte",
+   "example": "試験、頑張ってください！",
+   "examplePt": "Boa sorte na prova!",
+   "pron": "gam-BAT-te — 'nb' soa 'mb'; o 'tt' tem pausinha",
+   "curiosity": "頑張る vem de 'persistir': 'ganbatte' dá força a quem enfrenta algo difícil."
+  },
+  "tf29-02": {
+   "word": "大丈夫です",
+   "translit": "daijōbu desu",
+   "example": "大丈夫です、気にしないでください。",
+   "examplePt": "Sem problemas, não se preocupe.",
+   "pron": "dai-JÔ-bu des — 'ai' como em 'pai'",
+   "curiosity": "大丈夫 também responde 'não precisa, estou bem' ao recusar algo com gentileza."
+  },
+  "tf29-03": {
+   "word": "お誕生日おめでとう",
+   "translit": "otanjōbi omedetō",
+   "example": "お誕生日おめでとう、楽しんでね！",
+   "examplePt": "Feliz aniversário, divirta-se!",
+   "pron": "o-tan-JÔ-bi o-me-de-TÔ — 'jō' e 'tō' longos",
+   "curiosity": "No Japão canta-se o 'Happy Birthday' em inglês, na mesma melodia."
+  },
+  "tf29-04": {
+   "word": "残念です",
+   "translit": "zannen desu",
+   "example": "雨で中止になって残念です。",
+   "examplePt": "Que pena que foi cancelado pela chuva.",
+   "pron": "zan-NEN des — 'nn' é um 'n' longo",
+   "curiosity": "残念 junta 残 (restar) e 念 (pensamento): 'o pensamento que fica', o arrependimento."
+  },
+  "tf29-05": {
+   "word": "すごい",
+   "translit": "sugoi",
+   "example": "すごい！君は絵が上手ですね。",
+   "examplePt": "Que legal! Você desenha bem.",
+   "pron": "su-GOI — 'oi' como em 'boi'",
+   "curiosity": "すごい elogia e também intensifica: すごく (sugoku) quer dizer 'muito'."
+  },
+  "tf29-06": {
+   "word": "ごゆっくり",
+   "translit": "goyukkuri",
+   "example": "どうぞ、ごゆっくりお過ごしください。",
+   "examplePt": "Fique à vontade, sem pressa.",
+   "pron": "go-yuk-KU-ri — o 'kk' tem pausinha",
+   "curiosity": "Em lojas e casas, o anfitrião diz ごゆっくり para você não se sentir apressado."
+  },
+  "tf29-07": {
+   "word": "お大事に",
+   "translit": "odaiji ni",
+   "example": "風邪ですか？お大事に。",
+   "examplePt": "Está resfriado? Melhoras!",
+   "pron": "o-DAI-ji ni — 'j' soa 'dj'",
+   "curiosity": "Os japoneses em geral não dizem nada depois de um espirro; お大事に é para quem está doente."
+  },
+  "tf29-08": {
+   "word": "いただきます",
+   "translit": "itadakimasu",
+   "example": "手を合わせて、いただきます。",
+   "examplePt": "Juntando as mãos, bom apetite.",
+   "pron": "i-ta-da-ki-MA-su — 'u' final quase mudo",
+   "curiosity": "Dito antes de comer, agradece o alimento e quem o preparou."
+  },
+  "tf29-09": {
+   "word": "良い旅を",
+   "translit": "yoi tabi wo",
+   "example": "良い旅を！お土産を楽しみにしています。",
+   "examplePt": "Boa viagem! Espero as lembrancinhas.",
+   "pron": "yo-i TA-bi o — 'wo' soa 'o'",
+   "curiosity": "旅 (tabi) é uma viagem longa e cheia de descobertas; 旅行 (ryokō) é a viagem de passeio."
+  },
+  "tf29-10": {
+   "word": "気をつけてね",
+   "translit": "ki wo tsukete ne",
+   "example": "雨だから、気をつけてね。",
+   "examplePt": "Está chovendo, cuide-se.",
+   "pron": "ki o tsu-KE-te ne — 'ts' como em 'pizza'",
+   "curiosity": "気 (ki), 'energia', aparece em 元気 (genki), 天気 (tenki) e 病気 (byōki)."
+  },
+  "tf30-01": {
+   "word": "実は",
+   "translit": "jitsu wa",
+   "example": "実は、まだ宿題が終わっていません。",
+   "examplePt": "Na verdade, ainda não terminei a lição.",
+   "pron": "JI-tsu wa — 'wa' é a partícula 'uá'",
+   "curiosity": "実は introduz algo inesperado, como se o falante abrisse um segredo."
+  },
+  "tf30-02": {
+   "word": "例えば",
+   "translit": "tatoeba",
+   "example": "例えば、りんごやバナナです。",
+   "examplePt": "Por exemplo, maçã e banana.",
+   "pron": "ta-TO-e-ba — 'oe' separado",
+   "curiosity": "例えば vem do verbo 例える (tatoeru), 'comparar', 'dar um exemplo'."
+  },
+  "tf30-03": {
+   "word": "少なくとも",
+   "translit": "sukunakutomo",
+   "example": "少なくとも三日は休みたいです。",
+   "examplePt": "Quero descansar pelo menos três dias.",
+   "pron": "su-ku-NA-ku-to-mo — 'u' curtos",
+   "curiosity": "少ない (sukunai) é 'pouco'; 少なくとも é 'mesmo sendo pouco'."
+  },
+  "tf30-04": {
+   "word": "どちらでもいい",
+   "translit": "dochira demo ii",
+   "example": "食事はどちらでもいいですよ。",
+   "examplePt": "Para a refeição, tanto faz.",
+   "pron": "do-CHI-ra de-mo I-i — 'ch' como 'tch'",
+   "curiosity": "Informal, diz-se どっちでもいい (dotchi demo ii): o mesmo 'qualquer um'."
+  },
+  "tf30-05": {
+   "word": "絶対にだめ",
+   "translit": "zettai ni dame",
+   "example": "ここで走るのは絶対にだめです。",
+   "examplePt": "De jeito nenhum se corre aqui.",
+   "pron": "zet-TAI ni DA-me — o 'tt' tem pausinha",
+   "curiosity": "絶対 (zettai) é 'absoluto' e だめ (dame) é 'proibido, não funciona'."
+  },
+  "tf30-06": {
+   "word": "価値がある",
+   "translit": "kachi ga aru",
+   "example": "この本は読む価値があります。",
+   "examplePt": "Este livro vale a pena ler.",
+   "pron": "KA-chi ga A-ru — 'ch' como 'tch'",
+   "curiosity": "価値 junta 価 (preço) e 値 (valor): duas palavras de 'quanto vale'."
+  },
+  "tf30-07": {
+   "word": "間違いなく",
+   "translit": "machigai naku",
+   "example": "間違いなく彼が一番ですか？",
+   "examplePt": "Sem dúvida ele é o melhor?",
+   "pron": "ma-chi-GAI na-ku — 'ch' como 'tch'",
+   "curiosity": "間違い (machigai) é 'erro'; 'sem erro' (なく) vira 'com certeza'."
+  },
+  "tf30-08": {
+   "word": "かもしれない",
+   "translit": "kamoshirenai",
+   "example": "明日は雨かもしれません。",
+   "examplePt": "Pode ser que chova amanhã.",
+   "pron": "ka-mo-shi-re-NAI — 'ai' como em 'pai'",
+   "curiosity": "かもしれない é uma expressão fixa que vem depois do verbo e vale por 'talvez'."
+  },
+  "tf30-09": {
+   "word": "少しずつ",
+   "translit": "sukoshizutsu",
+   "example": "少しずつ日本語が上達しています。",
+   "examplePt": "Aos poucos meu japonês melhora.",
+   "pron": "su-ko-shi-ZU-tsu — 'tsu' como em 'pizza'",
+   "curiosity": "ずつ (zutsu) quer dizer 'cada vez': 一つずつ é 'um de cada vez'."
+  },
+  "tf30-10": {
+   "word": "突然",
+   "translit": "totsuzen",
+   "example": "突然、雨が降り出しました。",
+   "examplePt": "De repente começou a chover.",
+   "pron": "to-TSU-zen — 'ts' como em 'pizza'",
+   "curiosity": "突然 junta 突 (golpear) e 然 (assim): 'de súbito, de golpe'."
+  },
+  "tf31-01": {
+   "word": "砂丘",
+   "translit": "sakyū",
+   "example": "砂丘でラクダに乗りたいです。",
+   "examplePt": "Quero andar de camelo nas dunas.",
+   "pron": "sa-KYŪ — 'kyū' é 'quiu' com u longo",
+   "curiosity": "砂 (areia) + 丘 (colina): literalmente 'colina de areia'."
+  },
+  "tf31-02": {
+   "word": "谷",
+   "translit": "tani",
+   "example": "谷の底に小さな川が流れていますか？",
+   "examplePt": "Corre um riozinho no fundo do vale?",
+   "pron": "TA-ni — 'a' aberto, 'ni' curtinho",
+   "curiosity": "Em Shibuya (渋谷) e Setagaya (世田谷), 谷 lê-se 'ya' e significa 'vale'."
+  },
+  "tf31-03": {
+   "word": "高原",
+   "translit": "kōgen",
+   "example": "夏は高原がとても涼しいです。",
+   "examplePt": "No verão o planalto é bem fresquinho.",
+   "pron": "KŌ-guen — 'ō' longo; 'gen' com g de 'gato'",
+   "curiosity": "高い (alto) + 原 (planície): um 'campo alto', ótimo para fugir do calor."
+  },
+  "tf31-04": {
+   "word": "崖",
+   "translit": "gake",
+   "example": "崖の上から海が見えます。",
+   "examplePt": "Do alto do penhasco se vê o mar.",
+   "pron": "GA-kê — o 'e' final é 'ê' fechado",
+   "curiosity": "崖っぷち (gakeppuchi), 'beira do penhasco', também diz estar à beira do abismo."
+  },
+  "tf31-05": {
+   "word": "氷河",
+   "translit": "hyōga",
+   "example": "氷河はゆっくり動いていますか？",
+   "examplePt": "A geleira se move devagar?",
+   "pron": "hyô-GA — 'hyō' soa 'rrio' bem curto, com ō longo",
+   "curiosity": "氷 (gelo) + 河 (rio): geleira é um 'rio de gelo'."
+  },
+  "tf31-06": {
+   "word": "半島",
+   "translit": "hantō",
+   "example": "半島は三方を海に囲まれています。",
+   "examplePt": "A península é cercada pelo mar em três lados.",
+   "pron": "han-TÔ — 'n' nasal e 'tō' longo",
+   "curiosity": "半 (metade) + 島 (ilha): uma 'meia ilha'."
+  },
+  "tf31-07": {
+   "word": "洞窟",
+   "translit": "dōkutsu",
+   "example": "暗い洞窟の中は、ひんやりしますか？",
+   "examplePt": "Dentro da caverna escura é fresquinho?",
+   "pron": "DÔ-ku-tsu — 'tsu' como o 'ts' de 'pizza'",
+   "curiosity": "洞窟 também se escreve 洞穴, mais comum na fala: hora-ana."
+  },
+  "tf31-08": {
+   "word": "峡谷",
+   "translit": "kyōkoku",
+   "example": "峡谷の景色に息をのみました。",
+   "examplePt": "A paisagem do cânion me deixou sem fôlego.",
+   "pron": "kyô-KO-ku — 'kyō' soa 'quiô' longo",
+   "curiosity": "峡 (desfiladeiro) + 谷 (vale): o cânion é um vale estreito e fundo."
+  },
+  "tf31-09": {
+   "word": "丘",
+   "translit": "oka",
+   "example": "丘の上に小さな家があります。",
+   "examplePt": "Há uma casinha no alto da colina.",
+   "pron": "Ó-ka — 'o' aberto e 'ka' leve",
+   "curiosity": "Muitos bairros japoneses têm o sufixo 〜が丘 (ga-oka), 'colina de ...'."
+  },
+  "tf31-10": {
+   "word": "群島",
+   "translit": "guntō",
+   "example": "群島には小さな島がたくさんあります。",
+   "examplePt": "O arquipélago tem muitas ilhotas.",
+   "pron": "gun-TÔ — 'n' nasal e 'tō' longo",
+   "curiosity": "群 significa 'bando': 群島 são ilhas reunidas como um bando."
+  },
+  "tf32-01": {
+   "word": "滝",
+   "translit": "taki",
+   "example": "滝の音が森に響いています。",
+   "examplePt": "O som da cachoeira ecoa pela floresta.",
+   "pron": "TA-ki — 'ki' como 'qui' curtinho",
+   "curiosity": "O kanji 滝 tem o radical de água (氵) e 竜 (dragão): água que desce como dragão."
+  },
+  "tf32-02": {
+   "word": "湖",
+   "translit": "mizuumi",
+   "example": "朝の湖でボートに乗りました。",
+   "examplePt": "De manhã andei de barco no lago.",
+   "pron": "mi-zu-Ú-mi — o 'uu' é um u longo",
+   "curiosity": "Em compostos 湖 lê-se 'ko': 湖畔 (kohan) é a 'margem do lago'."
+  },
+  "tf32-03": {
+   "word": "潮",
+   "translit": "shio",
+   "example": "潮が引くと、貝が見えますよ。",
+   "examplePt": "Quando a maré baixa, aparecem as conchas.",
+   "pron": "SHI-o — 'shi' soa 'xi'",
+   "curiosity": "潮干狩り (shiohigari) é catar mariscos na maré baixa, um passeio de família."
+  },
+  "tf32-04": {
+   "word": "波",
+   "translit": "nami",
+   "example": "大きな波が来ましたか？",
+   "examplePt": "Veio uma onda grande?",
+   "pron": "NA-mi — 'a' aberto e 'mi' curtinho",
+   "curiosity": "津波 (tsunami) junta 津 (porto) e 波 (onda): 'onda do porto'."
+  },
+  "tf32-05": {
+   "word": "泉",
+   "translit": "izumi",
+   "example": "泉の水はとても冷たいです。",
+   "examplePt": "A água da fonte é muito fria.",
+   "pron": "i-ZU-mi — 'zu' com z sonoro",
+   "curiosity": "温泉 (onsen) é 'fonte quente': 温 (quente) + 泉 (fonte)."
+  },
+  "tf32-06": {
+   "word": "三角州",
+   "translit": "sankakusu",
+   "example": "川の三角州に町が広がっています。",
+   "examplePt": "A cidade se espalha pelo delta do rio.",
+   "pron": "san-KA-ku-su — 'n' nasal; o 'u' final quase mudo",
+   "curiosity": "三角州 é 'ilhota triangular': 三角 (triângulo) + 州 (banco de areia)."
+  },
+  "tf32-07": {
+   "word": "間欠泉",
+   "translit": "kankessen",
+   "example": "間欠泉はお湯を空高く噴き上げます。",
+   "examplePt": "O gêiser lança água quente bem alto.",
+   "pron": "kan-KES-sen — o 'ss' é 's' dobrado, mais longo",
+   "curiosity": "間欠 quer dizer 'intermitente': é a 'fonte que vem e vai'."
+  },
+  "tf32-08": {
+   "word": "氷山",
+   "translit": "hyōzan",
+   "example": "氷山の下には大きな氷があります。",
+   "examplePt": "Sob o iceberg há muito gelo.",
+   "pron": "hyô-ZAN — 'hyō' longo, 'zan' com z sonoro",
+   "curiosity": "氷山の一角 (hyōzan no ikkaku), 'a ponta do iceberg', é expressão igual à do português."
+  },
+  "tf32-09": {
+   "word": "海洋",
+   "translit": "kaiyō",
+   "example": "海洋には、まだ知らない生き物がいます。",
+   "examplePt": "No oceano há seres ainda desconhecidos.",
+   "pron": "kai-YÔ — 'ai' como em 'pai', 'yō' longo",
+   "curiosity": "洋 significa 'oceano': 太平洋 (Pacífico) e 大西洋 (Atlântico) usam esse kanji."
+  },
+  "tf32-10": {
+   "word": "沼",
+   "translit": "numa",
+   "example": "沼でカエルが鳴いています。",
+   "examplePt": "Os sapos coaxam no pântano.",
+   "pron": "NU-ma — 'u' curtinho e sem arredondar",
+   "curiosity": "底なし沼 (sokonashi numa), 'pântano sem fundo', também descreve uma situação sem saída."
+  },
+  "tf33-01": {
+   "word": "小惑星",
+   "translit": "shōwakusei",
+   "example": "小惑星が地球の近くを通りました。",
+   "examplePt": "Um asteroide passou perto da Terra.",
+   "pron": "shô-wa-KU-sei — 'ei' soa 'ê-i' leve",
+   "curiosity": "小 (pequeno) + 惑星 (planeta): um 'pequeno planeta'."
+  },
+  "tf33-02": {
+   "word": "軌道",
+   "translit": "kidō",
+   "example": "人工衛星は地球の軌道を回りますか？",
+   "examplePt": "O satélite gira na órbita da Terra?",
+   "pron": "ki-DÔ — 'dō' com ô longo",
+   "curiosity": "軌 (trilho) + 道 (caminho): órbita é o 'trilho' que o astro segue."
+  },
+  "tf33-03": {
+   "word": "星座",
+   "translit": "seiza",
+   "example": "夜空に星座が見えますか？",
+   "examplePt": "Dá para ver as constelações no céu?",
+   "pron": "SEI-za — 'ei' soa 'êi' e 'za' com z sonoro",
+   "curiosity": "座 quer dizer 'assento': o signo de Escorpião é さそり座 (sasori-za)."
+  },
+  "tf33-04": {
+   "word": "流星",
+   "translit": "ryūsei",
+   "example": "流星に願いごとをしました。",
+   "examplePt": "Fiz um pedido para o meteoro.",
+   "pron": "ryū-SEI — 'ryū' é 'riu' rápido",
+   "curiosity": "流星 é a forma formal; no dia a dia se diz 流れ星 (nagareboshi), 'estrela que corre'."
+  },
+  "tf33-05": {
+   "word": "星雲",
+   "translit": "seiun",
+   "example": "星雲は星が生まれる場所です。",
+   "examplePt": "A nebulosa é onde as estrelas nascem.",
+   "pron": "sei-UN — duas vogais separadas: 'sê-un'",
+   "curiosity": "星 (estrela) + 雲 (nuvem): a nebulosa é uma 'nuvem de estrelas'."
+  },
+  "tf33-06": {
+   "word": "ブラックホール",
+   "translit": "burakku hōru",
+   "example": "ブラックホールは光も吸い込みますか？",
+   "examplePt": "O buraco negro engole até a luz?",
+   "pron": "bu-RAK-ku HÔ-ru — o 'kk' é um 'k' dobrado",
+   "curiosity": "É empréstimo do inglês, escrito em katakana, o silabário das palavras estrangeiras."
+  },
+  "tf33-07": {
+   "word": "クレーター",
+   "translit": "kurētā",
+   "example": "月にはクレーターがたくさんあります。",
+   "examplePt": "Há muitas crateras na Lua.",
+   "pron": "ku-RÊ-tā — o traço ー alonga a vogal",
+   "curiosity": "O traço longo ー do katakana alonga a vogal: ku-rē-tā tem 4 batidas."
+  },
+  "tf33-08": {
+   "word": "重力",
+   "translit": "jūryoku",
+   "example": "重力のおかげで、物は落ちます。",
+   "examplePt": "Graças à gravidade, as coisas caem.",
+   "pron": "jū-RYO-ku — 'j' como em 'já' e 'ū' longo",
+   "curiosity": "重 (pesado) + 力 (força): 無重力 (mu-jūryoku) é 'sem gravidade'."
+  },
+  "tf33-09": {
+   "word": "天文台",
+   "translit": "tenmondai",
+   "example": "天文台で大きな望遠鏡を見ました。",
+   "examplePt": "Vi um telescópio enorme no observatório.",
+   "pron": "ten-MON-dai — 'n' nasal e 'dai' soa 'dai'",
+   "curiosity": "天文 é astronomia (as 'marcas do céu') e 台 é 'plataforma': 'plataforma do céu'."
+  },
+  "tf33-10": {
+   "word": "超新星",
+   "translit": "chōshinsei",
+   "example": "超新星は、星の大爆発です。",
+   "examplePt": "A supernova é a grande explosão de uma estrela.",
+   "pron": "chô-shin-SEI — 'ch' como 'tch' e 'ō' longo",
+   "curiosity": "超 (super) + 新星 (estrela nova): a tradução é quase palavra por palavra."
+  },
+  "tf34-01": {
+   "word": "ハリケーン",
+   "translit": "harikēn",
+   "example": "ハリケーンは海の上で生まれます。",
+   "examplePt": "O furacão nasce sobre o mar.",
+   "pron": "ha-ri-KÊN — 'kē' longo e 'n' final nasal",
+   "curiosity": "No Japão, a tempestade tropical se chama 台風 (taifū), de onde vem 'tufão'."
+  },
+  "tf34-02": {
+   "word": "竜巻",
+   "translit": "tatsumaki",
+   "example": "竜巻で屋根が飛ばされましたか？",
+   "examplePt": "O tornado arrancou o telhado?",
+   "pron": "ta-TSU-ma-ki — 'tsu' como 'ts' de 'pizza'",
+   "curiosity": "竜 (dragão) + 巻 (enrolar): o tornado é um 'dragão enrolado'."
+  },
+  "tf34-03": {
+   "word": "霜",
+   "translit": "shimo",
+   "example": "朝、草に霜がおりました。",
+   "examplePt": "De manhã, a geada cobriu a grama.",
+   "pron": "SHI-mo — 'shi' soa 'xi'",
+   "curiosity": "霜柱 (shimobashira) são 'colunas de geada' que estalam sob os pés."
+  },
+  "tf34-04": {
+   "word": "雹",
+   "translit": "hyō",
+   "example": "雹が降って、窓にあたりました。",
+   "examplePt": "O granizo caiu e bateu na janela.",
+   "pron": "HYÔ — 'hy' soa 'rri' com ô longo",
+   "curiosity": "あられ (arare) é o granizo menor, e também o nome de um biscoito de arroz."
+  },
+  "tf34-05": {
+   "word": "稲妻",
+   "translit": "inazuma",
+   "example": "稲妻が夜空を走りました。",
+   "examplePt": "Um relâmpago cortou o céu noturno.",
+   "pron": "i-na-ZU-ma — 'zu' com z sonoro",
+   "curiosity": "稲妻 é 'esposa do arroz': antigamente se achava que raios ajudavam o arroz a crescer."
+  },
+  "tf34-06": {
+   "word": "嵐",
+   "translit": "arashi",
+   "example": "今夜は大きな嵐が来ます。",
+   "examplePt": "Hoje à noite vem uma grande tempestade.",
+   "pron": "a-RA-shi — 'r' é um 'l' bem leve",
+   "curiosity": "O kanji 嵐 junta 山 (montanha) e 風 (vento): vento que vem da montanha."
+  },
+  "tf34-07": {
+   "word": "干ばつ",
+   "translit": "kanbatsu",
+   "example": "干ばつで畑の水がなくなりました。",
+   "examplePt": "Com a seca, a lavoura ficou sem água.",
+   "pron": "kan-BA-tsu — 'n' nasal e 'tsu' de 'pizza'",
+   "curiosity": "Escreve-se 干ばつ para evitar o kanji difícil original, 旱魃."
+  },
+  "tf34-08": {
+   "word": "露",
+   "translit": "tsuyu",
+   "example": "朝の草に露がついています。",
+   "examplePt": "Há orvalho na grama da manhã.",
+   "pron": "TSU-yu — 'tsu' de 'pizza'",
+   "curiosity": "梅雨 (estação das chuvas) também lê-se tsuyu, homófono de 露 (orvalho)."
+  },
+  "tf34-09": {
+   "word": "霧雨",
+   "translit": "kirisame",
+   "example": "霧雨で、町がぼんやり見えます。",
+   "examplePt": "Com a garoa, a cidade parece embaçada.",
+   "pron": "ki-ri-SA-me — 'r' leve, quase um 'l'",
+   "curiosity": "霧 (névoa) + 雨 (chuva): garoa é 'chuva de névoa'."
+  },
+  "tf34-10": {
+   "word": "サイクロン",
+   "translit": "saikuron",
+   "example": "サイクロンは大きな渦を巻きます。",
+   "examplePt": "O ciclone forma um grande redemoinho.",
+   "pron": "sai-KU-ron — 'ai' soa como em 'pai'",
+   "curiosity": "'Ciclone' vem do grego kyklos, 'círculo', e o japonês copia o inglês cyclone."
+  },
+  "tf35-01": {
+   "word": "花崗岩",
+   "translit": "kakōgan",
+   "example": "花崗岩でできた山に登りました。",
+   "examplePt": "Subi numa montanha feita de granito.",
+   "pron": "ka-KÔ-gan — 'kō' longo e 'g' como em 'gato'",
+   "curiosity": "Para granito de construção muita gente diz 御影石 (mikageishi)."
+  },
+  "tf35-02": {
+   "word": "大理石",
+   "translit": "dairiseki",
+   "example": "この大理石の床はつるつるです。",
+   "examplePt": "Este piso de mármore é lisinho.",
+   "pron": "dai-ri-SE-ki — 'ai' como em 'pai', 'r' leve",
+   "curiosity": "大理 vem de Dali, cidade chinesa famosa pelo mármore."
+  },
+  "tf35-03": {
+   "word": "ダイヤモンド",
+   "translit": "daiyamondo",
+   "example": "ダイヤモンドはとても硬い石です。",
+   "examplePt": "O diamante é uma pedra muito dura.",
+   "pron": "dai-ya-MON-do — 'n' nasal antes do 'do'",
+   "curiosity": "Na fala se encurta para ダイヤ (daiya), que também vale para as cartas de baralho."
+  },
+  "tf35-04": {
+   "word": "石炭",
+   "translit": "sekitan",
+   "example": "昔、汽車は石炭で走りました。",
+   "examplePt": "Antigamente o trem andava a carvão.",
+   "pron": "SE-ki-tan — 'e' fechado e 'n' final nasal",
+   "curiosity": "石炭 é 'carvão de pedra'; já o carvão vegetal é 木炭 (mokutan), 'carvão de madeira'."
+  },
+  "tf35-05": {
+   "word": "金",
+   "translit": "kin",
+   "example": "金の指輪を買いましたか？",
+   "examplePt": "Você comprou um anel de ouro?",
+   "pron": "KIN — 'n' final nasal",
+   "curiosity": "金 lê-se kin (ouro), kane (dinheiro) e aparece em 金曜日 (sexta-feira)."
+  },
+  "tf35-06": {
+   "word": "銅",
+   "translit": "dō",
+   "example": "十円玉は銅でできています。",
+   "examplePt": "A moeda de dez ienes é de cobre.",
+   "pron": "DÔ — 'ô' longo, como 'dô' arrastado",
+   "curiosity": "銅像 (dōzō) é uma estátua de bronze, comum nas praças do Japão."
+  },
+  "tf35-07": {
+   "word": "鉄",
+   "translit": "tetsu",
+   "example": "鉄は磁石にくっつきますか？",
+   "examplePt": "O ferro gruda no ímã?",
+   "pron": "TE-tsu — 'tsu' de 'pizza'",
+   "curiosity": "鉄道 (tetsudō), 'ferrovia', quer dizer literalmente 'caminho de ferro'."
+  },
+  "tf35-08": {
+   "word": "水晶",
+   "translit": "suishō",
+   "example": "水晶はガラスのように透明です。",
+   "examplePt": "O cristal é transparente como vidro.",
+   "pron": "sui-SHÔ — 'ui' em duas vogais e 'shō' longo",
+   "curiosity": "水 (água) + 晶 (brilho): o cristal é uma 'água que brilha'."
+  },
+  "tf35-09": {
+   "word": "粘土",
+   "translit": "nendo",
+   "example": "子どもたちが粘土で動物を作ります。",
+   "examplePt": "As crianças fazem animais com argila.",
+   "pron": "NEN-do — 'n' nasal, 'do' com d firme",
+   "curiosity": "粘土遊び (nendo asobi) é a brincadeira de modelar massinha."
+  },
+  "tf35-10": {
+   "word": "石灰岩",
+   "translit": "sekkaigan",
+   "example": "石灰岩の洞窟はとても長いです。",
+   "examplePt": "A caverna de calcário é bem longa.",
+   "pron": "sek-KAI-gan — o 'kk' é um 'k' dobrado",
+   "curiosity": "石灰 é 'cal': o calcário é a 'rocha de cal' (石灰 + 岩)."
+  },
+  "tf36-01": {
+   "word": "綿",
+   "translit": "wata",
+   "example": "綿のシャツは汗をよく吸います。",
+   "examplePt": "A camisa de algodão absorve bem o suor.",
+   "pron": "UA-ta — 'w' é um 'u' rápido",
+   "curiosity": "綿あめ (wataame) é o algodão-doce, de festas e feiras japonesas."
+  },
+  "tf36-02": {
+   "word": "絹",
+   "translit": "kinu",
+   "example": "絹は、蚕が作る糸でできています。",
+   "examplePt": "A seda é feita do fio que o bicho-da-seda produz.",
+   "pron": "KI-nu — 'u' curtinho, sem arredondar",
+   "curiosity": "Também se usa シルク (shiruku), do inglês silk, para tecidos modernos."
+  },
+  "tf36-03": {
+   "word": "羊毛",
+   "translit": "yōmō",
+   "example": "羊毛のセーターは暖かいです。",
+   "examplePt": "O suéter de lã é quentinho.",
+   "pron": "yô-MÔ — dois 'ô' longos seguidos",
+   "curiosity": "羊 (ovelha) + 毛 (pelo): lã é o 'pelo de ovelha'."
+  },
+  "tf36-04": {
+   "word": "革",
+   "translit": "kawa",
+   "example": "革の財布を十年使っています。",
+   "examplePt": "Uso a carteira de couro há dez anos.",
+   "pron": "KA-wa — 'w' curtinho, quase 'ua'",
+   "curiosity": "革 é couro curtido; 皮 (também kawa) é a pele crua ou casca."
+  },
+  "tf36-05": {
+   "word": "麻",
+   "translit": "asa",
+   "example": "夏は麻のシャツが涼しいですね。",
+   "examplePt": "No verão a camisa de linho é fresquinha.",
+   "pron": "A-sa — 'a' aberto, 's' como em 'sapo'",
+   "curiosity": "麻 é termo amplo; 亜麻 (ama) é o linho propriamente dito."
+  },
+  "tf36-06": {
+   "word": "ベルベット",
+   "translit": "berubetto",
+   "example": "ベルベットのカーテンは重いです。",
+   "examplePt": "A cortina de veludo é pesada.",
+   "pron": "be-ru-BET-to — o 'tt' é 't' dobrado",
+   "curiosity": "Há também ビロード (birōdo), que vem do português 'veludo'."
+  },
+  "tf36-07": {
+   "word": "ゴム",
+   "translit": "gomu",
+   "example": "ゴムの風船が割れましたか？",
+   "examplePt": "O balão de borracha estourou?",
+   "pron": "GO-mu — 'u' final fraquinho",
+   "curiosity": "ゴム vem do holandês gom; 輪ゴム (wagomu) é o elástico de dinheiro."
+  },
+  "tf36-08": {
+   "word": "ガラス",
+   "translit": "garasu",
+   "example": "ガラスのコップを落としました。",
+   "examplePt": "Deixei cair o copo de vidro.",
+   "pron": "ga-RA-su — 'r' leve e 'u' fraco no final",
+   "curiosity": "窓ガラス (mado-garasu) é 'vidro de janela'."
+  },
+  "tf36-09": {
+   "word": "陶器",
+   "translit": "tōki",
+   "example": "陶器は高い温度で焼いて作りますか？",
+   "examplePt": "A cerâmica é feita queimando em alta temperatura?",
+   "pron": "TÔ-ki — 'tō' longo",
+   "curiosity": "瀬戸物 (setomono), de Seto, é um nome popular para louça no Japão."
+  },
+  "tf36-10": {
+   "word": "鋼",
+   "translit": "hagane",
+   "example": "鋼は鉄より強い金属です。",
+   "examplePt": "O aço é um metal mais forte que o ferro.",
+   "pron": "ha-GA-ne — 'g' de 'gato' e 'e' fechado",
+   "curiosity": "鋼鉄 (kōtetsu) junta 鋼 (aço) e 鉄 (ferro), e é a palavra usada para 'aço'."
+  },
+  "tf37-01": {
+   "word": "サバンナ",
+   "translit": "sabanna",
+   "example": "サバンナにはライオンがいますか？",
+   "examplePt": "Na savana vivem leões?",
+   "pron": "sa-BAN-na — 'nn' é 'n' nasal mais longo",
+   "curiosity": "Em katakana, o silabário das palavras estrangeiras, o ン conta uma batida inteira."
+  },
+  "tf37-02": {
+   "word": "ツンドラ",
+   "translit": "tsundora",
+   "example": "ツンドラは一年中とても寒いです。",
+   "examplePt": "A tundra é muito fria o ano todo.",
+   "pron": "tsun-DO-ra — 'ts' como em 'pizza'",
+   "curiosity": "'Tundra' vem do finlandês, passando pelo russo."
+  },
+  "tf37-03": {
+   "word": "マングローブ",
+   "translit": "mangurōbu",
+   "example": "マングローブは海水の中に生えます。",
+   "examplePt": "O mangue cresce dentro da água salgada.",
+   "pron": "man-gu-RÔ-bu — 'ō' longo no meio",
+   "curiosity": "Em Iriomote, em Okinawa, dá para passear de canoa pelo mangue."
+  },
+  "tf37-04": {
+   "word": "草原",
+   "translit": "sōgen",
+   "example": "草原を馬が走っています。",
+   "examplePt": "Um cavalo corre pela pradaria.",
+   "pron": "SÔ-guen — 'sō' longo e 'g' duro",
+   "curiosity": "草 (capim) + 原 (planície): 原っぱ (harappa) é o terreno aberto onde crianças brincam."
+  },
+  "tf37-05": {
+   "word": "オアシス",
+   "translit": "oashisu",
+   "example": "砂漠のオアシスで水を飲みました。",
+   "examplePt": "Bebi água no oásis do deserto.",
+   "pron": "o-A-shi-su — 'o' e 'a' separados",
+   "curiosity": "都会のオアシス é 'oásis da cidade': um parque ou café que descansa a mente."
+  },
+  "tf37-06": {
+   "word": "熱帯雨林",
+   "translit": "nettai urin",
+   "example": "熱帯雨林には虫がたくさんいます。",
+   "examplePt": "Na floresta tropical há muitos insetos.",
+   "pron": "net-TAI u-RIN — 'tt' é 't' dobrado",
+   "curiosity": "熱帯 (trópicos) + 雨 (chuva) + 林 (bosque): 'bosque de chuva dos trópicos'."
+  },
+  "tf37-07": {
+   "word": "サンゴ礁",
+   "translit": "sangoshō",
+   "example": "サンゴ礁で熱帯魚が泳いでいます。",
+   "examplePt": "Peixes tropicais nadam no recife de coral.",
+   "pron": "san-GO-shô — 'n' nasal e 'shō' longo",
+   "curiosity": "礁 significa 'recife'; サンゴ também se escreve 珊瑚, mas quase só em kana."
+  },
+  "tf37-08": {
+   "word": "池",
+   "translit": "ike",
+   "example": "池でアヒルが泳いでいます。",
+   "examplePt": "Os patos nadam na lagoa.",
+   "pron": "I-kê — 'e' final fechado",
+   "curiosity": "池 aparece em sobrenomes como 池田 (Ikeda): 'campo da lagoa'."
+  },
+  "tf37-09": {
+   "word": "巣",
+   "translit": "su",
+   "example": "木の上に鳥の巣があります。",
+   "examplePt": "Há um ninho de pássaro na árvore.",
+   "pron": "SU — 'u' curto, sem arredondar",
+   "curiosity": "巣立ち (sudachi) é o filhote deixar o ninho, e também se diz de formaturas."
+  },
+  "tf37-10": {
+   "word": "巣穴",
+   "translit": "suana",
+   "example": "ウサギは巣穴にかくれました。",
+   "examplePt": "O coelho se escondeu na toca.",
+   "pron": "su-A-na — 'u' e 'a' separados",
+   "curiosity": "巣 (ninho) + 穴 (buraco): a toca é um 'ninho-buraco' no chão."
+  },
+  "tf38-01": {
+   "word": "顕微鏡",
+   "translit": "kenbikyō",
+   "example": "顕微鏡で小さな虫を見ましたか？",
+   "examplePt": "Você viu um bichinho no microscópio?",
+   "pron": "ken-bi-KYÔ — 'n' antes de 'b' soa 'm'",
+   "curiosity": "顕 (mostrar) + 微 (minúsculo) + 鏡 (espelho): 'espelho que mostra o minúsculo'."
+  },
+  "tf38-02": {
+   "word": "試験管",
+   "translit": "shikenkan",
+   "example": "試験管に青い液体が入っています。",
+   "examplePt": "O tubo de ensaio tem um líquido azul.",
+   "pron": "shi-KEN-kan — 'shi' soa 'xi'",
+   "curiosity": "試験 é também 'prova' escolar: 試験管 é literalmente 'tubo de prova'."
+  },
+  "tf38-03": {
+   "word": "漏斗",
+   "translit": "jōgo",
+   "example": "漏斗で水をびんに入れました。",
+   "examplePt": "Passei a água para a garrafa com o funil.",
+   "pron": "JÔ-go — 'j' como em 'já'",
+   "curiosity": "漏 (vazar) + 斗 (antiga medida de volume): um 'medidor' por onde o líquido escorre."
+  },
+  "tf38-04": {
+   "word": "原子",
+   "translit": "genshi",
+   "example": "原子はとても小さいですね。",
+   "examplePt": "O átomo é muito pequeno, não é?",
+   "pron": "GEN-shi — 'g' duro, 'n' nasal",
+   "curiosity": "原 (origem) + 子 (partícula): 原子力 é 'energia atômica'."
+  },
+  "tf38-05": {
+   "word": "細胞",
+   "translit": "saibō",
+   "example": "体は細胞でできています。",
+   "examplePt": "O corpo é feito de células.",
+   "pron": "sai-BÔ — 'ai' como em 'pai', 'bō' longo",
+   "curiosity": "細 (miúdo) + 胞 (bolsa): a célula é uma 'bolsinha miúda'."
+  },
+  "tf38-06": {
+   "word": "方位磁石",
+   "translit": "hōi jishaku",
+   "example": "方位磁石の針は北を指します。",
+   "examplePt": "A agulha da bússola aponta para o norte.",
+   "pron": "HÔ-i ji-SHA-ku — 'ō' longo; 'j' como em 'já'",
+   "curiosity": "磁石 é 'ímã'; コンパス (konpasu) é bússola e também o compasso de desenho."
+  },
+  "tf38-07": {
+   "word": "虫眼鏡",
+   "translit": "mushimegane",
+   "example": "虫眼鏡で葉っぱをよく見ました。",
+   "examplePt": "Olhei bem a folha com a lupa.",
+   "pron": "mu-shi-me-GA-ne — 'u' curtinho, 'shi' soa 'xi'",
+   "curiosity": "虫 (inseto) + 眼鏡 (óculos): a lupa é um 'óculos para insetos'."
+  },
+  "tf38-08": {
+   "word": "スポイト",
+   "translit": "supoito",
+   "example": "スポイトで水を一滴ずつ入れます。",
+   "examplePt": "Coloco a água gota a gota com a pipeta.",
+   "pron": "su-PO-i-to — 'o' e 'i' separados",
+   "curiosity": "スポイト vem do holandês spuit, 'seringa'."
+  },
+  "tf38-09": {
+   "word": "電池",
+   "translit": "denchi",
+   "example": "電池が切れて、時計が止まりました。",
+   "examplePt": "A pilha acabou e o relógio parou.",
+   "pron": "DEN-chi — 'ch' como 'tch'",
+   "curiosity": "電 (eletricidade) + 池 (lagoa): a pilha é uma 'lagoa de eletricidade'."
+  },
+  "tf38-10": {
+   "word": "プリズム",
+   "translit": "purizumu",
+   "example": "プリズムは光を七色に分けますか？",
+   "examplePt": "O prisma separa a luz em sete cores?",
+   "pron": "pu-RI-zu-mu — 'z' sonoro, 'u' final fraco",
+   "curiosity": "No Japão, o arco-íris tem sete cores (七色, nanairo)."
+  },
+  "tf39-01": {
+   "word": "発電機",
+   "translit": "hatsudenki",
+   "example": "停電のとき、発電機が動きました。",
+   "examplePt": "Na queda de luz, o gerador funcionou.",
+   "pron": "ha-TSU-den-ki — 'tsu' de 'pizza'",
+   "curiosity": "発 (emitir) + 電 (eletricidade) + 機 (máquina): 'máquina que emite eletricidade'."
+  },
+  "tf39-02": {
+   "word": "風力タービン",
+   "translit": "fūryoku tābin",
+   "example": "丘の上で風力タービンが回っています。",
+   "examplePt": "No alto da colina a turbina eólica gira.",
+   "pron": "fū-RYO-ku TĀ-bin — 'f' suave, quase 'h'",
+   "curiosity": "風力 é 'força do vento': 力 (força) é o mesmo de 重力 (gravidade)."
+  },
+  "tf39-03": {
+   "word": "発電所",
+   "translit": "hatsudensho",
+   "example": "新しい発電所が海のそばにできました。",
+   "examplePt": "Uma nova usina surgiu perto do mar.",
+   "pron": "ha-tsu-DEN-sho — 'sho' soa 'xô'",
+   "curiosity": "所 (sho) significa 'lugar': 発電所 é o 'lugar que gera eletricidade'."
+  },
+  "tf39-04": {
+   "word": "薪",
+   "translit": "maki",
+   "example": "冬は薪でストーブを使います。",
+   "examplePt": "No inverno uso lenha no fogão.",
+   "pron": "MA-ki — 'a' aberto e 'ki' curto",
+   "curiosity": "薪割り (makiwari) é rachar lenha; 薪 (lenha) soa igual a 巻 (rolo)."
+  },
+  "tf39-05": {
+   "word": "ガス",
+   "translit": "gasu",
+   "example": "ガスの火を消してください。",
+   "examplePt": "Apague o fogo do gás, por favor.",
+   "pron": "GA-su — 'u' final fraquinho",
+   "curiosity": "ガス欠 (gasuketsu) é ficar sem combustível no carro."
+  },
+  "tf39-06": {
+   "word": "電線",
+   "translit": "densen",
+   "example": "電線に小さな鳥が止まっています。",
+   "examplePt": "Um passarinho está pousado no fio elétrico.",
+   "pron": "DEN-sen — 'n' nasal nas duas sílabas",
+   "curiosity": "電 (eletricidade) + 線 (linha): fio elétrico é uma 'linha de eletricidade'."
+  },
+  "tf39-07": {
+   "word": "コンセント",
+   "translit": "konsento",
+   "example": "コンセントにプラグを差しました。",
+   "examplePt": "Enfiei o plugue na tomada.",
+   "pron": "kon-SEN-to — 'n' nasal em 'kon' e 'sen'",
+   "curiosity": "コンセント parece inglês mas é invenção japonesa: em inglês se diz 'outlet'."
+  },
+  "tf39-08": {
+   "word": "スイッチ",
+   "translit": "suicchi",
+   "example": "部屋のスイッチはどこですか？",
+   "examplePt": "Onde fica o interruptor do quarto?",
+   "pron": "su-IC-chi — o 'cch' é 'tch' dobrado",
+   "curiosity": "Liga-se com スイッチを入れる ('colocar') e desliga-se com スイッチを切る ('cortar')."
+  },
+  "tf39-09": {
+   "word": "変圧器",
+   "translit": "hen'atsuki",
+   "example": "変圧器は電気の強さを変えます。",
+   "examplePt": "O transformador muda a força da eletricidade.",
+   "pron": "hen-A-tsu-ki — o apóstrofo separa 'n' de 'a'",
+   "curiosity": "変 (mudar) + 圧 (pressão) + 器 (aparelho): 'aparelho que muda a tensão'."
+  },
+  "tf39-10": {
+   "word": "ダム",
+   "translit": "damu",
+   "example": "山の谷に大きなダムがあります。",
+   "examplePt": "Há uma grande barragem no vale da montanha.",
+   "pron": "DA-mu — 'u' fraquinho no final",
+   "curiosity": "No Japão existem ダムカード, cartões colecionáveis de barragens."
+  },
+  "tf40-01": {
+   "word": "竹",
+   "translit": "take",
+   "example": "竹は成長がとても早いですか？",
+   "examplePt": "O bambu cresce muito rápido?",
+   "pron": "TA-kê — 'e' fechado",
+   "curiosity": "Na festa Tanabata, pedidos são escritos em tiras de papel penduradas em bambu."
+  },
+  "tf40-02": {
+   "word": "シダ",
+   "translit": "shida",
+   "example": "シダは森の暗い場所に生えます。",
+   "examplePt": "A samambaia cresce em lugares escuros da mata.",
+   "pron": "SHI-da — 'shi' soa 'xi'",
+   "curiosity": "O シダ não dá sementes: ele se reproduz por esporos."
+  },
+  "tf40-03": {
+   "word": "苔",
+   "translit": "koke",
+   "example": "苔は石の上に緑のじゅうたんを作ります。",
+   "examplePt": "O musgo faz um tapete verde sobre a pedra.",
+   "pron": "KO-kê — 'o' aberto, 'e' fechado",
+   "curiosity": "苔玉 (kokedama) é uma bolinha de musgo com planta dentro, arte japonesa."
+  },
+  "tf40-04": {
+   "word": "蘭",
+   "translit": "ran",
+   "example": "先生に白い蘭をプレゼントしました。",
+   "examplePt": "Dei uma orquídea branca de presente ao professor.",
+   "pron": "RAN — 'r' leve, quase 'l'; 'n' nasal",
+   "curiosity": "胡蝶蘭 (kochōran), 'orquídea-borboleta', é presente comum em inaugurações."
+  },
+  "tf40-05": {
+   "word": "ひまわり",
+   "translit": "himawari",
+   "example": "ひまわりは太陽のほうを向きますか？",
+   "examplePt": "O girassol vira para o sol?",
+   "pron": "hi-ma-WA-ri — 'h' suave",
+   "curiosity": "向日葵, o kanji do girassol, quer dizer 'flor que vira para o sol'."
+  },
+  "tf40-06": {
+   "word": "ヤシ",
+   "translit": "yashi",
+   "example": "浜辺にヤシの木が並んでいます。",
+   "examplePt": "Há palmeiras enfileiradas na praia.",
+   "pron": "YA-shi — 'sh' soa 'x'",
+   "curiosity": "ヤシの実 (yashi no mi) é o coco, o 'fruto da palmeira', título de uma canção famosa."
+  },
+  "tf40-07": {
+   "word": "花びら",
+   "translit": "hanabira",
+   "example": "桜の花びらが風に舞っています。",
+   "examplePt": "As pétalas da cerejeira dançam ao vento.",
+   "pron": "ha-na-BI-ra — 'r' leve",
+   "curiosity": "桜吹雪 (sakurafubuki) é a 'nevasca' de pétalas de cerejeira."
+  },
+  "tf40-08": {
+   "word": "とげ",
+   "translit": "toge",
+   "example": "バラのとげに気をつけてください。",
+   "examplePt": "Cuidado com os espinhos da rosa.",
+   "pron": "TO-gê — 'g' duro e 'e' fechado",
+   "curiosity": "言葉にとげがある quer dizer que as palavras 'têm espinho', ou seja, são ásperas."
+  },
+  "tf40-09": {
+   "word": "松ぼっくり",
+   "translit": "matsubokkuri",
+   "example": "松ぼっくりを拾って、家に飾りました。",
+   "examplePt": "Peguei pinhas e enfeitei a casa.",
+   "pron": "ma-tsu-bok-KU-ri — 'tsu' de 'pizza'; 'kk' dobrado",
+   "curiosity": "松 (pinheiro) simboliza longevidade e enfeita as portas no Ano-Novo (門松, kadomatsu)."
+  },
+  "tf40-10": {
+   "word": "クローバー",
+   "translit": "kurōbā",
+   "example": "四つ葉のクローバーを見つけました。",
+   "examplePt": "Achei um trevo de quatro folhas.",
+   "pron": "ku-RÔ-bā — 'rō' e 'bā' longos",
+   "curiosity": "四つ葉 (yotsuba), 'quatro folhas', também traz sorte no Japão."
+  },
+  "tf41-01": {
+   "word": "脾臓",
+   "translit": "hizō",
+   "example": "脾臓は血液を守る臓器です。",
+   "examplePt": "O baço é um órgão que protege o sangue.",
+   "pron": "hi-ZÔ — 'ō' longo no final",
+   "curiosity": "Muitos órgãos têm o radical 月 (carne) no kanji: 脾, 肝, 腎, 腸."
+  },
+  "tf41-02": {
+   "word": "肝臓",
+   "translit": "kanzō",
+   "example": "肝臓はとても働き者ですね。",
+   "examplePt": "O fígado é muito trabalhador, não é?",
+   "pron": "kan-ZÔ — 'n' nasal e 'zō' longo",
+   "curiosity": "肝心 (kanjin), 'o essencial', junta 肝 (fígado) e 心 (coração)."
+  },
+  "tf41-03": {
+   "word": "腎臓",
+   "translit": "jinzō",
+   "example": "腎臓は血をきれいにします。",
+   "examplePt": "O rim limpa o sangue.",
+   "pron": "jin-ZÔ — 'j' como em 'já'",
+   "curiosity": "Os órgãos maciços costumam terminar em 臓 (zō): 肝臓, 腎臓, 心臓."
+  },
+  "tf41-04": {
+   "word": "胃",
+   "translit": "i",
+   "example": "食べすぎて胃が痛いですか？",
+   "examplePt": "Você comeu demais e o estômago dói?",
+   "pron": "Í — uma vogal só, curta",
+   "curiosity": "胃袋 (ibukuro), 'saco do estômago', é como se diz a barriga cheia ou o apetite."
+  },
+  "tf41-05": {
+   "word": "膵臓",
+   "translit": "suizō",
+   "example": "膵臓は消化を助けるホルモンを作ります。",
+   "examplePt": "O pâncreas produz hormônios que ajudam a digestão.",
+   "pron": "sui-ZÔ — 'u' e 'i' juntos, sem pausa",
+   "curiosity": "膵 é um kokuji, kanji inventado no Japão, e não existe no chinês antigo."
+  },
+  "tf41-06": {
+   "word": "腸",
+   "translit": "chō",
+   "example": "腸は長い管のようです。",
+   "examplePt": "O intestino parece um tubo comprido.",
+   "pron": "CHÔ — 'ch' como 'tch', 'ō' longo",
+   "curiosity": "小腸 (shōchō) é o intestino delgado e 大腸 (daichō) é o grosso."
+  },
+  "tf41-07": {
+   "word": "背骨",
+   "translit": "sebone",
+   "example": "背骨をまっすぐにして座りましょう。",
+   "examplePt": "Vamos sentar com a coluna reta.",
+   "pron": "se-BO-ne — 'e' fechados",
+   "curiosity": "背 (costas) também significa altura: 背が高い é 'ser alto'."
+  },
+  "tf41-08": {
+   "word": "あばら骨",
+   "translit": "abarabone",
+   "example": "あばら骨が心臓と肺を守ります。",
+   "examplePt": "As costelas protegem o coração e os pulmões.",
+   "pron": "a-ba-ra-BO-ne — 'r' leve",
+   "curiosity": "あばら骨 é a palavra do dia a dia; 肋骨 (rokkotsu) é a mais técnica."
+  },
+  "tf41-09": {
+   "word": "気管",
+   "translit": "kikan",
+   "example": "気管は空気の通り道です。",
+   "examplePt": "A traqueia é o caminho do ar.",
+   "pron": "ki-KAN — 'n' final nasal",
+   "curiosity": "気 (ar) + 管 (tubo): a traqueia é um 'tubo de ar'."
+  },
+  "tf41-10": {
+   "word": "膀胱",
+   "translit": "bōkō",
+   "example": "膀胱は尿をためる袋です。",
+   "examplePt": "A bexiga é a bolsa que guarda a urina.",
+   "pron": "BÔ-kô — 'ō' longos nas duas sílabas",
+   "curiosity": "Os kanji de 膀胱 são tão difíceis que muita gente escreve só ぼうこう."
+  },
+  "tf42-01": {
+   "word": "静脈",
+   "translit": "jōmyaku",
+   "example": "静脈は血を心臓へ戻します。",
+   "examplePt": "A veia leva o sangue de volta ao coração.",
+   "pron": "JÔ-mya-ku — 'j' como em 'já'",
+   "curiosity": "静脈 é 'vaso quieto' e 動脈 (dōmyaku), a artéria, é 'vaso em movimento'."
+  },
+  "tf42-02": {
+   "word": "神経",
+   "translit": "shinkei",
+   "example": "神経は脳に情報を送ります。",
+   "examplePt": "O nervo envia informações ao cérebro.",
+   "pron": "shin-KEI — 'shi' soa 'xi', 'ei' soa 'êi'",
+   "curiosity": "神経質 (shinkeishitsu) descreve quem é sensível e se preocupa com tudo."
+  },
+  "tf42-03": {
+   "word": "腱",
+   "translit": "ken",
+   "example": "腱が切れると、歩くのが大変です。",
+   "examplePt": "Com o tendão rompido, andar fica difícil.",
+   "pron": "KEN — 'n' final nasal",
+   "curiosity": "腱鞘炎 (kenshōen) é a tendinite, queixa comum de quem digita muito."
+  },
+  "tf42-04": {
+   "word": "網膜",
+   "translit": "mōmaku",
+   "example": "網膜は目の奥にあります。",
+   "examplePt": "A retina fica no fundo do olho.",
+   "pron": "MÔ-ma-ku — 'mō' longo",
+   "curiosity": "網 (rede) + 膜 (membrana): a retina é uma 'membrana em rede'."
+  },
+  "tf42-05": {
+   "word": "瞳",
+   "translit": "hitomi",
+   "example": "猫の瞳は暗いと大きくなります。",
+   "examplePt": "A pupila do gato aumenta no escuro.",
+   "pron": "hi-TO-mi — 'h' suave",
+   "curiosity": "瞳 também é um nome de mulher muito popular: Hitomi."
+  },
+  "tf42-06": {
+   "word": "鼓膜",
+   "translit": "komaku",
+   "example": "大きな音で鼓膜が痛みました。",
+   "examplePt": "Meu tímpano doeu com o barulho alto.",
+   "pron": "ko-MA-ku — 'o' aberto",
+   "curiosity": "鼓 (tambor) + 膜 (membrana): o tímpano é uma 'membrana de tambor'."
+  },
+  "tf42-07": {
+   "word": "軟骨",
+   "translit": "nankotsu",
+   "example": "軟骨はやわらかくて曲がります。",
+   "examplePt": "A cartilagem é macia e dobra.",
+   "pron": "nan-KO-tsu — 'n' nasal; 'tsu' de 'pizza'",
+   "curiosity": "軟骨 de frango no espetinho (yakitori) é petisco clássico de izakaya."
+  },
+  "tf42-08": {
+   "word": "食道",
+   "translit": "shokudō",
+   "example": "食道は口と胃をつなぎます。",
+   "examplePt": "O esôfago liga a boca ao estômago.",
+   "pron": "sho-KU-dô — 'dō' longo",
+   "curiosity": "食堂 (shokudō), o refeitório, é homófono de 食道: 'caminho da comida'."
+  },
+  "tf42-09": {
+   "word": "骨髄",
+   "translit": "kotsuzui",
+   "example": "骨髄で血液が作られます。",
+   "examplePt": "O sangue é produzido na medula óssea.",
+   "pron": "ko-tsu-ZUI — 'tsu' de 'pizza'",
+   "curiosity": "髄 (tutano) também aparece em 脊髄 (sekizui), a medula espinhal."
+  },
+  "tf42-10": {
+   "word": "腺",
+   "translit": "sen",
+   "example": "汗は汗腺から出ますか？",
+   "examplePt": "O suor sai das glândulas sudoríparas?",
+   "pron": "SEN — 's' de 'sapo' e 'n' nasal",
+   "curiosity": "汗腺 (kansen) é a glândula sudorípara: 汗 (suor) + 腺 (glândula)."
+  },
+  "tf43-01": {
+   "word": "ガーゼ",
+   "translit": "gāze",
+   "example": "傷にガーゼを当てました。",
+   "examplePt": "Coloquei gaze sobre o ferimento.",
+   "pron": "GĀ-ze — 'ā' longo; 'ze' como 'dzê'",
+   "curiosity": "ガーゼ vem do alemão Gaze, e é item básico de qualquer kit de primeiros socorros."
+  },
+  "tf43-02": {
+   "word": "注射器",
+   "translit": "chūshaki",
+   "example": "注射器は看護師さんが使います。",
+   "examplePt": "A enfermeira usa a seringa.",
+   "pron": "chū-SHA-ki — 'chū' longo e 'sha' soa 'xa'",
+   "curiosity": "器 (ki) quer dizer 'aparelho': 注射 é a injeção e 注射器 é o aparelho dela."
+  },
+  "tf43-03": {
+   "word": "添え木",
+   "translit": "soegi",
+   "example": "折れた腕に添え木を当てました。",
+   "examplePt": "Coloquei uma tala no braço quebrado.",
+   "pron": "so-E-gui — 'o' e 'e' separados; 'g' duro",
+   "curiosity": "添え木 é 'madeira que acompanha': 添える (soeru) é 'acrescentar, apoiar'."
+  },
+  "tf43-04": {
+   "word": "ギプス",
+   "translit": "gipusu",
+   "example": "足にギプスをして一か月過ごしました。",
+   "examplePt": "Fiquei um mês com gesso na perna.",
+   "pron": "gui-PU-su — 'g' duro e 'u' fraco no final",
+   "curiosity": "ギプス vem do alemão Gips, que significa 'gesso'."
+  },
+  "tf43-05": {
+   "word": "松葉づえ",
+   "translit": "matsubazue",
+   "example": "松葉づえで階段を上りました。",
+   "examplePt": "Subi a escada de muletas.",
+   "pron": "ma-tsu-ba-ZU-e — 'tsu' de 'pizza'",
+   "curiosity": "松葉づえ é 'bengala de agulhas de pinheiro', pela forma em V."
+  },
+  "tf43-06": {
+   "word": "担架",
+   "translit": "tanka",
+   "example": "担架で病人を運びますか？",
+   "examplePt": "Leva-se o doente na maca?",
+   "pron": "TAN-ka — 'n' nasal",
+   "curiosity": "担 (carregar) + 架 (armação): 'armação para carregar'."
+  },
+  "tf43-07": {
+   "word": "レントゲン",
+   "translit": "rentogen",
+   "example": "レントゲンで骨の写真を撮りました。",
+   "examplePt": "Tirei uma foto do osso no raio-x.",
+   "pron": "ren-TO-guen — 'n' nasal, 'g' duro",
+   "curiosity": "Em japonês, o dia a dia usa レントゲン, não エックス線, que é mais técnico."
+  },
+  "tf43-08": {
+   "word": "点滴",
+   "translit": "tenteki",
+   "example": "点滴はゆっくり体に入ります。",
+   "examplePt": "O soro entra devagar no corpo.",
+   "pron": "ten-TE-ki — 'n' nasal",
+   "curiosity": "点滴 é 'ponto + gota': o soro cai gota a gota."
+  },
+  "tf43-09": {
+   "word": "車いす",
+   "translit": "kuruma isu",
+   "example": "車いすで公園へ行きます。",
+   "examplePt": "Vou ao parque de cadeira de rodas.",
+   "pron": "ku-RU-ma I-su — 'r' leve",
+   "curiosity": "車いす é 'cadeira com roda': 車 (roda, carro) + いす (cadeira)."
+  },
+  "tf43-10": {
+   "word": "軟膏",
+   "translit": "nankō",
+   "example": "傷に軟膏をぬってください。",
+   "examplePt": "Passe a pomada no ferimento, por favor.",
+   "pron": "nan-KÔ — 'n' nasal, 'kō' longo",
+   "curiosity": "ぬる (nuru) é o verbo de passar pomada, tinta ou manteiga."
+  },
+  "tf44-01": {
+   "word": "寒気",
+   "translit": "samuke",
+   "example": "寒気がするので、早く寝ます。",
+   "examplePt": "Estou com calafrios, então vou dormir cedo.",
+   "pron": "sa-MU-kê — 'e' final fechado",
+   "curiosity": "寒気がする é a forma comum de dizer 'estou com calafrios'."
+  },
+  "tf44-02": {
+   "word": "くしゃみ",
+   "translit": "kushami",
+   "example": "くしゃみが三回も出ましたか？",
+   "examplePt": "Você espirrou três vezes?",
+   "pron": "ku-SHA-mi — 'sha' soa 'xa'",
+   "curiosity": "No mangá, o espirro faz 'ハクション' (hakushon)."
+  },
+  "tf44-03": {
+   "word": "しゃっくり",
+   "translit": "shakkuri",
+   "example": "しゃっくりが止まりません！",
+   "examplePt": "O soluço não para!",
+   "pron": "shak-KU-ri — o 'kk' é 'k' dobrado",
+   "curiosity": "Diz-se しゃっくりが出る: o soluço 'sai', e ninguém 'tem' soluço."
+  },
+  "tf44-04": {
+   "word": "あくび",
+   "translit": "akubi",
+   "example": "授業中に大きなあくびが出ました。",
+   "examplePt": "Dei um bocejo enorme durante a aula.",
+   "pron": "a-KU-bi — 'u' curtinho",
+   "curiosity": "あくびがうつる, 'o bocejo passa', é a mesma ideia do bocejo contagioso."
+  },
+  "tf44-05": {
+   "word": "こむら返り",
+   "translit": "komuragaeri",
+   "example": "泳いでいて、こむら返りになりました。",
+   "examplePt": "Tive cãibra enquanto nadava.",
+   "pron": "ko-mu-ra-GA-e-ri — 'r' leve",
+   "curiosity": "こむら é a panturrilha e 返り é 'virar': a cãibra é a 'panturrilha virada'."
+  },
+  "tf44-06": {
+   "word": "水ぶくれ",
+   "translit": "mizubukure",
+   "example": "靴ずれで水ぶくれができました。",
+   "examplePt": "O calçado apertado fez uma bolha na minha pele.",
+   "pron": "mi-zu-bu-KU-re — 'z' sonoro",
+   "curiosity": "水ぶくれ é 'inchaço de água', e descreve bem a bolha."
+  },
+  "tf44-07": {
+   "word": "あざ",
+   "translit": "aza",
+   "example": "転んで足にあざができました。",
+   "examplePt": "Caí e fiquei com um hematoma na perna.",
+   "pron": "A-za — 'z' sonoro",
+   "curiosity": "青あざ (ao-aza) é o hematoma, literalmente 'roxo azul'."
+  },
+  "tf44-08": {
+   "word": "傷跡",
+   "translit": "kizuato",
+   "example": "傷跡はだんだん薄くなります。",
+   "examplePt": "A cicatriz vai ficando mais clara.",
+   "pron": "ki-zu-A-to — 'zu' com z sonoro",
+   "curiosity": "傷 (ferida) + 跡 (rastro): a cicatriz é o 'rastro da ferida'."
+  },
+  "tf44-09": {
+   "word": "片頭痛",
+   "translit": "henzutsū",
+   "example": "片頭痛で、頭が割れそうです。",
+   "examplePt": "A enxaqueca faz minha cabeça rachar.",
+   "pron": "hen-ZU-tsū — 'tsū' com u longo",
+   "curiosity": "片 (um lado) + 頭痛 (dor de cabeça): dor de cabeça de um lado só."
+  },
+  "tf44-10": {
+   "word": "アレルギー",
+   "translit": "arerugī",
+   "example": "花粉アレルギーで鼻がむずむずします。",
+   "examplePt": "Com a alergia a pólen, meu nariz coça.",
+   "pron": "a-RE-ru-gī — 'g' duro, 'ī' longo",
+   "curiosity": "Em japonês vem do alemão Allergie; 花粉症 (kafunshō) é a alergia a pólen, muito comum na primavera."
+  },
+  "tf45-01": {
+   "word": "橋",
+   "translit": "hashi",
+   "example": "川に長い橋がかかっていますか？",
+   "examplePt": "Há uma ponte comprida sobre o rio?",
+   "pron": "ha-SHI — 'shi' soa 'xi'",
+   "curiosity": "橋 (ponte) e 箸 (hashi, palitinhos) soam igual, mas mudam o tom da fala."
+  },
+  "tf45-02": {
+   "word": "トンネル",
+   "translit": "tonneru",
+   "example": "トンネルを出ると、海が見えます。",
+   "examplePt": "Saindo do túnel, aparece o mar.",
+   "pron": "ton-NE-ru — 'nn' é um 'n' mais longo",
+   "curiosity": "O Japão tem muitos túneis, porque o país é cheio de montanhas."
+  },
+  "tf45-03": {
+   "word": "信号",
+   "translit": "shingō",
+   "example": "信号が赤になりました。",
+   "examplePt": "O semáforo ficou vermelho.",
+   "pron": "shin-GÔ — 'gō' longo",
+   "curiosity": "No Japão, o sinal verde é chamado de 青信号 (ao-shingō), 'sinal azul'."
+  },
+  "tf45-04": {
+   "word": "高架",
+   "translit": "kōka",
+   "example": "高架の上を電車が走っています。",
+   "examplePt": "O trem corre sobre o viaduto.",
+   "pron": "KÔ-ka — 'kō' longo",
+   "curiosity": "高架 usa o mesmo 架 de 担架 (maca): 高 (alto) + 架 (armação)."
+  },
+  "tf45-05": {
+   "word": "歩道橋",
+   "translit": "hodōkyō",
+   "example": "歩道橋を渡って、学校へ行きます。",
+   "examplePt": "Atravesso a passarela e vou à escola.",
+   "pron": "ho-DÔ-kyô — 'dō' e 'kyō' longos",
+   "curiosity": "歩道橋 junta 歩道 (calçada) e 橋 (ponte): é a 'ponte da calçada'."
+  },
+  "tf45-06": {
+   "word": "下水道",
+   "translit": "gesuidō",
+   "example": "下水道は地下を通っています。",
+   "examplePt": "O esgoto passa por baixo da terra.",
+   "pron": "ge-SUI-dô — 'g' duro",
+   "curiosity": "下水道 é 'caminho da água de baixo'; 上水道 (jōsuidō) é o da água tratada."
+  },
+  "tf45-07": {
+   "word": "電柱",
+   "translit": "denchū",
+   "example": "電柱にカラスが止まっています。",
+   "examplePt": "Um corvo está pousado no poste.",
+   "pron": "den-CHŪ — 'ch' como 'tch'",
+   "curiosity": "No Japão há muitos fios aéreos, e existe até o projeto 無電柱化 de enterrá-los."
+  },
+  "tf45-08": {
+   "word": "高速道路",
+   "translit": "kōsoku dōro",
+   "example": "高速道路で渋滞に巻き込まれました。",
+   "examplePt": "Fiquei preso no congestionamento da rodovia.",
+   "pron": "KÔ-so-ku DÔ-ro — 'ō' longos",
+   "curiosity": "No Japão, as rodovias expressas costumam ter pedágio, e por isso se diz só 高速."
+  },
+  "tf45-09": {
+   "word": "ロータリー",
+   "translit": "rōtarī",
+   "example": "ロータリーの周りを車が回っています。",
+   "examplePt": "Os carros rodam em torno da rotatória.",
+   "pron": "RÔ-ta-rī — 'rō' e 'rī' longos",
+   "curiosity": "駅前ロータリー é a rotatória em frente à estação, comum nas cidades do Japão."
+  },
+  "tf45-10": {
+   "word": "マンホール",
+   "translit": "manhōru",
+   "example": "マンホールのふたに絵があります。",
+   "examplePt": "A tampa do bueiro tem um desenho.",
+   "pron": "man-HÔ-ru — 'n' nasal, 'ō' longo",
+   "curiosity": "No Japão, muitas tampas de bueiro têm desenhos coloridos que representam a cidade."
+  },
+  "tf46-01": {
+   "word": "超高層ビル",
+   "translit": "chōkōsō biru",
+   "example": "超高層ビルから町が小さく見えますか？",
+   "examplePt": "Do arranha-céu a cidade parece pequena?",
+   "pron": "chô-KÔ-sô BI-ru — três 'ō' longos",
+   "curiosity": "摩天楼 (matenrō), 'raspa-céu', é a tradução literal de 'skyscraper'."
+  },
+  "tf46-02": {
+   "word": "灯台",
+   "translit": "tōdai",
+   "example": "灯台の光が夜の海を照らします。",
+   "examplePt": "A luz do farol ilumina o mar à noite.",
+   "pron": "TÔ-dai — 'tō' longo, 'dai' como em 'dai!'",
+   "curiosity": "灯台下暗し (tōdai moto kurashi): 'sob o farol é escuro', ou seja, não se vê o que está perto."
+  },
+  "tf46-03": {
+   "word": "城",
+   "translit": "shiro",
+   "example": "山の上に大きな城があります。",
+   "examplePt": "No alto do morro há um grande castelo.",
+   "pron": "SHI-ro — 'shi' soa 'xi'",
+   "curiosity": "Os castelos japoneses têm uma torre principal chamada 天守 (tenshu)."
+  },
+  "tf46-04": {
+   "word": "風車",
+   "translit": "fūsha",
+   "example": "オランダの風車は有名ですね。",
+   "examplePt": "Os moinhos de vento da Holanda são famosos.",
+   "pron": "FŪ-sha — 'f' suave, quase 'h'",
+   "curiosity": "風車 também lê-se kazaguruma e é o cata-vento de brinquedo das crianças."
+  },
+  "tf46-05": {
+   "word": "水道橋",
+   "translit": "suidōkyō",
+   "example": "昔の水道橋が今も立っています。",
+   "examplePt": "Um antigo aqueduto ainda está de pé.",
+   "pron": "sui-DÔ-kyô — 'dō' e 'kyō' longos",
+   "curiosity": "水道 é 'água encanada' e 橋 é 'ponte': o aqueduto é uma 'ponte de água'."
+  },
+  "tf46-06": {
+   "word": "工場",
+   "translit": "kōjō",
+   "example": "工場でお菓子を作っています。",
+   "examplePt": "Fazem doces na fábrica.",
+   "pron": "KÔ-jô — 'j' como em 'já'",
+   "curiosity": "工場見学 (kōjō kengaku), visita guiada a fábricas, é passeio escolar muito popular."
+  },
+  "tf46-07": {
+   "word": "城壁",
+   "translit": "jōheki",
+   "example": "古い城壁が町を囲んでいます。",
+   "examplePt": "Uma velha muralha cerca a cidade.",
+   "pron": "JÔ-hê-ki — 'j' como em 'já'",
+   "curiosity": "A Grande Muralha chinesa é 万里の長城: 'longa muralha de dez mil ri'."
+  },
+  "tf46-08": {
+   "word": "港",
+   "translit": "minato",
+   "example": "港に大きな船が着きました。",
+   "examplePt": "Um grande navio chegou ao porto.",
+   "pron": "mi-NA-to — 'a' aberto",
+   "curiosity": "空港 (kūkō), aeroporto, é literalmente 'porto do ar': 空 (céu) + 港 (porto)."
+  },
+  "tf46-09": {
+   "word": "塔",
+   "translit": "tō",
+   "example": "塔のてっぺんから町が見えますか？",
+   "examplePt": "Dá para ver a cidade do topo da torre?",
+   "pron": "TÔ — 'ô' longo",
+   "curiosity": "五重塔 (gojūnotō) é o pagode de cinco andares, típico de templos antigos."
+  },
+  "tf46-10": {
+   "word": "納屋",
+   "translit": "naya",
+   "example": "農家の納屋に干し草があります。",
+   "examplePt": "No celeiro da fazenda há feno.",
+   "pron": "NA-ya — 'a' aberto e 'ya' leve",
+   "curiosity": "屋 aparece em 八百屋 (quitanda) e 本屋 (livraria): casa ou loja de algo."
+  },
+  "tf47-01": {
+   "word": "ピラミッド",
+   "translit": "piramiddo",
+   "example": "ピラミッドは砂漠の中に立っています。",
+   "examplePt": "A pirâmide fica no meio do deserto.",
+   "pron": "pi-ra-MID-do — o 'dd' é 'd' dobrado",
+   "curiosity": "金字塔 (kinjitō) significa 'pirâmide' e também 'grande feito, obra monumental'."
+  },
+  "tf47-02": {
+   "word": "ミイラ",
+   "translit": "miira",
+   "example": "ミイラは古代エジプトで作られました。",
+   "examplePt": "As múmias eram feitas no Egito Antigo.",
+   "pron": "mi-I-ra — 'i' e 'i' separados, 'r' leve",
+   "curiosity": "ミイラ vem do português 'mirra', resina usada nos embalsamentos."
+  },
+  "tf47-03": {
+   "word": "よろい",
+   "translit": "yoroi",
+   "example": "騎士はよろいを着ていました。",
+   "examplePt": "O cavaleiro usava armadura.",
+   "pron": "yo-RO-i — 'o' e 'i' separados",
+   "curiosity": "Em kanji é 鎧, mas o dia a dia usa よろい porque o kanji é complicado."
+  },
+  "tf47-04": {
+   "word": "羊皮紙",
+   "translit": "yōhishi",
+   "example": "羊皮紙に手で文字を書きました。",
+   "examplePt": "Escrevi à mão em pergaminho.",
+   "pron": "yô-HI-shi — 'yō' longo; 'shi' soa 'xi'",
+   "curiosity": "羊 (ovelha) + 皮 (pele) + 紙 (papel): 'papel de pele de ovelha'."
+  },
+  "tf47-05": {
+   "word": "玉座",
+   "translit": "gyokuza",
+   "example": "王様が玉座にすわっています。",
+   "examplePt": "O rei está sentado no trono.",
+   "pron": "gyo-KU-za — 'gy' soa 'guio'",
+   "curiosity": "玉 (joia) + 座 (assento): 'assento de joia'; 座 é o mesmo de 星座."
+  },
+  "tf47-06": {
+   "word": "王冠",
+   "translit": "ōkan",
+   "example": "王冠にはたくさんの宝石があります。",
+   "examplePt": "A coroa tem muitas joias.",
+   "pron": "Ô-kan — 'ō' longo, 'n' nasal",
+   "curiosity": "冠 também significa 'título' no esporte: 三冠王 (sankan'ō) é o campeão das três coroas."
+  },
+  "tf47-07": {
+   "word": "宝",
+   "translit": "takara",
+   "example": "宝箱の中に宝がありました。",
+   "examplePt": "Dentro do baú havia um tesouro.",
+   "pron": "ta-KA-ra — 'r' leve",
+   "curiosity": "子宝 (kodakara) é 'filho-tesouro': um jeito carinhoso de falar dos filhos."
+  },
+  "tf47-08": {
+   "word": "壺",
+   "translit": "tsubo",
+   "example": "古い壺が土の中から見つかりました。",
+   "examplePt": "Acharam uma velha jarra debaixo da terra.",
+   "pron": "TSU-bo — 'tsu' de 'pizza'",
+   "curiosity": "壺 (jarra) soa igual a 坪 (tsubo), antiga unidade de área ainda usada em imóveis."
+  },
+  "tf47-09": {
+   "word": "馬車",
+   "translit": "basha",
+   "example": "馬車で町を一周しましたか？",
+   "examplePt": "Você deu a volta na cidade de carruagem?",
+   "pron": "BA-sha — 'sha' soa 'xa'",
+   "curiosity": "馬車馬のように働く quer dizer 'trabalhar como cavalo de carroça', sem parar."
+  },
+  "tf47-10": {
+   "word": "松明",
+   "translit": "taimatsu",
+   "example": "松明の火で暗い洞窟を進みました。",
+   "examplePt": "Avancei pela caverna escura com a luz da tocha.",
+   "pron": "tai-MA-tsu — 'ai' como em 'pai'",
+   "curiosity": "松 (pinheiro) + 明 (luz): as tochas se faziam com madeira de pinheiro, rica em resina."
+  },
+  "tf48-01": {
+   "word": "指揮者",
+   "translit": "shikisha",
+   "example": "指揮者が手をあげると、音楽が始まります。",
+   "examplePt": "Quando o maestro ergue a mão, a música começa.",
+   "pron": "shi-KI-sha — 'shi' e 'sha' soam 'xi' e 'xa'",
+   "curiosity": "指揮 (comando) + 者 (pessoa): maestro é 'quem comanda'."
+  },
+  "tf48-02": {
+   "word": "楽譜",
+   "translit": "gakufu",
+   "example": "楽譜を見ながらピアノを弾きます。",
+   "examplePt": "Toco piano olhando a partitura.",
+   "pron": "GA-ku-fu — 'f' suave",
+   "curiosity": "楽 lê-se gaku (música) e também raku (fácil, confortável)."
+  },
+  "tf48-03": {
+   "word": "舞台",
+   "translit": "butai",
+   "example": "舞台の上で子どもたちが踊りましたか？",
+   "examplePt": "As crianças dançaram no palco?",
+   "pron": "BU-tai — 'ai' como em 'pai'",
+   "curiosity": "舞台裏 (butaiura), 'o avesso do palco', quer dizer os bastidores."
+  },
+  "tf48-04": {
+   "word": "観客",
+   "translit": "kankyaku",
+   "example": "観客が大きな拍手を送りました。",
+   "examplePt": "A plateia aplaudiu bastante.",
+   "pron": "kan-KYA-ku — 'n' nasal; 'kya' soa 'quia'",
+   "curiosity": "観 (ver) + 客 (visitante): a plateia é o 'visitante que olha'."
+  },
+  "tf48-05": {
+   "word": "マイク",
+   "translit": "maiku",
+   "example": "マイクを使って、大きな声で歌いました。",
+   "examplePt": "Usei o microfone e cantei bem alto.",
+   "pron": "MAI-ku — 'ai' como em 'pai'",
+   "curiosity": "マイク é a forma curta de マイクロフォン, como リモコン é de リモートコントロール."
+  },
+  "tf48-06": {
+   "word": "合唱",
+   "translit": "gasshō",
+   "example": "合唱で、みんなの声が重なりました。",
+   "examplePt": "No coro, as vozes de todos se juntaram.",
+   "pron": "gas-SHÔ — 'ss' dobrado; 'shō' longo",
+   "curiosity": "合唱コンクール, o concurso de coros entre as turmas, é tradição nas escolas japonesas."
+  },
+  "tf48-07": {
+   "word": "オペラ",
+   "translit": "opera",
+   "example": "オペラは歌で物語を伝えますか？",
+   "examplePt": "A ópera conta histórias por meio do canto?",
+   "pron": "o-PE-ra — 'r' leve",
+   "curiosity": "'Ópera' vem do italiano, plural de opus, 'obra'."
+  },
+  "tf48-08": {
+   "word": "タクト",
+   "translit": "takuto",
+   "example": "指揮者がタクトを振りました。",
+   "examplePt": "O maestro balançou a batuta.",
+   "pron": "ta-KU-to — 'u' curtinho",
+   "curiosity": "タクト vem do alemão Takt, que quer dizer 'compasso'."
+  },
+  "tf48-09": {
+   "word": "メトロノーム",
+   "translit": "metoronōmu",
+   "example": "メトロノームの音に合わせて練習します。",
+   "examplePt": "Pratico no ritmo do metrônomo.",
+   "pron": "me-to-ro-NÔ-mu — 'nō' longo",
+   "curiosity": "Vem do grego: metron 'medida' + nomos 'lei'."
+  },
+  "tf48-10": {
+   "word": "楽屋",
+   "translit": "gakuya",
+   "example": "出番の前に楽屋で待ちました。",
+   "examplePt": "Esperei no camarim antes da minha vez.",
+   "pron": "ga-KU-ya — 'ya' leve",
+   "curiosity": "楽屋裏 (gakuya-ura), 'o avesso do camarim', é onde se contam segredos dos bastidores."
+  },
+  "tf49-01": {
+   "word": "フェンシング",
+   "translit": "fenshingu",
+   "example": "フェンシングは剣を使うスポーツです。",
+   "examplePt": "A esgrima é um esporte que usa espada.",
+   "pron": "fen-SHIN-gu — 'sh' soa 'x'",
+   "curiosity": "O japonês acrescenta vogais às palavras estrangeiras: 'fencing' vira fen-shin-gu."
+  },
+  "tf49-02": {
+   "word": "ボート競技",
+   "translit": "bōto kyōgi",
+   "example": "ボート競技は、みんなで息を合わせます。",
+   "examplePt": "No remo, todos respiram juntos.",
+   "pron": "BÔ-to KYÔ-gui — 'ō' longos",
+   "curiosity": "競 (competir) + 技 (técnica): 競技 é 'prova esportiva'."
+  },
+  "tf49-03": {
+   "word": "マラソン",
+   "translit": "marason",
+   "example": "マラソンを一度は走ってみたいです。",
+   "examplePt": "Quero correr uma maratona ao menos uma vez.",
+   "pron": "ma-RA-son — 'r' leve",
+   "curiosity": "'Maratona' vem de Maratona, cidade da Grécia ligada a uma lenda de corredor."
+  },
+  "tf49-04": {
+   "word": "棒高跳び",
+   "translit": "bōtakatobi",
+   "example": "棒高跳びは長い棒で高く跳びます。",
+   "examplePt": "No salto com vara salta-se alto com uma vara comprida.",
+   "pron": "BÔ-ta-ka-TO-bi — 'bō' longo",
+   "curiosity": "棒 (vara) + 高 (alto) + 跳び (salto): 'salto alto com vara'."
+  },
+  "tf49-05": {
+   "word": "スケート",
+   "translit": "sukēto",
+   "example": "冬は池でスケートをします。",
+   "examplePt": "No inverno patino na lagoa.",
+   "pron": "su-KÊ-to — 'kē' longo",
+   "curiosity": "スケートリンク (sukēto rinku) é a pista de patinação no gelo."
+  },
+  "tf49-06": {
+   "word": "サーフィン",
+   "translit": "sāfin",
+   "example": "サーフィンで大きな波に乗りましたか？",
+   "examplePt": "Você pegou uma onda grande surfando?",
+   "pron": "SĀ-fin — 'ā' longo, 'f' suave",
+   "curiosity": "O surfe estreou nos Jogos Olímpicos de Tóquio, em 2021."
+  },
+  "tf49-07": {
+   "word": "アーチェリー",
+   "translit": "āchirī",
+   "example": "アーチェリーの的は真ん中が金色です。",
+   "examplePt": "O alvo do tiro com arco tem o centro dourado.",
+   "pron": "Ā-che-rī — 'ā' longo e 'ch' como 'tch'",
+   "curiosity": "O Japão tem seu arco tradicional: 弓道 (kyūdō), o 'caminho do arco'."
+  },
+  "tf49-08": {
+   "word": "体操",
+   "translit": "taisō",
+   "example": "体操の選手は体がやわらかいですね。",
+   "examplePt": "Os ginastas têm o corpo bem flexível.",
+   "pron": "tai-SÔ — 'ai' como em 'pai'",
+   "curiosity": "ラジオ体操 (rajio taisō) é a ginástica de rádio que muita gente faz de manhã."
+  },
+  "tf49-09": {
+   "word": "トライアスロン",
+   "translit": "toraiasuron",
+   "example": "トライアスロンは三つの競技を続けて行います。",
+   "examplePt": "O triatlo reúne três provas seguidas.",
+   "pron": "to-rai-A-su-ron — 'ai' e 'a' separados",
+   "curiosity": "'Triatlo' vem do grego: tri (três) + athlon (prova)."
+  },
+  "tf49-10": {
+   "word": "ダイビング",
+   "translit": "daibingu",
+   "example": "海でダイビングを体験しました。",
+   "examplePt": "Experimentei mergulhar no mar.",
+   "pron": "dai-BIN-gu — 'g' duro no final",
+   "curiosity": "O salto ornamental olímpico se chama 飛び込み (tobikomi), 'entrar de cabeça'."
+  },
+  "tf50-01": {
+   "word": "トロフィー",
+   "translit": "torofī",
+   "example": "トロフィーを高く持ち上げました。",
+   "examplePt": "Ergui o troféu bem alto.",
+   "pron": "to-RO-fī — 'r' leve, 'ī' longo",
+   "curiosity": "優勝カップ (yūshō kappu) é a 'taça do campeão'."
+  },
+  "tf50-02": {
+   "word": "メダル",
+   "translit": "medaru",
+   "example": "メダルを首にかけてもらいました。",
+   "examplePt": "Colocaram a medalha no meu pescoço.",
+   "pron": "ME-da-ru — 'r' leve",
+   "curiosity": "As medalhas se dizem 金 (kin), 銀 (gin) e 銅 (dō): ouro, prata e bronze."
+  },
+  "tf50-03": {
+   "word": "ホイッスル",
+   "translit": "hoissuru",
+   "example": "先生がホイッスルを吹いて、試合が始まりました。",
+   "examplePt": "O professor apitou e o jogo começou.",
+   "pron": "ho-IS-su-ru — 'o' e 'i' separados; 'ss' dobrado",
+   "curiosity": "笛 (fue) serve para flauta e apito; 口笛 (kuchibue) é o assobio."
+  },
+  "tf50-04": {
+   "word": "ストップウォッチ",
+   "translit": "sutoppu uotchi",
+   "example": "ストップウォッチで十秒を計りました。",
+   "examplePt": "Medi dez segundos no cronômetro.",
+   "pron": "stop-pu uot-chi — 'pp' dobrado; 'ch' como 'tch'",
+   "curiosity": "'Cronometrar' se diz 時間を計る (jikan o hakaru): 'medir o tempo'."
+  },
+  "tf50-05": {
+   "word": "表彰台",
+   "translit": "hyōshōdai",
+   "example": "表彰台に三人の選手が立ちました。",
+   "examplePt": "Três atletas subiram ao pódio.",
+   "pron": "hyô-shô-DAI — 'hyō' e 'shō' longos",
+   "curiosity": "表彰 (homenagem) + 台 (plataforma); 表彰状 (hyōshōjō) é o certificado de mérito."
+  },
+  "tf50-06": {
+   "word": "得点板",
+   "translit": "tokutenban",
+   "example": "得点板の数字が変わりました。",
+   "examplePt": "Os números do placar mudaram.",
+   "pron": "to-ku-ten-BAN — 'n' nasal",
+   "curiosity": "得点 (pontos ganhos) + 板 (tábua): o placar é uma 'tábua de pontos'."
+  },
+  "tf50-07": {
+   "word": "審判",
+   "translit": "shinpan",
+   "example": "審判が笛を吹きましたか？",
+   "examplePt": "O árbitro apitou?",
+   "pron": "shin-PAN — 'n' antes de 'p' soa 'm'",
+   "curiosity": "審 (julgar) + 判 (decidir): o árbitro é quem 'julga e decide'."
+  },
+  "tf50-08": {
+   "word": "応援団",
+   "translit": "ōendan",
+   "example": "応援団が太鼓をたたいて歌っています。",
+   "examplePt": "A torcida organizada canta batendo tambor.",
+   "pron": "Ô-en-dan — 'ō' longo e 'e' separados",
+   "curiosity": "Muitas escolas japonesas têm 応援団, com tambores e gritos de torcida."
+  },
+  "tf50-09": {
+   "word": "ヘルメット",
+   "translit": "herumetto",
+   "example": "自転車ではヘルメットをかぶります。",
+   "examplePt": "De bicicleta, usa-se capacete.",
+   "pron": "he-ru-MET-to — 'tt' dobrado",
+   "curiosity": "Para o que vai na cabeça, o verbo é かぶる: ヘルメットをかぶる."
+  },
+  "tf50-10": {
+   "word": "ラケット",
+   "translit": "raketto",
+   "example": "新しいラケットで練習しますか？",
+   "examplePt": "Vai treinar com a raquete nova?",
+   "pron": "ra-KET-to — 'r' leve; 'tt' dobrado",
+   "curiosity": "Para dizer 'bater com a raquete', usa-se ラケットで打つ (utsu)."
+  }
+ }
+}

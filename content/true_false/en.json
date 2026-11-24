@@ -1,7 +1,7 @@
 {
  "game": "true_false",
  "language": "en",
- "version": 1,
+ "version": 2,
  "entries": {
   "tf01-01": {
    "word": "cow",
@@ -2402,6 +2402,1606 @@
    "examplePt": "De repente, as luzes se apagaram!",
    "pron": "SÂ-den-li — o 'dd' vale um 'd' só; o 'e' do meio é fraquinho",
    "curiosity": "'All of a sudden' = do nada, outro jeito de dizer 'suddenly'."
+  },
+  "tf31-01": {
+   "word": "la duna",
+   "translit": null,
+   "example": "Hai mai camminato su una duna di sabbia?",
+   "examplePt": "Você já andou numa duna de areia?",
+   "pron": "DÚ-na — o 'u' é um 'u' puro, sem som de 'o'",
+   "curiosity": "Duna é feminino: 'la duna' no singular e 'le dune' no plural."
+  },
+  "tf31-02": {
+   "word": "la valle",
+   "translit": null,
+   "example": "Un fiume piccolo attraversa la valle verde.",
+   "examplePt": "Um rio pequeno atravessa o vale verde.",
+   "pron": "VÁL-le — o 'll' dobrado alonga o som do 'l'",
+   "curiosity": "'A valle' é rio abaixo, em direção ao vale; 'a monte' é o oposto."
+  },
+  "tf31-03": {
+   "word": "l'altopiano",
+   "translit": null,
+   "example": "L'altopiano è freddo e ventoso in inverno.",
+   "examplePt": "O planalto é frio e ventoso no inverno.",
+   "pron": "al-to-pi-Á-no — força no 'á' e o 'pi' é rápido",
+   "curiosity": "Junta 'alto' com 'piano' (plano): uma planície em lugar elevado."
+  },
+  "tf31-04": {
+   "word": "la scogliera",
+   "translit": null,
+   "example": "I gabbiani dormono sulla scogliera a picco.",
+   "examplePt": "As gaivotas dormem no penhasco escarpado.",
+   "pron": "sko-LHÉ-ra — 'gli' soa como o 'lh' de 'filho'",
+   "curiosity": "Vem de 'scoglio', que é um rochedo à beira-mar."
+  },
+  "tf31-05": {
+   "word": "il ghiacciaio",
+   "translit": null,
+   "example": "Il ghiacciaio scivola piano verso la valle.",
+   "examplePt": "A geleira desliza devagar rumo ao vale.",
+   "pron": "guiat-TCHÁ-io — 'gh' soa 'g' duro e 'cci' soa 'tchi'",
+   "curiosity": "'Ghiaccio' (gelo) se escreve com 'gh' para o 'g' soar duro, como em 'gui'."
+  },
+  "tf31-06": {
+   "word": "la penisola",
+   "translit": null,
+   "example": "La penisola italiana ha la forma di uno stivale.",
+   "examplePt": "A península italiana tem forma de bota.",
+   "pron": "pe-NÍ-zo-la — o 's' entre vogais soa 'z'",
+   "curiosity": "A Itália é chamada de 'lo Stivale', a Bota, por causa do seu formato."
+  },
+  "tf31-07": {
+   "word": "la caverna",
+   "translit": null,
+   "example": "Nella caverna nascondiamo una lanterna e un panino.",
+   "examplePt": "Na caverna escondemos uma lanterna e um sanduíche.",
+   "pron": "ka-VÉR-na — o 'r' é vibrado, como em 'caro'",
+   "curiosity": "'L'uomo delle caverne' é o homem das cavernas."
+  },
+  "tf31-08": {
+   "word": "il canyon",
+   "translit": null,
+   "example": "Quanto è profondo questo canyon enorme?",
+   "examplePt": "Quão profundo é este cânion enorme?",
+   "pron": "KÁ-nion — o 'y' soa como um 'i'",
+   "curiosity": "É um empréstimo do inglês e não muda no plural: 'i canyon'."
+  },
+  "tf31-09": {
+   "word": "la collina",
+   "translit": null,
+   "example": "Dalla collina si vede tutto il paese.",
+   "examplePt": "Da colina se vê a cidade inteira.",
+   "pron": "kol-LÍ-na — o 'll' dobrado dura um pouco mais",
+   "curiosity": "A Toscana é famosa pelas colinas suaves com ciprestes e vinhedos."
+  },
+  "tf31-10": {
+   "word": "l'arcipelago",
+   "translit": null,
+   "example": "Un arcipelago ha centinaia di isole minuscole.",
+   "examplePt": "Um arquipélago tem centenas de ilhas minúsculas.",
+   "pron": "ar-tchi-PÉ-la-go — 'c' antes de 'i' soa 'tch'",
+   "curiosity": "Termina em -o, mas o plural é 'arcipelaghi', com 'h' para manter o 'g' duro."
+  },
+  "tf32-01": {
+   "word": "la cascata",
+   "translit": null,
+   "example": "Una cascata enorme cade tra le rocce.",
+   "examplePt": "Uma cascata enorme cai entre as rochas.",
+   "pron": "kas-KÁ-ta — 'sc' antes de 'a' soa 's' + 'k'",
+   "curiosity": "Vem de 'cascare' (cair), verbo que na fala do dia a dia também é 'cair'."
+  },
+  "tf32-02": {
+   "word": "il lago",
+   "translit": null,
+   "example": "Il lago di Garda è il più grande d'Italia.",
+   "examplePt": "O lago de Garda é o maior da Itália.",
+   "pron": "LÁ-go — o 'g' é duro, como em 'gato'",
+   "curiosity": "No plural ganha um 'h': 'i laghi', para o 'g' continuar duro."
+  },
+  "tf32-03": {
+   "word": "la marea",
+   "translit": null,
+   "example": "La marea alta ha coperto tutta la spiaggia.",
+   "examplePt": "A maré alta cobriu a praia toda.",
+   "pron": "ma-RÉ-a — 'e' e 'a' são sílabas separadas",
+   "curiosity": "'Una marea di gente' é uma multidão enorme, uma maré de gente."
+  },
+  "tf32-04": {
+   "word": "l'onda",
+   "translit": null,
+   "example": "Che onda gigante! Chi vuole provare a surfare?",
+   "examplePt": "Que onda gigante! Quem quer tentar surfar?",
+   "pron": "ÔN-da — o 'o' é fechado e o 'n' nasaliza de leve",
+   "curiosity": "'Andare in onda' é ir ao ar: um programa vai 'em onda' na TV."
+  },
+  "tf32-05": {
+   "word": "la sorgente",
+   "translit": null,
+   "example": "L'acqua fresca nasce da una sorgente nascosta.",
+   "examplePt": "A água fresca nasce de uma nascente escondida.",
+   "pron": "sor-DJÉN-te — 'g' antes de 'e' soa 'dj'",
+   "curiosity": "Vem de 'sorgere' (surgir), como em 'il sole sorge' (o sol nasce)."
+  },
+  "tf32-06": {
+   "word": "il delta",
+   "translit": null,
+   "example": "Il delta del Po si apre verso il mare.",
+   "examplePt": "O delta do Pó se abre em direção ao mar.",
+   "pron": "DÉL-ta — 'e' aberto e 'l' bem pronunciado",
+   "curiosity": "Delta vem da letra grega Δ, por causa do formato triangular."
+  },
+  "tf32-07": {
+   "word": "il geyser",
+   "translit": null,
+   "example": "Il geyser lancia acqua bollente verso il cielo.",
+   "examplePt": "O gêiser lança água fervente em direção ao céu.",
+   "pron": "GÊI-zer — palavra emprestada, com 'ey' como 'êi'",
+   "curiosity": "Vem do islandês Geysir, nome de uma fonte termal da Islândia."
+  },
+  "tf32-08": {
+   "word": "l'iceberg",
+   "translit": null,
+   "example": "L'iceberg nasconde sott'acqua la parte più grande.",
+   "examplePt": "O iceberg esconde debaixo da água a maior parte.",
+   "pron": "AIS-berg — som inglês, o 'g' final é duro",
+   "curiosity": "Em italiano é invariável: 'un iceberg', 'due iceberg'."
+  },
+  "tf32-09": {
+   "word": "l'oceano",
+   "translit": null,
+   "example": "L'oceano Pacifico è il più vasto del pianeta.",
+   "examplePt": "O oceano Pacífico é o mais vasto do planeta.",
+   "pron": "o-tchê-Á-no — 'c' antes de 'e' soa 'tch'",
+   "curiosity": "Vem do grego Okeanós, o rio que os antigos imaginavam cercar a Terra."
+  },
+  "tf32-10": {
+   "word": "la palude",
+   "translit": null,
+   "example": "Di notte le rane cantano nella palude.",
+   "examplePt": "De noite as rãs cantam no pântano.",
+   "pron": "pa-LÚ-de — o 'u' é forte e o final é um 'e' curto",
+   "curiosity": "'Malaria' vem de 'mala aria' (ar ruim): culpava-se o ar dos pântanos."
+  },
+  "tf33-01": {
+   "word": "l'asteroide",
+   "translit": null,
+   "example": "Un asteroide è passato vicino alla Terra.",
+   "examplePt": "Um asteroide passou perto da Terra.",
+   "pron": "as-te-ro-Í-de — força no 'í', com 'oi' em duas sílabas",
+   "curiosity": "Do grego 'astér' (estrela) + 'eídos' (forma): 'em forma de estrela'."
+  },
+  "tf33-02": {
+   "word": "l'orbita",
+   "translit": null,
+   "example": "La Luna compie un'orbita intorno alla Terra.",
+   "examplePt": "A Lua completa uma órbita ao redor da Terra.",
+   "pron": "ÓR-bi-ta — o acento cai na primeira sílaba",
+   "curiosity": "'Orbita' é também a cavidade do olho: 'l'orbita oculare'."
+  },
+  "tf33-03": {
+   "word": "la costellazione",
+   "translit": null,
+   "example": "Riesci a vedere la costellazione dell'Orsa Maggiore?",
+   "examplePt": "Você consegue ver a constelação da Ursa Maior?",
+   "pron": "kos-tel-la-tsi-Ô-ne — o 'zi' soa 'tsi'",
+   "curiosity": "Contém 'stella' (estrela): é literalmente um grupo de estrelas."
+  },
+  "tf33-04": {
+   "word": "la meteora",
+   "translit": null,
+   "example": "Una meteora luminosa ha attraversato il cielo.",
+   "examplePt": "Um meteoro luminoso atravessou o céu.",
+   "pron": "me-te-Ó-ra — em italiano a palavra é feminina",
+   "curiosity": "'Passare come una meteora' é brilhar e sumir rápido."
+  },
+  "tf33-05": {
+   "word": "la nebulosa",
+   "translit": null,
+   "example": "La nebulosa è una nube di gas e polvere.",
+   "examplePt": "A nebulosa é uma nuvem de gás e poeira.",
+   "pron": "ne-bu-LÔ-za — o 's' entre vogais soa 'z'",
+   "curiosity": "Vem do latim 'nebula' (névoa); em italiano a névoa comum é 'nebbia'."
+  },
+  "tf33-06": {
+   "word": "il buco nero",
+   "translit": null,
+   "example": "Il buco nero attira persino la luce.",
+   "examplePt": "O buraco negro atrai até a luz.",
+   "pron": "BÚ-ko NÊ-ro — 'c' antes de 'o' soa 'k'",
+   "curiosity": "'Un buco nell'acqua' (buraco na água) é uma tentativa que fracassou."
+  },
+  "tf33-07": {
+   "word": "il cratere",
+   "translit": null,
+   "example": "Sulla Luna ogni cratere è pieno di polvere.",
+   "examplePt": "Na Lua cada cratera está cheia de poeira.",
+   "pron": "kra-TÉ-re — as duas últimas sílabas são suaves",
+   "curiosity": "Vem do grego 'kratér', a grande taça onde se misturava vinho e água."
+  },
+  "tf33-08": {
+   "word": "la gravità",
+   "translit": null,
+   "example": "Sulla Luna la gravità è molto più debole.",
+   "examplePt": "Na Lua a gravidade é bem mais fraca.",
+   "pron": "gra-vi-TÀ — acento final, a última sílaba é forte",
+   "curiosity": "Palavras em -tà, como 'gravità', são femininas e não mudam no plural."
+  },
+  "tf33-09": {
+   "word": "l'osservatorio",
+   "translit": null,
+   "example": "Visitiamo l'osservatorio per guardare Saturno stasera.",
+   "examplePt": "Visitamos o observatório para ver Saturno hoje à noite.",
+   "pron": "os-ser-va-TÓ-rio — 'ss' dobrado e 'v' como em 'vaca'",
+   "curiosity": "O sufixo -torio marca um lugar, como em 'laboratorio'."
+  },
+  "tf33-10": {
+   "word": "la supernova",
+   "translit": null,
+   "example": "Per qualche giorno la supernova illumina un'intera galassia.",
+   "examplePt": "Por alguns dias a supernova ilumina uma galáxia inteira.",
+   "pron": "su-per-NÓ-va — 'o' aberto e acento na penúltima",
+   "curiosity": "'Nova' vem do latim 'nova': parecia uma estrela nova no céu."
+  },
+  "tf34-01": {
+   "word": "l'uragano",
+   "translit": null,
+   "example": "L'uragano ha scoperchiato le case sulla costa.",
+   "examplePt": "O furacão destelhou as casas da costa.",
+   "pron": "u-ra-GÁ-no — 'g' antes de 'a' é duro",
+   "curiosity": "A palavra vem de uma língua indígena do Caribe, via espanhol 'huracán'."
+  },
+  "tf34-02": {
+   "word": "il tornado",
+   "translit": null,
+   "example": "Un tornado ha sollevato il trattore!",
+   "examplePt": "Um tornado levantou o trator!",
+   "pron": "tor-NÁ-do — 'a' aberto na penúltima sílaba",
+   "curiosity": "Uma forma de dizer em italiano é 'tromba d'aria', a coluna de ar que gira."
+  },
+  "tf34-03": {
+   "word": "la brina",
+   "translit": null,
+   "example": "La brina bianca copre l'erba al mattino.",
+   "examplePt": "A geada branca cobre a grama de manhã.",
+   "pron": "BRÍ-na — o 'i' é forte e o 'r' é vibrado",
+   "curiosity": "'Brina' parece 'brisa' em português, mas significa geada, não vento suave."
+  },
+  "tf34-04": {
+   "word": "la grandine",
+   "translit": null,
+   "example": "La grandine ha ammaccato il cofano dell'auto.",
+   "examplePt": "O granizo amassou o capô do carro.",
+   "pron": "GRÁN-di-ne — o acento cai na primeira sílaba",
+   "curiosity": "É sempre singular: 'sta grandinando' é 'está caindo granizo'."
+  },
+  "tf34-05": {
+   "word": "il fulmine",
+   "translit": null,
+   "example": "Un fulmine ha colpito l'albero del giardino.",
+   "examplePt": "Um raio atingiu a árvore do jardim.",
+   "pron": "FÚL-mi-ne — o 'u' é puro e o acento está no 'ful'",
+   "curiosity": "'Colpo di fulmine' (golpe de raio) é amor à primeira vista!"
+  },
+  "tf34-06": {
+   "word": "il temporale",
+   "translit": null,
+   "example": "Corriamo: sta arrivando un temporale fortissimo!",
+   "examplePt": "Corramos: vem chegando uma tempestade fortíssima!",
+   "pron": "tem-po-RÁ-le — acento na penúltima sílaba",
+   "curiosity": "'Tempo' é tanto o tempo que passa quanto o clima; 'temporale' só a tempestade."
+  },
+  "tf34-07": {
+   "word": "la siccità",
+   "translit": null,
+   "example": "La siccità ha seccato tutti i campi.",
+   "examplePt": "A seca secou todos os campos.",
+   "pron": "sit-tchi-TÀ — 'cci' soa 'tchi' e o acento é no fim",
+   "curiosity": "Vem do latim 'siccus' (seco); 'secco' é seco e 'seccare' é secar."
+  },
+  "tf34-08": {
+   "word": "la rugiada",
+   "translit": null,
+   "example": "La rugiada brilla sull'erba all'alba.",
+   "examplePt": "O orvalho brilha na grama ao amanhecer.",
+   "pron": "ru-DJÁ-da — 'gi' soa 'dj' como em 'jazz'",
+   "curiosity": "Termina em -a, mas o plural é em -e: 'la rugiada', 'le rugiade'."
+  },
+  "tf34-09": {
+   "word": "la pioggerella",
+   "translit": null,
+   "example": "La pioggerella bagna piano la mia giacca.",
+   "examplePt": "A garoa molha devagar o meu casaco.",
+   "pron": "pio-dje-RÉL-la — 'gg' antes de 'e' soa 'dj'",
+   "curiosity": "O sufixo -ella diminui: 'pioggerella' é uma 'chuvinha' bem fina."
+  },
+  "tf34-10": {
+   "word": "il ciclone",
+   "translit": null,
+   "example": "Quando il ciclone si avvicina all'isola, chiudiamo tutto?",
+   "examplePt": "Quando o ciclone se aproxima da ilha, fechamos tudo?",
+   "pron": "tchi-KLÔ-ne — 'ci' soa 'tchi' e o 'o' é fechado",
+   "curiosity": "Do grego 'kýklos' (círculo): o ciclone gira em círculos."
+  },
+  "tf35-01": {
+   "word": "il granito",
+   "translit": null,
+   "example": "Questa statua è scolpita nel granito.",
+   "examplePt": "Esta estátua está esculpida em granito.",
+   "pron": "gra-NÍ-to — acento na penúltima, 'i' forte",
+   "curiosity": "Vem de 'grano': a pedra parece feita de grãozinhos."
+  },
+  "tf35-02": {
+   "word": "il marmo",
+   "translit": null,
+   "example": "Il marmo bianco di Carrara è famosissimo.",
+   "examplePt": "O mármore branco de Carrara é famosíssimo.",
+   "pron": "MÁR-mo — o 'r' é vibrado e o 'o' é aberto",
+   "curiosity": "Carrara, na Toscana, fornece mármore para escultores há séculos."
+  },
+  "tf35-03": {
+   "word": "il diamante",
+   "translit": null,
+   "example": "Un diamante piccolo può valere moltissimo.",
+   "examplePt": "Um diamante pequeno pode valer muitíssimo.",
+   "pron": "dia-MÁN-te — o acento cai no 'mán'",
+   "curiosity": "Vem do grego 'adámas', que significa 'indomável'."
+  },
+  "tf35-04": {
+   "word": "il carbone",
+   "translit": null,
+   "example": "Nero come il carbone, il gatto sparisce nel buio.",
+   "examplePt": "Preto como o carvão, o gato some no escuro.",
+   "pron": "kar-BÔ-ne — o 'o' é fechado e o acento é no 'bô'",
+   "curiosity": "'Nero come il carbone' é a forma italiana de dizer 'preto como carvão'."
+  },
+  "tf35-05": {
+   "word": "l'oro",
+   "translit": null,
+   "example": "L'oro brilla nella vecchia mappa del tesoro.",
+   "examplePt": "O ouro brilha no velho mapa do tesouro.",
+   "pron": "Ó-ro — 'o' aberto e 'r' vibrado",
+   "curiosity": "'Non è tutto oro quel che luccica': nem tudo que reluz é ouro."
+  },
+  "tf35-06": {
+   "word": "il rame",
+   "translit": null,
+   "example": "Le pentole di rame brillano sul tavolo.",
+   "examplePt": "As panelas de cobre brilham sobre a mesa.",
+   "pron": "RÁ-me — o 'a' é aberto e o 'r' é vibrado",
+   "curiosity": "Cobre é 'rame', mas o símbolo químico é Cu, do latim 'cuprum'."
+  },
+  "tf35-07": {
+   "word": "il ferro",
+   "translit": null,
+   "example": "Il ferro arrugginisce se resta sotto la pioggia.",
+   "examplePt": "O ferro enferruja se ficar debaixo da chuva.",
+   "pron": "FÉR-ro — 'rr' é vibrado forte e o 'e' é aberto",
+   "curiosity": "'Ferro da stiro' é o ferro de passar roupa."
+  },
+  "tf35-08": {
+   "word": "il cristallo",
+   "translit": null,
+   "example": "Il lampadario di cristallo tintinna piano.",
+   "examplePt": "O lustre de cristal tilinta baixinho.",
+   "pron": "kris-TÁL-lo — o 'll' dobrado alonga o 'l'",
+   "curiosity": "Do grego 'krýstallos', que significava 'gelo'."
+  },
+  "tf35-09": {
+   "word": "l'argilla",
+   "translit": null,
+   "example": "Il vasaio modella l'argilla con le mani.",
+   "examplePt": "O oleiro modela a argila com as mãos.",
+   "pron": "ar-DJÍL-la — 'gi' soa 'dj' e o 'll' é dobrado",
+   "curiosity": "É quase igual ao português 'argila', só com 'll' dobrado."
+  },
+  "tf35-10": {
+   "word": "il calcare",
+   "translit": null,
+   "example": "Le grotte si formano lentamente nel calcare.",
+   "examplePt": "As grutas se formam devagar no calcário.",
+   "pron": "kal-KÁ-re — dois 'c' duros, como 'k'",
+   "curiosity": "'Calcare' também é o verbo 'pisar', e o 'calcare' da água dura entope torneiras."
+  },
+  "tf36-01": {
+   "word": "cotton",
+   "translit": null,
+   "example": "Does cotton keep you cool in summer?",
+   "examplePt": "O algodão mantém você fresco no verão?",
+   "pron": "CÓ-ten — 'o' aberto; o 'tt' é um 't' só",
+   "curiosity": "'Cotton' vem do árabe 'qutn', trazido ao inglês pelo comércio."
+  },
+  "tf36-02": {
+   "word": "silk",
+   "translit": null,
+   "example": "Her scarf was soft as silk.",
+   "examplePt": "O lenço dela era macio como seda.",
+   "pron": "SÍLK — 'i' curto; o 'l' vai quase para 'u'",
+   "curiosity": "A seda vem do casulo de um bicho, o bicho-da-seda, em inglês 'silkworm'."
+  },
+  "tf36-03": {
+   "word": "wool",
+   "translit": null,
+   "example": "This wool sweater itches a little.",
+   "examplePt": "Este suéter de lã coça um pouquinho.",
+   "pron": "UÚL — 'oo' curto e firme, lábios arredondados",
+   "curiosity": "'Pull the wool over someone's eyes' é enganar alguém."
+  },
+  "tf36-04": {
+   "word": "leather",
+   "translit": null,
+   "example": "Real leather lasts for many years.",
+   "examplePt": "Couro de verdade dura muitos anos.",
+   "pron": "LÉ-der — 'ea' soa 'é'; o 'th' é um 'd' suave com a língua",
+   "curiosity": "Couro imitado se chama 'faux leather'."
+  },
+  "tf36-05": {
+   "word": "linen",
+   "translit": null,
+   "example": "We slept on crisp white linen.",
+   "examplePt": "Dormimos em linho branco e firme.",
+   "pron": "LÍ-nen — 'i' curto nas duas sílabas, força na 1ª",
+   "curiosity": "'Linen' também é roupa de cama: 'bed linen' são lençóis e fronhas."
+  },
+  "tf36-06": {
+   "word": "velvet",
+   "translit": null,
+   "example": "The curtains were made of red velvet.",
+   "examplePt": "As cortinas eram de veludo vermelho.",
+   "pron": "VÉL-vit — 'v' vibra os lábios e os dentes; 'e' aberto",
+   "curiosity": "'Smooth as velvet' elogia voz e sabor que são suaves."
+  },
+  "tf36-07": {
+   "word": "rubber",
+   "translit": null,
+   "example": "Which toy is made of rubber?",
+   "examplePt": "Qual brinquedo é feito de borracha?",
+   "pron": "RÂ-ber — 'u' soa 'â' fechado; o 'r' inicial é suave",
+   "curiosity": "No inglês britânico, 'rubber' também é a borracha de apagar; nos EUA, 'eraser'."
+  },
+  "tf36-08": {
+   "word": "glass",
+   "translit": null,
+   "example": "Careful, the glass window might break!",
+   "examplePt": "Cuidado, a janela de vidro pode quebrar!",
+   "pron": "GLÉS — 'a' aberto; o 'ss' final é um 's' forte",
+   "curiosity": "'Glass' também é copo; no plural, 'glasses' são os óculos."
+  },
+  "tf36-09": {
+   "word": "ceramic",
+   "translit": null,
+   "example": "She painted a ceramic bowl by hand.",
+   "examplePt": "Ela pintou uma tigela de cerâmica à mão.",
+   "pron": "si-RÉ-mik — 'c' inicial é 's'; força no 'ré'",
+   "curiosity": "'Ceramic' vem do grego 'keramos', que quer dizer 'argila'."
+  },
+  "tf36-10": {
+   "word": "steel",
+   "translit": null,
+   "example": "The bridge is built of steel.",
+   "examplePt": "A ponte é feita de aço.",
+   "pron": "STÍL — 'ee' longo; não ponha 'i' antes do 's'",
+   "curiosity": "O aço é ferro misturado com um pouco de carbono."
+  },
+  "tf37-01": {
+   "word": "savanna",
+   "translit": null,
+   "example": "Lions rest in the shade of the savanna.",
+   "examplePt": "Leões descansam na sombra da savana.",
+   "pron": "sa-VÉ-na — 'v' vibra; 'a' aberto, força no 'vé'",
+   "curiosity": "A savana é um mar de capim com poucas árvores espalhadas."
+  },
+  "tf37-02": {
+   "word": "tundra",
+   "translit": null,
+   "example": "Nothing tall grows on the tundra.",
+   "examplePt": "Nada alto cresce na tundra.",
+   "pron": "TÂN-dra — 'u' soa 'â'; 'dr' como 'dra'",
+   "curiosity": "Sob a superfície da tundra do Ártico, o solo fica congelado o ano todo."
+  },
+  "tf37-03": {
+   "word": "mangrove",
+   "translit": null,
+   "example": "Crabs hide among the mangrove roots.",
+   "examplePt": "Caranguejos se escondem entre as raízes do manguezal.",
+   "pron": "MÉN-grôuv — 'a' aberto; 'o' vira 'ôu' e 'v' vibra",
+   "curiosity": "Os manguezais crescem com as raízes dentro da água salgada."
+  },
+  "tf37-04": {
+   "word": "prairie",
+   "translit": null,
+   "example": "Do bison still live on the prairie?",
+   "examplePt": "Bisões ainda vivem na pradaria?",
+   "pron": "PRÉ-ri — 'ai' soa 'é'; o 'r' final é fraco",
+   "curiosity": "'Prairie' veio do francês, onde significa 'campo de capim'."
+  },
+  "tf37-05": {
+   "word": "oasis",
+   "translit": null,
+   "example": "After miles of sand, we found an oasis.",
+   "examplePt": "Depois de quilômetros de areia, achamos um oásis.",
+   "pron": "ôu-ÊI-sis — 'oa' vira 'ôu-êi'; força no 'êi'",
+   "curiosity": "O plural de 'oasis' é 'oases'."
+  },
+  "tf37-06": {
+   "word": "rainforest",
+   "translit": null,
+   "example": "The rainforest never gets really quiet.",
+   "examplePt": "A floresta tropical nunca fica realmente quieta.",
+   "pron": "RÊIN-fó-rest — 'ai' vira 'êi'; 'r' final suave",
+   "curiosity": "Uma grande parte das espécies do planeta vive nas florestas tropicais."
+  },
+  "tf37-07": {
+   "word": "coral reef",
+   "translit": null,
+   "example": "Colorful fish swim around the coral reef.",
+   "examplePt": "Peixes coloridos nadam em volta do recife de coral.",
+   "pron": "CÓ-rol RÍF — 'ee' é 'i' longo; 'f' final soprado",
+   "curiosity": "Os recifes de coral são construídos por pequenos animais, os pólipos."
+  },
+  "tf37-08": {
+   "word": "pond",
+   "translit": null,
+   "example": "Ducks landed on the quiet pond.",
+   "examplePt": "Patos pousaram na lagoa tranquila.",
+   "pron": "PÓND — 'o' aberto; 'nd' final leve",
+   "curiosity": "Uma 'pond' é menor que um 'lake', o lago."
+  },
+  "tf37-09": {
+   "word": "nest",
+   "translit": null,
+   "example": "Is there a nest in that tree?",
+   "examplePt": "Tem um ninho naquela árvore?",
+   "pron": "NÉST — 'e' aberto; o 'st' final sem 'i' extra",
+   "curiosity": "'Nest egg' é uma reserva de dinheiro guardada para o futuro."
+  },
+  "tf37-10": {
+   "word": "burrow",
+   "translit": null,
+   "example": "A rabbit disappeared into its burrow.",
+   "examplePt": "Um coelho sumiu dentro da própria toca.",
+   "pron": "BÂ-rôu — 'ur' soa 'âr' fraco; final em 'rôu'",
+   "curiosity": "'Burrow' também é verbo: cavar um túnel e se enfiar nele."
+  },
+  "tf38-01": {
+   "word": "microscope",
+   "translit": null,
+   "example": "Under the microscope, the drop was alive.",
+   "examplePt": "Sob o microscópio, a gota estava viva.",
+   "pron": "MAI-cro-scôup — 'mi' vira 'mai'; 'o' final vira 'ôu'",
+   "curiosity": "'Micro' é pequeno e 'scope' é ver: o aparelho para ver o pequeno."
+  },
+  "tf38-02": {
+   "word": "test tube",
+   "translit": null,
+   "example": "Please don't shake the test tube.",
+   "examplePt": "Por favor, não sacuda o tubo de ensaio.",
+   "pron": "TÉST-tiub — 'tu' soa 'tiu'; 'b' final leve",
+   "curiosity": "'Test-tube baby' é a expressão para bebê de proveta."
+  },
+  "tf38-03": {
+   "word": "funnel",
+   "translit": null,
+   "example": "Pour the juice through a funnel.",
+   "examplePt": "Despeje o suco por um funil.",
+   "pron": "FÂ-nel — 'u' soa 'â'; 'el' final bem fraco",
+   "curiosity": "'Funnel' também é a chaminé de um navio a vapor."
+  },
+  "tf38-04": {
+   "word": "atom",
+   "translit": null,
+   "example": "Is every atom too small to see?",
+   "examplePt": "Todo átomo é pequeno demais para ver?",
+   "pron": "Á-tom — 'a' aberto e o 't' vira 'd' rápido",
+   "curiosity": "'Atom' vem do grego 'átomos', que significa 'indivisível'."
+  },
+  "tf38-05": {
+   "word": "cell",
+   "translit": null,
+   "example": "Each cell in your body has a job.",
+   "examplePt": "Cada célula do corpo tem uma função.",
+   "pron": "SÉL — 'c' vira 's'; 'e' aberto",
+   "curiosity": "'Cell' também é cela de prisão e a metade de 'cell phone'."
+  },
+  "tf38-06": {
+   "word": "compass",
+   "translit": null,
+   "example": "The compass always points north.",
+   "examplePt": "A bússola sempre aponta para o norte.",
+   "pron": "CÂM-pes — 'o' soa 'â'; 'ss' final como 's'",
+   "curiosity": "Em inglês, 'compass' também é o compasso para desenhar círculos."
+  },
+  "tf38-07": {
+   "word": "magnifying glass",
+   "translit": null,
+   "example": "He studied the stamp with a magnifying glass.",
+   "examplePt": "Ele estudou o selo com uma lupa.",
+   "pron": "MÉG-ni-fai-in GLÉS — 'g' duro; 'y' vira 'ai'",
+   "curiosity": "'Magnify' quer dizer aumentar, por isso a lupa é um 'magnifying glass'."
+  },
+  "tf38-08": {
+   "word": "pipette",
+   "translit": null,
+   "example": "Add one drop with the pipette.",
+   "examplePt": "Pingue uma gota com a pipeta.",
+   "pron": "pai-PÉT — 'pi' vira 'pai'; 'e' final é pronunciado",
+   "curiosity": "Nos EUA, vale escrever 'pipette' ou 'pipet'."
+  },
+  "tf38-09": {
+   "word": "battery",
+   "translit": null,
+   "example": "My flashlight needs a fresh battery.",
+   "examplePt": "Minha lanterna precisa de uma pilha nova.",
+   "pron": "BÉ-te-ri — 'a' aberto; o 'tt' vira um 'd' rápido",
+   "curiosity": "'Battery' vale tanto para pilha pequena quanto para bateria de celular."
+  },
+  "tf38-10": {
+   "word": "prism",
+   "translit": null,
+   "example": "A prism splits white light into rainbow colors.",
+   "examplePt": "Um prisma separa a luz branca nas cores do arco-íris.",
+   "pron": "PRÍ-zem — 's' soa 'z'; 'm' final fecha os lábios",
+   "curiosity": "Em geometria, um 'prism' é um sólido com duas bases iguais, como uma caixa de cereal."
+  },
+  "tf39-01": {
+   "word": "generator",
+   "translit": null,
+   "example": "The hospital has a backup generator.",
+   "examplePt": "O hospital tem um gerador de reserva.",
+   "pron": "DJÉ-ne-rêi-ter — 'g' vira 'dj'; força no 1º",
+   "curiosity": "Hospitais têm geradores para continuar funcionando se faltar luz."
+  },
+  "tf39-02": {
+   "word": "wind turbine",
+   "translit": null,
+   "example": "Each wind turbine blade is longer than a bus.",
+   "examplePt": "Cada pá de turbina eólica é mais longa que um ônibus.",
+   "pron": "UÍND TÂR-bain — 'wind' com 'i' curto; 'tur' soa 'târ'",
+   "curiosity": "As pás das turbinas grandes têm dezenas de metros de comprimento."
+  },
+  "tf39-03": {
+   "word": "power plant",
+   "translit": null,
+   "example": "The power plant lights up the whole region.",
+   "examplePt": "A usina ilumina a região inteira.",
+   "pron": "PÁU-er PLÉNT — 'ow' soa 'áu'; 'a' aberto",
+   "curiosity": "'Plant' é planta, mas também fábrica ou usina."
+  },
+  "tf39-04": {
+   "word": "firewood",
+   "translit": null,
+   "example": "We gathered firewood before dark.",
+   "examplePt": "Juntamos lenha antes de escurecer.",
+   "pron": "FÁI-er-uúd — 'fire' vira 'fáier'; 'wood' tem 'u' curto",
+   "curiosity": "Lenha seca queima melhor que lenha verde."
+  },
+  "tf39-05": {
+   "word": "gas",
+   "translit": null,
+   "example": "Where is the nearest gas station?",
+   "examplePt": "Onde fica o posto de gasolina mais próximo?",
+   "pron": "GÉS — 'a' aberto; o 's' final soa como 's'",
+   "curiosity": "Nos EUA, 'gas' também é gasolina, de 'gasoline'."
+  },
+  "tf39-06": {
+   "word": "wire",
+   "translit": null,
+   "example": "A loose wire caused the short circuit.",
+   "examplePt": "Um fio solto causou o curto-circuito.",
+   "pron": "UÁI-er — 'wi' é 'uái'; o 're' final vira 'er'",
+   "curiosity": "'Wire' é fio de metal e também transferir dinheiro: 'wire money'."
+  },
+  "tf39-07": {
+   "word": "outlet",
+   "translit": null,
+   "example": "Is there an outlet near the sofa?",
+   "examplePt": "Tem uma tomada perto do sofá?",
+   "pron": "ÁUT-let — 'ou' soa 'áu'; o 't' final é leve",
+   "curiosity": "'Outlet' também é loja de fábrica com preços reduzidos."
+  },
+  "tf39-08": {
+   "word": "switch",
+   "translit": null,
+   "example": "Flip the switch and the lamp turns on.",
+   "examplePt": "Aperte o interruptor e a lâmpada acende.",
+   "pron": "SUÍTCH — 'sw' começa com 'u'; 'tch' como 'tch' de 'tchau'",
+   "curiosity": "'Switch' também é trocar: 'switch seats' = trocar de lugar."
+  },
+  "tf39-09": {
+   "word": "transformer",
+   "translit": null,
+   "example": "The transformer hummed beside the road.",
+   "examplePt": "O transformador zumbia ao lado da estrada.",
+   "pron": "trens-FÓR-mer — 'a' aberto no início; força no 'fór'",
+   "curiosity": "Um transformador aumenta ou diminui a tensão da eletricidade."
+  },
+  "tf39-10": {
+   "word": "dam",
+   "translit": null,
+   "example": "Beavers build a dam out of sticks.",
+   "examplePt": "Castores constroem uma represa com gravetos.",
+   "pron": "DÉM — 'a' aberto, fechando em 'm'",
+   "curiosity": "Os castores fazem diques com galhos para formar lagoas."
+  },
+  "tf40-01": {
+   "word": "bamboo",
+   "translit": null,
+   "example": "Pandas chew bamboo for hours.",
+   "examplePt": "Pandas mastigam bambu por horas.",
+   "pron": "bam-BÚ — força no 'bú'; 'oo' longo",
+   "curiosity": "O bambu é uma grama gigante e uma das plantas que mais crescem."
+  },
+  "tf40-02": {
+   "word": "fern",
+   "translit": null,
+   "example": "A fern grew beside the stream.",
+   "examplePt": "Uma samambaia cresceu ao lado do riacho.",
+   "pron": "FÂRN — 'er' soa 'âr'; sem 'e' final",
+   "curiosity": "As samambaias se reproduzem por esporos, sem flores nem sementes."
+  },
+  "tf40-03": {
+   "word": "moss",
+   "translit": null,
+   "example": "Soft moss covered the old stones.",
+   "examplePt": "Um musgo macio cobria as pedras velhas.",
+   "pron": "MÓS — 'o' aberto; 'ss' final forte",
+   "curiosity": "O provérbio 'A rolling stone gathers no moss' elogia quem não para."
+  },
+  "tf40-04": {
+   "word": "orchid",
+   "translit": null,
+   "example": "Is that orchid expensive to grow?",
+   "examplePt": "Essa orquídea é cara de cultivar?",
+   "pron": "Ó-quid — 'ch' soa 'k'; 'i' curto",
+   "curiosity": "A baunilha vem de uma orquídea."
+  },
+  "tf40-05": {
+   "word": "sunflower",
+   "translit": null,
+   "example": "The sunflower is taller than my brother.",
+   "examplePt": "O girassol é mais alto que meu irmão.",
+   "pron": "SÂN-flaua-er — 'sun' com 'â'; 'ower' é 'áuer'",
+   "curiosity": "Girassóis jovens viram o rosto para seguir o sol durante o dia."
+  },
+  "tf40-06": {
+   "word": "palm tree",
+   "translit": null,
+   "example": "A palm tree shaded the whole beach.",
+   "examplePt": "Uma palmeira deu sombra à praia inteira.",
+   "pron": "PÁM trí — 'l' é mudo, soa 'pãm'; 'ee' longo",
+   "curiosity": "'Palm' também é a palma da mão."
+  },
+  "tf40-07": {
+   "word": "petal",
+   "translit": null,
+   "example": "Each petal fell on the floor.",
+   "examplePt": "Cada pétala caiu no chão.",
+   "pron": "PÉ-rol — 'e' aberto; o 't' vira 'r' rápido nos EUA",
+   "curiosity": "No jogo 'She loves me, she loves me not' tiram-se pétalas uma a uma."
+  },
+  "tf40-08": {
+   "word": "thorn",
+   "translit": null,
+   "example": "Watch out for that thorn!",
+   "examplePt": "Cuidado com aquele espinho!",
+   "pron": "THÓRN — língua entre os dentes no 'th'; 'o' aberto",
+   "curiosity": "'A thorn in my side' é uma pedra no sapato, um incômodo constante."
+  },
+  "tf40-09": {
+   "word": "pine cone",
+   "translit": null,
+   "example": "Squirrels carry every pine cone home.",
+   "examplePt": "Esquilos levam cada pinha para casa.",
+   "pron": "PAIN CÔUN — 'pine' soa 'pain'; 'o' vira 'ôu'",
+   "curiosity": "As pinhas guardam as sementes do pinheiro."
+  },
+  "tf40-10": {
+   "word": "clover",
+   "translit": null,
+   "example": "Have you ever found a four-leaf clover?",
+   "examplePt": "Você já achou um trevo de quatro folhas?",
+   "pron": "CLÔU-ver — 'o' vira 'ôu'; 'v' vibra os lábios",
+   "curiosity": "O trevo de quatro folhas é símbolo de sorte e é raro de encontrar."
+  },
+  "tf41-01": {
+   "word": "spleen",
+   "translit": null,
+   "example": "The spleen helps filter your blood.",
+   "examplePt": "O baço ajuda a filtrar o seu sangue.",
+   "pron": "SPLÍN — 'ee' longo; 'spl' junto, sem 'i' antes",
+   "curiosity": "O baço faz parte do sistema de defesa do corpo."
+  },
+  "tf41-02": {
+   "word": "liver",
+   "translit": null,
+   "example": "Did the doctor check my liver?",
+   "examplePt": "O médico examinou meu fígado?",
+   "pron": "LÍ-ver — 'i' curto; 'v' vibra os lábios",
+   "curiosity": "O fígado é o maior órgão interno do corpo humano."
+  },
+  "tf41-03": {
+   "word": "kidney",
+   "translit": null,
+   "example": "You have two kidney organs, not one.",
+   "examplePt": "Você tem dois rins, não um só.",
+   "pron": "KÍD-ni — 'k' de 'kit'; 'ey' final vira 'i'",
+   "curiosity": "'Kidney bean' é o feijão-vermelho, assim chamado pelo formato de rim."
+  },
+  "tf41-04": {
+   "word": "stomach",
+   "translit": null,
+   "example": "My stomach growled during the test.",
+   "examplePt": "Meu estômago roncou durante a prova.",
+   "pron": "STÂ-mek — 'o' soa 'â'; 'ch' vira 'k'",
+   "curiosity": "'I can't stomach it' quer dizer 'não aguento isso'."
+  },
+  "tf41-05": {
+   "word": "pancreas",
+   "translit": null,
+   "example": "The pancreas makes insulin for the body.",
+   "examplePt": "O pâncreas produz insulina para o corpo.",
+   "pron": "PÉN-cri-as — 'a' aberto; 'cre' soa 'cri'",
+   "curiosity": "O pâncreas produz a insulina, que controla o açúcar no sangue."
+  },
+  "tf41-06": {
+   "word": "intestine",
+   "translit": null,
+   "example": "Food travels through the small intestine slowly.",
+   "examplePt": "A comida percorre o intestino delgado devagar.",
+   "pron": "in-TÉS-tin — força no 'tés'; 'ine' final é 'in' curto",
+   "curiosity": "O intestino delgado é 'small intestine' e o grosso é 'large intestine'."
+  },
+  "tf41-07": {
+   "word": "spine",
+   "translit": null,
+   "example": "Sit up straight to protect your spine.",
+   "examplePt": "Sente-se reto para proteger sua coluna.",
+   "pron": "SPAIN — 'i' vira 'ai'; 'e' final mudo",
+   "curiosity": "'Spine' também é a lombada de um livro."
+  },
+  "tf41-08": {
+   "word": "rib",
+   "translit": null,
+   "example": "Which rib protects the heart?",
+   "examplePt": "Qual costela protege o coração?",
+   "pron": "RÍB — 'i' curto; 'b' final leve",
+   "curiosity": "'Ribs' também são as costelinhas de churrasco."
+  },
+  "tf41-09": {
+   "word": "trachea",
+   "translit": null,
+   "example": "Air flows down the trachea into the lungs.",
+   "examplePt": "O ar desce pela traqueia até os pulmões.",
+   "pron": "TRÊI-ki-a — 'tra' vira 'trêi'; 'ch' soa 'k'",
+   "curiosity": "O apelido da traqueia em inglês é 'windpipe', o tubo do vento."
+  },
+  "tf41-10": {
+   "word": "bladder",
+   "translit": null,
+   "example": "The bladder can hold a lot of liquid.",
+   "examplePt": "A bexiga aguenta bastante líquido.",
+   "pron": "BLÉ-der — 'a' aberto; 'dd' vira 'd' rápido",
+   "curiosity": "'Bladder' também é a bexiga de borracha dentro de uma bola."
+  },
+  "tf42-01": {
+   "word": "vein",
+   "translit": null,
+   "example": "A vein carries blood back to the heart.",
+   "examplePt": "Uma veia leva o sangue de volta ao coração.",
+   "pron": "VÊIN — 'ei' soa 'êi'; 'v' vibra os lábios",
+   "curiosity": "'Vein', 'vain' e 'vane' soam iguais, mas têm significados diferentes."
+  },
+  "tf42-02": {
+   "word": "nerve",
+   "translit": null,
+   "example": "Which nerve sends signals to the brain?",
+   "examplePt": "Qual nervo envia sinais ao cérebro?",
+   "pron": "NÂRV — 'er' soa 'âr'; 'v' vibra",
+   "curiosity": "'You've got some nerve!' quer dizer 'que cara de pau!'."
+  },
+  "tf42-03": {
+   "word": "tendon",
+   "translit": null,
+   "example": "A tendon connects muscle to bone.",
+   "examplePt": "Um tendão liga o músculo ao osso.",
+   "pron": "TÉN-den — 'e' aberto; 'on' final fraco",
+   "curiosity": "O tendão liga músculo a osso, e o ligamento liga osso a osso."
+  },
+  "tf42-04": {
+   "word": "retina",
+   "translit": null,
+   "example": "The retina catches the light inside the eye.",
+   "examplePt": "A retina capta a luz dentro do olho.",
+   "pron": "RÉ-ti-na — 'e' aberto; 't' vira 'd' rápido",
+   "curiosity": "A imagem na retina fica de cabeça para baixo e o cérebro a vira."
+  },
+  "tf42-05": {
+   "word": "pupil",
+   "translit": null,
+   "example": "Your pupil grows bigger in the dark.",
+   "examplePt": "Sua pupila aumenta no escuro.",
+   "pron": "PIÚ-pol — 'pu' soa 'piu'; final fraco",
+   "curiosity": "'Pupil' também é aluno, a mesma palavra para o olho e para a escola."
+  },
+  "tf42-06": {
+   "word": "eardrum",
+   "translit": null,
+   "example": "Loud noise can hurt your eardrum.",
+   "examplePt": "Barulho alto pode machucar seu tímpano.",
+   "pron": "ÍR-drâm — 'ear' soa 'ír'; 'u' vira 'â'",
+   "curiosity": "'Eardrum' junta 'ear' (ouvido) e 'drum' (tambor)."
+  },
+  "tf42-07": {
+   "word": "cartilage",
+   "translit": null,
+   "example": "Your nose is made of cartilage.",
+   "examplePt": "Seu nariz é feito de cartilagem.",
+   "pron": "CÁR-ti-lidj — 'g' final soa 'dj'; força no 1º",
+   "curiosity": "O nariz e as orelhas têm cartilagem, que é mais flexível que o osso."
+  },
+  "tf42-08": {
+   "word": "esophagus",
+   "translit": null,
+   "example": "The esophagus carries food to the stomach.",
+   "examplePt": "O esôfago leva a comida até o estômago.",
+   "pron": "i-SÓ-fa-gus — 'e' inicial vira 'i'; 'ph' soa 'f'",
+   "curiosity": "No inglês britânico, escreve-se 'oesophagus'."
+  },
+  "tf42-09": {
+   "word": "marrow",
+   "translit": null,
+   "example": "Bone marrow makes new blood cells.",
+   "examplePt": "A medula óssea faz novas células do sangue.",
+   "pron": "MÉ-rôu — 'a' aberto; 'rr' é um 'r' suave",
+   "curiosity": "'Bone marrow' é medula óssea; a da coluna é 'spinal cord'."
+  },
+  "tf42-10": {
+   "word": "gland",
+   "translit": null,
+   "example": "Sweat comes from a tiny gland.",
+   "examplePt": "O suor vem de uma glândula minúscula.",
+   "pron": "GLÉND — 'a' aberto; 'nd' final leve",
+   "curiosity": "As glândulas sudoríparas espalhadas pela pele produzem o suor."
+  },
+  "tf43-01": {
+   "word": "gauze",
+   "translit": null,
+   "example": "The nurse wrapped my hand in gauze.",
+   "examplePt": "A enfermeira enrolou minha mão em gaze.",
+   "pron": "GÓZ — 'au' soa 'ó'; 'z' final vibrado",
+   "curiosity": "'Gauze' é incontável: 'a piece of gauze', nunca 'a gauze'."
+  },
+  "tf43-02": {
+   "word": "syringe",
+   "translit": null,
+   "example": "Do you need a syringe for that medicine?",
+   "examplePt": "Você precisa de uma seringa para esse remédio?",
+   "pron": "si-RÍNDJ — força no 'rínj'; 'ge' soa 'dj'",
+   "curiosity": "Seringas sem agulha servem para dar remédio a bebês e filhotes."
+  },
+  "tf43-03": {
+   "word": "splint",
+   "translit": null,
+   "example": "The doctor fixed my finger with a splint.",
+   "examplePt": "O médico firmou meu dedo com uma tala.",
+   "pron": "SPLÍNT — 'spl' junto; 'i' curto",
+   "curiosity": "Atletas usam talas para proteger dedos machucados."
+  },
+  "tf43-04": {
+   "word": "cast",
+   "translit": null,
+   "example": "I signed my friend's cast.",
+   "examplePt": "Eu assinei o gesso do meu amigo.",
+   "pron": "CÉST — 'a' aberto; o 'st' final seco",
+   "curiosity": "'Cast' é gesso, mas também elenco de um filme e o verbo 'lançar'."
+  },
+  "tf43-05": {
+   "word": "crutch",
+   "translit": null,
+   "example": "He leaned on a crutch for two weeks.",
+   "examplePt": "Ele se apoiou numa muleta por duas semanas.",
+   "pron": "CRÂTCH — 'u' soa 'â'; 'tch' como em 'tchau'",
+   "curiosity": "'Crutch' também é um apoio figurado: algo de que dependemos demais."
+  },
+  "tf43-06": {
+   "word": "stretcher",
+   "translit": null,
+   "example": "Two paramedics carried the stretcher quickly.",
+   "examplePt": "Dois paramédicos carregaram a maca rapidamente.",
+   "pron": "STRÉ-tcher — 'a' aberto; 'tch' como em 'tchau'",
+   "curiosity": "Nos EUA, a maca de ambulância com rodinhas também se chama 'gurney'."
+  },
+  "tf43-07": {
+   "word": "X-ray",
+   "translit": null,
+   "example": "Why did they take an X-ray?",
+   "examplePt": "Por que fizeram um raio-x?",
+   "pron": "ÉKS-rêi — diga a letra 'x' como 'éks'; 'ay' vira 'êi'",
+   "curiosity": "O 'X' do raio-x quer dizer 'desconhecido': ninguém sabia o que eram aqueles raios."
+  },
+  "tf43-08": {
+   "word": "IV drip",
+   "translit": null,
+   "example": "An IV drip gave her fluids and rest.",
+   "examplePt": "O soro lhe deu líquidos e descanso.",
+   "pron": "AI-VI DRÍP — as letras 'I' e 'V' soam 'ai-vi'",
+   "curiosity": "'IV' vem de 'intravenous', que significa 'dentro da veia'."
+  },
+  "tf43-09": {
+   "word": "wheelchair",
+   "translit": null,
+   "example": "The museum has ramps for every wheelchair.",
+   "examplePt": "O museu tem rampas para cada cadeira de rodas.",
+   "pron": "UÍL-tchér — 'wh' soa 'u'; 'ch' vira 'tch'",
+   "curiosity": "'Wheelchair accessible' é a placa de lugar acessível a cadeirantes."
+  },
+  "tf43-10": {
+   "word": "ointment",
+   "translit": null,
+   "example": "Spread a little ointment on the burn.",
+   "examplePt": "Passe um pouco de pomada na queimadura.",
+   "pron": "ÓIN-t-ment — 'oi' como em 'boi'; sem 'i' depois do 't'",
+   "curiosity": "Uma pomada é 'ointment'; um creme mais leve é 'cream'."
+  },
+  "tf44-01": {
+   "word": "shiver",
+   "translit": null,
+   "example": "A cold shiver ran down my back.",
+   "examplePt": "Um calafrio frio percorreu minha espinha.",
+   "pron": "XÍ-ver — 'sh' é 'x'; 'v' vibra os lábios",
+   "curiosity": "'Shivers down my spine' é o arrepio que se sente com medo ou emoção."
+  },
+  "tf44-02": {
+   "word": "a sneeze",
+   "translit": null,
+   "example": "Why do I sneeze near flowers?",
+   "examplePt": "Por que eu espirro perto de flores?",
+   "pron": "a SNÍIZ — 'sn' junto; 'ee' longo; 'z' final vibrado",
+   "curiosity": "'Not to be sneezed at' quer dizer 'nada mal, vale a pena'."
+  },
+  "tf44-03": {
+   "word": "hiccup",
+   "translit": null,
+   "example": "One hiccup turned into twenty.",
+   "examplePt": "Um soluço virou vinte.",
+   "pron": "RÍ-câp — sopre o 'h'; 'cc' soa 'k'; 'u' vira 'â'",
+   "curiosity": "'Hiccup' também se escreve 'hiccough', mas se fala do mesmo jeito."
+  },
+  "tf44-04": {
+   "word": "a yawn",
+   "translit": null,
+   "example": "Her yawn made everyone else yawn.",
+   "examplePt": "O bocejo dela fez todo mundo bocejar.",
+   "pron": "a IÓN — 'aw' soa 'ó'; começa com um 'i' rápido",
+   "curiosity": "O bocejo é contagioso: ver alguém bocejar dá vontade de bocejar também."
+  },
+  "tf44-05": {
+   "word": "cramp",
+   "translit": null,
+   "example": "A sudden cramp stopped the swimmer.",
+   "examplePt": "Uma cãibra repentina parou o nadador.",
+   "pron": "CRÉMP — 'a' aberto; 'mp' fecha os lábios",
+   "curiosity": "'Cramp my style' é atrapalhar o jeito de alguém."
+  },
+  "tf44-06": {
+   "word": "blister",
+   "translit": null,
+   "example": "New shoes gave me a blister.",
+   "examplePt": "Sapatos novos me deram uma bolha.",
+   "pron": "BLÍS-ter — 'i' curto; 'st' sem vogal no meio",
+   "curiosity": "'Blister pack' é a cartela de comprimidos, cheia de bolhas de plástico."
+  },
+  "tf44-07": {
+   "word": "bruise",
+   "translit": null,
+   "example": "Did you get that bruise playing soccer?",
+   "examplePt": "Você ganhou esse hematoma jogando futebol?",
+   "pron": "BRUZ — 'ui' soa 'u' longo; 's' vira 'z'",
+   "curiosity": "'Bruise' vale para frutas machucadas, como a maçã que caiu."
+  },
+  "tf44-08": {
+   "word": "scar",
+   "translit": null,
+   "example": "The scar on his knee tells a story.",
+   "examplePt": "A cicatriz no joelho dele conta uma história.",
+   "pron": "SCÁR — 'sc' é 'sk'; 'ar' longo",
+   "curiosity": "'Scarred for life' é ficar marcado para sempre por algo."
+  },
+  "tf44-09": {
+   "word": "migraine",
+   "translit": null,
+   "example": "A migraine made the light unbearable.",
+   "examplePt": "Uma enxaqueca deixou a luz insuportável.",
+   "pron": "MÁI-grêin — 'mi' vira 'mái'; 'aine' soa 'êin'",
+   "curiosity": "'Migraine' vem do grego 'hemikrania', que significa 'meia cabeça'."
+  },
+  "tf44-10": {
+   "word": "allergy",
+   "translit": null,
+   "example": "Is it a cold or an allergy?",
+   "examplePt": "É um resfriado ou uma alergia?",
+   "pron": "Á-ler-dji — 'g' soa 'dj'; força no 1º",
+   "curiosity": "Diz-se 'allergic to' (alérgico a), nunca 'allergic with'."
+  },
+  "tf45-01": {
+   "word": "bridge",
+   "translit": null,
+   "example": "The bridge sways gently in the wind.",
+   "examplePt": "A ponte balança de leve no vento.",
+   "pron": "BRÍDJ — 'dge' soa 'dj'; 'i' curto",
+   "curiosity": "'Bridge' também é um jogo de cartas e uma ponte dentária."
+  },
+  "tf45-02": {
+   "word": "tunnel",
+   "translit": null,
+   "example": "The train disappeared into the tunnel.",
+   "examplePt": "O trem sumiu dentro do túnel.",
+   "pron": "TÂ-nel — 'u' soa 'â'; 'el' final fraco",
+   "curiosity": "'The light at the end of the tunnel' é a esperança depois de um período difícil."
+  },
+  "tf45-03": {
+   "word": "traffic light",
+   "translit": null,
+   "example": "Wait for the traffic light to turn green.",
+   "examplePt": "Espere o semáforo ficar verde.",
+   "pron": "TRÉ-fic LAIT — 'a' aberto; 'igh' vira 'ai' e 'gh' é mudo",
+   "curiosity": "Nos EUA, o semáforo também é chamado de 'stoplight'."
+  },
+  "tf45-04": {
+   "word": "overpass",
+   "translit": null,
+   "example": "The overpass blocks the afternoon sun.",
+   "examplePt": "O viaduto bloqueia o sol da tarde.",
+   "pron": "Ô-ver-pés — 'o' vira 'ôu'; 'a' aberto no fim",
+   "curiosity": "'Overpass' é por cima e 'underpass' é por baixo, ambos de 'pass'."
+  },
+  "tf45-05": {
+   "word": "sidewalk",
+   "translit": null,
+   "example": "Never ride your bike on the sidewalk!",
+   "examplePt": "Nunca ande de bicicleta na calçada!",
+   "pron": "SAID-uók — 'i' vira 'ai'; 'al' soa 'ó'",
+   "curiosity": "Nos EUA é 'sidewalk' e, no Reino Unido, 'pavement'."
+  },
+  "tf45-06": {
+   "word": "sewer",
+   "translit": null,
+   "example": "Rats sometimes hide in the sewer.",
+   "examplePt": "Ratos às vezes se escondem no esgoto.",
+   "pron": "SU-er — 'ew' soa 'u' longo; força no 1º",
+   "curiosity": "Quem costura também é 'sewer', mas se fala 'SÔ-er'."
+  },
+  "tf45-07": {
+   "word": "lamppost",
+   "translit": null,
+   "example": "The lamppost flickered all night.",
+   "examplePt": "O poste piscou a noite toda.",
+   "pron": "LÉMP-pôust — 'a' aberto; 'o' vira 'ôu'",
+   "curiosity": "'Post' é poste, mas também correio e o verbo 'publicar'."
+  },
+  "tf45-08": {
+   "word": "highway",
+   "translit": null,
+   "example": "Which highway goes to the coast?",
+   "examplePt": "Qual rodovia vai para o litoral?",
+   "pron": "RAI-uêi — 'igh' soa 'ai'; sopre o 'h'",
+   "curiosity": "Nos EUA, 'highway' é qualquer estrada pública principal."
+  },
+  "tf45-09": {
+   "word": "roundabout",
+   "translit": null,
+   "example": "Turn right at the roundabout.",
+   "examplePt": "Vire à direita na rotatória.",
+   "pron": "RÁUND-a-báut — 'ou' vira 'áu' nas duas partes",
+   "curiosity": "'Roundabout' como adjetivo é 'indireto': 'a roundabout way'."
+  },
+  "tf45-10": {
+   "word": "storm drain",
+   "translit": null,
+   "example": "Leaves clogged the storm drain again.",
+   "examplePt": "As folhas entupiram o bueiro de novo.",
+   "pron": "STÓRM DRÊIN — 'a' vira 'êi'; 'dr' bem junto",
+   "curiosity": "'Drain' também é verbo: 'drain the pasta' é escorrer o macarrão."
+  },
+  "tf46-01": {
+   "word": "skyscraper",
+   "translit": null,
+   "example": "Which skyscraper is the tallest in town?",
+   "examplePt": "Qual arranha-céu é o mais alto da cidade?",
+   "pron": "SCAI-scrêi-per — 'sky' soa 'scai'; 'a' vira 'êi'",
+   "curiosity": "'Skyscraper' e 'arranha-céu' fazem a mesma imagem: algo que raspa o céu."
+  },
+  "tf46-02": {
+   "word": "lighthouse",
+   "translit": null,
+   "example": "The lighthouse guided ships through the fog.",
+   "examplePt": "O farol guiou os navios pela névoa.",
+   "pron": "LAIT-ráus — 'igh' soa 'ai'; 'ou' soa 'áu'",
+   "curiosity": "Quem cuida do farol é o 'lighthouse keeper'."
+  },
+  "tf46-03": {
+   "word": "castle",
+   "translit": null,
+   "example": "The castle sits above the little village.",
+   "examplePt": "O castelo fica acima do vilarejo.",
+   "pron": "CÉ-sol — o 't' é mudo; 'a' aberto",
+   "curiosity": "'Castles in the air' são castelos no ar, ou seja, sonhos distantes."
+  },
+  "tf46-04": {
+   "word": "windmill",
+   "translit": null,
+   "example": "An old windmill turned slowly all day.",
+   "examplePt": "Um velho moinho girava devagar o dia todo.",
+   "pron": "UÍND-mil — 'i' curto, 'ill' leve",
+   "curiosity": "'Tilting at windmills' é lutar contra inimigos imaginários, como Dom Quixote."
+  },
+  "tf46-05": {
+   "word": "aqueduct",
+   "translit": null,
+   "example": "Romans built an aqueduct across the valley.",
+   "examplePt": "Os romanos construíram um aqueduto pelo vale.",
+   "pron": "Á-kui-dâkt — 'qu' soa 'kui'; 'u' vira 'â'",
+   "curiosity": "'Aqueduct' vem do latim: 'aqua' (água) e 'ducere' (conduzir)."
+  },
+  "tf46-06": {
+   "word": "factory",
+   "translit": null,
+   "example": "The factory makes a thousand toys daily.",
+   "examplePt": "A fábrica faz mil brinquedos por dia.",
+   "pron": "FÉK-to-ri — 'a' aberto; 'ory' soa 'ori'",
+   "curiosity": "'Factory' vem do latim 'facere', fazer; é o lugar onde se faz."
+  },
+  "tf46-07": {
+   "word": "city wall",
+   "translit": null,
+   "example": "A tall city wall protected the old town.",
+   "examplePt": "Uma muralha alta protegia a cidade antiga.",
+   "pron": "SÍ-ti UÓL — 'c' vira 's'; 'wall' soa 'uól'",
+   "curiosity": "A Grande Muralha da China é a muralha mais famosa do mundo."
+  },
+  "tf46-08": {
+   "word": "harbor",
+   "translit": null,
+   "example": "Fishing boats return to the harbor at sunset.",
+   "examplePt": "Barcos de pesca voltam ao porto ao pôr do sol.",
+   "pron": "RÁR-ber — sopre o 'h'; 'ar' longo, 'r' fraco",
+   "curiosity": "Nos EUA escreve-se 'harbor', no Reino Unido 'harbour'."
+  },
+  "tf46-09": {
+   "word": "tower",
+   "translit": null,
+   "example": "Can you see the tower from here?",
+   "examplePt": "Você vê a torre daqui?",
+   "pron": "TÁU-er — 'ow' soa 'áu'; o 'er' é fraco",
+   "curiosity": "Em inglês, a peça de xadrez 'torre' não é 'tower', e sim 'rook'."
+  },
+  "tf46-10": {
+   "word": "barn",
+   "translit": null,
+   "example": "The cows slept in the red barn.",
+   "examplePt": "As vacas dormiram no celeiro vermelho.",
+   "pron": "BÁRN — 'ar' longo; 'n' final nasal leve",
+   "curiosity": "'Barn dance' é uma festa dançada no celeiro, bem country."
+  },
+  "tf47-01": {
+   "word": "pyramid",
+   "translit": null,
+   "example": "Is every pyramid built from stone blocks?",
+   "examplePt": "Toda pirâmide é feita de blocos de pedra?",
+   "pron": "PÍ-ra-mid — 'i' curto; força no 1º",
+   "curiosity": "As pirâmides do Egito serviam como tumbas para os faraós."
+  },
+  "tf47-02": {
+   "word": "mummy",
+   "translit": null,
+   "example": "The museum keeps a real mummy.",
+   "examplePt": "O museu guarda uma múmia de verdade.",
+   "pron": "MÂ-mi — 'u' soa 'â'; 'y' final vira 'i'",
+   "curiosity": "No inglês britânico, 'mummy' também é a mamãe, e nos EUA é 'mommy'."
+  },
+  "tf47-03": {
+   "word": "armor",
+   "translit": null,
+   "example": "The knight polished his shiny armor.",
+   "examplePt": "O cavaleiro poliu sua armadura brilhante.",
+   "pron": "ÁR-mer — 'ar' longo; 'or' final fraco",
+   "curiosity": "Nos EUA é 'armor' e no Reino Unido é 'armour'."
+  },
+  "tf47-04": {
+   "word": "parchment",
+   "translit": null,
+   "example": "The map was drawn on old parchment.",
+   "examplePt": "O mapa foi desenhado num pergaminho velho.",
+   "pron": "PÁRTCH-ment — 'ch' vira 'tch'; 'ar' longo",
+   "curiosity": "'Parchment paper' é o papel manteiga usado para assar."
+  },
+  "tf47-05": {
+   "word": "throne",
+   "translit": null,
+   "example": "The king sat quietly on his throne.",
+   "examplePt": "O rei sentou-se em silêncio no trono.",
+   "pron": "THRÔUN — 'th' com a língua entre os dentes; 'o' vira 'ôu'",
+   "curiosity": "'Throne' e 'thrown' (jogado) soam iguais, mas têm escritas diferentes."
+  },
+  "tf47-06": {
+   "word": "crown",
+   "translit": null,
+   "example": "Does the crown weigh more than gold?",
+   "examplePt": "A coroa pesa mais que o ouro?",
+   "pron": "CRÁUN — 'ow' soa 'áu'; 'n' final",
+   "curiosity": "'Crown' também é a coroa do dente, feita pelo dentista."
+  },
+  "tf47-07": {
+   "word": "treasure",
+   "translit": null,
+   "example": "They buried the treasure under the palm.",
+   "examplePt": "Eles enterraram o tesouro debaixo da palmeira.",
+   "pron": "TRÉ-jer — 'ea' soa 'é'; 'su' soa como o 'j' de 'já'",
+   "curiosity": "'Treasure' também é verbo: 'I treasure our time' = eu valorizo nosso tempo."
+  },
+  "tf47-08": {
+   "word": "amphora",
+   "translit": null,
+   "example": "An amphora once held wine or olive oil.",
+   "examplePt": "Uma ânfora já guardou vinho ou azeite.",
+   "pron": "ÉM-fo-ra — 'ph' soa 'f'; força no 1º",
+   "curiosity": "'Amphora' vem do grego e significa 'carregada pelos dois lados', por causa das duas alças."
+  },
+  "tf47-09": {
+   "word": "chariot",
+   "translit": null,
+   "example": "The chariot raced around the arena.",
+   "examplePt": "A carruagem de corrida contornou a arena.",
+   "pron": "TCHÉ-ri-ut — 'ch' vira 'tch'; 'a' aberto",
+   "curiosity": "'Chariot' é a carruagem antiga de corrida ou de guerra; a de passeio é 'carriage'."
+  },
+  "tf47-10": {
+   "word": "torch",
+   "translit": null,
+   "example": "Who will carry the torch up the hill?",
+   "examplePt": "Quem vai levar a tocha colina acima?",
+   "pron": "TÓRTCH — 'o' aberto; 'ch' vira 'tch'",
+   "curiosity": "No inglês britânico, 'torch' também é lanterna de mão."
+  },
+  "tf48-01": {
+   "word": "conductor",
+   "translit": null,
+   "example": "The conductor raised her arms and the music began.",
+   "examplePt": "A maestra ergueu os braços e a música começou.",
+   "pron": "cân-DÂK-ter — 'o' soa 'â'; força no 'dâk'",
+   "curiosity": "'Conductor' também é o cobrador do trem ou do ônibus, e o material que conduz eletricidade."
+  },
+  "tf48-02": {
+   "word": "sheet music",
+   "translit": null,
+   "example": "Is sheet music hard to read?",
+   "examplePt": "Ler partitura é difícil?",
+   "pron": "XÍT MIÚ-zic — 'sh' é 'x'; 'ee' longo",
+   "curiosity": "'Sheet music' é incontável: diz-se 'a piece of sheet music'."
+  },
+  "tf48-03": {
+   "word": "stage",
+   "translit": null,
+   "example": "Her heart raced before she walked on stage.",
+   "examplePt": "O coração dela disparou antes de entrar no palco.",
+   "pron": "STÊIDJ — 'a' vira 'êi'; 'ge' soa 'dj'",
+   "curiosity": "'Stage fright' é o medo de palco, e 'stage' também significa etapa."
+  },
+  "tf48-04": {
+   "word": "audience",
+   "translit": null,
+   "example": "The audience laughed before the joke ended.",
+   "examplePt": "A plateia riu antes de a piada terminar.",
+   "pron": "Ó-di-ens — 'au' soa 'ó'; 'ce' soa 's'",
+   "curiosity": "'Audience' é público, não 'audiência' de tribunal: cuidado com esse falso amigo!"
+  },
+  "tf48-05": {
+   "word": "microphone",
+   "translit": null,
+   "example": "Speak closer to the microphone, please.",
+   "examplePt": "Fale mais perto do microfone, por favor.",
+   "pron": "MAI-cro-fôun — 'mi' vira 'mai'; 'ph' soa 'f'",
+   "curiosity": "Todo mundo abrevia 'microphone' para 'mic', que se fala 'máic'."
+  },
+  "tf48-06": {
+   "word": "choir",
+   "translit": null,
+   "example": "The school choir sang in three languages.",
+   "examplePt": "O coro da escola cantou em três idiomas.",
+   "pron": "CUÁI-er — 'ch' vira 'k'; 'oi' soa 'uái'",
+   "curiosity": "'Preaching to the choir' é convencer quem já concorda com você."
+  },
+  "tf48-07": {
+   "word": "opera",
+   "translit": null,
+   "example": "Have you ever seen an opera live?",
+   "examplePt": "Você já viu uma ópera ao vivo?",
+   "pron": "Ó-pe-ra — 'o' aberto; força no 1º",
+   "curiosity": "'Opera' é o plural de 'opus', 'obra' em latim."
+  },
+  "tf48-08": {
+   "word": "baton",
+   "translit": null,
+   "example": "He tapped his baton twice on the stand.",
+   "examplePt": "Ele bateu a batuta duas vezes no suporte.",
+   "pron": "ba-TÓN — força no 'tón'; 'o' aberto",
+   "curiosity": "'Baton' também é o bastão que os corredores passam no revezamento."
+  },
+  "tf48-09": {
+   "word": "metronome",
+   "translit": null,
+   "example": "Practice slowly with the metronome.",
+   "examplePt": "Treine devagar com o metrônomo.",
+   "pron": "MÉ-tro-nôum — 'e' aberto; 'o' final vira 'ôu'",
+   "curiosity": "'Metronome' vem do grego: 'metron' (medida) e 'nomos' (lei)."
+  },
+  "tf48-10": {
+   "word": "dressing room",
+   "translit": null,
+   "example": "Flowers filled the singer's dressing room.",
+   "examplePt": "Flores enchiam o camarim da cantora.",
+   "pron": "DRÉ-sin RÚM — 'ss' é 's'; 'oo' longo",
+   "curiosity": "Em lojas, o provador de roupas é 'fitting room'."
+  },
+  "tf49-01": {
+   "word": "fencing",
+   "translit": null,
+   "example": "Fencing needs quick feet and a calm mind.",
+   "examplePt": "A esgrima exige pés rápidos e mente calma.",
+   "pron": "FÉN-sin — 'c' soa 's'; 'ing' é um 'in' nasal leve",
+   "curiosity": "'Fence' é cerca, e 'fencing' também é esgrima: duas palavras em uma."
+  },
+  "tf49-02": {
+   "word": "rowing",
+   "translit": null,
+   "example": "Rowing makes your arms really strong.",
+   "examplePt": "O remo deixa seus braços bem fortes.",
+   "pron": "RÔU-in — 'ow' soa 'ôu'; 'g' final quase mudo",
+   "curiosity": "'Row, row, row your boat' é uma cantiga infantil famosa."
+  },
+  "tf49-03": {
+   "word": "marathon",
+   "translit": null,
+   "example": "She trained a year for the marathon.",
+   "examplePt": "Ela treinou um ano para a maratona.",
+   "pron": "MÉ-ra-thón — 'a' aberto; 'th' com a língua entre os dentes",
+   "curiosity": "A maratona tem 42,195 quilômetros."
+  },
+  "tf49-04": {
+   "word": "pole vault",
+   "translit": null,
+   "example": "Does the pole vault need a long pole?",
+   "examplePt": "O salto com vara exige uma vara longa?",
+   "pron": "PÔUL VÓLT — 'o' vira 'ôu'; 'a' de 'vault' soa 'ó'",
+   "curiosity": "'Pole' também é polo: 'North Pole' é o Polo Norte."
+  },
+  "tf49-05": {
+   "word": "skating",
+   "translit": null,
+   "example": "Skating is easy once you stop worrying.",
+   "examplePt": "Patinar é fácil quando você para de se preocupar.",
+   "pron": "SQUÊI-tin — 'sk' é 'sc'; 'a' vira 'êi'",
+   "curiosity": "'Skating on thin ice' é fazer algo muito arriscado."
+  },
+  "tf49-06": {
+   "word": "surfing",
+   "translit": null,
+   "example": "Surfing begins with one calm wave.",
+   "examplePt": "O surfe começa com uma onda tranquila.",
+   "pron": "SÂR-fin — 'ur' soa 'âr'; 'ing' é 'in' nasal",
+   "curiosity": "'Surf' também é navegar: 'surf the web' é navegar na internet."
+  },
+  "tf49-07": {
+   "word": "archery",
+   "translit": null,
+   "example": "Archery teaches patience and a steady hand.",
+   "examplePt": "O arco e flecha ensina paciência e mão firme.",
+   "pron": "ÁR-tche-ri — 'ch' vira 'tch'; 'ar' longo",
+   "curiosity": "'Bow' (arco) rima com 'go' e 'bow' (reverência) rima com 'now'."
+  },
+  "tf49-08": {
+   "word": "gymnastics",
+   "translit": null,
+   "example": "Gymnastics looks like flying without wings.",
+   "examplePt": "A ginástica parece voar sem asas.",
+   "pron": "djim-NÉS-tics — 'g' vira 'dj'; 'a' aberto",
+   "curiosity": "'Gym' é a abreviação de 'gymnasium' ou 'gymnastics'."
+  },
+  "tf49-09": {
+   "word": "triathlon",
+   "translit": null,
+   "example": "Would you try a triathlon with me?",
+   "examplePt": "Você tentaria um triatlo comigo?",
+   "pron": "trai-Á-thlon — 'tri' soa 'trai'; 'th' com a língua entre os dentes",
+   "curiosity": "O triatlo junta natação, ciclismo e corrida; 'tri' quer dizer 'três'."
+  },
+  "tf49-10": {
+   "word": "diving",
+   "translit": null,
+   "example": "Diving needs courage and perfect timing.",
+   "examplePt": "O mergulho exige coragem e tempo perfeito.",
+   "pron": "DÁI-vin — 'i' vira 'ái'; 'v' vibra os lábios",
+   "curiosity": "'Scuba' é sigla de 'self-contained underwater breathing apparatus'."
+  },
+  "tf50-01": {
+   "word": "trophy",
+   "translit": null,
+   "example": "The winner lifted the shiny trophy.",
+   "examplePt": "O vencedor ergueu o troféu brilhante.",
+   "pron": "TRÔU-fi — 'o' vira 'ôu'; 'ph' soa 'f'",
+   "curiosity": "'Trophy' vem do grego 'tropaion', um monumento da vitória."
+  },
+  "tf50-02": {
+   "word": "medal",
+   "translit": null,
+   "example": "She wore the medal all day long.",
+   "examplePt": "Ela usou a medalha o dia todo.",
+   "pron": "MÉ-dol — 'e' aberto; o final é fraco",
+   "curiosity": "'Medal' e 'meddle' (se intrometer) soam parecidos, mas são diferentes."
+  },
+  "tf50-03": {
+   "word": "whistle",
+   "translit": null,
+   "example": "Why did the coach blow the whistle?",
+   "examplePt": "Por que o treinador soprou o apito?",
+   "pron": "UÍ-sol — 'wh' soa 'u'; o 't' é mudo",
+   "curiosity": "'Blow the whistle' é denunciar algo errado."
+  },
+  "tf50-04": {
+   "word": "stopwatch",
+   "translit": null,
+   "example": "My coach holds the stopwatch every morning.",
+   "examplePt": "Meu treinador segura o cronômetro toda manhã.",
+   "pron": "STÓP-uótch — 'o' aberto; 'tch' como em 'tchau'",
+   "curiosity": "'Stopwatch' junta 'stop' e 'watch', que também é relógio."
+  },
+  "tf50-05": {
+   "word": "podium",
+   "translit": null,
+   "example": "Three athletes stood on the podium.",
+   "examplePt": "Três atletas subiram no pódio.",
+   "pron": "PÔU-di-um — 'o' vira 'ôu'; força no 1º",
+   "curiosity": "'Pod-' quer dizer 'pé': 'podium', 'tripod' e 'podiatrist'."
+  },
+  "tf50-06": {
+   "word": "scoreboard",
+   "translit": null,
+   "example": "Look at the scoreboard, it's a tie!",
+   "examplePt": "Olha o placar, é um empate!",
+   "pron": "SCÓR-bórd — 'o' aberto; 'r' suave",
+   "curiosity": "'Score' também significa vinte, como em 'four score'."
+  },
+  "tf50-07": {
+   "word": "referee",
+   "translit": null,
+   "example": "The referee ignored the angry crowd.",
+   "examplePt": "O árbitro ignorou a torcida irritada.",
+   "pron": "ré-fe-RÍ — força no 'rí' final; 'ee' longo",
+   "curiosity": "Todo mundo chama o 'referee' de 'ref', abreviado."
+  },
+  "tf50-08": {
+   "word": "fans",
+   "translit": null,
+   "example": "Thousands of fans filled the stadium.",
+   "examplePt": "Milhares de torcedores lotaram o estádio.",
+   "pron": "FÉNS — 'a' aberto; 's' final como 'z'",
+   "curiosity": "'Fan' (torcedor) vem de 'fanatic'; já o ventilador tem outra origem."
+  },
+  "tf50-09": {
+   "word": "helmet",
+   "translit": null,
+   "example": "Always wear a helmet when you ride.",
+   "examplePt": "Sempre use capacete quando andar de bicicleta.",
+   "pron": "RÉL-mit — sopre o 'h'; 'e' aberto",
+   "curiosity": "'Helm' é o elmo antigo; 'helmet' é o 'elminho'."
+  },
+  "tf50-10": {
+   "word": "racket",
+   "translit": null,
+   "example": "Who broke my racket again?",
+   "examplePt": "Quem quebrou minha raquete de novo?",
+   "pron": "RÉ-quit — 'a' aberto; 'et' final vira 'it'",
+   "curiosity": "'Racket' também é barulheira, uma algazarra."
   }
  }
 }

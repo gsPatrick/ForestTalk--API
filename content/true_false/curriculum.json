@@ -1771,6 +1771,1193 @@
      "pt": "De repente"
     }
    ]
+  },
+  {
+   "phase": 31,
+   "globalPhase": 31,
+   "chapter": 4,
+   "level": "B1",
+   "theme": "Relevo e paisagens",
+   "concepts": [
+    {
+     "id": "tf31-01",
+     "emoji": "🏜️",
+     "pt": "duna"
+    },
+    {
+     "id": "tf31-02",
+     "emoji": "🏞️",
+     "pt": "vale"
+    },
+    {
+     "id": "tf31-03",
+     "emoji": "⛰️",
+     "pt": "planalto"
+    },
+    {
+     "id": "tf31-04",
+     "emoji": "🧗",
+     "pt": "penhasco"
+    },
+    {
+     "id": "tf31-05",
+     "emoji": "🧊",
+     "pt": "geleira"
+    },
+    {
+     "id": "tf31-06",
+     "emoji": "🗺️",
+     "pt": "península"
+    },
+    {
+     "id": "tf31-07",
+     "emoji": "🕳️",
+     "pt": "caverna"
+    },
+    {
+     "id": "tf31-08",
+     "emoji": "🏜️",
+     "pt": "cânion"
+    },
+    {
+     "id": "tf31-09",
+     "emoji": "⛰️",
+     "pt": "colina"
+    },
+    {
+     "id": "tf31-10",
+     "emoji": "🏝️",
+     "pt": "arquipélago"
+    }
+   ]
+  },
+  {
+   "phase": 32,
+   "globalPhase": 32,
+   "chapter": 4,
+   "level": "B1",
+   "theme": "Rios, lagos e mares",
+   "concepts": [
+    {
+     "id": "tf32-01",
+     "emoji": "💦",
+     "pt": "cachoeira"
+    },
+    {
+     "id": "tf32-02",
+     "emoji": "🏞️",
+     "pt": "lago"
+    },
+    {
+     "id": "tf32-03",
+     "emoji": "🌊",
+     "pt": "maré"
+    },
+    {
+     "id": "tf32-04",
+     "emoji": "🏄",
+     "pt": "onda"
+    },
+    {
+     "id": "tf32-05",
+     "emoji": "💧",
+     "pt": "nascente"
+    },
+    {
+     "id": "tf32-06",
+     "emoji": "🔱",
+     "pt": "delta"
+    },
+    {
+     "id": "tf32-07",
+     "emoji": "♨️",
+     "pt": "gêiser"
+    },
+    {
+     "id": "tf32-08",
+     "emoji": "🧊",
+     "pt": "iceberg"
+    },
+    {
+     "id": "tf32-09",
+     "emoji": "🌍",
+     "pt": "oceano"
+    },
+    {
+     "id": "tf32-10",
+     "emoji": "🐸",
+     "pt": "pântano"
+    }
+   ]
+  },
+  {
+   "phase": 33,
+   "globalPhase": 33,
+   "chapter": 4,
+   "level": "B1",
+   "theme": "Astronomia",
+   "concepts": [
+    {
+     "id": "tf33-01",
+     "emoji": "🪨",
+     "pt": "asteroide"
+    },
+    {
+     "id": "tf33-02",
+     "emoji": "🛰️",
+     "pt": "órbita"
+    },
+    {
+     "id": "tf33-03",
+     "emoji": "✨",
+     "pt": "constelação"
+    },
+    {
+     "id": "tf33-04",
+     "emoji": "🌠",
+     "pt": "meteoro"
+    },
+    {
+     "id": "tf33-05",
+     "emoji": "🌌",
+     "pt": "nebulosa"
+    },
+    {
+     "id": "tf33-06",
+     "emoji": "⚫",
+     "pt": "buraco negro"
+    },
+    {
+     "id": "tf33-07",
+     "emoji": "🌕",
+     "pt": "cratera"
+    },
+    {
+     "id": "tf33-08",
+     "emoji": "🍎",
+     "pt": "gravidade"
+    },
+    {
+     "id": "tf33-09",
+     "emoji": "🔭",
+     "pt": "observatório"
+    },
+    {
+     "id": "tf33-10",
+     "emoji": "💥",
+     "pt": "supernova"
+    }
+   ]
+  },
+  {
+   "phase": 34,
+   "globalPhase": 34,
+   "chapter": 4,
+   "level": "B1",
+   "theme": "Fenômenos do clima",
+   "concepts": [
+    {
+     "id": "tf34-01",
+     "emoji": "🌀",
+     "pt": "furacão"
+    },
+    {
+     "id": "tf34-02",
+     "emoji": "🌪️",
+     "pt": "tornado"
+    },
+    {
+     "id": "tf34-03",
+     "emoji": "❄️",
+     "pt": "geada"
+    },
+    {
+     "id": "tf34-04",
+     "emoji": "🧊",
+     "pt": "granizo"
+    },
+    {
+     "id": "tf34-05",
+     "emoji": "⚡",
+     "pt": "relâmpago"
+    },
+    {
+     "id": "tf34-06",
+     "emoji": "⛈️",
+     "pt": "tempestade"
+    },
+    {
+     "id": "tf34-07",
+     "emoji": "🏜️",
+     "pt": "seca"
+    },
+    {
+     "id": "tf34-08",
+     "emoji": "💧",
+     "pt": "orvalho"
+    },
+    {
+     "id": "tf34-09",
+     "emoji": "🌦️",
+     "pt": "garoa"
+    },
+    {
+     "id": "tf34-10",
+     "emoji": "🌀",
+     "pt": "ciclone"
+    }
+   ]
+  },
+  {
+   "phase": 35,
+   "globalPhase": 35,
+   "chapter": 4,
+   "level": "B1",
+   "theme": "Rochas e minerais",
+   "concepts": [
+    {
+     "id": "tf35-01",
+     "emoji": "🪨",
+     "pt": "granito"
+    },
+    {
+     "id": "tf35-02",
+     "emoji": "🏛️",
+     "pt": "mármore"
+    },
+    {
+     "id": "tf35-03",
+     "emoji": "💎",
+     "pt": "diamante"
+    },
+    {
+     "id": "tf35-04",
+     "emoji": "⚫",
+     "pt": "carvão"
+    },
+    {
+     "id": "tf35-05",
+     "emoji": "🥇",
+     "pt": "ouro"
+    },
+    {
+     "id": "tf35-06",
+     "emoji": "🟠",
+     "pt": "cobre"
+    },
+    {
+     "id": "tf35-07",
+     "emoji": "🧲",
+     "pt": "ferro"
+    },
+    {
+     "id": "tf35-08",
+     "emoji": "🔮",
+     "pt": "cristal"
+    },
+    {
+     "id": "tf35-09",
+     "emoji": "🏺",
+     "pt": "argila"
+    },
+    {
+     "id": "tf35-10",
+     "emoji": "🪨",
+     "pt": "calcário"
+    }
+   ]
+  },
+  {
+   "phase": 36,
+   "globalPhase": 36,
+   "chapter": 4,
+   "level": "B1",
+   "theme": "Materiais do cotidiano",
+   "concepts": [
+    {
+     "id": "tf36-01",
+     "emoji": "☁️",
+     "pt": "algodão"
+    },
+    {
+     "id": "tf36-02",
+     "emoji": "🧣",
+     "pt": "seda"
+    },
+    {
+     "id": "tf36-03",
+     "emoji": "🧶",
+     "pt": "lã"
+    },
+    {
+     "id": "tf36-04",
+     "emoji": "👜",
+     "pt": "couro"
+    },
+    {
+     "id": "tf36-05",
+     "emoji": "🌾",
+     "pt": "linho"
+    },
+    {
+     "id": "tf36-06",
+     "emoji": "🎀",
+     "pt": "veludo"
+    },
+    {
+     "id": "tf36-07",
+     "emoji": "🛞",
+     "pt": "borracha"
+    },
+    {
+     "id": "tf36-08",
+     "emoji": "🪟",
+     "pt": "vidro"
+    },
+    {
+     "id": "tf36-09",
+     "emoji": "🏺",
+     "pt": "cerâmica"
+    },
+    {
+     "id": "tf36-10",
+     "emoji": "🔩",
+     "pt": "aço"
+    }
+   ]
+  },
+  {
+   "phase": 37,
+   "globalPhase": 37,
+   "chapter": 4,
+   "level": "B1",
+   "theme": "Habitats e ecossistemas",
+   "concepts": [
+    {
+     "id": "tf37-01",
+     "emoji": "🦁",
+     "pt": "savana"
+    },
+    {
+     "id": "tf37-02",
+     "emoji": "🥶",
+     "pt": "tundra"
+    },
+    {
+     "id": "tf37-03",
+     "emoji": "🌳",
+     "pt": "manguezal"
+    },
+    {
+     "id": "tf37-04",
+     "emoji": "🌾",
+     "pt": "pradaria"
+    },
+    {
+     "id": "tf37-05",
+     "emoji": "🌴",
+     "pt": "oásis"
+    },
+    {
+     "id": "tf37-06",
+     "emoji": "🌴",
+     "pt": "floresta tropical"
+    },
+    {
+     "id": "tf37-07",
+     "emoji": "🪸",
+     "pt": "recife de coral"
+    },
+    {
+     "id": "tf37-08",
+     "emoji": "🦆",
+     "pt": "lagoa"
+    },
+    {
+     "id": "tf37-09",
+     "emoji": "🪹",
+     "pt": "ninho"
+    },
+    {
+     "id": "tf37-10",
+     "emoji": "🕳️",
+     "pt": "toca"
+    }
+   ]
+  },
+  {
+   "phase": 38,
+   "globalPhase": 38,
+   "chapter": 4,
+   "level": "B1",
+   "theme": "Laboratório de ciências",
+   "concepts": [
+    {
+     "id": "tf38-01",
+     "emoji": "🔬",
+     "pt": "microscópio"
+    },
+    {
+     "id": "tf38-02",
+     "emoji": "🧪",
+     "pt": "tubo de ensaio"
+    },
+    {
+     "id": "tf38-03",
+     "emoji": "⏳",
+     "pt": "funil"
+    },
+    {
+     "id": "tf38-04",
+     "emoji": "⚛️",
+     "pt": "átomo"
+    },
+    {
+     "id": "tf38-05",
+     "emoji": "🦠",
+     "pt": "célula"
+    },
+    {
+     "id": "tf38-06",
+     "emoji": "🧭",
+     "pt": "bússola"
+    },
+    {
+     "id": "tf38-07",
+     "emoji": "🔍",
+     "pt": "lupa"
+    },
+    {
+     "id": "tf38-08",
+     "emoji": "💉",
+     "pt": "pipeta"
+    },
+    {
+     "id": "tf38-09",
+     "emoji": "🔋",
+     "pt": "pilha"
+    },
+    {
+     "id": "tf38-10",
+     "emoji": "🔺",
+     "pt": "prisma"
+    }
+   ]
+  },
+  {
+   "phase": 39,
+   "globalPhase": 39,
+   "chapter": 4,
+   "level": "B1",
+   "theme": "Energia e eletricidade",
+   "concepts": [
+    {
+     "id": "tf39-01",
+     "emoji": "🔌",
+     "pt": "gerador"
+    },
+    {
+     "id": "tf39-02",
+     "emoji": "🌬️",
+     "pt": "turbina eólica"
+    },
+    {
+     "id": "tf39-03",
+     "emoji": "🏭",
+     "pt": "usina"
+    },
+    {
+     "id": "tf39-04",
+     "emoji": "🪵",
+     "pt": "lenha"
+    },
+    {
+     "id": "tf39-05",
+     "emoji": "🔥",
+     "pt": "gás"
+    },
+    {
+     "id": "tf39-06",
+     "emoji": "🧵",
+     "pt": "fio"
+    },
+    {
+     "id": "tf39-07",
+     "emoji": "🔌",
+     "pt": "tomada"
+    },
+    {
+     "id": "tf39-08",
+     "emoji": "💡",
+     "pt": "interruptor"
+    },
+    {
+     "id": "tf39-09",
+     "emoji": "⚡",
+     "pt": "transformador"
+    },
+    {
+     "id": "tf39-10",
+     "emoji": "🏗️",
+     "pt": "barragem"
+    }
+   ]
+  },
+  {
+   "phase": 40,
+   "globalPhase": 40,
+   "chapter": 4,
+   "level": "B1",
+   "theme": "Plantas e detalhes",
+   "concepts": [
+    {
+     "id": "tf40-01",
+     "emoji": "🎍",
+     "pt": "bambu"
+    },
+    {
+     "id": "tf40-02",
+     "emoji": "🌿",
+     "pt": "samambaia"
+    },
+    {
+     "id": "tf40-03",
+     "emoji": "🟢",
+     "pt": "musgo"
+    },
+    {
+     "id": "tf40-04",
+     "emoji": "🌸",
+     "pt": "orquídea"
+    },
+    {
+     "id": "tf40-05",
+     "emoji": "🌻",
+     "pt": "girassol"
+    },
+    {
+     "id": "tf40-06",
+     "emoji": "🌴",
+     "pt": "palmeira"
+    },
+    {
+     "id": "tf40-07",
+     "emoji": "🌺",
+     "pt": "pétala"
+    },
+    {
+     "id": "tf40-08",
+     "emoji": "🌹",
+     "pt": "espinho"
+    },
+    {
+     "id": "tf40-09",
+     "emoji": "🌲",
+     "pt": "pinha"
+    },
+    {
+     "id": "tf40-10",
+     "emoji": "🍀",
+     "pt": "trevo"
+    }
+   ]
+  },
+  {
+   "phase": 41,
+   "globalPhase": 41,
+   "chapter": 5,
+   "level": "B2",
+   "theme": "Órgãos do corpo",
+   "concepts": [
+    {
+     "id": "tf41-01",
+     "emoji": "🫀",
+     "pt": "baço"
+    },
+    {
+     "id": "tf41-02",
+     "emoji": "🫀",
+     "pt": "fígado"
+    },
+    {
+     "id": "tf41-03",
+     "emoji": "🫘",
+     "pt": "rim"
+    },
+    {
+     "id": "tf41-04",
+     "emoji": "🍽️",
+     "pt": "estômago"
+    },
+    {
+     "id": "tf41-05",
+     "emoji": "🫀",
+     "pt": "pâncreas"
+    },
+    {
+     "id": "tf41-06",
+     "emoji": "🌀",
+     "pt": "intestino"
+    },
+    {
+     "id": "tf41-07",
+     "emoji": "🦴",
+     "pt": "coluna"
+    },
+    {
+     "id": "tf41-08",
+     "emoji": "🦴",
+     "pt": "costela"
+    },
+    {
+     "id": "tf41-09",
+     "emoji": "🫁",
+     "pt": "traqueia"
+    },
+    {
+     "id": "tf41-10",
+     "emoji": "🚽",
+     "pt": "bexiga"
+    }
+   ]
+  },
+  {
+   "phase": 42,
+   "globalPhase": 42,
+   "chapter": 5,
+   "level": "B2",
+   "theme": "Dentro do corpo",
+   "concepts": [
+    {
+     "id": "tf42-01",
+     "emoji": "🩸",
+     "pt": "veia"
+    },
+    {
+     "id": "tf42-02",
+     "emoji": "⚡",
+     "pt": "nervo"
+    },
+    {
+     "id": "tf42-03",
+     "emoji": "🦵",
+     "pt": "tendão"
+    },
+    {
+     "id": "tf42-04",
+     "emoji": "👁️",
+     "pt": "retina"
+    },
+    {
+     "id": "tf42-05",
+     "emoji": "👁️",
+     "pt": "pupila"
+    },
+    {
+     "id": "tf42-06",
+     "emoji": "👂",
+     "pt": "tímpano"
+    },
+    {
+     "id": "tf42-07",
+     "emoji": "🦴",
+     "pt": "cartilagem"
+    },
+    {
+     "id": "tf42-08",
+     "emoji": "🧪",
+     "pt": "esôfago"
+    },
+    {
+     "id": "tf42-09",
+     "emoji": "🦴",
+     "pt": "medula"
+    },
+    {
+     "id": "tf42-10",
+     "emoji": "🧫",
+     "pt": "glândula"
+    }
+   ]
+  },
+  {
+   "phase": 43,
+   "globalPhase": 43,
+   "chapter": 5,
+   "level": "B2",
+   "theme": "Hospital e primeiros socorros",
+   "concepts": [
+    {
+     "id": "tf43-01",
+     "emoji": "🩹",
+     "pt": "gaze"
+    },
+    {
+     "id": "tf43-02",
+     "emoji": "💉",
+     "pt": "seringa"
+    },
+    {
+     "id": "tf43-03",
+     "emoji": "🦴",
+     "pt": "tala"
+    },
+    {
+     "id": "tf43-04",
+     "emoji": "🦴",
+     "pt": "gesso"
+    },
+    {
+     "id": "tf43-05",
+     "emoji": "🩼",
+     "pt": "muleta"
+    },
+    {
+     "id": "tf43-06",
+     "emoji": "🛏️",
+     "pt": "maca"
+    },
+    {
+     "id": "tf43-07",
+     "emoji": "🩻",
+     "pt": "raio-x"
+    },
+    {
+     "id": "tf43-08",
+     "emoji": "💧",
+     "pt": "soro"
+    },
+    {
+     "id": "tf43-09",
+     "emoji": "♿",
+     "pt": "cadeira de rodas"
+    },
+    {
+     "id": "tf43-10",
+     "emoji": "🧴",
+     "pt": "pomada"
+    }
+   ]
+  },
+  {
+   "phase": 44,
+   "globalPhase": 44,
+   "chapter": 5,
+   "level": "B2",
+   "theme": "Sintomas e pequenos males",
+   "concepts": [
+    {
+     "id": "tf44-01",
+     "emoji": "🥶",
+     "pt": "calafrio"
+    },
+    {
+     "id": "tf44-02",
+     "emoji": "🤧",
+     "pt": "espirro"
+    },
+    {
+     "id": "tf44-03",
+     "emoji": "😖",
+     "pt": "soluço"
+    },
+    {
+     "id": "tf44-04",
+     "emoji": "🥱",
+     "pt": "bocejo"
+    },
+    {
+     "id": "tf44-05",
+     "emoji": "🦵",
+     "pt": "cãibra"
+    },
+    {
+     "id": "tf44-06",
+     "emoji": "🫧",
+     "pt": "bolha"
+    },
+    {
+     "id": "tf44-07",
+     "emoji": "🟣",
+     "pt": "hematoma"
+    },
+    {
+     "id": "tf44-08",
+     "emoji": "🩹",
+     "pt": "cicatriz"
+    },
+    {
+     "id": "tf44-09",
+     "emoji": "🤕",
+     "pt": "enxaqueca"
+    },
+    {
+     "id": "tf44-10",
+     "emoji": "🤧",
+     "pt": "alergia"
+    }
+   ]
+  },
+  {
+   "phase": 45,
+   "globalPhase": 45,
+   "chapter": 5,
+   "level": "B2",
+   "theme": "Infraestrutura da cidade",
+   "concepts": [
+    {
+     "id": "tf45-01",
+     "emoji": "🌉",
+     "pt": "ponte"
+    },
+    {
+     "id": "tf45-02",
+     "emoji": "🚇",
+     "pt": "túnel"
+    },
+    {
+     "id": "tf45-03",
+     "emoji": "🚦",
+     "pt": "semáforo"
+    },
+    {
+     "id": "tf45-04",
+     "emoji": "🛣️",
+     "pt": "viaduto"
+    },
+    {
+     "id": "tf45-05",
+     "emoji": "🚶",
+     "pt": "calçada"
+    },
+    {
+     "id": "tf45-06",
+     "emoji": "🚰",
+     "pt": "esgoto"
+    },
+    {
+     "id": "tf45-07",
+     "emoji": "💡",
+     "pt": "poste"
+    },
+    {
+     "id": "tf45-08",
+     "emoji": "🛣️",
+     "pt": "rodovia"
+    },
+    {
+     "id": "tf45-09",
+     "emoji": "🔄",
+     "pt": "rotatória"
+    },
+    {
+     "id": "tf45-10",
+     "emoji": "🕳️",
+     "pt": "bueiro"
+    }
+   ]
+  },
+  {
+   "phase": 46,
+   "globalPhase": 46,
+   "chapter": 5,
+   "level": "B2",
+   "theme": "Construções e edifícios",
+   "concepts": [
+    {
+     "id": "tf46-01",
+     "emoji": "🏙️",
+     "pt": "arranha-céu"
+    },
+    {
+     "id": "tf46-02",
+     "emoji": "🗼",
+     "pt": "farol"
+    },
+    {
+     "id": "tf46-03",
+     "emoji": "🏰",
+     "pt": "castelo"
+    },
+    {
+     "id": "tf46-04",
+     "emoji": "🌾",
+     "pt": "moinho"
+    },
+    {
+     "id": "tf46-05",
+     "emoji": "🌉",
+     "pt": "aqueduto"
+    },
+    {
+     "id": "tf46-06",
+     "emoji": "🏭",
+     "pt": "fábrica"
+    },
+    {
+     "id": "tf46-07",
+     "emoji": "🧱",
+     "pt": "muralha"
+    },
+    {
+     "id": "tf46-08",
+     "emoji": "⚓",
+     "pt": "porto"
+    },
+    {
+     "id": "tf46-09",
+     "emoji": "🗼",
+     "pt": "torre"
+    },
+    {
+     "id": "tf46-10",
+     "emoji": "🌾",
+     "pt": "celeiro"
+    }
+   ]
+  },
+  {
+   "phase": 47,
+   "globalPhase": 47,
+   "chapter": 5,
+   "level": "B2",
+   "theme": "História e antiguidade",
+   "concepts": [
+    {
+     "id": "tf47-01",
+     "emoji": "🔺",
+     "pt": "pirâmide"
+    },
+    {
+     "id": "tf47-02",
+     "emoji": "🧟",
+     "pt": "múmia"
+    },
+    {
+     "id": "tf47-03",
+     "emoji": "🛡️",
+     "pt": "armadura"
+    },
+    {
+     "id": "tf47-04",
+     "emoji": "📜",
+     "pt": "pergaminho"
+    },
+    {
+     "id": "tf47-05",
+     "emoji": "🪑",
+     "pt": "trono"
+    },
+    {
+     "id": "tf47-06",
+     "emoji": "👑",
+     "pt": "coroa"
+    },
+    {
+     "id": "tf47-07",
+     "emoji": "💰",
+     "pt": "tesouro"
+    },
+    {
+     "id": "tf47-08",
+     "emoji": "🏺",
+     "pt": "ânfora"
+    },
+    {
+     "id": "tf47-09",
+     "emoji": "🐎",
+     "pt": "carruagem"
+    },
+    {
+     "id": "tf47-10",
+     "emoji": "🔥",
+     "pt": "tocha"
+    }
+   ]
+  },
+  {
+   "phase": 48,
+   "globalPhase": 48,
+   "chapter": 5,
+   "level": "B2",
+   "theme": "Música e palco",
+   "concepts": [
+    {
+     "id": "tf48-01",
+     "emoji": "🎼",
+     "pt": "maestro"
+    },
+    {
+     "id": "tf48-02",
+     "emoji": "🎶",
+     "pt": "partitura"
+    },
+    {
+     "id": "tf48-03",
+     "emoji": "🎭",
+     "pt": "palco"
+    },
+    {
+     "id": "tf48-04",
+     "emoji": "👏",
+     "pt": "plateia"
+    },
+    {
+     "id": "tf48-05",
+     "emoji": "🎤",
+     "pt": "microfone"
+    },
+    {
+     "id": "tf48-06",
+     "emoji": "🎶",
+     "pt": "coro"
+    },
+    {
+     "id": "tf48-07",
+     "emoji": "🎭",
+     "pt": "ópera"
+    },
+    {
+     "id": "tf48-08",
+     "emoji": "🪄",
+     "pt": "batuta"
+    },
+    {
+     "id": "tf48-09",
+     "emoji": "⏱️",
+     "pt": "metrônomo"
+    },
+    {
+     "id": "tf48-10",
+     "emoji": "💄",
+     "pt": "camarim"
+    }
+   ]
+  },
+  {
+   "phase": 49,
+   "globalPhase": 49,
+   "chapter": 5,
+   "level": "B2",
+   "theme": "Esportes olímpicos",
+   "concepts": [
+    {
+     "id": "tf49-01",
+     "emoji": "🤺",
+     "pt": "esgrima"
+    },
+    {
+     "id": "tf49-02",
+     "emoji": "🚣",
+     "pt": "remo"
+    },
+    {
+     "id": "tf49-03",
+     "emoji": "🏃",
+     "pt": "maratona"
+    },
+    {
+     "id": "tf49-04",
+     "emoji": "🏃",
+     "pt": "salto com vara"
+    },
+    {
+     "id": "tf49-05",
+     "emoji": "⛸️",
+     "pt": "patinação"
+    },
+    {
+     "id": "tf49-06",
+     "emoji": "🏄",
+     "pt": "surfe"
+    },
+    {
+     "id": "tf49-07",
+     "emoji": "🏹",
+     "pt": "arco e flecha"
+    },
+    {
+     "id": "tf49-08",
+     "emoji": "🤸",
+     "pt": "ginástica"
+    },
+    {
+     "id": "tf49-09",
+     "emoji": "🏊",
+     "pt": "triatlo"
+    },
+    {
+     "id": "tf49-10",
+     "emoji": "🤿",
+     "pt": "mergulho"
+    }
+   ]
+  },
+  {
+   "phase": 50,
+   "globalPhase": 50,
+   "chapter": 5,
+   "level": "B2",
+   "theme": "Competição e equipamento",
+   "concepts": [
+    {
+     "id": "tf50-01",
+     "emoji": "🏆",
+     "pt": "troféu"
+    },
+    {
+     "id": "tf50-02",
+     "emoji": "🥇",
+     "pt": "medalha"
+    },
+    {
+     "id": "tf50-03",
+     "emoji": "🔔",
+     "pt": "apito"
+    },
+    {
+     "id": "tf50-04",
+     "emoji": "⏱️",
+     "pt": "cronômetro"
+    },
+    {
+     "id": "tf50-05",
+     "emoji": "🥇",
+     "pt": "pódio"
+    },
+    {
+     "id": "tf50-06",
+     "emoji": "📊",
+     "pt": "placar"
+    },
+    {
+     "id": "tf50-07",
+     "emoji": "🧑‍⚖️",
+     "pt": "árbitro"
+    },
+    {
+     "id": "tf50-08",
+     "emoji": "📣",
+     "pt": "torcida"
+    },
+    {
+     "id": "tf50-09",
+     "emoji": "⛑️",
+     "pt": "capacete"
+    },
+    {
+     "id": "tf50-10",
+     "emoji": "🎾",
+     "pt": "raquete"
+    }
+   ]
   }
+ ],
+ "chapterTitles": [
+  "Natureza, Comida & Primeiros Contatos",
+  "Cores, Números & Cidade",
+  "Pessoas, Trabalho & Conversa",
+  "Terra, Céu & Ciência",
+  "Corpo, Cidade & Mundo"
  ]
 }

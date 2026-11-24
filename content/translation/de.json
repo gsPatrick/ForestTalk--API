@@ -1,0 +1,4007 @@
+{
+ "game": "translation",
+ "language": "de",
+ "version": 2,
+ "entries": {
+  "tr01-01": {
+   "word": "Wer?",
+   "translit": null,
+   "example": "Wer klopft an die Tür?",
+   "examplePt": "Quem bate na porta?",
+   "pron": "VÊR — o 'w' soa como 'v' e o 'r' final é bem fraco",
+   "curiosity": "'Wer', 'was', 'wo', 'wann', 'wie' e 'warum' começam todas com W: as palavras de pergunta."
+  },
+  "tr01-02": {
+   "word": "Wo?",
+   "translit": null,
+   "example": "Wo ist mein roter Ball?",
+   "examplePt": "Onde está minha bola vermelha?",
+   "pron": "VÔ — o 'w' soa como 'v' e o 'o' é longo e fechado",
+   "curiosity": "'Wo' pergunta por lugar parado; para movimento usa-se 'wohin'."
+  },
+  "tr01-03": {
+   "word": "Wann?",
+   "translit": null,
+   "example": "Wann beginnt der Film heute?",
+   "examplePt": "Quando começa o filme hoje?",
+   "pron": "VAN — o 'w' soa como 'v' e o 'nn' é um 'n' só",
+   "curiosity": "Não confunda 'wann' (quando) com 'wenn' (se, quando): são palavras diferentes."
+  },
+  "tr01-04": {
+   "word": "Warum?",
+   "translit": null,
+   "example": "Warum ist der Himmel blau?",
+   "examplePt": "Por que o céu é azul?",
+   "pron": "va-RUM — o 'w' soa como 'v' e o 'u' é curto",
+   "curiosity": "Para responder a 'Warum?' usa-se 'weil', que joga o verbo para o fim."
+  },
+  "tr01-05": {
+   "word": "Wie?",
+   "translit": null,
+   "example": "Wie heißt dein kleiner Hund?",
+   "examplePt": "Como se chama seu cachorrinho?",
+   "pron": "VI — o 'ie' é um 'i' longo e o 'w' soa como 'v'",
+   "curiosity": "'Wie' também compara: 'so groß wie ein Haus' (grande como uma casa)."
+  },
+  "tr01-06": {
+   "word": "Welche?",
+   "translit": null,
+   "example": "Welche Farbe magst du am liebsten?",
+   "examplePt": "Qual cor você mais gosta?",
+   "pron": "VÉL-che — o 'ch' é um sopro suave, sem som de 'k'",
+   "curiosity": "'Welche' muda conforme o gênero: welcher Tag, welche Farbe, welches Buch."
+  },
+  "tr01-07": {
+   "word": "Was?",
+   "translit": null,
+   "example": "Was isst du zum Frühstück?",
+   "examplePt": "O que você come no café da manhã?",
+   "pron": "VAS — o 'w' soa como 'v' e o 'a' é curto",
+   "curiosity": "Sozinho, 'Was?' soa seco; o jeito educado de pedir repetição é 'Wie bitte?'."
+  },
+  "tr01-08": {
+   "word": "Woher?",
+   "translit": null,
+   "example": "Woher kommt dieser Duft?",
+   "examplePt": "De onde vem esse cheiro?",
+   "pron": "vo-HÉR — o 'h' é só um sopro e o 'r' final é fraco",
+   "curiosity": "'Woher' = 'wo' + 'her': o 'her' mostra movimento em direção a quem fala."
+  },
+  "tr01-09": {
+   "word": "Wohin?",
+   "translit": null,
+   "example": "Wohin fährst du morgen früh?",
+   "examplePt": "Para onde você vai amanhã cedo?",
+   "pron": "vo-HÍN — o 'w' soa como 'v' e o 'h' é um sopro leve",
+   "curiosity": "'Hin' é movimento para longe de quem fala: wohin, dorthin, hinaus."
+  },
+  "tr01-10": {
+   "word": "Mit wem?",
+   "translit": null,
+   "example": "Mit wem gehst du ins Kino?",
+   "examplePt": "Com quem você vai ao cinema?",
+   "pron": "mit VÊM — o 'w' soa como 'v' e o 'i' de 'mit' é curto",
+   "curiosity": "'Wem' é o dativo de 'wer'; como 'mit' pede dativo, diz-se 'mit wem', nunca 'mit wer'."
+  },
+  "tr02-01": {
+   "word": "ich",
+   "translit": null,
+   "example": "Ich liebe Schokolade.",
+   "examplePt": "Eu amo chocolate.",
+   "pron": "IÇ — o 'ch' é um sopro suave, sem som de 'k' nem de 'x'",
+   "curiosity": "Em alemão 'ich' só leva maiúscula no começo da frase, diferente do 'I' inglês."
+  },
+  "tr02-02": {
+   "word": "du",
+   "translit": null,
+   "example": "Kommst du heute mit?",
+   "examplePt": "Você vem junto hoje?",
+   "pron": "DU — o 'u' é longo, como em 'tu'",
+   "curiosity": "'Du' é o 'você' informal, para amigos, família e crianças."
+  },
+  "tr02-03": {
+   "word": "er",
+   "translit": null,
+   "example": "Er spielt jeden Tag Fußball.",
+   "examplePt": "Ele joga futebol todo dia.",
+   "pron": "ÉR — o 'r' final é fraco, quase um 'a'",
+   "curiosity": "'Er' também vale para coisas masculinas: 'Der Tisch? Er ist rund.'"
+  },
+  "tr02-04": {
+   "word": "sie (ela)",
+   "translit": null,
+   "example": "Sie liest ein dickes Buch.",
+   "examplePt": "Ela lê um livro grosso.",
+   "pron": "ZI — o 's' inicial soa como 'z' e o 'ie' é um 'i' longo",
+   "curiosity": "Com 'S' maiúsculo no meio da frase, 'Sie' passa a ser o 'senhor/a senhora'."
+  },
+  "tr02-05": {
+   "word": "wir",
+   "translit": null,
+   "example": "Wir spielen heute im Park.",
+   "examplePt": "Nós brincamos hoje no parque.",
+   "pron": "VIR — o 'w' soa como 'v' e o 'r' final é suave",
+   "curiosity": "Com 'wir' e 'sie' (eles) o verbo fica igual ao infinitivo: wir gehen, sie gehen."
+  },
+  "tr02-06": {
+   "word": "sie (eles)",
+   "translit": null,
+   "example": "Sie wohnen neben dem Fluss.",
+   "examplePt": "Eles moram perto do rio.",
+   "pron": "ZI — o 's' inicial soa como 'z' e o 'ie' é um 'i' longo",
+   "curiosity": "'Sie' (ela) e 'sie' (eles) se escrevem igual; o verbo mostra a diferença: sie geht, sie gehen."
+  },
+  "tr02-07": {
+   "word": "das hier",
+   "translit": null,
+   "example": "Das hier ist mein Rucksack.",
+   "examplePt": "Isto aqui é minha mochila.",
+   "pron": "das HIR — 'das' tem 'a' curto; 'hier' tem 'i' longo",
+   "curiosity": "'Das' é neutro, mas serve para apontar qualquer coisa, de qualquer gênero."
+  },
+  "tr02-08": {
+   "word": "das dort",
+   "translit": null,
+   "example": "Das dort ist die Schule.",
+   "examplePt": "Aquilo lá é a escola.",
+   "pron": "das DORT — o 'o' é curto e o 'r' final é suave",
+   "curiosity": "'Dort' é longe de quem fala; 'hier' é perto de quem fala."
+  },
+  "tr02-09": {
+   "word": "hier",
+   "translit": null,
+   "example": "Hier ist es ruhig und schön.",
+   "examplePt": "Aqui é calmo e bonito.",
+   "pron": "HIR — o 'ie' é 'i' longo e o 'r' final é suave",
+   "curiosity": "'Hier' (aqui) e 'her' (para cá) não são iguais: 'Komm her!' = Venha cá!"
+  },
+  "tr02-10": {
+   "word": "dort",
+   "translit": null,
+   "example": "Dort steht ein altes Haus.",
+   "examplePt": "Lá há uma casa velha.",
+   "pron": "DORT — o 'o' é curto e o 'r' final é suave",
+   "curiosity": "Na fala, muita gente usa 'da' no lugar de 'dort'; 'da' vale por 'aqui' ou 'lá'."
+  },
+  "tr03-01": {
+   "word": "haben",
+   "translit": null,
+   "example": "Wir haben einen kleinen Garten.",
+   "examplePt": "Temos um jardim pequeno.",
+   "pron": "HÁ-ben — o 'h' é um sopro leve e o 'a' é longo",
+   "curiosity": "'Haben' também forma o passado da maioria dos verbos: ich habe gegessen."
+  },
+  "tr03-02": {
+   "word": "wollen",
+   "translit": null,
+   "example": "Wollen wir ein Eis kaufen?",
+   "examplePt": "Vamos comprar um sorvete?",
+   "pron": "VÓ-len — o 'w' soa como 'v' e o 'o' é curto",
+   "curiosity": "'Ich will' soa direto; 'ich möchte' é a forma gentil de pedir algo."
+  },
+  "tr03-03": {
+   "word": "können",
+   "translit": null,
+   "example": "Wir können heute draußen spielen.",
+   "examplePt": "Hoje podemos brincar lá fora.",
+   "pron": "KÖ-nen — 'ö': diga 'é' com os lábios arredondados como em 'ô'",
+   "curiosity": "Com 'können' o verbo principal vai para o fim: Ich kann schwimmen."
+  },
+  "tr03-04": {
+   "word": "brauchen",
+   "translit": null,
+   "example": "Heute brauche ich einen Schirm.",
+   "examplePt": "Preciso de um guarda-chuva.",
+   "pron": "BRAU-chen — 'au' soa 'áu' e o 'ch' é um 'h' rouco",
+   "curiosity": "'Das brauchst du nicht' quer dizer 'você não precisa disso'."
+  },
+  "tr03-05": {
+   "word": "wissen",
+   "translit": null,
+   "example": "Wir wissen die Antwort nicht.",
+   "examplePt": "Não sabemos a resposta.",
+   "pron": "VÍ-ssen — o 'w' soa como 'v' e o 'ss' é um 's' surdo",
+   "curiosity": "Para pessoas e lugares usa-se 'kennen'; 'wissen' é para saber fatos."
+  },
+  "tr03-06": {
+   "word": "mögen",
+   "translit": null,
+   "example": "Meine Eltern mögen laute Musik nicht.",
+   "examplePt": "Meus pais não gostam de música alta.",
+   "pron": "MÖ-guen — 'ö': 'é' com lábios em 'ô'; o 'g' é suave",
+   "curiosity": "'Mögen' dá origem a 'möchte' (gostaria de), muito usado ao pedir algo."
+  },
+  "tr03-07": {
+   "word": "machen",
+   "translit": null,
+   "example": "Was machen wir am Samstag?",
+   "examplePt": "O que fazemos no sábado?",
+   "pron": "MÁ-chen — o 'ch' depois de 'a' é um 'h' rouco",
+   "curiosity": "'Machen' é um coringa: Spaß machen, Pause machen, Hausaufgaben machen."
+  },
+  "tr03-08": {
+   "word": "hingehen",
+   "translit": null,
+   "example": "Gehst du auch hin?",
+   "examplePt": "Você também vai lá?",
+   "pron": "HIN-gê-en — o 'i' é curto e o 'h' de 'gehen' fica mudo",
+   "curiosity": "'Hingehen' é ir até um lugar; para ir embora diz-se 'weggehen'."
+  },
+  "tr03-09": {
+   "word": "kommen",
+   "translit": null,
+   "example": "Kommst du mit ins Schwimmbad?",
+   "examplePt": "Você vem junto à piscina?",
+   "pron": "KÓ-men — o 'o' é curto e o 'mm' é um 'm' só",
+   "curiosity": "Para ir junto diz-se 'mitkommen': Kommst du mit? (vem junto?)."
+  },
+  "tr03-10": {
+   "word": "geben",
+   "translit": null,
+   "example": "Ich gebe dem Hund einen Knochen.",
+   "examplePt": "Dou um osso ao cachorro.",
+   "pron": "GÊ-ben — o 'e' é longo e fechado; o 'g' é duro",
+   "curiosity": "'Es gibt' significa 'há, existe': Es gibt Kuchen!"
+  },
+  "tr04-01": {
+   "word": "essen",
+   "translit": null,
+   "example": "Was essen wir heute Abend?",
+   "examplePt": "O que comemos hoje à noite?",
+   "pron": "É-ssen — o 'e' é curto e o 'ss' é um 's' surdo",
+   "curiosity": "Para animais usa-se 'fressen'; 'essen' é só para pessoas."
+  },
+  "tr04-02": {
+   "word": "trinken",
+   "translit": null,
+   "example": "Die Katze trinkt Wasser aus dem Napf.",
+   "examplePt": "O gato bebe água da tigela.",
+   "pron": "TRIN-ken — o 'i' é curto e o 'r' é suave",
+   "curiosity": "O passado é irregular: trinken, trank, getrunken (bebeu, bebido)."
+  },
+  "tr04-03": {
+   "word": "kochen",
+   "translit": null,
+   "example": "Opa kocht heute eine große Suppe.",
+   "examplePt": "Vovô cozinha hoje uma sopa grande.",
+   "pron": "KÓ-chen — o 'ch' depois de 'o' é um 'h' rouco",
+   "curiosity": "De 'kochen' vem 'der Koch' (cozinheiro); 'die Köchin' é a cozinheira."
+  },
+  "tr04-04": {
+   "word": "schneiden",
+   "translit": null,
+   "example": "Sie schneidet die Tomaten in Scheiben.",
+   "examplePt": "Ela corta os tomates em fatias.",
+   "pron": "SCHNAI-den — 'sch' = 'ch' de 'chá'; 'ei' soa 'ai'",
+   "curiosity": "É um verbo forte: schneiden, schnitt, geschnitten (cortar, cortou, cortado)."
+  },
+  "tr04-05": {
+   "word": "mischen",
+   "translit": null,
+   "example": "Wir mischen Mehl und Eier.",
+   "examplePt": "Misturamos farinha e ovos.",
+   "pron": "MI-schen — 'sch' = 'ch' de 'chá'",
+   "curiosity": "Também serve para embaralhar cartas: Karten mischen."
+  },
+  "tr04-06": {
+   "word": "backen",
+   "translit": null,
+   "example": "Wir backen heute einen Apfelkuchen.",
+   "examplePt": "Hoje assamos uma torta de maçã.",
+   "pron": "BÁ-ken — o 'a' é curto e o 'ck' é um 'k' duro",
+   "curiosity": "De 'backen' vem 'der Bäcker' (padeiro), e o 'a' ganha trema."
+  },
+  "tr04-07": {
+   "word": "braten",
+   "translit": null,
+   "example": "Ich will ein Ei braten.",
+   "examplePt": "Quero fritar um ovo.",
+   "pron": "BRÁ-ten — o 'a' é longo e o 'r' é suave",
+   "curiosity": "'Braten' é fritar na frigideira; 'der Braten' é o assado de carne."
+  },
+  "tr04-08": {
+   "word": "einfrieren",
+   "translit": null,
+   "example": "Man kann Brot gut einfrieren.",
+   "examplePt": "Dá para congelar pão numa boa.",
+   "pron": "AIN-fri-ren — 'ei' soa 'ai' e 'ie' é um 'i' longo",
+   "curiosity": "Em sentido figurado, 'einfrieren' também é congelar contas, preços ou planos."
+  },
+  "tr04-09": {
+   "word": "aufkochen",
+   "translit": null,
+   "example": "Ich lasse die Milch kurz aufkochen.",
+   "examplePt": "Deixo o leite ferver rapidamente.",
+   "pron": "AUF-kó-chen — 'au' soa 'áu' e 'ch' é um 'h' rouco",
+   "curiosity": "'Aufkochen' é levar à fervura; muitas receitas pedem 'kurz aufkochen'."
+  },
+  "tr04-10": {
+   "word": "schälen",
+   "translit": null,
+   "example": "Kannst du die Kartoffeln schälen?",
+   "examplePt": "Você pode descascar as batatas?",
+   "pron": "SCHÊ-len — 'ä' soa como 'é' longo; 'sch' = 'ch' de 'chá'",
+   "curiosity": "'Die Schale' é a casca, e 'schälen' é tirar essa casca."
+  },
+  "tr05-01": {
+   "word": "öffnen",
+   "translit": null,
+   "example": "Bitte öffne das Fenster ein wenig.",
+   "examplePt": "Abra a janela um pouco, por favor.",
+   "pron": "ÖF-nen — 'ö' = 'é' com lábios em 'ô'; o 'ff' é um 'f' só",
+   "curiosity": "Nas lojas, 'Geöffnet' diz aberto e 'Geschlossen' diz fechado."
+  },
+  "tr05-02": {
+   "word": "schließen",
+   "translit": null,
+   "example": "Wir schließen die Tür leise.",
+   "examplePt": "Fechamos a porta em silêncio.",
+   "pron": "SCHLI-ssen — 'sch' = 'ch' de 'chá'; 'ie' é 'i' longo; 'ß' = 'ss'",
+   "curiosity": "'Der Schlüssel' (chave) vem de 'schließen': é o que fecha."
+  },
+  "tr05-03": {
+   "word": "sich setzen",
+   "translit": null,
+   "example": "Setz dich bitte neben mich!",
+   "examplePt": "Sente-se ao meu lado, por favor!",
+   "pron": "sich SÉ-tsen — o 'z' soa 'ts'; o 'ch' de 'sich' é suave",
+   "curiosity": "'Sitzen' é estar sentado; 'sich setzen' é o ato de sentar."
+  },
+  "tr05-04": {
+   "word": "anziehen",
+   "translit": null,
+   "example": "Ziehst du die Jacke an?",
+   "examplePt": "Você veste a jaqueta?",
+   "pron": "AN-tsi-en — o 'z' soa 'ts' e o 'ie' é 'i' longo",
+   "curiosity": "'Anziehen' é vestir, 'ausziehen' é tirar, e 'sich anziehen' é vestir-se."
+  },
+  "tr05-05": {
+   "word": "putzen",
+   "translit": null,
+   "example": "Wir putzen das Bad jeden Samstag.",
+   "examplePt": "Limpamos o banheiro todo sábado.",
+   "pron": "PU-tsen — o 'u' é curto e o 'tz' soa 'ts'",
+   "curiosity": "Serve para casa, dentes e sapatos: Zähne putzen, Schuhe putzen."
+  },
+  "tr05-06": {
+   "word": "fegen",
+   "translit": null,
+   "example": "Er fegt den Hof mit dem Besen.",
+   "examplePt": "Ele varre o pátio com a vassoura.",
+   "pron": "FÊ-guen — o 'e' é longo e fechado; o 'g' é duro",
+   "curiosity": "No sul se ouve mais 'kehren', como em 'Kehrwoche' (semana de varrer)."
+  },
+  "tr05-07": {
+   "word": "waschen",
+   "translit": null,
+   "example": "Ich wasche die Socken von Hand.",
+   "examplePt": "Lavo as meias à mão.",
+   "pron": "VÁ-schen — o 'w' soa 'v' e 'sch' = 'ch' de 'chá'",
+   "curiosity": "Na 2ª pessoa o 'a' ganha trema: ich wasche, du wäschst."
+  },
+  "tr05-08": {
+   "word": "trocknen",
+   "translit": null,
+   "example": "Die Wäsche trocknet in der Sonne.",
+   "examplePt": "A roupa seca ao sol.",
+   "pron": "TRÓK-nen — o 'o' é curto e o 'ck' é um 'k' duro",
+   "curiosity": "'Trocken' é seco; 'der Trockner' é a máquina de secar roupa."
+  },
+  "tr05-09": {
+   "word": "falten",
+   "translit": null,
+   "example": "Papa faltet die Handtücher ordentlich.",
+   "examplePt": "Papai dobra as toalhas direitinho.",
+   "pron": "FÁL-ten — o 'a' é curto e o 't' final é bem marcado",
+   "curiosity": "'Die Falte' é a dobra e também a ruga do rosto."
+  },
+  "tr05-10": {
+   "word": "aufhängen",
+   "translit": null,
+   "example": "Hängst du die Jacke bitte auf?",
+   "examplePt": "Você pendura a jaqueta, por favor?",
+   "pron": "AUF-hén-guen — 'au' soa 'áu' e 'ä' soa 'é' aberto",
+   "curiosity": "Verbo separável: 'Ich hänge die Jacke auf' — o 'auf' vai para o fim."
+  },
+  "tr06-01": {
+   "word": "spielen",
+   "translit": null,
+   "example": "Die Kinder spielen gern im Sand.",
+   "examplePt": "As crianças gostam de brincar na areia.",
+   "pron": "SCHPI-len — o 'sp' inicial soa 'schp' e 'ie' é 'i' longo",
+   "curiosity": "Serve para jogar, brincar e tocar instrumento: Gitarre spielen."
+  },
+  "tr06-02": {
+   "word": "singen",
+   "translit": null,
+   "example": "Wir singen laut im Auto.",
+   "examplePt": "Cantamos alto no carro.",
+   "pron": "SIN-guen — o 'ng' soa como em 'banco' e o 's' inicial soa 'z'",
+   "curiosity": "O passado é irregular: singen, sang, gesungen (cantou, cantado)."
+  },
+  "tr06-03": {
+   "word": "zeichnen",
+   "translit": null,
+   "example": "Sie zeichnet einen Drachen mit Bleistift.",
+   "examplePt": "Ela desenha um dragão a lápis.",
+   "pron": "TSAICH-nen — o 'z' soa 'ts' e 'ei' soa 'ai'",
+   "curiosity": "'Das Zeichen' (sinal) e 'zeichnen' (desenhar) têm a mesma raiz."
+  },
+  "tr06-04": {
+   "word": "malen",
+   "translit": null,
+   "example": "Er malt ein Bild von einem Berg.",
+   "examplePt": "Ele pinta um quadro de uma montanha.",
+   "pron": "MÁ-len — o 'a' é longo",
+   "curiosity": "Para pintar paredes se usa 'streichen'; 'malen' é de pintar quadros."
+  },
+  "tr06-05": {
+   "word": "fernsehen",
+   "translit": null,
+   "example": "Heute Abend will ich nur fernsehen.",
+   "examplePt": "Hoje à noite só quero ver TV.",
+   "pron": "FÉRN-zê-en — o 'e' é longo e o 's' soa 'z'",
+   "curiosity": "É 'ver de longe': 'fern' (longe) + 'sehen' (ver); 'der Fernseher' é a TV."
+  },
+  "tr06-06": {
+   "word": "spazieren gehen",
+   "translit": null,
+   "example": "Am Sonntag wollen wir spazieren gehen.",
+   "examplePt": "No domingo queremos passear.",
+   "pron": "schpa-TSI-ren GÊ-en — 'sp' soa 'schp' e 'z' soa 'ts'",
+   "curiosity": "O 'Spaziergang' dominical é um hábito querido de muitas famílias alemãs."
+  },
+  "tr06-07": {
+   "word": "reisen",
+   "translit": null,
+   "example": "Opa reist gern mit dem Zug.",
+   "examplePt": "Vovô gosta de viajar de trem.",
+   "pron": "RAI-zen — 'ei' soa 'ai' e o 's' soa 'z'",
+   "curiosity": "'Der Reisepass' é o passaporte e 'die Reise' é a viagem."
+  },
+  "tr06-08": {
+   "word": "lachen",
+   "translit": null,
+   "example": "Wir lachen laut über den Witz.",
+   "examplePt": "Rimos alto da piada.",
+   "pron": "LÁ-chen — o 'ch' depois de 'a' é um 'h' rouco",
+   "curiosity": "'Lachen ist gesund' (rir faz bem) é um ditado conhecido."
+  },
+  "tr06-09": {
+   "word": "weinen",
+   "translit": null,
+   "example": "Das Baby weint, es hat Hunger.",
+   "examplePt": "O bebê chora, está com fome.",
+   "pron": "VAI-nen — o 'w' soa 'v' e 'ei' soa 'ai'",
+   "curiosity": "'Weinen' (chorar) não tem relação com 'der Wein' (vinho)."
+  },
+  "tr06-10": {
+   "word": "umarmen",
+   "translit": null,
+   "example": "Ich umarme meine Oma ganz fest.",
+   "examplePt": "Abraço minha avó bem forte.",
+   "pron": "um-AR-men — o 'u' inicial é curto e o 'r' é suave",
+   "curiosity": "'Der Arm' é braço, e 'umarmen' é pôr os braços em volta."
+  },
+  "tr07-01": {
+   "word": "bringen",
+   "translit": null,
+   "example": "Bringst du mir ein Glas Wasser?",
+   "examplePt": "Você me traz um copo d'água?",
+   "pron": "BRIN-guen — o 'ng' soa como em 'banco'; o 'r' é suave",
+   "curiosity": "'Bringen' é levar ou trazer, conforme o ponto de vista: Bring mir das Buch!"
+  },
+  "tr07-02": {
+   "word": "mitnehmen",
+   "translit": null,
+   "example": "Ich will den Hund mitnehmen.",
+   "examplePt": "Quero levar o cachorro comigo.",
+   "pron": "MIT-nê-men — 'mit' tem 'i' curto; 'nehmen' tem 'e' longo",
+   "curiosity": "'Mit' (junto) + 'nehmen' (pegar): levar consigo, como 'Nimm einen Schirm mit!'."
+  },
+  "tr07-03": {
+   "word": "bekommen",
+   "translit": null,
+   "example": "Ich bekomme morgen ein Paket.",
+   "examplePt": "Recebo um pacote amanhã.",
+   "pron": "be-KÓ-men — o 'e' inicial é fraco e o 'mm' é um 'm' só",
+   "curiosity": "Falso amigo do inglês 'become': 'bekommen' é receber, não tornar-se!"
+  },
+  "tr07-04": {
+   "word": "schicken",
+   "translit": null,
+   "example": "Wir schicken Oma eine Postkarte.",
+   "examplePt": "Mandamos um cartão-postal para a vovó.",
+   "pron": "SCHI-ken — 'sch' = 'ch' de 'chá' e o 'i' é curto",
+   "curiosity": "'Schicken' e 'senden' são enviar; 'schicken' é o mais comum no dia a dia."
+  },
+  "tr07-05": {
+   "word": "leihen",
+   "translit": null,
+   "example": "Darf ich deinen Stift leihen?",
+   "examplePt": "Pode me emprestar sua caneta?",
+   "pron": "LAI-en — 'ei' soa 'ai' e o 'h' fica mudo",
+   "curiosity": "'Leihen' vale para emprestar e para pegar emprestado; o contexto decide."
+  },
+  "tr07-06": {
+   "word": "zurückgeben",
+   "translit": null,
+   "example": "Ich muss das Buch zurückgeben.",
+   "examplePt": "Preciso devolver o livro.",
+   "pron": "tsu-RÜK-gê-ben — 'z' soa 'ts'; 'ü' = 'i' com lábios em 'u'",
+   "curiosity": "'Zurück' (de volta) aparece em muitos verbos: zurückgeben, zurückkommen."
+  },
+  "tr07-07": {
+   "word": "suchen",
+   "translit": null,
+   "example": "Ich suche meine Brille überall.",
+   "examplePt": "Procuro meus óculos em todo lugar.",
+   "pron": "ZU-chen — o 's' soa 'z' e o 'ch' é um 'h' rouco",
+   "curiosity": "'Die Suche' é a busca, e 'Suchmaschine' é o buscador da internet."
+  },
+  "tr07-08": {
+   "word": "finden",
+   "translit": null,
+   "example": "Dort finden wir den Schatz!",
+   "examplePt": "Lá encontramos o tesouro!",
+   "pron": "FIN-den — o 'i' é curto e o 'f' é como em 'faca'",
+   "curiosity": "'Finden' também é opinar: 'Ich finde das gut' = acho bom."
+  },
+  "tr07-09": {
+   "word": "verlieren",
+   "translit": null,
+   "example": "Ich verliere oft meine Handschuhe.",
+   "examplePt": "Perco minhas luvas com frequência.",
+   "pron": "fer-LI-ren — o 'v' soa 'f' e 'ie' é um 'i' longo",
+   "curiosity": "O oposto de 'gewinnen' (ganhar): num jogo, 'verlieren' é perder."
+  },
+  "tr07-10": {
+   "word": "verstecken",
+   "translit": null,
+   "example": "Der Hund versteckt den Knochen im Garten.",
+   "examplePt": "O cachorro esconde o osso no jardim.",
+   "pron": "fer-SCHTÉ-ken — o 'v' soa 'f' e 'st' soa 'scht'",
+   "curiosity": "'Verstecken spielen' é brincar de esconde-esconde."
+  },
+  "tr08-01": {
+   "word": "anfangen",
+   "translit": null,
+   "example": "Wir wollen gleich anfangen.",
+   "examplePt": "Queremos começar já.",
+   "pron": "AN-fan-guen — o 'ng' soa como em 'banco'",
+   "curiosity": "'Anfangen' é mais coloquial que 'beginnen'; ambos significam começar."
+  },
+  "tr08-02": {
+   "word": "beenden",
+   "translit": null,
+   "example": "Wir wollen das Spiel beenden.",
+   "examplePt": "Queremos terminar o jogo.",
+   "pron": "be-EN-den — o 'ee' vira dois 'e' seguidos, com leve pausa",
+   "curiosity": "'Das Ende' é o fim, e 'beenden' é levar algo até o fim."
+  },
+  "tr08-03": {
+   "word": "anhalten",
+   "translit": null,
+   "example": "Bitte kurz anhalten, ich muss aussteigen.",
+   "examplePt": "Você pode parar um instante, por favor?",
+   "pron": "AN-hal-ten — o 'h' é um sopro leve e o 'a' é curto",
+   "curiosity": "'Anhalten' vale para parar o carro e para segurar o fôlego: den Atem anhalten."
+  },
+  "tr08-04": {
+   "word": "weitermachen",
+   "translit": null,
+   "example": "Nicht aufgeben, wir müssen weitermachen!",
+   "examplePt": "Não desista, temos de continuar!",
+   "pron": "VAI-ter-má-chen — 'w' soa 'v' e 'ei' soa 'ai'",
+   "curiosity": "'Weiter' é adiante: 'Mach weiter!' quer dizer 'continue!'."
+  },
+  "tr08-05": {
+   "word": "ankommen",
+   "translit": null,
+   "example": "Wann kommt der Zug an?",
+   "examplePt": "Quando chega o trem?",
+   "pron": "AN-kó-men — o 'a' é curto e o 'mm' é um 'm' só",
+   "curiosity": "'Die Ankunft' é a chegada; nas estações, 'Ankunft' fica ao lado de 'Abfahrt'."
+  },
+  "tr08-06": {
+   "word": "verlassen",
+   "translit": null,
+   "example": "Wir verlassen das Haus um acht.",
+   "examplePt": "Saímos de casa às oito.",
+   "pron": "fer-LÁ-ssen — o 'v' soa 'f' e o 'ss' é um 's' surdo",
+   "curiosity": "'Sich verlassen auf' é confiar em; 'verlassen' sozinho é deixar um lugar."
+  },
+  "tr08-07": {
+   "word": "zurückkehren",
+   "translit": null,
+   "example": "Sie will bald zurückkehren.",
+   "examplePt": "Ela quer voltar em breve.",
+   "pron": "tsu-RÜK-kê-ren — 'z' soa 'ts'; 'ü' = 'i' com lábios em 'u'",
+   "curiosity": "'Zurückkehren' é mais formal; no dia a dia diz-se 'zurückkommen'."
+  },
+  "tr08-08": {
+   "word": "eintreten",
+   "translit": null,
+   "example": "Die Gäste dürfen jetzt eintreten.",
+   "examplePt": "Os convidados já podem entrar.",
+   "pron": "AIN-trê-ten — 'ei' soa 'ai' e o 'e' de 'treten' é longo",
+   "curiosity": "'Der Eintritt' (entrada) aparece em avisos: 'Eintritt frei!' = entrada gratuita."
+  },
+  "tr08-09": {
+   "word": "wohnen",
+   "translit": null,
+   "example": "Wo wohnst du?",
+   "examplePt": "Onde você mora?",
+   "pron": "VÔ-nen — o 'w' soa 'v' e o 'h' só alonga o 'o'",
+   "curiosity": "'Wohnen' é morar e 'leben' é viver: 'Ich wohne in der Stadt'."
+  },
+  "tr08-10": {
+   "word": "besuchen",
+   "translit": null,
+   "example": "Am Wochenende besuchen wir die Oma.",
+   "examplePt": "No fim de semana visitamos a vovó.",
+   "pron": "be-ZU-chen — o 'u' é longo e o 's' soa 'z'",
+   "curiosity": "'Der Besuch' é a visita e também o visitante: 'Wir haben Besuch'."
+  },
+  "tr09-01": {
+   "word": "erlernen",
+   "translit": null,
+   "example": "Sie möchte Klavier erlernen.",
+   "examplePt": "Ela quer aprender piano.",
+   "pron": "er-LÉR-nen — o 'er' inicial é curto e o 'r' é suave",
+   "curiosity": "'Einen Beruf erlernen' é aprender uma profissão; 'erlernen' enfatiza dominar algo."
+  },
+  "tr09-02": {
+   "word": "beibringen",
+   "translit": null,
+   "example": "Kannst du mir das beibringen?",
+   "examplePt": "Você pode me ensinar isso?",
+   "pron": "BAI-brin-guen — 'ei' soa 'ai' e o 'ng' soa como em 'banco'",
+   "curiosity": "Verbo separável: 'Ich bringe dir das bei' = eu te ensino isso."
+  },
+  "tr09-03": {
+   "word": "arbeiten",
+   "translit": null,
+   "example": "Mama arbeitet heute im Garten.",
+   "examplePt": "Mamãe trabalha hoje no jardim.",
+   "pron": "AR-bai-ten — 'ei' soa 'ai' e o 'r' é suave",
+   "curiosity": "'Der Feierabend' é o fim do expediente, um momento muito valorizado."
+  },
+  "tr09-04": {
+   "word": "üben",
+   "translit": null,
+   "example": "Wir üben jeden Tag ein bisschen.",
+   "examplePt": "Praticamos um pouquinho todo dia.",
+   "pron": "Ü-ben — o 'ü' é um 'i' com lábios arredondados como em 'u'",
+   "curiosity": "'Übung macht den Meister' é um ditado: a prática faz o mestre."
+  },
+  "tr09-05": {
+   "word": "erklären",
+   "translit": null,
+   "example": "Der Lehrer erklärt die Regel noch einmal.",
+   "examplePt": "O professor explica a regra mais uma vez.",
+   "pron": "er-KLÊ-ren — o 'ä' soa 'é' longo e o 'r' é suave",
+   "curiosity": "'Erklären' vem de 'klar' (claro): é tornar algo claro."
+  },
+  "tr09-06": {
+   "word": "korrigieren",
+   "translit": null,
+   "example": "Ich korrigiere den Fehler im Text.",
+   "examplePt": "Corrijo o erro no texto.",
+   "pron": "ko-ri-GUI-ren — o 'ie' é 'i' longo e o 'g' é duro",
+   "curiosity": "Verbos em '-ieren' não levam 'ge-' no particípio: korrigiert."
+  },
+  "tr09-07": {
+   "word": "kopieren",
+   "translit": null,
+   "example": "Bitte die Seite zweimal kopieren.",
+   "examplePt": "Pode copiar a página?",
+   "pron": "ko-PI-ren — o 'ie' é um 'i' longo",
+   "curiosity": "'Kopieren' é o ctrl+C, e 'einfügen' é o ctrl+V em alemão."
+  },
+  "tr09-08": {
+   "word": "zeigen",
+   "translit": null,
+   "example": "Zeig mir bitte deine Zeichnung!",
+   "examplePt": "Mostre-me seu desenho, por favor!",
+   "pron": "TSAI-guen — 'z' soa 'ts' e 'ei' soa 'ai'",
+   "curiosity": "'Zeigen' (mostrar) e 'der Zeiger' (ponteiro do relógio) têm a mesma raiz."
+  },
+  "tr09-09": {
+   "word": "entscheiden",
+   "translit": null,
+   "example": "Wir müssen uns heute entscheiden.",
+   "examplePt": "Temos de nos decidir hoje.",
+   "pron": "ent-SCHAI-den — 'sch' = 'ch' de 'chá' e 'ei' soa 'ai'",
+   "curiosity": "É reflexivo: 'Ich habe mich entschieden' = decidi-me, resolvi."
+  },
+  "tr09-10": {
+   "word": "helfen",
+   "translit": null,
+   "example": "Ich helfe dir beim Umzug.",
+   "examplePt": "Ajudo você na mudança.",
+   "pron": "HÉL-fen — o 'e' é aberto e o 'h' é um sopro",
+   "curiosity": "'Helfen' pede dativo: 'Ich helfe dir', nunca 'dich'."
+  },
+  "tr10-01": {
+   "word": "atmen",
+   "translit": null,
+   "example": "Atme tief ein und wieder aus.",
+   "examplePt": "Inspire fundo e expire de novo.",
+   "pron": "Á-tmen — o 'a' é longo e o 'tm' sai junto, sem vogal no meio",
+   "curiosity": "'Der Atem' é o fôlego; 'Atem holen' quer dizer tomar fôlego."
+  },
+  "tr10-02": {
+   "word": "riechen",
+   "translit": null,
+   "example": "Der Kuchen riecht nach Zimt.",
+   "examplePt": "O bolo cheira a canela.",
+   "pron": "RI-chen — o 'ie' é 'i' longo e o 'ch' é suave",
+   "curiosity": "'Riechen' serve para cheirar e para ter cheiro: 'Das riecht gut!'."
+  },
+  "tr10-03": {
+   "word": "niesen",
+   "translit": null,
+   "example": "Ich muss gleich niesen!",
+   "examplePt": "Vou espirrar já!",
+   "pron": "NI-zen — o 'ie' é 'i' longo e o 's' soa 'z'",
+   "curiosity": "Quando alguém espirra, diz-se 'Gesundheit!' (saúde)."
+  },
+  "tr10-04": {
+   "word": "husten",
+   "translit": null,
+   "example": "Meine Schwester hustet seit gestern.",
+   "examplePt": "Minha irmã tosse desde ontem.",
+   "pron": "HUS-ten — o 'u' é curto e o 'h' é um sopro",
+   "curiosity": "'Der Hustensaft' é o xarope de tosse, palavra comum em farmácias."
+  },
+  "tr10-05": {
+   "word": "gähnen",
+   "translit": null,
+   "example": "Der Hund gähnt und streckt sich.",
+   "examplePt": "O cachorro boceja e se espreguiça.",
+   "pron": "GUÊ-nen — o 'ä' soa 'é' longo e o 'g' é duro",
+   "curiosity": "'Gähnende Leere' é uma expressão real para um vazio imenso."
+  },
+  "tr10-06": {
+   "word": "zwinkern",
+   "translit": null,
+   "example": "Sie zwinkert mir lustig zu.",
+   "examplePt": "Ela pisca para mim de brincadeira.",
+   "pron": "TSVIN-kern — 'z' soa 'ts' e 'w' soa 'v'",
+   "curiosity": "'Zwinkern' é piscar um olho de propósito; 'blinzeln' é o piscar normal."
+  },
+  "tr10-07": {
+   "word": "kauen",
+   "translit": null,
+   "example": "Kau das Brot gut und langsam.",
+   "examplePt": "Mastigue o pão bem e devagar.",
+   "pron": "KAU-en — o 'au' soa 'áu'",
+   "curiosity": "'Der Kaugummi' é a goma de mascar, literalmente 'goma de mastigar'."
+  },
+  "tr10-08": {
+   "word": "schlucken",
+   "translit": null,
+   "example": "Ich kann die Tablette nicht schlucken.",
+   "examplePt": "Não consigo engolir o comprimido.",
+   "pron": "SCHLU-ken — 'sch' = 'ch' de 'chá' e o 'u' é curto",
+   "curiosity": "'Eine bittere Pille schlucken' é engolir um sapo, expressão real."
+  },
+  "tr10-09": {
+   "word": "deuten",
+   "translit": null,
+   "example": "Der Junge deutet auf den Mond.",
+   "examplePt": "O menino aponta para a lua.",
+   "pron": "DÓI-ten — o 'eu' soa 'ói'",
+   "curiosity": "'Deuten' também é interpretar: 'einen Traum deuten' (interpretar um sonho)."
+  },
+  "tr10-10": {
+   "word": "klatschen",
+   "translit": null,
+   "example": "Alle klatschen nach dem Konzert.",
+   "examplePt": "Todos aplaudem depois do show.",
+   "pron": "KLÁ-tschen — o 'tsch' soa como 'tch' em 'tchau'",
+   "curiosity": "'Klatschen' é aplaudir e também fofocar: 'der Klatsch' é a fofoca."
+  },
+  "tr11-01": {
+   "word": "kaufen",
+   "translit": null,
+   "example": "Papa will ein neues Zelt kaufen.",
+   "examplePt": "Papai quer comprar uma barraca nova.",
+   "pron": "KAU-fen — o 'au' soa 'áu'",
+   "curiosity": "'Einkaufen' é fazer compras em geral; 'kaufen' é comprar algo específico."
+  },
+  "tr11-02": {
+   "word": "verkaufen",
+   "translit": null,
+   "example": "Sie verkauft ihre alten Spielsachen.",
+   "examplePt": "Ela vende seus brinquedos velhos.",
+   "pron": "fer-KAU-fen — o 'v' soa 'f' e o 'au' soa 'áu'",
+   "curiosity": "Em casas e carros se vê o aviso 'Zu verkaufen' (à venda)."
+  },
+  "tr11-03": {
+   "word": "bezahlen",
+   "translit": null,
+   "example": "Wer bezahlt heute das Essen?",
+   "examplePt": "Quem paga a comida hoje?",
+   "pron": "be-TSÁ-len — o 'z' soa 'ts' e o 'a' é longo",
+   "curiosity": "No restaurante, pede-se a conta com 'Zahlen, bitte!'."
+  },
+  "tr11-04": {
+   "word": "ausgeben",
+   "translit": null,
+   "example": "Ich will weniger Geld ausgeben.",
+   "examplePt": "Quero gastar menos dinheiro.",
+   "pron": "AUS-gê-ben — o 'au' soa 'áu' e o 'g' é duro",
+   "curiosity": "'Die Ausgabe' é o gasto e também a edição de uma revista."
+  },
+  "tr11-05": {
+   "word": "sparen",
+   "translit": null,
+   "example": "Wir sparen für eine Reise.",
+   "examplePt": "Economizamos para uma viagem.",
+   "pron": "SCHPÁ-ren — o 'sp' soa 'schp' e o 'a' é longo",
+   "curiosity": "'Sparen' vale também para economizar energia: 'Strom sparen'."
+  },
+  "tr11-06": {
+   "word": "umtauschen",
+   "translit": null,
+   "example": "Kann ich die Hose umtauschen?",
+   "examplePt": "Posso trocar a calça?",
+   "pron": "UM-tau-schen — 'au' soa 'áu' e 'sch' = 'ch' de 'chá'",
+   "curiosity": "Também se troca moeda: 'Geld umtauschen' nas casas de câmbio."
+  },
+  "tr11-07": {
+   "word": "anprobieren",
+   "translit": null,
+   "example": "Darf ich die Schuhe anprobieren?",
+   "examplePt": "Posso experimentar os sapatos?",
+   "pron": "AN-pro-bi-ren — o 'ie' é um 'i' longo",
+   "curiosity": "Para provar roupa há 'die Umkleidekabine', o provador."
+  },
+  "tr11-08": {
+   "word": "bestellen",
+   "translit": null,
+   "example": "Wir bestellen eine große Pizza.",
+   "examplePt": "Pedimos uma pizza grande.",
+   "pron": "be-SCHTÉ-len — o 'st' soa 'scht' e o 'e' é aberto",
+   "curiosity": "'Bestellen' vale para pedir comida e para encomendar online."
+  },
+  "tr11-09": {
+   "word": "reservieren",
+   "translit": null,
+   "example": "Ich reserviere zwei Plätze im Zug.",
+   "examplePt": "Reservo dois lugares no trem.",
+   "pron": "re-zer-VI-ren — o 's' soa 'z' e o 'v' soa 'v' (como em 'vaca')",
+   "curiosity": "Em restaurantes, mesas com o cartaz 'Reserviert' já têm dono."
+  },
+  "tr11-10": {
+   "word": "einpacken",
+   "translit": null,
+   "example": "Soll ich es als Geschenk einpacken?",
+   "examplePt": "Quer que eu embrulhe como presente?",
+   "pron": "AIN-pa-ken — 'ei' soa 'ai' e o 'ck' é um 'k' duro",
+   "curiosity": "Em casa, 'einpacken' é guardar na mochila: 'Pack deine Sachen ein!'."
+  },
+  "tr12-01": {
+   "word": "kennenlernen",
+   "translit": null,
+   "example": "Wir wollen unsere Nachbarn kennenlernen.",
+   "examplePt": "Queremos conhecer nossos vizinhos.",
+   "pron": "KÉ-nen-lêr-nen — o 'e' é curto e o 'r' é suave",
+   "curiosity": "'Freut mich, dich kennenzulernen!' é o clássico 'prazer em te conhecer'."
+  },
+  "tr12-02": {
+   "word": "einladen",
+   "translit": null,
+   "example": "Wir wollen alle Freunde einladen.",
+   "examplePt": "Queremos convidar todos os amigos.",
+   "pron": "AIN-la-den — 'ei' soa 'ai' e o 'a' é longo",
+   "curiosity": "'Die Einladung' é o convite; o verbo se separa: 'Ich lade dich ein'."
+  },
+  "tr12-03": {
+   "word": "begrüßen",
+   "translit": null,
+   "example": "Der Hund begrüßt jeden Gast fröhlich.",
+   "examplePt": "O cachorro cumprimenta cada convidado, alegre.",
+   "pron": "be-GRÜ-ssen — 'ü' = 'i' com lábios em 'u' e 'ß' = 'ss'",
+   "curiosity": "'Der Gruß' é a saudação e 'Viele Grüße' fecha muitos e-mails."
+  },
+  "tr12-04": {
+   "word": "sich bedanken",
+   "translit": null,
+   "example": "Ich bedanke mich herzlich bei allen.",
+   "examplePt": "Agradeço de coração a todos.",
+   "pron": "sich be-DÁN-ken — o 'ch' de 'sich' é um sopro suave",
+   "curiosity": "Usa-se 'bei': 'Ich bedanke mich bei dir' (agradeço a você)."
+  },
+  "tr12-05": {
+   "word": "versprechen",
+   "translit": null,
+   "example": "Ich verspreche dir, ich komme pünktlich.",
+   "examplePt": "Prometo a você que chego pontualmente.",
+   "pron": "fer-SCHPRÉ-chen — 'v' soa 'f'; 'sp' soa 'schp'",
+   "curiosity": "'Sich versprechen' também é errar ao falar, um 'Versprecher' (lapso)."
+  },
+  "tr12-06": {
+   "word": "zustimmen",
+   "translit": null,
+   "example": "Alle wollen dem Plan zustimmen.",
+   "examplePt": "Todos querem concordar com o plano.",
+   "pron": "TSU-schti-men — o 'z' soa 'ts' e o 'st' soa 'scht'",
+   "curiosity": "'Zustimmen' pede dativo: 'Ich stimme dir zu', nunca 'dich'."
+  },
+  "tr12-07": {
+   "word": "Bescheid sagen",
+   "translit": null,
+   "example": "Sag mir bitte Bescheid, wenn du kommst.",
+   "examplePt": "Me avise, por favor, quando você vier.",
+   "pron": "be-SCHAIT SÁ-guen — 'sch' = 'ch' de 'chá' e o 'd' final soa 't'",
+   "curiosity": "'Bescheid wissen' quer dizer estar a par de algo."
+  },
+  "tr12-08": {
+   "word": "vorstellen",
+   "translit": null,
+   "example": "Darf ich dir meinen Bruder vorstellen?",
+   "examplePt": "Posso te apresentar meu irmão?",
+   "pron": "FÔR-schté-len — o 'v' soa 'f' e o 'st' soa 'scht'",
+   "curiosity": "'Etwas vorstellen' também é imaginar; 'jemanden vorstellen' é apresentar."
+  },
+  "tr12-09": {
+   "word": "loben",
+   "translit": null,
+   "example": "Die Lehrerin lobt die ganze Klasse.",
+   "examplePt": "A professora elogia a turma toda.",
+   "pron": "LÔ-ben — o 'o' é longo e fechado",
+   "curiosity": "'Eigenlob stinkt' é um ditado: elogio em causa própria fede."
+  },
+  "tr12-10": {
+   "word": "überzeugen",
+   "translit": null,
+   "example": "Ich kann dich bestimmt überzeugen!",
+   "examplePt": "Com certeza consigo te convencer!",
+   "pron": "ü-ber-TSÓI-guen — 'ü' = 'i' com lábios em 'u'; 'eu' soa 'ói'",
+   "curiosity": "'Überzeugt' vira adjetivo: 'Ich bin überzeugt' = estou convencido."
+  },
+  "tr13-01": {
+   "word": "zelten",
+   "translit": null,
+   "example": "Im Sommer zelten wir am See.",
+   "examplePt": "No verão acampamos no lago.",
+   "pron": "TSÉL-ten — o 'z' soa 'ts' e o 'e' é aberto",
+   "curiosity": "'Das Zelt' é a barraca, então 'zelten' é ficar na barraca."
+  },
+  "tr13-02": {
+   "word": "angeln",
+   "translit": null,
+   "example": "Opa angelt am Fluss einen Fisch.",
+   "examplePt": "Vovô pesca um peixe no rio.",
+   "pron": "AN-geln — o 'ng' soa como em 'banco'",
+   "curiosity": "'Die Angel' é a vara de pescar; pescar em geral é 'fischen'."
+  },
+  "tr13-03": {
+   "word": "reiten",
+   "translit": null,
+   "example": "Sie reitet jeden Samstag auf dem Pony.",
+   "examplePt": "Ela monta no pônei todo sábado.",
+   "pron": "RAI-ten — o 'ei' soa 'ai'",
+   "curiosity": "'Reiten' é montar, e 'der Reiter' é o cavaleiro."
+  },
+  "tr13-04": {
+   "word": "Rollschuh laufen",
+   "translit": null,
+   "example": "Rollschuh laufen macht richtig Spaß!",
+   "examplePt": "Patinar é muito divertido!",
+   "pron": "ROL-schu LAU-fen — 'sch' = 'ch' de 'chá'; 'au' soa 'áu'",
+   "curiosity": "'Der Schuh' é sapato, então 'Rollschuh' é literalmente 'sapato com rodas'."
+  },
+  "tr13-05": {
+   "word": "tauchen",
+   "translit": null,
+   "example": "Die Kinder tauchen nach bunten Steinen.",
+   "examplePt": "As crianças mergulham atrás de pedras coloridas.",
+   "pron": "TAU-chen — o 'au' soa 'áu' e o 'ch' é um 'h' rouco",
+   "curiosity": "'Der Taucher' é o mergulhador, e 'die Taucherbrille' é a máscara."
+  },
+  "tr13-06": {
+   "word": "radeln",
+   "translit": null,
+   "example": "Wollen wir morgen zum See radeln?",
+   "examplePt": "Vamos pedalar até o lago amanhã?",
+   "pron": "RÁ-deln — o 'a' é longo",
+   "curiosity": "'Radeln' é a forma leve de 'Rad fahren'; 'das Rad' é roda ou bicicleta."
+  },
+  "tr13-07": {
+   "word": "fotografieren",
+   "translit": null,
+   "example": "Die Berge möchte ich unbedingt fotografieren.",
+   "examplePt": "Quero fotografar as montanhas.",
+   "pron": "fo-to-gra-FI-ren — o 'ie' é um 'i' longo",
+   "curiosity": "O 'Recht am eigenen Bild' protege, na Alemanha, o direito à própria imagem."
+  },
+  "tr13-08": {
+   "word": "sammeln",
+   "translit": null,
+   "example": "Er sammelt seit Jahren alte Münzen.",
+   "examplePt": "Ele coleciona moedas antigas há anos.",
+   "pron": "ZÁ-meln — o 's' soa 'z' e o 'mm' é um 'm' só",
+   "curiosity": "'Die Sammlung' é a coleção; 'Briefmarken sammeln' é um hobby clássico."
+  },
+  "tr13-09": {
+   "word": "pflanzen",
+   "translit": null,
+   "example": "Wir pflanzen einen kleinen Apfelbaum.",
+   "examplePt": "Plantamos uma macieira pequena.",
+   "pron": "PFLÁN-tsen — diga 'p' e 'f' quase juntos; 'z' soa 'ts'",
+   "curiosity": "'Pflanzen' (plantar) e 'die Pflanze' (planta) têm a mesma raiz."
+  },
+  "tr13-10": {
+   "word": "gießen",
+   "translit": null,
+   "example": "Vergiss nicht, die Blumen zu gießen.",
+   "examplePt": "Não esqueça de regar as flores.",
+   "pron": "GUI-ssen — o 'g' é duro, 'ie' é 'i' longo e 'ß' = 'ss'",
+   "curiosity": "'Gießen' é regar e também derramar ou fundir: 'Metall gießen'."
+  },
+  "tr14-01": {
+   "word": "bevorzugen",
+   "translit": null,
+   "example": "Ich bevorzuge Tee statt Kaffee.",
+   "examplePt": "Prefiro chá em vez de café.",
+   "pron": "be-FÔR-tsu-guen — o 'v' soa 'f' e o 'z' soa 'ts'",
+   "curiosity": "Também se diz 'lieber': 'Ich trinke lieber Tee' = prefiro tomar chá."
+  },
+  "tr14-02": {
+   "word": "sich ausmalen",
+   "translit": null,
+   "example": "Das kann ich mir kaum ausmalen.",
+   "examplePt": "Mal consigo imaginar isso.",
+   "pron": "sich AUS-má-len — o 'au' soa 'áu' e o 'ch' de 'sich' é suave",
+   "curiosity": "Literalmente 'pintar para si': imaginar algo com cores na cabeça."
+  },
+  "tr14-03": {
+   "word": "zweifeln",
+   "translit": null,
+   "example": "Ich zweifle nicht an dir.",
+   "examplePt": "Não duvido de você.",
+   "pron": "TSVAI-feln — 'z' soa 'ts', 'w' soa 'v' e 'ei' soa 'ai'",
+   "curiosity": "'Der Zweifel' (dúvida) tem 'zwei' (dois) na raiz: estar entre duas opções."
+  },
+  "tr14-04": {
+   "word": "glauben",
+   "translit": null,
+   "example": "Ich glaube dir jedes Wort.",
+   "examplePt": "Acredito em cada palavra sua.",
+   "pron": "GLAU-ben — o 'au' soa 'áu'",
+   "curiosity": "Com pessoas usa-se dativo: 'Ich glaube dir' (acredito em você)."
+  },
+  "tr14-05": {
+   "word": "lieben",
+   "translit": null,
+   "example": "Wir lieben Eis im Sommer!",
+   "examplePt": "Adoramos sorvete no verão!",
+   "pron": "LI-ben — o 'ie' é um 'i' longo",
+   "curiosity": "'Lieben' serve também para coisas: 'Ich liebe Eis!' é forte como 'adorar'."
+  },
+  "tr14-06": {
+   "word": "hassen",
+   "translit": null,
+   "example": "Er hasst frühes Aufstehen.",
+   "examplePt": "Ele detesta acordar cedo.",
+   "pron": "HÁ-ssen — o 'a' é curto e o 'ss' é um 's' surdo",
+   "curiosity": "'Hassen' é forte; para algo leve se diz 'nicht mögen'."
+  },
+  "tr14-07": {
+   "word": "fühlen",
+   "translit": null,
+   "example": "Wie fühlst du dich heute?",
+   "examplePt": "Como você se sente hoje?",
+   "pron": "FÜ-len — 'ü' = 'i' com lábios em 'u'; o 'h' só alonga",
+   "curiosity": "Reflexivo + adjetivo: 'Ich fühle mich gut' (me sinto bem)."
+  },
+  "tr14-08": {
+   "word": "bemerken",
+   "translit": null,
+   "example": "Hast du den Unterschied bemerkt?",
+   "examplePt": "Você notou a diferença?",
+   "pron": "be-MÉR-ken — o 'e' inicial é fraco e o 'r' é suave",
+   "curiosity": "'Bemerken' é notar, e 'merken' é guardar na memória: 'Merk dir das!'."
+  },
+  "tr14-09": {
+   "word": "verzeihen",
+   "translit": null,
+   "example": "Bitte verzeih mir den Fehler.",
+   "examplePt": "Por favor, me perdoe o erro.",
+   "pron": "fer-TSAI-en — o 'v' soa 'f' e o 'z' soa 'ts'",
+   "curiosity": "'Verzeihung!' também é um 'com licença' educado."
+  },
+  "tr14-10": {
+   "word": "überraschen",
+   "translit": null,
+   "example": "Wir wollen Mama überraschen!",
+   "examplePt": "Queremos surpreender a mamãe!",
+   "pron": "ü-ber-RÁ-schen — 'ü' = 'i' com lábios em 'u'",
+   "curiosity": "'Die Überraschung' é a surpresa, e 'Überraschung!' é o grito na festa."
+  },
+  "tr15-01": {
+   "word": "Einen Tisch für zwei",
+   "translit": null,
+   "example": "Guten Abend! Einen Tisch für zwei, bitte.",
+   "examplePt": "Boa noite! Uma mesa para dois, por favor.",
+   "pron": "AI-nen TISCH für TSVAI — 'ü' = 'i' com lábios em 'u'; 'z' = 'ts'",
+   "curiosity": "'Einen' (acusativo) aparece porque 'der Tisch' é masculino."
+  },
+  "tr15-02": {
+   "word": "Die Speisekarte, bitte",
+   "translit": null,
+   "example": "Die Speisekarte, bitte. Wir haben Hunger.",
+   "examplePt": "O cardápio, por favor. Estamos com fome.",
+   "pron": "di SCHPAI-ze-kar-te — 'sp' soa 'schp' e 'ei' soa 'ai'",
+   "curiosity": "Na Alemanha, 'das Menü' é uma refeição completa; o cardápio é 'die Speisekarte'."
+  },
+  "tr15-03": {
+   "word": "Was ist das Tagesgericht?",
+   "translit": null,
+   "example": "Das Tagesgericht ist heute Kürbissuppe, oder?",
+   "examplePt": "O prato do dia hoje é sopa de abóbora, certo?",
+   "pron": "vas ist das TÁ-ges-ge-richt — 'w' soa 'v'; 'g' duro",
+   "curiosity": "'Das Gericht' é o prato de comida; 'der Teller' é o prato de louça."
+  },
+  "tr15-04": {
+   "word": "Ohne Zwiebeln, bitte",
+   "translit": null,
+   "example": "Die Suppe bitte ohne Zwiebeln, danke.",
+   "examplePt": "A sopa, por favor, sem cebola, obrigado.",
+   "pron": "Ô-ne TSVI-beln — 'z' soa 'ts' e 'w' soa 'v'",
+   "curiosity": "'Ohne' (sem) e 'mit' (com) são dois pedidos úteis em qualquer cardápio."
+  },
+  "tr15-05": {
+   "word": "Es schmeckt köstlich!",
+   "translit": null,
+   "example": "Mmh, es schmeckt köstlich!",
+   "examplePt": "Mmh, está delicioso!",
+   "pron": "es SCHMÉKT KÖST-lich — 'sch' = 'ch' de 'chá'; 'ö' = 'é' com lábios em 'ô'",
+   "curiosity": "'Schmecken' pede dativo: 'Schmeckt es dir?' (está gostoso para você?)."
+  },
+  "tr15-06": {
+   "word": "Noch Wasser, bitte",
+   "translit": null,
+   "example": "Noch Wasser, bitte! Das Essen ist scharf.",
+   "examplePt": "Mais água, por favor! A comida está picante.",
+   "pron": "nokh VÁ-ser BI-te — 'w' soa 'v'; 'ch' de 'noch' é um 'h' rouco",
+   "curiosity": "'Stilles Wasser' é sem gás; 'Wasser mit Gas' ou 'Sprudel' é com gás."
+  },
+  "tr15-07": {
+   "word": "Ich bin Vegetarier",
+   "translit": null,
+   "example": "Ich bin Vegetarier, gibt es Gemüse?",
+   "examplePt": "Sou vegetariano, tem legumes?",
+   "pron": "iç bin ve-ge-TÁ-ri-er — o 'v' soa 'v' e o 'g' é duro",
+   "curiosity": "Para mulher se diz 'Ich bin Vegetarierin': o feminino ganha '-in'."
+  },
+  "tr15-08": {
+   "word": "Zum Mitnehmen, bitte",
+   "translit": null,
+   "example": "Einen Kaffee zum Mitnehmen, bitte.",
+   "examplePt": "Um café para viagem, por favor.",
+   "pron": "tsum MIT-nê-men BI-te — 'z' soa 'ts' e 'e' de 'nehmen' é longo",
+   "curiosity": "'Hier essen oder zum Mitnehmen?' é a pergunta típica de lanchonetes."
+  },
+  "tr15-09": {
+   "word": "Das Essen ist kalt",
+   "translit": null,
+   "example": "Entschuldigung, das Essen ist leider kalt.",
+   "examplePt": "Com licença, a comida infelizmente está fria.",
+   "pron": "das É-ssen ist KALT — o 'ss' é um 's' surdo e o 'a' de 'kalt' é curto",
+   "curiosity": "'Leider' (infelizmente) suaviza uma reclamação: 'Das ist leider kalt'."
+  },
+  "tr15-10": {
+   "word": "Ich möchte den Nachtisch",
+   "translit": null,
+   "example": "Zum Schluss: Ich möchte den Nachtisch mit Eis.",
+   "examplePt": "Quero a sobremesa com sorvete.",
+   "pron": "iç MÖÇ-te den NACH-tisch — 'ö' = 'é' com lábios em 'ô'; 'ch' suave",
+   "curiosity": "'Nachtisch' é 'depois da mesa'; outro nome é 'das Dessert'."
+  },
+  "tr16-01": {
+   "word": "Ich habe eine Reservierung",
+   "translit": null,
+   "example": "Guten Tag, ich habe eine Reservierung.",
+   "examplePt": "Bom dia, tenho uma reserva.",
+   "pron": "iç HÁ-be AI-ne re-zer-VI-rung — 'v' soa 'v' e o 's' soa 'z'",
+   "curiosity": "Na recepção ouve-se 'Auf welchen Namen?' (em que nome?) depois disso."
+  },
+  "tr16-02": {
+   "word": "Ein Zimmer für zwei Nächte",
+   "translit": null,
+   "example": "Wir suchen ein Zimmer für zwei Nächte.",
+   "examplePt": "Tem um quarto para duas noites?",
+   "pron": "ain TSI-mer für tsvai NÉ-çte — 'z' soa 'ts' e 'ä' soa 'é'",
+   "curiosity": "'Die Nacht' faz plural com trema: 'die Nächte'."
+  },
+  "tr16-03": {
+   "word": "Ich brauche ein Handtuch",
+   "translit": null,
+   "example": "Ich brauche ein Handtuch für die Dusche.",
+   "examplePt": "Preciso de uma toalha para o chuveiro.",
+   "pron": "iç BRAU-che ain HANT-tuch — 'au' soa 'áu'; 'ch' final é um 'h' rouco",
+   "curiosity": "'Das Handtuch' é 'pano de mão'; 'das Badetuch' é a toalha de banho."
+  },
+  "tr16-04": {
+   "word": "Die Dusche funktioniert nicht",
+   "translit": null,
+   "example": "Die Dusche funktioniert nicht, es kommt nichts.",
+   "examplePt": "O chuveiro não funciona, não sai nada.",
+   "pron": "di DU-she funk-tsio-NIRT niçt — 'sch' = 'ch' de 'chá'; 'z' soa 'ts'",
+   "curiosity": "'Kaputt' é a palavra coloquial para quebrado: 'Die Dusche ist kaputt'."
+  },
+  "tr16-05": {
+   "word": "Wie ist das WLAN-Passwort?",
+   "translit": null,
+   "example": "Wie ist das WLAN-Passwort, bitte?",
+   "examplePt": "Qual é a senha do wi-fi, por favor?",
+   "pron": "vi ist das VÊ-lan PAS-vort — 'w' soa 'v' e o 'ie' é um 'i' longo",
+   "curiosity": "'WLAN' é o termo alemão para wi-fi, e se lê 'vê-lan'."
+  },
+  "tr16-06": {
+   "word": "Gibt es Frühstück?",
+   "translit": null,
+   "example": "Gibt es Frühstück? Ab wann?",
+   "examplePt": "Tem café da manhã? A partir de quando?",
+   "pron": "guibt es FRÜ-schtük — 'ü' = 'i' com lábios em 'u'; 'st' soa 'scht'",
+   "curiosity": "O café da manhã alemão costuma ser farto: pães, frios, queijos e ovos."
+  },
+  "tr16-07": {
+   "word": "Den Schlüssel, bitte",
+   "translit": null,
+   "example": "Zimmer vier, den Schlüssel, bitte.",
+   "examplePt": "Quarto quatro, a chave, por favor.",
+   "pron": "den SCHLÜ-ssel BI-te — 'sch' = 'ch' de 'chá'; 'ü' = 'i' com lábios em 'u'",
+   "curiosity": "Em hotéis a chave costuma ser um cartão: 'die Schlüsselkarte'."
+  },
+  "tr16-08": {
+   "word": "Kann ich den Koffer hier lassen?",
+   "translit": null,
+   "example": "Kann ich den Koffer hier lassen? Danke!",
+   "examplePt": "Posso deixar a mala aqui? Obrigado!",
+   "pron": "kan iç den KÓ-fer hir LÁ-ssen — 'ch' suave; 'ss' é um 's' surdo",
+   "curiosity": "'Das Gepäck' é a bagagem; 'Gepäckaufbewahrung' é o guarda-volumes."
+  },
+  "tr16-09": {
+   "word": "Gibt es einen Aufzug?",
+   "translit": null,
+   "example": "Mein Koffer ist schwer. Gibt es einen Aufzug?",
+   "examplePt": "Tem elevador? Minha mala está pesada.",
+   "pron": "guibt es AI-nen AUF-tsug — 'au' soa 'áu' e 'z' soa 'ts'",
+   "curiosity": "Elevador é 'der Aufzug' ou 'der Lift'; 'Lift' é mais comum no sul e na Áustria."
+  },
+  "tr16-10": {
+   "word": "Können Sie mich um sieben wecken?",
+   "translit": null,
+   "example": "Können Sie mich um sieben wecken? Gern.",
+   "examplePt": "Pode me acordar às sete? Com prazer.",
+   "pron": "KÖ-nen zi miç um ZI-ben VÉ-ken — 'ö' = 'é' com lábios em 'ô'; 'w' soa 'v'",
+   "curiosity": "'Der Wecker' é o despertador, e vem de 'wecken' (acordar alguém)."
+  },
+  "tr17-01": {
+   "word": "Ja, hallo?",
+   "translit": null,
+   "example": "Ja, hallo? Ich höre dich schlecht.",
+   "examplePt": "Alô? Estou te ouvindo mal.",
+   "pron": "IÁ HÁ-lô — o 'j' soa como 'i'; o 'h' é um sopro leve",
+   "curiosity": "Ao atender, muita gente diz o próprio sobrenome em vez de 'Hallo'."
+  },
+  "tr17-02": {
+   "word": "Wer spricht da?",
+   "translit": null,
+   "example": "Wer spricht da? Die Leitung rauscht stark.",
+   "examplePt": "Quem fala? A linha está chiando muito.",
+   "pron": "vér SCHPRIÇT da — 'w' soa 'v'; 'sp' soa 'schp'",
+   "curiosity": "Do outro lado se responde 'Hier spricht...' (aqui fala...)."
+  },
+  "tr17-03": {
+   "word": "Einen Moment, bitte",
+   "translit": null,
+   "example": "Einen Moment, bitte, ich hole ihn.",
+   "examplePt": "Um momento, por favor, vou chamá-lo.",
+   "pron": "AI-nen mo-MENT BI-te — 'ei' soa 'ai' e o 'o' é fechado",
+   "curiosity": "'Der Moment' é masculino, por isso 'einen Moment' (acusativo)."
+  },
+  "tr17-04": {
+   "word": "Ich rufe später an",
+   "translit": null,
+   "example": "Ich rufe später an, okay?",
+   "examplePt": "Ligo mais tarde, tá?",
+   "pron": "iç RU-fe SCHPÊ-ter an — 'sp' soa 'schp' e 'ä' soa 'é' longo",
+   "curiosity": "'Anrufen' é separável: o 'an' vai para o fim da frase."
+  },
+  "tr17-05": {
+   "word": "Hinterlassen Sie eine Nachricht",
+   "translit": null,
+   "example": "Bitte hinterlassen Sie eine Nachricht nach dem Ton.",
+   "examplePt": "Deixe um recado após o sinal.",
+   "pron": "hin-ter-LÁ-ssen zi AI-ne NACH-richt — 'ch' final é um 'h' rouco",
+   "curiosity": "A caixa postal é 'der Anrufbeantworter' ou 'die Mailbox'."
+  },
+  "tr17-06": {
+   "word": "Falsche Nummer",
+   "translit": null,
+   "example": "Sie haben die falsche Nummer gewählt.",
+   "examplePt": "O senhor ligou para o número errado.",
+   "pron": "FAL-she NU-mer — 'sch' = 'ch' de 'chá' e o 'u' é curto",
+   "curiosity": "'Falsch verbunden' (conectado errado) também diz que você ligou errado."
+  },
+  "tr17-07": {
+   "word": "Die Leitung ist besetzt",
+   "translit": null,
+   "example": "Die Leitung ist besetzt, ich versuche es nochmal.",
+   "examplePt": "A linha está ocupada, tento de novo.",
+   "pron": "di LAI-tung ist be-ZÉTST — 'ei' soa 'ai'; 'tz' soa 'ts'",
+   "curiosity": "'Besetzt' (ocupado) vale para linha, banheiro e lugar: 'Der Platz ist besetzt'."
+  },
+  "tr17-08": {
+   "word": "Mein Akku ist leer",
+   "translit": null,
+   "example": "Mein Akku ist leer, ich lade ihn auf.",
+   "examplePt": "Estou sem bateria, vou carregá-lo.",
+   "pron": "main Á-ku ist LÊR — 'ei' soa 'ai' e o 'ee' é um 'e' longo",
+   "curiosity": "'Akku' é abreviação de 'Akkumulator'; 'leer' é vazio e 'voll' é cheio."
+  },
+  "tr17-09": {
+   "word": "Ich habe keinen Empfang",
+   "translit": null,
+   "example": "Im Tunnel habe ich keinen Empfang.",
+   "examplePt": "No túnel fico sem sinal.",
+   "pron": "iç HÁ-be KAI-nen em-PFANG — 'ei' soa 'ai' e o 'pf' é 'p' e 'f' juntos",
+   "curiosity": "'Der Empfang' é também a recepção de hotel; 'empfangen' é receber."
+  },
+  "tr17-10": {
+   "word": "Kannst du mich anrufen?",
+   "translit": null,
+   "example": "Bitte, kannst du mich anrufen, sobald du ankommst?",
+   "examplePt": "Pode me ligar quando você chegar?",
+   "pron": "kanst du miç AN-ru-fen — o 'ch' de 'mich' é um sopro suave",
+   "curiosity": "'Anrufen' pede acusativo: 'Ich rufe dich an', diferente de 'helfen' (dativo)."
+  },
+  "tr18-01": {
+   "word": "Gibt es eine größere Größe?",
+   "translit": null,
+   "example": "Die Jacke ist zu klein. Gibt es eine größere Größe?",
+   "examplePt": "A jaqueta está pequena. Tem um tamanho maior?",
+   "pron": "guibt es AI-ne GRÖ-se-re GRÖ-se — 'ö' = 'é' com lábios em 'ô'; 'ß' = 'ss'",
+   "curiosity": "'Groß' (grande), 'größer' (maior) e 'Größe' (tamanho) são da mesma família."
+  },
+  "tr18-02": {
+   "word": "Das ist zu teuer",
+   "translit": null,
+   "example": "Das ist zu teuer, ich suche etwas Billigeres.",
+   "examplePt": "É caro demais, procuro algo mais barato.",
+   "pron": "das ist tsu TÓI-er — 'z' soa 'ts' e 'eu' soa 'ói'",
+   "curiosity": "'Teuer' perde o 'e' ao flexionar: 'ein teures Auto', não 'teuere'."
+  },
+  "tr18-03": {
+   "word": "Gibt es Rabatt?",
+   "translit": null,
+   "example": "Ich nehme zwei: Gibt es Rabatt?",
+   "examplePt": "Tem desconto se eu levar dois?",
+   "pron": "guibt es ra-BÁT — o 'tt' é um 't' só e a ênfase cai no fim",
+   "curiosity": "'Rabatt' vem do italiano 'rabatto'; fala informal diz 'Prozente'."
+  },
+  "tr18-04": {
+   "word": "Ich schaue nur",
+   "translit": null,
+   "example": "Danke, ich schaue nur ein bisschen.",
+   "examplePt": "Obrigado, só estou olhando um pouco.",
+   "pron": "iç SCHAU-e nur — 'sch' = 'ch' de 'chá' e 'au' soa 'áu'",
+   "curiosity": "Lojistas perguntam 'Kann ich helfen?' e 'Ich schaue nur' é a resposta clássica."
+  },
+  "tr18-05": {
+   "word": "Ich nehme das hier",
+   "translit": null,
+   "example": "Ich nehme das hier, bitte einpacken.",
+   "examplePt": "Vou levar este, por favor embrulhe.",
+   "pron": "iç NÊ-me das HIR — o 'e' de 'nehme' é longo e o 'h' fica mudo",
+   "curiosity": "Ao decidir uma compra, diz-se 'Ich nehme es': literalmente 'eu pego'."
+  },
+  "tr18-06": {
+   "word": "Kann ich mit Karte zahlen?",
+   "translit": null,
+   "example": "Kann ich mit Karte zahlen? Oder nur bar?",
+   "examplePt": "Posso pagar com cartão? Ou só em dinheiro?",
+   "pron": "kan iç mit KAR-te TSÁ-len — 'z' soa 'ts' e o 'r' é suave",
+   "curiosity": "Muitos lugares na Alemanha ainda preferem dinheiro: 'Nur Bargeld'."
+  },
+  "tr18-07": {
+   "word": "Gibt es das in anderer Farbe?",
+   "translit": null,
+   "example": "Rot vielleicht? Gibt es das in anderer Farbe?",
+   "examplePt": "Tem isto em outra cor? Vermelho, talvez?",
+   "pron": "guibt es das in AN-de-rer FAR-be — 'r' suave; 'f' como em 'faca'",
+   "curiosity": "'Die Farbe' é feminina, por isso 'in anderer Farbe' (dativo)."
+  },
+  "tr18-08": {
+   "word": "Ich brauche eine Tüte",
+   "translit": null,
+   "example": "Für den Einkauf brauche ich eine Tüte.",
+   "examplePt": "Preciso de uma sacola para as compras.",
+   "pron": "iç BRAU-che AI-ne TÜ-te — 'ü' = 'i' com lábios em 'u'; 'au' soa 'áu'",
+   "curiosity": "'Die Tüte' é a sacola; nos supermercados alemães, as de plástico geralmente são pagas."
+  },
+  "tr18-09": {
+   "word": "Das ist ein Geschenk",
+   "translit": null,
+   "example": "Das ist ein Geschenk für meine Oma.",
+   "examplePt": "É um presente para a minha avó.",
+   "pron": "das ist ain ge-SCHÉNK — 'sch' = 'ch' de 'chá' e 'ei' soa 'ai'",
+   "curiosity": "Falso amigo: 'das Gift' é veneno! O presente é 'das Geschenk'."
+  },
+  "tr18-10": {
+   "word": "Wo ist die Kasse?",
+   "translit": null,
+   "example": "Wo ist die Kasse? Ich möchte zahlen.",
+   "examplePt": "Onde fica o caixa? Quero pagar.",
+   "pron": "vô ist di KÁ-se — 'w' soa 'v' e o 'a' é curto",
+   "curiosity": "'Die Kasse' é o caixa e 'der Kassenzettel' é o recibo."
+  },
+  "tr19-01": {
+   "word": "Links abbiegen",
+   "translit": null,
+   "example": "Bei der Ampel links abbiegen, dann geradeaus.",
+   "examplePt": "No semáforo vire à esquerda, depois siga em frente.",
+   "pron": "LINKS AP-bi-guen — 'ie' é 'i' longo e o 'b' de 'ab' soa 'p'",
+   "curiosity": "'Abbiegen' é virar numa curva, e o oposto de 'links' é 'rechts'."
+  },
+  "tr19-02": {
+   "word": "Rechts abbiegen",
+   "translit": null,
+   "example": "Nach der Brücke rechts abbiegen, bitte.",
+   "examplePt": "Depois da ponte, vire à direita, por favor.",
+   "pron": "RECHTS AP-bi-guen — 'ch' é suave e o 'b' de 'ab' soa 'p'",
+   "curiosity": "'Rechts' (direita) e 'recht' (certo, justo) têm a mesma raiz."
+  },
+  "tr19-03": {
+   "word": "Geradeaus weiter",
+   "translit": null,
+   "example": "Immer geradeaus weiter, bis zur Kirche.",
+   "examplePt": "Sempre em frente, até a igreja.",
+   "pron": "ge-RÁ-de-AUS VAI-ter — 'au' soa 'áu' e 'w' soa 'v'",
+   "curiosity": "'Gerade' é reto; 'geradeaus' é em linha reta, sem virar."
+  },
+  "tr19-04": {
+   "word": "Die Straße überqueren",
+   "translit": null,
+   "example": "Hier kannst du die Straße überqueren.",
+   "examplePt": "Aqui você pode atravessar a rua.",
+   "pron": "di SCHTRÁ-se ü-ber-KVÊ-ren — 'st' soa 'scht'; 'qu' soa 'kv'",
+   "curiosity": "'Überqueren' tem 'quer' dentro: cruzar de um lado a outro."
+  },
+  "tr19-05": {
+   "word": "Zeig es mir auf der Karte",
+   "translit": null,
+   "example": "Wir sind verloren. Zeig es mir auf der Karte!",
+   "examplePt": "Estou perdido. Mostre-me no mapa!",
+   "pron": "tsaig es mir auf der KAR-te — 'z' soa 'ts' e 'au' soa 'áu'",
+   "curiosity": "'Die Karte' tem muitos sentidos: mapa, cardápio, cartão e carta de baralho."
+  },
+  "tr19-06": {
+   "word": "Wo ist der Bahnhof?",
+   "translit": null,
+   "example": "Wo ist der Bahnhof? Mein Zug fährt gleich.",
+   "examplePt": "Onde fica a estação? Meu trem sai já.",
+   "pron": "vô ist der BAN-hôf — 'w' soa 'v' e 'h' de 'hof' é um sopro leve",
+   "curiosity": "'Hbf' é a abreviação de 'Hauptbahnhof', a estação central."
+  },
+  "tr19-07": {
+   "word": "Ist es weit von hier?",
+   "translit": null,
+   "example": "Ist es weit von hier? Ich bin müde.",
+   "examplePt": "É longe daqui? Estou cansado.",
+   "pron": "ist es VAIT fon HIR — 'w' soa 'v'; 'v' de 'von' soa 'f'",
+   "curiosity": "'Weit' é longe e também largo; o oposto de longe é 'nah' (perto)."
+  },
+  "tr19-08": {
+   "word": "Wie lange dauert das?",
+   "translit": null,
+   "example": "Wie lange dauert das? Ich habe einen Termin.",
+   "examplePt": "Quanto tempo leva? Tenho um compromisso.",
+   "pron": "vi LAN-ge DAU-ert das — 'au' soa 'áu'",
+   "curiosity": "'Dauern' é durar e 'die Dauer' é a duração."
+  },
+  "tr19-09": {
+   "word": "Ich bin zu spät",
+   "translit": null,
+   "example": "Entschuldige, ich bin zu spät, die Stunde läuft.",
+   "examplePt": "Estou atrasado, a aula já começou.",
+   "pron": "iç bin tsu SCHPÊT — 'z' soa 'ts'; 'sp' soa 'schp'",
+   "curiosity": "'Zu spät' é tarde demais e 'zu früh' é cedo demais: 'zu' marca o excesso."
+  },
+  "tr19-10": {
+   "word": "Ich habe den Bus verpasst",
+   "translit": null,
+   "example": "Verflixt, ich habe den Bus verpasst, er fuhr schon.",
+   "examplePt": "Perdi o ônibus, ele já tinha saído.",
+   "pron": "iç HÁ-be den BUS fer-PÁST — 'v' soa 'f' e o 'u' de 'Bus' é curto",
+   "curiosity": "'Verpassen' é perder transporte ou chance; 'verlieren' é perder um objeto."
+  },
+  "tr20-01": {
+   "word": "Wie spät ist es?",
+   "translit": null,
+   "example": "Wie spät ist es? Die Pause beginnt bald.",
+   "examplePt": "Que horas são? O intervalo começa logo.",
+   "pron": "vi SCHPÊT ist es — 'sp' soa 'schp' e 'ä' soa 'é' longo",
+   "curiosity": "Literalmente 'quão tarde é?': em alemão se pergunta a hora com 'spät'."
+  },
+  "tr20-02": {
+   "word": "Welcher Tag ist heute?",
+   "translit": null,
+   "example": "Welcher Tag ist heute? Montag oder Dienstag?",
+   "examplePt": "Que dia é hoje? Segunda ou terça?",
+   "pron": "VÉL-cher tak ist HÓI-te — 'eu' soa 'ói' e o 'g' final de 'Tag' soa 'k'",
+   "curiosity": "Os dias da semana são masculinos: der Montag, der Dienstag, der Freitag."
+  },
+  "tr20-03": {
+   "word": "Es regnet",
+   "translit": null,
+   "example": "Es regnet, nimm einen Schirm mit!",
+   "examplePt": "Está chovendo, leve um guarda-chuva!",
+   "pron": "es RÉG-net — o 'g' é duro e o 'e' é curto",
+   "curiosity": "O clima usa 'es': es regnet, es schneit, es blitzt."
+  },
+  "tr20-04": {
+   "word": "Es ist heiß",
+   "translit": null,
+   "example": "Es ist heiß, ich brauche ein Eis.",
+   "examplePt": "Está quente, preciso de um sorvete.",
+   "pron": "es ist HAIS — 'ei' soa 'ai' e 'ß' = 'ss'",
+   "curiosity": "'Heiß' é quente; 'warm' é morno e agradável. 'Mir ist heiß' = estou com calor."
+  },
+  "tr20-05": {
+   "word": "Ich habe es eilig",
+   "translit": null,
+   "example": "Schnell, ich habe es eilig, der Bus kommt gleich.",
+   "examplePt": "Estou com pressa, o ônibus chega já.",
+   "pron": "iç HÁ-be es AI-lig — 'ei' soa 'ai'",
+   "curiosity": "'Eile mit Weile' é um ditado: devagar se vai ao longe."
+  },
+  "tr20-06": {
+   "word": "Ich bin beschäftigt",
+   "translit": null,
+   "example": "Gerade bin ich beschäftigt, rufst du später an?",
+   "examplePt": "Estou ocupado agora, você liga mais tarde?",
+   "pron": "iç bin be-SCHÉF-tigt — 'sch' = 'ch' de 'chá' e 'ä' soa 'é'",
+   "curiosity": "'Viel zu tun haben' é outro jeito de dizer que está ocupado."
+  },
+  "tr20-07": {
+   "word": "Ich habe Urlaub",
+   "translit": null,
+   "example": "Ich habe Urlaub und fahre ans Meer.",
+   "examplePt": "Estou de férias e vou para o mar.",
+   "pron": "iç HÁ-be UR-laup — o 'u' é longo e o 'b' final soa 'p'",
+   "curiosity": "'Ferien' são as férias escolares; 'Urlaub' são as férias do trabalho."
+  },
+  "tr20-08": {
+   "word": "Ich habe eine Idee",
+   "translit": null,
+   "example": "Hört zu, ich habe eine Idee: Wir backen Pizza!",
+   "examplePt": "Tive uma ideia: vamos assar pizza!",
+   "pron": "iç HÁ-be AI-ne i-DÊ — o 'ee' final é um 'ê' longo",
+   "curiosity": "'Schnapsidee' é uma ideia maluca, dita em tom de brincadeira."
+  },
+  "tr20-09": {
+   "word": "Ich bin unterwegs",
+   "translit": null,
+   "example": "Keine Sorge, ich bin unterwegs und komme gleich.",
+   "examplePt": "Estou a caminho e já chego.",
+   "pron": "iç bin UN-ter-VÊKS — 'w' soa 'v' e o 'g' final soa 'k'",
+   "curiosity": "'Unterwegs' quer dizer 'a caminho' ou 'fora de casa'."
+  },
+  "tr20-10": {
+   "word": "Ich habe keinen Hunger",
+   "translit": null,
+   "example": "Danke, ich habe keinen Hunger mehr.",
+   "examplePt": "Obrigado, já estou sem fome.",
+   "pron": "iç HÁ-be KAI-nen HUN-ger — 'ei' soa 'ai' e 'ng' soa como em 'banco'",
+   "curiosity": "Com 'kein' nega-se um substantivo: keinen Hunger, keine Zeit, kein Problem."
+  },
+  "tr21-01": {
+   "word": "weil",
+   "translit": null,
+   "example": "Ich bleibe drinnen, weil es stürmt.",
+   "examplePt": "Fico dentro de casa porque há tempestade.",
+   "pron": "VAIL — o 'w' soa 'v' e o 'ei' soa 'ai'",
+   "curiosity": "Depois de 'weil' o verbo vai para o fim da oração."
+  },
+  "tr21-02": {
+   "word": "aber",
+   "translit": null,
+   "example": "Die Suppe ist heiß, aber lecker.",
+   "examplePt": "A sopa está quente, mas gostosa.",
+   "pron": "Á-ber — o 'a' é longo e o 'b' é suave",
+   "curiosity": "'Aber' não muda a ordem das palavras: liga as orações sem mexer no verbo."
+  },
+  "tr21-03": {
+   "word": "also",
+   "translit": null,
+   "example": "Es ist spät, also gehen wir heim.",
+   "examplePt": "É tarde, então vamos para casa.",
+   "pron": "ÁL-zô — o 'a' é curto e o 's' soa 'z'",
+   "curiosity": "'Also' também abre falas como um 'bem...': 'Also, ich glaube...'."
+  },
+  "tr21-04": {
+   "word": "obwohl",
+   "translit": null,
+   "example": "Obwohl es kalt ist, schwimmt er.",
+   "examplePt": "Embora esteja frio, ele nada.",
+   "pron": "op-VÔL — o 'b' soa 'p' e o 'w' soa 'v'",
+   "curiosity": "Depois de 'obwohl' o verbo vai para o fim, mas depois de 'trotzdem' não."
+  },
+  "tr21-05": {
+   "word": "während",
+   "translit": null,
+   "example": "Während ich koche, singt er.",
+   "examplePt": "Enquanto eu cozinho, ele canta.",
+   "pron": "VÊ-rent — o 'w' soa 'v', 'ä' soa 'é' longo e o 'd' final soa 't'",
+   "curiosity": "'Während' é conjunção (enquanto) e também preposição (durante)."
+  },
+  "tr21-06": {
+   "word": "das heißt",
+   "translit": null,
+   "example": "Das heißt, wir treffen uns morgen.",
+   "examplePt": "Ou seja, nos encontramos amanhã.",
+   "pron": "das HAIST — 'ei' soa 'ai'; 'ß' = 'ss'",
+   "curiosity": "Nos textos se abrevia como 'd. h.', o nosso 'ou seja'."
+  },
+  "tr21-07": {
+   "word": "außerdem",
+   "translit": null,
+   "example": "Er ist nett, außerdem ist er lustig.",
+   "examplePt": "Ele é gentil, além disso é divertido.",
+   "pron": "AU-sser-dêm — o 'au' soa 'áu' e 'ß' = 'ss'",
+   "curiosity": "'Außer' é exceto ou fora; 'außerdem' junta uma informação extra."
+  },
+  "tr21-08": {
+   "word": "trotzdem",
+   "translit": null,
+   "example": "Es regnet, trotzdem gehen wir hinaus.",
+   "examplePt": "Está chovendo, mesmo assim saímos.",
+   "pron": "TROTS-dêm — o 'tz' soa 'ts' e o 'o' é curto",
+   "curiosity": "'Trotz' (apesar de) + 'dem': 'trotzdem' é 'apesar disso'."
+  },
+  "tr21-09": {
+   "word": "sonst",
+   "translit": null,
+   "example": "Beeil dich, sonst verpasst du den Zug.",
+   "examplePt": "Apresse-se, senão você perde o trem.",
+   "pron": "ZONST — o 's' soa 'z' e o 'o' é curto",
+   "curiosity": "'Sonst noch etwas?' é a pergunta de lojas: mais alguma coisa?"
+  },
+  "tr21-10": {
+   "word": "sobald",
+   "translit": null,
+   "example": "Ich rufe an, sobald ich zu Hause bin.",
+   "examplePt": "Ligo assim que eu estiver em casa.",
+   "pron": "zo-BÁLT — o 's' soa 'z' e o 'd' final soa 't'",
+   "curiosity": "'Sobald' vem de 'so bald' (tão cedo): o verbo vai para o fim."
+  },
+  "tr22-01": {
+   "word": "immer",
+   "translit": null,
+   "example": "Er trägt immer eine rote Mütze.",
+   "examplePt": "Ele sempre usa um gorro vermelho.",
+   "pron": "Í-mer — o 'i' é curto e o 'mm' é um 'm' só",
+   "curiosity": "'Immer' + comparativo = cada vez mais: 'immer größer'."
+  },
+  "tr22-02": {
+   "word": "nie",
+   "translit": null,
+   "example": "Sie kommt nie zu spät.",
+   "examplePt": "Ela nunca chega atrasada.",
+   "pron": "NI — o 'ie' é um 'i' longo",
+   "curiosity": "'Nie' já nega a frase: em alemão não se faz dupla negação com 'nicht'."
+  },
+  "tr22-03": {
+   "word": "manchmal",
+   "translit": null,
+   "example": "Manchmal backt Opa einen Kuchen.",
+   "examplePt": "Às vezes o vovô assa um bolo.",
+   "pron": "MÁNCH-mal — 'ch' é um 'h' rouco e 'a' é curto",
+   "curiosity": "'Manchmal' vem de 'manch' (certos) + 'Mal' (vez): certas vezes."
+  },
+  "tr22-04": {
+   "word": "fast",
+   "translit": null,
+   "example": "Der Bus ist fast voll.",
+   "examplePt": "O ônibus está quase lotado.",
+   "pron": "FAST — o 'a' é curto e o 'st' soa 'st', não 'scht'",
+   "curiosity": "'Fast' (quase) não tem relação com o inglês 'fast' (rápido)."
+  },
+  "tr22-05": {
+   "word": "noch",
+   "translit": null,
+   "example": "Ist die Suppe noch warm?",
+   "examplePt": "A sopa ainda está quente?",
+   "pron": "NOCH — o 'o' é curto e o 'ch' é um 'h' rouco",
+   "curiosity": "'Noch nicht!' (ainda não!) é uma resposta clássica."
+  },
+  "tr22-06": {
+   "word": "schon",
+   "translit": null,
+   "example": "Bist du schon fertig?",
+   "examplePt": "Você já terminou?",
+   "pron": "SCHÔN — 'sch' = 'ch' de 'chá' e o 'o' é longo",
+   "curiosity": "Em 'Das wird schon!' o 'schon' dá ânimo: vai dar certo, pode crer."
+  },
+  "tr22-07": {
+   "word": "bald",
+   "translit": null,
+   "example": "Bald sind die Ferien da.",
+   "examplePt": "Logo as férias chegam.",
+   "pron": "BALT — o 'd' final soa 't'",
+   "curiosity": "'Bis bald!' é uma despedida comum: até logo."
+  },
+  "tr22-08": {
+   "word": "früh",
+   "translit": null,
+   "example": "Ich stehe früh auf.",
+   "examplePt": "Acordo cedo.",
+   "pron": "FRÜ — o 'ü' é um 'i' com lábios arredondados como em 'u'",
+   "curiosity": "'Das Frühstück' vem de 'früh' (cedo) + 'Stück' (pedaço)."
+  },
+  "tr22-09": {
+   "word": "normalerweise",
+   "translit": null,
+   "example": "Normalerweise nehme ich den Bus.",
+   "examplePt": "Normalmente pego o ônibus.",
+   "pron": "nor-MÁ-ler-VAI-ze — o 'w' soa 'v' e o 'ei' soa 'ai'",
+   "curiosity": "O sufixo '-erweise' cria advérbios, como em 'glücklicherweise'."
+  },
+  "tr22-10": {
+   "word": "nur selten",
+   "translit": null,
+   "example": "Er kommt nur selten pünktlich an.",
+   "examplePt": "Ele raramente chega pontualmente.",
+   "pron": "nur ZÉL-ten — o 's' soa 'z' e o 'e' é aberto",
+   "curiosity": "'Selten' também é raro: 'ein seltener Vogel' (um pássaro raro)."
+  },
+  "tr23-01": {
+   "word": "Meiner Meinung nach",
+   "translit": null,
+   "example": "Meiner Meinung nach ist das richtig.",
+   "examplePt": "Na minha opinião isso está certo.",
+   "pron": "MAI-ner MAI-nung nach — 'ei' soa 'ai' e o 'ch' final é um 'h' rouco",
+   "curiosity": "'Die Meinung' é a opinião; 'Ich bin der Meinung, dass...' abre um argumento."
+  },
+  "tr23-02": {
+   "word": "Das kommt darauf an",
+   "translit": null,
+   "example": "Das kommt darauf an, wie das Wetter wird.",
+   "examplePt": "Depende de como o tempo ficar.",
+   "pron": "das komt da-RAUF an — 'au' soa 'áu' e o 'mm' é um 'm' só",
+   "curiosity": "Na fala diz-se só 'Kommt drauf an', e isso resume tudo."
+  },
+  "tr23-03": {
+   "word": "Ich bin nicht sicher",
+   "translit": null,
+   "example": "Ob er kommt? Ich bin nicht sicher.",
+   "examplePt": "Não tenho certeza se ele vem.",
+   "pron": "iç bin niçt ZI-cher — o 's' soa 'z' e o 'ch' é suave",
+   "curiosity": "'Sicher' vale por seguro e certo; 'Sicher!' também é 'com certeza!'."
+  },
+  "tr23-04": {
+   "word": "Du hast recht",
+   "translit": null,
+   "example": "Du hast recht, das war eine gute Idee.",
+   "examplePt": "Você tem razão, foi uma boa ideia.",
+   "pron": "du hast RECHT — o 'ch' é suave e o 'e' é aberto",
+   "curiosity": "Em alemão se 'tem' razão: 'recht haben'; não se 'é' certo."
+  },
+  "tr23-05": {
+   "word": "Ich habe mich geirrt",
+   "translit": null,
+   "example": "Oje, ich habe mich geirrt, das stimmt nicht.",
+   "examplePt": "Eu me enganei, isso não está certo.",
+   "pron": "iç HÁ-be miç ge-IRT — o 'ch' de 'mich' é suave e o 'r' é suave",
+   "curiosity": "'Sich irren' é reflexivo: 'Ich irre mich' (eu me engano)."
+  },
+  "tr23-06": {
+   "word": "Halb so schlimm",
+   "translit": null,
+   "example": "Halb so schlimm, es ist nur ein Kratzer.",
+   "examplePt": "Não é para tanto, é só um arranhão.",
+   "pron": "HALP zô SCHLIM — o 'b' final soa 'p' e 'sch' = 'ch' de 'chá'",
+   "curiosity": "Literalmente 'metade tão ruim': acalma qualquer susto."
+  },
+  "tr23-07": {
+   "word": "Mach dir keine Sorgen",
+   "translit": null,
+   "example": "Mach dir keine Sorgen, ich bin da.",
+   "examplePt": "Fique tranquilo, estou aqui.",
+   "pron": "mach dir KAI-ne ZOR-guen — o 'ch' é um 'h' rouco e o 's' soa 'z'",
+   "curiosity": "'Die Sorge' é preocupação, e 'sorgenfrei' é sem preocupações."
+  },
+  "tr23-08": {
+   "word": "Ich glaube schon",
+   "translit": null,
+   "example": "Wird es morgen schön? Ich glaube schon.",
+   "examplePt": "Amanhã vai fazer tempo bom? Acho que sim.",
+   "pron": "iç GLAU-be SCHÔN — 'au' soa 'áu' e 'sch' = 'ch' de 'chá'",
+   "curiosity": "Aqui o 'schon' reforça a afirmação: acho que sim, com certeza."
+  },
+  "tr23-09": {
+   "word": "Ich glaube nicht",
+   "translit": null,
+   "example": "Kommt er noch? Ich glaube nicht.",
+   "examplePt": "Ele ainda vem? Acho que não.",
+   "pron": "iç GLAU-be NIÇT — 'au' soa 'áu' e o 'ch' é suave",
+   "curiosity": "Para um 'não' mais forte se diz 'Auf keinen Fall!'."
+  },
+  "tr23-10": {
+   "word": "Das ist mir egal",
+   "translit": null,
+   "example": "Das ist mir egal, wähle du aus.",
+   "examplePt": "Não me importo, escolha você.",
+   "pron": "das ist mir e-GÁL — o 'e' inicial é fechado e a ênfase cai no fim",
+   "curiosity": "O dativo 'mir' aparece em 'egal': literalmente 'isso é igual para mim'."
+  },
+  "tr24-01": {
+   "word": "Kannst du mir helfen?",
+   "translit": null,
+   "example": "Hilfe, kannst du mir helfen? Die Tür klemmt!",
+   "examplePt": "Pode me ajudar? A porta emperrou.",
+   "pron": "kanst du mir HÉL-fen — o 'e' de 'helfen' é aberto",
+   "curiosity": "Pedidos educados abrem com 'Kannst du...' ou o mais gentil 'Könntest du...'."
+  },
+  "tr24-02": {
+   "word": "Darf ich dich etwas fragen?",
+   "translit": null,
+   "example": "Darf ich dich etwas fragen? Es dauert kurz.",
+   "examplePt": "Posso te perguntar algo? É rápido.",
+   "pron": "darf iç diç ÉT-vas FRÁ-guen — 'w' soa 'v' e o 'ch' é suave",
+   "curiosity": "'Dürfen' pede permissão; 'Darf ich?' é mais educado que 'Kann ich?'."
+  },
+  "tr24-03": {
+   "word": "Das ist meine Schuld",
+   "translit": null,
+   "example": "Das ist meine Schuld, ich war unaufmerksam.",
+   "examplePt": "A culpa é minha, eu estava distraído.",
+   "pron": "das ist MAI-ne SCHULT — 'ei' soa 'ai' e o 'd' final soa 't'",
+   "curiosity": "'Die Schuld' é culpa e também dívida: 'Schulden haben' = ter dívidas."
+  },
+  "tr24-04": {
+   "word": "Das war keine Absicht",
+   "translit": null,
+   "example": "Entschuldige, das war keine Absicht.",
+   "examplePt": "Desculpe, foi sem querer.",
+   "pron": "das var KAI-ne AP-ziçt — 'w' soa 'v' e 'b' de 'ab' soa 'p'",
+   "curiosity": "'Mit Absicht' é de propósito e 'ohne Absicht' é sem querer."
+  },
+  "tr24-05": {
+   "word": "Ich habe es vergessen",
+   "translit": null,
+   "example": "Oje, ich habe es vergessen!",
+   "examplePt": "Ai, eu esqueci!",
+   "pron": "iç HÁ-be es fer-GÉ-ssen — o 'v' soa 'f' e o 'ss' é um 's' surdo",
+   "curiosity": "Mais formal e elegante é 'Es ist mir entfallen' (me escapou)."
+  },
+  "tr24-06": {
+   "word": "Ich habe ein Problem",
+   "translit": null,
+   "example": "Mit meinem Handy habe ich ein Problem.",
+   "examplePt": "Estou com um problema no meu celular.",
+   "pron": "iç HÁ-be ain pro-BLÊM — a ênfase cai na última sílaba",
+   "curiosity": "'Das Problem' é neutro, e o plural é 'die Probleme'."
+  },
+  "tr24-07": {
+   "word": "Ich weiß nicht, was ich tun soll",
+   "translit": null,
+   "example": "Alles ist kaputt, ich weiß nicht, was ich tun soll.",
+   "examplePt": "Tudo quebrou, não sei o que fazer.",
+   "pron": "iç VAIS niçt vas iç TUN zol — 'w' soa 'v'; 'ß' = 'ss'; 's' de 'soll' soa 'z'",
+   "curiosity": "'Tun' e 'machen' significam fazer; 'tun' é mais usado em expressões fixas."
+  },
+  "tr24-08": {
+   "word": "Ich kümmere mich darum",
+   "translit": null,
+   "example": "Ich kümmere mich darum, ruh dich aus.",
+   "examplePt": "Eu cuido disso, descanse.",
+   "pron": "iç KÜ-me-re miç da-RUM — 'ü' = 'i' com lábios em 'u'",
+   "curiosity": "'Sich kümmern um' = cuidar de algo ou alguém; 'um' pede acusativo."
+  },
+  "tr24-09": {
+   "word": "Danke für alles",
+   "translit": null,
+   "example": "Danke für alles, du warst wunderbar.",
+   "examplePt": "Obrigado por tudo, você foi maravilhoso.",
+   "pron": "DAN-ke fyr Á-les — o 'ü' de 'für' é um 'i' com lábios em 'u'",
+   "curiosity": "Uma gratidão maior vem como 'Vielen Dank für alles!' (muito obrigado por tudo)."
+  },
+  "tr24-10": {
+   "word": "Alles wird gut",
+   "translit": null,
+   "example": "Keine Angst, alles wird gut.",
+   "examplePt": "Não tenha medo, tudo vai dar certo.",
+   "pron": "Á-les virt GUT — 'w' soa 'v' e o 'u' é longo",
+   "curiosity": "'Werden' marca futuro e mudança: 'wird' + adjetivo, como em 'es wird kalt'."
+  },
+  "tr25-01": {
+   "word": "Ich habe Kopfschmerzen",
+   "translit": null,
+   "example": "Heute habe ich Kopfschmerzen und brauche Ruhe.",
+   "examplePt": "Estou com dor de cabeça e preciso de sossego.",
+   "pron": "iç HÁ-be KOPF-schmer-tsen — 'sch' = 'ch' de 'chá' e o 'z' soa 'ts'",
+   "curiosity": "'Kopfschmerzen' é quase sempre plural, assim como 'Bauchschmerzen'."
+  },
+  "tr25-02": {
+   "word": "Ich habe Bauchschmerzen",
+   "translit": null,
+   "example": "Nach dem Kuchen habe ich Bauchschmerzen.",
+   "examplePt": "Depois do bolo estou com dor de barriga.",
+   "pron": "iç HÁ-be BAUCH-schmer-tsen — 'au' soa 'áu'; 'ch' é um 'h' rouco",
+   "curiosity": "Dor de dente é 'Zahnschmerzen': basta ligar o corpo a 'Schmerzen'."
+  },
+  "tr25-03": {
+   "word": "Es tut hier weh",
+   "translit": null,
+   "example": "Es tut hier weh, besonders am Knie.",
+   "examplePt": "Dói aqui, principalmente no joelho.",
+   "pron": "es TUT hir VÊ — o 'w' soa 'v' e o 'e' é longo",
+   "curiosity": "'Aua!' é o grito de dor das crianças alemãs."
+  },
+  "tr25-04": {
+   "word": "Mir ist schlecht",
+   "translit": null,
+   "example": "Mir ist schlecht, ich brauche frische Luft.",
+   "examplePt": "Estou me sentindo mal, preciso de ar fresco.",
+   "pron": "mir ist SCHLEÇT — 'sch' = 'ch' de 'chá' e o 'ch' final é suave",
+   "curiosity": "Com 'mir' (dativo) o alemão fala de sensações: 'Mir ist kalt', 'Mir ist schlecht'."
+  },
+  "tr25-05": {
+   "word": "Ich brauche einen Arzt",
+   "translit": null,
+   "example": "Schnell, wir brauchen einen Arzt, es ist dringend.",
+   "examplePt": "Preciso de um médico, é urgente.",
+   "pron": "iç BRAU-che AI-nen ARTST — o 'z' soa 'ts' e 'au' soa 'áu'",
+   "curiosity": "Para a médica diz-se 'die Ärztin': o feminino ganha '-in' e o trema."
+  },
+  "tr25-06": {
+   "word": "Ich bin allergisch gegen Erdnüsse",
+   "translit": null,
+   "example": "Vorsicht, ich bin allergisch gegen Erdnüsse!",
+   "examplePt": "Sou alérgico a amendoim, por favor nenhum!",
+   "pron": "iç bin a-LÉR-guisch GÊ-guen ÉRT-nü-sse — 'g' duro; 'ü' = 'i' com lábios em 'u'",
+   "curiosity": "'Erdnuss' é literalmente 'noz da terra' (Erde + Nuss)."
+  },
+  "tr25-07": {
+   "word": "Ich habe einen Termin",
+   "translit": null,
+   "example": "Um zehn Uhr habe ich einen Termin.",
+   "examplePt": "Tenho uma consulta às dez horas.",
+   "pron": "iç HÁ-be AI-nen ter-MÍN — a ênfase cai no fim e o 'i' é longo",
+   "curiosity": "Falso amigo: 'der Termin' é compromisso marcado, não 'termo'."
+  },
+  "tr25-08": {
+   "word": "Ich bin erkältet",
+   "translit": null,
+   "example": "Seit gestern bin ich erkältet und huste.",
+   "examplePt": "Estou resfriado e tusso muito.",
+   "pron": "iç bin er-KÉL-tet — o 'ä' soa 'é' aberto e o 'r' é suave",
+   "curiosity": "'Erkältet' vem de 'kalt' (frio), e 'die Erkältung' é o resfriado."
+  },
+  "tr25-09": {
+   "word": "Ich muss mich ausruhen",
+   "translit": null,
+   "example": "Ich muss mich ausruhen, ich bin erschöpft.",
+   "examplePt": "Preciso descansar, estou exausto.",
+   "pron": "iç MUSS miç AUS-ru-en — 'au' soa 'áu' e o 'h' de 'ruhen' alonga o 'u'",
+   "curiosity": "'Die Ruhe' é calma; 'Ruhe bitte!' é o pedido de silêncio."
+  },
+  "tr25-10": {
+   "word": "Mir geht es schon besser",
+   "translit": null,
+   "example": "Mir geht es schon besser, danke.",
+   "examplePt": "Já estou melhor, obrigado.",
+   "pron": "mir GÊT es schôn BÉ-ser — 'sch' = 'ch' de 'chá'; 'e' de 'besser' é aberto",
+   "curiosity": "'Besser' é o comparativo irregular de 'gut': gut, besser, am besten."
+  },
+  "tr26-01": {
+   "word": "Wo ist mein Gate?",
+   "translit": null,
+   "example": "Hallo, ich fliege nach Wien. Wo ist mein Gate?",
+   "examplePt": "Olá, eu voo para Viena. Onde é meu portão?",
+   "pron": "VO ist main GUEIT — 'w' soa 'v' e 'ei' soa 'ai'",
+   "curiosity": "'Gate' veio do inglês, mas o alemão também diz 'der Flugsteig'."
+  },
+  "tr26-02": {
+   "word": "Mein Flug wurde gestrichen",
+   "translit": null,
+   "example": "Mein Flug wurde gestrichen. Gibt es einen anderen?",
+   "examplePt": "Meu voo foi cancelado. Há outro?",
+   "pron": "main FLUK VUR-de ge-SCHTRI-chen — 'st' soa 'scht'",
+   "curiosity": "'Streichen' é riscar: o voo é literalmente riscado da lista."
+  },
+  "tr26-03": {
+   "word": "Der Flug hat Verspätung",
+   "translit": null,
+   "example": "Der Flug hat Verspätung, wir warten im Café.",
+   "examplePt": "O voo está atrasado, esperamos no café.",
+   "pron": "der FLUK hat fer-SCHPÉ-tung — 'sp' soa 'schp'",
+   "curiosity": "'Spät' quer dizer tarde: 'Verspätung' é o atraso de quem chega tarde."
+  },
+  "tr26-04": {
+   "word": "Ich habe mein Gepäck verloren",
+   "translit": null,
+   "example": "Hilfe! Ich habe mein Gepäck verloren.",
+   "examplePt": "Socorro! Perdi minha bagagem.",
+   "pron": "iç RA-be main ge-PÉK fer-LÔ-ren — 'ch' é um chiado suave",
+   "curiosity": "'Gepäck' quase não tem plural: diz-se 'mein Gepäck' mesmo com várias malas."
+  },
+  "tr26-05": {
+   "word": "Wo bekomme ich mein Gepäck?",
+   "translit": null,
+   "example": "Wo bekomme ich mein Gepäck? Am Band drei?",
+   "examplePt": "Onde pego minha bagagem? Na esteira três?",
+   "pron": "VO be-KO-me iç main ge-PÉK — 'w' soa 'v'",
+   "curiosity": "'Bekommen' parece 'become' em inglês, mas significa receber, não tornar-se."
+  },
+  "tr26-06": {
+   "word": "Ich habe etwas zu verzollen",
+   "translit": null,
+   "example": "Am Zoll sage ich: Ich habe etwas zu verzollen.",
+   "examplePt": "Na alfândega digo: tenho algo a declarar.",
+   "pron": "iç RA-be ÉT-vas tsu fer-TSO-len — 'z' soa 'ts'",
+   "curiosity": "'Zoll' significa alfândega e também polegada, a medida."
+  },
+  "tr26-07": {
+   "word": "Ich bin im Urlaub hier",
+   "translit": null,
+   "example": "Ich bin im Urlaub hier, nur eine Woche.",
+   "examplePt": "Estou aqui a passeio, só uma semana.",
+   "pron": "iç BIN im UR-laup RI-er — 'b' final soa 'p'",
+   "curiosity": "'Urlaub' são as férias do trabalho; 'Ferien' é mais ligado à escola."
+  },
+  "tr26-08": {
+   "word": "Ich sitze lieber am Fenster",
+   "translit": null,
+   "example": "Ich sitze lieber am Fenster. Und du?",
+   "examplePt": "Prefiro a janela. E você?",
+   "pron": "iç SI-tse LI-ber am FÉN-ster — 's' antes de vogal soa 'z'",
+   "curiosity": "'Lieber' é o comparativo de 'gern': gern, lieber, am liebsten."
+  },
+  "tr26-09": {
+   "word": "Ich muss Geld wechseln",
+   "translit": null,
+   "example": "Ich muss Geld wechseln. Wo ist die Wechselstube?",
+   "examplePt": "Preciso trocar dinheiro. Onde é a casa de câmbio?",
+   "pron": "iç MUS GÉLT VÉK-seln — 'ch' é um chiado suave, 'w' soa 'v'",
+   "curiosity": "A casa de câmbio é 'Wechselstube', literalmente 'sala de troca'."
+  },
+  "tr26-10": {
+   "word": "Hier ist mein Reisepass",
+   "translit": null,
+   "example": "Hier ist mein Reisepass. Ich fliege nach Rio.",
+   "examplePt": "Aqui está meu passaporte. Voo para o Rio.",
+   "pron": "RI-er ist main RAI-ze-pas — 'ei' soa 'ai', 's' soa 'z'",
+   "curiosity": "'Reisepass' junta 'Reise' (viagem) e 'Pass': palavras compostas são a marca do alemão."
+  },
+  "tr27-01": {
+   "word": "das Eis brechen",
+   "translit": null,
+   "example": "Ein Witz kann das Eis brechen.",
+   "examplePt": "Uma piada pode quebrar o gelo.",
+   "pron": "das AIS BRÉ-çen — 'ei' soa 'ai', 'ch' suave",
+   "curiosity": "'Eis' é gelo e também sorvete: 'ein Eis' é o que se pede no verão."
+  },
+  "tr27-02": {
+   "word": "ein Vermögen kosten",
+   "translit": null,
+   "example": "Die Uhr kostet ein Vermögen!",
+   "examplePt": "O relógio custa uma fortuna!",
+   "pron": "ain fer-MÖ-guen KÓS-ten — 'ö' com lábios de 'o' e língua de 'e'",
+   "curiosity": "'Vermögen' significa fortuna, mas também capacidade de fazer algo."
+  },
+  "tr27-03": {
+   "word": "wie ein Stein schlafen",
+   "translit": null,
+   "example": "Nach der Wanderung schlief ich wie ein Stein.",
+   "examplePt": "Depois da caminhada, dormi como uma pedra.",
+   "pron": "vi ain SCHTAIN SCHLÁ-fen — 'st' soa 'scht', 'sch' como 'ch' de chá",
+   "curiosity": "Para dormir muito, os alemães também dizem 'wie ein Murmeltier': como uma marmota."
+  },
+  "tr27-04": {
+   "word": "wie ein Wasserfall reden",
+   "translit": null,
+   "example": "Meine Tante redet wie ein Wasserfall.",
+   "examplePt": "Minha tia fala pelos cotovelos.",
+   "pron": "vi ain VÁ-ser-fal RÊ-den — 'w' soa 'v', 's' soa 'z'",
+   "curiosity": "Em alemão, quem não para de falar fala 'como uma cachoeira'."
+  },
+  "tr27-05": {
+   "word": "den Kopf in den Wolken haben",
+   "translit": null,
+   "example": "Er hat den Kopf in den Wolken.",
+   "examplePt": "Ele está com a cabeça nas nuvens.",
+   "pron": "den KOPF in den VÓL-ken RÁ-ben — 'w' soa 'v'",
+   "curiosity": "Para felicidade total, os alemães dizem 'auf Wolke sieben': nuvem sete."
+  },
+  "tr27-06": {
+   "word": "Das Wasser läuft im Mund zusammen",
+   "translit": null,
+   "example": "Bei dem Duft läuft mir das Wasser im Mund zusammen.",
+   "examplePt": "Com esse cheiro, fico com água na boca.",
+   "pron": "das VÁ-ser LÓIFT im MUNT tsu-ZA-men — 'eu' soa 'ói'",
+   "curiosity": "'Zusammen' (junto) dá a ideia de a saliva se juntar na boca."
+  },
+  "tr27-07": {
+   "word": "Hut ab!",
+   "translit": null,
+   "example": "Hut ab! Du hast alles allein gebaut.",
+   "examplePt": "Chapéu! Você construiu tudo sozinho.",
+   "pron": "HUT AP — 'b' final soa 'p', 'u' longo",
+   "curiosity": "'Hut ab!' vem do gesto de tirar o chapéu para mostrar respeito."
+  },
+  "tr27-08": {
+   "word": "ein Auge darauf haben",
+   "translit": null,
+   "example": "Hast du ein Auge auf den Kuchen?",
+   "examplePt": "Você está de olho no bolo?",
+   "pron": "ain AU-gue da-RAUF RÁ-ben — 'au' soa 'au' como em 'mau'",
+   "curiosity": "'Auge' (olho) forma o plural 'Augen'; 'Augenblick' é um instante."
+  },
+  "tr27-09": {
+   "word": "Es regnet in Strömen",
+   "translit": null,
+   "example": "Heute regnet es in Strömen.",
+   "examplePt": "Hoje chove canivete.",
+   "pron": "és RÉG-net és in SCHTRÖ-men — 'ö' entre 'o' e 'e'",
+   "curiosity": "O alemão também diz 'Es regnet Bindfäden': chove cordões."
+  },
+  "tr27-10": {
+   "word": "Hand anlegen",
+   "translit": null,
+   "example": "Los, wir legen alle Hand an!",
+   "examplePt": "Vamos, todos põem a mão na massa!",
+   "pron": "RANT AN-le-guen — 'h' é aspirado, 'a' aberto",
+   "curiosity": "Literalmente 'colocar a mão': quem 'legt Hand an' ajuda de verdade."
+  },
+  "tr28-01": {
+   "word": "Wahnsinn!",
+   "translit": null,
+   "example": "Zehn Tore in einem Spiel? Wahnsinn!",
+   "examplePt": "Dez gols em um jogo? Nossa!",
+   "pron": "VAN-zin — 'w' soa 'v', 'ah' longo",
+   "curiosity": "'Wahnsinn' é literalmente loucura, mas na fala vira elogio."
+  },
+  "tr28-02": {
+   "word": "Los geht's!",
+   "translit": null,
+   "example": "Alle bereit? Los geht's!",
+   "examplePt": "Todos prontos? Bora!",
+   "pron": "LOS GUETS — 'o' fechado, 'ts' final",
+   "curiosity": "É a contração de 'geht es': o apóstrofo toma o lugar do 'e'."
+  },
+  "tr28-03": {
+   "word": "Alles klar!",
+   "translit": null,
+   "example": "Treffen wir uns um acht? Alles klar!",
+   "examplePt": "A gente se encontra às oito? Beleza!",
+   "pron": "Á-less KLAR — 'r' final fraco",
+   "curiosity": "Com entonação de pergunta, 'Alles klar?' vira 'tudo bem?'."
+  },
+  "tr28-04": {
+   "word": "Ich habe keine Lust",
+   "translit": null,
+   "example": "Ich habe keine Lust zu lernen.",
+   "examplePt": "Tô sem vontade de estudar.",
+   "pron": "iç RA-be KAI-ne LUST — 'ei' soa 'ai'",
+   "curiosity": "'Lust' é vontade ou gosto, e 'keine Lust' é uma frase inocente do dia a dia."
+  },
+  "tr28-05": {
+   "word": "Ich bin raus",
+   "translit": null,
+   "example": "Zu teuer für mich, ich bin raus.",
+   "examplePt": "Caro demais para mim, tô fora.",
+   "pron": "iç BIN RAUS — 'au' soa 'au'",
+   "curiosity": "'Raus' é a forma curta de 'heraus' (para fora), muito usada na fala."
+  },
+  "tr28-06": {
+   "word": "Kapiert?",
+   "translit": null,
+   "example": "Das war die Regel. Kapiert?",
+   "examplePt": "Essa era a regra. Sacou?",
+   "pron": "ka-PIRT — 'ie' soa 'i' longo",
+   "curiosity": "'Kapieren' vem do latim 'capere' (pegar), parente de 'capire' em italiano."
+  },
+  "tr28-07": {
+   "word": "Bleib cool!",
+   "translit": null,
+   "example": "Der Test ist leicht, bleib cool!",
+   "examplePt": "A prova é fácil, fica frio!",
+   "pron": "BLAIP KUL — 'ei' soa 'ai', 'b' final soa 'p'",
+   "curiosity": "O alemão adora a palavra 'cool', emprestada do inglês."
+  },
+  "tr28-08": {
+   "word": "Mach mal Pause!",
+   "translit": null,
+   "example": "Du lernst seit Stunden. Mach mal Pause!",
+   "examplePt": "Você estuda há horas. Dá um tempo!",
+   "pron": "MAR-r mal PAU-ze — 'ch' bem suave, 'au' soa 'au'",
+   "curiosity": "O 'mal' suaviza pedidos e quase não tem tradução: soa mais simpático."
+  },
+  "tr28-09": {
+   "word": "So ein Mist!",
+   "translit": null,
+   "example": "Mein Handy ist leer. So ein Mist!",
+   "examplePt": "Meu celular descarregou. Que chato!",
+   "pron": "ZO ain MIST — 'ei' soa 'ai'",
+   "curiosity": "'Mist' é esterco, mas a exclamação é leve e boa para todas as idades."
+  },
+  "tr28-10": {
+   "word": "So ein Glück!",
+   "translit": null,
+   "example": "Der Bus kommt gerade. So ein Glück!",
+   "examplePt": "O ônibus está chegando. Que sorte!",
+   "pron": "ZO ain GLÜK — 'ü' com lábios de 'u' e língua de 'i'",
+   "curiosity": "'Glück' quer dizer sorte e felicidade ao mesmo tempo."
+  },
+  "tr29-01": {
+   "word": "Besser spät als nie",
+   "translit": null,
+   "example": "Zwei Stunden zu spät, aber besser spät als nie.",
+   "examplePt": "Duas horas atrasado, mas antes tarde do que nunca.",
+   "pron": "BÉ-ser SCHPÉT als NI — 'sp' soa 'schp'",
+   "curiosity": "É quase o mesmo provérbio do português, palavra por palavra."
+  },
+  "tr29-02": {
+   "word": "Wer zuletzt lacht, lacht am besten",
+   "translit": null,
+   "example": "Er gewann am Ende: Wer zuletzt lacht, lacht am besten.",
+   "examplePt": "Ele ganhou no fim: quem ri por último ri melhor.",
+   "pron": "ver tsu-LÉTST LARRT am BÉ-sten — 'z' soa 'ts'",
+   "curiosity": "'Zuletzt' junta 'zu' e 'letzt' (último), formando o advérbio."
+  },
+  "tr29-03": {
+   "word": "Übung macht den Meister",
+   "translit": null,
+   "example": "Noch ein Versuch! Übung macht den Meister.",
+   "examplePt": "Mais uma tentativa! A prática leva à perfeição.",
+   "pron": "Ü-bung MARRT den MAIS-ter — 'ü' com lábios de 'u'",
+   "curiosity": "Literalmente: a prática faz o mestre."
+  },
+  "tr29-04": {
+   "word": "Hunde, die bellen, beißen nicht",
+   "translit": null,
+   "example": "Keine Angst vor ihm: Hunde, die bellen, beißen nicht.",
+   "examplePt": "Sem medo dele: cão que ladra não morde.",
+   "pron": "RUN-de di BÉ-len BAI-sen niçt — 'ß' soa 'ss'",
+   "curiosity": "O 'ß' de 'beißen' soa como 'ss': é o 'eszett' alemão."
+  },
+  "tr29-05": {
+   "word": "Eine Hand wäscht die andere",
+   "translit": null,
+   "example": "Du hilfst mir, ich helfe dir: eine Hand wäscht die andere.",
+   "examplePt": "Você me ajuda, eu ajudo você: uma mão lava a outra.",
+   "pron": "AI-ne RANT VÉSCHT di AN-de-re — 'ä' soa 'é'",
+   "curiosity": "O provérbio é idêntico ao português, palavra por palavra."
+  },
+  "tr29-06": {
+   "word": "Einigkeit macht stark",
+   "translit": null,
+   "example": "Wir spielen zusammen: Einigkeit macht stark!",
+   "examplePt": "Jogamos juntos: a união faz a força!",
+   "pron": "AI-niç-kait MARRT SCHTARK — 'st' soa 'scht'",
+   "curiosity": "'Einig' vem de 'ein' (um): unidos como se fossem um só."
+  },
+  "tr29-07": {
+   "word": "Wer wagt, gewinnt",
+   "translit": null,
+   "example": "Springst du? Wer wagt, gewinnt!",
+   "examplePt": "Você pula? Quem arrisca ganha!",
+   "pron": "VER VARKT ge-VINT — 'w' soa 'v'",
+   "curiosity": "'Wagen' é o verbo ousar, mas 'der Wagen' também é o carro."
+  },
+  "tr29-08": {
+   "word": "Eile mit Weile",
+   "translit": null,
+   "example": "Nicht rennen! Eile mit Weile.",
+   "examplePt": "Não corra! Devagar se vai ao longe.",
+   "pron": "AI-le mit VAI-le — 'ei' soa 'ai'",
+   "curiosity": "'Eile' e 'Weile' rimam, e essa rima ajuda a gravar o provérbio."
+  },
+  "tr29-09": {
+   "word": "Zeit ist Geld",
+   "translit": null,
+   "example": "Der Bus wartet nicht. Zeit ist Geld!",
+   "examplePt": "O ônibus não espera. Tempo é dinheiro!",
+   "pron": "TSAIT ist GÉLT — 'z' soa 'ts'",
+   "curiosity": "'Zeit' é feminina (die Zeit) e 'Geld' é neutro (das Geld)."
+  },
+  "tr29-10": {
+   "word": "Lachen ist die beste Medizin",
+   "translit": null,
+   "example": "Lach mal! Lachen ist die beste Medizin.",
+   "examplePt": "Ria! Rir é o melhor remédio.",
+   "pron": "LÁ-rren ist di BÉS-te me-di-TSIN — 'ch' suave",
+   "curiosity": "'Medizin' em alemão também é a ciência médica, não só o remédio."
+  },
+  "tr30-01": {
+   "word": "sprachlos sein",
+   "translit": null,
+   "example": "Vor Freude war ich sprachlos.",
+   "examplePt": "De alegria, fiquei sem palavras.",
+   "pron": "SCHPRAR-los zain — 'sp' soa 'schp'",
+   "curiosity": "'-los' quer dizer 'sem': sprachlos é 'sem fala'."
+  },
+  "tr30-02": {
+   "word": "wieder auf die Beine kommen",
+   "translit": null,
+   "example": "Nach der Krankheit kam er wieder auf die Beine.",
+   "examplePt": "Depois da doença, ele deu a volta por cima.",
+   "pron": "VI-der auf di BAI-ne KO-men — 'w' soa 'v'",
+   "curiosity": "Literalmente 'voltar a ficar de pé': a ideia de levantar é a mesma do português."
+  },
+  "tr30-03": {
+   "word": "am seidenen Faden hängen",
+   "translit": null,
+   "example": "Das Spiel hängt am seidenen Faden.",
+   "examplePt": "O jogo está por um fio.",
+   "pron": "am ZAI-de-nen FÁ-den RÉN-guen — 'ei' soa 'ai'",
+   "curiosity": "Literalmente: pendurado num fio de seda."
+  },
+  "tr30-04": {
+   "word": "es sich anders überlegen",
+   "translit": null,
+   "example": "Wir wollten Pizza, aber ich überlege es mir anders.",
+   "examplePt": "Queríamos pizza, mas mudei de ideia.",
+   "pron": "és ziç AN-ders Ü-ber-LÊ-guen — 'ü' com lábios de 'u'",
+   "curiosity": "'Überlegen' é pensar bem; 'sich anders überlegen' é pensar de novo."
+  },
+  "tr30-05": {
+   "word": "den Faden verlieren",
+   "translit": null,
+   "example": "Plötzlich verlor ich den Faden.",
+   "examplePt": "De repente, perdi o fio da meada.",
+   "pron": "den FÁ-den fer-LI-ren — 'ie' soa 'i' longo",
+   "curiosity": "Alemão e português usam o mesmo fio: o 'Faden' (masculino)."
+  },
+  "tr30-06": {
+   "word": "auf der Zunge liegen",
+   "translit": null,
+   "example": "Der Name liegt mir auf der Zunge!",
+   "examplePt": "O nome está na ponta da minha língua!",
+   "pron": "auf der TSUN-ge LI-guen — 'z' soa 'ts'",
+   "curiosity": "'Zunge' é a língua do corpo; o idioma é 'Sprache'."
+  },
+  "tr30-07": {
+   "word": "im selben Boot sitzen",
+   "translit": null,
+   "example": "Wir sitzen alle im selben Boot.",
+   "examplePt": "Estamos todos no mesmo barco.",
+   "pron": "im ZÉL-ben BOT ZI-tsen — 'z' soa 'ts' em 'sitzen'",
+   "curiosity": "Alemão e português usam a mesma imagem do barco."
+  },
+  "tr30-08": {
+   "word": "sich den Kopf zerbrechen",
+   "translit": null,
+   "example": "Ich zerbreche mir den Kopf über das Rätsel.",
+   "examplePt": "Quebro a cabeça com o enigma.",
+   "pron": "ziç den KOPF tser-BRÉ-çen — 'z' soa 'ts'",
+   "curiosity": "Literalmente 'quebrar a cabeça': igual ao português."
+  },
+  "tr30-09": {
+   "word": "sich wie zu Hause fühlen",
+   "translit": null,
+   "example": "Fühl dich wie zu Hause!",
+   "examplePt": "Sinta-se em casa!",
+   "pron": "ziç vi tsu RAU-ze FÜ-len — 'ü' como 'u' com lábios fechados",
+   "curiosity": "O 'ü' de 'fühlen' pede lábios arredondados, como para assobiar."
+  },
+  "tr30-10": {
+   "word": "die gute Seite sehen",
+   "translit": null,
+   "example": "Sieh die gute Seite: Wir haben frei!",
+   "examplePt": "Olhe pelo lado bom: estamos de folga!",
+   "pron": "di GU-te ZAI-te ZÊ-en — 'ei' soa 'ai'",
+   "curiosity": "'Seite' quer dizer lado e também página."
+  },
+  "tr31-01": {
+   "word": "einstellen",
+   "translit": null,
+   "example": "Die Firma will drei neue Leute einstellen.",
+   "examplePt": "A empresa quer contratar três pessoas novas.",
+   "pron": "AIN-schtê-len — 'ei' soa 'ai', 'st' soa 'scht'",
+   "curiosity": "'Einstellen' também é ajustar um aparelho e parar uma atividade."
+  },
+  "tr31-02": {
+   "word": "entlassen",
+   "translit": null,
+   "example": "Der Chef muss leider zwei Leute entlassen.",
+   "examplePt": "O chefe infelizmente precisa demitir duas pessoas.",
+   "pron": "ent-LÁ-sen — 'ss' é um 's' surdo",
+   "curiosity": "Também se usa para quem recebe alta do hospital."
+  },
+  "tr31-03": {
+   "word": "verhandeln",
+   "translit": null,
+   "example": "Wir verhandeln über den Preis des Autos.",
+   "examplePt": "Negociamos o preço do carro.",
+   "pron": "fer-RAN-deln — 'v' soa 'f', 'h' aspirado",
+   "curiosity": "A raiz 'Hand' (mão) está em verhandeln: negociar é lidar com as mãos."
+  },
+  "tr31-04": {
+   "word": "unterschreiben",
+   "translit": null,
+   "example": "Bitte hier unterschreiben, dann ist alles fertig.",
+   "examplePt": "Assine aqui, por favor, e tudo estará pronto.",
+   "pron": "un-ter-SCHRAI-ben — 'sch' como 'ch' de chá",
+   "curiosity": "Literalmente 'escrever por baixo': 'unter' (sob) + 'schreiben' (escrever)."
+  },
+  "tr31-05": {
+   "word": "vereinbaren",
+   "translit": null,
+   "example": "Wann können wir einen Termin vereinbaren?",
+   "examplePt": "Quando podemos combinar um horário?",
+   "pron": "fer-AIN-ba-ren — 'v' soa 'f', 'ei' soa 'ai'",
+   "curiosity": "Serve para combinar horário ou acordo: 'einen Termin vereinbaren'."
+  },
+  "tr31-06": {
+   "word": "stornieren",
+   "translit": null,
+   "example": "Ich möchte die Bestellung stornieren.",
+   "examplePt": "Quero cancelar o pedido.",
+   "pron": "schtor-NI-ren — 'st' soa 'scht'",
+   "curiosity": "Vem do italiano 'stornare' e é usado para pedidos e reservas."
+  },
+  "tr31-07": {
+   "word": "verschieben",
+   "translit": null,
+   "example": "Wir verschieben das Fest auf nächste Woche.",
+   "examplePt": "Adiamos a festa para a semana que vem.",
+   "pron": "fer-SCHI-ben — 'v' soa 'f', 'sch' como 'ch' de chá",
+   "curiosity": "'Schieben' é empurrar: adiar é 'empurrar para depois'."
+  },
+  "tr31-08": {
+   "word": "beaufsichtigen",
+   "translit": null,
+   "example": "Der Lehrer beaufsichtigt die Klasse beim Test.",
+   "examplePt": "O professor supervisiona a turma na prova.",
+   "pron": "be-AUF-ziç-ti-guen — 'au' soa 'au', 'ch' suave",
+   "curiosity": "Contém 'Aufsicht' (supervisão), literalmente 'olhar por cima'."
+  },
+  "tr31-09": {
+   "word": "investieren",
+   "translit": null,
+   "example": "Sie investiert ihr Geld in ein kleines Café.",
+   "examplePt": "Ela investe seu dinheiro em um café pequeno.",
+   "pron": "in-ves-TI-ren — 'v' soa 'v' nesta palavra",
+   "curiosity": "Do latim 'investire' (vestir): o português 'investir' tem a mesma raiz."
+  },
+  "tr31-10": {
+   "word": "profitieren",
+   "translit": null,
+   "example": "Wer lernt, profitiert sein ganzes Leben.",
+   "examplePt": "Quem aprende lucra a vida inteira.",
+   "pron": "pro-fi-TI-ren — 'ie' soa 'i' longo",
+   "curiosity": "Usa 'von': 'Ich profitiere von dir' = eu me beneficio de você."
+  },
+  "tr32-01": {
+   "word": "Lass uns ein Meeting ausmachen",
+   "translit": null,
+   "example": "Passt dir Montag? Lass uns ein Meeting ausmachen.",
+   "examplePt": "Segunda serve? Vamos marcar uma reunião.",
+   "pron": "LÁS uns ain MI-ting AUS-ma-ren — 'au' soa 'au'",
+   "curiosity": "'Ausmachen' também significa apagar a luz: o contexto decide."
+  },
+  "tr32-02": {
+   "word": "Was ist die Frist?",
+   "translit": null,
+   "example": "Was ist die Frist für das Projekt?",
+   "examplePt": "Qual é o prazo do projeto?",
+   "pron": "VAS ist di FRIST — 'w' soa 'v'",
+   "curiosity": "'Frist' é prazo combinado ou legal; 'Deadline' também circula."
+  },
+  "tr32-03": {
+   "word": "Schick es per E-Mail",
+   "translit": null,
+   "example": "Schick es mir bitte per E-Mail.",
+   "examplePt": "Mande para mim por e-mail, por favor.",
+   "pron": "SCHIK és per I-meil — 'sch' como 'ch' de chá",
+   "curiosity": "'E-Mail' é feminina: 'die E-Mail'."
+  },
+  "tr32-04": {
+   "word": "Ich bin in einer Besprechung",
+   "translit": null,
+   "example": "Ich rufe später zurück, ich bin in einer Besprechung.",
+   "examplePt": "Ligo depois, estou em reunião.",
+   "pron": "iç BIN in AI-ner be-SCHPRÉ-çung — 'sp' soa 'schp'",
+   "curiosity": "'Besprechung' vem de 'sprechen' (falar): reunião é conversa organizada."
+  },
+  "tr32-05": {
+   "word": "Kann ich den Termin verlegen?",
+   "translit": null,
+   "example": "Mein Zug fällt aus. Kann ich den Termin verlegen?",
+   "examplePt": "Meu trem foi cancelado. Posso remarcar?",
+   "pron": "KAN iç den ter-MIN fer-LÊ-guen — 'v' soa 'f'",
+   "curiosity": "'Verlegen' tem outros sentidos: pôr no lugar errado ou publicar um livro."
+  },
+  "tr32-06": {
+   "word": "Schreib das bitte auf",
+   "translit": null,
+   "example": "Schreib das bitte auf, sonst vergesse ich es.",
+   "examplePt": "Anote isso, por favor, senão eu esqueço.",
+   "pron": "SCHRAIP das BI-te AUF — 'b' final soa 'p'",
+   "curiosity": "'Aufschreiben' é separável: o 'auf' vai para o fim da frase."
+  },
+  "tr32-07": {
+   "word": "Ich liefere morgen früh",
+   "translit": null,
+   "example": "Ich liefere morgen früh, versprochen.",
+   "examplePt": "Entrego amanhã cedo, prometo.",
+   "pron": "iç LI-fe-re MÓR-guen FRÜ — 'ü' com lábios de 'u'",
+   "curiosity": "'Früh' é cedo; 'morgen früh' é amanhã de manhã."
+  },
+  "tr32-08": {
+   "word": "Ich brauche mehr Zeit",
+   "translit": null,
+   "example": "Das ist viel Arbeit. Ich brauche mehr Zeit.",
+   "examplePt": "É muito trabalho. Preciso de mais tempo.",
+   "pron": "iç BRAU-re MÊR TSAIT — 'z' soa 'ts'",
+   "curiosity": "'Brauchen' é precisar; não confunda com 'gebrauchen' (usar)."
+  },
+  "tr32-09": {
+   "word": "Tolle Präsentation!",
+   "translit": null,
+   "example": "Tolle Präsentation! Die Bilder waren super.",
+   "examplePt": "Ótima apresentação! As imagens estavam ótimas.",
+   "pron": "TÓ-le pre-zen-ta-TSION — 'ä' soa 'é', 'z' soa 'ts'",
+   "curiosity": "A terminação '-tion' soa 'tsion' em alemão."
+  },
+  "tr32-10": {
+   "word": "Ich arbeite von zu Hause",
+   "translit": null,
+   "example": "Heute arbeite ich von zu Hause.",
+   "examplePt": "Hoje trabalho de casa.",
+   "pron": "iç AR-bai-te fon tsu RAU-ze — 'ei' soa 'ai'",
+   "curiosity": "'Homeoffice' é o termo mais usado, um anglicismo que o inglês nem usa assim."
+  },
+  "tr33-01": {
+   "word": "Gibt es etwas gegen Schmerzen?",
+   "translit": null,
+   "example": "Der Kopf tut weh. Gibt es etwas gegen Schmerzen?",
+   "examplePt": "Minha cabeça dói. Tem algo para dor?",
+   "pron": "GIPT és ÉT-vas GÊ-guen SCHMÉR-tsen — 'z' soa 'ts'",
+   "curiosity": "'Gegen' (contra) é a palavra para remédios: 'gegen Husten', 'gegen Fieber'."
+  },
+  "tr33-02": {
+   "word": "Ich brauche einen Verband",
+   "translit": null,
+   "example": "Ich brauche einen Verband für das Knie.",
+   "examplePt": "Preciso de uma atadura para o joelho.",
+   "pron": "iç BRAU-re AI-nen fer-BANT — 'v' soa 'f'",
+   "curiosity": "'Verband' também significa associação ou clube."
+  },
+  "tr33-03": {
+   "word": "Zweimal täglich einnehmen",
+   "translit": null,
+   "example": "Der Arzt sagt: zweimal täglich einnehmen.",
+   "examplePt": "O médico diz: tomar duas vezes ao dia.",
+   "pron": "TSVAI-mal TÉG-liç AIN-nê-men — 'z' soa 'ts', 'zw' soa 'tsv'",
+   "curiosity": "'-lich' forma advérbios de tempo: täglich, wöchentlich, monatlich."
+  },
+  "tr33-04": {
+   "word": "Nach dem Essen einnehmen",
+   "translit": null,
+   "example": "Die Tablette? Nach dem Essen einnehmen!",
+   "examplePt": "O comprimido? Tomar depois das refeições!",
+   "pron": "NAR-r dem É-sen AIN-nê-men — 'ch' suave",
+   "curiosity": "'Nach' pede dativo: 'nach dem Essen' (das Essen vira 'dem Essen')."
+  },
+  "tr33-05": {
+   "word": "Gibt es Nebenwirkungen?",
+   "translit": null,
+   "example": "Gibt es Nebenwirkungen bei dem Saft?",
+   "examplePt": "Esse xarope tem efeitos colaterais?",
+   "pron": "GIPT és NÊ-ben-vir-kun-guen — 'w' soa 'v'",
+   "curiosity": "Literalmente 'efeitos ao lado': 'neben' (ao lado) + 'Wirkung' (efeito)."
+  },
+  "tr33-06": {
+   "word": "Ich habe seit gestern Fieber",
+   "translit": null,
+   "example": "Seit gestern habe ich Fieber und Husten.",
+   "examplePt": "Desde ontem estou com febre e tosse.",
+   "pron": "iç RA-be zait GÉS-tern FI-ber — 'ie' soa 'i' longo",
+   "curiosity": "Com 'seit' usa-se o presente: algo que começou antes e ainda dura."
+  },
+  "tr33-07": {
+   "word": "Ich suche einen Hustensaft",
+   "translit": null,
+   "example": "Ich suche einen Hustensaft für mein Kind.",
+   "examplePt": "Procuro um xarope de tosse para meu filho.",
+   "pron": "iç ZU-re AI-nen RUS-ten-zaft — 'ch' suave, 's' soa 'z'",
+   "curiosity": "'Husten' (tosse) + 'Saft' (suco): xarope é literalmente 'suco de tosse'."
+  },
+  "tr33-08": {
+   "word": "Gibt es eine Brandsalbe?",
+   "translit": null,
+   "example": "Gibt es eine Brandsalbe? Ich habe mich verbrannt.",
+   "examplePt": "Tem pomada para queimadura? Me queimei.",
+   "pron": "GIPT és AI-ne BRANT-zal-be — 'b' final soa 'p'",
+   "curiosity": "'Brand' é fogo e também queimadura; 'Salbe' é a pomada."
+  },
+  "tr33-09": {
+   "word": "Geht es auch ohne Rezept?",
+   "translit": null,
+   "example": "Das Medikament: Geht es auch ohne Rezept?",
+   "examplePt": "O remédio: pode ser sem receita?",
+   "pron": "GÊT és AUCH Ô-ne re-TSÉPT — 'z' soa 'ts'",
+   "curiosity": "'Rezept' é receita médica e também receita de cozinha."
+  },
+  "tr33-10": {
+   "word": "Wie ist die Dosierung?",
+   "translit": null,
+   "example": "Wie ist die Dosierung für Kinder?",
+   "examplePt": "Qual é a dose para crianças?",
+   "pron": "VI ist di do-ZI-rung — 'w' soa 'v'",
+   "curiosity": "A dose em si é 'die Dosis'; 'Dosierung' é o ato de dosar."
+  },
+  "tr34-01": {
+   "word": "Ich muss mich untersuchen lassen",
+   "translit": null,
+   "example": "Mein Bauch tut weh. Ich muss mich untersuchen lassen.",
+   "examplePt": "Minha barriga dói. Preciso fazer um exame.",
+   "pron": "iç MUS miç un-ter-ZU-çen LÁ-sen — 'ch' suave",
+   "curiosity": "'Lassen' com infinitivo quer dizer 'mandar fazer': mandar examinar-se."
+  },
+  "tr34-02": {
+   "word": "Mir ist schwindelig",
+   "translit": null,
+   "example": "Mir ist schwindelig, ich setze mich kurz.",
+   "examplePt": "Estou tonto, vou me sentar um pouco.",
+   "pron": "MIR ist SCHVIN-de-liç — 'schw' soa 'schv'",
+   "curiosity": "Usa o dativo: 'mir ist', e não 'ich bin'."
+  },
+  "tr34-03": {
+   "word": "Ich habe keinen Appetit",
+   "translit": null,
+   "example": "Heute habe ich keinen Appetit.",
+   "examplePt": "Hoje estou sem apetite.",
+   "pron": "iç RA-be KAI-nen a-pe-TIT — 'ei' soa 'ai'",
+   "curiosity": "'Guten Appetit!' é a frase dita antes de comer."
+  },
+  "tr34-04": {
+   "word": "Es tut weh beim Atmen",
+   "translit": null,
+   "example": "Es tut weh beim Atmen. Was ist das?",
+   "examplePt": "Dói quando respiro. O que é isso?",
+   "pron": "és TUT VÊ baim AT-men — 'w' soa 'v'",
+   "curiosity": "'Atmen' é respirar; 'der Atem' é o fôlego."
+  },
+  "tr34-05": {
+   "word": "Ich habe den Knöchel verstaucht",
+   "translit": null,
+   "example": "Beim Fußball habe ich den Knöchel verstaucht.",
+   "examplePt": "Torci o tornozelo jogando futebol.",
+   "pron": "iç RA-be den KNÖ-çel fer-SCHTAUCHT — 'k' é pronunciado, 'ö' entre 'o' e 'e'",
+   "curiosity": "O 'K' de 'Knöchel' é pronunciado: 'k-nö-chel'."
+  },
+  "tr34-06": {
+   "word": "Ich habe Schlafstörungen",
+   "translit": null,
+   "example": "Seit Tagen habe ich Schlafstörungen.",
+   "examplePt": "Há dias estou com insônia.",
+   "pron": "iç RA-be SCHLAF-schtö-run-guen — 'st' soa 'scht'",
+   "curiosity": "'Schlaf' (sono) + 'Störung' (perturbação): palavra composta à vista."
+  },
+  "tr34-07": {
+   "word": "Ich habe hohen Blutdruck",
+   "translit": null,
+   "example": "Mein Opa sagt: Ich habe hohen Blutdruck.",
+   "examplePt": "Meu avô diz: tenho pressão alta.",
+   "pron": "iç RA-be RÔ-en BLUT-druk — 'h' de 'hohen' é só alongamento",
+   "curiosity": "'Hoch' perde o 'c' ao declinar: hoher, hohe, hohen."
+  },
+  "tr34-08": {
+   "word": "Ich habe mir das Knie verletzt",
+   "translit": null,
+   "example": "Beim Radfahren habe ich mir das Knie verletzt.",
+   "examplePt": "Machuquei o joelho andando de bicicleta.",
+   "pron": "iç RA-be mir das K-NI fer-LÉTST — 'k' é pronunciado",
+   "curiosity": "'Knie' tem o 'k' pronunciado: 'k-ni', e o plural é igual."
+  },
+  "tr34-09": {
+   "word": "Mir ist übel",
+   "translit": null,
+   "example": "Mir ist übel. Ich brauche frische Luft.",
+   "examplePt": "Estou enjoado. Preciso de ar fresco.",
+   "pron": "MIR ist Ü-bel — 'ü' com lábios de 'u'",
+   "curiosity": "'Übel' quer dizer ruim ou mal; 'mir ist übel' é a frase do enjoo."
+  },
+  "tr34-10": {
+   "word": "Ich brauche eine Krankschreibung",
+   "translit": null,
+   "example": "Ich brauche eine Krankschreibung für die Schule.",
+   "examplePt": "Preciso de um atestado para a escola.",
+   "pron": "iç BRAU-re AI-ne KRANK-schrai-bung — 'ei' soa 'ai'",
+   "curiosity": "'Krank' (doente) + 'schreiben' (escrever): atestado é 'escrever doente'."
+  },
+  "tr35-01": {
+   "word": "Ich möchte das Zimmer wechseln",
+   "translit": null,
+   "example": "Kann ich bitte das Zimmer wechseln?",
+   "examplePt": "Posso trocar de quarto, por favor?",
+   "pron": "iç MÖÇ-te das TSI-mer VÉK-seln — 'ö' entre 'o' e 'e', 'w' soa 'v'",
+   "curiosity": "'Zimmer' vem de uma palavra antiga para madeira de construção; hoje é cômodo."
+  },
+  "tr35-02": {
+   "word": "Die Klimaanlage ist kaputt",
+   "translit": null,
+   "example": "Die Klimaanlage ist kaputt und es ist heiß.",
+   "examplePt": "O ar-condicionado quebrou e está quente.",
+   "pron": "di KLI-ma-an-la-gue ist ka-PUT — 'ß' soa 'ss'",
+   "curiosity": "'Kaputt' é um empréstimo do francês e vale para qualquer coisa quebrada."
+  },
+  "tr35-03": {
+   "word": "Es gibt kein warmes Wasser",
+   "translit": null,
+   "example": "Es gibt kein warmes Wasser in der Dusche.",
+   "examplePt": "Não tem água quente no chuveiro.",
+   "pron": "és GIPT KAIN VAR-mes VÁ-ser — 'w' soa 'v'",
+   "curiosity": "'Es gibt' (há) é literalmente 'dá': 'es gibt' + acusativo."
+  },
+  "tr35-04": {
+   "word": "Wann muss ich auschecken?",
+   "translit": null,
+   "example": "Wann muss ich auschecken? Mein Flug geht um zehn.",
+   "examplePt": "Quando preciso fazer check-out? Meu voo é às dez.",
+   "pron": "VAN MUS iç AUS-çé-ken — 'w' soa 'v', 'au' soa 'au'",
+   "curiosity": "'Auschecken' é separável: 'ich checke aus'."
+  },
+  "tr35-05": {
+   "word": "Ich möchte länger bleiben",
+   "translit": null,
+   "example": "Das Meer ist so schön! Ich möchte länger bleiben.",
+   "examplePt": "O mar é tão lindo! Quero ficar mais tempo.",
+   "pron": "iç MÖÇ-te LÉN-ger BLAI-ben — 'ä' soa 'é', 'ei' soa 'ai'",
+   "curiosity": "'Länger' é o comparativo de 'lang': lang, länger, am längsten."
+  },
+  "tr35-06": {
+   "word": "Das Zimmer ist zu laut",
+   "translit": null,
+   "example": "Das Zimmer ist zu laut, ich kann nicht schlafen.",
+   "examplePt": "O quarto está alto demais, não consigo dormir.",
+   "pron": "das TSI-mer ist TSU LAUT — 'z' soa 'ts'",
+   "curiosity": "'Zu' antes de adjetivo quer dizer demais: 'zu laut', 'zu heiß'."
+  },
+  "tr35-07": {
+   "word": "Ich brauche ein Kissen",
+   "translit": null,
+   "example": "Ich brauche noch ein Kissen, bitte.",
+   "examplePt": "Preciso de mais um travesseiro, por favor.",
+   "pron": "iç BRAU-re ain KI-sen — 'ss' é um 's' surdo",
+   "curiosity": "'Kissen' é neutro (das Kissen); 'Kuss' é beijo, outra palavra!"
+  },
+  "tr35-08": {
+   "word": "Ruf mir bitte ein Taxi",
+   "translit": null,
+   "example": "Es regnet. Ruf mir bitte ein Taxi.",
+   "examplePt": "Está chovendo. Chame um táxi para mim, por favor.",
+   "pron": "RUF mir BI-te ain TÁ-ksi — 'u' longo",
+   "curiosity": "'Taxi' é neutro: 'das Taxi'."
+  },
+  "tr35-09": {
+   "word": "Man hat mir zu viel berechnet",
+   "translit": null,
+   "example": "Moment, hier stimmt etwas nicht: zu viel berechnet!",
+   "examplePt": "Um momento, algo não está certo: cobraram a mais!",
+   "pron": "MAN hat mir tsu FIL be-RÉÇ-net — 'v' soa 'f'",
+   "curiosity": "'Rechnung' (conta) e 'rechnen' (calcular) vêm da mesma raiz."
+  },
+  "tr35-10": {
+   "word": "Ich habe etwas im Zimmer vergessen",
+   "translit": null,
+   "example": "Zurück zum Hotel! Ich habe etwas im Zimmer vergessen.",
+   "examplePt": "De volta ao hotel! Esqueci algo no quarto.",
+   "pron": "iç RA-be ÉT-vas im TSI-mer fer-GÉ-sen — 'v' soa 'f'",
+   "curiosity": "O prefixo 'ver-' costuma indicar erro ou perda: vergessen, verlieren, verpassen."
+  },
+  "tr36-01": {
+   "word": "Steig an der nächsten aus",
+   "translit": null,
+   "example": "Wir sind da: Steig an der nächsten aus.",
+   "examplePt": "Chegamos: desça no próximo ponto.",
+   "pron": "SCHTAIK an der NÉÇ-sten AUS — 'st' soa 'scht'",
+   "curiosity": "'Haltestelle' vem de 'halten' (parar) + 'Stelle' (lugar)."
+  },
+  "tr36-02": {
+   "word": "Ich stecke im Stau",
+   "translit": null,
+   "example": "Ich stecke im Stau, komme später.",
+   "examplePt": "Estou preso no trânsito, chego mais tarde.",
+   "pron": "iç SCHTÉ-ke im SCHTAU — 'st' soa 'scht'",
+   "curiosity": "'Stau' vem de 'stauen' (represar): trânsito é água represada."
+  },
+  "tr36-03": {
+   "word": "Der Reifen ist platt",
+   "translit": null,
+   "example": "Der Reifen ist platt! Hast du Luft?",
+   "examplePt": "O pneu furou! Você tem ar?",
+   "pron": "der RAI-fen ist PLAT — 'ei' soa 'ai'",
+   "curiosity": "'Platt' é achatado, e 'Plattdeutsch' é o dialeto do norte da Alemanha."
+  },
+  "tr36-04": {
+   "word": "Gibt es einen Parkplatz?",
+   "translit": null,
+   "example": "Gibt es hier einen Parkplatz in der Nähe?",
+   "examplePt": "Tem vaga para estacionar aqui perto?",
+   "pron": "GIPT és AI-nen PARK-plats — 'z' soa 'ts'",
+   "curiosity": "'Platz' é lugar e também praça."
+  },
+  "tr36-05": {
+   "word": "Das Auto hat eine Panne",
+   "translit": null,
+   "example": "Mist, das Auto hat eine Panne!",
+   "examplePt": "Que chato, o carro quebrou!",
+   "pron": "das AU-to hat AI-ne PA-ne — 'au' soa 'au'",
+   "curiosity": "'Panne' vem do francês e é usada para pane de carro."
+  },
+  "tr36-06": {
+   "word": "Welche Station kommt als Nächstes?",
+   "translit": null,
+   "example": "Welche Station kommt als Nächstes? Ich verpasse sie.",
+   "examplePt": "Qual é a próxima estação? Vou perder a minha.",
+   "pron": "VÉL-çe schta-TSION KOMT als NÉÇ-stes — 'st' soa 'scht'",
+   "curiosity": "'Verpassen' é perder transporte ou ocasião; 'verlieren' é perder objeto."
+  },
+  "tr36-07": {
+   "word": "Ich muss umsteigen",
+   "translit": null,
+   "example": "Ich muss in Köln umsteigen.",
+   "examplePt": "Preciso trocar de trem em Colônia.",
+   "pron": "iç MUS UM-schtai-guen — 'ei' soa 'ai'",
+   "curiosity": "'Um-' dá ideia de mudança: umsteigen, umziehen, umdrehen."
+  },
+  "tr36-08": {
+   "word": "Das ist eine Einbahnstraße",
+   "translit": null,
+   "example": "Hier geht es nicht weiter, das ist eine Einbahnstraße.",
+   "examplePt": "Aqui não dá para seguir: é mão única.",
+   "pron": "das ist AI-ne AIN-ban-schtra-sse — 'ß' soa 'ss'",
+   "curiosity": "'Bahn' é via e 'Straße' é rua: rua de uma via."
+  },
+  "tr36-09": {
+   "word": "Ich habe mich verfahren",
+   "translit": null,
+   "example": "Wo ist die Autobahn? Ich habe mich verfahren.",
+   "examplePt": "Onde fica a estrada? Errei o caminho.",
+   "pron": "iç RA-be miç fer-FÁ-ren — 'v' soa 'f'",
+   "curiosity": "'Verfahren' é errar o caminho de carro; a pé é 'sich verlaufen'."
+  },
+  "tr36-10": {
+   "word": "Mir geht das Benzin aus",
+   "translit": null,
+   "example": "Schnell zur Tankstelle, mir geht das Benzin aus!",
+   "examplePt": "Rápido ao posto, estou sem gasolina!",
+   "pron": "MIR GÊT das ben-TSIN AUS — 'z' soa 'ts'",
+   "curiosity": "'Ausgehen' quer dizer acabar e também sair para passear."
+  },
+  "tr37-01": {
+   "word": "streiten",
+   "translit": null,
+   "example": "Die Geschwister streiten um das Spiel.",
+   "examplePt": "Os irmãos discutem por causa do jogo.",
+   "pron": "SCHTRAI-ten — 'st' soa 'scht', 'ei' soa 'ai'",
+   "curiosity": "'Streiten' é brigar; 'diskutieren' é debater sem briga: falso amigo!"
+  },
+  "tr37-02": {
+   "word": "sich beschweren",
+   "translit": null,
+   "example": "Warum beschwert sich der Gast?",
+   "examplePt": "Por que o hóspede reclama?",
+   "pron": "ziç be-SCHVÊRT — 'sch' como 'ch' de chá, 'w' soa 'v'",
+   "curiosity": "'Beschweren' também é pôr peso em cima; 'schwer' é pesado."
+  },
+  "tr37-03": {
+   "word": "ignorieren",
+   "translit": null,
+   "example": "Er ignoriert den Wecker jeden Morgen.",
+   "examplePt": "Ele ignora o despertador toda manhã.",
+   "pron": "ig-no-RI-ren — 'g' duro como em 'gato'",
+   "curiosity": "'Ignorieren' é fingir que não vê; não saber algo é 'nicht wissen'."
+  },
+  "tr37-04": {
+   "word": "akzeptieren",
+   "translit": null,
+   "example": "Akzeptierst du meine Entschuldigung?",
+   "examplePt": "Você aceita meu pedido de desculpas?",
+   "pron": "ak-tsep-TI-ren — 'z' soa 'ts'",
+   "curiosity": "Tem um sinônimo comum, 'annehmen', literalmente 'pegar para si'."
+  },
+  "tr37-05": {
+   "word": "ablehnen",
+   "translit": null,
+   "example": "Sie lehnt das Angebot höflich ab.",
+   "examplePt": "Ela recusa a oferta educadamente.",
+   "pron": "AP-lê-nen — 'b' soa 'p', 'eh' longo",
+   "curiosity": "'Ablehnen' é separável: 'ich lehne ab'; 'lehnen' sozinho é encostar."
+  },
+  "tr37-06": {
+   "word": "zugeben",
+   "translit": null,
+   "example": "Er gibt zu: Er hat den Kuchen gegessen.",
+   "examplePt": "Ele admite: comeu o bolo.",
+   "pron": "TSU-gê-ben — 'z' soa 'ts'",
+   "curiosity": "Literalmente 'dar para': zu + geben, e o verbo é separável."
+  },
+  "tr37-07": {
+   "word": "verdächtigen",
+   "translit": null,
+   "example": "Wen verdächtigst du? Den Hund?",
+   "examplePt": "Quem você suspeita? O cachorro?",
+   "pron": "fer-DÉÇ-ti-guen — 'ä' soa 'é', 'v' soa 'f'",
+   "curiosity": "'Verdacht' (suspeita) está ligado a 'denken', pensar."
+  },
+  "tr37-08": {
+   "word": "vermeiden",
+   "translit": null,
+   "example": "Ich vermeide Streit mit meinem Bruder.",
+   "examplePt": "Evito brigas com meu irmão.",
+   "pron": "fer-MAI-den — 'v' soa 'f', 'ei' soa 'ai'",
+   "curiosity": "'Vermeiden' é inseparável: 'ich vermeide', sem partícula solta."
+  },
+  "tr37-09": {
+   "word": "aushalten",
+   "translit": null,
+   "example": "Ich halte diese Hitze kaum aus.",
+   "examplePt": "Mal aguento este calor.",
+   "pron": "AUS-hal-ten — 'au' soa 'au', 'h' aspirado",
+   "curiosity": "'Halten' é segurar: 'aushalten' é segurar até o fim."
+  },
+  "tr37-10": {
+   "word": "unterstützen",
+   "translit": null,
+   "example": "Meine Eltern unterstützen mich immer.",
+   "examplePt": "Meus pais sempre me apoiam.",
+   "pron": "un-ter-SCHTÜ-tsen — 'ü' com lábios de 'u'",
+   "curiosity": "Vem de 'Stütze' (apoio, suporte): a raiz é 'stützen'."
+  },
+  "tr38-01": {
+   "word": "zunehmen",
+   "translit": null,
+   "example": "Im Winter nehme ich ein bisschen zu.",
+   "examplePt": "No inverno, engordo um pouquinho.",
+   "pron": "TSU-nê-men — 'z' soa 'ts'",
+   "curiosity": "Literalmente 'pegar mais': zu + nehmen, separável."
+  },
+  "tr38-02": {
+   "word": "abnehmen",
+   "translit": null,
+   "example": "Er will vor dem Sommer abnehmen.",
+   "examplePt": "Ele quer emagrecer antes do verão.",
+   "pron": "AP-nê-men — 'b' soa 'p'",
+   "curiosity": "'Abnehmen' também é atender o telefone."
+  },
+  "tr38-03": {
+   "word": "altern",
+   "translit": null,
+   "example": "Wir altern alle, aber mit Humor.",
+   "examplePt": "Todos envelhecemos, mas com humor.",
+   "pron": "AL-tern — 'a' aberto",
+   "curiosity": "'Alt' (velho) vira 'älter' (mais velho) com trema."
+  },
+  "tr38-04": {
+   "word": "reifen",
+   "translit": null,
+   "example": "Im Sommer reifen die Tomaten schnell.",
+   "examplePt": "No verão, os tomates amadurecem rápido.",
+   "pron": "RAI-fen — 'r' gutural, 'ei' soa 'ai'",
+   "curiosity": "'Reif' é maduro e também geada: 'der Reif'."
+  },
+  "tr38-05": {
+   "word": "sich verbessern",
+   "translit": null,
+   "example": "Mein Deutsch verbessert sich jeden Tag.",
+   "examplePt": "Meu alemão melhora a cada dia.",
+   "pron": "ziç fer-BÉ-sern — 'v' soa 'f'",
+   "curiosity": "'Besser' (melhor) está dentro de 'verbessern'."
+  },
+  "tr38-06": {
+   "word": "sich verschlechtern",
+   "translit": null,
+   "example": "Das Wetter verschlechtert sich am Abend.",
+   "examplePt": "O tempo piora à noite.",
+   "pron": "ziç fer-SCHLÉÇ-tern — 'sch' como 'ch' de chá",
+   "curiosity": "'Schlecht' vem de 'schlicht' (simples): o sentido antigo era outro."
+  },
+  "tr38-07": {
+   "word": "erhöhen",
+   "translit": null,
+   "example": "Der Laden will die Preise erhöhen.",
+   "examplePt": "A loja quer aumentar os preços.",
+   "pron": "er-HÖ-en — 'ö' entre 'o' e 'e'",
+   "curiosity": "Parente de 'hoch' (alto) e 'Höhe' (altura): fazer ficar mais alto."
+  },
+  "tr38-08": {
+   "word": "verringern",
+   "translit": null,
+   "example": "Wir verringern den Müll im Haus.",
+   "examplePt": "Diminuímos o lixo em casa.",
+   "pron": "fer-RIN-gern — 'v' soa 'f', 'ng' como em 'ring'",
+   "curiosity": "Vem de 'gering' (pouco, pequeno): ver-ring-ern."
+  },
+  "tr38-09": {
+   "word": "geboren werden",
+   "translit": null,
+   "example": "Meine Oma wurde im Winter geboren.",
+   "examplePt": "Minha avó nasceu no inverno.",
+   "pron": "ge-BÔ-ren VÊR-den — 'w' soa 'v'",
+   "curiosity": "Em alemão se diz 'ser nascido': 'ich wurde geboren'."
+  },
+  "tr38-10": {
+   "word": "sich entsinnen",
+   "translit": null,
+   "example": "Entsinnst du dich an das alte Lied?",
+   "examplePt": "Você se lembra daquela música antiga?",
+   "pron": "ziç ent-ZI-nen — 'ch' suave, 's' soa 'z'",
+   "curiosity": "É mais formal que 'sich erinnern', a palavra usada no dia a dia."
+  },
+  "tr39-01": {
+   "word": "reparieren",
+   "translit": null,
+   "example": "Papa repariert das Fahrrad im Garten.",
+   "examplePt": "Papai conserta a bicicleta no jardim.",
+   "pron": "re-pa-RI-ren — 'r' gutural",
+   "curiosity": "Quem conserta com as mãos é 'Handwerker', o artesão."
+  },
+  "tr39-02": {
+   "word": "brechen",
+   "translit": null,
+   "example": "Der Ast bricht unter dem Schnee.",
+   "examplePt": "O galho quebra sob a neve.",
+   "pron": "BRÉ-çen — 'ch' suave como um sopro",
+   "curiosity": "O passado é irregular: 'brach' e 'gebrochen'."
+  },
+  "tr39-03": {
+   "word": "reißen",
+   "translit": null,
+   "example": "Beim Klettern reißt meine Hose.",
+   "examplePt": "Minha calça rasga ao escalar.",
+   "pron": "RAI-ssen — 'ß' soa 'ss', 'ei' soa 'ai'",
+   "curiosity": "'Reißverschluss' (zíper) contém 'reißen'."
+  },
+  "tr39-04": {
+   "word": "verschütten",
+   "translit": null,
+   "example": "Vorsicht, verschütte den Saft nicht!",
+   "examplePt": "Cuidado, não derrame o suco!",
+   "pron": "fer-SCHÜ-ten — 'ü' com lábios de 'u'",
+   "curiosity": "'Schütten' é despejar; 'verschütten' é despejar sem querer."
+  },
+  "tr39-05": {
+   "word": "lecken",
+   "translit": null,
+   "example": "Das Dach leckt bei Regen.",
+   "examplePt": "O telhado vaza quando chove.",
+   "pron": "LÉ-ken — 'e' aberto",
+   "curiosity": "'Lecken' também é lamber! O contexto decide."
+  },
+  "tr39-06": {
+   "word": "verstopfen",
+   "translit": null,
+   "example": "Haare verstopfen oft das Waschbecken.",
+   "examplePt": "Cabelos entopem a pia com frequência.",
+   "pron": "fer-SCHTÓ-pfen — 'pf' é um 'p' com 'f'",
+   "curiosity": "Parente de 'stopfen' (enfiar), a ideia do entupimento."
+  },
+  "tr39-07": {
+   "word": "tropfen",
+   "translit": null,
+   "example": "Der Wasserhahn tropft die ganze Nacht.",
+   "examplePt": "A torneira pinga a noite inteira.",
+   "pron": "TRÓ-pfen — 'pf' é um 'p' com 'f'",
+   "curiosity": "'Tropfen' é verbo e também substantivo: 'der Tropfen' (a gota)."
+  },
+  "tr39-08": {
+   "word": "anbrennen",
+   "translit": null,
+   "example": "Die Milch brennt an, schnell!",
+   "examplePt": "O leite está queimando, rápido!",
+   "pron": "AN-bré-nen — 'a' aberto",
+   "curiosity": "'Anbrennen' é queimar de leve na panela; 'verbrennen' é queimar de vez."
+  },
+  "tr39-09": {
+   "word": "sinken",
+   "translit": null,
+   "example": "Das Boot sinkt langsam im See.",
+   "examplePt": "O barco afunda devagar no lago.",
+   "pron": "ZIN-ken — 's' soa 'z'",
+   "curiosity": "Parente do inglês 'sink': sinken, sank, gesunken."
+  },
+  "tr39-10": {
+   "word": "rosten",
+   "translit": null,
+   "example": "Das Fahrrad rostet im Regen.",
+   "examplePt": "A bicicleta enferruja na chuva.",
+   "pron": "RÓS-ten — 'r' gutural",
+   "curiosity": "'Rost' é ferrugem e também a grelha de assar."
+  },
+  "tr40-01": {
+   "word": "einmal pro Woche",
+   "translit": null,
+   "example": "Ich gehe einmal pro Woche schwimmen.",
+   "examplePt": "Vou nadar uma vez por semana.",
+   "pron": "AIN-mal pro VÓ-re — 'w' soa 'v', 'ch' suave",
+   "curiosity": "'Mal' quer dizer vez: zweimal, dreimal, hundertmal."
+  },
+  "tr40-02": {
+   "word": "einmal im Monat",
+   "translit": null,
+   "example": "Einmal im Monat backen wir Brot.",
+   "examplePt": "Uma vez por mês, assamos pão.",
+   "pron": "AIN-mal im MÔ-nat — 'ei' soa 'ai'",
+   "curiosity": "'Monat' tem relação com 'Mond' (lua): os meses seguiam a lua."
+  },
+  "tr40-03": {
+   "word": "vor zwei Tagen",
+   "translit": null,
+   "example": "Vor zwei Tagen hat es geschneit.",
+   "examplePt": "Há dois dias nevou.",
+   "pron": "FOR TSVAI TÁ-guen — 'v' soa 'f', 'zw' soa 'tsv'",
+   "curiosity": "'Vor zwei Tagen' é há dois dias; 'in zwei Tagen' é daqui a dois dias."
+  },
+  "tr40-04": {
+   "word": "vor langer Zeit",
+   "translit": null,
+   "example": "Vor langer Zeit lebten hier Mammuts.",
+   "examplePt": "Há muito tempo, mamutes viviam aqui.",
+   "pron": "FOR LAN-ger TSAIT — 'ng' como em 'ring'",
+   "curiosity": "Os contos de fadas começam com 'Es war einmal': era uma vez."
+  },
+  "tr40-05": {
+   "word": "letztes Jahr",
+   "translit": null,
+   "example": "Letztes Jahr war ich in Rom.",
+   "examplePt": "No ano passado, estive em Roma.",
+   "pron": "LÉTS-tes YAR — 'j' soa 'i' como em 'iate'",
+   "curiosity": "'Letztes Jahr' funciona sem preposição, como 'ano passado'."
+  },
+  "tr40-06": {
+   "word": "frühmorgens",
+   "translit": null,
+   "example": "Frühmorgens singen die Vögel im Park.",
+   "examplePt": "De manhã cedo, os pássaros cantam no parque.",
+   "pron": "FRÜ-mór-guens — 'ü' com lábios de 'u'",
+   "curiosity": "'Morgen' (manhã) leva maiúscula; 'morgen' (amanhã) leva minúscula."
+  },
+  "tr40-07": {
+   "word": "jeden zweiten Tag",
+   "translit": null,
+   "example": "Wir joggen jeden zweiten Tag.",
+   "examplePt": "Corremos a cada dois dias.",
+   "pron": "YÊ-den TSVAI-ten TAK — 'j' soa 'i', 'zw' soa 'tsv'",
+   "curiosity": "'Jeder' muda de final: jeden Tag, jede Woche, jedes Jahr."
+  },
+  "tr40-08": {
+   "word": "nächste Woche",
+   "translit": null,
+   "example": "Nächste Woche fahren wir ans Meer?",
+   "examplePt": "Na semana que vem vamos ao mar?",
+   "pron": "NÉÇ-ste VÓ-re — 'ä' soa 'é', 'w' soa 'v'",
+   "curiosity": "Sem preposição: 'nächste Woche' já vale 'na semana que vem'."
+  },
+  "tr40-09": {
+   "word": "das ganze Jahr",
+   "translit": null,
+   "example": "Im Süden ist es das ganze Jahr warm.",
+   "examplePt": "No sul é quente o ano inteiro.",
+   "pron": "das GAN-tse YAR — 'z' soa 'ts'",
+   "curiosity": "'Ganz' é inteiro e também intensifica: 'ganz toll'."
+  },
+  "tr40-10": {
+   "word": "mitten in der Nacht",
+   "translit": null,
+   "example": "Mitten in der Nacht hörte ich ein Geräusch.",
+   "examplePt": "De madrugada, ouvi um barulho.",
+   "pron": "MI-ten in der NARRT — 'ch' gutural",
+   "curiosity": "'Mitten' vem de 'Mitte' (meio): no meio da noite."
+  },
+  "tr41-01": {
+   "word": "es sei denn",
+   "translit": null,
+   "example": "Wir gehen raus, es sei denn, es regnet.",
+   "examplePt": "Vamos sair, a menos que chova.",
+   "pron": "és ZAI dén — 'ei' soa 'ai', 's' soa 'z'",
+   "curiosity": "Expressão fixa com subjuntivo: 'sei' vem de 'sein'."
+  },
+  "tr41-02": {
+   "word": "solange",
+   "translit": null,
+   "example": "Du darfst spielen, solange du leise bist.",
+   "examplePt": "Você pode brincar, desde que fique quieto.",
+   "pron": "zo-LAN-ge — 's' soa 'z'",
+   "curiosity": "'Solange' junta 'so' e 'lange': tão longo quanto, ou seja, enquanto."
+  },
+  "tr41-03": {
+   "word": "einerseits",
+   "translit": null,
+   "example": "Einerseits ist es teuer, andererseits schön.",
+   "examplePt": "Por um lado é caro, por outro é bonito.",
+   "pron": "AI-ner-zaits — 'ei' soa 'ai'",
+   "curiosity": "'-seits' vem de 'Seite' (lado): einerseits, 'de um lado'."
+  },
+  "tr41-04": {
+   "word": "andererseits",
+   "translit": null,
+   "example": "Das Auto ist toll; andererseits ist es laut.",
+   "examplePt": "O carro é ótimo; por outro lado é barulhento.",
+   "pron": "AN-de-rer-zaits — 'ei' soa 'ai'",
+   "curiosity": "Quase sempre vem depois de 'einerseits', formando o par."
+  },
+  "tr41-05": {
+   "word": "anstatt",
+   "translit": null,
+   "example": "Anstatt Eis esse ich einen Apfel.",
+   "examplePt": "Em vez de sorvete, como uma maçã.",
+   "pron": "an-SCHTAT — 'st' soa 'scht'",
+   "curiosity": "Tem versão curta, 'statt', com o mesmo sentido."
+  },
+  "tr41-06": {
+   "word": "trotz",
+   "translit": null,
+   "example": "Trotz des Regens gehen wir raus.",
+   "examplePt": "Apesar da chuva, vamos sair.",
+   "pron": "TROTS — 'tz' soa 'ts'",
+   "curiosity": "Na escrita pede genitivo, mas muitos falam com dativo."
+  },
+  "tr41-07": {
+   "word": "dank",
+   "translit": null,
+   "example": "Dank deiner Hilfe schaffen wir es.",
+   "examplePt": "Graças à sua ajuda, conseguimos.",
+   "pron": "DANK — 'k' final",
+   "curiosity": "'Danke' (obrigado) vem do substantivo 'Dank'."
+  },
+  "tr41-08": {
+   "word": "wegen",
+   "translit": null,
+   "example": "Wegen des Schnees fällt die Schule aus.",
+   "examplePt": "Devido à neve, a aula foi cancelada.",
+   "pron": "VÊ-guen — 'w' soa 'v'",
+   "curiosity": "Na fala informal ouve-se 'wegen dir' em vez de 'wegen deiner'."
+  },
+  "tr41-09": {
+   "word": "gemäß",
+   "translit": null,
+   "example": "Gemäß Plan kommt der Zug um acht.",
+   "examplePt": "De acordo com o plano, o trem chega às oito.",
+   "pron": "ge-MÉS — 'ä' longo soa 'é', 'ß' soa 's'",
+   "curiosity": "É mais formal que 'laut' e aparece em regras, leis e contratos."
+  },
+  "tr41-10": {
+   "word": "zusammenfassend",
+   "translit": null,
+   "example": "Zusammenfassend: Es war ein toller Tag!",
+   "examplePt": "Em resumo: foi um dia ótimo!",
+   "pron": "tsu-ZA-men-fa-ssent — 'z' soa 'ts'",
+   "curiosity": "Vem de 'zusammenfassen' (resumir): 'fassen' é pegar, juntar."
+  },
+  "tr42-01": {
+   "word": "Ich stimme teilweise zu",
+   "translit": null,
+   "example": "Gutes Argument, ich stimme teilweise zu.",
+   "examplePt": "Bom argumento, concordo em parte.",
+   "pron": "iç SCHTI-me TAIL-vai-ze TSU — 'st' soa 'scht'",
+   "curiosity": "'Zustimmen' é separável e pede dativo: 'ich stimme dir zu'."
+  },
+  "tr42-02": {
+   "word": "Ich bin völlig anderer Meinung",
+   "translit": null,
+   "example": "Ich bin völlig anderer Meinung, tut mir leid.",
+   "examplePt": "Discordo totalmente, desculpe.",
+   "pron": "iç BIN FÖ-liç AN-de-rer MAI-nung — 'ö' entre 'o' e 'e'",
+   "curiosity": "Literalmente 'sou de outra opinião': a forma educada de discordar."
+  },
+  "tr42-03": {
+   "word": "Das ergibt keinen Sinn",
+   "translit": null,
+   "example": "Das ergibt keinen Sinn. Wer hat das gesagt?",
+   "examplePt": "Isso não faz sentido. Quem disse isso?",
+   "pron": "das er-GIPT KAI-nen ZIN — 'z' soa 'ts' só em 'zu'; aqui 's' soa 'z'",
+   "curiosity": "'Sinn' é sentido, e 'Sinne' são os cinco sentidos."
+  },
+  "tr42-04": {
+   "word": "Es lohnt sich, es zu probieren",
+   "translit": null,
+   "example": "Lohnt sich der Ausflug? Ja, es lohnt sich!",
+   "examplePt": "Vale a pena o passeio? Sim, vale a pena!",
+   "pron": "és LÔNT ziç és tsu pro-BI-ren — 'z' soa 'ts'",
+   "curiosity": "'Lohn' é salário: o que 'lohnt sich' paga o esforço."
+  },
+  "tr42-05": {
+   "word": "Das ist Geschmackssache",
+   "translit": null,
+   "example": "Pizza mit Ananas? Das ist Geschmackssache.",
+   "examplePt": "Pizza com abacaxi? É questão de gosto.",
+   "pron": "das ist ge-SCHMAKS-za-re — 'sch' como 'ch' de chá",
+   "curiosity": "Literalmente 'coisa de gosto'; 'Geschmack' também é sabor."
+  },
+  "tr42-06": {
+   "word": "Ich stehe hinter dir",
+   "translit": null,
+   "example": "Egal was passiert, ich stehe hinter dir.",
+   "examplePt": "Aconteça o que acontecer, estou do seu lado.",
+   "pron": "iç SCHTÊ-e HIN-ter DIR — 'st' soa 'scht'",
+   "curiosity": "Literalmente 'estou atrás de você': apoio, não ameaça."
+  },
+  "tr42-07": {
+   "word": "Ich sehe kein Problem darin",
+   "translit": null,
+   "example": "Ich sehe kein Problem darin. Gehen wir!",
+   "examplePt": "Não vejo problema nisso. Vamos!",
+   "pron": "iç ZÊ-e KAIN pro-BLÊM da-RIN — 'ei' soa 'ai'",
+   "curiosity": "'Darin' junta 'da' + 'in': 'nisso'."
+  },
+  "tr42-08": {
+   "word": "Das hängt vom Standpunkt ab",
+   "translit": null,
+   "example": "Ist der Film gut? Das hängt vom Standpunkt ab.",
+   "examplePt": "O filme é bom? Depende do ponto de vista.",
+   "pron": "das RÉNKT fom SCHTAND-punkt AP — 'v' soa 'f'",
+   "curiosity": "'Standpunkt' é 'ponto onde se está em pé': o ponto de vista."
+  },
+  "tr42-09": {
+   "word": "Wer hätte das gedacht!",
+   "translit": null,
+   "example": "Du hast gewonnen? Wer hätte das gedacht!",
+   "examplePt": "Você ganhou? Quem diria!",
+   "pron": "VER RÉ-te das ge-DARRT — 'ä' soa 'é'",
+   "curiosity": "Usa o 'Konjunktiv II': 'hätte' (teria) dá tom de surpresa."
+  },
+  "tr42-10": {
+   "word": "Kannst du das beweisen?",
+   "translit": null,
+   "example": "Kannst du das beweisen? Zeig mir den Beweis!",
+   "examplePt": "Você pode provar isso? Mostre-me a prova!",
+   "pron": "KANST du das be-VAI-zen — 'w' soa 'v', 'ei' soa 'ai'",
+   "curiosity": "'Beweisen' tem a raiz de 'weisen' (mostrar): provar é mostrar."
+  },
+  "tr43-01": {
+   "word": "ein Angebot erstellen",
+   "translit": null,
+   "example": "Wir erstellen ein Angebot für den Zaun.",
+   "examplePt": "Fazemos um orçamento para a cerca.",
+   "pron": "ain AN-gue-bot er-SCHTÉ-len — 'st' soa 'scht'",
+   "curiosity": "'Angebot' vem de 'bieten' (oferecer): é a oferta de um preço."
+  },
+  "tr43-02": {
+   "word": "eine Erstattung fordern",
+   "translit": null,
+   "example": "Der Flug fiel aus: Ich fordere eine Erstattung.",
+   "examplePt": "O voo foi cancelado: peço um reembolso.",
+   "pron": "AI-ne er-SCHTA-tung FOR-dern — 'st' soa 'scht'",
+   "curiosity": "'Fordern' (exigir) é forte; para suavizar diz-se 'Ich hätte gern...'."
+  },
+  "tr43-03": {
+   "word": "bar bezahlen",
+   "translit": null,
+   "example": "Hier kann man nur bar bezahlen.",
+   "examplePt": "Aqui só se pode pagar à vista.",
+   "pron": "BAR be-TSA-len — 'z' soa 'ts'",
+   "curiosity": "'Bar' é dinheiro vivo e também o bar: duas palavras iguais."
+  },
+  "tr43-04": {
+   "word": "in Raten zahlen",
+   "translit": null,
+   "example": "Das Sofa kann ich in Raten zahlen.",
+   "examplePt": "O sofá eu posso pagar parcelado.",
+   "pron": "in RA-ten TSA-len — 'z' soa 'ts'",
+   "curiosity": "'Rate' (parcela) vem do italiano 'rata'."
+  },
+  "tr43-05": {
+   "word": "den Vertrag verlängern",
+   "translit": null,
+   "example": "Ich möchte den Vertrag verlängern.",
+   "examplePt": "Quero renovar o contrato.",
+   "pron": "den fer-TRAK fer-LÉN-gern — 'v' soa 'f'",
+   "curiosity": "'Lang' está dentro de 'verlängern': tornar mais longo."
+  },
+  "tr43-06": {
+   "word": "ein Konto eröffnen",
+   "translit": null,
+   "example": "Ich möchte heute ein Konto eröffnen.",
+   "examplePt": "Quero abrir uma conta hoje.",
+   "pron": "ain KON-to er-ÖF-nen — 'ö' entre 'o' e 'e'",
+   "curiosity": "'Eröffnen' serve para abrir conta, loja ou exposição."
+  },
+  "tr43-07": {
+   "word": "einen Kredit aufnehmen",
+   "translit": null,
+   "example": "Für das Haus nehmen sie einen Kredit auf.",
+   "examplePt": "Para a casa, eles pedem um empréstimo.",
+   "pron": "AI-nen kre-DIT AUF-nê-men — 'ei' soa 'ai'",
+   "curiosity": "'Kredit' vem do latim 'credere' (acreditar): crédito é confiança."
+  },
+  "tr43-08": {
+   "word": "eine Gebühr verlangen",
+   "translit": null,
+   "example": "Die Bank verlangt eine kleine Gebühr.",
+   "examplePt": "O banco cobra uma pequena taxa.",
+   "pron": "AI-ne ge-BÜR fer-LAN-guen — 'ü' com lábios de 'u'",
+   "curiosity": "'Gebühr' é taxa de serviço; imposto é 'Steuer'."
+  },
+  "tr43-09": {
+   "word": "die Steuer erklären",
+   "translit": null,
+   "example": "Im Frühling erklären viele die Steuer.",
+   "examplePt": "Na primavera, muitos declaram o imposto.",
+   "pron": "di SCHTOI-er er-KLÊ-ren — 'eu' soa 'ói'",
+   "curiosity": "'Das Steuer' (neutro) é o volante; 'die Steuer' (feminino) é o imposto."
+  },
+  "tr43-10": {
+   "word": "Verlust machen",
+   "translit": null,
+   "example": "Der Laden macht Verlust im Winter.",
+   "examplePt": "A loja tem prejuízo no inverno.",
+   "pron": "fer-LUST MA-ren — 'v' soa 'f'",
+   "curiosity": "'Verlust' vem de 'verlieren' (perder)."
+  },
+  "tr44-01": {
+   "word": "die Geduld verlieren",
+   "translit": null,
+   "example": "Beim Stau verliere ich die Geduld.",
+   "examplePt": "No trânsito, perco a paciência.",
+   "pron": "di ge-DULT fer-LI-ren — 'd' final soa 't'",
+   "curiosity": "'Geduld' vem de 'dulden' (suportar, tolerar)."
+  },
+  "tr44-02": {
+   "word": "kaltes Blut bewahren",
+   "translit": null,
+   "example": "Bei Gefahr bewahrt sie kaltes Blut.",
+   "examplePt": "Diante do perigo, ela mantém o sangue frio.",
+   "pron": "KAL-tes BLUT be-VÁ-ren — 'w' soa 'v'",
+   "curiosity": "'Blut' é neutro: 'kaltes Blut', com final '-es'."
+  },
+  "tr44-03": {
+   "word": "sein Herz ausschütten",
+   "translit": null,
+   "example": "Bei Oma schütte ich gern mein Herz aus.",
+   "examplePt": "Com a vovó, gosto de abrir o coração.",
+   "pron": "zain RÉRTS AUS-schü-ten — 'z' soa 'ts' em 'Herz'",
+   "curiosity": "Literalmente 'despejar o coração': 'ausschütten' é derramar."
+  },
+  "tr44-04": {
+   "word": "mit den Schultern zucken",
+   "translit": null,
+   "example": "Er zuckte nur mit den Schultern.",
+   "examplePt": "Ele só deu de ombros.",
+   "pron": "mit den SCHUL-tern TSU-ken — 'z' soa 'ts'",
+   "curiosity": "'Schulterzucken' vira substantivo: o gesto de dar de ombros."
+  },
+  "tr44-05": {
+   "word": "seine Nase in alles stecken",
+   "translit": null,
+   "example": "Meine Schwester steckt ihre Nase überall hinein.",
+   "examplePt": "Minha irmã mete o nariz em tudo.",
+   "pron": "ZAI-ne NÁ-ze in A-les SCHTÉ-ken — 'ei' soa 'ai'",
+   "curiosity": "Com 'die Nase voll haben' diz-se que se está farto."
+  },
+  "tr44-06": {
+   "word": "einen Kloß im Hals haben",
+   "translit": null,
+   "example": "Vor Rührung hatte ich einen Kloß im Hals.",
+   "examplePt": "De emoção, fiquei com um nó na garganta.",
+   "pron": "AI-nen KLÔS im HALS RÁ-ben — 'ß' soa 'ss'",
+   "curiosity": "'Kloß' também é um bolinho de batata típico."
+  },
+  "tr44-07": {
+   "word": "die Arme verschränken",
+   "translit": null,
+   "example": "Er stand da und verschränkte die Arme.",
+   "examplePt": "Ele ficou parado de braços cruzados.",
+   "pron": "di AR-me fer-SCHRÉN-ken — 'sch' como 'ch' de chá",
+   "curiosity": "'Arm' é braço e também pobre: 'der Arm' e 'arm'."
+  },
+  "tr44-08": {
+   "word": "ein gebrochenes Herz haben",
+   "translit": null,
+   "example": "Nach dem Abschied hatte sie ein gebrochenes Herz.",
+   "examplePt": "Depois da despedida, ela estava com o coração partido.",
+   "pron": "ain ge-BRÔ-çe-nes RÉRTS RÁ-ben — 'z' soa 'ts'",
+   "curiosity": "'Gebrochen' é o particípio de 'brechen', que já vimos."
+  },
+  "tr44-09": {
+   "word": "die Hand ins Feuer legen",
+   "translit": null,
+   "example": "Für ihn würde ich die Hand ins Feuer legen.",
+   "examplePt": "Por ele eu colocaria a mão no fogo.",
+   "pron": "di RANT ins FÓI-er LÊ-guen — 'eu' soa 'ói'",
+   "curiosity": "Usa-se 'für' + pessoa: 'für ihn' mostra por quem se garante."
+  },
+  "tr44-10": {
+   "word": "wie auf Eiern gehen",
+   "translit": null,
+   "example": "Nach dem Streit ging ich wie auf Eiern.",
+   "examplePt": "Depois da briga, pisei em ovos.",
+   "pron": "vi auf AI-ern GÊ-en — 'ei' soa 'ai'",
+   "curiosity": "'Ei' é ovo e o plural é 'Eier': a expressão fala de andar sobre ovos."
+  },
+  "tr45-01": {
+   "word": "Kleinvieh macht auch Mist",
+   "translit": null,
+   "example": "Ich spare jeden Cent: Kleinvieh macht auch Mist.",
+   "examplePt": "Poupo cada centavo: de grão em grão.",
+   "pron": "KLAIN-fi MARRT AUCH MIST — 'v' soa 'f', 'ch' gutural",
+   "curiosity": "Literalmente 'gado miúdo também faz esterco': o pouco soma."
+  },
+  "tr45-02": {
+   "word": "Steter Tropfen höhlt den Stein",
+   "translit": null,
+   "example": "Jeden Tag üben: Steter Tropfen höhlt den Stein.",
+   "examplePt": "Praticar todo dia: água mole em pedra dura.",
+   "pron": "SCHTÊ-ter TRÓ-pfen HÖLT den SCHTAIN — 'ö' entre 'o' e 'e'",
+   "curiosity": "'Tropfen' é gota e 'Stein' é pedra: a mesma imagem do português."
+  },
+  "tr45-03": {
+   "word": "Nicht alles, was glänzt, ist Gold",
+   "translit": null,
+   "example": "Der Ring glänzt, aber nicht alles, was glänzt, ist Gold.",
+   "examplePt": "O anel brilha, mas nem tudo que reluz é ouro.",
+   "pron": "NIÇT A-les VAS GLÉNTS ist GOLT — 'ä' soa 'é'",
+   "curiosity": "O mesmo provérbio existe em inglês e em muitas línguas."
+  },
+  "tr45-04": {
+   "word": "Gegensätze ziehen sich an",
+   "translit": null,
+   "example": "Sie ist laut, er ist leise: Gegensätze ziehen sich an.",
+   "examplePt": "Ela é barulhenta, ele é quieto: os opostos se atraem.",
+   "pron": "GUÊ-guen-zé-tse TSI-en ziç AN — 'z' soa 'ts'",
+   "curiosity": "'Gegensatz' é oposto; 'gegen' quer dizer contra."
+  },
+  "tr45-05": {
+   "word": "Sehen ist Glauben",
+   "translit": null,
+   "example": "Ein Eisbär in der Stadt? Sehen ist Glauben!",
+   "examplePt": "Um urso polar na cidade? Ver para crer!",
+   "pron": "ZÊ-en ist GLAU-ben — 'au' soa 'au'",
+   "curiosity": "Cuidado: 'sehen' é irregular, 'du siehst', 'er sieht'."
+  },
+  "tr45-06": {
+   "word": "Wie der Vater, so der Sohn",
+   "translit": null,
+   "example": "Beide singen laut: wie der Vater, so der Sohn.",
+   "examplePt": "Os dois cantam alto: tal pai, tal filho.",
+   "pron": "VI der FÁ-ter ZO der ZÔN — 'w' soa 'v'",
+   "curiosity": "Existe a versão feminina: 'wie die Mutter, so die Tochter'."
+  },
+  "tr45-07": {
+   "word": "Lieber allein als falsche Freunde",
+   "translit": null,
+   "example": "Sozinho? Lieber allein als falsche Freunde.",
+   "examplePt": "Sozinho? Antes só do que com falsos amigos.",
+   "pron": "LI-ber a-LAIN als FAL-sche FROIN-de — 'ie' soa 'i' longo, 'eu' soa 'ói'",
+   "curiosity": "'Freund' é amigo; o plural 'Freunde' soa 'fróin-de', e a amiga é 'Freundin'."
+  },
+  "tr45-08": {
+   "word": "Auf Regen folgt Sonnenschein",
+   "translit": null,
+   "example": "Nicht traurig sein: Auf Regen folgt Sonnenschein.",
+   "examplePt": "Não fique triste: depois da chuva vem o sol.",
+   "pron": "auf RÊ-guen FÓLKT ZÓ-nen-schain — 'ei' soa 'ai'",
+   "curiosity": "'Schein' é brilho e também nota de dinheiro ou certificado."
+  },
+  "tr45-09": {
+   "word": "Eine Schwalbe macht keinen Sommer",
+   "translit": null,
+   "example": "Ein warmer Tag? Eine Schwalbe macht keinen Sommer.",
+   "examplePt": "Um dia quente? Uma andorinha não faz verão.",
+   "pron": "AI-ne SCHVAL-be MARRT KAI-nen ZÓ-mer — 'schw' soa 'schv'",
+   "curiosity": "Em inglês existe o mesmo ditado: 'One swallow doesn't make a summer'."
+  },
+  "tr45-10": {
+   "word": "Viele Köpfe, viele Sinne",
+   "translit": null,
+   "example": "Jeder will etwas anderes: viele Köpfe, viele Sinne.",
+   "examplePt": "Cada um quer algo diferente: cada cabeça, uma sentença.",
+   "pron": "FI-le KÖ-pfe FI-le ZI-ne — 'v' soa 'f', 'ö' entre 'o' e 'e'",
+   "curiosity": "'Kopf' vira 'Köpfe' no plural: o trema muda a vogal."
+  },
+  "tr46-01": {
+   "word": "überwinden",
+   "translit": null,
+   "example": "Sie überwindet ihre Angst vor Hunden.",
+   "examplePt": "Ela supera o medo de cães.",
+   "pron": "ü-ber-VIN-den — 'ü' com lábios de 'u', 'w' soa 'v'",
+   "curiosity": "Este verbo é inseparável: 'ich überwinde', sem partícula solta."
+  },
+  "tr46-02": {
+   "word": "sich stellen",
+   "translit": null,
+   "example": "Wir stellen uns dem Problem.",
+   "examplePt": "Enfrentamos o problema.",
+   "pron": "ziç SCHTÉ-len — 'st' soa 'scht'",
+   "curiosity": "Literalmente 'colocar-se': 'sich stellen' é enfrentar ou se entregar."
+  },
+  "tr46-03": {
+   "word": "erobern",
+   "translit": null,
+   "example": "Die Kinder erobern den Spielplatz!",
+   "examplePt": "As crianças conquistam o parquinho!",
+   "pron": "er-Ô-bern — 'o' fechado",
+   "curiosity": "Serve para conquistar lugares e corações: 'ein Herz erobern'."
+  },
+  "tr46-04": {
+   "word": "aufgeben",
+   "translit": null,
+   "example": "Gib nicht auf, du schaffst es!",
+   "examplePt": "Não desista, você consegue!",
+   "pron": "AUF-gê-ben — 'au' soa 'au'",
+   "curiosity": "'Aufgeben' também é despachar mala; 'Hausaufgabe' vem do mesmo verbo."
+  },
+  "tr46-05": {
+   "word": "zögern",
+   "translit": null,
+   "example": "Zögerst du noch? Spring doch!",
+   "examplePt": "Ainda hesita? Pule logo!",
+   "pron": "TSÖ-gern — 'ö' como 'eu' em 'peu' francês",
+   "curiosity": "'Ohne zu zögern' é a expressão para 'sem hesitar'."
+  },
+  "tr46-06": {
+   "word": "sich anpassen",
+   "translit": null,
+   "example": "Pinguine passen sich der Kälte an.",
+   "examplePt": "Pinguins se adaptam ao frio.",
+   "pron": "ziç AN-pa-sen — 'a' aberto",
+   "curiosity": "'Passen' é servir; 'sich anpassen' é ajustar-se."
+  },
+  "tr46-07": {
+   "word": "klären",
+   "translit": null,
+   "example": "Wir klären das Missverständnis sofort.",
+   "examplePt": "Esclarecemos o mal-entendido já.",
+   "pron": "KLÉ-ren — 'ä' soa 'é'",
+   "curiosity": "Vem de 'klar' (claro): 'klären' é tornar claro."
+  },
+  "tr46-08": {
+   "word": "teilen",
+   "translit": null,
+   "example": "Teilst du den Kuchen mit mir?",
+   "examplePt": "Você divide o bolo comigo?",
+   "pron": "TAI-len — 'ei' soa 'ai'",
+   "curiosity": "'Teil' é parte; 'teilen' é dividir e 'mitteilen' é comunicar."
+  },
+  "tr46-09": {
+   "word": "beitragen",
+   "translit": null,
+   "example": "Jeder kann etwas zum Projekt beitragen.",
+   "examplePt": "Todos podem contribuir com algo no projeto.",
+   "pron": "BAI-tra-guen — 'ei' soa 'ai'",
+   "curiosity": "'Beitrag' é contribuição, mas também mensalidade e artigo de jornal."
+  },
+  "tr46-10": {
+   "word": "beeinflussen",
+   "translit": null,
+   "example": "Musik beeinflusst meine Laune.",
+   "examplePt": "A música influencia meu humor.",
+   "pron": "be-AIN-flu-sen — 'ei' soa 'ai'",
+   "curiosity": "'Fluss' (rio) está dentro: 'Einfluss' é literalmente 'fluir para dentro'."
+  },
+  "tr47-01": {
+   "word": "Ich habe online eingecheckt",
+   "translit": null,
+   "example": "Nur Handgepäck: Ich habe online eingecheckt.",
+   "examplePt": "Só bagagem de mão: fiz o check-in online.",
+   "pron": "iç RA-be ON-lain AIN-ge-çékt — 'ei' soa 'ai'",
+   "curiosity": "Verbo separável no perfeito: 'ein-ge-checkt', com 'ge' no meio."
+  },
+  "tr47-02": {
+   "word": "Ich möchte das Ticket umbuchen",
+   "translit": null,
+   "example": "Ich möchte das Ticket umbuchen: Geht Freitag?",
+   "examplePt": "Quero mudar a passagem: pode ser sexta?",
+   "pron": "iç MÖÇ-te das TI-ket UM-bu-ren — 'ch' suave",
+   "curiosity": "'Buchen' (reservar) vem de 'Buch' (livro): reservas eram anotadas em livros."
+  },
+  "tr47-03": {
+   "word": "Ich habe den Anschluss verpasst",
+   "translit": null,
+   "example": "Mist! Ich habe den Anschluss verpasst. Gibt es einen späteren?",
+   "examplePt": "Que droga! Perdi a conexão. Tem uma mais tarde?",
+   "pron": "iç RA-be den AN-schlus fer-PAST — 'sch' como 'ch' de chá",
+   "curiosity": "'Verpassen' é perder uma conexão ou ocasião; 'verlieren' é perder objeto."
+  },
+  "tr47-04": {
+   "word": "Ich brauche ein Visum",
+   "translit": null,
+   "example": "Brauche ich ein Visum für Brasilien?",
+   "examplePt": "Preciso de visto para o Brasil?",
+   "pron": "iç BRAU-re ain VI-zum — 'v' soa 'v' nesta palavra",
+   "curiosity": "'Visum' é neutro e o plural é 'Visa'."
+  },
+  "tr47-05": {
+   "word": "Das Boarding hat begonnen",
+   "translit": null,
+   "example": "Das Boarding hat begonnen! Schnell zum Gate.",
+   "examplePt": "O embarque começou! Rápido ao portão.",
+   "pron": "das BÓR-ding hat be-GÓ-nen — 'o' aberto",
+   "curiosity": "'Boarding' é anglicismo; o termo em alemão é 'Einsteigen'."
+  },
+  "tr47-06": {
+   "word": "Darf das ins Handgepäck?",
+   "translit": null,
+   "example": "Meine Wasserflasche ist leer. Darf das ins Handgepäck?",
+   "examplePt": "Minha garrafa está vazia. Pode ir na bagagem de mão?",
+   "pron": "DARF das ins RANT-ge-pék — 'h' aspirado",
+   "curiosity": "'Dürfen' é ter permissão: 'Darf ich?' é a pergunta de pedir licença."
+  },
+  "tr47-07": {
+   "word": "Mein Koffer ist zu schwer",
+   "translit": null,
+   "example": "Meine Güte, mein Koffer ist zu schwer!",
+   "examplePt": "Nossa, minha mala está pesada demais!",
+   "pron": "main KÓ-fer ist TSU SCHVÊR — 'sch' como 'ch' de chá, 'w' soa 'v'",
+   "curiosity": "'Schwer' é pesado e também difícil."
+  },
+  "tr47-08": {
+   "word": "Ich möchte am Gang sitzen",
+   "translit": null,
+   "example": "Ich möchte am Gang sitzen, wegen der langen Beine.",
+   "examplePt": "Quero sentar no corredor por causa das pernas longas.",
+   "pron": "iç MÖÇ-te am GANG ZI-tsen — 'ng' como em 'ring'",
+   "curiosity": "'Gang' é corredor, marcha do carro e prato de uma refeição."
+  },
+  "tr47-09": {
+   "word": "Hast du eine Reiseversicherung?",
+   "translit": null,
+   "example": "Hast du eine Reiseversicherung? Ich nicht.",
+   "examplePt": "Você tem seguro viagem? Eu não.",
+   "pron": "HAST du AI-ne RAI-ze-fer-zi-çe-rung — 'ei' soa 'ai'",
+   "curiosity": "'Versicherung' vem de 'sicher' (seguro, certo)."
+  },
+  "tr47-10": {
+   "word": "Welche Zeitzone gilt dort?",
+   "translit": null,
+   "example": "Welche Zeitzone gilt dort? Ich rufe Oma an.",
+   "examplePt": "Qual é o fuso horário de lá? Vou ligar para a vovó.",
+   "pron": "VÉL-çe TSAIT-tsô-ne GILT DORT — 'z' soa 'ts'",
+   "curiosity": "A Alemanha inteira usa um único fuso horário."
+  },
+  "tr48-01": {
+   "word": "Ich fasse es nicht!",
+   "translit": null,
+   "example": "Du hast mein Bild gemalt? Ich fasse es nicht!",
+   "examplePt": "Você pintou meu retrato? Não acredito!",
+   "pron": "iç FA-se és NIÇT — 'ch' suave",
+   "curiosity": "Literalmente 'não consigo agarrar isso': 'fassen' é agarrar e compreender."
+  },
+  "tr48-02": {
+   "word": "Wie peinlich!",
+   "translit": null,
+   "example": "Ich habe den Namen vergessen. Wie peinlich!",
+   "examplePt": "Esqueci o nome. Que vergonha!",
+   "pron": "VI PAIN-liç — 'w' soa 'v', 'ei' soa 'ai'",
+   "curiosity": "'Peinlich' vem de 'Pein' (dor), como o inglês 'pain'."
+  },
+  "tr48-03": {
+   "word": "Was für eine Erleichterung!",
+   "translit": null,
+   "example": "Der Test ist vorbei. Was für eine Erleichterung!",
+   "examplePt": "A prova acabou. Que alívio!",
+   "pron": "VAS für AI-ne er-LAIÇ-te-rung — 'w' soa 'v'",
+   "curiosity": "'Was für ein' + substantivo faz exclamações: 'Was für ein Tag!'."
+  },
+  "tr48-04": {
+   "word": "Ich vermisse dich so!",
+   "translit": null,
+   "example": "Oma ist weit weg. Ich vermisse dich so!",
+   "examplePt": "A vovó está longe. Sinto tanta saudade!",
+   "pron": "iç fer-MI-se DIÇ ZÔ — 'v' soa 'f'",
+   "curiosity": "O alemão não tem uma palavra só para 'saudade': usa 'vermissen' e 'Sehnsucht'."
+  },
+  "tr48-05": {
+   "word": "Das ist doch absurd!",
+   "translit": null,
+   "example": "Vinte euros por uma água? Das ist doch absurd!",
+   "examplePt": "Vinte euros por uma água? Que absurdo!",
+   "pron": "das ist DOCH ap-ZURT — 'ch' gutural, 'b' soa 'p'",
+   "curiosity": "'Doch' é uma partícula de ênfase: 'Das ist doch...' = mas isso é..."
+  },
+  "tr48-06": {
+   "word": "Was für ein Zufall!",
+   "translit": null,
+   "example": "Du auch hier? Was für ein Zufall!",
+   "examplePt": "Você também aqui? Que coincidência!",
+   "pron": "VAS für ain TSU-fal — 'z' soa 'ts', 'w' soa 'v'",
+   "curiosity": "'Zufall' vem de 'zufallen': algo que 'cai sobre você' sem plano."
+  },
+  "tr48-07": {
+   "word": "Herzlichen Glückwunsch!",
+   "translit": null,
+   "example": "Herzlichen Glückwunsch zum Geburtstag!",
+   "examplePt": "Parabéns pelo aniversário!",
+   "pron": "RÉRTS-li-çen GLÜK-vunsch — 'z' soa 'ts', 'ü' com lábios de 'u'",
+   "curiosity": "Literalmente 'desejo de sorte cordial': Glück + Wunsch."
+  },
+  "tr48-08": {
+   "word": "Was für ein Schreck!",
+   "translit": null,
+   "example": "Eine Maus im Schuh? Was für ein Schreck!",
+   "examplePt": "Um rato no sapato? Que susto!",
+   "pron": "VAS für ain SCHRÉK — 'sch' como 'ch' de chá",
+   "curiosity": "'Der Schreck' é o susto e 'erschrecken' é assustar-se."
+  },
+  "tr48-09": {
+   "word": "Wie süß!",
+   "translit": null,
+   "example": "Ein Welpe mit großen Ohren? Wie süß!",
+   "examplePt": "Um filhote com orelhas grandes? Que fofo!",
+   "pron": "VI ZÜS — 'w' soa 'v', 'ü' com lábios de 'u'",
+   "curiosity": "'Süß' é doce de sabor e também fofo."
+  },
+  "tr48-10": {
+   "word": "Wie unglaublich!",
+   "translit": null,
+   "example": "Wir haben Karten gewonnen? Wie unglaublich!",
+   "examplePt": "Ganhamos ingressos? Que incrível!",
+   "pron": "VI UN-glaup-liç — 'au' soa 'au', 'b' soa 'p'",
+   "curiosity": "'Un-' nega: 'unglaublich' é 'não crível', mas serve de elogio."
+  },
+  "tr49-01": {
+   "word": "Ich habe Erfahrung auf dem Gebiet",
+   "translit": null,
+   "example": "Seit drei Jahren habe ich Erfahrung auf dem Gebiet.",
+   "examplePt": "Há três anos tenho experiência na área.",
+   "pron": "iç RA-be er-FA-rung auf dêm ge-BIT — 'ie' soa 'i' longo",
+   "curiosity": "'Erfahrung' vem de 'fahren': experiência é o que se 'viaja' na vida."
+  },
+  "tr49-02": {
+   "word": "Ich spreche drei Sprachen",
+   "translit": null,
+   "example": "Ich spreche drei Sprachen und lerne die vierte.",
+   "examplePt": "Falo três idiomas e estou aprendendo o quarto.",
+   "pron": "iç SCHPRÉ-çe DRAI SCHPRA-rren — 'sp' soa 'schp'",
+   "curiosity": "'Sprechen' muda de vogal: ich spreche, du sprichst."
+  },
+  "tr49-03": {
+   "word": "Ich arbeite gern im Team",
+   "translit": null,
+   "example": "Ich arbeite gern im Team, nicht allein.",
+   "examplePt": "Gosto de trabalhar em equipe, não sozinho.",
+   "pron": "iç AR-bai-te GÉRN im TIM — 'ei' soa 'ai'",
+   "curiosity": "'Gern' vem junto ao verbo para dizer que se gosta: 'ich singe gern'."
+  },
+  "tr49-04": {
+   "word": "Wie hoch ist das Gehalt?",
+   "translit": null,
+   "example": "Und wie hoch ist das Gehalt?",
+   "examplePt": "E qual é a remuneração?",
+   "pron": "VI HÔR ist das ge-HALT — 'w' soa 'v'",
+   "curiosity": "'Gehalt' é o salário mensal e 'Lohn' costuma ser pago por hora."
+  },
+  "tr49-05": {
+   "word": "Wann ist der erste Arbeitstag?",
+   "translit": null,
+   "example": "Wann ist der erste Arbeitstag? Ich bin bereit.",
+   "examplePt": "Quando é o primeiro dia? Estou pronto.",
+   "pron": "VAN ist der ÉR-ste AR-baits-tak — 'ei' soa 'ai'",
+   "curiosity": "'Arbeitstag' junta 'Arbeit' e 'Tag': dia útil."
+  },
+  "tr49-06": {
+   "word": "Ich suche eine Stelle",
+   "translit": null,
+   "example": "Ich suche eine Stelle als Koch.",
+   "examplePt": "Procuro um emprego de cozinheiro.",
+   "pron": "iç ZU-re AI-ne SCHTÉ-le — 'st' soa 'scht'",
+   "curiosity": "'Stelle' é posto de trabalho e também lugar: 'an dieser Stelle'."
+  },
+  "tr49-07": {
+   "word": "Ich habe gekündigt",
+   "translit": null,
+   "example": "Weil ich reisen möchte, habe ich gekündigt.",
+   "examplePt": "Como quero viajar, pedi demissão.",
+   "pron": "iç RA-be ge-KÜN-diçt — 'ü' com lábios de 'u'",
+   "curiosity": "O mesmo verbo vale para quem demite: o contexto diz quem fez."
+  },
+  "tr49-08": {
+   "word": "Ich wurde befördert",
+   "translit": null,
+   "example": "Ich wurde befördert! Wir feiern heute.",
+   "examplePt": "Fui promovido! Hoje comemoramos.",
+   "pron": "iç VUR-de be-FÖR-dert — 'w' soa 'v'",
+   "curiosity": "'Befördern' é promover e também transportar: avançar nos dois casos."
+  },
+  "tr49-09": {
+   "word": "Ich brauche einen freien Tag",
+   "translit": null,
+   "example": "Ich brauche einen freien Tag, bitte.",
+   "examplePt": "Preciso de uma folga, por favor.",
+   "pron": "iç BRAU-re AI-nen FRAI-en TAK — 'ei' soa 'ai'",
+   "curiosity": "'Frei' é livre e também de folga: 'frei haben'."
+  },
+  "tr49-10": {
+   "word": "Ich bin arbeitslos",
+   "translit": null,
+   "example": "Ich bin arbeitslos, aber suche fleißig.",
+   "examplePt": "Estou desempregado, mas procuro com afinco.",
+   "pron": "iç BIN AR-baits-lôs — 'ei' soa 'ai'",
+   "curiosity": "'Arbeit' + '-los' (sem): desempregado é 'sem trabalho'."
+  },
+  "tr50-01": {
+   "word": "An deiner Stelle",
+   "translit": null,
+   "example": "An deiner Stelle würde ich warten.",
+   "examplePt": "Se eu fosse você, eu esperaria.",
+   "pron": "an DAI-ner SCHTÉ-le — 'st' soa 'scht'",
+   "curiosity": "Para conselhos usa-se 'würde' + infinitivo."
+  },
+  "tr50-02": {
+   "word": "Ich hätte gehen sollen",
+   "translit": null,
+   "example": "Ich hätte gehen sollen, es war zu spät.",
+   "examplePt": "Eu deveria ter ido, era tarde demais.",
+   "pron": "iç RÉ-te GÊ-en ZÓ-len — 'ä' soa 'é'",
+   "curiosity": "'Hätte ... sollen' é 'deveria ter': o verbo 'gehen' vem antes."
+  },
+  "tr50-03": {
+   "word": "Das war knapp",
+   "translit": null,
+   "example": "Der Zug fuhr los, das war knapp!",
+   "examplePt": "O trem partiu, foi por pouco!",
+   "pron": "das VAR KNAP — 'k' é pronunciado",
+   "curiosity": "'Knapp' é por pouco e também justo ou curto."
+  },
+  "tr50-04": {
+   "word": "Je mehr, desto besser",
+   "translit": null,
+   "example": "Je mehr Obst, desto besser!",
+   "examplePt": "Quanto mais fruta, melhor!",
+   "pron": "YÊ MÊR DÉS-to BÉ-ser — 'j' soa 'i'",
+   "curiosity": "Estrutura: 'je' + comparativo, 'desto' + comparativo."
+  },
+  "tr50-05": {
+   "word": "Auf jeden Fall",
+   "translit": null,
+   "example": "Kommst du mit? Auf jeden Fall!",
+   "examplePt": "Você vem? Com certeza!",
+   "pron": "auf YÊ-den FAL — 'au' soa 'au'",
+   "curiosity": "Também significa em todo caso: o tom decide."
+  },
+  "tr50-06": {
+   "word": "Auf keinen Fall!",
+   "translit": null,
+   "example": "Noch eine Stunde Schule? Auf keinen Fall!",
+   "examplePt": "Mais uma hora de aula? Nem pensar!",
+   "pron": "auf KAI-nen FAL — 'ei' soa 'ai'",
+   "curiosity": "É o oposto de 'auf jeden Fall': 'kein' nega o substantivo."
+  },
+  "tr50-07": {
+   "word": "Man weiß ja nie",
+   "translit": null,
+   "example": "Nimm einen Regenschirm mit. Man weiß ja nie.",
+   "examplePt": "Leve um guarda-chuva. Nunca se sabe.",
+   "pron": "MAN VAIS ya NI — 'w' soa 'v', 'ß' soa 'ss'",
+   "curiosity": "'Man' significa 'a gente', não é 'Mann' (homem)."
+  },
+  "tr50-08": {
+   "word": "Schwamm drüber!",
+   "translit": null,
+   "example": "Es war ein Fehler. Schwamm drüber!",
+   "examplePt": "Foi um erro. Deixa para lá!",
+   "pron": "SCHVAM DRÜ-ber — 'schw' soa 'schv'",
+   "curiosity": "Literalmente 'esponja por cima': apaga como num quadro."
+  },
+  "tr50-09": {
+   "word": "Warum nicht?",
+   "translit": null,
+   "example": "Pizza zum Frühstück? Warum nicht?",
+   "examplePt": "Pizza no café da manhã? Por que não?",
+   "pron": "VA-rum NIÇT — 'w' soa 'v'",
+   "curiosity": "'Warum' é a pergunta por quê; a resposta é com 'weil' (porque)."
+  },
+  "tr50-10": {
+   "word": "Vielleicht ein andermal",
+   "translit": null,
+   "example": "Heute nicht. Vielleicht ein andermal.",
+   "examplePt": "Hoje não. Talvez outra hora.",
+   "pron": "fi-LAIÇT ain AN-der-mal — 'v' soa 'f', 'ei' soa 'ai'",
+   "curiosity": "'Andermal' é outra vez: 'ein andermal' escreve-se junto."
+  }
+ }
+}

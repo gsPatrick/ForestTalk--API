@@ -1,7 +1,7 @@
 {
  "game": "pronunciation",
  "language": "en",
- "version": 1,
+ "version": 2,
  "entries": {
   "sp01-01": {
    "word": "great",
@@ -1922,6 +1922,1286 @@
    "examplePt": "Tenha uma ótima semana; estude e se divirta.",
    "pron": "HÉV a GREIT UIK — 'have' tem 'a' aberto; 'week' tem 'i' longo",
    "curiosity": "Nos calendários americanos, a semana começa no domingo."
+  },
+  "sp31-01": {
+   "word": "Can you give me a hand?",
+   "translit": null,
+   "example": "Sure, what do you need help with?",
+   "examplePt": "Claro, com o que você precisa de ajuda?",
+   "pron": "KÉN iu GUIV mi a RÉND — 'hand' tem 'h' soprado e 'a' aberto",
+   "curiosity": "'Give me a hand' não é dar a mão: é ajudar com uma tarefa."
+  },
+  "sp31-02": {
+   "word": "Would you mind waiting?",
+   "translit": null,
+   "example": "Not at all, I have plenty of time.",
+   "examplePt": "De jeito nenhum, tenho bastante tempo.",
+   "pron": "UD iu MAIND UEI-tin — 'would' tem 'l' mudo",
+   "curiosity": "Depois de 'Would you mind', 'No' ou 'Not at all' quer dizer 'sim, posso'."
+  },
+  "sp31-03": {
+   "word": "Could you repeat that, please?",
+   "translit": null,
+   "example": "Sorry, the music was too loud.",
+   "examplePt": "Desculpe, a música estava alta demais.",
+   "pron": "KUD iu ri-PIT dhét, pliz — 'th' de 'that' com a língua entre os dentes",
+   "curiosity": "'Pardon?' e 'Come again?' são outros jeitos de pedir que repitam."
+  },
+  "sp31-04": {
+   "word": "Can I borrow your charger?",
+   "translit": null,
+   "example": "Mine died an hour ago!",
+   "examplePt": "O meu morreu há uma hora!",
+   "pron": "KÉN ai BÓ-rou ior TCHAR-dyer — 'r' do inglês não vibra",
+   "curiosity": "'Borrow' é pegar emprestado; 'lend' é emprestar: não confunda os dois."
+  },
+  "sp31-05": {
+   "word": "May I ask a favor?",
+   "translit": null,
+   "example": "Of course, go ahead and ask.",
+   "examplePt": "Claro, pode perguntar.",
+   "pron": "MEI ai ÉSK a FEI-vor — 'may' soa 'mêi'",
+   "curiosity": "Nos EUA, escreve-se 'favor'; no Reino Unido, 'favour'."
+  },
+  "sp31-06": {
+   "word": "Please speak a little slower",
+   "translit": null,
+   "example": "Oh, sorry, I talk too fast sometimes.",
+   "examplePt": "Ah, desculpe, às vezes falo rápido demais.",
+   "pron": "pliz SPIK a LI-tol SLÔU-er — 'speak' tem 'i' longo",
+   "curiosity": "Dizem 'slower' ou 'more slowly'; ambos são aceitos no dia a dia."
+  },
+  "sp31-07": {
+   "word": "Could you save my seat?",
+   "translit": null,
+   "example": "My jacket on it will mark the spot.",
+   "examplePt": "Meu casaco nela vai marcar o lugar.",
+   "pron": "KUD iu SEIV mai SIT — 'seat' tem 'i' longo, não 'sit'",
+   "curiosity": "'Seat' (assento) e 'sit' (sentar) diferem só pelo tamanho do 'i'."
+  },
+  "sp31-08": {
+   "word": "Could you open the window?",
+   "translit": null,
+   "example": "It's stuffy in here, isn't it?",
+   "examplePt": "Está abafado aqui, não é?",
+   "pron": "KUD iu Ô-pen dhe UIN-dou — 'window' termina em 'ou'",
+   "curiosity": "'Window' vem do nórdico antigo e significa algo como 'olho do vento'."
+  },
+  "sp32-01": {
+   "word": "I'd like a table by the window",
+   "translit": null,
+   "example": "Is there one with a nice view?",
+   "examplePt": "Tem uma com uma bela vista?",
+   "pron": "AID LAIK a TEI-bol bai dhe UIN-dou — 'I'd' é 'I would'",
+   "curiosity": "'I'd like' é bem mais educado do que 'I want' ao pedir algo."
+  },
+  "sp32-02": {
+   "word": "The check, please, when you can",
+   "translit": null,
+   "example": "Of course, I'll bring it right away.",
+   "examplePt": "Claro, já trago a conta.",
+   "pron": "dhe TCHEK, pliz, uén iu KÉN — 'check' acaba em 'tch'",
+   "curiosity": "Nos EUA pede-se 'the check'; no Reino Unido, 'the bill'."
+  },
+  "sp32-03": {
+   "word": "What do you recommend today?",
+   "translit": null,
+   "example": "Our soup is very popular.",
+   "examplePt": "Nossa sopa é muito popular.",
+   "pron": "UÓT du iu rê-ko-MÉND tu-DEI — 'recommend' tem dois 'm'",
+   "curiosity": "'Recommend' tem um 'c' e dois 'm': r-e-c-o-m-m-e-n-d."
+  },
+  "sp32-04": {
+   "word": "Does this dish have pepper?",
+   "translit": null,
+   "example": "No, but I can add some.",
+   "examplePt": "Não, mas posso acrescentar um pouco.",
+   "pron": "DÂZ dhis DISH hév PÉ-per — 'dish' termina em 'ch' suave",
+   "curiosity": "'Dish' também pode ser 'prato' no sentido de receita, não só de louça."
+  },
+  "sp32-05": {
+   "word": "Could you bring more bread?",
+   "translit": null,
+   "example": "Sure, warm or cold?",
+   "examplePt": "Claro, quente ou frio?",
+   "pron": "KUD iu BRING mór BRÉD — 'bread' tem 'é' e o 'r' do inglês",
+   "curiosity": "'Bread' é incontável: não existe 'breads' para um pão só."
+  },
+  "sp32-06": {
+   "word": "I'm ready to order now",
+   "translit": null,
+   "example": "Great, what would you like?",
+   "examplePt": "Ótimo, o que você gostaria?",
+   "pron": "AIM RÉ-di tu Ó-der NAU — 'ready' soa 'rédi'",
+   "curiosity": "'To order' também é 'pedir' no restaurante, não só 'ordenar'."
+  },
+  "sp32-07": {
+   "word": "I'd like my steak well done",
+   "translit": null,
+   "example": "Okay, no pink in the middle.",
+   "examplePt": "Certo, nada de rosado no meio.",
+   "pron": "AID LAIK mai STEIK uél DÂN — 'steak' soa 'steik'",
+   "curiosity": "'Well done' é bem passado; 'rare' é malpassado e 'medium' ao ponto."
+  },
+  "sp32-08": {
+   "word": "Can we split the check?",
+   "translit": null,
+   "example": "Yes, each person pays half.",
+   "examplePt": "Sim, cada pessoa paga metade.",
+   "pron": "KÉN ui SPLIT dhe TCHEK — 'split' tem 'sp' junto",
+   "curiosity": "'Split' é dividir; 'go Dutch' é cada um pagar a sua parte."
+  },
+  "sp33-01": {
+   "word": "I'm just looking, thank you",
+   "translit": null,
+   "example": "Take your time, just ask me.",
+   "examplePt": "Fique à vontade, é só me chamar.",
+   "pron": "AIM DJÂST LU-kin, THÉNK iu — 'thank' com 'th' surdo",
+   "curiosity": "'Thank you' tem 'th' surdo: a língua toca de leve nos dentes."
+  },
+  "sp33-02": {
+   "word": "Do you have a smaller size?",
+   "translit": null,
+   "example": "Let me check the back room.",
+   "examplePt": "Vou ver no estoque.",
+   "pron": "DU iu HÉV a SMÓ-ler SAIZ — 'smaller' com 'ó' aberto",
+   "curiosity": "Tamanhos mudam: 'size 8' nos EUA não é o 38 do Brasil."
+  },
+  "sp33-03": {
+   "word": "Can I try this shirt on?",
+   "translit": null,
+   "example": "The fitting rooms are over there.",
+   "examplePt": "Os provadores ficam logo ali.",
+   "pron": "KÉN ai TRAI dhis TCHÂRT ON — 'shirt' tem 'ârt' sem o 'r' forte",
+   "curiosity": "'Try on' é verbo composto: 'try on a shirt' ou 'try it on'."
+  },
+  "sp33-04": {
+   "word": "Do you accept credit cards?",
+   "translit": null,
+   "example": "Yes, all major cards work.",
+   "examplePt": "Sim, os principais cartões funcionam.",
+   "pron": "DU iu êk-SÉPT KRÉ-dit KARDS — 'accept' tem 'ac' fechado",
+   "curiosity": "'Accept' e 'except' soam parecido, mas significam coisas opostas."
+  },
+  "sp33-05": {
+   "word": "It's a bit expensive for me",
+   "translit": null,
+   "example": "Then let's look at cheaper ones.",
+   "examplePt": "Então vamos ver os mais baratos.",
+   "pron": "ITS a BIT ik-SPÉN-siv fór MI — 'expensive' tem tônica no 'pen'",
+   "curiosity": "'A bit' suaviza a frase: soa mais educado do que 'too expensive'."
+  },
+  "sp33-06": {
+   "word": "Is there a cash discount?",
+   "translit": null,
+   "example": "Ten percent off if you pay cash.",
+   "examplePt": "Dez por cento de desconto no dinheiro.",
+   "pron": "IZ dhér a KÉSH DIS-kaunt — 'cash' tem 'é' aberto",
+   "curiosity": "'Discount' vem de 'des-' + 'count', de contar para menos."
+  },
+  "sp33-07": {
+   "word": "Could you gift wrap this?",
+   "translit": null,
+   "example": "Certainly, with a ribbon too?",
+   "examplePt": "Claro, com uma fita também?",
+   "pron": "KUD iu GUIFT RÉP dhis — 'wrap' tem 'w' mudo",
+   "curiosity": "Em 'wrap', o 'w' é mudo: soa 'rép', como em 'wrong' e 'write'."
+  },
+  "sp33-08": {
+   "word": "I'd like to exchange this",
+   "translit": null,
+   "example": "Where is the receipt from yesterday?",
+   "examplePt": "Cadê o recibo de ontem?",
+   "pron": "AID LAIK tu iks-TCHEINDJ dhis — 'exchange' soa 'ikstcheindj'",
+   "curiosity": "'Receipt' tem 'p' mudo: soa 'ri-SIT'."
+  },
+  "sp34-01": {
+   "word": "I missed my connection",
+   "translit": null,
+   "example": "Don't worry, the next flight is soon.",
+   "examplePt": "Calma, o próximo voo é logo.",
+   "pron": "AI MIST mai kô-NÉK-chan — 'missed' termina em 't'",
+   "curiosity": "'Miss' pode ser perder (o voo) ou sentir falta de alguém."
+  },
+  "sp34-02": {
+   "word": "Where is the boarding gate?",
+   "translit": null,
+   "example": "Follow the signs to gate twelve.",
+   "examplePt": "Siga as placas até o portão doze.",
+   "pron": "UÉR iz dhe BÓR-din GUEIT — 'boarding' com 'ó' aberto",
+   "curiosity": "Em 'boarding school', 'boarding' vem de embarcar, como no avião."
+  },
+  "sp34-03": {
+   "word": "My suitcase did not arrive",
+   "translit": null,
+   "example": "Fill out this form at the desk.",
+   "examplePt": "Preencha este formulário no balcão.",
+   "pron": "mai SUT-keis DID NÓT â-RAIV — 'suitcase' soa 'sutkeis'",
+   "curiosity": "'Luggage' (bagagem) é incontável: diga 'a piece of luggage'."
+  },
+  "sp34-04": {
+   "word": "Our flight left with a delay",
+   "translit": null,
+   "example": "How long will we wait here?",
+   "examplePt": "Quanto tempo vamos esperar aqui?",
+   "pron": "AUR FLAIT LÉFT uidh a di-LEI — 'flight' tem 'gh' mudo",
+   "curiosity": "O 'gh' de 'flight' é mudo, assim como em 'night' e 'light'."
+  },
+  "sp34-05": {
+   "word": "I'd like an aisle seat",
+   "translit": null,
+   "example": "Window seats are all taken, sorry.",
+   "examplePt": "Os assentos de janela acabaram.",
+   "pron": "AID LAIK an AIL SIT — 'aisle' tem 's' mudo, soa 'ail'",
+   "curiosity": "'Aisle' é corredor e 'isle' é ilha, mas ambos soam 'ail'."
+  },
+  "sp34-06": {
+   "word": "I need to check this bag",
+   "translit": null,
+   "example": "Place it on the scale, please.",
+   "examplePt": "Coloque-o na balança, por favor.",
+   "pron": "AI NID tu TCHEK dhis BÉG — 'bag' tem 'é' aberto",
+   "curiosity": "'Check in' é apresentar-se ao embarque; 'check' sozinho é despachar."
+  },
+  "sp34-07": {
+   "word": "What time does boarding start?",
+   "translit": null,
+   "example": "Boarding begins at ten forty.",
+   "examplePt": "O embarque começa às dez e quarenta.",
+   "pron": "UÓT TAIM dâz BÓR-din START — 'what' soa 'uót'",
+   "curiosity": "'Boarding' vem de 'board', que também significa 'tábua' e 'convés'."
+  },
+  "sp34-08": {
+   "word": "I'm going through customs now",
+   "translit": null,
+   "example": "Anything to declare, sir?",
+   "examplePt": "Algo a declarar, senhor?",
+   "pron": "AIM GÔ-in THRU KÂS-tams — 'through' começa com 'th' surdo",
+   "curiosity": "'Customs' no plural é a alfândega; 'custom' é costume."
+  },
+  "sp35-01": {
+   "word": "I have a reservation under my name",
+   "translit": null,
+   "example": "Let me find it, one moment.",
+   "examplePt": "Deixe-me achar, um momento.",
+   "pron": "AI HÉV a ré-ser-VEI-chan ÂN-der mai NEIM — 'reservation' tem 'ei' no 'vei'",
+   "curiosity": "Em inglês, 'reservation' é reserva; 'booking' é comum no Reino Unido."
+  },
+  "sp35-02": {
+   "word": "What time is breakfast served?",
+   "translit": null,
+   "example": "From six thirty until ten.",
+   "examplePt": "Das seis e meia até as dez.",
+   "pron": "UÓT TAIM iz BRÉK-fast SÉRVD — 'breakfast' soa 'brékfast'",
+   "curiosity": "'Breakfast' vem de 'break the fast': quebrar o jejum da noite."
+  },
+  "sp35-03": {
+   "word": "The shower is not working",
+   "translit": null,
+   "example": "Someone will come up right now.",
+   "examplePt": "Alguém vai subir agora mesmo.",
+   "pron": "dhe SHAU-er iz NÓT UÉR-kin — 'shower' soa 'chaua'",
+   "curiosity": "'Not working' serve para qualquer aparelho que não funciona."
+  },
+  "sp35-04": {
+   "word": "Could you call me a taxi?",
+   "translit": null,
+   "example": "Yes, it will arrive in five minutes.",
+   "examplePt": "Sim, chega em cinco minutos.",
+   "pron": "KUD iu KÓL mi a TÉK-si — 'call' com 'ó' aberto",
+   "curiosity": "'Taxi' e 'cab' são sinônimos: ambos aparecem nos EUA."
+  },
+  "sp35-05": {
+   "word": "I need some more towels",
+   "translit": null,
+   "example": "Fresh ones are coming up shortly.",
+   "examplePt": "Os limpos já estão subindo.",
+   "pron": "AI NID sâm MÓR TAU-els — 'towels' soa 'taus'",
+   "curiosity": "'Towel' rima com 'owl' e tem duas sílabas curtas: TAU-el."
+  },
+  "sp35-06": {
+   "word": "I'm staying until Friday",
+   "translit": null,
+   "example": "Then check out is on Friday morning.",
+   "examplePt": "Então a saída é na manhã de sexta.",
+   "pron": "AIM STEI-in ân-TIL FRAI-dei — 'until' com 'ân' no começo",
+   "curiosity": "Os dias da semana em inglês sempre levam inicial maiúscula."
+  },
+  "sp35-07": {
+   "word": "Is there Wi-Fi in the room?",
+   "translit": null,
+   "example": "Yes, the password is on the card.",
+   "examplePt": "Sim, a senha está no cartão.",
+   "pron": "IZ dhér UAI-fai in dhe RUM — 'Wi-Fi' soa 'uaifai'",
+   "curiosity": "'Wi-Fi' é pronunciado 'uai-fai', sem som de 'i' longo no meio."
+  },
+  "sp35-08": {
+   "word": "Is the room on the second floor?",
+   "translit": null,
+   "example": "No, it's on the third floor.",
+   "examplePt": "Não, fica no terceiro andar.",
+   "pron": "IZ dhe RUM on dhe SÉ-kand FLÓR — 'floor' com 'ó' aberto",
+   "curiosity": "Nos EUA o térreo é 'first floor'; no Reino Unido, 'ground floor'."
+  },
+  "sp36-01": {
+   "word": "Turn left at the light",
+   "translit": null,
+   "example": "Then keep going until the bridge.",
+   "examplePt": "Depois siga até a ponte.",
+   "pron": "TÉRN LÉFT ét dhe LAIT — 'turn' tem 'r' que não vibra",
+   "curiosity": "'Light' pode significar 'semáforo' em orientações de trânsito."
+  },
+  "sp36-02": {
+   "word": "Go straight for two blocks",
+   "translit": null,
+   "example": "After that, you will see a park.",
+   "examplePt": "Depois disso, você verá um parque.",
+   "pron": "GOU STREIT fór TU BLÓKS — 'straight' soa 'streit'",
+   "curiosity": "'Straight' é reto; 'strait' é estreito, e ambos soam igual."
+  },
+  "sp36-03": {
+   "word": "It's right next to the bank",
+   "translit": null,
+   "example": "You can't miss the big sign.",
+   "examplePt": "Você não tem como errar a placa grande.",
+   "pron": "ITS RAIT NÉKST tu dhe BÉNK — 'next' junta 'ks' e 't'",
+   "curiosity": "'Next to' quer dizer 'ao lado de': 'right next to' reforça a ideia."
+  },
+  "sp36-04": {
+   "word": "Is it far from here on foot?",
+   "translit": null,
+   "example": "About ten minutes, not far.",
+   "examplePt": "Uns dez minutos, não é longe.",
+   "pron": "IZ it FAR frâm HIR ón FUT — 'foot' tem 'u' curto",
+   "curiosity": "O plural de 'foot' é 'feet', um plural irregular famoso."
+  },
+  "sp36-05": {
+   "word": "I think we are lost",
+   "translit": null,
+   "example": "Someone here must know the way.",
+   "examplePt": "Alguém aqui deve saber o caminho.",
+   "pron": "AI THINK UI AR LÓST — 'think' começa com 'th' surdo",
+   "curiosity": "'Lost' e 'lose' são parentes: 'I lost my way' é 'me perdi'."
+  },
+  "sp36-06": {
+   "word": "Is there a shortcut around here?",
+   "translit": null,
+   "example": "Yes, cut through the park.",
+   "examplePt": "Sim, corte pelo parque.",
+   "pron": "IZ dhér a SHÓRT-kât a-RAUND HIR — 'shortcut' junta 'short' e 'cut'",
+   "curiosity": "'Shortcut' é uma palavra composta: 'short' + 'cut', atalho."
+  },
+  "sp36-07": {
+   "word": "Where can I park the car?",
+   "translit": null,
+   "example": "There's a lot behind the store.",
+   "examplePt": "Há um estacionamento atrás da loja.",
+   "pron": "UÉR KÉN ai PARK dhe KAR — 'park' e 'car' com 'r' suave",
+   "curiosity": "'Parking lot' é estacionamento nos EUA; 'car park' no Reino Unido."
+  },
+  "sp36-08": {
+   "word": "The bus comes every ten minutes",
+   "translit": null,
+   "example": "So we never wait very long.",
+   "examplePt": "Assim nunca esperamos muito.",
+   "pron": "dhe BÂS KÂMZ É-vri TÉN MI-nits — 'every' tem 'e' curto e 2 sílabas",
+   "curiosity": "'Every' costuma soar com duas sílabas só: 'É-vri', não 'e-ve-ri'."
+  },
+  "sp37-01": {
+   "word": "My head is throbbing",
+   "translit": null,
+   "example": "A pill and some rest should help.",
+   "examplePt": "Um comprimido e descanso devem ajudar.",
+   "pron": "mai HÉD iz THRÓ-bin — 'throbbing' começa com 'thr'",
+   "curiosity": "'Throbbing' descreve a dor pulsante, como um batimento."
+  },
+  "sp37-02": {
+   "word": "I'm allergic to peanuts",
+   "translit": null,
+   "example": "Then please avoid the trail mix.",
+   "examplePt": "Então evite a mistura de castanhas.",
+   "pron": "AIM a-LÉR-djik tu PI-nâts — 'allergic' soa 'alérdjik'",
+   "curiosity": "'Allergic' vem de 'allergy', com 'g' de 'dj' nas duas palavras."
+  },
+  "sp37-03": {
+   "word": "Can you suggest some medicine?",
+   "translit": null,
+   "example": "Try this one, it works fast.",
+   "examplePt": "Experimente este, funciona rápido.",
+   "pron": "KÉN iu sâg-DJÉST sâm MÉ-di-sin — 'suggest' soa 'sâgdjést'",
+   "curiosity": "'Medicine' tem duas ou três sílabas: 'MÉD-sin' é o normal."
+  },
+  "sp37-04": {
+   "word": "I've had a cough since yesterday",
+   "translit": null,
+   "example": "Drink warm tea with honey.",
+   "examplePt": "Beba chá quente com mel.",
+   "pron": "AIV HÉD a KÓF SINS iés-ter-dei — 'cough' acaba em 'f'",
+   "curiosity": "'Cough' rima com 'off', não com 'though' nem 'through'."
+  },
+  "sp37-05": {
+   "word": "I need a bandage",
+   "translit": null,
+   "example": "Here's one, and some tape too.",
+   "examplePt": "Aqui está um, e fita também.",
+   "pron": "AI NID a BÉN-didj — 'bandage' acaba em 'idj'",
+   "curiosity": "'Bandage' vem de 'band', faixa; também pode ser verbo: enfaixar."
+  },
+  "sp37-06": {
+   "word": "How often should I take this?",
+   "translit": null,
+   "example": "Twice a day, after meals.",
+   "examplePt": "Duas vezes ao dia, após refeições.",
+   "pron": "HAU Ó-fan SHUD ai TEIK dhis — 'often' pode ter o 't' mudo",
+   "curiosity": "'Twice' quer dizer duas vezes, e 'once' uma vez: ambos são especiais."
+  },
+  "sp37-07": {
+   "word": "I think I have a fever",
+   "translit": null,
+   "example": "Let me check your temperature.",
+   "examplePt": "Deixe-me medir sua temperatura.",
+   "pron": "AI THINK AI HÉV a FI-ver — 'fever' tem 'i' longo",
+   "curiosity": "'Have a fever' é o verbo certo; nunca 'be a fever'."
+  },
+  "sp37-08": {
+   "word": "I need to make an appointment",
+   "translit": null,
+   "example": "What day works best for you?",
+   "examplePt": "Que dia é melhor para você?",
+   "pron": "AI NID tu MEIK an a-PÓINT-mant — 'appointment' tem 'ói'",
+   "curiosity": "'Appointment' é consulta ou compromisso marcado, e não 'apontamento'."
+  },
+  "sp38-01": {
+   "word": "I'm so excited today",
+   "translit": null,
+   "example": "Why? What are you planning?",
+   "examplePt": "Por quê? O que você está planejando?",
+   "pron": "AIM SÔU ik-SAI-tid tu-DEI — 'excited' tem 'ai' forte",
+   "curiosity": "'Excited' é para felicidade; 'exciting' descreve o que causa a emoção."
+  },
+  "sp38-02": {
+   "word": "I was disappointed by the result",
+   "translit": null,
+   "example": "Maybe next time will go better.",
+   "examplePt": "Talvez da próxima corra melhor.",
+   "pron": "AI UÓZ dis-a-PÓIN-tid bai dhe ri-ZÂLT — 'disappointed' tem 'ói'",
+   "curiosity": "'Disappointed' leva dois 'p' e um 's' duplo no meio: dis-a-pp-oint-ed."
+  },
+  "sp38-03": {
+   "word": "What a relief, it worked out",
+   "translit": null,
+   "example": "Yes, we can finally relax now.",
+   "examplePt": "Sim, finalmente podemos relaxar.",
+   "pron": "UÓT a ri-LIF, it UÉRKT AUT — 'relief' tem 'i' longo",
+   "curiosity": "'What a relief!' é um desabafo que pode ser dito sozinho."
+  },
+  "sp38-04": {
+   "word": "I'm so embarrassed right now",
+   "translit": null,
+   "example": "Don't worry, everyone does it.",
+   "examplePt": "Calma, todo mundo faz isso.",
+   "pron": "AIM SÔU im-BÉ-rast RAIT NAU — 'embarrassed' tem dois 'r' e dois 's'",
+   "curiosity": "'Embarrassed' tem dois 'r' e dois 's', uma grafia traiçoeira."
+  },
+  "sp38-05": {
+   "word": "I'm nervous about the test",
+   "translit": null,
+   "example": "You studied a lot, you'll do well.",
+   "examplePt": "Você estudou muito, vai se sair bem.",
+   "pron": "AIM NÉR-vas a-BAUT dhe TÉST — 'nervous' tem 'érr' no começo",
+   "curiosity": "Os americanos falam 'test' ou 'exam': 'test' é mais comum na escola."
+  },
+  "sp38-06": {
+   "word": "I feel proud of you",
+   "translit": null,
+   "example": "That means a lot to me.",
+   "examplePt": "Isso significa muito para mim.",
+   "pron": "AI FIL PRAUD âv IU — 'proud' tem 'au'",
+   "curiosity": "'Proud' é o adjetivo e 'pride' é o substantivo: 'with pride'."
+  },
+  "sp38-07": {
+   "word": "I miss home so much",
+   "translit": null,
+   "example": "Call your family tonight, then.",
+   "examplePt": "Então ligue para sua família hoje à noite.",
+   "pron": "AI MIS HÔUM SÔU MÂTCH — 'home' tem 'h' soprado",
+   "curiosity": "'Homesick' é o adjetivo exato para quem tem saudade de casa."
+  },
+  "sp38-08": {
+   "word": "I can't stop laughing",
+   "translit": null,
+   "example": "Same here, this is hilarious!",
+   "examplePt": "Comigo também, isto é hilário!",
+   "pron": "AI KÉNT STÓP LÉ-fin — 'laughing' soa 'léfin'",
+   "curiosity": "'Laugh' tem 'gh' que soa 'f': 'léf', como em 'enough'."
+  },
+  "sp39-01": {
+   "word": "Let's start the meeting",
+   "translit": null,
+   "example": "Everyone, please take your seats.",
+   "examplePt": "Pessoal, sentem-se, por favor.",
+   "pron": "LÉTS START dhe MI-tin — 'meeting' com 'i' longo",
+   "curiosity": "'Let's' é a contração de 'let us' e convida o grupo a agir."
+  },
+  "sp39-02": {
+   "word": "May I make a suggestion?",
+   "translit": null,
+   "example": "Please do, we need fresh ideas.",
+   "examplePt": "Faça, precisamos de ideias novas.",
+   "pron": "MEI ai MEIK a sâg-DJÉS-chan — 'suggestion' tem 'tch' no final",
+   "curiosity": "Em inglês, 'make a suggestion' é a forma comum; 'do' não serve."
+  },
+  "sp39-03": {
+   "word": "I agree with your point",
+   "translit": null,
+   "example": "Then let's move to the next item.",
+   "examplePt": "Então passemos ao próximo item.",
+   "pron": "AI a-GRI uidh ior PÓINT — 'agree' tem 'i' longo no final",
+   "curiosity": "'Agree' é seguido de 'with' (pessoa) ou 'on' (assunto)."
+  },
+  "sp39-04": {
+   "word": "The deadline ends on Friday",
+   "translit": null,
+   "example": "Can we finish by Thursday night?",
+   "examplePt": "Dá para terminar até quinta à noite?",
+   "pron": "dhe DÉD-lain ÉNDZ ón FRAI-dei — 'deadline' soa 'dédlain'",
+   "curiosity": "'Deadline' era, na guerra civil americana, uma linha a não cruzar."
+  },
+  "sp39-05": {
+   "word": "I'll review the report today",
+   "translit": null,
+   "example": "Good, send me your comments.",
+   "examplePt": "Ótimo, mande seus comentários.",
+   "pron": "AIL ri-VIU dhe ri-PÓRT tu-DEI — 'review' tem 'iu' final",
+   "curiosity": "'Review' também é a crítica de um filme ou livro, não só a revisão."
+  },
+  "sp39-06": {
+   "word": "Who is in charge of this?",
+   "translit": null,
+   "example": "Maria is leading that project.",
+   "examplePt": "Maria está liderando esse projeto.",
+   "pron": "HU iz in TCHARDJ âv DHIS — 'who' soa 'hu', com 'h' soprado",
+   "curiosity": "'In charge of' quer dizer 'responsável por' e é muito usado no trabalho."
+  },
+  "sp39-07": {
+   "word": "Can we postpone it until tomorrow?",
+   "translit": null,
+   "example": "I think that would be fine.",
+   "examplePt": "Acho que isso seria bom.",
+   "pron": "KÉN ui pôust-PÔUN it ân-TIL ta-MÓ-rou — 'postpone' soa 'poustpôun'",
+   "curiosity": "'Postpone' e 'put off' têm o mesmo sentido: adiar."
+  },
+  "sp39-08": {
+   "word": "I need more time",
+   "translit": null,
+   "example": "Take as long as you need.",
+   "examplePt": "Leve o tempo que precisar.",
+   "pron": "AI NID MÓR TAIM — 'time' soa 'taim'",
+   "curiosity": "'More time' é incontável: nunca diga 'more times' para falar de prazo."
+  },
+  "sp40-01": {
+   "word": "I have five years of experience",
+   "translit": null,
+   "example": "In which field did you work?",
+   "examplePt": "Em que área você trabalhou?",
+   "pron": "AI HÉV FAIV IÍRS âv ik-SPÍ-ri-ans — 'experience' tem 'í' longo",
+   "curiosity": "'Experience' em inglês é 'experiência', mas também 'vivência'."
+  },
+  "sp40-02": {
+   "word": "I enjoy working in a team",
+   "translit": null,
+   "example": "Team spirit matters here as well.",
+   "examplePt": "O espírito de equipe também importa aqui.",
+   "pron": "AI en-DJÓI UÉR-kin in a TIM — 'team' com 'i' longo",
+   "curiosity": "'Teamwork' e 'team player' são elogios comuns em entrevistas."
+  },
+  "sp40-03": {
+   "word": "My greatest strength is organization",
+   "translit": null,
+   "example": "Give me an example, please.",
+   "examplePt": "Dê-me um exemplo, por favor.",
+   "pron": "mai GREI-test STRÉNGTH iz ór-ga-ni-ZEI-chan — 'strength' tem 'ngth'",
+   "curiosity": "'Strength' tem nove letras e só uma vogal: s-t-r-e-n-g-t-h."
+  },
+  "sp40-04": {
+   "word": "I'm very interested in this position",
+   "translit": null,
+   "example": "We'd like to hear more from you.",
+   "examplePt": "Gostaríamos de ouvir mais de você.",
+   "pron": "AIM VÉ-ri IN-tres-tid in dhis pa-ZI-chan — 'interested' tem 3 sílabas",
+   "curiosity": "'Position' também é 'vaga' ou 'cargo' em entrevistas de emprego."
+  },
+  "sp40-05": {
+   "word": "When can I start?",
+   "translit": null,
+   "example": "You could begin next Monday.",
+   "examplePt": "Você poderia começar na segunda.",
+   "pron": "UÉN KÉN ai START — 'when' soa 'uén'",
+   "curiosity": "'Start' e 'begin' são parecidos, mas 'start' é bem mais comum."
+  },
+  "sp40-06": {
+   "word": "I learn quickly and eagerly",
+   "translit": null,
+   "example": "That is a very useful quality.",
+   "examplePt": "Isso é uma qualidade muito útil.",
+   "pron": "AI LÉRN KUIK-li énd Í-ger-li — 'quickly' soa 'kuikli'",
+   "curiosity": "'Eager' é entusiasmado; 'eager beaver' é pessoa muito dedicada."
+  },
+  "sp40-07": {
+   "word": "What is the salary?",
+   "translit": null,
+   "example": "It depends on your experience.",
+   "examplePt": "Depende da sua experiência.",
+   "pron": "UÓT iz dhe SÉ-la-ri — 'salary' tem tônica no 'sa'",
+   "curiosity": "'Salary' vem do latim 'salarium', ligado a sal, segundo os dicionários."
+  },
+  "sp40-08": {
+   "word": "Thank you for the opportunity",
+   "translit": null,
+   "example": "It was a pleasure meeting you.",
+   "examplePt": "Foi um prazer conhecer você.",
+   "pron": "THÉNK iu fór dhi ó-per-TU-ni-ti — 'opportunity' soa 'ópertiuniti'",
+   "curiosity": "'Opportunity' tem cinco sílabas e a tônica cai no 'tu'."
+  },
+  "sp41-01": {
+   "word": "In my opinion, it is worth it",
+   "translit": null,
+   "example": "Then let's go ahead and try it.",
+   "examplePt": "Então vamos em frente e tentar.",
+   "pron": "in mai a-PI-nian, it iz UÉRTH it — 'worth' tem 'th' surdo",
+   "curiosity": "'Worth it' quer dizer que algo compensa o esforço ou o preço."
+  },
+  "sp41-02": {
+   "word": "What do you think of this idea?",
+   "translit": null,
+   "example": "I like it, but it needs work.",
+   "examplePt": "Gosto, mas precisa de ajustes.",
+   "pron": "UÓT du iu THINK âv dhis ai-DI-a — 'idea' tem 3 sílabas",
+   "curiosity": "'What do you think of' e 'about' valem os dois para pedir uma opinião."
+  },
+  "sp41-03": {
+   "word": "I'm not so sure about that",
+   "translit": null,
+   "example": "Why not? Tell me what worries you.",
+   "examplePt": "Por quê? Diga o que te preocupa.",
+   "pron": "AIM NÓT sôu SHUR a-BAUT dhét — 'sure' soa 'chur'",
+   "curiosity": "'Sure' começa com som de 'ch', e não de 's', como em 'sugar'."
+  },
+  "sp41-04": {
+   "word": "I partly agree with you",
+   "translit": null,
+   "example": "Which part do you disagree with?",
+   "examplePt": "Com qual parte você discorda?",
+   "pron": "AI PAR-tli a-GRI uidh IU — 'partly' tem 'r' suave",
+   "curiosity": "'Partly' e 'partially' significam 'em parte', sem diferença prática."
+  },
+  "sp41-05": {
+   "word": "That depends on the situation",
+   "translit": null,
+   "example": "Could you give me a specific case?",
+   "examplePt": "Pode me dar um caso específico?",
+   "pron": "dhét di-PÉNDZ ón dhe si-tchu-EI-chan — 'situation' tem 'tch'",
+   "curiosity": "'It depends' é a resposta mais usada quando não há resposta única."
+  },
+  "sp41-06": {
+   "word": "That is a good argument",
+   "translit": null,
+   "example": "Thanks, I thought about it carefully.",
+   "examplePt": "Obrigado, pensei nisso com cuidado.",
+   "pron": "dhét IZ a GUD AR-giu-mant — 'argument' tem 'gu' forte",
+   "curiosity": "'Argument' pode ser 'discussão' brava ou 'argumento' lógico."
+  },
+  "sp41-07": {
+   "word": "Look at it from another side",
+   "translit": null,
+   "example": "Oh, I never saw it that way.",
+   "examplePt": "Ah, nunca vi por esse lado.",
+   "pron": "LUK ét it frâm a-NÂ-dher SAID — 'another' tem 'th' suave",
+   "curiosity": "'Another' vem de 'an other': 'outro'; é uma palavra só na escrita."
+  },
+  "sp41-08": {
+   "word": "I disagree, but I respect that",
+   "translit": null,
+   "example": "Fair enough, we can differ.",
+   "examplePt": "Justo, podemos pensar diferente.",
+   "pron": "AI dis-a-GRI, bât AI ris-PÉKT dhét — 'respect' tônica no 'spect'",
+   "curiosity": "'Agree to disagree' é a expressão para encerrar um debate com paz."
+  },
+  "sp42-01": {
+   "word": "Sorry I'm late, traffic stopped",
+   "translit": null,
+   "example": "No problem, we just started.",
+   "examplePt": "Sem problema, acabamos de começar.",
+   "pron": "SÓ-ri AIM LEIT, TRÉ-fik STÓPT — 'late' soa 'leit'",
+   "curiosity": "'Traffic' termina em 'c' mas soa 'k', e leva dois 'f' no meio."
+  },
+  "sp42-02": {
+   "word": "It was an accident, forgive me",
+   "translit": null,
+   "example": "Don't worry, it's all forgotten.",
+   "examplePt": "Fique tranquilo, está tudo esquecido.",
+   "pron": "IT UÓZ an ÉK-si-dant, fôr-GUIV mi — 'forgive' soa 'forguiv'",
+   "curiosity": "'Forgive' é irregular: forgive, forgave, forgiven."
+  },
+  "sp42-03": {
+   "word": "It was my fault",
+   "translit": null,
+   "example": "Thanks for owning up to it.",
+   "examplePt": "Obrigado por assumir.",
+   "pron": "IT UÓZ mai FÓLT — 'fault' tem 'l' mudo em alguns sotaques",
+   "curiosity": "'It's my fault' é o jeito direto de assumir um erro em inglês."
+  },
+  "sp42-04": {
+   "word": "I'll make it up to you",
+   "translit": null,
+   "example": "Dinner is on me next time, okay?",
+   "examplePt": "O jantar é por minha conta na próxima, ok?",
+   "pron": "AIL MEIK it ÂP tu IU — 'make it up' junta tudo numa linha só",
+   "curiosity": "'Make it up to you' é um verbo composto: compensar alguém."
+  },
+  "sp42-05": {
+   "word": "I didn't mean to hurt you",
+   "translit": null,
+   "example": "I know, and I appreciate that.",
+   "examplePt": "Eu sei, e agradeço.",
+   "pron": "AI DI-dnt MIN tu HÉRT iu — 'hurt' tem 'h' soprado",
+   "curiosity": "'Hurt' é igual no presente e no passado: 'I hurt, I hurt'."
+  },
+  "sp42-06": {
+   "word": "Shall we drop the subject?",
+   "translit": null,
+   "example": "Yes, let's talk about something else.",
+   "examplePt": "Sim, falemos de outra coisa.",
+   "pron": "SHÉL ui DRÓP dhe SÂB-djékt — 'drop' tem 'ó' aberto",
+   "curiosity": "'Drop it' é a forma curta de pedir para deixar o assunto de lado."
+  },
+  "sp42-07": {
+   "word": "I'm glad you understood",
+   "translit": null,
+   "example": "Of course, we all make mistakes.",
+   "examplePt": "Claro, todos erramos.",
+   "pron": "AIM GLÉD iu ân-der-STUD — 'understood' tem 'oo' curto",
+   "curiosity": "'Understood' é o passado de 'understand', um verbo irregular."
+  },
+  "sp42-08": {
+   "word": "I promise it won't happen again",
+   "translit": null,
+   "example": "Fine, but I will remember that promise.",
+   "examplePt": "Certo, mas vou lembrar dessa promessa.",
+   "pron": "AI PRÓ-mis it UÔUNT HÉ-pen a-GUÉN — 'won't' soa 'uôunt'",
+   "curiosity": "'Won't' e 'want' soam diferentes: 'uôunt' contra 'uónt'."
+  },
+  "sp43-01": {
+   "word": "That was good, I laughed a lot",
+   "translit": null,
+   "example": "Tell it again for the others.",
+   "examplePt": "Conte de novo para os outros.",
+   "pron": "dhét UÓZ GUD, AI LÉFT a LÓT — 'laughed' soa 'léft'",
+   "curiosity": "'Laughed' termina com som de 't' e rima com 'craft'."
+  },
+  "sp43-02": {
+   "word": "You must be joking",
+   "translit": null,
+   "example": "Nope, I'm completely serious.",
+   "examplePt": "Não, estou falando sério.",
+   "pron": "IU MÂST bi DJÔU-kin — 'joking' soa 'djôukin'",
+   "curiosity": "'Joking' e 'kidding' são sinônimos: 'You're kidding!' é igual."
+  },
+  "sp43-03": {
+   "word": "Tell me another joke",
+   "translit": null,
+   "example": "Why did the chicken cross the road?",
+   "examplePt": "Por que a galinha atravessou a rua?",
+   "pron": "TÉL mi a-NÂ-dher DJÔUK — 'joke' tem 'dj' e 'ô' aberto",
+   "curiosity": "'Joke' é piada e 'prank' é pegadinha: duas palavras diferentes."
+  },
+  "sp43-04": {
+   "word": "I nearly fell off my chair",
+   "translit": null,
+   "example": "What was so funny about it?",
+   "examplePt": "Qual era a graça nisso?",
+   "pron": "AI NIR-li FÉL ÓF mai TCHÉR — 'chair' soa 'tchér'",
+   "curiosity": "'Nearly' e 'almost' significam 'quase' e se trocam na maioria dos casos."
+  },
+  "sp43-05": {
+   "word": "I'm just teasing you",
+   "translit": null,
+   "example": "Okay, but I'll get you back.",
+   "examplePt": "Tá, mas eu me vingo depois.",
+   "pron": "AIM DJÂST TI-zin IU — 'teasing' tem 'i' longo",
+   "curiosity": "'Tease' é provocar de brincadeira; entre amigos, não é ofensa."
+  },
+  "sp43-06": {
+   "word": "Why do you look so sleepy?",
+   "translit": null,
+   "example": "I stayed up reading all night.",
+   "examplePt": "Fiquei acordado lendo a noite toda.",
+   "pron": "UAI du iu LUK sôu SLI-pi — 'sleepy' tem 'i' longo",
+   "curiosity": "'Sleepy' é sonolento; 'asleep' é dormindo: dois estados diferentes."
+  },
+  "sp43-07": {
+   "word": "Come on, I know it's a lie",
+   "translit": null,
+   "example": "Okay, you caught me this time.",
+   "examplePt": "Tá, desta vez você me pegou.",
+   "pron": "KÂM ÓN, AI NÔU ITS a LAI — 'lie' soa 'lai'",
+   "curiosity": "'Lie' tem dois sentidos: mentir e deitar-se; o passado muda."
+  },
+  "sp43-08": {
+   "word": "Laughing is good for the soul",
+   "translit": null,
+   "example": "It really lifts my mood too.",
+   "examplePt": "Também levanta meu humor.",
+   "pron": "LÉ-fin iz GUD fór dhe SÔUL — 'soul' soa 'sôul'",
+   "curiosity": "'Laughter is the best medicine' é um provérbio muito conhecido."
+  },
+  "sp44-01": {
+   "word": "I'd love to, but I'm busy",
+   "translit": null,
+   "example": "Maybe we can meet another day.",
+   "examplePt": "Talvez a gente se veja outro dia.",
+   "pron": "AID LÂV tu, bât AIM BI-zi — 'busy' soa 'bizi', sem som de 'u'",
+   "curiosity": "'Busy' tem o 'u' escrito, mas pronuncia-se 'bizi'."
+  },
+  "sp44-02": {
+   "word": "Sadly, I won't be able to come",
+   "translit": null,
+   "example": "That's okay, thanks for telling me.",
+   "examplePt": "Tudo bem, obrigado por avisar.",
+   "pron": "SÉD-li, AI UÔUNT bi EI-bol tu KÂM — 'able' soa 'eibol'",
+   "curiosity": "'Be able to' substitui o 'can' em outros tempos: 'I will be able to'."
+  },
+  "sp44-03": {
+   "word": "Let's do it next time, okay?",
+   "translit": null,
+   "example": "Deal, I'll text you next week.",
+   "examplePt": "Fechado, mando mensagem semana que vem.",
+   "pron": "LÉTS DU it NÉKST TAIM, ou-KEI — 'okay' soa 'oukei'",
+   "curiosity": "'Okay' é uma das palavras mais conhecidas do mundo."
+  },
+  "sp44-04": {
+   "word": "Bring whoever you want",
+   "translit": null,
+   "example": "Great, I'll invite my cousin.",
+   "examplePt": "Ótimo, vou chamar meu primo.",
+   "pron": "BRING hu-É-ver iu UÓNT — 'whoever' tem 'h' soprado",
+   "curiosity": "O sufixo '-ever' reforça: 'whoever', 'whatever', 'whenever'."
+  },
+  "sp44-05": {
+   "word": "What time does the party start?",
+   "translit": null,
+   "example": "Doors open at seven tonight.",
+   "examplePt": "As portas abrem às sete.",
+   "pron": "UÓT TAIM dâz dhe PAR-ti START — 'party' tem 't' fraco",
+   "curiosity": "Nos EUA, o 't' de 'party' soa quase como um 'd' rápido."
+  },
+  "sp44-06": {
+   "word": "Can I bring a dessert?",
+   "translit": null,
+   "example": "Yes, something sweet would be perfect.",
+   "examplePt": "Sim, algo doce seria perfeito.",
+   "pron": "KÉN ai BRING a di-ZÉRT — 'dessert' tem 'z' e tônica no fim",
+   "curiosity": "'Dessert' tem dois 's' e 'desert' só um: o deserto."
+  },
+  "sp44-07": {
+   "word": "Thanks for remembering me",
+   "translit": null,
+   "example": "Of course, you're always on my list.",
+   "examplePt": "Claro, você sempre está na minha lista.",
+   "pron": "THÉNKS fór ri-MÉM-ber-in mi — 'remembering' tem tônica no 'mem'",
+   "curiosity": "'Remember' e 'remind' são diferentes: remind é lembrar alguém."
+  },
+  "sp44-08": {
+   "word": "I'll confirm by tomorrow",
+   "translit": null,
+   "example": "Perfect, just message me when sure.",
+   "examplePt": "Perfeito, avise quando tiver certeza.",
+   "pron": "AIL kan-FÉRM bai ta-MÓ-rou — 'confirm' tem tônica no 'firm'",
+   "curiosity": "'Confirm' tem origem em 'firm', que quer dizer firme ou seguro."
+  },
+  "sp45-01": {
+   "word": "The sky is very cloudy today",
+   "translit": null,
+   "example": "Maybe the sun will come out later.",
+   "examplePt": "Talvez o sol apareça mais tarde.",
+   "pron": "dhe SKAI iz VÉ-ri KLAU-di tu-DEI — 'cloudy' soa 'klaudi'",
+   "curiosity": "'Cloud' é nuvem e 'cloudy' é nublado: o '-y' cria o adjetivo."
+  },
+  "sp45-02": {
+   "word": "It looks like rain this afternoon",
+   "translit": null,
+   "example": "Then my umbrella goes in the bag.",
+   "examplePt": "Então meu guarda-chuva vai na bolsa.",
+   "pron": "IT LUKS laik REIN dhis é-fter-NUN — 'afternoon' tem tônica no 'noon'",
+   "curiosity": "'It looks like rain' é uma frase pronta para previsão."
+  },
+  "sp45-03": {
+   "word": "This heat is unbearable",
+   "translit": null,
+   "example": "Quick, find some shade under that tree!",
+   "examplePt": "Rápido, ache uma sombra naquela árvore!",
+   "pron": "dhis HIT iz ân-BÉ-ra-bol — 'heat' tem 'i' longo",
+   "curiosity": "'Heat' é calor forte; 'warm' é morno e agradável."
+  },
+  "sp45-04": {
+   "word": "The forecast says it will cool down",
+   "translit": null,
+   "example": "Then I'll bring a sweater.",
+   "examplePt": "Então levo um suéter.",
+   "pron": "dhe FÓR-kést SÉZ it UIL KUL DAUN — 'says' soa 'séz'",
+   "curiosity": "'Says' rima com 'fez', e não com 'days'."
+  },
+  "sp45-05": {
+   "word": "Don't forget your umbrella",
+   "translit": null,
+   "example": "Thanks, it's already in my bag.",
+   "examplePt": "Obrigado, já está na minha bolsa.",
+   "pron": "DÔUNT far-GUÉT ior âm-BRÉ-la — 'umbrella' começa com 'âm'",
+   "curiosity": "'Umbrella' vem do italiano 'ombrella', que significa 'sombrinha'."
+  },
+  "sp45-06": {
+   "word": "The wind is far too strong",
+   "translit": null,
+   "example": "Hold your hat or you'll lose it!",
+   "examplePt": "Segure o chapéu ou vai perdê-lo!",
+   "pron": "dhe UÍND iz FAR tu STRÓNG — 'wind' tem 'ind' curto",
+   "curiosity": "'Wind' como vento rima com 'pinned'; como verbo 'enrolar', rima com 'find'."
+  },
+  "sp45-07": {
+   "word": "I love sunny days like this",
+   "translit": null,
+   "example": "Let's have a picnic in the park.",
+   "examplePt": "Vamos fazer um piquenique no parque.",
+   "pron": "AI LÂV SÂ-ni DEIZ laik DHIS — 'sunny' soa 'sâni'",
+   "curiosity": "'Sunny' tem 'sun' dentro: sol mais '-y' dá ensolarado."
+  },
+  "sp45-08": {
+   "word": "It snowed a lot this winter",
+   "translit": null,
+   "example": "Did you build a snowman?",
+   "examplePt": "Você fez um boneco de neve?",
+   "pron": "IT SNÔUD a LÓT dhis UÍN-ter — 'snowed' soa 'snôud'",
+   "curiosity": "'Snow' é verbo também: 'It snows' é 'neva', sem sujeito real."
+  },
+  "sp46-01": {
+   "word": "My battery is running low",
+   "translit": null,
+   "example": "Plug it into my charger, right here.",
+   "examplePt": "Ligue no meu carregador, aqui.",
+   "pron": "mai BÉ-ta-ri iz RÂ-nin LÔU — 'battery' tem 'é' aberto",
+   "curiosity": "'Running low' quer dizer 'acabando': serve para bateria e para comida."
+  },
+  "sp46-02": {
+   "word": "The app won't open at all",
+   "translit": null,
+   "example": "Try restarting your phone first.",
+   "examplePt": "Tente reiniciar o celular primeiro.",
+   "pron": "dhi ÉP UÔUNT Ô-pen ét ÓL — 'app' soa 'ép'",
+   "curiosity": "'App' é a abreviação de 'application', com 'p' no final."
+  },
+  "sp46-03": {
+   "word": "Could you send me the link?",
+   "translit": null,
+   "example": "Sure, I'm pasting it in the chat.",
+   "examplePt": "Claro, estou colando no chat.",
+   "pron": "KUD iu SÉND mi dhe LINK — 'link' tem 'i' curto",
+   "curiosity": "'Link' também é 'elo', como num elo de corrente."
+  },
+  "sp46-04": {
+   "word": "I forgot my account password",
+   "translit": null,
+   "example": "Click on the reset button below.",
+   "examplePt": "Clique no botão de redefinir abaixo.",
+   "pron": "AI far-GÓT mai a-KAUNT PÉS-uérd — 'password' soa 'péssuérd'",
+   "curiosity": "'Password' junta 'pass' e 'word': palavra de passagem."
+  },
+  "sp46-05": {
+   "word": "The internet is really slow",
+   "translit": null,
+   "example": "Is the router in another room?",
+   "examplePt": "O roteador está em outro cômodo?",
+   "pron": "dhi ÍN-ter-nét iz RI-li SLÔU — 'slow' soa 'slôu'",
+   "curiosity": "'Slow' é lento; 'slowly' é devagar, e muda de adjetivo para advérbio."
+  },
+  "sp46-06": {
+   "word": "I'll download that file now",
+   "translit": null,
+   "example": "Please wait until it finishes.",
+   "examplePt": "Aguarde até terminar.",
+   "pron": "AIL DAUN-lôud dhét FAIL nau — 'download' junta 'down' e 'load'",
+   "curiosity": "'Download' junta 'down' e 'load', e 'upload' é o oposto."
+  },
+  "sp46-07": {
+   "word": "Turn it off and on again",
+   "translit": null,
+   "example": "Wow, that fixed the problem.",
+   "examplePt": "Uau, isso resolveu o problema.",
+   "pron": "TÉRN it ÓF énd ÓN a-GUÉN — 'again' soa 'aguén'",
+   "curiosity": "'Have you tried turning it off and on again?' é um clássico do suporte técnico."
+  },
+  "sp46-08": {
+   "word": "I took a photo of the landscape",
+   "translit": null,
+   "example": "Show me, I'd love to see it!",
+   "examplePt": "Mostre, eu adoraria ver!",
+   "pron": "AI TUK a FÔU-tou âv dhe LÉND-skeip — 'photo' tem 'ph' = 'f'",
+   "curiosity": "'Photo' vem de 'photograph', do grego 'luz' e 'escrita'."
+  },
+  "sp47-01": {
+   "word": "As a child, I lived in the country",
+   "translit": null,
+   "example": "Did you have animals back then?",
+   "examplePt": "Você tinha animais naquela época?",
+   "pron": "ÉZ a TCHAILD, AI LIVD in dhe KÂN-tri — 'child' soa 'tchaild'",
+   "curiosity": "O plural de 'child' é 'children', e não 'childs'."
+  },
+  "sp47-02": {
+   "word": "I remember my first day of school",
+   "translit": null,
+   "example": "I was nervous but very excited.",
+   "examplePt": "Eu estava nervoso, mas muito animado.",
+   "pron": "AI ri-MÉM-ber mai FÉRST DEI âv SKUL — 'school' soa 'skul'",
+   "curiosity": "'School' tem 'ch' com som de 'k', como em 'chorus'."
+  },
+  "sp47-03": {
+   "word": "Something funny happened yesterday",
+   "translit": null,
+   "example": "Don't leave me hanging, tell me!",
+   "examplePt": "Não me deixe curioso, conte!",
+   "pron": "SÂM-thin FÂ-ni HÉ-pend IÉS-ter-dei — 'funny' soa 'fâni'",
+   "curiosity": "'Leave me hanging' é deixar alguém no suspense."
+  },
+  "sp47-04": {
+   "word": "That reminds me of an old trip",
+   "translit": null,
+   "example": "Where did you go, exactly?",
+   "examplePt": "Aonde você foi, exatamente?",
+   "pron": "dhét ri-MAINDZ mi âv an ÔULD TRIP — 'old' soa 'ôuld'",
+   "curiosity": "'Remind me of' é lembrar de algo; 'remember' é lembrar-se por conta própria."
+  },
+  "sp47-05": {
+   "word": "You can't imagine what happened",
+   "translit": null,
+   "example": "Come on, tell me everything!",
+   "examplePt": "Vamos, me conte tudo!",
+   "pron": "IU KÉNT i-MÉ-djin UÓT HÉ-pend — 'imagine' tem 'dj' no 'gi'",
+   "curiosity": "'Imagine' tem 'g' com som de 'dj', como em 'giant'."
+  },
+  "sp47-06": {
+   "word": "In short, it was a day to remember",
+   "translit": null,
+   "example": "I can tell you loved every minute.",
+   "examplePt": "Dá para ver que você amou cada minuto.",
+   "pron": "in SHÓRT, it UÓZ a DEI tu ri-MÉM-ber — 'short' tem 'sh'",
+   "curiosity": "'In short' é um conectivo que resume tudo em poucas palavras."
+  },
+  "sp47-07": {
+   "word": "I grew up near the sea",
+   "translit": null,
+   "example": "Have you been back to the beach?",
+   "examplePt": "Você já voltou à praia?",
+   "pron": "AI GRU ÂP NIR dhe SI — 'grew' soa 'gru'",
+   "curiosity": "'Grew up' é o passado de 'grow up': 'crescer'. Já 'raise' é criar alguém."
+  },
+  "sp47-08": {
+   "word": "And what happened next?",
+   "translit": null,
+   "example": "The door slowly started to open.",
+   "examplePt": "A porta começou a abrir devagar.",
+   "pron": "énd UÓT HÉ-pend NÉKST — 'happened' soa 'hépend'",
+   "curiosity": "'What happened next?' é a frase que todo bom ouvinte diz."
+  },
+  "sp48-01": {
+   "word": "My dream is to travel the world",
+   "translit": null,
+   "example": "Which country comes first on your list?",
+   "examplePt": "Qual país vem primeiro na sua lista?",
+   "pron": "mai DRIM iz tu TRÉ-vol dhe UÉRLD — 'world' tem 'ér' e 'ld' final",
+   "curiosity": "'Dream' pode ser sonho de dormir ou meta de vida."
+  },
+  "sp48-02": {
+   "word": "I want to improve every day",
+   "translit": null,
+   "example": "Small steps add up over time.",
+   "examplePt": "Pequenos passos somam com o tempo.",
+   "pron": "AI UÓNT tu im-PRUV É-vri DEI — 'improve' soa 'impruv'",
+   "curiosity": "'Improve' é melhorar; 'improvise' é outra palavra: improvisar."
+  },
+  "sp48-03": {
+   "word": "I'm saving money to travel",
+   "translit": null,
+   "example": "How much have you saved so far?",
+   "examplePt": "Quanto você já guardou até agora?",
+   "pron": "AIM SEI-vin MÂ-ni tu TRÉ-vol — 'money' soa 'mâni'",
+   "curiosity": "'Save' tem dois sentidos em inglês: guardar dinheiro e salvar."
+  },
+  "sp48-04": {
+   "word": "Someday I'll open my own business",
+   "translit": null,
+   "example": "What kind of shop would it be?",
+   "examplePt": "Que tipo de loja seria?",
+   "pron": "SÂM-dei AIL Ô-pen mai ÔUN BIZ-nis — 'business' soa 'biznis'",
+   "curiosity": "'Business' vem de 'busy' e soa 'biz-nis', sem o 'u' final."
+  },
+  "sp48-05": {
+   "word": "With effort, anything is possible",
+   "translit": null,
+   "example": "Hard work really does pay off.",
+   "examplePt": "O trabalho duro compensa mesmo.",
+   "pron": "uidh É-fart, É-ni-thin iz PÓ-si-bol — 'effort' tem dois 'f'",
+   "curiosity": "'Pay off' significa 'compensar': o esforço traz resultado."
+  },
+  "sp48-06": {
+   "word": "I still have a lot to learn",
+   "translit": null,
+   "example": "That curiosity will take you far.",
+   "examplePt": "Essa curiosidade vai te levar longe.",
+   "pron": "AI STIL HÉV a LÓT tu LÉRN — 'learn' tem 'érr' longo",
+   "curiosity": "Dizem 'a lot' separado: 'alot' não existe em inglês correto."
+  },
+  "sp48-07": {
+   "word": "I don't give up easily",
+   "translit": null,
+   "example": "That's the spirit, keep going!",
+   "examplePt": "Esse é o espírito, continue!",
+   "pron": "AI DÔUNT GUIV ÂP I-zi-li — 'easily' tem 'i' longo no começo",
+   "curiosity": "'Give up' é um verbo composto muito comum: desistir."
+  },
+  "sp48-08": {
+   "word": "I'm going to start a new hobby",
+   "translit": null,
+   "example": "What would you like to try?",
+   "examplePt": "O que você gostaria de tentar?",
+   "pron": "AIM GÔ-in tu START a NIU RÓ-bi — 'hobby' tem 'h' soprado",
+   "curiosity": "'Hobby' é passatempo e leva 'a': 'I have a hobby'."
+  },
+  "sp49-01": {
+   "word": "Let's sort the recyclable trash",
+   "translit": null,
+   "example": "Paper goes in the blue bin.",
+   "examplePt": "O papel vai na lixeira azul.",
+   "pron": "LÉTS SÓRT dhe ri-SAI-kla-bol TRÉSH — 'recyclable' tem 'ai' no 'cy'",
+   "curiosity": "'Recycle' junta 're-' (de novo) com 'cycle' (ciclo)."
+  },
+  "sp49-02": {
+   "word": "Turn off the light when you leave",
+   "translit": null,
+   "example": "I always do, to save electricity.",
+   "examplePt": "Eu sempre faço, para economizar energia.",
+   "pron": "TÉRN ÓF dhe LAIT uén iu LIV — 'leave' tem 'i' longo",
+   "curiosity": "'Turn off' é desligar e 'turn on' é ligar, sempre com 'turn'."
+  },
+  "sp49-03": {
+   "word": "We need to save water",
+   "translit": null,
+   "example": "Shorter showers help a great deal.",
+   "examplePt": "Banhos mais curtos ajudam muito.",
+   "pron": "UI NID tu SEIV UÓ-ter — 'water' tem 'ó' aberto no começo",
+   "curiosity": "Em inglês americano, o 't' de 'water' soa quase como 'd'."
+  },
+  "sp49-04": {
+   "word": "I prefer to bike to work",
+   "translit": null,
+   "example": "Along the river, there is a bike path.",
+   "examplePt": "Ao longo do rio, há uma ciclovia.",
+   "pron": "AI pri-FÉR tu BAIK tu UÉRK — 'prefer' tem tônica no 'fer'",
+   "curiosity": "'Bike' pode ser bicicleta ou moto; o contexto resolve."
+  },
+  "sp49-05": {
+   "word": "Planting trees helps the planet",
+   "translit": null,
+   "example": "How many should we plant this year?",
+   "examplePt": "Quantas devemos plantar este ano?",
+   "pron": "PLÉN-tin TRIZ HÉLPS dhe PLÉ-nit — 'planet' tem 'é' aberto",
+   "curiosity": "'Planet' vem do grego 'planetes', que quer dizer 'errante'."
+  },
+  "sp49-06": {
+   "word": "Avoid using plastic bags",
+   "translit": null,
+   "example": "Bring a cloth bag instead.",
+   "examplePt": "Leve uma sacola de pano.",
+   "pron": "a-VÓID IU-zin PLÉS-tik BÉGZ — 'avoid' tem 'ói'",
+   "curiosity": "'Avoid' é seguido de verbo com '-ing': 'avoid using', e não 'to use'."
+  },
+  "sp49-07": {
+   "word": "The square is clean and beautiful",
+   "translit": null,
+   "example": "Kids play there every Sunday.",
+   "examplePt": "As crianças brincam lá todo domingo.",
+   "pron": "dhe SKUÉR iz KLIN énd BIU-ti-ful — 'square' soa 'skuér'",
+   "curiosity": "'Square' é praça e também quadrado: o contexto indica qual."
+  },
+  "sp49-08": {
+   "word": "Let's take care of our city",
+   "translit": null,
+   "example": "Together we can make a difference.",
+   "examplePt": "Juntos podemos fazer diferença.",
+   "pron": "LÉTS TEIK KÉR âv AUR SI-ti — 'care' tem 'é' longo",
+   "curiosity": "'Take care of' é um verbo composto: cuidar de algo ou alguém."
+  },
+  "sp50-01": {
+   "word": "I want to thank everyone for coming",
+   "translit": null,
+   "example": "Your presence means a great deal.",
+   "examplePt": "Sua presença significa muito.",
+   "pron": "AI UÓNT tu THÉNK ÉV-ri-uân fór KÂ-min — 'thank' com 'th' surdo",
+   "curiosity": "'Everyone' é uma palavra só; separado, 'every one' fala de cada item."
+  },
+  "sp50-02": {
+   "word": "It was an incredible journey",
+   "translit": null,
+   "example": "Every step taught us something new.",
+   "examplePt": "Cada passo nos ensinou algo novo.",
+   "pron": "IT UÓZ an in-KRÉ-di-bol DJÉR-ni — 'journey' soa 'djérni'",
+   "curiosity": "'Journey' vem do francês antigo e tem a ver com um dia de viagem."
+  },
+  "sp50-03": {
+   "word": "I learned so much from you all",
+   "translit": null,
+   "example": "Teaching you has been a joy.",
+   "examplePt": "Ensinar vocês foi uma alegria.",
+   "pron": "AI LÉRND SÔU MÂTCH frâm IU ÓL — 'learned' soa 'lérnd'",
+   "curiosity": "'Learned' e 'learnt' são ambos aceitos como passado de 'learn'."
+  },
+  "sp50-04": {
+   "word": "Without you this wouldn't be possible",
+   "translit": null,
+   "example": "We are proud to stand beside you.",
+   "examplePt": "Temos orgulho de estar ao seu lado.",
+   "pron": "uidh-AUT IU dhis UUD-nt bi PÓ-si-bol — 'without' tem 'th' suave",
+   "curiosity": "'Without' junta 'with' e 'out': literalmente, 'com fora'."
+  },
+  "sp50-05": {
+   "word": "Today we close a big chapter",
+   "translit": null,
+   "example": "What comes next will be exciting.",
+   "examplePt": "O que vem a seguir será empolgante.",
+   "pron": "tu-DEI UI KLÔUZ a BIG TCHÉP-ter — 'chapter' tem 'tch'",
+   "curiosity": "'Close a chapter' é uma metáfora comum para encerrar uma etapa da vida."
+  },
+  "sp50-06": {
+   "word": "I'll carry these memories forever",
+   "translit": null,
+   "example": "Good memories never really fade.",
+   "examplePt": "Boas lembranças nunca somem de verdade.",
+   "pron": "AIL KÉ-ri DHIZ MÉ-ma-riz fór-É-ver — 'memories' tem 3 sílabas",
+   "curiosity": "'Memory' no plural é 'memories': o 'y' vira 'ies'."
+  },
+  "sp50-07": {
+   "word": "I wish you all great success",
+   "translit": null,
+   "example": "The same to you, my friend.",
+   "examplePt": "O mesmo para você, meu amigo.",
+   "pron": "AI UISH iu ÓL GREIT sak-SÉS — 'success' tem 'ks' no meio",
+   "curiosity": "'Success' tem dois 'c' e dois 's', e o primeiro 'c' é 'k'."
+  },
+  "sp50-08": {
+   "word": "See you next time, from the heart",
+   "translit": null,
+   "example": "Already, everyone here is missed.",
+   "examplePt": "Já sinto falta de todos aqui.",
+   "pron": "SI IU NÉKST TAIM, frâm dhe HART — 'heart' tem 'h' soprado",
+   "curiosity": "'Heart' tem 'ea' com som de 'ar', uma exceção entre as palavras com 'ea'."
   }
  }
 }

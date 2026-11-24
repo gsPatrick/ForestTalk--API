@@ -1,7 +1,7 @@
 {
  "game": "pronunciation",
  "language": "es",
- "version": 1,
+ "version": 2,
  "entries": {
   "sp01-01": {
    "word": "excelente",
@@ -1922,6 +1922,1286 @@
    "examplePt": "Igualmente, que corra tudo bem.",
    "pron": "ke TEN-gas U-na BUE-na se-MA-na — o 'g' é duro",
    "curiosity": "\"Que tengas\" usa subjuntivo para desejar: \"que tengas\"."
+  },
+  "sp31-01": {
+   "word": "¿Me puedes echar una mano?",
+   "translit": null,
+   "example": "Claro, ¿dónde pongo esta caja?",
+   "examplePt": "Claro, onde eu coloco esta caixa?",
+   "pron": "me PUE-des e-CHAR u-na MA-no — 'ch' como 'tch', 'ue' como 'uê'",
+   "curiosity": "'Echar una mano' significa ajudar, e não tem nada a ver com arremessar uma mão!"
+  },
+  "sp31-02": {
+   "word": "¿Le importaría esperar un momento?",
+   "translit": null,
+   "example": "Sí, no hay problema, espero aquí.",
+   "examplePt": "Sim, sem problema, espero aqui.",
+   "pron": "le im-por-ta-RI-a es-pe-RAR un mo-MEN-to — 'r' final suave",
+   "curiosity": "Se alguém pergunta 'te importa?' e você diz 'no', está dizendo que aceita!"
+  },
+  "sp31-03": {
+   "word": "¿Podría repetir, por favor?",
+   "translit": null,
+   "example": "Entendí todo, menos la última parte.",
+   "examplePt": "Entendi tudo, menos a última parte.",
+   "pron": "po-DRI-a re-pe-TIR por fa-BOR — 'v' soa 'b'",
+   "curiosity": "'Podría' é o condicional de 'poder' e deixa qualquer pedido mais educado."
+  },
+  "sp31-04": {
+   "word": "¿Me prestas tu cargador?",
+   "translit": null,
+   "example": "Mi teléfono se apaga en cinco minutos.",
+   "examplePt": "Meu telefone desliga em cinco minutos.",
+   "pron": "me PRES-tas tu kar-ga-DOR — 'g' como em 'gato'",
+   "curiosity": "'Prestar' é emprestar; 'pedir prestado' é pegar emprestado. Cuidado para não inverter!"
+  },
+  "sp31-05": {
+   "word": "¿Puedo pedirte un favor?",
+   "translit": null,
+   "example": "Por supuesto, dime qué necesitas.",
+   "examplePt": "Claro, me diga o que precisa.",
+   "pron": "PUE-do pe-DIR-te un fa-BOR — 'v' e 'b' soam igual",
+   "curiosity": "'Favor' é masculino em espanhol: 'un favor', 'el favor'."
+  },
+  "sp31-06": {
+   "word": "Habla más despacio, por favor.",
+   "translit": null,
+   "example": "Todavía estoy aprendiendo español.",
+   "examplePt": "Ainda estou aprendendo espanhol.",
+   "pron": "A-bla mas des-PA-sio por fa-BOR — o 'h' é mudo",
+   "curiosity": "O 'h' espanhol é sempre mudo: 'habla' começa com o som do 'a'."
+  },
+  "sp31-07": {
+   "word": "¿Puedes guardarme el sitio?",
+   "translit": null,
+   "example": "Voy al baño y vuelvo enseguida.",
+   "examplePt": "Vou ao banheiro e volto já.",
+   "pron": "PUE-des guar-DAR-me el SI-tio — 'gu' como em 'guarda'",
+   "curiosity": "'Guardar' em espanhol também serve para reservar, como em 'guardar un sitio'."
+  },
+  "sp31-08": {
+   "word": "¿Podría abrir la ventana?",
+   "translit": null,
+   "example": "Aquí dentro hace un calor terrible.",
+   "examplePt": "Aqui dentro está um calor terrível.",
+   "pron": "po-DRI-a a-BRIR la ben-TA-na — 'v' soa 'b'",
+   "curiosity": "'Ventana' vem do latim 'ventus' (vento), porque deixa o ar entrar."
+  },
+  "sp32-01": {
+   "word": "Quisiera la mesa junto a la ventana.",
+   "translit": null,
+   "example": "¿Hay alguna libre con buena vista?",
+   "examplePt": "Tem alguma livre com boa vista?",
+   "pron": "ki-SIE-ra la ME-sa JUN-to a la ben-TA-na — 'j' é um 'r' aspirado forte",
+   "curiosity": "'Quisiera' é a forma educada de 'quiero' e muito usada para pedir."
+  },
+  "sp32-02": {
+   "word": "La cuenta, por favor, cuando pueda.",
+   "translit": null,
+   "example": "Claro, enseguida se la traigo.",
+   "examplePt": "Claro, já a trago.",
+   "pron": "la KUEN-ta por fa-BOR KUAN-do PUE-da — 'cu' soa 'cu' de 'cuidado'",
+   "curiosity": "'Cuenta' é a conta do restaurante e também 'ele conta', do verbo 'contar'."
+  },
+  "sp32-03": {
+   "word": "¿Qué me recomienda hoy?",
+   "translit": null,
+   "example": "Hoy el pescado está especialmente fresco.",
+   "examplePt": "Hoje o peixe está especialmente fresco.",
+   "pron": "ke me re-ko-MIEN-da oi — 'qu' é 'k'; o 'h' é mudo",
+   "curiosity": "'Recomendar' troca o 'e' por 'ie': recomiendo, recomiendas, recomienda."
+  },
+  "sp32-04": {
+   "word": "¿Este plato lleva picante?",
+   "translit": null,
+   "example": "Un poquito, pero se puede quitar.",
+   "examplePt": "Um pouquinho, mas dá para tirar.",
+   "pron": "ES-te PLA-to YE-ba pi-KAN-te — 'll' soa como 'dj' suave",
+   "curiosity": "'Picante' é apimentado; 'pimienta' é só a pimenta-do-reino."
+  },
+  "sp32-05": {
+   "word": "¿Puede traer más pan?",
+   "translit": null,
+   "example": "Con gusto, ¿integral o blanco?",
+   "examplePt": "Com prazer, integral ou branco?",
+   "pron": "PUE-de tra-ER mas pan — 'ue' soa 'uê'",
+   "curiosity": "'Pan' é masculino e seu plural é 'panes': 'el pan', 'los panes'."
+  },
+  "sp32-06": {
+   "word": "Ya estoy listo para pedir.",
+   "translit": null,
+   "example": "Perfecto, tomo nota de su pedido.",
+   "examplePt": "Perfeito, anoto o seu pedido.",
+   "pron": "ya es-TOI LIS-to PA-ra pe-DIR — 'y' soa como 'dj' suave",
+   "curiosity": "Com 'ser', 'listo' é esperto; com 'estar', é pronto. Aqui: 'estoy listo'."
+  },
+  "sp32-07": {
+   "word": "Prefiero la carne bien cocida.",
+   "translit": null,
+   "example": "La quiero sin nada de rosado.",
+   "examplePt": "Quero sem nada de rosado.",
+   "pron": "pre-FIE-ro la KAR-ne bien ko-SI-da — 'c' antes de 'o' é 'k'",
+   "curiosity": "'Cocer' (cozinhar) e 'coser' (costurar) soam iguais na América Latina."
+  },
+  "sp32-08": {
+   "word": "¿Puede dividir la cuenta en dos?",
+   "translit": null,
+   "example": "Sí, ¿pagan los dos con tarjeta?",
+   "examplePt": "Sim, os dois pagam com cartão?",
+   "pron": "PUE-de di-bi-DIR la KUEN-ta en dos — 'v' soa 'b'",
+   "curiosity": "'Pagar a medias' é uma expressão para dividir um gasto meio a meio."
+  },
+  "sp33-01": {
+   "word": "Solo estoy mirando, gracias.",
+   "translit": null,
+   "example": "Perfecto, avíseme si necesita ayuda.",
+   "examplePt": "Perfeito, me avise se precisar de ajuda.",
+   "pron": "SO-lo es-TOI mi-RAN-do GRA-sias — 'c' e 'z' soam 's'",
+   "curiosity": "'Solo' sem acento é a grafia correta desde 2010, mesmo quando poderia confundir com 'sólo'."
+  },
+  "sp33-02": {
+   "word": "¿Tiene esta talla más pequeña?",
+   "translit": null,
+   "example": "Déjeme revisar en el almacén.",
+   "examplePt": "Deixe-me ver no estoque.",
+   "pron": "TIE-ne ES-ta TA-lla mas pe-KE-nha — 'll' soa 'dj' suave e 'ñ' soa 'nh'",
+   "curiosity": "'Talla' é o tamanho de roupa; 'tamaño' é tamanho em geral."
+  },
+  "sp33-03": {
+   "word": "¿Puedo probarme esta camisa?",
+   "translit": null,
+   "example": "Claro, los probadores están al fondo.",
+   "examplePt": "Claro, os provadores ficam ao fundo.",
+   "pron": "PUE-do pro-BAR-me ES-ta ka-MI-sa — 'c' antes de 'a' é 'k'",
+   "curiosity": "'Probar' significa provar roupa e também experimentar comida."
+  },
+  "sp33-04": {
+   "word": "¿Aceptan tarjeta de crédito?",
+   "translit": null,
+   "example": "Sí, y también pagos sin contacto.",
+   "examplePt": "Sim, e também pagamentos por aproximação.",
+   "pron": "a-sep-TAN tar-HE-ta de KRE-di-to — 'j' é um 'r' forte aspirado",
+   "curiosity": "'Tarjeta' serve para cartão de crédito, de visita e postal."
+  },
+  "sp33-05": {
+   "word": "Está un poco caro para mí.",
+   "translit": null,
+   "example": "Le puedo hacer un precio mejor.",
+   "examplePt": "Posso fazer um preço melhor.",
+   "pron": "es-TA un PO-ko KA-ro PA-ra mi — 'r' simples, de 'caro'",
+   "curiosity": "O 'r' simples de 'caro' difere do 'rr' de 'carro' e muda o significado!"
+  },
+  "sp33-06": {
+   "word": "¿Hay descuento por pago en efectivo?",
+   "translit": null,
+   "example": "Sí, hay diez por ciento menos.",
+   "examplePt": "Sim, tem dez por cento a menos.",
+   "pron": "ai des-KUEN-to por PA-go en e-fek-TI-bo",
+   "curiosity": "'Efectivo' é dinheiro vivo; 'en efectivo' é 'em dinheiro'."
+  },
+  "sp33-07": {
+   "word": "¿Puede envolverlo para regalo?",
+   "translit": null,
+   "example": "Con gusto, ¿prefiere papel o bolsa?",
+   "examplePt": "Com prazer, prefere papel ou sacola?",
+   "pron": "PUE-de en-bol-BER-lo PA-ra re-GA-lo — 'g' antes de 'a' é 'g' de 'gato'",
+   "curiosity": "'Regalar' é dar de presente, e 'regalo' é o presente em si."
+  },
+  "sp33-08": {
+   "word": "Quiero cambiarlo por otro color.",
+   "translit": null,
+   "example": "Tenemos el mismo modelo en azul.",
+   "examplePt": "Temos o mesmo modelo em azul.",
+   "pron": "KIE-ro kam-BIAR-lo por O-tro ko-LOR — 'r' final suave",
+   "curiosity": "'Cambio' é troca e também troco do dinheiro: 'quédese con el cambio'."
+  },
+  "sp34-01": {
+   "word": "Perdí mi vuelo de conexión.",
+   "translit": null,
+   "example": "¿Hay otro vuelo esta misma tarde?",
+   "examplePt": "Tem outro voo hoje à tarde?",
+   "pron": "per-DI mi BUE-lo de ko-nek-SION — 'v' soa 'b'",
+   "curiosity": "'Perder' serve para perder objetos, o voo e até a paciência: 'perder la paciencia'."
+  },
+  "sp34-02": {
+   "word": "¿Dónde queda la puerta de embarque?",
+   "translit": null,
+   "example": "Siga las señales hasta el final.",
+   "examplePt": "Siga as placas até o final.",
+   "pron": "DON-de KE-da la PUER-ta de em-BAR-ke — 'qu' é 'k'",
+   "curiosity": "'Dónde' com acento pergunta; 'donde' sem acento indica o lugar."
+  },
+  "sp34-03": {
+   "word": "Mi equipaje no llegó.",
+   "translit": null,
+   "example": "¿Puede ayudarme a presentar un reclamo?",
+   "examplePt": "Pode me ajudar a registrar uma reclamação?",
+   "pron": "mi e-ki-PA-he no ye-GO — 'j' aspirado; 'll' soa 'dj' suave",
+   "curiosity": "'Equipaje' é o conjunto de toda a bagagem e quase não se usa no plural."
+  },
+  "sp34-04": {
+   "word": "Nuestro vuelo salió con retraso.",
+   "translit": null,
+   "example": "Nos avisaron cuando ya estábamos sentados.",
+   "examplePt": "Avisaram quando já estávamos sentados.",
+   "pron": "NUES-tro BUE-lo sa-LIO kon re-TRA-so — 'r' inicial forte",
+   "curiosity": "'Salir' é irregular no eu: 'salgo'; 'salió' é o passado de ele ou ela."
+  },
+  "sp34-05": {
+   "word": "Quiero un asiento de pasillo.",
+   "translit": null,
+   "example": "Lo siento, solo queda ventana.",
+   "examplePt": "Sinto muito, só sobrou janela.",
+   "pron": "KIE-ro un a-SIEN-to de pa-SI-yo — 'll' soa 'dj' suave",
+   "curiosity": "'Pasillo' é corredor e vem de 'paso' mais o sufixo diminutivo."
+  },
+  "sp34-06": {
+   "word": "Necesito facturar esta maleta.",
+   "translit": null,
+   "example": "Póngala en la balanza, por favor.",
+   "examplePt": "Coloque-a na balança, por favor.",
+   "pron": "ne-se-SI-to fak-tu-RAR ES-ta ma-LE-ta — 'c' antes de 'e' soa 's'",
+   "curiosity": "'Facturar' no aeroporto é despachar; na loja, é emitir a nota."
+  },
+  "sp34-07": {
+   "word": "¿A qué hora es el embarque?",
+   "translit": null,
+   "example": "Empieza cuarenta minutos antes de salir.",
+   "examplePt": "Começa quarenta minutos antes da saída.",
+   "pron": "a ke O-ra es el em-BAR-ke — o 'h' de 'hora' é mudo",
+   "curiosity": "'Embarcar' vem de 'barca': antes entrava-se em barcos, hoje em aviões."
+  },
+  "sp34-08": {
+   "word": "Voy a pasar por la aduana.",
+   "translit": null,
+   "example": "Llevo solo ropa y un regalo.",
+   "examplePt": "Levo só roupa e um presente.",
+   "pron": "boi a pa-SAR por la a-DUA-na — 'v' soa 'b'",
+   "curiosity": "'Aduana' vem do árabe, um dos muitos arabismos do espanhol."
+  },
+  "sp35-01": {
+   "word": "Tengo una reserva a mi nombre.",
+   "translit": null,
+   "example": "¿Me confirma su apellido, por favor?",
+   "examplePt": "Pode confirmar seu sobrenome, por favor?",
+   "pron": "TEN-go U-na re-SER-ba a mi NOM-bre — 'v' soa 'b'",
+   "curiosity": "'Reserva' também é uma área natural protegida ou um vinho envelhecido."
+  },
+  "sp35-02": {
+   "word": "¿A qué hora es el desayuno?",
+   "translit": null,
+   "example": "Se sirve de seis a diez.",
+   "examplePt": "É servido das seis às dez.",
+   "pron": "a ke O-ra es el de-sa-YU-no — 'y' soa 'dj' suave",
+   "curiosity": "'Desayuno' vem de 'des' + 'ayuno': quebrar o jejum, como 'breakfast'."
+  },
+  "sp35-03": {
+   "word": "La ducha no está funcionando.",
+   "translit": null,
+   "example": "Enseguida mandamos a alguien.",
+   "examplePt": "Já mandamos alguém.",
+   "pron": "la DU-cha no es-TA fun-sio-NAN-do — 'ch' como 'tch'",
+   "curiosity": "No México o chuveiro costuma ser 'regadera'; em outros países, 'ducha'."
+  },
+  "sp35-04": {
+   "word": "¿Puede llamarme un taxi?",
+   "translit": null,
+   "example": "¿Para cuándo lo necesita?",
+   "examplePt": "Para quando o senhor precisa?",
+   "pron": "PUE-de ya-MAR-me un TAK-si — 'll' soa 'dj' suave",
+   "curiosity": "'Taxi' é paroxítona terminada em vogal, por isso não leva acento escrito."
+  },
+  "sp35-05": {
+   "word": "Necesito más toallas, por favor.",
+   "translit": null,
+   "example": "Le subimos dos más enseguida.",
+   "examplePt": "Já levamos mais duas ao senhor.",
+   "pron": "ne-se-SI-to mas to-A-yas por fa-BOR — 'll' soa 'dj' suave",
+   "curiosity": "Em 'toalla', 'oa' são duas sílabas separadas: to-A-lla."
+  },
+  "sp35-06": {
+   "word": "Me quedo hasta el viernes.",
+   "translit": null,
+   "example": "¿Puedo extender la estancia un día?",
+   "examplePt": "Posso estender a estadia por um dia?",
+   "pron": "me KE-do AS-ta el BIER-nes — o 'h' é mudo",
+   "curiosity": "'Hasta' é 'até': 'hasta el viernes' e 'hasta luego'."
+  },
+  "sp35-07": {
+   "word": "¿Hay internet en la habitación?",
+   "translit": null,
+   "example": "Sí, la clave está en la tarjeta.",
+   "examplePt": "Sim, a senha está no cartão.",
+   "pron": "ai in-ter-NET en la a-bi-ta-SION — 'h' mudo",
+   "curiosity": "Quarto se diz 'habitación', 'cuarto' e, no Chile e Argentina, também 'pieza'."
+  },
+  "sp35-08": {
+   "word": "¿La habitación está en el segundo piso?",
+   "translit": null,
+   "example": "No, está en el tercero.",
+   "examplePt": "Não, fica no terceiro.",
+   "pron": "la a-bi-ta-SION es-TA en el se-GUN-do PI-so",
+   "curiosity": "Na Espanha, 'planta baja' é o térreo e 'primer piso' é o andar de cima."
+  },
+  "sp36-01": {
+   "word": "Gire a la izquierda en el semáforo.",
+   "translit": null,
+   "example": "¿Y después sigo derecho?",
+   "examplePt": "E depois sigo em frente?",
+   "pron": "HI-re a la is-KIER-da en el se-MA-fo-ro — 'gi' soa 'ri' aspirado",
+   "curiosity": "'Semáforo' vem do grego: 'sema' (sinal) + 'foros' (que leva)."
+  },
+  "sp36-02": {
+   "word": "Siga derecho dos cuadras.",
+   "translit": null,
+   "example": "¿Cuánto falta para la plaza?",
+   "examplePt": "Quanto falta para a praça?",
+   "pron": "SI-ga de-RE-cho dos KUA-dras — 'ch' como 'tch'",
+   "curiosity": "Na América Latina conta-se a distância em 'cuadras'; na Espanha, em 'manzanas'."
+  },
+  "sp36-03": {
+   "word": "Queda al lado del banco.",
+   "translit": null,
+   "example": "Verá un cartel azul en la esquina.",
+   "examplePt": "Verá uma placa azul na esquina.",
+   "pron": "KE-da al LA-do del BAN-ko — 'qu' é 'k'",
+   "curiosity": "'Banco' é o banco da praça e o financeiro; o contexto resolve."
+  },
+  "sp36-04": {
+   "word": "¿Está lejos de aquí a pie?",
+   "translit": null,
+   "example": "No, son diez minutos caminando.",
+   "examplePt": "Não, são dez minutos andando.",
+   "pron": "es-TA LE-hos de a-KI a PIE — 'j' é um 'r' aspirado",
+   "curiosity": "'A pie' é 'a pé' e nunca leva artigo: 'voy a pie'."
+  },
+  "sp36-05": {
+   "word": "Creo que estamos perdidos.",
+   "translit": null,
+   "example": "Mejor le preguntamos a alguien.",
+   "examplePt": "Melhor perguntarmos a alguém.",
+   "pron": "KRE-o ke es-TA-mos per-DI-dos",
+   "curiosity": "'Creo que' dá opinião suave e pede o indicativo: 'creo que estamos'."
+  },
+  "sp36-06": {
+   "word": "¿Existe algún atajo por aquí?",
+   "translit": null,
+   "example": "Sí, cruzando el parque llegas antes.",
+   "examplePt": "Sim, cruzando o parque chega antes.",
+   "pron": "ek-SIS-te al-GUN a-TA-ho por a-KI — 'j' aspirado",
+   "curiosity": "'Atajar' significa cortar caminho ou interceptar; daí vem 'atajo'."
+  },
+  "sp36-07": {
+   "word": "¿Dónde puedo estacionar?",
+   "translit": null,
+   "example": "Hay un aparcamiento detrás del cine.",
+   "examplePt": "Tem um estacionamento atrás do cinema.",
+   "pron": "DON-de PUE-do es-ta-sio-NAR — 'c' e 'z' soam 's'",
+   "curiosity": "'Estacionar' é usado na América; na Espanha se diz 'aparcar'."
+  },
+  "sp36-08": {
+   "word": "El autobús pasa cada diez minutos.",
+   "translit": null,
+   "example": "Entonces no hace falta correr.",
+   "examplePt": "Então não precisa correr.",
+   "pron": "el au-to-BUS PA-sa KA-da DIES mi-NU-tos — 'z' soa 's'",
+   "curiosity": "Ônibus tem muitos nomes: 'camión' no México, 'guagua' no Caribe, 'colectivo' na Argentina."
+  },
+  "sp37-01": {
+   "word": "Me palpita la cabeza.",
+   "translit": null,
+   "example": "Creo que necesito descansar un rato.",
+   "examplePt": "Acho que preciso descansar um pouco.",
+   "pron": "me pal-PI-ta la ka-BE-sa — 'z' soa 's'",
+   "curiosity": "'Dolor de cabeza' também é usado como 'problema chato': 'es un dolor de cabeza'."
+  },
+  "sp37-02": {
+   "word": "Soy alérgico al maní.",
+   "translit": null,
+   "example": "Por favor, avise si el plato lleva maní.",
+   "examplePt": "Por favor, avise se o prato leva amendoim.",
+   "pron": "soi a-LER-hi-ko al ma-NI — 'gi' soa 'ri' aspirado",
+   "curiosity": "'Maní' vem do taíno; 'cacahuate', usado no México, vem do náuatle."
+  },
+  "sp37-03": {
+   "word": "¿Me puede recomendar un remedio?",
+   "translit": null,
+   "example": "Para eso suele ayudar el té caliente.",
+   "examplePt": "Para isso costuma ajudar o chá quente.",
+   "pron": "me PUE-de re-ko-men-DAR un re-ME-dio",
+   "curiosity": "'No hay más remedio' significa 'não tem jeito', sem relação com remédio!"
+  },
+  "sp37-04": {
+   "word": "Tengo tos desde ayer.",
+   "translit": null,
+   "example": "También me duele un poco la garganta.",
+   "examplePt": "Também me dói um pouco a garganta.",
+   "pron": "TEN-go tos DES-de a-YER — 'y' soa 'dj' suave",
+   "curiosity": "'Tos ferina' é o nome em espanhol da coqueluche."
+  },
+  "sp37-05": {
+   "word": "Necesito una curita, por favor.",
+   "translit": null,
+   "example": "Me corté con una hoja de papel.",
+   "examplePt": "Me cortei com uma folha de papel.",
+   "pron": "ne-se-SI-to U-na ku-RI-ta por fa-BOR — 'c' antes de 'u' é 'k'",
+   "curiosity": "'Curita' vem de 'curar' + sufixo -ita; na Espanha se diz 'tirita'."
+  },
+  "sp37-06": {
+   "word": "¿Cada cuánto debo tomarlo?",
+   "translit": null,
+   "example": "Una pastilla cada ocho horas.",
+   "examplePt": "Um comprimido a cada oito horas.",
+   "pron": "KA-da KUAN-to DE-bo to-MAR-lo",
+   "curiosity": "'Cada cuánto' é a forma de perguntar frequência: 'cada tres horas'."
+  },
+  "sp37-07": {
+   "word": "Creo que tengo fiebre.",
+   "translit": null,
+   "example": "¿Dónde dejé el termómetro?",
+   "examplePt": "Onde deixei o termômetro?",
+   "pron": "KRE-o ke TEN-go FIE-bre",
+   "curiosity": "'Fiebre' vem do latim 'febris', mesma origem de 'febre'."
+  },
+  "sp37-08": {
+   "word": "Necesito pedir una cita médica.",
+   "translit": null,
+   "example": "¿Tiene lugar el lunes por la mañana?",
+   "examplePt": "Tem vaga na segunda de manhã?",
+   "pron": "ne-se-SI-to pe-DIR U-na SI-ta ME-di-ka",
+   "curiosity": "'Cita' é compromisso marcado e também encontro romântico."
+  },
+  "sp38-01": {
+   "word": "Hoy estoy muy emocionado.",
+   "translit": null,
+   "example": "¡Mañana empieza por fin el viaje!",
+   "examplePt": "Amanhã começa a viagem, finalmente!",
+   "pron": "oi es-TOI mui e-mo-sio-NA-do — 'c' antes de 'i' soa 's'",
+   "curiosity": "'Emocionado' pode ser alegria ou comoção; 'estoy emocionado' costuma ser emoção boa."
+  },
+  "sp38-02": {
+   "word": "Me decepcionó el resultado.",
+   "translit": null,
+   "example": "Esperaba mucho más después del esfuerzo.",
+   "examplePt": "Esperava muito mais após o esforço.",
+   "pron": "me de-sep-sio-NO el re-sul-TA-do",
+   "curiosity": "'Decepcionar' é desiludir; em português 'decepar' é cortar, outra coisa!"
+  },
+  "sp38-03": {
+   "word": "Qué alivio, todo salió bien.",
+   "translit": null,
+   "example": "Estaba tan preocupado que no dormí.",
+   "examplePt": "Estava tão preocupado que não dormi.",
+   "pron": "ke a-LI-bio TO-do sa-LIO bien",
+   "curiosity": "'Qué' + substantivo forma exclamações: 'qué alivio', 'qué lástima'."
+  },
+  "sp38-04": {
+   "word": "Me muero de vergüenza.",
+   "translit": null,
+   "example": "Tropecé justo frente a todos.",
+   "examplePt": "Tropecei justo na frente de todos.",
+   "pron": "me MUE-ro de ber-GUEN-sa — o 'ü' faz o 'u' soar",
+   "curiosity": "'Morirse de' é exagero comum: 'me muero de hambre', 'de risa', 'de frío'."
+  },
+  "sp38-05": {
+   "word": "Estoy nervioso por el examen.",
+   "translit": null,
+   "example": "¿Y si olvido todo lo estudiado?",
+   "examplePt": "E se eu esquecer tudo o que estudei?",
+   "pron": "es-TOI ner-BIO-so por el ek-SA-men — 'v' soa 'b'",
+   "curiosity": "'Examen' perde o acento tônico no plural: 'exámenes' muda a sílaba forte."
+  },
+  "sp38-06": {
+   "word": "Me siento orgulloso de ti.",
+   "translit": null,
+   "example": "Lo lograste con puro esfuerzo.",
+   "examplePt": "Você conseguiu com puro esforço.",
+   "pron": "me SIEN-to or-gu-YO-so de ti — 'll' soa 'dj' suave",
+   "curiosity": "'Sentir' vira 'siento' sob a força: o 'e' muda para 'ie'."
+  },
+  "sp38-07": {
+   "word": "Extraño mucho mi casa.",
+   "translit": null,
+   "example": "Hace un mes que no vuelvo.",
+   "examplePt": "Faz um mês que não volto.",
+   "pron": "eks-TRA-nho MU-cho mi KA-sa — 'ñ' soa 'nh'",
+   "curiosity": "'Extrañar' é o verbo mais comum para ter saudade; 'saudade' não tem tradução única."
+  },
+  "sp38-08": {
+   "word": "No puedo dejar de reír.",
+   "translit": null,
+   "example": "Esa cara me da muchísima risa.",
+   "examplePt": "Essa cara me dá muita risada.",
+   "pron": "no PUE-do de-HAR de re-IR — 'j' aspirado",
+   "curiosity": "'Reír' leva acento no 'í' para separar as vogais: re-ír."
+  },
+  "sp39-01": {
+   "word": "Vamos a empezar la reunión.",
+   "translit": null,
+   "example": "¿Todos recibieron la agenda por correo?",
+   "examplePt": "Todos receberam a pauta por e-mail?",
+   "pron": "BA-mos a em-pe-SAR la reu-NION — 'v' soa 'b'",
+   "curiosity": "No México, 'junta' é uma palavra comum para reunião."
+  },
+  "sp39-02": {
+   "word": "¿Puedo hacer una sugerencia?",
+   "translit": null,
+   "example": "Claro, todas las ideas suman.",
+   "examplePt": "Claro, todas as ideias somam.",
+   "pron": "PUE-do a-SER U-na su-he-REN-sia — 'g' antes de 'e' soa 'r' aspirado",
+   "curiosity": "'Sugerir' troca 'e' por 'ie': sugiero, sugieres, sugiere."
+  },
+  "sp39-03": {
+   "word": "Estoy de acuerdo con su punto.",
+   "translit": null,
+   "example": "Esa idea nos ahorra mucho tiempo.",
+   "examplePt": "Essa ideia nos poupa muito tempo.",
+   "pron": "es-TOI de a-KUER-do kon su PUN-to",
+   "curiosity": "'Estar de acuerdo' é a forma mais comum para dizer que concorda."
+  },
+  "sp39-04": {
+   "word": "El plazo termina el viernes.",
+   "translit": null,
+   "example": "¿Alcanzamos a entregar todo antes?",
+   "examplePt": "Dá tempo de entregar tudo antes?",
+   "pron": "el PLA-so ter-MI-na el BIER-nes — 'z' soa 's'",
+   "curiosity": "'Plazo' é prazo; 'plaza' é praça. Só uma letra muda tudo."
+  },
+  "sp39-05": {
+   "word": "Voy a revisar el informe hoy.",
+   "translit": null,
+   "example": "¿Quién tiene la última versión?",
+   "examplePt": "Quem tem a última versão?",
+   "pron": "boi a re-bi-SAR el in-FOR-me oi — o 'h' é mudo",
+   "curiosity": "'Informe' é relatório; 'información' é informação. Não misture!"
+  },
+  "sp39-06": {
+   "word": "¿Quién queda a cargo de esto?",
+   "translit": null,
+   "example": "Yo me encargo, no se preocupen.",
+   "examplePt": "Eu cuido disso, não se preocupem.",
+   "pron": "kien KE-da a KAR-go de ES-to — 'qu' é 'k'",
+   "curiosity": "'Encargarse de' é assumir uma tarefa: 'yo me encargo'."
+  },
+  "sp39-07": {
+   "word": "¿Podemos aplazarlo hasta mañana?",
+   "translit": null,
+   "example": "Hoy estamos todos muy cansados.",
+   "examplePt": "Hoje estamos todos muito cansados.",
+   "pron": "po-DE-mos a-pla-SAR-lo AS-ta ma-NIA-na — 'ñ' soa 'nh'",
+   "curiosity": "'Mañana' é amanhã e também manhã: 'mañana por la mañana'."
+  },
+  "sp39-08": {
+   "word": "Necesito un poco más de tiempo.",
+   "translit": null,
+   "example": "Dame hasta el mediodía, por favor.",
+   "examplePt": "Me dê até o meio-dia, por favor.",
+   "pron": "ne-se-SI-to un PO-ko mas de TIEM-po",
+   "curiosity": "'Tiempo' é tempo e também clima: '¿qué tiempo hace?'."
+  },
+  "sp40-01": {
+   "word": "Tengo cinco años de experiencia.",
+   "translit": null,
+   "example": "Trabajé en ventas y en atención.",
+   "examplePt": "Trabalhei em vendas e atendimento.",
+   "pron": "TEN-go SIN-ko A-nhos de eks-pe-RIEN-sia — 'ñ' soa 'nh'",
+   "curiosity": "A letra 'ñ' nasceu de 'nn' escrito com um 'n' pequeno em cima."
+  },
+  "sp40-02": {
+   "word": "Me gusta trabajar en equipo.",
+   "translit": null,
+   "example": "Juntos resolvemos todo más rápido.",
+   "examplePt": "Juntos resolvemos tudo mais rápido.",
+   "pron": "me GUS-ta tra-ba-HAR en e-KI-po — 'j' aspirado",
+   "curiosity": "'Gustar' funciona ao contrário: 'me gusta' é 'agrada a mim'."
+  },
+  "sp40-03": {
+   "word": "Mi punto fuerte es la organización.",
+   "translit": null,
+   "example": "Siempre llevo una agenda al día.",
+   "examplePt": "Sempre mantenho uma agenda em dia.",
+   "pron": "mi PUN-to FUER-te es la or-ga-ni-sa-SION",
+   "curiosity": "Palavras em -ción são femininas: 'la organización'."
+  },
+  "sp40-04": {
+   "word": "Estoy muy interesado en el puesto.",
+   "translit": null,
+   "example": "¿Qué responsabilidades incluiría el cargo?",
+   "examplePt": "Que responsabilidades o cargo incluiria?",
+   "pron": "es-TOI mui in-te-re-SA-do en el PUES-to",
+   "curiosity": "'Puesto' é cargo, mas também banca de mercado."
+  },
+  "sp40-05": {
+   "word": "¿Cuándo podría empezar?",
+   "translit": null,
+   "example": "Puede incorporarse el lunes próximo.",
+   "examplePt": "Pode começar na próxima segunda.",
+   "pron": "KUAN-do po-DRI-a em-pe-SAR",
+   "curiosity": "'Empezar' troca 'z' por 'c' diante de 'e': 'empiece'."
+  },
+  "sp40-06": {
+   "word": "Aprendo rápido y con ganas.",
+   "translit": null,
+   "example": "En una semana ya dominé el sistema.",
+   "examplePt": "Em uma semana já dominei o sistema.",
+   "pron": "a-PREN-do RA-pi-do i kon GA-nas — 'g' de 'gato'",
+   "curiosity": "'Tener ganas de' é ter vontade de; 'con ganas' é 'com vontade'."
+  },
+  "sp40-07": {
+   "word": "¿Cuál es el salario?",
+   "translit": null,
+   "example": "Depende de la experiencia del candidato.",
+   "examplePt": "Depende da experiência do candidato.",
+   "pron": "KUAL es el sa-LA-rio",
+   "curiosity": "'Sueldo' e 'salario' são sinônimos; 'sueldo' é mais comum no dia a dia."
+  },
+  "sp40-08": {
+   "word": "Gracias por la oportunidad.",
+   "translit": null,
+   "example": "Fue un placer conocer al equipo.",
+   "examplePt": "Foi um prazer conhecer a equipe.",
+   "pron": "GRA-sias por la o-por-tu-ni-DAD — 'd' final suave",
+   "curiosity": "Palavras em -dad equivalem a -dade e são femininas: 'la oportunidad'."
+  },
+  "sp41-01": {
+   "word": "En mi opinión, vale la pena.",
+   "translit": null,
+   "example": "Cuesta poco y rinde muchísimo.",
+   "examplePt": "Custa pouco e rende muito.",
+   "pron": "en mi o-pi-NION BA-le la PE-na — 'v' soa 'b'",
+   "curiosity": "'Valer la pena' é compensar; 'merecer la pena' tem o mesmo sentido."
+  },
+  "sp41-02": {
+   "word": "¿Qué piensas de esta idea?",
+   "translit": null,
+   "example": "Me parece original, pero arriesgada.",
+   "examplePt": "Me parece original, mas arriscada.",
+   "pron": "ke PIEN-sas de ES-ta i-DE-a",
+   "curiosity": "'Pensar en' é pensar sobre algo; 'pensar de' pede a opinião."
+  },
+  "sp41-03": {
+   "word": "No estoy tan seguro.",
+   "translit": null,
+   "example": "Necesito pensarlo un poco más.",
+   "examplePt": "Preciso pensar um pouco mais.",
+   "pron": "no es-TOI tan se-GU-ro",
+   "curiosity": "'Seguro' é adjetivo (certo) e também substantivo (seguro de carro)."
+  },
+  "sp41-04": {
+   "word": "Coincido contigo en parte.",
+   "translit": null,
+   "example": "Pero hay un detalle que cambiaría.",
+   "examplePt": "Mas há um detalhe que eu mudaria.",
+   "pron": "koin-SI-do kon-TI-go en PAR-te",
+   "curiosity": "'Contigo' é 'con' + 'ti' fundidos; 'conmigo' segue o mesmo molde."
+  },
+  "sp41-05": {
+   "word": "Eso depende de la situación.",
+   "translit": null,
+   "example": "¿Hablamos de un caso concreto?",
+   "examplePt": "Estamos falando de um caso concreto?",
+   "pron": "E-so de-PEN-de de la si-tua-SION",
+   "curiosity": "'Depender' pede 'de': 'depende de', e não 'depende que'."
+  },
+  "sp41-06": {
+   "word": "Es un buen argumento.",
+   "translit": null,
+   "example": "Tal vez lo use en el debate.",
+   "examplePt": "Talvez eu use no debate.",
+   "pron": "es un buen ar-gu-MEN-to",
+   "curiosity": "'Buen' perde o 'o' antes de substantivo masculino: 'buen argumento'."
+  },
+  "sp41-07": {
+   "word": "Míralo desde otro ángulo.",
+   "translit": null,
+   "example": "A veces cambia por completo la imagen.",
+   "examplePt": "Às vezes muda por completo a imagem.",
+   "pron": "MI-ra-lo DES-de O-tro AN-gu-lo",
+   "curiosity": "Imperativo + 'lo' vira uma palavra só e ganha acento: 'míralo'."
+  },
+  "sp41-08": {
+   "word": "Discrepo, pero respeto tu opinión.",
+   "translit": null,
+   "example": "Cada uno ve las cosas distinto.",
+   "examplePt": "Cada um vê as coisas de modo diferente.",
+   "pron": "dis-KRE-po PE-ro res-PE-to tu o-pi-NION",
+   "curiosity": "'Discrepar' é discordar; 'discrepancia' é a discordância."
+  },
+  "sp42-01": {
+   "word": "Perdón por llegar tarde, hubo tráfico.",
+   "translit": null,
+   "example": "No te preocupes, apenas empezamos.",
+   "examplePt": "Não se preocupe, acabamos de começar.",
+   "pron": "per-DON por ye-GAR TAR-de U-bo TRA-fi-ko — 'h' mudo; 'll' soa 'dj' suave",
+   "curiosity": "'Perdón' serve para pedir desculpa e também para pedir licença."
+  },
+  "sp42-02": {
+   "word": "Fue sin querer, perdóname.",
+   "translit": null,
+   "example": "Se me resbaló la taza.",
+   "examplePt": "A xícara escorregou da minha mão.",
+   "pron": "fue sin ke-RER per-DO-na-me — 'qu' é 'k'",
+   "curiosity": "'Querer' é querer e também amar: 'te quiero'."
+  },
+  "sp42-03": {
+   "word": "La culpa fue mía.",
+   "translit": null,
+   "example": "Debí avisarte con más tiempo.",
+   "examplePt": "Eu devia ter avisado antes.",
+   "pron": "la KUL-pa fue MI-a",
+   "curiosity": "'Mea culpa' vem do latim e significa 'minha culpa'."
+  },
+  "sp42-04": {
+   "word": "Te lo voy a compensar.",
+   "translit": null,
+   "example": "Mañana te invito a cenar.",
+   "examplePt": "Amanhã convido você para jantar.",
+   "pron": "te lo boi a kom-pen-SAR",
+   "curiosity": "'Compensar' também é valer a pena: 'no compensa' é 'não vale a pena'."
+  },
+  "sp42-05": {
+   "word": "No quise lastimarte.",
+   "translit": null,
+   "example": "Hablé sin pensar en tus sentimientos.",
+   "examplePt": "Falei sem pensar nos seus sentimentos.",
+   "pron": "no KI-se las-ti-MAR-te — 'qu' é 'k'",
+   "curiosity": "'Lastimar' é machucar, e 'qué lástima' é 'que pena'."
+  },
+  "sp42-06": {
+   "word": "¿Olvidamos el asunto?",
+   "translit": null,
+   "example": "Prefiero que sigamos siendo amigos.",
+   "examplePt": "Prefiro que continuemos amigos.",
+   "pron": "ol-bi-DA-mos el a-SUN-to",
+   "curiosity": "'Asunto' é assunto e também o campo de título dos e-mails."
+  },
+  "sp42-07": {
+   "word": "Me alegra que lo entiendas.",
+   "translit": null,
+   "example": "Gracias por escucharme con paciencia.",
+   "examplePt": "Obrigado por me ouvir com paciência.",
+   "pron": "me a-LE-gra ke lo en-TIEN-das",
+   "curiosity": "'Me alegra que' pede subjuntivo: 'entiendas', não 'entiendes'."
+  },
+  "sp42-08": {
+   "word": "Te prometo que no se repite.",
+   "translit": null,
+   "example": "Voy a poner una alarma extra.",
+   "examplePt": "Vou colocar um alarme extra.",
+   "pron": "te pro-ME-to ke no se re-PI-te",
+   "curiosity": "'Prometer' vem do latim 'promittere', que quer dizer enviar adiante."
+  },
+  "sp43-01": {
+   "word": "Esa estuvo buena, me reí mucho.",
+   "translit": null,
+   "example": "Cuéntasela también a los demás.",
+   "examplePt": "Conte essa também aos outros.",
+   "pron": "E-sa es-TU-bo BUE-na me re-I MU-cho — 'ch' como 'tch'",
+   "curiosity": "'Reír' no passado perde um 'i': 'se rió', 'se rieron'."
+  },
+  "sp43-02": {
+   "word": "Debes estar bromeando.",
+   "translit": null,
+   "example": "Te juro que es verdad.",
+   "examplePt": "Juro que é verdade.",
+   "pron": "DE-bes es-TAR bro-me-AN-do",
+   "curiosity": "'Broma' é brincadeira, e 'en broma' é 'de brincadeira'."
+  },
+  "sp43-03": {
+   "word": "Cuéntame otro chiste.",
+   "translit": null,
+   "example": "¿Sabes el del pingüino perdido?",
+   "examplePt": "Sabe a do pinguim perdido?",
+   "pron": "KUEN-ta-me O-tro CHIS-te — 'ch' como 'tch'",
+   "curiosity": "'Chiste' é piada contada; 'broma' é uma pegadinha."
+  },
+  "sp43-04": {
+   "word": "Casi me caigo de la silla.",
+   "translit": null,
+   "example": "Me dolía la barriga de tanto reír.",
+   "examplePt": "Minha barriga doía de tanto rir.",
+   "pron": "KA-si me KAI-go de la SI-ya — 'll' soa 'dj' suave",
+   "curiosity": "'Caer' é irregular só no eu: 'caigo'. As outras formas são normais."
+  },
+  "sp43-05": {
+   "word": "Solo te estoy molestando.",
+   "translit": null,
+   "example": "No lo tomes tan en serio.",
+   "examplePt": "Não leve tão a sério.",
+   "pron": "SO-lo te es-TOI mo-les-TAN-do",
+   "curiosity": "'Molestar' é incomodar e também provocar de leve entre amigos."
+  },
+  "sp43-06": {
+   "word": "¿Y esa cara de sueño?",
+   "translit": null,
+   "example": "Anoche me quedé viendo series.",
+   "examplePt": "Ontem à noite fiquei vendo séries.",
+   "pron": "i E-sa KA-ra de SUE-nho — 'ñ' soa 'nh'",
+   "curiosity": "'Sueño' é sonho e também sono: uma palavra, dois sentidos."
+  },
+  "sp43-07": {
+   "word": "No me engañas, sé que mientes.",
+   "translit": null,
+   "example": "Tu sonrisa te delata siempre.",
+   "examplePt": "Seu sorriso sempre entrega você.",
+   "pron": "no me en-GA-nhas se ke MIEN-tes — 'ñ' soa 'nh'",
+   "curiosity": "'Mentira piadosa' é a mentirinha dita para não magoar alguém."
+  },
+  "sp43-08": {
+   "word": "Reír le hace bien al alma.",
+   "translit": null,
+   "example": "Por eso veo comedias cada noche.",
+   "examplePt": "Por isso vejo comédias toda noite.",
+   "pron": "re-IR le A-se bien al AL-ma",
+   "curiosity": "'Alma' e 'ánima' são sinônimos; 'alma' é a palavra do dia a dia."
+  },
+  "sp44-01": {
+   "word": "Me encantaría, pero ya tengo plan.",
+   "translit": null,
+   "example": "¿Qué tal si lo dejamos para el sábado?",
+   "examplePt": "Que tal deixarmos para sábado?",
+   "pron": "me en-kan-ta-RI-a PE-ro ya TEN-go plan",
+   "curiosity": "'Tener plan' é ter compromisso; 'tener planes' é ter planos."
+  },
+  "sp44-02": {
+   "word": "Lamentablemente no podré ir.",
+   "translit": null,
+   "example": "Tengo una cita que no puedo cambiar.",
+   "examplePt": "Tenho um compromisso que não posso mudar.",
+   "pron": "la-men-ta-BLE-MEN-te no po-DRE ir",
+   "curiosity": "Advérbios em -mente têm duas sílabas fortes: la-men-TA-ble-MEN-te."
+  },
+  "sp44-03": {
+   "word": "Queda para la próxima, ¿de acuerdo?",
+   "translit": null,
+   "example": "Claro, avísame cuando estés libre.",
+   "examplePt": "Claro, me avise quando estiver livre.",
+   "pron": "KE-da PA-ra la PRO-ksi-ma de a-KUER-do",
+   "curiosity": "'Quedar' também é combinar um encontro: 'quedamos a las ocho'."
+  },
+  "sp44-04": {
+   "word": "Trae a quien quieras.",
+   "translit": null,
+   "example": "Mientras más seamos, más divertido.",
+   "examplePt": "Quanto mais formos, mais divertido.",
+   "pron": "TRA-e a KIEN KIE-ras — 'qu' é 'k'",
+   "curiosity": "'Quien' sem acento não pergunta; liga a frase: 'quien quieras'."
+  },
+  "sp44-05": {
+   "word": "¿A qué hora empieza la fiesta?",
+   "translit": null,
+   "example": "A las siete, pero llega después.",
+   "examplePt": "Às sete, mas chegue depois.",
+   "pron": "a ke O-ra em-PIE-sa la FIES-ta",
+   "curiosity": "'Fiesta' vem do latim 'festa'; o 'e' virou 'ie', como em 'tierra'."
+  },
+  "sp44-06": {
+   "word": "¿Puedo llevar un postre?",
+   "translit": null,
+   "example": "Claro, ¡a todos nos encanta el flan!",
+   "examplePt": "Claro, todos amamos flan!",
+   "pron": "PUE-do ye-BAR un POS-tre — 'll' soa 'dj' suave",
+   "curiosity": "'Llevar' é levar e 'traer' é trazer; para a festa, 'llevar un postre'."
+  },
+  "sp44-07": {
+   "word": "Gracias por acordarte de mí.",
+   "translit": null,
+   "example": "Siempre cuento contigo para celebrar.",
+   "examplePt": "Sempre conto com você para comemorar.",
+   "pron": "GRA-sias por a-kor-DAR-te de mi",
+   "curiosity": "'Acordarse de' é lembrar-se; 'acordar' sozinho é combinar algo."
+  },
+  "sp44-08": {
+   "word": "Confirmo antes de mañana.",
+   "translit": null,
+   "example": "Te escribo esta noche, ¿te parece?",
+   "examplePt": "Escrevo hoje à noite, pode ser?",
+   "pron": "kon-FIR-mo AN-tes de ma-NHA-na — 'ñ' soa 'nh'",
+   "curiosity": "Em convites, 'confirmar asistencia' é a expressão padrão."
+  },
+  "sp45-01": {
+   "word": "Hoy el cielo está muy nublado.",
+   "translit": null,
+   "example": "Parece que no saldrá el sol.",
+   "examplePt": "Parece que o sol não vai sair.",
+   "pron": "oi el SIE-lo es-TA mui nu-BLA-do",
+   "curiosity": "'Nube' é nuvem; 'nublado' vem dela e 'nublarse' é ficar nublado."
+  },
+  "sp45-02": {
+   "word": "Parece que va a llover.",
+   "translit": null,
+   "example": "¿Trajiste el paraguas por si acaso?",
+   "examplePt": "Trouxe o guarda-chuva por precaução?",
+   "pron": "pa-RE-se ke ba a ye-BER — 'll' soa 'dj' suave",
+   "curiosity": "'Llover' faz 'llueve': o 'o' vira 'ue' sob a força."
+  },
+  "sp45-03": {
+   "word": "Qué calor insoportable hoy.",
+   "translit": null,
+   "example": "Necesito un helado bien grande.",
+   "examplePt": "Preciso de um sorvete bem grande.",
+   "pron": "ke ka-LOR in-so-por-TA-ble oi",
+   "curiosity": "Sentir calor é 'tener calor'; 'estar caliente' tem outro sentido."
+  },
+  "sp45-04": {
+   "word": "El pronóstico dice que enfriará.",
+   "translit": null,
+   "example": "Por la noche bajará la temperatura.",
+   "examplePt": "À noite a temperatura vai cair.",
+   "pron": "el pro-NOS-ti-ko DI-se ke en-fri-a-RA",
+   "curiosity": "'Pronóstico' vale para o tempo e para a saúde do paciente."
+  },
+  "sp45-05": {
+   "word": "No olvides el paraguas.",
+   "translit": null,
+   "example": "Llevo uno plegable en el bolso.",
+   "examplePt": "Levo um dobrável na bolsa.",
+   "pron": "no ol-BI-des el pa-RA-guas — 'gua' como em 'água'",
+   "curiosity": "'Paraguas' é invariável: 'el paraguas', 'los paraguas'."
+  },
+  "sp45-06": {
+   "word": "El viento sopla muy fuerte.",
+   "translit": null,
+   "example": "Casi se me vuela el sombrero.",
+   "examplePt": "Quase voa meu chapéu.",
+   "pron": "el BIEN-to SO-pla mui FUER-te",
+   "curiosity": "'Soplar' serve para o vento e também para soprar velas."
+  },
+  "sp45-07": {
+   "word": "Me encantan los días soleados.",
+   "translit": null,
+   "example": "Salgamos a caminar por el parque.",
+   "examplePt": "Vamos sair para caminhar no parque.",
+   "pron": "me en-KAN-tan los DI-as so-le-A-dos",
+   "curiosity": "Com 'encantar', o verbo concorda com o que encanta: 'me encantan'."
+  },
+  "sp45-08": {
+   "word": "Nevó muchísimo este invierno.",
+   "translit": null,
+   "example": "Los niños hicieron un muñeco gigante.",
+   "examplePt": "As crianças fizeram um boneco gigante.",
+   "pron": "ne-BO mu-CHI-si-mo ES-te in-BIER-no",
+   "curiosity": "'Nevar' é verbo impessoal e troca 'e' por 'ie': 'nieva'."
+  },
+  "sp46-01": {
+   "word": "Mi batería se está agotando.",
+   "translit": null,
+   "example": "¿Tienes un cargador a mano?",
+   "examplePt": "Você tem um carregador à mão?",
+   "pron": "mi ba-te-RI-a se es-TA a-go-TAN-do",
+   "curiosity": "'Batería' é bateria; 'pila' é a pilha pequena do controle remoto."
+  },
+  "sp46-02": {
+   "word": "La aplicación no abre para nada.",
+   "translit": null,
+   "example": "Ya la cerré y la volví a abrir.",
+   "examplePt": "Já fechei e abri de novo.",
+   "pron": "la a-pli-ka-SION no A-bre PA-ra NA-da",
+   "curiosity": "'App' é muito usado, mas 'aplicación' é a palavra formal."
+  },
+  "sp46-03": {
+   "word": "¿Me mandas el enlace?",
+   "translit": null,
+   "example": "Te lo envío por mensaje ahora mismo.",
+   "examplePt": "Envio por mensagem agora mesmo.",
+   "pron": "me MAN-das el en-LA-se — 'c' antes de 'e' soa 's'",
+   "curiosity": "'Enlace' é a palavra do idioma para 'link', embora 'link' também se use."
+  },
+  "sp46-04": {
+   "word": "Olvidé la contraseña de mi cuenta.",
+   "translit": null,
+   "example": "Tendré que restablecerla por correo.",
+   "examplePt": "Vou ter que redefinir por e-mail.",
+   "pron": "ol-bi-DE la kon-tra-SE-nha de mi KUEN-ta — 'ñ' soa 'nh'",
+   "curiosity": "'Contraseña' junta 'contra' e 'seña' (sinal): a senha para entrar."
+  },
+  "sp46-05": {
+   "word": "La conexión está muy lenta.",
+   "translit": null,
+   "example": "¿Reiniciamos el módem otra vez?",
+   "examplePt": "Reiniciamos o modem de novo?",
+   "pron": "la ko-nek-SION es-TA mui LEN-ta",
+   "curiosity": "'Lento' muda de gênero ('lenta'); 'despacio' é advérbio e não muda."
+  },
+  "sp46-06": {
+   "word": "Voy a descargar este archivo.",
+   "translit": null,
+   "example": "Pesa casi un gigabyte, será lento.",
+   "examplePt": "Pesa quase um gigabyte, vai demorar.",
+   "pron": "boi a des-kar-GAR ES-te ar-CHI-bo — 'ch' como 'tch'",
+   "curiosity": "'Descargar' é baixar um arquivo e também descarregar um caminhão."
+  },
+  "sp46-07": {
+   "word": "Apágalo y vuelve a encenderlo.",
+   "translit": null,
+   "example": "Casi siempre así se arregla.",
+   "examplePt": "Quase sempre assim se resolve.",
+   "pron": "A-pa-ga-lo i BUEL-be a en-sen-DER-lo",
+   "curiosity": "'Volver a' + verbo quer dizer repetir: 'vuelve a encender'."
+  },
+  "sp46-08": {
+   "word": "Tomé una foto del paisaje.",
+   "translit": null,
+   "example": "Quedó perfecta con la luz del atardecer.",
+   "examplePt": "Ficou perfeita com a luz do entardecer.",
+   "pron": "to-ME U-na FO-to del pai-SA-he — 'j' aspirado",
+   "curiosity": "'Foto' é feminina por ser abreviação de 'fotografía': 'la foto'."
+  },
+  "sp47-01": {
+   "word": "De niño vivía en el campo.",
+   "translit": null,
+   "example": "Cada mañana ayudaba con las gallinas.",
+   "examplePt": "Toda manhã ajudava com as galinhas.",
+   "pron": "de NI-nho bi-BI-a en el KAM-po — 'ñ' soa 'nh'",
+   "curiosity": "'Vivía' é o imperfeito, o tempo verbal das lembranças de infância."
+  },
+  "sp47-02": {
+   "word": "Recuerdo bien mi primer día de clases.",
+   "translit": null,
+   "example": "Llevaba una mochila enorme para mi tamaño.",
+   "examplePt": "Levava uma mochila enorme para o meu tamanho.",
+   "pron": "re-KUER-do bien mi pri-MER DI-a de KLA-ses",
+   "curiosity": "'Recordar' é lembrar; para acordar de dormir se diz 'despertar'."
+  },
+  "sp47-03": {
+   "word": "Ayer pasó algo muy gracioso.",
+   "translit": null,
+   "example": "¿Quieres que te lo cuente ahora?",
+   "examplePt": "Quer que eu conte agora?",
+   "pron": "a-YER pa-SO AL-go mui gra-SIO-so — 'y' soa 'dj' suave",
+   "curiosity": "'Gracioso' vem de 'gracia', a mesma raiz de 'graça' e 'gracias'."
+  },
+  "sp47-04": {
+   "word": "Eso me recuerda un viaje antiguo.",
+   "translit": null,
+   "example": "Fuimos en tren hasta la costa.",
+   "examplePt": "Fomos de trem até a costa.",
+   "pron": "E-so me re-KUER-da un BIA-he an-TI-guo — 'gu' como 'gu' de 'guerra'",
+   "curiosity": "'Recordar' também é lembrar a alguém: 'me recuerda a mi abuelo'."
+  },
+  "sp47-05": {
+   "word": "No te imaginas lo que pasó.",
+   "translit": null,
+   "example": "Se cayó el pastel justo al llegar.",
+   "examplePt": "O bolo caiu bem na chegada.",
+   "pron": "no te i-ma-HI-nas lo ke pa-SO — 'gi' soa 'ri' aspirado",
+   "curiosity": "'No te imaginas' é um jeito de pedir atenção antes de contar algo incrível."
+  },
+  "sp47-06": {
+   "word": "En resumen, fue un día inolvidable.",
+   "translit": null,
+   "example": "Terminamos riendo hasta las lágrimas.",
+   "examplePt": "Terminamos rindo até as lágrimas.",
+   "pron": "en re-SU-men fue un DI-a i-nol-bi-DA-ble",
+   "curiosity": "'Inolvidable' é in + olvidar + able: o prefixo 'in-' nega."
+  },
+  "sp47-07": {
+   "word": "Crecí cerca del mar.",
+   "translit": null,
+   "example": "Todavía extraño el olor a sal.",
+   "examplePt": "Ainda sinto falta do cheiro de sal.",
+   "pron": "kre-SI SER-ka del mar — 'c' antes de 'e' soa 's'",
+   "curiosity": "'Mar' pode ser masculino ou feminino: 'el mar' e, poeticamente, 'la mar'."
+  },
+  "sp47-08": {
+   "word": "¿Y qué pasó después?",
+   "translit": null,
+   "example": "Se quedaron todos mirando en silencio.",
+   "examplePt": "Todos ficaram olhando em silêncio.",
+   "pron": "i KE pa-SO des-PUES",
+   "curiosity": "'¿Y qué más?' e '¿Y después?' são jeitos de pedir que o outro continue a história."
+  },
+  "sp48-01": {
+   "word": "Mi sueño es viajar por el mundo.",
+   "translit": null,
+   "example": "Ya tengo una lista de cien países.",
+   "examplePt": "Já tenho uma lista de cem países.",
+   "pron": "mi SUE-nho es bia-HAR por el MUN-do — 'j' aspirado",
+   "curiosity": "'Todo el mundo' significa 'todas as pessoas', e não 'o mundo todo'."
+  },
+  "sp48-02": {
+   "word": "Quiero mejorar cada día.",
+   "translit": null,
+   "example": "Hoy practiqué quince minutos más.",
+   "examplePt": "Hoje pratiquei quinze minutos a mais.",
+   "pron": "KIE-ro me-ho-RAR KA-da DI-a — 'j' aspirado",
+   "curiosity": "'Mejor' vem do latim 'melior', a mesma raiz de 'melhor'."
+  },
+  "sp48-03": {
+   "word": "Estoy ahorrando dinero para viajar.",
+   "translit": null,
+   "example": "Cada mes guardo un poco más.",
+   "examplePt": "Todo mês guardo um pouco mais.",
+   "pron": "es-TOI a-o-RAN-do di-NE-ro PA-ra bia-HAR",
+   "curiosity": "'Ahorrar' tem 'h' mudo: a-o-rrar; 'ahorro' é poupança."
+  },
+  "sp48-04": {
+   "word": "Algún día abriré mi propio negocio.",
+   "translit": null,
+   "example": "Será una pequeña panadería de barrio.",
+   "examplePt": "Será uma pequena padaria de bairro.",
+   "pron": "al-GUN DI-a a-bri-RE mi PRO-pio ne-GO-sio",
+   "curiosity": "'Algún' perde o 'o' antes de substantivo masculino: 'algún día'."
+  },
+  "sp48-05": {
+   "word": "Con esfuerzo, todo es posible.",
+   "translit": null,
+   "example": "Eso me repetía mi abuela siempre.",
+   "examplePt": "Isso minha avó repetia sempre.",
+   "pron": "kon es-FUER-so TO-do es po-SI-ble",
+   "curiosity": "'Esfuerzo' vem de 'esforzar': 'fuerza' vira 'fuerzo' com o 'ue'."
+  },
+  "sp48-06": {
+   "word": "Todavía tengo mucho por aprender.",
+   "translit": null,
+   "example": "Cada error me enseña algo nuevo.",
+   "examplePt": "Cada erro me ensina algo novo.",
+   "pron": "to-da-BI-a TEN-go MU-cho por a-pren-DER",
+   "curiosity": "'Todavía no' significa 'ainda não'."
+  },
+  "sp48-07": {
+   "word": "No me rindo fácilmente.",
+   "translit": null,
+   "example": "Si me caigo, me levanto otra vez.",
+   "examplePt": "Se eu cair, levanto de novo.",
+   "pron": "no me RIN-do FA-sil-MEN-te",
+   "curiosity": "'Rendirse' é desistir, mas também significa render-se."
+  },
+  "sp48-08": {
+   "word": "Voy a empezar un nuevo pasatiempo.",
+   "translit": null,
+   "example": "¿Qué te parece la cerámica?",
+   "examplePt": "Que tal cerâmica?",
+   "pron": "boi a em-pe-SAR un NUE-bo pa-sa-TIEM-po",
+   "curiosity": "'Pasatiempo' junta 'pasar' e 'tiempo': passar o tempo."
+  },
+  "sp49-01": {
+   "word": "Vamos a separar la basura reciclable.",
+   "translit": null,
+   "example": "Las botellas van en la caja azul.",
+   "examplePt": "As garrafas vão na caixa azul.",
+   "pron": "BA-mos a se-pa-RAR la ba-SU-ra re-si-KLA-ble",
+   "curiosity": "'Reciclar' junta 're-' (de novo) e 'ciclo': voltar ao começo."
+  },
+  "sp49-02": {
+   "word": "Apaga la luz al salir.",
+   "translit": null,
+   "example": "Así ahorramos energía todos los días.",
+   "examplePt": "Assim economizamos energia todos os dias.",
+   "pron": "a-PA-ga la LUS al sa-LIR — 'z' soa 's'",
+   "curiosity": "'Apagar' serve para luz, aparelhos e também para o fogo."
+  },
+  "sp49-03": {
+   "word": "Debemos ahorrar agua.",
+   "translit": null,
+   "example": "Cerrar el grifo ayuda muchísimo.",
+   "examplePt": "Fechar a torneira ajuda muitíssimo.",
+   "pron": "de-BE-mos a-o-RAR A-gua — 'gu' como em 'água'",
+   "curiosity": "'Agua' é feminina, mas usa 'el' no singular: 'el agua fría'."
+  },
+  "sp49-04": {
+   "word": "Prefiero ir en bicicleta al trabajo.",
+   "translit": null,
+   "example": "Llego sudado, pero muy feliz.",
+   "examplePt": "Chego suado, mas muito feliz.",
+   "pron": "pre-FIE-ro ir en bi-si-KLE-ta al tra-BA-ho — 'j' aspirado",
+   "curiosity": "'Bici' é a forma curta e carinhosa de 'bicicleta'."
+  },
+  "sp49-05": {
+   "word": "Plantar árboles ayuda al planeta.",
+   "translit": null,
+   "example": "¿Cuántos plantaste en tu escuela?",
+   "examplePt": "Quantos você plantou na sua escola?",
+   "pron": "plan-TAR AR-bo-les a-YU-da al pla-NE-ta — 'y' soa 'dj' suave",
+   "curiosity": "'Árbol' leva acento na primeira sílaba e o mantém no plural 'árboles'."
+  },
+  "sp49-06": {
+   "word": "Evita usar bolsas plásticas.",
+   "translit": null,
+   "example": "Yo llevo mi bolsa de tela.",
+   "examplePt": "Eu levo minha sacola de pano.",
+   "pron": "e-BI-ta u-SAR BOL-sas PLAS-ti-kas — 'v' soa 'b'",
+   "curiosity": "'Bolsa' é sacola; 'bolso' é o bolso da roupa."
+  },
+  "sp49-07": {
+   "word": "La plaza está limpia y bonita.",
+   "translit": null,
+   "example": "Los vecinos la cuidan cada fin de semana.",
+   "examplePt": "Os vizinhos cuidam dela todo fim de semana.",
+   "pron": "la PLA-sa es-TA LIM-pia i bo-NI-ta — 'z' soa 's'",
+   "curiosity": "Em muitas cidades hispânicas, a 'plaza' central é o ponto de encontro."
+  },
+  "sp49-08": {
+   "word": "Cuidemos juntos nuestra ciudad.",
+   "translit": null,
+   "example": "Cada pequeño gesto cuenta.",
+   "examplePt": "Cada pequeno gesto conta.",
+   "pron": "kui-DE-mos HUN-tos NUES-tra siu-DAD — 'j' aspirado",
+   "curiosity": "'Cuídate' é 'se cuide' e é uma despedida carinhosa muito comum."
+  },
+  "sp50-01": {
+   "word": "Quiero agradecerles a todos por venir.",
+   "translit": null,
+   "example": "Su presencia hace especial este día.",
+   "examplePt": "Sua presença torna este dia especial.",
+   "pron": "KIE-ro a-gra-de-SER-les a TO-dos por be-NIR",
+   "curiosity": "'Agradecer' vem de 'grato', a mesma raiz de 'gracias'."
+  },
+  "sp50-02": {
+   "word": "Fue un viaje increíble.",
+   "translit": null,
+   "example": "Aprendimos, reímos y crecimos juntos.",
+   "examplePt": "Aprendemos, rimos e crescemos juntos.",
+   "pron": "fue un BIA-he in-kre-I-ble — 'j' aspirado",
+   "curiosity": "'Increíble' tem hiato: o 'í' leva acento para separar as vogais."
+  },
+  "sp50-03": {
+   "word": "Aprendí muchísimo con ustedes.",
+   "translit": null,
+   "example": "Cada uno me dejó una lección.",
+   "examplePt": "Cada um me deixou uma lição.",
+   "pron": "a-pren-DI mu-CHI-si-mo kon us-TE-des",
+   "curiosity": "Na América Latina, 'ustedes' substitui 'vosotros' no plural."
+  },
+  "sp50-04": {
+   "word": "Sin ustedes, esto no sería posible.",
+   "translit": null,
+   "example": "Gracias por creer en este proyecto.",
+   "examplePt": "Obrigado por acreditar neste projeto.",
+   "pron": "sin us-TE-des ES-to no se-RI-a po-SI-ble",
+   "curiosity": "'Sería' é o condicional de 'ser' e expressa algo hipotético."
+  },
+  "sp50-05": {
+   "word": "Hoy cerramos un gran ciclo.",
+   "translit": null,
+   "example": "Mañana empieza otro, aún más grande.",
+   "examplePt": "Amanhã começa outro, ainda maior.",
+   "pron": "oi se-RA-mos un gran SI-klo — 'c' antes de 'i' soa 's'",
+   "curiosity": "'Gran' é a forma curta de 'grande' antes de substantivo singular."
+  },
+  "sp50-06": {
+   "word": "Me llevo recuerdos para siempre.",
+   "translit": null,
+   "example": "Guardaré cada foto en mi corazón.",
+   "examplePt": "Guardarei cada foto no meu coração.",
+   "pron": "me YE-bo re-KUER-dos PA-ra SIEM-pre — 'll' soa 'dj' suave",
+   "curiosity": "'Llevarse bien' significa dar-se bem com alguém."
+  },
+  "sp50-07": {
+   "word": "Les deseo mucho éxito a todos.",
+   "translit": null,
+   "example": "Que sus sueños se hagan realidad.",
+   "examplePt": "Que seus sonhos virem realidade.",
+   "pron": "les de-SE-o MU-cho EK-si-to a TO-dos",
+   "curiosity": "'Éxito' é o sucesso, e é bem mais usado em espanhol que 'êxito' em português."
+  },
+  "sp50-08": {
+   "word": "Hasta la próxima, de corazón.",
+   "translit": null,
+   "example": "Nos vemos pronto, ¿verdad?",
+   "examplePt": "A gente se vê logo, certo?",
+   "pron": "AS-ta la PRO-ksi-ma de ko-ra-SON — o 'h' é mudo",
+   "curiosity": "'Corazón' vem do latim 'cor', a mesma raiz de 'cordial'."
   }
  }
 }

@@ -1,0 +1,2007 @@
+{
+ "game": "image",
+ "language": "th",
+ "version": 2,
+ "entries": {
+  "im01-01": {
+   "word": "สิงโต",
+   "translit": "singto"
+  },
+  "im01-02": {
+   "word": "เสือ",
+   "translit": "suea"
+  },
+  "im01-03": {
+   "word": "ช้าง",
+   "translit": "chang"
+  },
+  "im01-04": {
+   "word": "ยีราฟ",
+   "translit": "yirap"
+  },
+  "im01-05": {
+   "word": "ลิง",
+   "translit": "ling"
+  },
+  "im01-06": {
+   "word": "ม้าลาย",
+   "translit": "malai"
+  },
+  "im01-07": {
+   "word": "ฮิปโป",
+   "translit": "hippo"
+  },
+  "im01-08": {
+   "word": "แรด",
+   "translit": "raet"
+  },
+  "im01-09": {
+   "word": "จระเข้",
+   "translit": "chorakhe"
+  },
+  "im01-10": {
+   "word": "หมี",
+   "translit": "mi"
+  },
+  "im02-01": {
+   "word": "วัว",
+   "translit": "wua"
+  },
+  "im02-02": {
+   "word": "หมู",
+   "translit": "mu"
+  },
+  "im02-03": {
+   "word": "แกะ",
+   "translit": "kae"
+  },
+  "im02-04": {
+   "word": "แพะ",
+   "translit": "phae"
+  },
+  "im02-05": {
+   "word": "แม่ไก่",
+   "translit": "maekai"
+  },
+  "im02-06": {
+   "word": "ไก่ตัวผู้",
+   "translit": "kaituaphu"
+  },
+  "im02-07": {
+   "word": "ม้า",
+   "translit": "ma"
+  },
+  "im02-08": {
+   "word": "วัวผู้",
+   "translit": "wuaphu"
+  },
+  "im02-09": {
+   "word": "ไก่งวง",
+   "translit": "kaingguang"
+  },
+  "im02-10": {
+   "word": "เป็ด",
+   "translit": "pet"
+  },
+  "im03-01": {
+   "word": "หมา",
+   "translit": "ma"
+  },
+  "im03-02": {
+   "word": "แมว",
+   "translit": "maeo"
+  },
+  "im03-03": {
+   "word": "แฮมสเตอร์",
+   "translit": "haemsatoe"
+  },
+  "im03-04": {
+   "word": "กระต่าย",
+   "translit": "krathai"
+  },
+  "im03-05": {
+   "word": "เต่า",
+   "translit": "tao"
+  },
+  "im03-06": {
+   "word": "ปลา",
+   "translit": "pla"
+  },
+  "im03-07": {
+   "word": "หนู",
+   "translit": "nu"
+  },
+  "im03-08": {
+   "word": "กิ้งก่า",
+   "translit": "kingka"
+  },
+  "im03-09": {
+   "word": "งู",
+   "translit": "ngu"
+  },
+  "im03-10": {
+   "word": "กบ",
+   "translit": "kop"
+  },
+  "im04-01": {
+   "word": "แอปเปิล",
+   "translit": "aeppoen"
+  },
+  "im04-02": {
+   "word": "กล้วย",
+   "translit": "kluai"
+  },
+  "im04-03": {
+   "word": "ส้ม",
+   "translit": "som"
+  },
+  "im04-04": {
+   "word": "องุ่น",
+   "translit": "angun"
+  },
+  "im04-05": {
+   "word": "สตรอว์เบอร์รี",
+   "translit": "satroboeri"
+  },
+  "im04-06": {
+   "word": "แตงโม",
+   "translit": "taengmo"
+  },
+  "im04-07": {
+   "word": "สับปะรด",
+   "translit": "sapparot"
+  },
+  "im04-08": {
+   "word": "เชอร์รี",
+   "translit": "choeri"
+  },
+  "im04-09": {
+   "word": "พีช",
+   "translit": "phit"
+  },
+  "im04-10": {
+   "word": "ลูกแพร์",
+   "translit": "lukphae"
+  },
+  "im05-01": {
+   "word": "ขนมปัง",
+   "translit": "khanompang"
+  },
+  "im05-02": {
+   "word": "ชีส",
+   "translit": "chit"
+  },
+  "im05-03": {
+   "word": "ไข่",
+   "translit": "khai"
+  },
+  "im05-04": {
+   "word": "ข้าว",
+   "translit": "khao"
+  },
+  "im05-05": {
+   "word": "พาสต้า",
+   "translit": "phasta"
+  },
+  "im05-06": {
+   "word": "พิซซ่า",
+   "translit": "phitsa"
+  },
+  "im05-07": {
+   "word": "แฮมเบอร์เกอร์",
+   "translit": "haemboekoe"
+  },
+  "im05-08": {
+   "word": "เฟรนช์ฟรายส์",
+   "translit": "frenchfrai"
+  },
+  "im05-09": {
+   "word": "เนื้อ",
+   "translit": "nuea"
+  },
+  "im05-10": {
+   "word": "เนื้อไก่",
+   "translit": "nueakai"
+  },
+  "im06-01": {
+   "word": "สีแดง",
+   "translit": "sidaeng"
+  },
+  "im06-02": {
+   "word": "สีส้ม",
+   "translit": "sisom"
+  },
+  "im06-03": {
+   "word": "สีเหลือง",
+   "translit": "sileuang"
+  },
+  "im06-04": {
+   "word": "สีเขียว",
+   "translit": "sikhiao"
+  },
+  "im06-05": {
+   "word": "สีน้ำเงิน",
+   "translit": "sinamngoen"
+  },
+  "im06-06": {
+   "word": "สีม่วง",
+   "translit": "simuang"
+  },
+  "im06-07": {
+   "word": "สีน้ำตาล",
+   "translit": "sinamtan"
+  },
+  "im06-08": {
+   "word": "สีดำ",
+   "translit": "sidam"
+  },
+  "im06-09": {
+   "word": "สีขาว",
+   "translit": "sikhao"
+  },
+  "im06-10": {
+   "word": "สีชมพู",
+   "translit": "sichomphu"
+  },
+  "im07-01": {
+   "word": "ตา",
+   "translit": "ta"
+  },
+  "im07-02": {
+   "word": "จมูก",
+   "translit": "chamuk"
+  },
+  "im07-03": {
+   "word": "ปาก",
+   "translit": "pak"
+  },
+  "im07-04": {
+   "word": "หู",
+   "translit": "hu"
+  },
+  "im07-05": {
+   "word": "มือ",
+   "translit": "mue"
+  },
+  "im07-06": {
+   "word": "เท้า",
+   "translit": "thao"
+  },
+  "im07-07": {
+   "word": "ขา",
+   "translit": "kha"
+  },
+  "im07-08": {
+   "word": "ฟัน",
+   "translit": "fan"
+  },
+  "im07-09": {
+   "word": "ลิ้น",
+   "translit": "lin"
+  },
+  "im07-10": {
+   "word": "สมอง",
+   "translit": "samong"
+  },
+  "im08-01": {
+   "word": "เสื้อยืด",
+   "translit": "sueayuet"
+  },
+  "im08-02": {
+   "word": "กางเกง",
+   "translit": "kangkeng"
+  },
+  "im08-03": {
+   "word": "ชุดเดรส",
+   "translit": "chutdres"
+  },
+  "im08-04": {
+   "word": "เสื้อโค้ท",
+   "translit": "sueakhot"
+  },
+  "im08-05": {
+   "word": "ถุงเท้า",
+   "translit": "thungthao"
+  },
+  "im08-06": {
+   "word": "รองเท้าผ้าใบ",
+   "translit": "rongthaophaibai"
+  },
+  "im08-07": {
+   "word": "รองเท้า",
+   "translit": "rongthao"
+  },
+  "im08-08": {
+   "word": "หมวกแก๊ป",
+   "translit": "muakkaep"
+  },
+  "im08-09": {
+   "word": "ผ้าพันคอ",
+   "translit": "phaphankho"
+  },
+  "im08-10": {
+   "word": "ถุงมือ",
+   "translit": "thungmue"
+  },
+  "im09-01": {
+   "word": "เตียง",
+   "translit": "tiang"
+  },
+  "im09-02": {
+   "word": "ประตู",
+   "translit": "pratu"
+  },
+  "im09-03": {
+   "word": "หน้าต่าง",
+   "translit": "natang"
+  },
+  "im09-04": {
+   "word": "โซฟา",
+   "translit": "sofa"
+  },
+  "im09-05": {
+   "word": "ฝักบัว",
+   "translit": "fakbua"
+  },
+  "im09-06": {
+   "word": "โถส้วม",
+   "translit": "thosuam"
+  },
+  "im09-07": {
+   "word": "กุญแจ",
+   "translit": "kunchae"
+  },
+  "im09-08": {
+   "word": "หลอดไฟ",
+   "translit": "lotfai"
+  },
+  "im09-09": {
+   "word": "โทรทัศน์",
+   "translit": "thorathat"
+  },
+  "im09-10": {
+   "word": "นาฬิกาปลุก",
+   "translit": "nalikaplu"
+  },
+  "im10-01": {
+   "word": "รถยนต์",
+   "translit": "rotyon"
+  },
+  "im10-02": {
+   "word": "รถเมล์",
+   "translit": "rotme"
+  },
+  "im10-03": {
+   "word": "จักรยาน",
+   "translit": "chakkrayan"
+  },
+  "im10-04": {
+   "word": "เครื่องบิน",
+   "translit": "khruangbin"
+  },
+  "im10-05": {
+   "word": "รถไฟ",
+   "translit": "rotfai"
+  },
+  "im10-06": {
+   "word": "เรือเดินสมุทร",
+   "translit": "rueadoensamut"
+  },
+  "im10-07": {
+   "word": "เฮลิคอปเตอร์",
+   "translit": "helikhopto"
+  },
+  "im10-08": {
+   "word": "มอเตอร์ไซค์",
+   "translit": "motoesai"
+  },
+  "im10-09": {
+   "word": "รถพยาบาล",
+   "translit": "rotphayaban"
+  },
+  "im10-10": {
+   "word": "รถบรรทุก",
+   "translit": "rotbanthuk"
+  },
+  "im11-01": {
+   "word": "นกอินทรี",
+   "translit": "nokinsi"
+  },
+  "im11-02": {
+   "word": "เพนกวิน",
+   "translit": "phengwin"
+  },
+  "im11-03": {
+   "word": "นกฮูก",
+   "translit": "nokhuk"
+  },
+  "im11-04": {
+   "word": "หงส์",
+   "translit": "hong"
+  },
+  "im11-05": {
+   "word": "นกฟลามิงโก",
+   "translit": "nokflamingo"
+  },
+  "im11-06": {
+   "word": "นกพิราบ",
+   "translit": "nokphirap"
+  },
+  "im11-07": {
+   "word": "นกยูง",
+   "translit": "nokyung"
+  },
+  "im11-08": {
+   "word": "ลูกเจี๊ยบ",
+   "translit": "lukchiap"
+  },
+  "im11-09": {
+   "word": "นกแก้ว",
+   "translit": "nokkaeo"
+  },
+  "im11-10": {
+   "word": "นก",
+   "translit": "nok"
+  },
+  "im12-01": {
+   "word": "ต้นไม้",
+   "translit": "tonmai"
+  },
+  "im12-02": {
+   "word": "ทานตะวัน",
+   "translit": "thantawan"
+  },
+  "im12-03": {
+   "word": "กระบองเพชร",
+   "translit": "krabongphet"
+  },
+  "im12-04": {
+   "word": "ต้นปาล์ม",
+   "translit": "tonpam"
+  },
+  "im12-05": {
+   "word": "ทิวลิป",
+   "translit": "thiulip"
+  },
+  "im12-06": {
+   "word": "ภูเขา",
+   "translit": "phukhao"
+  },
+  "im12-07": {
+   "word": "คลื่น",
+   "translit": "khluen"
+  },
+  "im12-08": {
+   "word": "ภูเขาไฟ",
+   "translit": "phukhaofai"
+  },
+  "im12-09": {
+   "word": "เกาะ",
+   "translit": "ko"
+  },
+  "im12-10": {
+   "word": "ทะเลทราย",
+   "translit": "thalesai"
+  },
+  "im13-01": {
+   "word": "ดวงอาทิตย์",
+   "translit": "duangathit"
+  },
+  "im13-02": {
+   "word": "ดวงจันทร์",
+   "translit": "duangchan"
+  },
+  "im13-03": {
+   "word": "ดาว",
+   "translit": "dao"
+  },
+  "im13-04": {
+   "word": "เมฆ",
+   "translit": "mek"
+  },
+  "im13-05": {
+   "word": "ฝน",
+   "translit": "fon"
+  },
+  "im13-06": {
+   "word": "เกล็ดหิมะ",
+   "translit": "kletthima"
+  },
+  "im13-07": {
+   "word": "รุ้ง",
+   "translit": "rung"
+  },
+  "im13-08": {
+   "word": "ฟ้าแลบ",
+   "translit": "falaep"
+  },
+  "im13-09": {
+   "word": "พายุทอร์นาโด",
+   "translit": "phayuthonado"
+  },
+  "im13-10": {
+   "word": "ร่ม",
+   "translit": "rom"
+  },
+  "im14-01": {
+   "word": "ผึ้ง",
+   "translit": "phueng"
+  },
+  "im14-02": {
+   "word": "ผีเสื้อ",
+   "translit": "phiseua"
+  },
+  "im14-03": {
+   "word": "มด",
+   "translit": "mot"
+  },
+  "im14-04": {
+   "word": "เต่าทอง",
+   "translit": "taothong"
+  },
+  "im14-05": {
+   "word": "หนอน",
+   "translit": "non"
+  },
+  "im14-06": {
+   "word": "จิ้งหรีด",
+   "translit": "chingrit"
+  },
+  "im14-07": {
+   "word": "แมงมุม",
+   "translit": "maengmum"
+  },
+  "im14-08": {
+   "word": "แมงป่อง",
+   "translit": "maengpong"
+  },
+  "im14-09": {
+   "word": "ยุง",
+   "translit": "yung"
+  },
+  "im14-10": {
+   "word": "หอยทาก",
+   "translit": "hoithak"
+  },
+  "im15-01": {
+   "word": "โลมา",
+   "translit": "loma"
+  },
+  "im15-02": {
+   "word": "วาฬ",
+   "translit": "wan"
+  },
+  "im15-03": {
+   "word": "ฉลาม",
+   "translit": "chalam"
+  },
+  "im15-04": {
+   "word": "ปลาหมึกสาย",
+   "translit": "plamueksai"
+  },
+  "im15-05": {
+   "word": "ปู",
+   "translit": "pu"
+  },
+  "im15-06": {
+   "word": "กุ้งมังกร",
+   "translit": "kungmangkon"
+  },
+  "im15-07": {
+   "word": "กุ้ง",
+   "translit": "kung"
+  },
+  "im15-08": {
+   "word": "ปลาปักเป้า",
+   "translit": "plapakpao"
+  },
+  "im15-09": {
+   "word": "ปลาหมึก",
+   "translit": "plamuek"
+  },
+  "im15-10": {
+   "word": "เปลือกหอย",
+   "translit": "pluekhoi"
+  },
+  "im16-01": {
+   "word": "มะม่วง",
+   "translit": "mamuang"
+  },
+  "im16-02": {
+   "word": "มะพร้าว",
+   "translit": "maphrao"
+  },
+  "im16-03": {
+   "word": "กีวี",
+   "translit": "kiwi"
+  },
+  "im16-04": {
+   "word": "มะนาว",
+   "translit": "manao"
+  },
+  "im16-05": {
+   "word": "แคนตาลูป",
+   "translit": "khaentalup"
+  },
+  "im16-06": {
+   "word": "อะโวคาโด",
+   "translit": "avokhado"
+  },
+  "im16-07": {
+   "word": "ถั่วลิสง",
+   "translit": "thualisong"
+  },
+  "im16-08": {
+   "word": "เกาลัด",
+   "translit": "kaolat"
+  },
+  "im16-09": {
+   "word": "มะเขือเทศ",
+   "translit": "makhuethet"
+  },
+  "im16-10": {
+   "word": "แตงกวา",
+   "translit": "taengkwa"
+  },
+  "im17-01": {
+   "word": "แครอท",
+   "translit": "khaerot"
+  },
+  "im17-02": {
+   "word": "ข้าวโพด",
+   "translit": "khaophot"
+  },
+  "im17-03": {
+   "word": "มันฝรั่ง",
+   "translit": "manfarang"
+  },
+  "im17-04": {
+   "word": "มะเขือม่วง",
+   "translit": "makhuemuang"
+  },
+  "im17-05": {
+   "word": "บรอกโคลี",
+   "translit": "brokkholi"
+  },
+  "im17-06": {
+   "word": "ผักกาดหอม",
+   "translit": "phakkatthom"
+  },
+  "im17-07": {
+   "word": "หัวหอม",
+   "translit": "huahom"
+  },
+  "im17-08": {
+   "word": "กระเทียม",
+   "translit": "krathiam"
+  },
+  "im17-09": {
+   "word": "พริก",
+   "translit": "phrik"
+  },
+  "im17-10": {
+   "word": "เห็ด",
+   "translit": "het"
+  },
+  "im18-01": {
+   "word": "กาแฟ",
+   "translit": "kafae"
+  },
+  "im18-02": {
+   "word": "นม",
+   "translit": "nom"
+  },
+  "im18-03": {
+   "word": "น้ำผลไม้",
+   "translit": "namphonlamai"
+  },
+  "im18-04": {
+   "word": "เบียร์",
+   "translit": "bia"
+  },
+  "im18-05": {
+   "word": "ไวน์",
+   "translit": "wai"
+  },
+  "im18-06": {
+   "word": "ช็อกโกแลต",
+   "translit": "chokkolaet"
+  },
+  "im18-07": {
+   "word": "ไอศกรีม",
+   "translit": "aisakhrim"
+  },
+  "im18-08": {
+   "word": "เค้ก",
+   "translit": "khek"
+  },
+  "im18-09": {
+   "word": "คุกกี้",
+   "translit": "khukki"
+  },
+  "im18-10": {
+   "word": "โดนัท",
+   "translit": "donat"
+  },
+  "im19-01": {
+   "word": "โทรศัพท์มือถือ",
+   "translit": "thorasapmuetho"
+  },
+  "im19-02": {
+   "word": "นาฬิกาข้อมือ",
+   "translit": "nalikakhomue"
+  },
+  "im19-03": {
+   "word": "แว่นตา",
+   "translit": "waenta"
+  },
+  "im19-04": {
+   "word": "เป้สะพายหลัง",
+   "translit": "pesaphailang"
+  },
+  "im19-05": {
+   "word": "กรรไกร",
+   "translit": "kankrai"
+  },
+  "im19-06": {
+   "word": "ไฟฉาย",
+   "translit": "faichai"
+  },
+  "im19-07": {
+   "word": "กล้องถ่ายรูป",
+   "translit": "klongthairup"
+  },
+  "im19-08": {
+   "word": "ถ่านไฟฉาย",
+   "translit": "thanfaichai"
+  },
+  "im19-09": {
+   "word": "ตุ๊กตาหมี",
+   "translit": "tukkatami"
+  },
+  "im19-10": {
+   "word": "แม่เหล็ก",
+   "translit": "maeklek"
+  },
+  "im20-01": {
+   "word": "หนังสือ",
+   "translit": "nangsue"
+  },
+  "im20-02": {
+   "word": "ดินสอ",
+   "translit": "dinso"
+  },
+  "im20-03": {
+   "word": "ปากกา",
+   "translit": "pakka"
+  },
+  "im20-04": {
+   "word": "สมุด",
+   "translit": "samut"
+  },
+  "im20-05": {
+   "word": "ไม้บรรทัด",
+   "translit": "maibanthat"
+  },
+  "im20-06": {
+   "word": "คลิปหนีบกระดาษ",
+   "translit": "khlipnipkradat"
+  },
+  "im20-07": {
+   "word": "ไม้ฉาก",
+   "translit": "maichak"
+  },
+  "im20-08": {
+   "word": "ลูกคิด",
+   "translit": "lukkhit"
+  },
+  "im20-09": {
+   "word": "โรงเรียน",
+   "translit": "rongrian"
+  },
+  "im20-10": {
+   "word": "จานสี",
+   "translit": "chansi"
+  },
+  "im21-01": {
+   "word": "ฟุตบอล",
+   "translit": "futbon"
+  },
+  "im21-02": {
+   "word": "บาสเกตบอล",
+   "translit": "basketbon"
+  },
+  "im21-03": {
+   "word": "ลูกเทนนิส",
+   "translit": "luktennis"
+  },
+  "im21-04": {
+   "word": "ลูกวอลเลย์บอล",
+   "translit": "lukwollebon"
+  },
+  "im21-05": {
+   "word": "ปิงปอง",
+   "translit": "pingpong"
+  },
+  "im21-06": {
+   "word": "ถุงมือชก",
+   "translit": "thungmuechok"
+  },
+  "im21-07": {
+   "word": "โบว์ลิ่ง",
+   "translit": "bowling"
+  },
+  "im21-08": {
+   "word": "ธนู",
+   "translit": "thanu"
+  },
+  "im21-09": {
+   "word": "สเกตบอร์ด",
+   "translit": "saketbo"
+  },
+  "im21-10": {
+   "word": "รองเท้าสเก็ตน้ำแข็ง",
+   "translit": "rongthaosaketnamkhaeng"
+  },
+  "im22-01": {
+   "word": "จาน",
+   "translit": "chan"
+  },
+  "im22-02": {
+   "word": "ช้อน",
+   "translit": "chon"
+  },
+  "im22-03": {
+   "word": "มีด",
+   "translit": "mit"
+  },
+  "im22-04": {
+   "word": "กระทะ",
+   "translit": "kratha"
+  },
+  "im22-05": {
+   "word": "ชาม",
+   "translit": "cham"
+  },
+  "im22-06": {
+   "word": "ตะเกียบ",
+   "translit": "takiap"
+  },
+  "im22-07": {
+   "word": "เกลือ",
+   "translit": "kluea"
+  },
+  "im22-08": {
+   "word": "กระป๋อง",
+   "translit": "krapong"
+  },
+  "im22-09": {
+   "word": "แก้วน้ำ",
+   "translit": "kaeonam"
+  },
+  "im22-10": {
+   "word": "น้ำแข็ง",
+   "translit": "namkhaeng"
+  },
+  "im23-01": {
+   "word": "แปรงสีฟัน",
+   "translit": "praengsifan"
+  },
+  "im23-02": {
+   "word": "สบู่",
+   "translit": "sabu"
+  },
+  "im23-03": {
+   "word": "กระดาษชำระ",
+   "translit": "kradatchamra"
+  },
+  "im23-04": {
+   "word": "มีดโกน",
+   "translit": "mitkon"
+  },
+  "im23-05": {
+   "word": "อ่างอาบน้ำ",
+   "translit": "angapnam"
+  },
+  "im23-06": {
+   "word": "ฟองน้ำ",
+   "translit": "fongnam"
+  },
+  "im23-07": {
+   "word": "ไม้กวาด",
+   "translit": "maikwat"
+  },
+  "im23-08": {
+   "word": "ถัง",
+   "translit": "thang"
+  },
+  "im23-09": {
+   "word": "กระจก",
+   "translit": "krachok"
+  },
+  "im23-10": {
+   "word": "ตะกร้า",
+   "translit": "takra"
+  },
+  "im24-01": {
+   "word": "เก้าอี้",
+   "translit": "kaoi"
+  },
+  "im24-02": {
+   "word": "รูปภาพ",
+   "translit": "rupphap"
+  },
+  "im24-03": {
+   "word": "เทียน",
+   "translit": "thian"
+  },
+  "im24-04": {
+   "word": "กระเป๋าเดินทาง",
+   "translit": "krapaoduenthang"
+  },
+  "im24-05": {
+   "word": "แม่กุญแจ",
+   "translit": "maekunchae"
+  },
+  "im24-06": {
+   "word": "ถังขยะ",
+   "translit": "thangkhaya"
+  },
+  "im24-07": {
+   "word": "บันได",
+   "translit": "bandai"
+  },
+  "im24-08": {
+   "word": "วิทยุ",
+   "translit": "withayu"
+  },
+  "im24-09": {
+   "word": "กระดิ่ง",
+   "translit": "kradin"
+  },
+  "im24-10": {
+   "word": "ถังดับเพลิง",
+   "translit": "thangdapphloeng"
+  },
+  "im25-01": {
+   "word": "ค้อน",
+   "translit": "khon"
+  },
+  "im25-02": {
+   "word": "ขวาน",
+   "translit": "khwan"
+  },
+  "im25-03": {
+   "word": "ประแจ",
+   "translit": "pracae"
+  },
+  "im25-04": {
+   "word": "ไขควง",
+   "translit": "khikhuang"
+  },
+  "im25-05": {
+   "word": "เลื่อย",
+   "translit": "lueai"
+  },
+  "im25-06": {
+   "word": "จอบ",
+   "translit": "chop"
+  },
+  "im25-07": {
+   "word": "กล่องเครื่องมือ",
+   "translit": "klongkhrueangmue"
+  },
+  "im25-08": {
+   "word": "สกรู",
+   "translit": "sakru"
+  },
+  "im25-09": {
+   "word": "เฟือง",
+   "translit": "fueang"
+  },
+  "im25-10": {
+   "word": "โซ่",
+   "translit": "so"
+  },
+  "im26-01": {
+   "word": "โรงพยาบาล",
+   "translit": "rongphayaban"
+  },
+  "im26-02": {
+   "word": "ธนาคาร",
+   "translit": "thanakhan"
+  },
+  "im26-03": {
+   "word": "โบสถ์",
+   "translit": "bot"
+  },
+  "im26-04": {
+   "word": "โรงแรม",
+   "translit": "rongraem"
+  },
+  "im26-05": {
+   "word": "โรงงาน",
+   "translit": "rongngan"
+  },
+  "im26-06": {
+   "word": "ปั๊มน้ำมัน",
+   "translit": "pamnamman"
+  },
+  "im26-07": {
+   "word": "สัญญาณไฟจราจร",
+   "translit": "sanyanfaicharachon"
+  },
+  "im26-08": {
+   "word": "สะพาน",
+   "translit": "saphan"
+  },
+  "im26-09": {
+   "word": "สนามกีฬา",
+   "translit": "sanamkila"
+  },
+  "im26-10": {
+   "word": "ร้านค้า",
+   "translit": "rankha"
+  },
+  "im27-01": {
+   "word": "แล็ปท็อป",
+   "translit": "laptop"
+  },
+  "im27-02": {
+   "word": "คีย์บอร์ด",
+   "translit": "khibo"
+  },
+  "im27-03": {
+   "word": "เมาส์",
+   "translit": "mao"
+  },
+  "im27-04": {
+   "word": "เครื่องพิมพ์",
+   "translit": "khrueangphim"
+  },
+  "im27-05": {
+   "word": "แผ่นดิสก์",
+   "translit": "phaendit"
+  },
+  "im27-06": {
+   "word": "หูฟัง",
+   "translit": "hufang"
+  },
+  "im27-07": {
+   "word": "ไมโครโฟน",
+   "translit": "maikhrofon"
+  },
+  "im27-08": {
+   "word": "เสาอากาศ",
+   "translit": "saoakat"
+  },
+  "im27-09": {
+   "word": "ปลั๊กไฟ",
+   "translit": "plakfai"
+  },
+  "im27-10": {
+   "word": "จอยสติ๊ก",
+   "translit": "joisatik"
+  },
+  "im28-01": {
+   "word": "กีตาร์",
+   "translit": "kita"
+  },
+  "im28-02": {
+   "word": "เปียโน",
+   "translit": "piano"
+  },
+  "im28-03": {
+   "word": "ทรัมเป็ต",
+   "translit": "thrampet"
+  },
+  "im28-04": {
+   "word": "ไวโอลิน",
+   "translit": "waiolin"
+  },
+  "im28-05": {
+   "word": "กลอง",
+   "translit": "klong"
+  },
+  "im28-06": {
+   "word": "แซกโซโฟน",
+   "translit": "saeksofon"
+  },
+  "im28-07": {
+   "word": "แบนโจ",
+   "translit": "baenjo"
+  },
+  "im28-08": {
+   "word": "แอคคอร์เดียน",
+   "translit": "aekkhoediean"
+  },
+  "im28-09": {
+   "word": "โน้ตเพลง",
+   "translit": "notphleng"
+  },
+  "im28-10": {
+   "word": "ตัวโน้ต",
+   "translit": "tuanot"
+  },
+  "im29-01": {
+   "word": "ลูกเต๋า",
+   "translit": "lukte"
+  },
+  "im29-02": {
+   "word": "จิ๊กซอว์",
+   "translit": "chikso"
+  },
+  "im29-03": {
+   "word": "เป้า",
+   "translit": "pao"
+  },
+  "im29-04": {
+   "word": "หมากรุก",
+   "translit": "makruk"
+  },
+  "im29-05": {
+   "word": "วิดีโอเกม",
+   "translit": "widiokem"
+  },
+  "im29-06": {
+   "word": "ชิงช้าสวรรค์",
+   "translit": "chingchasawan"
+  },
+  "im29-07": {
+   "word": "รถไฟเหาะ",
+   "translit": "rotfaihoe"
+  },
+  "im29-08": {
+   "word": "ลูกโป่ง",
+   "translit": "lukpong"
+  },
+  "im29-09": {
+   "word": "ว่าว",
+   "translit": "wao"
+  },
+  "im29-10": {
+   "word": "ม้าหมุน",
+   "translit": "mamun"
+  },
+  "im30-01": {
+   "word": "ของขวัญ",
+   "translit": "khongkhwan"
+  },
+  "im30-02": {
+   "word": "เค้กวันเกิด",
+   "translit": "khekwankoet"
+  },
+  "im30-03": {
+   "word": "ต้นคริสต์มาส",
+   "translit": "tonkhritmat"
+  },
+  "im30-04": {
+   "word": "ฟักทอง",
+   "translit": "faktong"
+  },
+  "im30-05": {
+   "word": "ดอกไม้ไฟ",
+   "translit": "dokmaifai"
+  },
+  "im30-06": {
+   "word": "โคมกระดาษ",
+   "translit": "khomkradat"
+  },
+  "im30-07": {
+   "word": "ซานตาคลอส",
+   "translit": "santakhlot"
+  },
+  "im30-08": {
+   "word": "ปิญญาต้า",
+   "translit": "pinyata"
+  },
+  "im30-09": {
+   "word": "โบว์",
+   "translit": "bo"
+  },
+  "im30-10": {
+   "word": "แชมเปญ",
+   "translit": "chaempen"
+  },
+  "im31-01": {
+   "word": "หูฟังแพทย์",
+   "translit": "hufangphaet"
+  },
+  "im31-02": {
+   "word": "เข็มฉีดยา",
+   "translit": "khemchitya"
+  },
+  "im31-03": {
+   "word": "ยาเม็ด",
+   "translit": "yamet"
+  },
+  "im31-04": {
+   "word": "พลาสเตอร์",
+   "translit": "phlastoe"
+  },
+  "im31-05": {
+   "word": "ปรอทวัดไข้",
+   "translit": "protwatkhai"
+  },
+  "im31-06": {
+   "word": "รถเข็น",
+   "translit": "rotkhen"
+  },
+  "im31-07": {
+   "word": "ไม้เท้า",
+   "translit": "maithao"
+  },
+  "im31-08": {
+   "word": "เชื้อโรค",
+   "translit": "chuearok"
+  },
+  "im31-09": {
+   "word": "กระดูก",
+   "translit": "kraduk"
+  },
+  "im31-10": {
+   "word": "ดีเอ็นเอ",
+   "translit": "diien"
+  },
+  "im32-01": {
+   "word": "กล้องจุลทรรศน์",
+   "translit": "klongchunlathat"
+  },
+  "im32-02": {
+   "word": "กล้องโทรทรรศน์",
+   "translit": "klongthorathat"
+  },
+  "im32-03": {
+   "word": "หลอดทดลอง",
+   "translit": "lotthotlong"
+  },
+  "im32-04": {
+   "word": "เครื่องกลั่น",
+   "translit": "khrueangklan"
+  },
+  "im32-05": {
+   "word": "จานเพาะเชื้อ",
+   "translit": "chanphochuea"
+  },
+  "im32-06": {
+   "word": "เครื่องชั่ง",
+   "translit": "khrueangchang"
+  },
+  "im32-07": {
+   "word": "เข็มทิศ",
+   "translit": "khemthit"
+  },
+  "im32-08": {
+   "word": "แว่นขยาย",
+   "translit": "waenkhayai"
+  },
+  "im32-09": {
+   "word": "นาฬิกาทราย",
+   "translit": "nalikasai"
+  },
+  "im32-10": {
+   "word": "อะตอม",
+   "translit": "atom"
+  },
+  "im33-01": {
+   "word": "แฟ้ม",
+   "translit": "faem"
+  },
+  "im33-02": {
+   "word": "ปฏิทิน",
+   "translit": "patithin"
+  },
+  "im33-03": {
+   "word": "แผนภูมิ",
+   "translit": "phaenphum"
+  },
+  "im33-04": {
+   "word": "ซองจดหมาย",
+   "translit": "songchotmai"
+  },
+  "im33-05": {
+   "word": "ตู้ไปรษณีย์",
+   "translit": "tuphraisani"
+  },
+  "im33-06": {
+   "word": "พัสดุ",
+   "translit": "phatsadu"
+  },
+  "im33-07": {
+   "word": "หนังสือพิมพ์",
+   "translit": "nangsuephim"
+  },
+  "im33-08": {
+   "word": "บัตรเครดิต",
+   "translit": "batkhredit"
+  },
+  "im33-09": {
+   "word": "เหรียญ",
+   "translit": "rian"
+  },
+  "im33-10": {
+   "word": "ม้วนกระดาษโบราณ",
+   "translit": "muankradatboran"
+  },
+  "im34-01": {
+   "word": "บ้าน",
+   "translit": "ban"
+  },
+  "im34-02": {
+   "word": "ตึก",
+   "translit": "tuek"
+  },
+  "im34-03": {
+   "word": "อิฐ",
+   "translit": "it"
+  },
+  "im34-04": {
+   "word": "เครนก่อสร้าง",
+   "translit": "khrenkosang"
+  },
+  "im34-05": {
+   "word": "กระท่อม",
+   "translit": "krathom"
+  },
+  "im34-06": {
+   "word": "เต็นท์",
+   "translit": "ten"
+  },
+  "im34-07": {
+   "word": "งานก่อสร้าง",
+   "translit": "ngankosang"
+  },
+  "im34-08": {
+   "word": "ปราสาท",
+   "translit": "prasat"
+  },
+  "im34-09": {
+   "word": "น้ำพุ",
+   "translit": "namphu"
+  },
+  "im34-10": {
+   "word": "รูปปั้นโมอาย",
+   "translit": "rupphanmoai"
+  },
+  "im35-01": {
+   "word": "ดาวเคราะห์",
+   "translit": "daokhro"
+  },
+  "im35-02": {
+   "word": "โลก",
+   "translit": "lok"
+  },
+  "im35-03": {
+   "word": "พระจันทร์เต็มดวง",
+   "translit": "phrachantemduang"
+  },
+  "im35-04": {
+   "word": "ดาวหาง",
+   "translit": "daohang"
+  },
+  "im35-05": {
+   "word": "จรวด",
+   "translit": "charuat"
+  },
+  "im35-06": {
+   "word": "ดาวเทียม",
+   "translit": "daothiam"
+  },
+  "im35-07": {
+   "word": "จานบิน",
+   "translit": "chanbin"
+  },
+  "im35-08": {
+   "word": "มนุษย์ต่างดาว",
+   "translit": "manutangdao"
+  },
+  "im35-09": {
+   "word": "ดาวตก",
+   "translit": "daotok"
+  },
+  "im35-10": {
+   "word": "กาแล็กซี",
+   "translit": "kalaeksi"
+  },
+  "im36-01": {
+   "word": "เรือใบ",
+   "translit": "rueabai"
+  },
+  "im36-02": {
+   "word": "เรือแคนู",
+   "translit": "rueakhanu"
+  },
+  "im36-03": {
+   "word": "เรือเร็ว",
+   "translit": "ruearet"
+  },
+  "im36-04": {
+   "word": "แท็กซี่",
+   "translit": "thaeksi"
+  },
+  "im36-05": {
+   "word": "สกู๊ตเตอร์",
+   "translit": "sakutte"
+  },
+  "im36-06": {
+   "word": "รถแทรกเตอร์",
+   "translit": "rotthraekto"
+  },
+  "im36-07": {
+   "word": "รถไฟใต้ดิน",
+   "translit": "rotfaitaidin"
+  },
+  "im36-08": {
+   "word": "สกู๊ตเตอร์ขาไถ",
+   "translit": "sakuttekhathai"
+  },
+  "im36-09": {
+   "word": "ร่มชูชีพ",
+   "translit": "romchuchip"
+  },
+  "im36-10": {
+   "word": "รถตำรวจ",
+   "translit": "rottamruat"
+  },
+  "im37-01": {
+   "word": "ซูชิ",
+   "translit": "suchi"
+  },
+  "im37-02": {
+   "word": "ราเม็ง",
+   "translit": "ramen"
+  },
+  "im37-03": {
+   "word": "ปาเอย่า",
+   "translit": "paeya"
+  },
+  "im37-04": {
+   "word": "แกงกะหรี่",
+   "translit": "kaengkari"
+  },
+  "im37-05": {
+   "word": "เกี๊ยว",
+   "translit": "kiao"
+  },
+  "im37-06": {
+   "word": "เบนโตะ",
+   "translit": "bento"
+  },
+  "im37-07": {
+   "word": "ข้าวปั้น",
+   "translit": "khaopan"
+  },
+  "im37-08": {
+   "word": "ฟาลาเฟล",
+   "translit": "falafel"
+  },
+  "im37-09": {
+   "word": "สลัด",
+   "translit": "salat"
+  },
+  "im37-10": {
+   "word": "สตูว์",
+   "translit": "satu"
+  },
+  "im38-01": {
+   "word": "ครัวซองต์",
+   "translit": "khruasong"
+  },
+  "im38-02": {
+   "word": "เพรทเซล",
+   "translit": "phretsen"
+  },
+  "im38-03": {
+   "word": "เบเกิล",
+   "translit": "bekoen"
+  },
+  "im38-04": {
+   "word": "แพนเค้ก",
+   "translit": "phaenkhek"
+  },
+  "im38-05": {
+   "word": "วาฟเฟิล",
+   "translit": "wafoen"
+  },
+  "im38-06": {
+   "word": "ทาโก้",
+   "translit": "thako"
+  },
+  "im38-07": {
+   "word": "บูร์ริโต",
+   "translit": "burito"
+  },
+  "im38-08": {
+   "word": "แซนด์วิช",
+   "translit": "saenwit"
+  },
+  "im38-09": {
+   "word": "ป๊อปคอร์น",
+   "translit": "popkhon"
+  },
+  "im38-10": {
+   "word": "ฮอตดอก",
+   "translit": "hotdok"
+  },
+  "im39-01": {
+   "word": "พุดดิ้ง",
+   "translit": "phutding"
+  },
+  "im39-02": {
+   "word": "พาย",
+   "translit": "phai"
+  },
+  "im39-03": {
+   "word": "คัพเค้ก",
+   "translit": "khapkhek"
+  },
+  "im39-04": {
+   "word": "ลูกอม",
+   "translit": "lukom"
+  },
+  "im39-05": {
+   "word": "อมยิ้ม",
+   "translit": "omyim"
+  },
+  "im39-06": {
+   "word": "น้ำผึ้ง",
+   "translit": "namphueng"
+  },
+  "im39-07": {
+   "word": "น้ำแข็งไส",
+   "translit": "namkhaengsai"
+  },
+  "im39-08": {
+   "word": "คุกกี้เสี่ยงทาย",
+   "translit": "khukkisiangthai"
+  },
+  "im39-09": {
+   "word": "เนย",
+   "translit": "noei"
+  },
+  "im39-10": {
+   "word": "ดังโงะ",
+   "translit": "dangngo"
+  },
+  "im40-01": {
+   "word": "ชา",
+   "translit": "cha"
+  },
+  "im40-02": {
+   "word": "ค็อกเทล",
+   "translit": "khokthen"
+  },
+  "im40-03": {
+   "word": "สาเก",
+   "translit": "sake"
+  },
+  "im40-04": {
+   "word": "วิสกี้",
+   "translit": "wiski"
+  },
+  "im40-05": {
+   "word": "ชามาเตะ",
+   "translit": "chamate"
+  },
+  "im40-06": {
+   "word": "ชาไข่มุก",
+   "translit": "chakhaimuk"
+  },
+  "im40-07": {
+   "word": "เครื่องดื่มเขตร้อน",
+   "translit": "khrueangduemkhetron"
+  },
+  "im40-08": {
+   "word": "ขวดนมเด็ก",
+   "translit": "khuatnomdek"
+  },
+  "im40-09": {
+   "word": "หยดน้ำ",
+   "translit": "yotnam"
+  },
+  "im40-10": {
+   "word": "ชนแก้ว",
+   "translit": "chonkaeo"
+  },
+  "im41-01": {
+   "word": "หมาป่า",
+   "translit": "mapa"
+  },
+  "im41-02": {
+   "word": "จิ้งจอก",
+   "translit": "chingchok"
+  },
+  "im41-03": {
+   "word": "กวาง",
+   "translit": "kwang"
+  },
+  "im41-04": {
+   "word": "กระรอก",
+   "translit": "krarok"
+  },
+  "im41-05": {
+   "word": "หมูป่า",
+   "translit": "mupa"
+  },
+  "im41-06": {
+   "word": "แบดเจอร์",
+   "translit": "baetchoe"
+  },
+  "im41-07": {
+   "word": "แรคคูน",
+   "translit": "raekkhun"
+  },
+  "im41-08": {
+   "word": "ค้างคาว",
+   "translit": "khangkhao"
+  },
+  "im41-09": {
+   "word": "เม่น",
+   "translit": "men"
+  },
+  "im41-10": {
+   "word": "สกั๊งค์",
+   "translit": "sakang"
+  },
+  "im42-01": {
+   "word": "จิงโจ้",
+   "translit": "chingcho"
+  },
+  "im42-02": {
+   "word": "โคอาล่า",
+   "translit": "khoala"
+  },
+  "im42-03": {
+   "word": "แพนด้า",
+   "translit": "phaenda"
+  },
+  "im42-04": {
+   "word": "อูฐ",
+   "translit": "ut"
+  },
+  "im42-05": {
+   "word": "ลามะ",
+   "translit": "lama"
+  },
+  "im42-06": {
+   "word": "สลอธ",
+   "translit": "salot"
+  },
+  "im42-07": {
+   "word": "กอริลลา",
+   "translit": "korila"
+  },
+  "im42-08": {
+   "word": "อุรังอุตัง",
+   "translit": "urangutang"
+  },
+  "im42-09": {
+   "word": "เสือดาว",
+   "translit": "sueadao"
+  },
+  "im42-10": {
+   "word": "ไบซัน",
+   "translit": "baisan"
+  },
+  "im43-01": {
+   "word": "ทีเร็กซ์",
+   "translit": "thirek"
+  },
+  "im43-02": {
+   "word": "ไดโนเสาร์คอยาว",
+   "translit": "dainosaokhoyao"
+  },
+  "im43-03": {
+   "word": "แมมมอธ",
+   "translit": "maemmot"
+  },
+  "im43-04": {
+   "word": "แมวน้ำ",
+   "translit": "maeonam"
+  },
+  "im43-05": {
+   "word": "นาก",
+   "translit": "nak"
+  },
+  "im43-06": {
+   "word": "ควาย",
+   "translit": "khwai"
+  },
+  "im43-07": {
+   "word": "บีเวอร์",
+   "translit": "biwoe"
+  },
+  "im43-08": {
+   "word": "แกะตัวผู้",
+   "translit": "kaetuaphu"
+  },
+  "im43-09": {
+   "word": "พุดเดิล",
+   "translit": "phutdoen"
+  },
+  "im43-10": {
+   "word": "สุนัขนำทาง",
+   "translit": "sunaknamthang"
+  },
+  "im44-01": {
+   "word": "ต้นสน",
+   "translit": "tonson"
+  },
+  "im44-02": {
+   "word": "ข้าวสาลี",
+   "translit": "khaosali"
+  },
+  "im44-03": {
+   "word": "ใบโคลเวอร์",
+   "translit": "baikhlowoe"
+  },
+  "im44-04": {
+   "word": "ต้นอ่อน",
+   "translit": "tonon"
+  },
+  "im44-05": {
+   "word": "ช่อดอกไม้",
+   "translit": "chodokmai"
+  },
+  "im44-06": {
+   "word": "ซากุระ",
+   "translit": "sakura"
+  },
+  "im44-07": {
+   "word": "เดซี่",
+   "translit": "desi"
+  },
+  "im44-08": {
+   "word": "ชบา",
+   "translit": "chaba"
+  },
+  "im44-09": {
+   "word": "ใบไม้แห้ง",
+   "translit": "baimaihaeng"
+  },
+  "im44-10": {
+   "word": "ดอกไม้เหี่ยว",
+   "translit": "dokmaihiao"
+  },
+  "im45-01": {
+   "word": "เนคไท",
+   "translit": "nekthai"
+  },
+  "im45-02": {
+   "word": "เสื้อเบลาส์",
+   "translit": "sueabelao"
+  },
+  "im45-03": {
+   "word": "กิโมโน",
+   "translit": "kimono"
+  },
+  "im45-04": {
+   "word": "บิกินี",
+   "translit": "bikini"
+  },
+  "im45-05": {
+   "word": "กางเกงขาสั้น",
+   "translit": "kangkengkhasan"
+  },
+  "im45-06": {
+   "word": "รองเท้าส้นสูง",
+   "translit": "rongthaosonsung"
+  },
+  "im45-07": {
+   "word": "รองเท้าบูท",
+   "translit": "rongthaobut"
+  },
+  "im45-08": {
+   "word": "รองเท้าแตะ",
+   "translit": "rongthaotae"
+  },
+  "im45-09": {
+   "word": "หมวก",
+   "translit": "muak"
+  },
+  "im45-10": {
+   "word": "เสื้อกาวน์",
+   "translit": "sueakaun"
+  },
+  "im46-01": {
+   "word": "แหวน",
+   "translit": "waen"
+  },
+  "im46-02": {
+   "word": "เพชร",
+   "translit": "phet"
+  },
+  "im46-03": {
+   "word": "กระเป๋าถือ",
+   "translit": "krapaothue"
+  },
+  "im46-04": {
+   "word": "กระเป๋าใส่เหรียญ",
+   "translit": "krapaosairian"
+  },
+  "im46-05": {
+   "word": "หมวกทรงสูง",
+   "translit": "muaksongsung"
+  },
+  "im46-06": {
+   "word": "แว่นกันแดด",
+   "translit": "waenkandaet"
+  },
+  "im46-07": {
+   "word": "หมวกรับปริญญา",
+   "translit": "muakrapparinya"
+  },
+  "im46-08": {
+   "word": "ลิปสติก",
+   "translit": "lipsatik"
+  },
+  "im46-09": {
+   "word": "สร้อยลูกปัด",
+   "translit": "soilukpat"
+  },
+  "im46-10": {
+   "word": "เสื้อกั๊ก",
+   "translit": "sueakak"
+  },
+  "im47-01": {
+   "word": "ถ้วยรางวัล",
+   "translit": "thuairangwan"
+  },
+  "im47-02": {
+   "word": "เหรียญทอง",
+   "translit": "rianthong"
+  },
+  "im47-03": {
+   "word": "คันเบ็ด",
+   "translit": "khanbet"
+  },
+  "im47-04": {
+   "word": "สกี",
+   "translit": "saki"
+  },
+  "im47-05": {
+   "word": "เลื่อนหิมะ",
+   "translit": "lueanhima"
+  },
+  "im47-06": {
+   "word": "ไม้แบดมินตัน",
+   "translit": "maibadminton"
+  },
+  "im47-07": {
+   "word": "ประตูฟุตบอล",
+   "translit": "pratufutbon"
+  },
+  "im47-08": {
+   "word": "ธงกอล์ฟ",
+   "translit": "thongkof"
+  },
+  "im47-09": {
+   "word": "โยโย่",
+   "translit": "yoyo"
+  },
+  "im47-10": {
+   "word": "หน้ากากดำน้ำ",
+   "translit": "nakakdamnam"
+  },
+  "im48-01": {
+   "word": "แผ่นสเลท",
+   "translit": "phaenslet"
+  },
+  "im48-02": {
+   "word": "กล้องถ่ายวิดีโอ",
+   "translit": "klongthaiwidio"
+  },
+  "im48-03": {
+   "word": "ละครเวที",
+   "translit": "lakhonwethi"
+  },
+  "im48-04": {
+   "word": "ละครสัตว์",
+   "translit": "lakhonsat"
+  },
+  "im48-05": {
+   "word": "ฟิล์มภาพยนตร์",
+   "translit": "filmphapphayon"
+  },
+  "im48-06": {
+   "word": "เครื่องฉายภาพยนตร์",
+   "translit": "khrueangchayphapphayon"
+  },
+  "im48-07": {
+   "word": "คาราโอเกะ",
+   "translit": "kharaoke"
+  },
+  "im48-08": {
+   "word": "ตั๋ว",
+   "translit": "tua"
+  },
+  "im48-09": {
+   "word": "พู่กัน",
+   "translit": "phukan"
+  },
+  "im48-10": {
+   "word": "แตร",
+   "translit": "trae"
+  },
+  "im49-01": {
+   "word": "โล่",
+   "translit": "lo"
+  },
+  "im49-02": {
+   "word": "ดาบ",
+   "translit": "dap"
+  },
+  "im49-03": {
+   "word": "มีดสั้น",
+   "translit": "mitsan"
+  },
+  "im49-04": {
+   "word": "มังกร",
+   "translit": "mangkon"
+  },
+  "im49-05": {
+   "word": "ยูนิคอร์น",
+   "translit": "yunikhon"
+  },
+  "im49-06": {
+   "word": "ไม้กายสิทธิ์",
+   "translit": "maikaisit"
+  },
+  "im49-07": {
+   "word": "ลูกแก้ววิเศษ",
+   "translit": "lukkaewwiset"
+  },
+  "im49-08": {
+   "word": "มงกุฎ",
+   "translit": "mongkut"
+  },
+  "im49-09": {
+   "word": "พ่อมด",
+   "translit": "phomot"
+  },
+  "im49-10": {
+   "word": "นางฟ้า",
+   "translit": "nangfa"
+  },
+  "im50-01": {
+   "word": "แจกันโบราณ",
+   "translit": "chaekanboran"
+  },
+  "im50-02": {
+   "word": "สมอเรือ",
+   "translit": "samoruea"
+  },
+  "im50-03": {
+   "word": "ก้อนหิน",
+   "translit": "konhin"
+  },
+  "im50-04": {
+   "word": "ท่อนไม้",
+   "translit": "thonmai"
+  },
+  "im50-05": {
+   "word": "โทรศัพท์",
+   "translit": "thorasap"
+  },
+  "im50-06": {
+   "word": "แฟกซ์",
+   "translit": "faek"
+  },
+  "im50-07": {
+   "word": "เทปคาสเซ็ต",
+   "translit": "thepkhasset"
+  },
+  "im50-08": {
+   "word": "โทรโข่ง",
+   "translit": "thorakhong"
+  },
+  "im50-09": {
+   "word": "กุญแจโบราณ",
+   "translit": "kunchaeboran"
+  },
+  "im50-10": {
+   "word": "ถังน้ำมัน",
+   "translit": "thangnamman"
+  }
+ }
+}

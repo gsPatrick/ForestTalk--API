@@ -1,0 +1,2007 @@
+{
+ "game": "image",
+ "language": "de",
+ "version": 2,
+ "entries": {
+  "im01-01": {
+   "word": "der Löwe",
+   "translit": null
+  },
+  "im01-02": {
+   "word": "der Tiger",
+   "translit": null
+  },
+  "im01-03": {
+   "word": "der Elefant",
+   "translit": null
+  },
+  "im01-04": {
+   "word": "die Giraffe",
+   "translit": null
+  },
+  "im01-05": {
+   "word": "der Affe",
+   "translit": null
+  },
+  "im01-06": {
+   "word": "das Zebra",
+   "translit": null
+  },
+  "im01-07": {
+   "word": "das Nilpferd",
+   "translit": null
+  },
+  "im01-08": {
+   "word": "das Nashorn",
+   "translit": null
+  },
+  "im01-09": {
+   "word": "das Krokodil",
+   "translit": null
+  },
+  "im01-10": {
+   "word": "der Bär",
+   "translit": null
+  },
+  "im02-01": {
+   "word": "die Kuh",
+   "translit": null
+  },
+  "im02-02": {
+   "word": "das Schwein",
+   "translit": null
+  },
+  "im02-03": {
+   "word": "das Schaf",
+   "translit": null
+  },
+  "im02-04": {
+   "word": "die Ziege",
+   "translit": null
+  },
+  "im02-05": {
+   "word": "das Huhn",
+   "translit": null
+  },
+  "im02-06": {
+   "word": "der Hahn",
+   "translit": null
+  },
+  "im02-07": {
+   "word": "das Pferd",
+   "translit": null
+  },
+  "im02-08": {
+   "word": "der Ochse",
+   "translit": null
+  },
+  "im02-09": {
+   "word": "der Truthahn",
+   "translit": null
+  },
+  "im02-10": {
+   "word": "die Ente",
+   "translit": null
+  },
+  "im03-01": {
+   "word": "der Hund",
+   "translit": null
+  },
+  "im03-02": {
+   "word": "die Katze",
+   "translit": null
+  },
+  "im03-03": {
+   "word": "der Hamster",
+   "translit": null
+  },
+  "im03-04": {
+   "word": "das Kaninchen",
+   "translit": null
+  },
+  "im03-05": {
+   "word": "die Schildkröte",
+   "translit": null
+  },
+  "im03-06": {
+   "word": "der Fisch",
+   "translit": null
+  },
+  "im03-07": {
+   "word": "die Ratte",
+   "translit": null
+  },
+  "im03-08": {
+   "word": "die Eidechse",
+   "translit": null
+  },
+  "im03-09": {
+   "word": "die Schlange",
+   "translit": null
+  },
+  "im03-10": {
+   "word": "der Frosch",
+   "translit": null
+  },
+  "im04-01": {
+   "word": "der Apfel",
+   "translit": null
+  },
+  "im04-02": {
+   "word": "die Banane",
+   "translit": null
+  },
+  "im04-03": {
+   "word": "die Mandarine",
+   "translit": null
+  },
+  "im04-04": {
+   "word": "die Traube",
+   "translit": null
+  },
+  "im04-05": {
+   "word": "die Erdbeere",
+   "translit": null
+  },
+  "im04-06": {
+   "word": "die Wassermelone",
+   "translit": null
+  },
+  "im04-07": {
+   "word": "die Ananas",
+   "translit": null
+  },
+  "im04-08": {
+   "word": "die Kirsche",
+   "translit": null
+  },
+  "im04-09": {
+   "word": "der Pfirsich",
+   "translit": null
+  },
+  "im04-10": {
+   "word": "die Birne",
+   "translit": null
+  },
+  "im05-01": {
+   "word": "das Brot",
+   "translit": null
+  },
+  "im05-02": {
+   "word": "der Käse",
+   "translit": null
+  },
+  "im05-03": {
+   "word": "das Ei",
+   "translit": null
+  },
+  "im05-04": {
+   "word": "der Reis",
+   "translit": null
+  },
+  "im05-05": {
+   "word": "die Nudeln",
+   "translit": null
+  },
+  "im05-06": {
+   "word": "die Pizza",
+   "translit": null
+  },
+  "im05-07": {
+   "word": "der Hamburger",
+   "translit": null
+  },
+  "im05-08": {
+   "word": "die Pommes",
+   "translit": null
+  },
+  "im05-09": {
+   "word": "das Fleisch",
+   "translit": null
+  },
+  "im05-10": {
+   "word": "das Hähnchen",
+   "translit": null
+  },
+  "im06-01": {
+   "word": "rot",
+   "translit": null
+  },
+  "im06-02": {
+   "word": "orange",
+   "translit": null
+  },
+  "im06-03": {
+   "word": "gelb",
+   "translit": null
+  },
+  "im06-04": {
+   "word": "grün",
+   "translit": null
+  },
+  "im06-05": {
+   "word": "blau",
+   "translit": null
+  },
+  "im06-06": {
+   "word": "lila",
+   "translit": null
+  },
+  "im06-07": {
+   "word": "braun",
+   "translit": null
+  },
+  "im06-08": {
+   "word": "schwarz",
+   "translit": null
+  },
+  "im06-09": {
+   "word": "weiß",
+   "translit": null
+  },
+  "im06-10": {
+   "word": "rosa",
+   "translit": null
+  },
+  "im07-01": {
+   "word": "das Auge",
+   "translit": null
+  },
+  "im07-02": {
+   "word": "die Nase",
+   "translit": null
+  },
+  "im07-03": {
+   "word": "der Mund",
+   "translit": null
+  },
+  "im07-04": {
+   "word": "das Ohr",
+   "translit": null
+  },
+  "im07-05": {
+   "word": "die Hand",
+   "translit": null
+  },
+  "im07-06": {
+   "word": "der Fuß",
+   "translit": null
+  },
+  "im07-07": {
+   "word": "das Bein",
+   "translit": null
+  },
+  "im07-08": {
+   "word": "der Zahn",
+   "translit": null
+  },
+  "im07-09": {
+   "word": "die Zunge",
+   "translit": null
+  },
+  "im07-10": {
+   "word": "das Gehirn",
+   "translit": null
+  },
+  "im08-01": {
+   "word": "das T-Shirt",
+   "translit": null
+  },
+  "im08-02": {
+   "word": "die Hose",
+   "translit": null
+  },
+  "im08-03": {
+   "word": "das Kleid",
+   "translit": null
+  },
+  "im08-04": {
+   "word": "der Mantel",
+   "translit": null
+  },
+  "im08-05": {
+   "word": "die Socken",
+   "translit": null
+  },
+  "im08-06": {
+   "word": "der Turnschuh",
+   "translit": null
+  },
+  "im08-07": {
+   "word": "der Schuh",
+   "translit": null
+  },
+  "im08-08": {
+   "word": "die Kappe",
+   "translit": null
+  },
+  "im08-09": {
+   "word": "der Schal",
+   "translit": null
+  },
+  "im08-10": {
+   "word": "die Handschuhe",
+   "translit": null
+  },
+  "im09-01": {
+   "word": "das Bett",
+   "translit": null
+  },
+  "im09-02": {
+   "word": "die Tür",
+   "translit": null
+  },
+  "im09-03": {
+   "word": "das Fenster",
+   "translit": null
+  },
+  "im09-04": {
+   "word": "das Sofa",
+   "translit": null
+  },
+  "im09-05": {
+   "word": "die Dusche",
+   "translit": null
+  },
+  "im09-06": {
+   "word": "die Toilette",
+   "translit": null
+  },
+  "im09-07": {
+   "word": "der Schlüssel",
+   "translit": null
+  },
+  "im09-08": {
+   "word": "die Glühbirne",
+   "translit": null
+  },
+  "im09-09": {
+   "word": "der Fernseher",
+   "translit": null
+  },
+  "im09-10": {
+   "word": "der Wecker",
+   "translit": null
+  },
+  "im10-01": {
+   "word": "das Auto",
+   "translit": null
+  },
+  "im10-02": {
+   "word": "der Bus",
+   "translit": null
+  },
+  "im10-03": {
+   "word": "das Fahrrad",
+   "translit": null
+  },
+  "im10-04": {
+   "word": "das Flugzeug",
+   "translit": null
+  },
+  "im10-05": {
+   "word": "der Zug",
+   "translit": null
+  },
+  "im10-06": {
+   "word": "das Schiff",
+   "translit": null
+  },
+  "im10-07": {
+   "word": "der Hubschrauber",
+   "translit": null
+  },
+  "im10-08": {
+   "word": "das Motorrad",
+   "translit": null
+  },
+  "im10-09": {
+   "word": "der Krankenwagen",
+   "translit": null
+  },
+  "im10-10": {
+   "word": "der Lastwagen",
+   "translit": null
+  },
+  "im11-01": {
+   "word": "der Adler",
+   "translit": null
+  },
+  "im11-02": {
+   "word": "der Pinguin",
+   "translit": null
+  },
+  "im11-03": {
+   "word": "die Eule",
+   "translit": null
+  },
+  "im11-04": {
+   "word": "der Schwan",
+   "translit": null
+  },
+  "im11-05": {
+   "word": "der Flamingo",
+   "translit": null
+  },
+  "im11-06": {
+   "word": "die Taube",
+   "translit": null
+  },
+  "im11-07": {
+   "word": "der Pfau",
+   "translit": null
+  },
+  "im11-08": {
+   "word": "das Küken",
+   "translit": null
+  },
+  "im11-09": {
+   "word": "der Papagei",
+   "translit": null
+  },
+  "im11-10": {
+   "word": "der Vogel",
+   "translit": null
+  },
+  "im12-01": {
+   "word": "der Baum",
+   "translit": null
+  },
+  "im12-02": {
+   "word": "die Sonnenblume",
+   "translit": null
+  },
+  "im12-03": {
+   "word": "der Kaktus",
+   "translit": null
+  },
+  "im12-04": {
+   "word": "die Palme",
+   "translit": null
+  },
+  "im12-05": {
+   "word": "die Tulpe",
+   "translit": null
+  },
+  "im12-06": {
+   "word": "der Berg",
+   "translit": null
+  },
+  "im12-07": {
+   "word": "die Welle",
+   "translit": null
+  },
+  "im12-08": {
+   "word": "der Vulkan",
+   "translit": null
+  },
+  "im12-09": {
+   "word": "die Insel",
+   "translit": null
+  },
+  "im12-10": {
+   "word": "die Wüste",
+   "translit": null
+  },
+  "im13-01": {
+   "word": "die Sonne",
+   "translit": null
+  },
+  "im13-02": {
+   "word": "der Mond",
+   "translit": null
+  },
+  "im13-03": {
+   "word": "der Stern",
+   "translit": null
+  },
+  "im13-04": {
+   "word": "die Wolke",
+   "translit": null
+  },
+  "im13-05": {
+   "word": "der Regen",
+   "translit": null
+  },
+  "im13-06": {
+   "word": "die Schneeflocke",
+   "translit": null
+  },
+  "im13-07": {
+   "word": "der Regenbogen",
+   "translit": null
+  },
+  "im13-08": {
+   "word": "der Blitz",
+   "translit": null
+  },
+  "im13-09": {
+   "word": "der Tornado",
+   "translit": null
+  },
+  "im13-10": {
+   "word": "der Regenschirm",
+   "translit": null
+  },
+  "im14-01": {
+   "word": "die Biene",
+   "translit": null
+  },
+  "im14-02": {
+   "word": "der Schmetterling",
+   "translit": null
+  },
+  "im14-03": {
+   "word": "die Ameise",
+   "translit": null
+  },
+  "im14-04": {
+   "word": "der Marienkäfer",
+   "translit": null
+  },
+  "im14-05": {
+   "word": "die Raupe",
+   "translit": null
+  },
+  "im14-06": {
+   "word": "die Grille",
+   "translit": null
+  },
+  "im14-07": {
+   "word": "die Spinne",
+   "translit": null
+  },
+  "im14-08": {
+   "word": "der Skorpion",
+   "translit": null
+  },
+  "im14-09": {
+   "word": "die Mücke",
+   "translit": null
+  },
+  "im14-10": {
+   "word": "die Schnecke",
+   "translit": null
+  },
+  "im15-01": {
+   "word": "der Delfin",
+   "translit": null
+  },
+  "im15-02": {
+   "word": "der Wal",
+   "translit": null
+  },
+  "im15-03": {
+   "word": "der Hai",
+   "translit": null
+  },
+  "im15-04": {
+   "word": "der Krake",
+   "translit": null
+  },
+  "im15-05": {
+   "word": "die Krabbe",
+   "translit": null
+  },
+  "im15-06": {
+   "word": "der Hummer",
+   "translit": null
+  },
+  "im15-07": {
+   "word": "die Garnele",
+   "translit": null
+  },
+  "im15-08": {
+   "word": "der Kugelfisch",
+   "translit": null
+  },
+  "im15-09": {
+   "word": "der Tintenfisch",
+   "translit": null
+  },
+  "im15-10": {
+   "word": "die Muschel",
+   "translit": null
+  },
+  "im16-01": {
+   "word": "die Mango",
+   "translit": null
+  },
+  "im16-02": {
+   "word": "die Kokosnuss",
+   "translit": null
+  },
+  "im16-03": {
+   "word": "die Kiwi",
+   "translit": null
+  },
+  "im16-04": {
+   "word": "die Zitrone",
+   "translit": null
+  },
+  "im16-05": {
+   "word": "die Honigmelone",
+   "translit": null
+  },
+  "im16-06": {
+   "word": "die Avocado",
+   "translit": null
+  },
+  "im16-07": {
+   "word": "die Erdnuss",
+   "translit": null
+  },
+  "im16-08": {
+   "word": "die Kastanie",
+   "translit": null
+  },
+  "im16-09": {
+   "word": "die Tomate",
+   "translit": null
+  },
+  "im16-10": {
+   "word": "die Gurke",
+   "translit": null
+  },
+  "im17-01": {
+   "word": "die Karotte",
+   "translit": null
+  },
+  "im17-02": {
+   "word": "der Mais",
+   "translit": null
+  },
+  "im17-03": {
+   "word": "die Kartoffel",
+   "translit": null
+  },
+  "im17-04": {
+   "word": "die Aubergine",
+   "translit": null
+  },
+  "im17-05": {
+   "word": "der Brokkoli",
+   "translit": null
+  },
+  "im17-06": {
+   "word": "der Kopfsalat",
+   "translit": null
+  },
+  "im17-07": {
+   "word": "die Zwiebel",
+   "translit": null
+  },
+  "im17-08": {
+   "word": "der Knoblauch",
+   "translit": null
+  },
+  "im17-09": {
+   "word": "die Chili",
+   "translit": null
+  },
+  "im17-10": {
+   "word": "der Pilz",
+   "translit": null
+  },
+  "im18-01": {
+   "word": "der Kaffee",
+   "translit": null
+  },
+  "im18-02": {
+   "word": "die Milch",
+   "translit": null
+  },
+  "im18-03": {
+   "word": "der Saft",
+   "translit": null
+  },
+  "im18-04": {
+   "word": "das Bier",
+   "translit": null
+  },
+  "im18-05": {
+   "word": "der Wein",
+   "translit": null
+  },
+  "im18-06": {
+   "word": "die Schokolade",
+   "translit": null
+  },
+  "im18-07": {
+   "word": "das Eis",
+   "translit": null
+  },
+  "im18-08": {
+   "word": "der Kuchen",
+   "translit": null
+  },
+  "im18-09": {
+   "word": "der Keks",
+   "translit": null
+  },
+  "im18-10": {
+   "word": "der Donut",
+   "translit": null
+  },
+  "im19-01": {
+   "word": "das Handy",
+   "translit": null
+  },
+  "im19-02": {
+   "word": "die Armbanduhr",
+   "translit": null
+  },
+  "im19-03": {
+   "word": "die Brille",
+   "translit": null
+  },
+  "im19-04": {
+   "word": "der Rucksack",
+   "translit": null
+  },
+  "im19-05": {
+   "word": "die Schere",
+   "translit": null
+  },
+  "im19-06": {
+   "word": "die Taschenlampe",
+   "translit": null
+  },
+  "im19-07": {
+   "word": "die Kamera",
+   "translit": null
+  },
+  "im19-08": {
+   "word": "die Batterie",
+   "translit": null
+  },
+  "im19-09": {
+   "word": "der Teddybär",
+   "translit": null
+  },
+  "im19-10": {
+   "word": "der Magnet",
+   "translit": null
+  },
+  "im20-01": {
+   "word": "das Buch",
+   "translit": null
+  },
+  "im20-02": {
+   "word": "der Bleistift",
+   "translit": null
+  },
+  "im20-03": {
+   "word": "der Kugelschreiber",
+   "translit": null
+  },
+  "im20-04": {
+   "word": "das Heft",
+   "translit": null
+  },
+  "im20-05": {
+   "word": "das Lineal",
+   "translit": null
+  },
+  "im20-06": {
+   "word": "die Büroklammer",
+   "translit": null
+  },
+  "im20-07": {
+   "word": "das Geodreieck",
+   "translit": null
+  },
+  "im20-08": {
+   "word": "der Abakus",
+   "translit": null
+  },
+  "im20-09": {
+   "word": "die Schule",
+   "translit": null
+  },
+  "im20-10": {
+   "word": "die Palette",
+   "translit": null
+  },
+  "im21-01": {
+   "word": "der Fußball",
+   "translit": null
+  },
+  "im21-02": {
+   "word": "der Basketball",
+   "translit": null
+  },
+  "im21-03": {
+   "word": "der Tennisball",
+   "translit": null
+  },
+  "im21-04": {
+   "word": "der Volleyball",
+   "translit": null
+  },
+  "im21-05": {
+   "word": "das Tischtennis",
+   "translit": null
+  },
+  "im21-06": {
+   "word": "der Boxhandschuh",
+   "translit": null
+  },
+  "im21-07": {
+   "word": "das Bowling",
+   "translit": null
+  },
+  "im21-08": {
+   "word": "der Bogen",
+   "translit": null
+  },
+  "im21-09": {
+   "word": "das Skateboard",
+   "translit": null
+  },
+  "im21-10": {
+   "word": "der Schlittschuh",
+   "translit": null
+  },
+  "im22-01": {
+   "word": "der Teller",
+   "translit": null
+  },
+  "im22-02": {
+   "word": "der Löffel",
+   "translit": null
+  },
+  "im22-03": {
+   "word": "das Messer",
+   "translit": null
+  },
+  "im22-04": {
+   "word": "die Pfanne",
+   "translit": null
+  },
+  "im22-05": {
+   "word": "die Schüssel",
+   "translit": null
+  },
+  "im22-06": {
+   "word": "die Essstäbchen",
+   "translit": null
+  },
+  "im22-07": {
+   "word": "das Salz",
+   "translit": null
+  },
+  "im22-08": {
+   "word": "die Dose",
+   "translit": null
+  },
+  "im22-09": {
+   "word": "der Becher",
+   "translit": null
+  },
+  "im22-10": {
+   "word": "der Eiswürfel",
+   "translit": null
+  },
+  "im23-01": {
+   "word": "die Zahnbürste",
+   "translit": null
+  },
+  "im23-02": {
+   "word": "die Seife",
+   "translit": null
+  },
+  "im23-03": {
+   "word": "das Toilettenpapier",
+   "translit": null
+  },
+  "im23-04": {
+   "word": "das Rasiermesser",
+   "translit": null
+  },
+  "im23-05": {
+   "word": "die Badewanne",
+   "translit": null
+  },
+  "im23-06": {
+   "word": "der Schwamm",
+   "translit": null
+  },
+  "im23-07": {
+   "word": "der Besen",
+   "translit": null
+  },
+  "im23-08": {
+   "word": "der Eimer",
+   "translit": null
+  },
+  "im23-09": {
+   "word": "der Spiegel",
+   "translit": null
+  },
+  "im23-10": {
+   "word": "der Korb",
+   "translit": null
+  },
+  "im24-01": {
+   "word": "der Stuhl",
+   "translit": null
+  },
+  "im24-02": {
+   "word": "das Bild",
+   "translit": null
+  },
+  "im24-03": {
+   "word": "die Kerze",
+   "translit": null
+  },
+  "im24-04": {
+   "word": "der Koffer",
+   "translit": null
+  },
+  "im24-05": {
+   "word": "das Vorhängeschloss",
+   "translit": null
+  },
+  "im24-06": {
+   "word": "der Mülleimer",
+   "translit": null
+  },
+  "im24-07": {
+   "word": "die Leiter",
+   "translit": null
+  },
+  "im24-08": {
+   "word": "das Radio",
+   "translit": null
+  },
+  "im24-09": {
+   "word": "die Glocke",
+   "translit": null
+  },
+  "im24-10": {
+   "word": "der Feuerlöscher",
+   "translit": null
+  },
+  "im25-01": {
+   "word": "der Hammer",
+   "translit": null
+  },
+  "im25-02": {
+   "word": "die Axt",
+   "translit": null
+  },
+  "im25-03": {
+   "word": "der Schraubenschlüssel",
+   "translit": null
+  },
+  "im25-04": {
+   "word": "der Schraubendreher",
+   "translit": null
+  },
+  "im25-05": {
+   "word": "die Säge",
+   "translit": null
+  },
+  "im25-06": {
+   "word": "die Spitzhacke",
+   "translit": null
+  },
+  "im25-07": {
+   "word": "der Werkzeugkasten",
+   "translit": null
+  },
+  "im25-08": {
+   "word": "die Schraube",
+   "translit": null
+  },
+  "im25-09": {
+   "word": "das Zahnrad",
+   "translit": null
+  },
+  "im25-10": {
+   "word": "die Kette",
+   "translit": null
+  },
+  "im26-01": {
+   "word": "das Krankenhaus",
+   "translit": null
+  },
+  "im26-02": {
+   "word": "die Bank",
+   "translit": null
+  },
+  "im26-03": {
+   "word": "die Kirche",
+   "translit": null
+  },
+  "im26-04": {
+   "word": "das Hotel",
+   "translit": null
+  },
+  "im26-05": {
+   "word": "die Fabrik",
+   "translit": null
+  },
+  "im26-06": {
+   "word": "die Tankstelle",
+   "translit": null
+  },
+  "im26-07": {
+   "word": "die Ampel",
+   "translit": null
+  },
+  "im26-08": {
+   "word": "die Brücke",
+   "translit": null
+  },
+  "im26-09": {
+   "word": "das Stadion",
+   "translit": null
+  },
+  "im26-10": {
+   "word": "der Laden",
+   "translit": null
+  },
+  "im27-01": {
+   "word": "der Laptop",
+   "translit": null
+  },
+  "im27-02": {
+   "word": "die Tastatur",
+   "translit": null
+  },
+  "im27-03": {
+   "word": "die Computermaus",
+   "translit": null
+  },
+  "im27-04": {
+   "word": "der Drucker",
+   "translit": null
+  },
+  "im27-05": {
+   "word": "die Diskette",
+   "translit": null
+  },
+  "im27-06": {
+   "word": "der Kopfhörer",
+   "translit": null
+  },
+  "im27-07": {
+   "word": "das Mikrofon",
+   "translit": null
+  },
+  "im27-08": {
+   "word": "die Antenne",
+   "translit": null
+  },
+  "im27-09": {
+   "word": "der Stecker",
+   "translit": null
+  },
+  "im27-10": {
+   "word": "der Joystick",
+   "translit": null
+  },
+  "im28-01": {
+   "word": "die Gitarre",
+   "translit": null
+  },
+  "im28-02": {
+   "word": "das Klavier",
+   "translit": null
+  },
+  "im28-03": {
+   "word": "die Trompete",
+   "translit": null
+  },
+  "im28-04": {
+   "word": "die Geige",
+   "translit": null
+  },
+  "im28-05": {
+   "word": "das Schlagzeug",
+   "translit": null
+  },
+  "im28-06": {
+   "word": "das Saxofon",
+   "translit": null
+  },
+  "im28-07": {
+   "word": "das Banjo",
+   "translit": null
+  },
+  "im28-08": {
+   "word": "das Akkordeon",
+   "translit": null
+  },
+  "im28-09": {
+   "word": "das Notenblatt",
+   "translit": null
+  },
+  "im28-10": {
+   "word": "die Note",
+   "translit": null
+  },
+  "im29-01": {
+   "word": "der Würfel",
+   "translit": null
+  },
+  "im29-02": {
+   "word": "das Puzzle",
+   "translit": null
+  },
+  "im29-03": {
+   "word": "die Zielscheibe",
+   "translit": null
+  },
+  "im29-04": {
+   "word": "das Schach",
+   "translit": null
+  },
+  "im29-05": {
+   "word": "das Videospiel",
+   "translit": null
+  },
+  "im29-06": {
+   "word": "das Riesenrad",
+   "translit": null
+  },
+  "im29-07": {
+   "word": "die Achterbahn",
+   "translit": null
+  },
+  "im29-08": {
+   "word": "der Luftballon",
+   "translit": null
+  },
+  "im29-09": {
+   "word": "der Drachen",
+   "translit": null
+  },
+  "im29-10": {
+   "word": "das Karussell",
+   "translit": null
+  },
+  "im30-01": {
+   "word": "das Geschenk",
+   "translit": null
+  },
+  "im30-02": {
+   "word": "die Geburtstagstorte",
+   "translit": null
+  },
+  "im30-03": {
+   "word": "der Weihnachtsbaum",
+   "translit": null
+  },
+  "im30-04": {
+   "word": "der Kürbis",
+   "translit": null
+  },
+  "im30-05": {
+   "word": "das Feuerwerk",
+   "translit": null
+  },
+  "im30-06": {
+   "word": "die Papierlaterne",
+   "translit": null
+  },
+  "im30-07": {
+   "word": "der Weihnachtsmann",
+   "translit": null
+  },
+  "im30-08": {
+   "word": "die Piñata",
+   "translit": null
+  },
+  "im30-09": {
+   "word": "die Schleife",
+   "translit": null
+  },
+  "im30-10": {
+   "word": "der Champagner",
+   "translit": null
+  },
+  "im31-01": {
+   "word": "das Stethoskop",
+   "translit": null
+  },
+  "im31-02": {
+   "word": "die Spritze",
+   "translit": null
+  },
+  "im31-03": {
+   "word": "die Tablette",
+   "translit": null
+  },
+  "im31-04": {
+   "word": "das Pflaster",
+   "translit": null
+  },
+  "im31-05": {
+   "word": "das Thermometer",
+   "translit": null
+  },
+  "im31-06": {
+   "word": "der Rollstuhl",
+   "translit": null
+  },
+  "im31-07": {
+   "word": "der Gehstock",
+   "translit": null
+  },
+  "im31-08": {
+   "word": "das Bakterium",
+   "translit": null
+  },
+  "im31-09": {
+   "word": "der Knochen",
+   "translit": null
+  },
+  "im31-10": {
+   "word": "die DNA",
+   "translit": null
+  },
+  "im32-01": {
+   "word": "das Mikroskop",
+   "translit": null
+  },
+  "im32-02": {
+   "word": "das Teleskop",
+   "translit": null
+  },
+  "im32-03": {
+   "word": "das Reagenzglas",
+   "translit": null
+  },
+  "im32-04": {
+   "word": "der Kolben",
+   "translit": null
+  },
+  "im32-05": {
+   "word": "die Petrischale",
+   "translit": null
+  },
+  "im32-06": {
+   "word": "die Waage",
+   "translit": null
+  },
+  "im32-07": {
+   "word": "der Kompass",
+   "translit": null
+  },
+  "im32-08": {
+   "word": "die Lupe",
+   "translit": null
+  },
+  "im32-09": {
+   "word": "die Sanduhr",
+   "translit": null
+  },
+  "im32-10": {
+   "word": "das Atom",
+   "translit": null
+  },
+  "im33-01": {
+   "word": "der Ordner",
+   "translit": null
+  },
+  "im33-02": {
+   "word": "der Kalender",
+   "translit": null
+  },
+  "im33-03": {
+   "word": "das Diagramm",
+   "translit": null
+  },
+  "im33-04": {
+   "word": "der Umschlag",
+   "translit": null
+  },
+  "im33-05": {
+   "word": "der Briefkasten",
+   "translit": null
+  },
+  "im33-06": {
+   "word": "das Paket",
+   "translit": null
+  },
+  "im33-07": {
+   "word": "die Zeitung",
+   "translit": null
+  },
+  "im33-08": {
+   "word": "die Kreditkarte",
+   "translit": null
+  },
+  "im33-09": {
+   "word": "die Münze",
+   "translit": null
+  },
+  "im33-10": {
+   "word": "die Schriftrolle",
+   "translit": null
+  },
+  "im34-01": {
+   "word": "das Haus",
+   "translit": null
+  },
+  "im34-02": {
+   "word": "das Gebäude",
+   "translit": null
+  },
+  "im34-03": {
+   "word": "der Ziegelstein",
+   "translit": null
+  },
+  "im34-04": {
+   "word": "der Kran",
+   "translit": null
+  },
+  "im34-05": {
+   "word": "die Hütte",
+   "translit": null
+  },
+  "im34-06": {
+   "word": "das Zelt",
+   "translit": null
+  },
+  "im34-07": {
+   "word": "die Baustelle",
+   "translit": null
+  },
+  "im34-08": {
+   "word": "die Burg",
+   "translit": null
+  },
+  "im34-09": {
+   "word": "der Springbrunnen",
+   "translit": null
+  },
+  "im34-10": {
+   "word": "die Moai-Statue",
+   "translit": null
+  },
+  "im35-01": {
+   "word": "der Planet",
+   "translit": null
+  },
+  "im35-02": {
+   "word": "die Erde",
+   "translit": null
+  },
+  "im35-03": {
+   "word": "der Vollmond",
+   "translit": null
+  },
+  "im35-04": {
+   "word": "der Komet",
+   "translit": null
+  },
+  "im35-05": {
+   "word": "die Rakete",
+   "translit": null
+  },
+  "im35-06": {
+   "word": "der Satellit",
+   "translit": null
+  },
+  "im35-07": {
+   "word": "das Ufo",
+   "translit": null
+  },
+  "im35-08": {
+   "word": "der Außerirdische",
+   "translit": null
+  },
+  "im35-09": {
+   "word": "die Sternschnuppe",
+   "translit": null
+  },
+  "im35-10": {
+   "word": "die Galaxie",
+   "translit": null
+  },
+  "im36-01": {
+   "word": "das Segelboot",
+   "translit": null
+  },
+  "im36-02": {
+   "word": "das Kanu",
+   "translit": null
+  },
+  "im36-03": {
+   "word": "das Motorboot",
+   "translit": null
+  },
+  "im36-04": {
+   "word": "das Taxi",
+   "translit": null
+  },
+  "im36-05": {
+   "word": "der Roller",
+   "translit": null
+  },
+  "im36-06": {
+   "word": "der Traktor",
+   "translit": null
+  },
+  "im36-07": {
+   "word": "die U-Bahn",
+   "translit": null
+  },
+  "im36-08": {
+   "word": "der Tretroller",
+   "translit": null
+  },
+  "im36-09": {
+   "word": "der Fallschirm",
+   "translit": null
+  },
+  "im36-10": {
+   "word": "der Streifenwagen",
+   "translit": null
+  },
+  "im37-01": {
+   "word": "das Sushi",
+   "translit": null
+  },
+  "im37-02": {
+   "word": "die Ramen",
+   "translit": null
+  },
+  "im37-03": {
+   "word": "die Paella",
+   "translit": null
+  },
+  "im37-04": {
+   "word": "das Curry",
+   "translit": null
+  },
+  "im37-05": {
+   "word": "die Teigtasche",
+   "translit": null
+  },
+  "im37-06": {
+   "word": "das Bento",
+   "translit": null
+  },
+  "im37-07": {
+   "word": "das Onigiri",
+   "translit": null
+  },
+  "im37-08": {
+   "word": "der Falafel",
+   "translit": null
+  },
+  "im37-09": {
+   "word": "der Salat",
+   "translit": null
+  },
+  "im37-10": {
+   "word": "der Eintopf",
+   "translit": null
+  },
+  "im38-01": {
+   "word": "das Croissant",
+   "translit": null
+  },
+  "im38-02": {
+   "word": "die Brezel",
+   "translit": null
+  },
+  "im38-03": {
+   "word": "der Bagel",
+   "translit": null
+  },
+  "im38-04": {
+   "word": "der Pfannkuchen",
+   "translit": null
+  },
+  "im38-05": {
+   "word": "die Waffel",
+   "translit": null
+  },
+  "im38-06": {
+   "word": "der Taco",
+   "translit": null
+  },
+  "im38-07": {
+   "word": "der Burrito",
+   "translit": null
+  },
+  "im38-08": {
+   "word": "das Sandwich",
+   "translit": null
+  },
+  "im38-09": {
+   "word": "das Popcorn",
+   "translit": null
+  },
+  "im38-10": {
+   "word": "der Hotdog",
+   "translit": null
+  },
+  "im39-01": {
+   "word": "der Pudding",
+   "translit": null
+  },
+  "im39-02": {
+   "word": "der Obstkuchen",
+   "translit": null
+  },
+  "im39-03": {
+   "word": "der Cupcake",
+   "translit": null
+  },
+  "im39-04": {
+   "word": "das Bonbon",
+   "translit": null
+  },
+  "im39-05": {
+   "word": "der Lutscher",
+   "translit": null
+  },
+  "im39-06": {
+   "word": "der Honig",
+   "translit": null
+  },
+  "im39-07": {
+   "word": "das Wassereis",
+   "translit": null
+  },
+  "im39-08": {
+   "word": "der Glückskeks",
+   "translit": null
+  },
+  "im39-09": {
+   "word": "die Butter",
+   "translit": null
+  },
+  "im39-10": {
+   "word": "der Dango",
+   "translit": null
+  },
+  "im40-01": {
+   "word": "der Tee",
+   "translit": null
+  },
+  "im40-02": {
+   "word": "der Cocktail",
+   "translit": null
+  },
+  "im40-03": {
+   "word": "der Sake",
+   "translit": null
+  },
+  "im40-04": {
+   "word": "der Whisky",
+   "translit": null
+  },
+  "im40-05": {
+   "word": "der Mate",
+   "translit": null
+  },
+  "im40-06": {
+   "word": "der Bubble Tea",
+   "translit": null
+  },
+  "im40-07": {
+   "word": "der Tropencocktail",
+   "translit": null
+  },
+  "im40-08": {
+   "word": "die Babyflasche",
+   "translit": null
+  },
+  "im40-09": {
+   "word": "der Tropfen",
+   "translit": null
+  },
+  "im40-10": {
+   "word": "der Trinkspruch",
+   "translit": null
+  },
+  "im41-01": {
+   "word": "der Wolf",
+   "translit": null
+  },
+  "im41-02": {
+   "word": "der Fuchs",
+   "translit": null
+  },
+  "im41-03": {
+   "word": "der Hirsch",
+   "translit": null
+  },
+  "im41-04": {
+   "word": "das Eichhörnchen",
+   "translit": null
+  },
+  "im41-05": {
+   "word": "das Wildschwein",
+   "translit": null
+  },
+  "im41-06": {
+   "word": "der Dachs",
+   "translit": null
+  },
+  "im41-07": {
+   "word": "der Waschbär",
+   "translit": null
+  },
+  "im41-08": {
+   "word": "die Fledermaus",
+   "translit": null
+  },
+  "im41-09": {
+   "word": "der Igel",
+   "translit": null
+  },
+  "im41-10": {
+   "word": "das Stinktier",
+   "translit": null
+  },
+  "im42-01": {
+   "word": "das Känguru",
+   "translit": null
+  },
+  "im42-02": {
+   "word": "der Koala",
+   "translit": null
+  },
+  "im42-03": {
+   "word": "der Panda",
+   "translit": null
+  },
+  "im42-04": {
+   "word": "das Kamel",
+   "translit": null
+  },
+  "im42-05": {
+   "word": "das Lama",
+   "translit": null
+  },
+  "im42-06": {
+   "word": "das Faultier",
+   "translit": null
+  },
+  "im42-07": {
+   "word": "der Gorilla",
+   "translit": null
+  },
+  "im42-08": {
+   "word": "der Orang-Utan",
+   "translit": null
+  },
+  "im42-09": {
+   "word": "der Leopard",
+   "translit": null
+  },
+  "im42-10": {
+   "word": "der Bison",
+   "translit": null
+  },
+  "im43-01": {
+   "word": "der Tyrannosaurus",
+   "translit": null
+  },
+  "im43-02": {
+   "word": "der Brachiosaurus",
+   "translit": null
+  },
+  "im43-03": {
+   "word": "das Mammut",
+   "translit": null
+  },
+  "im43-04": {
+   "word": "die Robbe",
+   "translit": null
+  },
+  "im43-05": {
+   "word": "der Otter",
+   "translit": null
+  },
+  "im43-06": {
+   "word": "der Büffel",
+   "translit": null
+  },
+  "im43-07": {
+   "word": "der Biber",
+   "translit": null
+  },
+  "im43-08": {
+   "word": "der Widder",
+   "translit": null
+  },
+  "im43-09": {
+   "word": "der Pudel",
+   "translit": null
+  },
+  "im43-10": {
+   "word": "der Blindenhund",
+   "translit": null
+  },
+  "im44-01": {
+   "word": "die Kiefer",
+   "translit": null
+  },
+  "im44-02": {
+   "word": "der Weizen",
+   "translit": null
+  },
+  "im44-03": {
+   "word": "der Klee",
+   "translit": null
+  },
+  "im44-04": {
+   "word": "der Keimling",
+   "translit": null
+  },
+  "im44-05": {
+   "word": "der Blumenstrauß",
+   "translit": null
+  },
+  "im44-06": {
+   "word": "die Kirschblüte",
+   "translit": null
+  },
+  "im44-07": {
+   "word": "die Margerite",
+   "translit": null
+  },
+  "im44-08": {
+   "word": "der Hibiskus",
+   "translit": null
+  },
+  "im44-09": {
+   "word": "das Herbstlaub",
+   "translit": null
+  },
+  "im44-10": {
+   "word": "die Rose",
+   "translit": null
+  },
+  "im45-01": {
+   "word": "die Krawatte",
+   "translit": null
+  },
+  "im45-02": {
+   "word": "die Bluse",
+   "translit": null
+  },
+  "im45-03": {
+   "word": "der Kimono",
+   "translit": null
+  },
+  "im45-04": {
+   "word": "der Bikini",
+   "translit": null
+  },
+  "im45-05": {
+   "word": "die Shorts",
+   "translit": null
+  },
+  "im45-06": {
+   "word": "der High Heel",
+   "translit": null
+  },
+  "im45-07": {
+   "word": "der Stiefel",
+   "translit": null
+  },
+  "im45-08": {
+   "word": "der Flipflop",
+   "translit": null
+  },
+  "im45-09": {
+   "word": "der Sonnenhut",
+   "translit": null
+  },
+  "im45-10": {
+   "word": "der Kittel",
+   "translit": null
+  },
+  "im46-01": {
+   "word": "der Ring",
+   "translit": null
+  },
+  "im46-02": {
+   "word": "der Diamant",
+   "translit": null
+  },
+  "im46-03": {
+   "word": "die Handtasche",
+   "translit": null
+  },
+  "im46-04": {
+   "word": "die Geldbörse",
+   "translit": null
+  },
+  "im46-05": {
+   "word": "der Zylinder",
+   "translit": null
+  },
+  "im46-06": {
+   "word": "die Sonnenbrille",
+   "translit": null
+  },
+  "im46-07": {
+   "word": "der Doktorhut",
+   "translit": null
+  },
+  "im46-08": {
+   "word": "der Lippenstift",
+   "translit": null
+  },
+  "im46-09": {
+   "word": "die Perlenkette",
+   "translit": null
+  },
+  "im46-10": {
+   "word": "die Weste",
+   "translit": null
+  },
+  "im47-01": {
+   "word": "der Pokal",
+   "translit": null
+  },
+  "im47-02": {
+   "word": "die Medaille",
+   "translit": null
+  },
+  "im47-03": {
+   "word": "die Angel",
+   "translit": null
+  },
+  "im47-04": {
+   "word": "die Skier",
+   "translit": null
+  },
+  "im47-05": {
+   "word": "der Schlitten",
+   "translit": null
+  },
+  "im47-06": {
+   "word": "der Badmintonschläger",
+   "translit": null
+  },
+  "im47-07": {
+   "word": "das Tor",
+   "translit": null
+  },
+  "im47-08": {
+   "word": "die Golffahne",
+   "translit": null
+  },
+  "im47-09": {
+   "word": "das Jo-Jo",
+   "translit": null
+  },
+  "im47-10": {
+   "word": "die Taucherbrille",
+   "translit": null
+  },
+  "im48-01": {
+   "word": "die Filmklappe",
+   "translit": null
+  },
+  "im48-02": {
+   "word": "die Filmkamera",
+   "translit": null
+  },
+  "im48-03": {
+   "word": "das Theater",
+   "translit": null
+  },
+  "im48-04": {
+   "word": "der Zirkus",
+   "translit": null
+  },
+  "im48-05": {
+   "word": "die Filmrolle",
+   "translit": null
+  },
+  "im48-06": {
+   "word": "der Projektor",
+   "translit": null
+  },
+  "im48-07": {
+   "word": "das Karaoke",
+   "translit": null
+  },
+  "im48-08": {
+   "word": "die Eintrittskarte",
+   "translit": null
+  },
+  "im48-09": {
+   "word": "der Pinsel",
+   "translit": null
+  },
+  "im48-10": {
+   "word": "das Posthorn",
+   "translit": null
+  },
+  "im49-01": {
+   "word": "der Schild",
+   "translit": null
+  },
+  "im49-02": {
+   "word": "die Schwerter",
+   "translit": null
+  },
+  "im49-03": {
+   "word": "der Dolch",
+   "translit": null
+  },
+  "im49-04": {
+   "word": "der Drache",
+   "translit": null
+  },
+  "im49-05": {
+   "word": "das Einhorn",
+   "translit": null
+  },
+  "im49-06": {
+   "word": "der Zauberstab",
+   "translit": null
+  },
+  "im49-07": {
+   "word": "die Kristallkugel",
+   "translit": null
+  },
+  "im49-08": {
+   "word": "die Krone",
+   "translit": null
+  },
+  "im49-09": {
+   "word": "der Zauberer",
+   "translit": null
+  },
+  "im49-10": {
+   "word": "die Fee",
+   "translit": null
+  },
+  "im50-01": {
+   "word": "die Amphore",
+   "translit": null
+  },
+  "im50-02": {
+   "word": "der Anker",
+   "translit": null
+  },
+  "im50-03": {
+   "word": "der Stein",
+   "translit": null
+  },
+  "im50-04": {
+   "word": "der Baumstamm",
+   "translit": null
+  },
+  "im50-05": {
+   "word": "das Telefon",
+   "translit": null
+  },
+  "im50-06": {
+   "word": "das Faxgerät",
+   "translit": null
+  },
+  "im50-07": {
+   "word": "die Kassette",
+   "translit": null
+  },
+  "im50-08": {
+   "word": "das Megafon",
+   "translit": null
+  },
+  "im50-09": {
+   "word": "der Schlossschlüssel",
+   "translit": null
+  },
+  "im50-10": {
+   "word": "das Ölfass",
+   "translit": null
+  }
+ }
+}

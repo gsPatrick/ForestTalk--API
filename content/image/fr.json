@@ -1,0 +1,2007 @@
+{
+ "game": "image",
+ "language": "fr",
+ "version": 2,
+ "entries": {
+  "im01-01": {
+   "word": "le lion",
+   "translit": null
+  },
+  "im01-02": {
+   "word": "le tigre",
+   "translit": null
+  },
+  "im01-03": {
+   "word": "l'éléphant",
+   "translit": null
+  },
+  "im01-04": {
+   "word": "la girafe",
+   "translit": null
+  },
+  "im01-05": {
+   "word": "le singe",
+   "translit": null
+  },
+  "im01-06": {
+   "word": "le zèbre",
+   "translit": null
+  },
+  "im01-07": {
+   "word": "l'hippopotame",
+   "translit": null
+  },
+  "im01-08": {
+   "word": "le rhinocéros",
+   "translit": null
+  },
+  "im01-09": {
+   "word": "le crocodile",
+   "translit": null
+  },
+  "im01-10": {
+   "word": "l'ours",
+   "translit": null
+  },
+  "im02-01": {
+   "word": "la vache",
+   "translit": null
+  },
+  "im02-02": {
+   "word": "le cochon",
+   "translit": null
+  },
+  "im02-03": {
+   "word": "la brebis",
+   "translit": null
+  },
+  "im02-04": {
+   "word": "la chèvre",
+   "translit": null
+  },
+  "im02-05": {
+   "word": "la poule",
+   "translit": null
+  },
+  "im02-06": {
+   "word": "le coq",
+   "translit": null
+  },
+  "im02-07": {
+   "word": "le cheval",
+   "translit": null
+  },
+  "im02-08": {
+   "word": "le bœuf",
+   "translit": null
+  },
+  "im02-09": {
+   "word": "la dinde",
+   "translit": null
+  },
+  "im02-10": {
+   "word": "le canard",
+   "translit": null
+  },
+  "im03-01": {
+   "word": "le chien",
+   "translit": null
+  },
+  "im03-02": {
+   "word": "le chat",
+   "translit": null
+  },
+  "im03-03": {
+   "word": "le hamster",
+   "translit": null
+  },
+  "im03-04": {
+   "word": "le lapin",
+   "translit": null
+  },
+  "im03-05": {
+   "word": "la tortue",
+   "translit": null
+  },
+  "im03-06": {
+   "word": "le poisson",
+   "translit": null
+  },
+  "im03-07": {
+   "word": "la souris",
+   "translit": null
+  },
+  "im03-08": {
+   "word": "le lézard",
+   "translit": null
+  },
+  "im03-09": {
+   "word": "le serpent",
+   "translit": null
+  },
+  "im03-10": {
+   "word": "la grenouille",
+   "translit": null
+  },
+  "im04-01": {
+   "word": "la pomme",
+   "translit": null
+  },
+  "im04-02": {
+   "word": "la banane",
+   "translit": null
+  },
+  "im04-03": {
+   "word": "la mandarine",
+   "translit": null
+  },
+  "im04-04": {
+   "word": "le raisin",
+   "translit": null
+  },
+  "im04-05": {
+   "word": "la fraise",
+   "translit": null
+  },
+  "im04-06": {
+   "word": "la pastèque",
+   "translit": null
+  },
+  "im04-07": {
+   "word": "l'ananas",
+   "translit": null
+  },
+  "im04-08": {
+   "word": "la cerise",
+   "translit": null
+  },
+  "im04-09": {
+   "word": "la pêche",
+   "translit": null
+  },
+  "im04-10": {
+   "word": "la poire",
+   "translit": null
+  },
+  "im05-01": {
+   "word": "le pain",
+   "translit": null
+  },
+  "im05-02": {
+   "word": "le fromage",
+   "translit": null
+  },
+  "im05-03": {
+   "word": "l'œuf",
+   "translit": null
+  },
+  "im05-04": {
+   "word": "le riz",
+   "translit": null
+  },
+  "im05-05": {
+   "word": "les pâtes",
+   "translit": null
+  },
+  "im05-06": {
+   "word": "la pizza",
+   "translit": null
+  },
+  "im05-07": {
+   "word": "le hamburger",
+   "translit": null
+  },
+  "im05-08": {
+   "word": "les frites",
+   "translit": null
+  },
+  "im05-09": {
+   "word": "la viande",
+   "translit": null
+  },
+  "im05-10": {
+   "word": "le poulet",
+   "translit": null
+  },
+  "im06-01": {
+   "word": "rouge",
+   "translit": null
+  },
+  "im06-02": {
+   "word": "orange",
+   "translit": null
+  },
+  "im06-03": {
+   "word": "jaune",
+   "translit": null
+  },
+  "im06-04": {
+   "word": "vert",
+   "translit": null
+  },
+  "im06-05": {
+   "word": "bleu",
+   "translit": null
+  },
+  "im06-06": {
+   "word": "violet",
+   "translit": null
+  },
+  "im06-07": {
+   "word": "marron",
+   "translit": null
+  },
+  "im06-08": {
+   "word": "noir",
+   "translit": null
+  },
+  "im06-09": {
+   "word": "blanc",
+   "translit": null
+  },
+  "im06-10": {
+   "word": "rose",
+   "translit": null
+  },
+  "im07-01": {
+   "word": "l'œil",
+   "translit": null
+  },
+  "im07-02": {
+   "word": "le nez",
+   "translit": null
+  },
+  "im07-03": {
+   "word": "la bouche",
+   "translit": null
+  },
+  "im07-04": {
+   "word": "l'oreille",
+   "translit": null
+  },
+  "im07-05": {
+   "word": "la main",
+   "translit": null
+  },
+  "im07-06": {
+   "word": "le pied",
+   "translit": null
+  },
+  "im07-07": {
+   "word": "la jambe",
+   "translit": null
+  },
+  "im07-08": {
+   "word": "la dent",
+   "translit": null
+  },
+  "im07-09": {
+   "word": "la langue",
+   "translit": null
+  },
+  "im07-10": {
+   "word": "le cerveau",
+   "translit": null
+  },
+  "im08-01": {
+   "word": "le t-shirt",
+   "translit": null
+  },
+  "im08-02": {
+   "word": "le pantalon",
+   "translit": null
+  },
+  "im08-03": {
+   "word": "la robe",
+   "translit": null
+  },
+  "im08-04": {
+   "word": "le manteau",
+   "translit": null
+  },
+  "im08-05": {
+   "word": "la chaussette",
+   "translit": null
+  },
+  "im08-06": {
+   "word": "la basket",
+   "translit": null
+  },
+  "im08-07": {
+   "word": "la chaussure",
+   "translit": null
+  },
+  "im08-08": {
+   "word": "la casquette",
+   "translit": null
+  },
+  "im08-09": {
+   "word": "l'écharpe",
+   "translit": null
+  },
+  "im08-10": {
+   "word": "les gants",
+   "translit": null
+  },
+  "im09-01": {
+   "word": "le lit",
+   "translit": null
+  },
+  "im09-02": {
+   "word": "la porte",
+   "translit": null
+  },
+  "im09-03": {
+   "word": "la fenêtre",
+   "translit": null
+  },
+  "im09-04": {
+   "word": "le canapé",
+   "translit": null
+  },
+  "im09-05": {
+   "word": "la douche",
+   "translit": null
+  },
+  "im09-06": {
+   "word": "les toilettes",
+   "translit": null
+  },
+  "im09-07": {
+   "word": "la clé",
+   "translit": null
+  },
+  "im09-08": {
+   "word": "l'ampoule",
+   "translit": null
+  },
+  "im09-09": {
+   "word": "la télévision",
+   "translit": null
+  },
+  "im09-10": {
+   "word": "le réveil",
+   "translit": null
+  },
+  "im10-01": {
+   "word": "la voiture",
+   "translit": null
+  },
+  "im10-02": {
+   "word": "le bus",
+   "translit": null
+  },
+  "im10-03": {
+   "word": "le vélo",
+   "translit": null
+  },
+  "im10-04": {
+   "word": "l'avion",
+   "translit": null
+  },
+  "im10-05": {
+   "word": "le train",
+   "translit": null
+  },
+  "im10-06": {
+   "word": "le bateau",
+   "translit": null
+  },
+  "im10-07": {
+   "word": "l'hélicoptère",
+   "translit": null
+  },
+  "im10-08": {
+   "word": "la moto",
+   "translit": null
+  },
+  "im10-09": {
+   "word": "l'ambulance",
+   "translit": null
+  },
+  "im10-10": {
+   "word": "le camion",
+   "translit": null
+  },
+  "im11-01": {
+   "word": "l'aigle",
+   "translit": null
+  },
+  "im11-02": {
+   "word": "le manchot",
+   "translit": null
+  },
+  "im11-03": {
+   "word": "la chouette",
+   "translit": null
+  },
+  "im11-04": {
+   "word": "le cygne",
+   "translit": null
+  },
+  "im11-05": {
+   "word": "le flamant rose",
+   "translit": null
+  },
+  "im11-06": {
+   "word": "la colombe",
+   "translit": null
+  },
+  "im11-07": {
+   "word": "le paon",
+   "translit": null
+  },
+  "im11-08": {
+   "word": "le poussin",
+   "translit": null
+  },
+  "im11-09": {
+   "word": "le perroquet",
+   "translit": null
+  },
+  "im11-10": {
+   "word": "l'oiseau",
+   "translit": null
+  },
+  "im12-01": {
+   "word": "l'arbre",
+   "translit": null
+  },
+  "im12-02": {
+   "word": "le tournesol",
+   "translit": null
+  },
+  "im12-03": {
+   "word": "le cactus",
+   "translit": null
+  },
+  "im12-04": {
+   "word": "le palmier",
+   "translit": null
+  },
+  "im12-05": {
+   "word": "la tulipe",
+   "translit": null
+  },
+  "im12-06": {
+   "word": "la montagne",
+   "translit": null
+  },
+  "im12-07": {
+   "word": "la vague",
+   "translit": null
+  },
+  "im12-08": {
+   "word": "le volcan",
+   "translit": null
+  },
+  "im12-09": {
+   "word": "l'île",
+   "translit": null
+  },
+  "im12-10": {
+   "word": "le désert",
+   "translit": null
+  },
+  "im13-01": {
+   "word": "le soleil",
+   "translit": null
+  },
+  "im13-02": {
+   "word": "la lune",
+   "translit": null
+  },
+  "im13-03": {
+   "word": "l'étoile",
+   "translit": null
+  },
+  "im13-04": {
+   "word": "le nuage",
+   "translit": null
+  },
+  "im13-05": {
+   "word": "la pluie",
+   "translit": null
+  },
+  "im13-06": {
+   "word": "le flocon de neige",
+   "translit": null
+  },
+  "im13-07": {
+   "word": "l'arc-en-ciel",
+   "translit": null
+  },
+  "im13-08": {
+   "word": "l'éclair",
+   "translit": null
+  },
+  "im13-09": {
+   "word": "la tornade",
+   "translit": null
+  },
+  "im13-10": {
+   "word": "le parapluie",
+   "translit": null
+  },
+  "im14-01": {
+   "word": "l'abeille",
+   "translit": null
+  },
+  "im14-02": {
+   "word": "le papillon",
+   "translit": null
+  },
+  "im14-03": {
+   "word": "la fourmi",
+   "translit": null
+  },
+  "im14-04": {
+   "word": "la coccinelle",
+   "translit": null
+  },
+  "im14-05": {
+   "word": "la chenille",
+   "translit": null
+  },
+  "im14-06": {
+   "word": "le grillon",
+   "translit": null
+  },
+  "im14-07": {
+   "word": "l'araignée",
+   "translit": null
+  },
+  "im14-08": {
+   "word": "le scorpion",
+   "translit": null
+  },
+  "im14-09": {
+   "word": "le moustique",
+   "translit": null
+  },
+  "im14-10": {
+   "word": "l'escargot",
+   "translit": null
+  },
+  "im15-01": {
+   "word": "le dauphin",
+   "translit": null
+  },
+  "im15-02": {
+   "word": "la baleine",
+   "translit": null
+  },
+  "im15-03": {
+   "word": "le requin",
+   "translit": null
+  },
+  "im15-04": {
+   "word": "la pieuvre",
+   "translit": null
+  },
+  "im15-05": {
+   "word": "le crabe",
+   "translit": null
+  },
+  "im15-06": {
+   "word": "le homard",
+   "translit": null
+  },
+  "im15-07": {
+   "word": "la crevette",
+   "translit": null
+  },
+  "im15-08": {
+   "word": "le poisson-globe",
+   "translit": null
+  },
+  "im15-09": {
+   "word": "le calmar",
+   "translit": null
+  },
+  "im15-10": {
+   "word": "le coquillage",
+   "translit": null
+  },
+  "im16-01": {
+   "word": "la mangue",
+   "translit": null
+  },
+  "im16-02": {
+   "word": "la noix de coco",
+   "translit": null
+  },
+  "im16-03": {
+   "word": "le kiwi",
+   "translit": null
+  },
+  "im16-04": {
+   "word": "le citron",
+   "translit": null
+  },
+  "im16-05": {
+   "word": "le melon",
+   "translit": null
+  },
+  "im16-06": {
+   "word": "l'avocat",
+   "translit": null
+  },
+  "im16-07": {
+   "word": "la cacahuète",
+   "translit": null
+  },
+  "im16-08": {
+   "word": "la châtaigne",
+   "translit": null
+  },
+  "im16-09": {
+   "word": "la tomate",
+   "translit": null
+  },
+  "im16-10": {
+   "word": "le concombre",
+   "translit": null
+  },
+  "im17-01": {
+   "word": "la carotte",
+   "translit": null
+  },
+  "im17-02": {
+   "word": "le maïs",
+   "translit": null
+  },
+  "im17-03": {
+   "word": "la pomme de terre",
+   "translit": null
+  },
+  "im17-04": {
+   "word": "l'aubergine",
+   "translit": null
+  },
+  "im17-05": {
+   "word": "le brocoli",
+   "translit": null
+  },
+  "im17-06": {
+   "word": "la laitue",
+   "translit": null
+  },
+  "im17-07": {
+   "word": "l'oignon",
+   "translit": null
+  },
+  "im17-08": {
+   "word": "l'ail",
+   "translit": null
+  },
+  "im17-09": {
+   "word": "le piment",
+   "translit": null
+  },
+  "im17-10": {
+   "word": "le champignon",
+   "translit": null
+  },
+  "im18-01": {
+   "word": "le café",
+   "translit": null
+  },
+  "im18-02": {
+   "word": "le lait",
+   "translit": null
+  },
+  "im18-03": {
+   "word": "le jus de fruit",
+   "translit": null
+  },
+  "im18-04": {
+   "word": "la bière",
+   "translit": null
+  },
+  "im18-05": {
+   "word": "le vin",
+   "translit": null
+  },
+  "im18-06": {
+   "word": "le chocolat",
+   "translit": null
+  },
+  "im18-07": {
+   "word": "la glace",
+   "translit": null
+  },
+  "im18-08": {
+   "word": "le gâteau",
+   "translit": null
+  },
+  "im18-09": {
+   "word": "le biscuit",
+   "translit": null
+  },
+  "im18-10": {
+   "word": "le beignet",
+   "translit": null
+  },
+  "im19-01": {
+   "word": "le téléphone portable",
+   "translit": null
+  },
+  "im19-02": {
+   "word": "la montre",
+   "translit": null
+  },
+  "im19-03": {
+   "word": "les lunettes",
+   "translit": null
+  },
+  "im19-04": {
+   "word": "le sac à dos",
+   "translit": null
+  },
+  "im19-05": {
+   "word": "les ciseaux",
+   "translit": null
+  },
+  "im19-06": {
+   "word": "la lampe de poche",
+   "translit": null
+  },
+  "im19-07": {
+   "word": "l'appareil photo",
+   "translit": null
+  },
+  "im19-08": {
+   "word": "la pile",
+   "translit": null
+  },
+  "im19-09": {
+   "word": "la peluche",
+   "translit": null
+  },
+  "im19-10": {
+   "word": "l'aimant",
+   "translit": null
+  },
+  "im20-01": {
+   "word": "le livre",
+   "translit": null
+  },
+  "im20-02": {
+   "word": "le crayon",
+   "translit": null
+  },
+  "im20-03": {
+   "word": "le stylo",
+   "translit": null
+  },
+  "im20-04": {
+   "word": "le cahier",
+   "translit": null
+  },
+  "im20-05": {
+   "word": "la règle",
+   "translit": null
+  },
+  "im20-06": {
+   "word": "le trombone",
+   "translit": null
+  },
+  "im20-07": {
+   "word": "l'équerre",
+   "translit": null
+  },
+  "im20-08": {
+   "word": "le boulier",
+   "translit": null
+  },
+  "im20-09": {
+   "word": "l'école",
+   "translit": null
+  },
+  "im20-10": {
+   "word": "la palette",
+   "translit": null
+  },
+  "im21-01": {
+   "word": "le ballon de football",
+   "translit": null
+  },
+  "im21-02": {
+   "word": "le ballon de basket",
+   "translit": null
+  },
+  "im21-03": {
+   "word": "la balle de tennis",
+   "translit": null
+  },
+  "im21-04": {
+   "word": "le ballon de volley",
+   "translit": null
+  },
+  "im21-05": {
+   "word": "le ping-pong",
+   "translit": null
+  },
+  "im21-06": {
+   "word": "le gant de boxe",
+   "translit": null
+  },
+  "im21-07": {
+   "word": "le bowling",
+   "translit": null
+  },
+  "im21-08": {
+   "word": "l'arc et la flèche",
+   "translit": null
+  },
+  "im21-09": {
+   "word": "le skateboard",
+   "translit": null
+  },
+  "im21-10": {
+   "word": "le patin à glace",
+   "translit": null
+  },
+  "im22-01": {
+   "word": "l'assiette",
+   "translit": null
+  },
+  "im22-02": {
+   "word": "la cuillère",
+   "translit": null
+  },
+  "im22-03": {
+   "word": "le couteau",
+   "translit": null
+  },
+  "im22-04": {
+   "word": "la poêle",
+   "translit": null
+  },
+  "im22-05": {
+   "word": "le bol",
+   "translit": null
+  },
+  "im22-06": {
+   "word": "les baguettes",
+   "translit": null
+  },
+  "im22-07": {
+   "word": "le sel",
+   "translit": null
+  },
+  "im22-08": {
+   "word": "la boîte de conserve",
+   "translit": null
+  },
+  "im22-09": {
+   "word": "le gobelet",
+   "translit": null
+  },
+  "im22-10": {
+   "word": "le glaçon",
+   "translit": null
+  },
+  "im23-01": {
+   "word": "la brosse à dents",
+   "translit": null
+  },
+  "im23-02": {
+   "word": "le savon",
+   "translit": null
+  },
+  "im23-03": {
+   "word": "le papier toilette",
+   "translit": null
+  },
+  "im23-04": {
+   "word": "le rasoir",
+   "translit": null
+  },
+  "im23-05": {
+   "word": "la baignoire",
+   "translit": null
+  },
+  "im23-06": {
+   "word": "l'éponge",
+   "translit": null
+  },
+  "im23-07": {
+   "word": "le balai",
+   "translit": null
+  },
+  "im23-08": {
+   "word": "le seau",
+   "translit": null
+  },
+  "im23-09": {
+   "word": "le miroir",
+   "translit": null
+  },
+  "im23-10": {
+   "word": "le panier",
+   "translit": null
+  },
+  "im24-01": {
+   "word": "la chaise",
+   "translit": null
+  },
+  "im24-02": {
+   "word": "le tableau",
+   "translit": null
+  },
+  "im24-03": {
+   "word": "la bougie",
+   "translit": null
+  },
+  "im24-04": {
+   "word": "la valise",
+   "translit": null
+  },
+  "im24-05": {
+   "word": "le cadenas",
+   "translit": null
+  },
+  "im24-06": {
+   "word": "la poubelle",
+   "translit": null
+  },
+  "im24-07": {
+   "word": "l'échelle",
+   "translit": null
+  },
+  "im24-08": {
+   "word": "la radio",
+   "translit": null
+  },
+  "im24-09": {
+   "word": "la cloche",
+   "translit": null
+  },
+  "im24-10": {
+   "word": "l'extincteur",
+   "translit": null
+  },
+  "im25-01": {
+   "word": "le marteau",
+   "translit": null
+  },
+  "im25-02": {
+   "word": "la hache",
+   "translit": null
+  },
+  "im25-03": {
+   "word": "la clé à molette",
+   "translit": null
+  },
+  "im25-04": {
+   "word": "le tournevis",
+   "translit": null
+  },
+  "im25-05": {
+   "word": "la scie",
+   "translit": null
+  },
+  "im25-06": {
+   "word": "la pioche",
+   "translit": null
+  },
+  "im25-07": {
+   "word": "la boîte à outils",
+   "translit": null
+  },
+  "im25-08": {
+   "word": "la vis",
+   "translit": null
+  },
+  "im25-09": {
+   "word": "l'engrenage",
+   "translit": null
+  },
+  "im25-10": {
+   "word": "la chaîne",
+   "translit": null
+  },
+  "im26-01": {
+   "word": "l'hôpital",
+   "translit": null
+  },
+  "im26-02": {
+   "word": "la banque",
+   "translit": null
+  },
+  "im26-03": {
+   "word": "l'église",
+   "translit": null
+  },
+  "im26-04": {
+   "word": "l'hôtel",
+   "translit": null
+  },
+  "im26-05": {
+   "word": "l'usine",
+   "translit": null
+  },
+  "im26-06": {
+   "word": "la station-service",
+   "translit": null
+  },
+  "im26-07": {
+   "word": "le feu tricolore",
+   "translit": null
+  },
+  "im26-08": {
+   "word": "le pont",
+   "translit": null
+  },
+  "im26-09": {
+   "word": "le stade",
+   "translit": null
+  },
+  "im26-10": {
+   "word": "le magasin",
+   "translit": null
+  },
+  "im27-01": {
+   "word": "l'ordinateur portable",
+   "translit": null
+  },
+  "im27-02": {
+   "word": "le clavier",
+   "translit": null
+  },
+  "im27-03": {
+   "word": "la souris d'ordinateur",
+   "translit": null
+  },
+  "im27-04": {
+   "word": "l'imprimante",
+   "translit": null
+  },
+  "im27-05": {
+   "word": "la disquette",
+   "translit": null
+  },
+  "im27-06": {
+   "word": "le casque",
+   "translit": null
+  },
+  "im27-07": {
+   "word": "le micro",
+   "translit": null
+  },
+  "im27-08": {
+   "word": "l'antenne",
+   "translit": null
+  },
+  "im27-09": {
+   "word": "la prise",
+   "translit": null
+  },
+  "im27-10": {
+   "word": "la manette",
+   "translit": null
+  },
+  "im28-01": {
+   "word": "la guitare",
+   "translit": null
+  },
+  "im28-02": {
+   "word": "le piano",
+   "translit": null
+  },
+  "im28-03": {
+   "word": "la trompette",
+   "translit": null
+  },
+  "im28-04": {
+   "word": "le violon",
+   "translit": null
+  },
+  "im28-05": {
+   "word": "la batterie",
+   "translit": null
+  },
+  "im28-06": {
+   "word": "le saxophone",
+   "translit": null
+  },
+  "im28-07": {
+   "word": "le banjo",
+   "translit": null
+  },
+  "im28-08": {
+   "word": "l'accordéon",
+   "translit": null
+  },
+  "im28-09": {
+   "word": "la partition",
+   "translit": null
+  },
+  "im28-10": {
+   "word": "la note de musique",
+   "translit": null
+  },
+  "im29-01": {
+   "word": "le dé",
+   "translit": null
+  },
+  "im29-02": {
+   "word": "le puzzle",
+   "translit": null
+  },
+  "im29-03": {
+   "word": "la cible",
+   "translit": null
+  },
+  "im29-04": {
+   "word": "les échecs",
+   "translit": null
+  },
+  "im29-05": {
+   "word": "le jeu vidéo",
+   "translit": null
+  },
+  "im29-06": {
+   "word": "la grande roue",
+   "translit": null
+  },
+  "im29-07": {
+   "word": "les montagnes russes",
+   "translit": null
+  },
+  "im29-08": {
+   "word": "le ballon gonflable",
+   "translit": null
+  },
+  "im29-09": {
+   "word": "le cerf-volant",
+   "translit": null
+  },
+  "im29-10": {
+   "word": "le manège",
+   "translit": null
+  },
+  "im30-01": {
+   "word": "le cadeau",
+   "translit": null
+  },
+  "im30-02": {
+   "word": "le gâteau d'anniversaire",
+   "translit": null
+  },
+  "im30-03": {
+   "word": "le sapin de Noël",
+   "translit": null
+  },
+  "im30-04": {
+   "word": "la citrouille",
+   "translit": null
+  },
+  "im30-05": {
+   "word": "le feu d'artifice",
+   "translit": null
+  },
+  "im30-06": {
+   "word": "la lanterne en papier",
+   "translit": null
+  },
+  "im30-07": {
+   "word": "le père Noël",
+   "translit": null
+  },
+  "im30-08": {
+   "word": "la piñata",
+   "translit": null
+  },
+  "im30-09": {
+   "word": "le ruban",
+   "translit": null
+  },
+  "im30-10": {
+   "word": "le champagne",
+   "translit": null
+  },
+  "im31-01": {
+   "word": "le stéthoscope",
+   "translit": null
+  },
+  "im31-02": {
+   "word": "la seringue",
+   "translit": null
+  },
+  "im31-03": {
+   "word": "le comprimé",
+   "translit": null
+  },
+  "im31-04": {
+   "word": "le pansement",
+   "translit": null
+  },
+  "im31-05": {
+   "word": "le thermomètre",
+   "translit": null
+  },
+  "im31-06": {
+   "word": "le fauteuil roulant",
+   "translit": null
+  },
+  "im31-07": {
+   "word": "la canne",
+   "translit": null
+  },
+  "im31-08": {
+   "word": "le microbe",
+   "translit": null
+  },
+  "im31-09": {
+   "word": "l'os",
+   "translit": null
+  },
+  "im31-10": {
+   "word": "l'ADN",
+   "translit": null
+  },
+  "im32-01": {
+   "word": "le microscope",
+   "translit": null
+  },
+  "im32-02": {
+   "word": "le télescope",
+   "translit": null
+  },
+  "im32-03": {
+   "word": "l'éprouvette",
+   "translit": null
+  },
+  "im32-04": {
+   "word": "l'alambic",
+   "translit": null
+  },
+  "im32-05": {
+   "word": "la boîte de Petri",
+   "translit": null
+  },
+  "im32-06": {
+   "word": "la balance",
+   "translit": null
+  },
+  "im32-07": {
+   "word": "la boussole",
+   "translit": null
+  },
+  "im32-08": {
+   "word": "la loupe",
+   "translit": null
+  },
+  "im32-09": {
+   "word": "le sablier",
+   "translit": null
+  },
+  "im32-10": {
+   "word": "l'atome",
+   "translit": null
+  },
+  "im33-01": {
+   "word": "le dossier",
+   "translit": null
+  },
+  "im33-02": {
+   "word": "le calendrier",
+   "translit": null
+  },
+  "im33-03": {
+   "word": "le graphique",
+   "translit": null
+  },
+  "im33-04": {
+   "word": "l'enveloppe",
+   "translit": null
+  },
+  "im33-05": {
+   "word": "la boîte aux lettres",
+   "translit": null
+  },
+  "im33-06": {
+   "word": "le colis",
+   "translit": null
+  },
+  "im33-07": {
+   "word": "le journal",
+   "translit": null
+  },
+  "im33-08": {
+   "word": "la carte bancaire",
+   "translit": null
+  },
+  "im33-09": {
+   "word": "la pièce",
+   "translit": null
+  },
+  "im33-10": {
+   "word": "le parchemin",
+   "translit": null
+  },
+  "im34-01": {
+   "word": "la maison",
+   "translit": null
+  },
+  "im34-02": {
+   "word": "l'immeuble",
+   "translit": null
+  },
+  "im34-03": {
+   "word": "la brique",
+   "translit": null
+  },
+  "im34-04": {
+   "word": "la grue",
+   "translit": null
+  },
+  "im34-05": {
+   "word": "la hutte",
+   "translit": null
+  },
+  "im34-06": {
+   "word": "la tente",
+   "translit": null
+  },
+  "im34-07": {
+   "word": "le chantier",
+   "translit": null
+  },
+  "im34-08": {
+   "word": "le château",
+   "translit": null
+  },
+  "im34-09": {
+   "word": "la fontaine",
+   "translit": null
+  },
+  "im34-10": {
+   "word": "le moaï",
+   "translit": null
+  },
+  "im35-01": {
+   "word": "la planète",
+   "translit": null
+  },
+  "im35-02": {
+   "word": "la Terre",
+   "translit": null
+  },
+  "im35-03": {
+   "word": "la pleine lune",
+   "translit": null
+  },
+  "im35-04": {
+   "word": "la comète",
+   "translit": null
+  },
+  "im35-05": {
+   "word": "la fusée",
+   "translit": null
+  },
+  "im35-06": {
+   "word": "le satellite",
+   "translit": null
+  },
+  "im35-07": {
+   "word": "la soucoupe volante",
+   "translit": null
+  },
+  "im35-08": {
+   "word": "l'extraterrestre",
+   "translit": null
+  },
+  "im35-09": {
+   "word": "l'étoile filante",
+   "translit": null
+  },
+  "im35-10": {
+   "word": "la galaxie",
+   "translit": null
+  },
+  "im36-01": {
+   "word": "le voilier",
+   "translit": null
+  },
+  "im36-02": {
+   "word": "le canoë",
+   "translit": null
+  },
+  "im36-03": {
+   "word": "le bateau à moteur",
+   "translit": null
+  },
+  "im36-04": {
+   "word": "le taxi",
+   "translit": null
+  },
+  "im36-05": {
+   "word": "le scooter",
+   "translit": null
+  },
+  "im36-06": {
+   "word": "le tracteur",
+   "translit": null
+  },
+  "im36-07": {
+   "word": "le métro",
+   "translit": null
+  },
+  "im36-08": {
+   "word": "la trottinette",
+   "translit": null
+  },
+  "im36-09": {
+   "word": "le parachute",
+   "translit": null
+  },
+  "im36-10": {
+   "word": "la voiture de police",
+   "translit": null
+  },
+  "im37-01": {
+   "word": "le sushi",
+   "translit": null
+  },
+  "im37-02": {
+   "word": "le ramen",
+   "translit": null
+  },
+  "im37-03": {
+   "word": "la paella",
+   "translit": null
+  },
+  "im37-04": {
+   "word": "le curry",
+   "translit": null
+  },
+  "im37-05": {
+   "word": "le gyoza",
+   "translit": null
+  },
+  "im37-06": {
+   "word": "le bento",
+   "translit": null
+  },
+  "im37-07": {
+   "word": "l'onigiri",
+   "translit": null
+  },
+  "im37-08": {
+   "word": "le falafel",
+   "translit": null
+  },
+  "im37-09": {
+   "word": "la salade",
+   "translit": null
+  },
+  "im37-10": {
+   "word": "le ragoût",
+   "translit": null
+  },
+  "im38-01": {
+   "word": "le croissant",
+   "translit": null
+  },
+  "im38-02": {
+   "word": "le bretzel",
+   "translit": null
+  },
+  "im38-03": {
+   "word": "le bagel",
+   "translit": null
+  },
+  "im38-04": {
+   "word": "la crêpe",
+   "translit": null
+  },
+  "im38-05": {
+   "word": "la gaufre",
+   "translit": null
+  },
+  "im38-06": {
+   "word": "le taco",
+   "translit": null
+  },
+  "im38-07": {
+   "word": "le burrito",
+   "translit": null
+  },
+  "im38-08": {
+   "word": "le sandwich",
+   "translit": null
+  },
+  "im38-09": {
+   "word": "le pop-corn",
+   "translit": null
+  },
+  "im38-10": {
+   "word": "le hot-dog",
+   "translit": null
+  },
+  "im39-01": {
+   "word": "le flan",
+   "translit": null
+  },
+  "im39-02": {
+   "word": "la tarte",
+   "translit": null
+  },
+  "im39-03": {
+   "word": "le cupcake",
+   "translit": null
+  },
+  "im39-04": {
+   "word": "le bonbon",
+   "translit": null
+  },
+  "im39-05": {
+   "word": "la sucette",
+   "translit": null
+  },
+  "im39-06": {
+   "word": "le miel",
+   "translit": null
+  },
+  "im39-07": {
+   "word": "la glace pilée",
+   "translit": null
+  },
+  "im39-08": {
+   "word": "le biscuit chinois",
+   "translit": null
+  },
+  "im39-09": {
+   "word": "le beurre",
+   "translit": null
+  },
+  "im39-10": {
+   "word": "le dango",
+   "translit": null
+  },
+  "im40-01": {
+   "word": "le thé",
+   "translit": null
+  },
+  "im40-02": {
+   "word": "le cocktail",
+   "translit": null
+  },
+  "im40-03": {
+   "word": "le saké",
+   "translit": null
+  },
+  "im40-04": {
+   "word": "le whisky",
+   "translit": null
+  },
+  "im40-05": {
+   "word": "le maté",
+   "translit": null
+  },
+  "im40-06": {
+   "word": "le bubble tea",
+   "translit": null
+  },
+  "im40-07": {
+   "word": "la boisson tropicale",
+   "translit": null
+  },
+  "im40-08": {
+   "word": "le biberon",
+   "translit": null
+  },
+  "im40-09": {
+   "word": "la goutte",
+   "translit": null
+  },
+  "im40-10": {
+   "word": "le toast",
+   "translit": null
+  },
+  "im41-01": {
+   "word": "le loup",
+   "translit": null
+  },
+  "im41-02": {
+   "word": "le renard",
+   "translit": null
+  },
+  "im41-03": {
+   "word": "le cerf",
+   "translit": null
+  },
+  "im41-04": {
+   "word": "l'écureuil",
+   "translit": null
+  },
+  "im41-05": {
+   "word": "le sanglier",
+   "translit": null
+  },
+  "im41-06": {
+   "word": "le blaireau",
+   "translit": null
+  },
+  "im41-07": {
+   "word": "le raton laveur",
+   "translit": null
+  },
+  "im41-08": {
+   "word": "la chauve-souris",
+   "translit": null
+  },
+  "im41-09": {
+   "word": "le hérisson",
+   "translit": null
+  },
+  "im41-10": {
+   "word": "la mouffette",
+   "translit": null
+  },
+  "im42-01": {
+   "word": "le kangourou",
+   "translit": null
+  },
+  "im42-02": {
+   "word": "le koala",
+   "translit": null
+  },
+  "im42-03": {
+   "word": "le panda",
+   "translit": null
+  },
+  "im42-04": {
+   "word": "le chameau",
+   "translit": null
+  },
+  "im42-05": {
+   "word": "le lama",
+   "translit": null
+  },
+  "im42-06": {
+   "word": "le paresseux",
+   "translit": null
+  },
+  "im42-07": {
+   "word": "le gorille",
+   "translit": null
+  },
+  "im42-08": {
+   "word": "l'orang-outan",
+   "translit": null
+  },
+  "im42-09": {
+   "word": "le léopard",
+   "translit": null
+  },
+  "im42-10": {
+   "word": "le bison",
+   "translit": null
+  },
+  "im43-01": {
+   "word": "le tyrannosaure",
+   "translit": null
+  },
+  "im43-02": {
+   "word": "le brachiosaure",
+   "translit": null
+  },
+  "im43-03": {
+   "word": "le mammouth",
+   "translit": null
+  },
+  "im43-04": {
+   "word": "le phoque",
+   "translit": null
+  },
+  "im43-05": {
+   "word": "la loutre",
+   "translit": null
+  },
+  "im43-06": {
+   "word": "le buffle",
+   "translit": null
+  },
+  "im43-07": {
+   "word": "le castor",
+   "translit": null
+  },
+  "im43-08": {
+   "word": "le bélier",
+   "translit": null
+  },
+  "im43-09": {
+   "word": "le caniche",
+   "translit": null
+  },
+  "im43-10": {
+   "word": "le chien guide",
+   "translit": null
+  },
+  "im44-01": {
+   "word": "le pin",
+   "translit": null
+  },
+  "im44-02": {
+   "word": "le blé",
+   "translit": null
+  },
+  "im44-03": {
+   "word": "le trèfle",
+   "translit": null
+  },
+  "im44-04": {
+   "word": "la pousse",
+   "translit": null
+  },
+  "im44-05": {
+   "word": "le bouquet",
+   "translit": null
+  },
+  "im44-06": {
+   "word": "la fleur de cerisier",
+   "translit": null
+  },
+  "im44-07": {
+   "word": "la marguerite",
+   "translit": null
+  },
+  "im44-08": {
+   "word": "l'hibiscus",
+   "translit": null
+  },
+  "im44-09": {
+   "word": "la feuille morte",
+   "translit": null
+  },
+  "im44-10": {
+   "word": "la fleur fanée",
+   "translit": null
+  },
+  "im45-01": {
+   "word": "la cravate",
+   "translit": null
+  },
+  "im45-02": {
+   "word": "le chemisier",
+   "translit": null
+  },
+  "im45-03": {
+   "word": "le kimono",
+   "translit": null
+  },
+  "im45-04": {
+   "word": "le bikini",
+   "translit": null
+  },
+  "im45-05": {
+   "word": "le short",
+   "translit": null
+  },
+  "im45-06": {
+   "word": "l'escarpin",
+   "translit": null
+  },
+  "im45-07": {
+   "word": "la botte",
+   "translit": null
+  },
+  "im45-08": {
+   "word": "la tongue",
+   "translit": null
+  },
+  "im45-09": {
+   "word": "le chapeau de paille",
+   "translit": null
+  },
+  "im45-10": {
+   "word": "la blouse",
+   "translit": null
+  },
+  "im46-01": {
+   "word": "la bague",
+   "translit": null
+  },
+  "im46-02": {
+   "word": "le diamant",
+   "translit": null
+  },
+  "im46-03": {
+   "word": "le sac à main",
+   "translit": null
+  },
+  "im46-04": {
+   "word": "le porte-monnaie",
+   "translit": null
+  },
+  "im46-05": {
+   "word": "le haut-de-forme",
+   "translit": null
+  },
+  "im46-06": {
+   "word": "les lunettes de soleil",
+   "translit": null
+  },
+  "im46-07": {
+   "word": "le chapeau de diplômé",
+   "translit": null
+  },
+  "im46-08": {
+   "word": "le rouge à lèvres",
+   "translit": null
+  },
+  "im46-09": {
+   "word": "le collier de perles",
+   "translit": null
+  },
+  "im46-10": {
+   "word": "le gilet",
+   "translit": null
+  },
+  "im47-01": {
+   "word": "le trophée",
+   "translit": null
+  },
+  "im47-02": {
+   "word": "la médaille",
+   "translit": null
+  },
+  "im47-03": {
+   "word": "la canne à pêche",
+   "translit": null
+  },
+  "im47-04": {
+   "word": "les skis",
+   "translit": null
+  },
+  "im47-05": {
+   "word": "la luge",
+   "translit": null
+  },
+  "im47-06": {
+   "word": "la raquette de badminton",
+   "translit": null
+  },
+  "im47-07": {
+   "word": "le but",
+   "translit": null
+  },
+  "im47-08": {
+   "word": "le drapeau de golf",
+   "translit": null
+  },
+  "im47-09": {
+   "word": "le yoyo",
+   "translit": null
+  },
+  "im47-10": {
+   "word": "le masque de plongée",
+   "translit": null
+  },
+  "im48-01": {
+   "word": "le clap",
+   "translit": null
+  },
+  "im48-02": {
+   "word": "la caméra vidéo",
+   "translit": null
+  },
+  "im48-03": {
+   "word": "le théâtre",
+   "translit": null
+  },
+  "im48-04": {
+   "word": "le cirque",
+   "translit": null
+  },
+  "im48-05": {
+   "word": "la pellicule",
+   "translit": null
+  },
+  "im48-06": {
+   "word": "le projecteur de cinéma",
+   "translit": null
+  },
+  "im48-07": {
+   "word": "le karaoké",
+   "translit": null
+  },
+  "im48-08": {
+   "word": "le billet",
+   "translit": null
+  },
+  "im48-09": {
+   "word": "le pinceau",
+   "translit": null
+  },
+  "im48-10": {
+   "word": "le cor de postillon",
+   "translit": null
+  },
+  "im49-01": {
+   "word": "le bouclier",
+   "translit": null
+  },
+  "im49-02": {
+   "word": "les épées",
+   "translit": null
+  },
+  "im49-03": {
+   "word": "le poignard",
+   "translit": null
+  },
+  "im49-04": {
+   "word": "le dragon",
+   "translit": null
+  },
+  "im49-05": {
+   "word": "la licorne",
+   "translit": null
+  },
+  "im49-06": {
+   "word": "la baguette magique",
+   "translit": null
+  },
+  "im49-07": {
+   "word": "la boule de cristal",
+   "translit": null
+  },
+  "im49-08": {
+   "word": "la couronne",
+   "translit": null
+  },
+  "im49-09": {
+   "word": "le magicien",
+   "translit": null
+  },
+  "im49-10": {
+   "word": "la fée",
+   "translit": null
+  },
+  "im50-01": {
+   "word": "l'amphore",
+   "translit": null
+  },
+  "im50-02": {
+   "word": "l'ancre",
+   "translit": null
+  },
+  "im50-03": {
+   "word": "la pierre",
+   "translit": null
+  },
+  "im50-04": {
+   "word": "le tronc",
+   "translit": null
+  },
+  "im50-05": {
+   "word": "le téléphone fixe",
+   "translit": null
+  },
+  "im50-06": {
+   "word": "le fax",
+   "translit": null
+  },
+  "im50-07": {
+   "word": "la cassette",
+   "translit": null
+  },
+  "im50-08": {
+   "word": "le mégaphone",
+   "translit": null
+  },
+  "im50-09": {
+   "word": "l'ancienne clé",
+   "translit": null
+  },
+  "im50-10": {
+   "word": "le baril de pétrole",
+   "translit": null
+  }
+ }
+}

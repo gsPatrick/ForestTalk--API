@@ -2402,6 +2402,1606 @@
    "examplePt": "De repente, o gato pulou na mesa!",
    "pron": "de rre-PEN-te — o 'rr' inicial vibra forte",
    "curiosity": "Em ES 'de repente' é só 'de súbito'; para 'talvez' use 'quizás'."
+  },
+  "tf31-01": {
+   "word": "la duna",
+   "translit": null,
+   "example": "¿Subimos a la duna al atardecer?",
+   "examplePt": "Vamos subir na duna ao entardecer?",
+   "pron": "DU-na — o 'u' é fechado, como em 'lua'",
+   "curiosity": "Algumas dunas do deserto do Saara passam de 100 metros de altura."
+  },
+  "tf31-02": {
+   "word": "el valle",
+   "translit": null,
+   "example": "¿Hay un río en el valle?",
+   "examplePt": "Tem um rio no vale?",
+   "pron": "BA-ye — o 'v' soa 'b' e o 'll' soa como 'i'",
+   "curiosity": "O Valle de la Luna, na Argentina (Ischigualasto), é Patrimônio Mundial da UNESCO."
+  },
+  "tf31-03": {
+   "word": "la meseta",
+   "translit": null,
+   "example": "La meseta es plana y muy alta.",
+   "examplePt": "O planalto é plano e muito alto.",
+   "pron": "me-SE-ta — o 's' soa 's' mesmo, nunca 'z'",
+   "curiosity": "'Meseta' vem de 'mesa': em espanhol um planalto é uma 'mesinha' do relevo."
+  },
+  "tf31-04": {
+   "word": "el acantilado",
+   "translit": null,
+   "example": "Las gaviotas anidan en el acantilado.",
+   "examplePt": "As gaivotas fazem ninho no penhasco.",
+   "pron": "a-kan-ti-LA-do — o 'c' soa 'k' e o 'd' é suave",
+   "curiosity": "Os famosos penhascos brancos de Dover, na Inglaterra, são feitos de giz."
+  },
+  "tf31-05": {
+   "word": "el glaciar",
+   "translit": null,
+   "example": "El glaciar se derrite cada verano.",
+   "examplePt": "A geleira derrete a cada verão.",
+   "pron": "gla-SIAR — o 'c' antes de 'i' soa 's' na América Latina",
+   "curiosity": "'Glaciar' e 'glacial' vêm do latim 'glacies', que significa gelo."
+  },
+  "tf31-06": {
+   "word": "la península",
+   "translit": null,
+   "example": "Italia es una península con forma de bota.",
+   "examplePt": "A Itália é uma península em forma de bota.",
+   "pron": "pe-NÍN-su-la — a força cai no 'nín'",
+   "curiosity": "'Península' vem do latim: 'paene' (quase) + 'insula' (ilha), ou seja, quase uma ilha."
+  },
+  "tf31-07": {
+   "word": "la cueva",
+   "translit": null,
+   "example": "Un murciélago duerme en la cueva.",
+   "examplePt": "Um morcego dorme na caverna.",
+   "pron": "KUE-ba — 'ue' é um ditongo e o 'v' soa 'b'",
+   "curiosity": "A caverna de Altamira, na Espanha, tem pinturas rupestres de mais de 14 mil anos."
+  },
+  "tf31-08": {
+   "word": "el cañón",
+   "translit": null,
+   "example": "El río talló un cañón enorme.",
+   "examplePt": "O rio esculpiu um cânion enorme.",
+   "pron": "ka-NHON — o 'ñ' soa como o 'nh' do português",
+   "curiosity": "'Cañón' também significa canhão; o Grand Canyon é o 'Gran Cañón del Colorado'."
+  },
+  "tf31-09": {
+   "word": "la colina",
+   "translit": null,
+   "example": "Vivimos en una casa sobre la colina.",
+   "examplePt": "Moramos numa casa sobre a colina.",
+   "pron": "ko-LI-na — o 'c' antes de 'o' soa 'k'",
+   "curiosity": "Em muitos países da América Latina também se diz 'cerro' para morro ou colina."
+  },
+  "tf31-10": {
+   "word": "el archipiélago",
+   "translit": null,
+   "example": "Galápagos es un archipiélago de islas volcánicas.",
+   "examplePt": "Galápagos é um arquipélago de ilhas vulcânicas.",
+   "pron": "ar-chi-PIÉ-la-go — o 'ch' soa 'tch', como em 'tchau'",
+   "curiosity": "Darwin visitou as ilhas Galápagos em 1835."
+  },
+  "tf32-01": {
+   "word": "la cascada",
+   "translit": null,
+   "example": "Una cascada cae entre las rocas.",
+   "examplePt": "Uma cachoeira cai entre as rochas.",
+   "pron": "kas-KA-da — o 'c' antes de 'a' soa 'k'",
+   "curiosity": "O Salto Ángel, na Venezuela, é a queda d'água mais alta do mundo: 979 metros."
+  },
+  "tf32-02": {
+   "word": "el lago",
+   "translit": null,
+   "example": "Mi abuelo pesca en el lago.",
+   "examplePt": "Meu avô pesca no lago.",
+   "pron": "LA-go — o 'g' é suave, como em 'gato'",
+   "curiosity": "O lago Titicaca, entre Peru e Bolívia, é um dos lagos navegáveis mais altos do mundo."
+  },
+  "tf32-03": {
+   "word": "la marea",
+   "translit": null,
+   "example": "¿Cuándo sube la marea esta tarde?",
+   "examplePt": "Quando a maré sobe esta tarde?",
+   "pron": "ma-RE-a — três sílabas, sem juntar o 'ea'",
+   "curiosity": "A Lua é a principal causa das marés, por causa da sua gravidade."
+  },
+  "tf32-04": {
+   "word": "la ola",
+   "translit": null,
+   "example": "¿Viste esa ola gigante?",
+   "examplePt": "Você viu aquela onda gigante?",
+   "pron": "O-la — o 'o' é curto e fechado",
+   "curiosity": "Cuidado: 'hola' (oi) tem 'h' mudo, mas 'ola' (onda) não tem h."
+  },
+  "tf32-05": {
+   "word": "el manantial",
+   "translit": null,
+   "example": "El agua del manantial es muy fría.",
+   "examplePt": "A água da nascente é muito fria.",
+   "pron": "ma-nan-TIAL — a força cai na última sílaba",
+   "curiosity": "'Manantial' também é figurado: 'un manantial de ideas' = uma fonte de ideias."
+  },
+  "tf32-06": {
+   "word": "el delta",
+   "translit": null,
+   "example": "El delta del Nilo es muy fértil.",
+   "examplePt": "O delta do Nilo é muito fértil.",
+   "pron": "DEL-ta — igual ao português",
+   "curiosity": "'Delta' vem da letra grega Δ, pela forma triangular da foz do rio."
+  },
+  "tf32-07": {
+   "word": "el géiser",
+   "translit": null,
+   "example": "El géiser lanza agua hirviendo al aire.",
+   "examplePt": "O gêiser lança água fervente no ar.",
+   "pron": "HÉI-ser — o 'g' soa como 'h' aspirado",
+   "curiosity": "A palavra vem do islandês 'Geysir', nome de um gêiser famoso da Islândia."
+  },
+  "tf32-08": {
+   "word": "el iceberg",
+   "translit": null,
+   "example": "Solo vemos la punta del iceberg.",
+   "examplePt": "Só vemos a ponta do iceberg.",
+   "pron": "i-se-BERG — o 'c' soa 's' e o 'g' final é fraco",
+   "curiosity": "'La punta del iceberg' é uma expressão igual à do português: a ponta do iceberg."
+  },
+  "tf32-09": {
+   "word": "el océano",
+   "translit": null,
+   "example": "El océano Pacífico es inmenso.",
+   "examplePt": "O oceano Pacífico é imenso.",
+   "pron": "o-SE-a-no — o 'c' antes de 'e' soa 's'",
+   "curiosity": "O oceano Pacífico cobre quase um terço da superfície da Terra."
+  },
+  "tf32-10": {
+   "word": "el pantano",
+   "translit": null,
+   "example": "Un cocodrilo se esconde en el pantano.",
+   "examplePt": "Um crocodilo se esconde no pântano.",
+   "pron": "pan-TA-no — o 'a' é aberto",
+   "curiosity": "Na Espanha, 'pantano' também é um reservatório de água, uma represa."
+  },
+  "tf33-01": {
+   "word": "el asteroide",
+   "translit": null,
+   "example": "Un asteroide pasó cerca de la Tierra.",
+   "examplePt": "Um asteroide passou perto da Terra.",
+   "pron": "as-te-ROI-de — 'oi' como em 'boi'",
+   "curiosity": "Vem do grego 'asteroeides': semelhante a uma estrela."
+  },
+  "tf33-02": {
+   "word": "la órbita",
+   "translit": null,
+   "example": "La Luna sigue su órbita alrededor de la Tierra.",
+   "examplePt": "A Lua segue sua órbita ao redor da Terra.",
+   "pron": "OR-bi-ta — acento na primeira sílaba, por isso leva til",
+   "curiosity": "'Órbita' também é a cavidade óssea do olho: 'la órbita del ojo'."
+  },
+  "tf33-03": {
+   "word": "la constelación",
+   "translit": null,
+   "example": "¿Puedes ver la constelación de Orión?",
+   "examplePt": "Você consegue ver a constelação de Órion?",
+   "pron": "kons-te-la-SION — força no 'ción'; o 'c' soa 's'",
+   "curiosity": "O Cruzeiro do Sul aparece nas bandeiras do Brasil, da Austrália e da Nova Zelândia."
+  },
+  "tf33-04": {
+   "word": "el meteoro",
+   "translit": null,
+   "example": "Vimos un meteoro cruzar el cielo.",
+   "examplePt": "Vimos um meteoro cruzar o céu.",
+   "pron": "me-te-O-ro — o 'eo' são duas sílabas separadas",
+   "curiosity": "'Meteoro' vem do grego e quer dizer 'coisa no alto'; daí vem 'meteorología'."
+  },
+  "tf33-05": {
+   "word": "la nebulosa",
+   "translit": null,
+   "example": "La nebulosa brilla con colores rosados.",
+   "examplePt": "A nebulosa brilha com tons rosados.",
+   "pron": "ne-bu-LO-sa — o 's' soa 's' mesmo, nunca 'z'",
+   "curiosity": "'Nebulosa' vem do latim 'nebula', que significa nuvem ou névoa."
+  },
+  "tf33-06": {
+   "word": "el agujero negro",
+   "translit": null,
+   "example": "Nada escapa de un agujero negro.",
+   "examplePt": "Nada escapa de um buraco negro.",
+   "pron": "a-gu-HE-ro NE-gro — o 'j' soa como 'h' aspirado",
+   "curiosity": "O termo 'buraco negro' foi popularizado nos anos 1960 pelo físico John Wheeler."
+  },
+  "tf33-07": {
+   "word": "el cráter",
+   "translit": null,
+   "example": "Un cráter enorme marca la Luna.",
+   "examplePt": "Uma enorme cratera marca a Lua.",
+   "pron": "KRA-ter — acento na primeira sílaba; o 'r' final é suave",
+   "curiosity": "Em espanhol é masculino: 'el cráter', ao contrário do português 'a cratera'."
+  },
+  "tf33-08": {
+   "word": "la gravedad",
+   "translit": null,
+   "example": "La gravedad nos mantiene en el suelo.",
+   "examplePt": "A gravidade nos mantém no chão.",
+   "pron": "gra-be-DAD — o 'v' soa 'b' e o 'd' final é suave",
+   "curiosity": "Na Lua, a gravidade é cerca de um sexto da gravidade da Terra."
+  },
+  "tf33-09": {
+   "word": "el observatorio",
+   "translit": null,
+   "example": "El observatorio tiene un telescopio gigante.",
+   "examplePt": "O observatório tem um telescópio gigante.",
+   "pron": "ob-ser-ba-TO-rio — o 'v' soa 'b'",
+   "curiosity": "O deserto do Atacama, no Chile, tem alguns dos céus mais limpos do mundo para observar estrelas."
+  },
+  "tf33-10": {
+   "word": "la supernova",
+   "translit": null,
+   "example": "Una supernova es la explosión de una estrella.",
+   "examplePt": "Uma supernova é a explosão de uma estrela.",
+   "pron": "su-per-NO-ba — o 'v' soa 'b'",
+   "curiosity": "O ferro do nosso sangue foi forjado em estrelas que explodiram há bilhões de anos."
+  },
+  "tf34-01": {
+   "word": "el huracán",
+   "translit": null,
+   "example": "Un huracán azotó la costa ayer.",
+   "examplePt": "Um furacão atingiu a costa ontem.",
+   "pron": "u-ra-KAN — o 'h' é mudo; força no 'cán'",
+   "curiosity": "'Huracán' vem do taíno, língua do Caribe, e deu 'hurricane' em inglês."
+  },
+  "tf34-02": {
+   "word": "el tornado",
+   "translit": null,
+   "example": "El tornado levantó el techo de la casa.",
+   "examplePt": "O tornado levantou o telhado da casa.",
+   "pron": "tor-NA-do — o 'r' é rápido, como em 'caro'",
+   "curiosity": "Os Estados Unidos têm mais tornados por ano do que qualquer outro país."
+  },
+  "tf34-03": {
+   "word": "la helada",
+   "translit": null,
+   "example": "Hubo una helada anoche en el jardín.",
+   "examplePt": "Houve uma geada ontem à noite no jardim.",
+   "pron": "e-LA-da — o 'h' é mudo",
+   "curiosity": "'Helado' é sorvete e 'helada' é geada: ambas vêm de 'hielo', gelo."
+  },
+  "tf34-04": {
+   "word": "el granizo",
+   "translit": null,
+   "example": "¿Por qué el granizo cae en verano?",
+   "examplePt": "Por que o granizo cai no verão?",
+   "pron": "gra-NI-so — o 'z' soa 's' na América Latina",
+   "curiosity": "'Granizar' é verbo: 'Está granizando' quer dizer que está caindo granizo."
+  },
+  "tf34-05": {
+   "word": "el relámpago",
+   "translit": null,
+   "example": "El relámpago iluminó toda la calle.",
+   "examplePt": "O relâmpago iluminou a rua inteira.",
+   "pron": "rre-LAM-pa-go — o 'rr' inicial vibra forte",
+   "curiosity": "O relâmpago é o clarão, e o som é 'el trueno', o trovão."
+  },
+  "tf34-06": {
+   "word": "la tormenta",
+   "translit": null,
+   "example": "¿Habrá tormenta esta noche?",
+   "examplePt": "Vai ter tempestade esta noite?",
+   "pron": "tor-MEN-ta — força no 'men'",
+   "curiosity": "'Tormenta' e 'tormento' são da mesma família, do latim 'tormentum'."
+  },
+  "tf34-07": {
+   "word": "la sequía",
+   "translit": null,
+   "example": "La sequía secó todos los ríos.",
+   "examplePt": "A seca esvaziou todos os rios.",
+   "pron": "se-KI-a — o 'qu' soa 'k' e o 'u' é mudo",
+   "curiosity": "O acento no 'í' faz 'sequía' ter três sílabas: se-quí-a."
+  },
+  "tf34-08": {
+   "word": "el rocío",
+   "translit": null,
+   "example": "El rocío moja la hierba temprano.",
+   "examplePt": "O orvalho molha a grama cedo.",
+   "pron": "rro-SI-o — o 'rr' inicial vibra; força no 'sí'",
+   "curiosity": "'Rocío' também é um nome de mulher muito comum na Espanha."
+  },
+  "tf34-09": {
+   "word": "la llovizna",
+   "translit": null,
+   "example": "Una llovizna fina cae sobre la ciudad.",
+   "examplePt": "Uma garoa fina cai sobre a cidade.",
+   "pron": "yo-BIZ-na — o 'll' soa como 'i' de 'iogurte'; fica 'yo-VIS-na'",
+   "curiosity": "É da família de 'llover' (chover) e 'lluvia': 'llovizna' é chuva fininha."
+  },
+  "tf34-10": {
+   "word": "el ciclón",
+   "translit": null,
+   "example": "El ciclón se acerca a la isla.",
+   "examplePt": "O ciclone se aproxima da ilha.",
+   "pron": "si-KLON — o 'c' antes de 'i' soa 's'",
+   "curiosity": "'Ciclón' vem do grego 'kyklos', círculo, pelo giro dos ventos."
+  },
+  "tf35-01": {
+   "word": "el granito",
+   "translit": null,
+   "example": "La estatua es de granito gris.",
+   "examplePt": "A estátua é de granito cinza.",
+   "pron": "gra-NI-to — o 'g' soa como em 'gato'",
+   "curiosity": "'Granito' vem do italiano 'granito', por causa dos grãos visíveis na rocha."
+  },
+  "tf35-02": {
+   "word": "el mármol",
+   "translit": null,
+   "example": "El suelo del palacio es de mármol.",
+   "examplePt": "O piso do palácio é de mármore.",
+   "pron": "MAR-mol — acento no 'már'; o 'l' final é leve",
+   "curiosity": "'Mármol' vem do grego 'mármaros', que significa pedra brilhante."
+  },
+  "tf35-03": {
+   "word": "el diamante",
+   "translit": null,
+   "example": "Un diamante raya cualquier otro mineral.",
+   "examplePt": "Um diamante risca qualquer outro mineral.",
+   "pron": "dia-MAN-te — o 'dia' é um ditongo só",
+   "curiosity": "É o mineral natural mais duro: 10 na escala de Mohs."
+  },
+  "tf35-04": {
+   "word": "el carbón",
+   "translit": null,
+   "example": "Antes los trenes funcionaban con carbón.",
+   "examplePt": "Antes os trens funcionavam a carvão.",
+   "pron": "kar-BON — força no 'bón'; o 'c' soa 'k'",
+   "curiosity": "O carbono, base da vida, tem o nome ligado ao latim 'carbo', carvão."
+  },
+  "tf35-05": {
+   "word": "el oro",
+   "translit": null,
+   "example": "Los piratas buscaban oro y plata.",
+   "examplePt": "Os piratas buscavam ouro e prata.",
+   "pron": "O-ro — o 'r' é rápido, como em 'caro'",
+   "curiosity": "O símbolo do ouro é Au, de 'aurum', a palavra latina para ouro."
+  },
+  "tf35-06": {
+   "word": "el cobre",
+   "translit": null,
+   "example": "El cable está hecho de cobre.",
+   "examplePt": "O cabo é feito de cobre.",
+   "pron": "KO-bre — o 'b' é suave",
+   "curiosity": "O Chile é o maior produtor de cobre do mundo."
+  },
+  "tf35-07": {
+   "word": "el hierro",
+   "translit": null,
+   "example": "El hierro se oxida con la lluvia.",
+   "examplePt": "O ferro enferruja com a chuva.",
+   "pron": "IE-rro — o 'h' é mudo e o 'rr' vibra",
+   "curiosity": "'Hierro' vem do latim 'ferrum', por isso o símbolo do ferro é Fe."
+  },
+  "tf35-08": {
+   "word": "el cristal",
+   "translit": null,
+   "example": "¿El cristal de cuarzo brilla al sol?",
+   "examplePt": "O cristal de quartzo brilha ao sol?",
+   "pron": "kris-TAL — força no 'tal'",
+   "curiosity": "'Cristal' também é o vidro de janela: 'el cristal de la ventana'."
+  },
+  "tf35-09": {
+   "word": "la arcilla",
+   "translit": null,
+   "example": "¿Hacemos vasijas con arcilla húmeda?",
+   "examplePt": "Vamos fazer vasos com argila úmida?",
+   "pron": "ar-SI-ya — o 'c' soa 's' e o 'll' soa como 'i'",
+   "curiosity": "Em espanhol, 'arcilla' e 'barro' são quase sinônimos; 'barro' é mais coloquial."
+  },
+  "tf35-10": {
+   "word": "la caliza",
+   "translit": null,
+   "example": "La caliza se disuelve con el agua.",
+   "examplePt": "O calcário se dissolve com a água.",
+   "pron": "ka-LI-sa — o 'z' soa 's'",
+   "curiosity": "As cavernas com estalactites se formam, em geral, em rochas calcárias."
+  },
+  "tf36-01": {
+   "word": "el algodón",
+   "translit": null,
+   "example": "Esta camiseta es de algodón puro.",
+   "examplePt": "Esta camiseta é de algodão puro.",
+   "pron": "al-go-DON — força no 'dón'",
+   "curiosity": "'Algodón' vem do árabe 'al-qutn'; o 'al-' é o artigo árabe."
+  },
+  "tf36-02": {
+   "word": "la seda",
+   "translit": null,
+   "example": "La bufanda de seda es suave.",
+   "examplePt": "O cachecol de seda é macio.",
+   "pron": "SE-da — o 'd' é suave, quase um 'th' inglês",
+   "curiosity": "A seda é feita pelo bicho-da-seda e nasceu na China."
+  },
+  "tf36-03": {
+   "word": "la lana",
+   "translit": null,
+   "example": "Mi abuela teje un suéter de lana.",
+   "examplePt": "Minha avó tricota um suéter de lã.",
+   "pron": "LA-na — igual ao português",
+   "curiosity": "'Ir por lana y salir trasquilado' = ir buscar lã e sair tosquiado: sair perdendo."
+  },
+  "tf36-04": {
+   "word": "el cuero",
+   "translit": null,
+   "example": "Mis botas son de cuero negro.",
+   "examplePt": "Minhas botas são de couro preto.",
+   "pron": "KUE-ro — 'ue' é um ditongo; o 'r' é rápido",
+   "curiosity": "Para couro se usa 'cuero'; para a pele do corpo, 'piel'."
+  },
+  "tf36-05": {
+   "word": "el lino",
+   "translit": null,
+   "example": "El mantel de lino es elegante.",
+   "examplePt": "A toalha de mesa de linho é elegante.",
+   "pron": "LI-no — igual ao português",
+   "curiosity": "O linho é um dos tecidos mais antigos da humanidade."
+  },
+  "tf36-06": {
+   "word": "el terciopelo",
+   "translit": null,
+   "example": "El sofá de terciopelo es suave.",
+   "examplePt": "O sofá de veludo é macio.",
+   "pron": "ter-sio-pe-LO — o 'c' antes de 'i' soa 's'",
+   "curiosity": "'Terciopelo' quer dizer literalmente 'terceiro pelo': tercio + pelo."
+  },
+  "tf36-07": {
+   "word": "el caucho",
+   "translit": null,
+   "example": "Las llantas están hechas de caucho.",
+   "examplePt": "Os pneus são feitos de borracha.",
+   "pron": "KAU-cho — o 'ch' soa 'tch', como em 'tchau'",
+   "curiosity": "A palavra 'caucho' vem do quéchua, língua indígena dos Andes."
+  },
+  "tf36-08": {
+   "word": "el vidrio",
+   "translit": null,
+   "example": "El vidrio se rompió con la pelota.",
+   "examplePt": "O vidro quebrou com a bola.",
+   "pron": "BI-drio — o 'v' soa 'b'",
+   "curiosity": "O vidro é feito principalmente de areia derretida."
+  },
+  "tf36-09": {
+   "word": "la cerámica",
+   "translit": null,
+   "example": "La cerámica se cuece en un horno.",
+   "examplePt": "A cerâmica é cozida num forno.",
+   "pron": "se-RA-mi-ka — força no 'rá'; o 'c' final soa 'k'",
+   "curiosity": "'Cerámica' vem do grego 'keramos', que significa argila."
+  },
+  "tf36-10": {
+   "word": "el acero",
+   "translit": null,
+   "example": "Los rascacielos tienen estructura de acero.",
+   "examplePt": "Os arranha-céus têm estrutura de aço.",
+   "pron": "a-SE-ro — o 'c' antes de 'e' soa 's'",
+   "curiosity": "O aço é uma liga de ferro com um pouco de carbono."
+  },
+  "tf37-01": {
+   "word": "la sabana",
+   "translit": null,
+   "example": "Los leones cazan en la sabana.",
+   "examplePt": "Os leões caçam na savana.",
+   "pron": "sa-BA-na — o 'b' é suave",
+   "curiosity": "Cuidado: 'sábana' (lençol) e 'sabana' (savana) são palavras diferentes."
+  },
+  "tf37-02": {
+   "word": "la tundra",
+   "translit": null,
+   "example": "En la tundra casi no crecen árboles.",
+   "examplePt": "Na tundra quase não crescem árvores.",
+   "pron": "TUN-dra — o 'u' como em 'lua'",
+   "curiosity": "O solo congelado da tundra se chama permafrost."
+  },
+  "tf37-03": {
+   "word": "el manglar",
+   "translit": null,
+   "example": "Los cangrejos viven en el manglar.",
+   "examplePt": "Os caranguejos vivem no manguezal.",
+   "pron": "man-GLAR — o 'g' soa como em 'gato'",
+   "curiosity": "As raízes dos manguezais protegem a costa de ondas fortes."
+  },
+  "tf37-04": {
+   "word": "la pradera",
+   "translit": null,
+   "example": "Los bisontes pastan en la pradera.",
+   "examplePt": "Os bisões pastam na pradaria.",
+   "pron": "pra-DE-ra — o 'd' é suave",
+   "curiosity": "Na Argentina, o Pampa é uma pradera imensa e muito fértil."
+  },
+  "tf37-05": {
+   "word": "el oasis",
+   "translit": null,
+   "example": "Los viajeros descansan en el oasis.",
+   "examplePt": "Os viajantes descansam no oásis.",
+   "pron": "o-A-sis — as duas vogais iniciais são separadas",
+   "curiosity": "Em espanhol o plural não muda: 'los oasis'."
+  },
+  "tf37-06": {
+   "word": "la selva tropical",
+   "translit": null,
+   "example": "La selva tropical tiene miles de especies.",
+   "examplePt": "A floresta tropical tem milhares de espécies.",
+   "pron": "SEL-ba tro-pi-KAL — o 'v' soa 'b'",
+   "curiosity": "'Selva' é floresta densa e úmida; 'bosque' é uma floresta mais aberta."
+  },
+  "tf37-07": {
+   "word": "el arrecife de coral",
+   "translit": null,
+   "example": "El arrecife de coral está lleno de vida.",
+   "examplePt": "O recife de coral está cheio de vida.",
+   "pron": "a-rre-SI-fe de ko-RAL — o 'rr' vibra",
+   "curiosity": "'Arrecife' vem do árabe, e o nome da cidade de Recife vem da mesma origem."
+  },
+  "tf37-08": {
+   "word": "la laguna",
+   "translit": null,
+   "example": "Nadamos en la laguna azul.",
+   "examplePt": "Nadamos na lagoa azul.",
+   "pron": "la-GU-na — o 'gu' soa como em 'gula'",
+   "curiosity": "A Laguna Colorada, na Bolívia, tem água avermelhada e muitos flamingos."
+  },
+  "tf37-09": {
+   "word": "el nido",
+   "translit": null,
+   "example": "El pájaro construyó un nido pequeño.",
+   "examplePt": "O pássaro construiu um ninho pequeno.",
+   "pron": "NI-do — o 'd' é suave",
+   "curiosity": "O 'hornero', ave que faz o ninho de barro, é a ave nacional da Argentina."
+  },
+  "tf37-10": {
+   "word": "la madriguera",
+   "translit": null,
+   "example": "El conejo duerme en su madriguera.",
+   "examplePt": "O coelho dorme na sua toca.",
+   "pron": "ma-dri-GE-ra — o 'gue' soa como em 'guerra'",
+   "curiosity": "'Madriguera' também é figurado: 'madriguera de ladrones' = esconderijo de ladrões."
+  },
+  "tf38-01": {
+   "word": "el microscopio",
+   "translit": null,
+   "example": "Veo células con el microscopio.",
+   "examplePt": "Vejo células com o microscópio.",
+   "pron": "mi-kros-KO-pio — força no 'có'",
+   "curiosity": "Do grego: 'mikros' (pequeno) + 'skopein' (observar)."
+  },
+  "tf38-02": {
+   "word": "el tubo de ensayo",
+   "translit": null,
+   "example": "Mezclé el líquido en el tubo de ensayo.",
+   "examplePt": "Misturei o líquido no tubo de ensaio.",
+   "pron": "TU-bo de en-SA-yo — o 'y' soa como 'i'",
+   "curiosity": "'Ensayo' também quer dizer ensaio de teatro e texto de opinião."
+  },
+  "tf38-03": {
+   "word": "el embudo",
+   "translit": null,
+   "example": "Usa un embudo para pasar el agua.",
+   "examplePt": "Use um funil para passar a água.",
+   "pron": "em-BU-do — o 'b' é suave",
+   "curiosity": "'Ley del embudo' (lei do funil) é uma regra injusta, que só favorece um lado."
+  },
+  "tf38-04": {
+   "word": "el átomo",
+   "translit": null,
+   "example": "Todo está hecho de átomos diminutos.",
+   "examplePt": "Tudo é feito de átomos minúsculos.",
+   "pron": "A-to-mo — acento na primeira sílaba, por isso leva til",
+   "curiosity": "Do grego 'atomos': aquilo que não se pode cortar."
+  },
+  "tf38-05": {
+   "word": "la célula",
+   "translit": null,
+   "example": "¿Cuántas células tiene el cuerpo humano?",
+   "examplePt": "Quantas células o corpo humano tem?",
+   "pron": "SE-lu-la — acento na primeira sílaba",
+   "curiosity": "O termo 'célula' veio de Robert Hooke, que viu 'celdas' na cortiça em 1665."
+  },
+  "tf38-06": {
+   "word": "la brújula",
+   "translit": null,
+   "example": "La brújula siempre señala al norte.",
+   "examplePt": "A bússola sempre aponta para o norte.",
+   "pron": "BRU-hu-la — o 'j' soa como 'h' aspirado",
+   "curiosity": "A bússola foi inventada na China, séculos antes de chegar à Europa."
+  },
+  "tf38-07": {
+   "word": "la lupa",
+   "translit": null,
+   "example": "Con la lupa veo cada detalle.",
+   "examplePt": "Com a lupa vejo cada detalhe.",
+   "pron": "LU-pa — igual ao português",
+   "curiosity": "'Lupa' vem do francês 'loupe'."
+  },
+  "tf38-08": {
+   "word": "la pipeta",
+   "translit": null,
+   "example": "Pon una gota con la pipeta.",
+   "examplePt": "Ponha uma gota com a pipeta.",
+   "pron": "pi-PE-ta — força no 'pe'",
+   "curiosity": "Em química, a pipeta mede volumes pequenos com muita precisão."
+  },
+  "tf38-09": {
+   "word": "la pila",
+   "translit": null,
+   "example": "La linterna necesita una pila nueva.",
+   "examplePt": "A lanterna precisa de uma pilha nova.",
+   "pron": "PI-la — igual ao português",
+   "curiosity": "A primeira pilha, de Volta (1800), era uma 'pila' de discos metálicos empilhados."
+  },
+  "tf38-10": {
+   "word": "el prisma",
+   "translit": null,
+   "example": "El prisma separa la luz en colores.",
+   "examplePt": "O prisma separa a luz em cores.",
+   "pron": "PRIS-ma — o 's' soa 's' mesmo, nunca 'z'",
+   "curiosity": "Newton usou prismas para mostrar que a luz branca contém todas as cores."
+  },
+  "tf39-01": {
+   "word": "el generador",
+   "translit": null,
+   "example": "El generador funciona durante el apagón.",
+   "examplePt": "O gerador funciona durante o apagão.",
+   "pron": "he-ne-ra-DOR — o 'g' soa como 'h' aspirado",
+   "curiosity": "'Apagón' é a falta de luz e vem de 'apagar'."
+  },
+  "tf39-02": {
+   "word": "la turbina eólica",
+   "translit": null,
+   "example": "La turbina eólica gira con el viento.",
+   "examplePt": "A turbina eólica gira com o vento.",
+   "pron": "tur-BI-na e-O-li-ka — o 'b' é suave",
+   "curiosity": "'Eólica' vem de Éolo, deus grego dos ventos."
+  },
+  "tf39-03": {
+   "word": "la central eléctrica",
+   "translit": null,
+   "example": "La central eléctrica abastece a toda la ciudad.",
+   "examplePt": "A usina elétrica abastece a cidade inteira.",
+   "pron": "sen-TRAL e-LEK-tri-ka — o 'c' de 'central' soa 's'",
+   "curiosity": "Em espanhol, 'central' é feminino quando é uma usina: 'la central'."
+  },
+  "tf39-04": {
+   "word": "la leña",
+   "translit": null,
+   "example": "Mi tío corta leña para la chimenea.",
+   "examplePt": "Meu tio corta lenha para a lareira.",
+   "pron": "LE-nha — o 'ñ' soa como 'nh'",
+   "curiosity": "'Echar leña al fuego' = jogar lenha na fogueira, igual ao português."
+  },
+  "tf39-05": {
+   "word": "el gas",
+   "translit": null,
+   "example": "Cocinamos con gas natural.",
+   "examplePt": "Cozinhamos com gás natural.",
+   "pron": "GAS — o 's' final soa 's'",
+   "curiosity": "A palavra 'gas' foi criada pelo químico Van Helmont, a partir do grego 'caos'."
+  },
+  "tf39-06": {
+   "word": "el cable",
+   "translit": null,
+   "example": "No toques ese cable pelado.",
+   "examplePt": "Não toque nesse fio descascado.",
+   "pron": "KA-ble — o 'b' é suave",
+   "curiosity": "'Cable' é também o cabo de TV e o telegrama antigo, o 'cablegrama'."
+  },
+  "tf39-07": {
+   "word": "el enchufe",
+   "translit": null,
+   "example": "¿Dónde está el enchufe más cercano?",
+   "examplePt": "Onde fica a tomada mais próxima?",
+   "pron": "en-CHU-fe — o 'ch' soa 'tch'",
+   "curiosity": "Na Espanha, 'tener enchufe' quer dizer ter contatos influentes."
+  },
+  "tf39-08": {
+   "word": "el interruptor",
+   "translit": null,
+   "example": "Apaga la luz con el interruptor.",
+   "examplePt": "Apague a luz com o interruptor.",
+   "pron": "in-te-rrup-TOR — o 'rr' vibra",
+   "curiosity": "Vem de 'interrumpir', porque corta a passagem da corrente."
+  },
+  "tf39-09": {
+   "word": "el transformador",
+   "translit": null,
+   "example": "El transformador baja el voltaje de la red.",
+   "examplePt": "O transformador reduz a voltagem da rede.",
+   "pron": "trans-for-ma-DOR — força no 'dor'",
+   "curiosity": "Os transformadores só funcionam com corrente alternada."
+  },
+  "tf39-10": {
+   "word": "la presa",
+   "translit": null,
+   "example": "La presa guarda agua para la ciudad.",
+   "examplePt": "A barragem guarda água para a cidade.",
+   "pron": "PRE-sa — o 's' soa 's' mesmo",
+   "curiosity": "'Presa' também é o animal caçado: duas palavras iguais com sentidos diferentes."
+  },
+  "tf40-01": {
+   "word": "el bambú",
+   "translit": null,
+   "example": "El panda come bambú todo el día.",
+   "examplePt": "O panda come bambu o dia todo.",
+   "pron": "bam-BU — força no 'bú'",
+   "curiosity": "O bambu é uma gramínea, não uma árvore, e cresce muito rápido."
+  },
+  "tf40-02": {
+   "word": "el helecho",
+   "translit": null,
+   "example": "El helecho crece en lugares húmedos.",
+   "examplePt": "A samambaia cresce em lugares úmidos.",
+   "pron": "e-LE-cho — o 'h' é mudo; o 'ch' soa 'tch'",
+   "curiosity": "As samambaias se reproduzem por esporos, não por sementes."
+  },
+  "tf40-03": {
+   "word": "el musgo",
+   "translit": null,
+   "example": "El musgo cubre las piedras mojadas.",
+   "examplePt": "O musgo cobre as pedras molhadas.",
+   "pron": "MUS-go — o 's' soa 's' e o 'g' como em 'gato'",
+   "curiosity": "'Piedra que rueda no cría musgo' é um provérbio sobre quem não se fixa."
+  },
+  "tf40-04": {
+   "word": "la orquídea",
+   "translit": null,
+   "example": "¿La orquídea necesita poca agua?",
+   "examplePt": "A orquídea precisa de pouca água?",
+   "pron": "or-KI-de-a — acento na antepenúltima sílaba, com til",
+   "curiosity": "A baunilha vem de uma orquídea."
+  },
+  "tf40-05": {
+   "word": "el girasol",
+   "translit": null,
+   "example": "El girasol siempre mira al sol.",
+   "examplePt": "O girassol sempre olha para o sol.",
+   "pron": "hi-ra-SOL — o 'g' soa como 'h' aspirado",
+   "curiosity": "O nome é literalmente 'gira-sol': a flor acompanha o movimento do sol."
+  },
+  "tf40-06": {
+   "word": "la palmera",
+   "translit": null,
+   "example": "Una palmera da sombra en la playa.",
+   "examplePt": "Uma palmeira dá sombra na praia.",
+   "pron": "pal-ME-ra — força no 'me'",
+   "curiosity": "'Palmera' é a árvore; 'palma' é a folha dela e também a palma da mão."
+  },
+  "tf40-07": {
+   "word": "el pétalo",
+   "translit": null,
+   "example": "Cayó un pétalo rojo de la rosa.",
+   "examplePt": "Caiu uma pétala vermelha da rosa.",
+   "pron": "PE-ta-lo — acento na primeira sílaba, por isso leva til",
+   "curiosity": "'Deshojar la margarita' é tirar pétalas no jogo do 'bem-me-quer, mal-me-quer'."
+  },
+  "tf40-08": {
+   "word": "la espina",
+   "translit": null,
+   "example": "Me pinché con una espina.",
+   "examplePt": "Eu me piquei com um espinho.",
+   "pron": "es-PI-na — o 'e' inicial é bem pronunciado",
+   "curiosity": "'Espina' também é a espinha de peixe e a coluna: 'espina dorsal'."
+  },
+  "tf40-09": {
+   "word": "la piña de pino",
+   "translit": null,
+   "example": "La piña de pino cayó al suelo.",
+   "examplePt": "A pinha do pinheiro caiu no chão.",
+   "pron": "PI-nha de PI-no — o 'ñ' soa como 'nh'",
+   "curiosity": "'Piña' sozinha é também o abacaxi, fruta que lembra uma pinha."
+  },
+  "tf40-10": {
+   "word": "el trébol",
+   "translit": null,
+   "example": "Encontré un trébol de cuatro hojas.",
+   "examplePt": "Encontrei um trevo de quatro folhas.",
+   "pron": "TRE-bol — acento na primeira sílaba, por isso leva til",
+   "curiosity": "O trevo de quatro folhas é símbolo de sorte em muitas culturas."
+  },
+  "tf41-01": {
+   "word": "el bazo",
+   "translit": null,
+   "example": "El bazo filtra la sangre vieja.",
+   "examplePt": "O baço filtra o sangue velho.",
+   "pron": "BA-so — o 'z' soa 's'",
+   "curiosity": "Dá para viver sem o baço, mas o corpo fica mais exposto a infecções."
+  },
+  "tf41-02": {
+   "word": "el hígado",
+   "translit": null,
+   "example": "El hígado ayuda a limpiar la sangre.",
+   "examplePt": "O fígado ajuda a limpar o sangue.",
+   "pron": "I-ga-do — o 'h' é mudo",
+   "curiosity": "'Hígado' vem do latim 'iecur ficatum': fígado de animal engordado com figos."
+  },
+  "tf41-03": {
+   "word": "el riñón",
+   "translit": null,
+   "example": "Cada persona tiene dos riñones.",
+   "examplePt": "Cada pessoa tem dois rins.",
+   "pron": "rri-NHON — o 'rr' inicial vibra e o 'ñ' soa 'nh'",
+   "curiosity": "Dá para viver com um só rim."
+  },
+  "tf41-04": {
+   "word": "el estómago",
+   "translit": null,
+   "example": "Me duele el estómago después de comer.",
+   "examplePt": "Meu estômago dói depois de comer.",
+   "pron": "es-TO-ma-go — acento na antepenúltima, com til",
+   "curiosity": "'Tener estómago' quer dizer aguentar coisas difíceis."
+  },
+  "tf41-05": {
+   "word": "el páncreas",
+   "translit": null,
+   "example": "El páncreas produce insulina.",
+   "examplePt": "O pâncreas produz insulina.",
+   "pron": "PAN-kre-as — acento na primeira sílaba, com til",
+   "curiosity": "Do grego: 'pan' (tudo) + 'kreas' (carne)."
+  },
+  "tf41-06": {
+   "word": "el intestino",
+   "translit": null,
+   "example": "El intestino delgado absorbe los nutrientes.",
+   "examplePt": "O intestino delgado absorve os nutrientes.",
+   "pron": "in-tes-TI-no — força no 'ti'",
+   "curiosity": "O intestino delgado mede cerca de seis metros."
+  },
+  "tf41-07": {
+   "word": "la columna",
+   "translit": null,
+   "example": "Siéntate derecho para cuidar tu columna.",
+   "examplePt": "Sente reto para cuidar da sua coluna.",
+   "pron": "ko-LUM-na — o 'c' soa 'k'",
+   "curiosity": "A coluna humana tem 33 vértebras, algumas delas fundidas."
+  },
+  "tf41-08": {
+   "word": "la costilla",
+   "translit": null,
+   "example": "Me golpeé una costilla jugando.",
+   "examplePt": "Bati uma costela brincando.",
+   "pron": "kos-TI-ya — o 'll' soa como 'i'",
+   "curiosity": "Os humanos têm 12 pares de costelas."
+  },
+  "tf41-09": {
+   "word": "la tráquea",
+   "translit": null,
+   "example": "El aire baja por la tráquea.",
+   "examplePt": "O ar desce pela traqueia.",
+   "pron": "TRA-ke-a — acento na primeira sílaba, com til",
+   "curiosity": "A traqueia tem anéis de cartilagem que a mantêm aberta."
+  },
+  "tf41-10": {
+   "word": "la vejiga",
+   "translit": null,
+   "example": "¿Dónde queda la vejiga?",
+   "examplePt": "Onde fica a bexiga?",
+   "pron": "be-HI-ga — o 'v' soa 'b' e o 'j' soa 'h'",
+   "curiosity": "Cuidado: balão de festa é 'globo'; 'vejiga' é só o órgão."
+  },
+  "tf42-01": {
+   "word": "la vena",
+   "translit": null,
+   "example": "La enfermera encontró la vena enseguida.",
+   "examplePt": "A enfermeira achou a veia logo.",
+   "pron": "BE-na — o 'v' soa 'b'",
+   "curiosity": "As veias levam o sangue de volta ao coração; as artérias o levam do coração."
+  },
+  "tf42-02": {
+   "word": "el nervio",
+   "translit": null,
+   "example": "Un nervio pellizcado duele mucho.",
+   "examplePt": "Um nervo comprimido dói muito.",
+   "pron": "NER-bio — o 'v' soa 'b'",
+   "curiosity": "'Ataque de nervios' é uma crise de nervos, como em um grande susto."
+  },
+  "tf42-03": {
+   "word": "el tendón",
+   "translit": null,
+   "example": "El tendón une el músculo al hueso.",
+   "examplePt": "O tendão une o músculo ao osso.",
+   "pron": "ten-DON — força no 'dón'",
+   "curiosity": "O tendão de Aquiles é o maior tendão do corpo humano."
+  },
+  "tf42-04": {
+   "word": "la retina",
+   "translit": null,
+   "example": "La retina capta la luz del ojo.",
+   "examplePt": "A retina capta a luz no olho.",
+   "pron": "rre-TI-na — o 'rr' inicial vibra",
+   "curiosity": "'Retina' vem do latim 'rete', que significa rede."
+  },
+  "tf42-05": {
+   "word": "la pupila",
+   "translit": null,
+   "example": "¿Por qué se achica la pupila con luz?",
+   "examplePt": "Por que a pupila diminui com luz?",
+   "pron": "pu-PI-la — força no 'pi'",
+   "curiosity": "'Pupila' também é a aluna: em latim, 'pupilla' era menininha."
+  },
+  "tf42-06": {
+   "word": "el tímpano",
+   "translit": null,
+   "example": "El tímpano vibra con el sonido.",
+   "examplePt": "O tímpano vibra com o som.",
+   "pron": "TIM-pa-no — acento na primeira sílaba, com til",
+   "curiosity": "'Tímpano' vem do grego e também designa um tipo de tambor."
+  },
+  "tf42-07": {
+   "word": "el cartílago",
+   "translit": null,
+   "example": "La nariz tiene mucho cartílago.",
+   "examplePt": "O nariz tem muita cartilagem.",
+   "pron": "kar-TI-la-go — força no 'ti'",
+   "curiosity": "As orelhas e o nariz são feitos em boa parte de cartilagem."
+  },
+  "tf42-08": {
+   "word": "el esófago",
+   "translit": null,
+   "example": "La comida baja por el esófago.",
+   "examplePt": "A comida desce pelo esôfago.",
+   "pron": "e-SO-fa-go — força no 'só', com til",
+   "curiosity": "O esôfago mede cerca de 25 cm entre a garganta e o estômago."
+  },
+  "tf42-09": {
+   "word": "la médula",
+   "translit": null,
+   "example": "La médula ósea fabrica glóbulos rojos.",
+   "examplePt": "A medula óssea fabrica glóbulos vermelhos.",
+   "pron": "ME-du-la — acento na primeira sílaba, com til",
+   "curiosity": "'La médula del asunto' = o miolo da questão, o ponto central."
+  },
+  "tf42-10": {
+   "word": "la glándula",
+   "translit": null,
+   "example": "Las glándulas sudoríparas producen sudor.",
+   "examplePt": "As glândulas sudoríparas produzem suor.",
+   "pron": "GLAN-du-la — acento na primeira sílaba, com til",
+   "curiosity": "Produzimos cerca de um litro de saliva por dia."
+  },
+  "tf43-01": {
+   "word": "la gasa",
+   "translit": null,
+   "example": "¿Tienes una gasa para la herida?",
+   "examplePt": "Você tem uma gaze para o ferimento?",
+   "pron": "GA-sa — o 's' soa 's' mesmo",
+   "curiosity": "'Gasa' é também um tecido leve e transparente."
+  },
+  "tf43-02": {
+   "word": "la jeringa",
+   "translit": null,
+   "example": "La jeringa tiene una aguja fina.",
+   "examplePt": "A seringa tem uma agulha fina.",
+   "pron": "he-RIN-ga — o 'j' soa como 'h' aspirado",
+   "curiosity": "'Jeringa' vem do grego 'syrinx', que significa flauta ou tubo."
+  },
+  "tf43-03": {
+   "word": "la férula",
+   "translit": null,
+   "example": "La férula inmoviliza el dedo roto.",
+   "examplePt": "A tala imobiliza o dedo quebrado.",
+   "pron": "FE-ru-la — acento na primeira sílaba, com til",
+   "curiosity": "'Estar bajo la férula de alguien' = estar sob o domínio de alguém."
+  },
+  "tf43-04": {
+   "word": "el yeso",
+   "translit": null,
+   "example": "Llevo el brazo en yeso.",
+   "examplePt": "Estou com o braço engessado.",
+   "pron": "YE-so — o 'y' soa como 'dj' suave",
+   "curiosity": "O yeso também é usado em paredes e esculturas."
+  },
+  "tf43-05": {
+   "word": "la muleta",
+   "translit": null,
+   "example": "Camino con muletas por el pie roto.",
+   "examplePt": "Ando de muletas por causa do pé quebrado.",
+   "pron": "mu-LE-ta — força no 'le'",
+   "curiosity": "'Muletilla' é uma palavra repetida por hábito, como 'o sea'."
+  },
+  "tf43-06": {
+   "word": "la camilla",
+   "translit": null,
+   "example": "Llevaron al herido en una camilla.",
+   "examplePt": "Levaram o ferido numa maca.",
+   "pron": "ka-MI-ya — o 'll' soa como 'i'",
+   "curiosity": "'Mesa camilla' é uma mesa redonda coberta por toalha, comum na Espanha."
+  },
+  "tf43-07": {
+   "word": "la radiografía",
+   "translit": null,
+   "example": "La radiografía muestra un hueso roto.",
+   "examplePt": "O raio-x mostra um osso quebrado.",
+   "pron": "rra-dio-gra-FI-a — o 'rr' inicial vibra",
+   "curiosity": "Os raios X foram descobertos em 1895 por Röntgen; o 'X' é de 'desconhecido'."
+  },
+  "tf43-08": {
+   "word": "el suero",
+   "translit": null,
+   "example": "El suero hidrata al paciente.",
+   "examplePt": "O soro hidrata o paciente.",
+   "pron": "SUE-ro — 'ue' é um ditongo",
+   "curiosity": "'Suero' é também o soro do leite que sobra ao fazer queijo."
+  },
+  "tf43-09": {
+   "word": "la silla de ruedas",
+   "translit": null,
+   "example": "Ella usa una silla de ruedas.",
+   "examplePt": "Ela usa uma cadeira de rodas.",
+   "pron": "SI-ya de RRUE-das — o 'rr' vibra",
+   "curiosity": "'Silla' é cadeira e 'sillón' é poltrona."
+  },
+  "tf43-10": {
+   "word": "la pomada",
+   "translit": null,
+   "example": "La pomada alivia la picadura.",
+   "examplePt": "A pomada alivia a picada.",
+   "pron": "po-MA-da — força no 'ma'",
+   "curiosity": "'Pomada' vem do italiano 'pomata', de 'pomum', maçã, usada antigamente na receita."
+  },
+  "tf44-01": {
+   "word": "el escalofrío",
+   "translit": null,
+   "example": "Un escalofrío me recorrió la espalda.",
+   "examplePt": "Um calafrio percorreu minhas costas.",
+   "pron": "es-ka-lo-FRI-o — o 'c' soa 'k'",
+   "curiosity": "'Escalofrío' vem de 'calofrío', que junta 'calor' e 'frío'."
+  },
+  "tf44-02": {
+   "word": "el estornudo",
+   "translit": null,
+   "example": "¡Un estornudo enorme sacudió la clase!",
+   "examplePt": "Um espirro enorme sacudiu a sala!",
+   "pron": "es-tor-NU-do — o 'u' como em 'lua'",
+   "curiosity": "Quando alguém espirra, diz-se '¡Salud!'."
+  },
+  "tf44-03": {
+   "word": "el hipo",
+   "translit": null,
+   "example": "¿Tienes hipo desde el desayuno?",
+   "examplePt": "Você está com soluço desde o café?",
+   "pron": "I-po — o 'h' é mudo",
+   "curiosity": "O soluço é um espasmo do diafragma."
+  },
+  "tf44-04": {
+   "word": "el bostezo",
+   "translit": null,
+   "example": "El bostezo se contagia fácilmente.",
+   "examplePt": "O bocejo pega com facilidade.",
+   "pron": "bos-TE-so — o 'z' soa 's'",
+   "curiosity": "Bocejar é contagioso: só de ver alguém bocejar, dá vontade."
+  },
+  "tf44-05": {
+   "word": "el calambre",
+   "translit": null,
+   "example": "Me dio un calambre en la pierna.",
+   "examplePt": "Deu uma cãibra na minha perna.",
+   "pron": "ka-LAM-bre — o 'b' é suave",
+   "curiosity": "Em vários países, 'calambre' também é um choque elétrico leve."
+  },
+  "tf44-06": {
+   "word": "la ampolla",
+   "translit": null,
+   "example": "Me salió una ampolla en el talón.",
+   "examplePt": "Surgiu uma bolha no meu calcanhar.",
+   "pron": "am-PO-ya — o 'll' soa como 'i'",
+   "curiosity": "'Ampolla' vem do latim 'ampulla', um frasco pequeno."
+  },
+  "tf44-07": {
+   "word": "el moretón",
+   "translit": null,
+   "example": "Tengo un moretón en la rodilla.",
+   "examplePt": "Tenho um hematoma no joelho.",
+   "pron": "mo-re-TON — força no 'tón'",
+   "curiosity": "Em alguns países, como a Espanha, o roxo também se chama 'cardenal'."
+  },
+  "tf44-08": {
+   "word": "la cicatriz",
+   "translit": null,
+   "example": "La cicatriz de mi rodilla es vieja.",
+   "examplePt": "A cicatriz do meu joelho é antiga.",
+   "pron": "si-ka-TRIS — força no final; o 'z' soa 's'",
+   "curiosity": "O plural troca o 'z' por 'c': 'cicatrices'."
+  },
+  "tf44-09": {
+   "word": "la migraña",
+   "translit": null,
+   "example": "Una migraña me arruinó el día.",
+   "examplePt": "Uma enxaqueca estragou meu dia.",
+   "pron": "mi-GRA-nha — o 'ñ' soa 'nh'",
+   "curiosity": "'Migraña' vem do grego 'hemikrania': meia cabeça."
+  },
+  "tf44-10": {
+   "word": "la alergia",
+   "translit": null,
+   "example": "¿Tienes alergia al polen?",
+   "examplePt": "Você tem alergia a pólen?",
+   "pron": "a-LER-hia — o 'g' soa como 'h' aspirado",
+   "curiosity": "Do grego 'allos' (outro) + 'ergon' (reação)."
+  },
+  "tf45-01": {
+   "word": "el puente",
+   "translit": null,
+   "example": "El puente cruza el río ancho.",
+   "examplePt": "A ponte cruza o rio largo.",
+   "pron": "PUEN-te — 'ue' é um ditongo",
+   "curiosity": "Na Espanha, 'hacer puente' é emendar um feriado com o fim de semana."
+  },
+  "tf45-02": {
+   "word": "el túnel",
+   "translit": null,
+   "example": "El tren pasa por un túnel largo.",
+   "examplePt": "O trem passa por um túnel longo.",
+   "pron": "TU-nel — acento na primeira sílaba, com til",
+   "curiosity": "O Eurotúnel liga a França ao Reino Unido por baixo do Canal da Mancha."
+  },
+  "tf45-03": {
+   "word": "el semáforo",
+   "translit": null,
+   "example": "¿El semáforo ya está en verde?",
+   "examplePt": "O semáforo já está verde?",
+   "pron": "se-MA-fo-ro — acento na antepenúltima, com til",
+   "curiosity": "Do grego: 'sema' (sinal) + 'phoros' (que leva)."
+  },
+  "tf45-04": {
+   "word": "el viaducto",
+   "translit": null,
+   "example": "El viaducto pasa sobre toda la avenida.",
+   "examplePt": "O viaduto passa por cima da avenida toda.",
+   "pron": "bia-DUK-to — o 'v' soa 'b'",
+   "curiosity": "Vem do latim: 'via' (caminho) + 'ductus' (condução)."
+  },
+  "tf45-05": {
+   "word": "la acera",
+   "translit": null,
+   "example": "No corras por la acera.",
+   "examplePt": "Não corra pela calçada.",
+   "pron": "a-SE-ra — o 'c' antes de 'e' soa 's'",
+   "curiosity": "Calçada é 'acera', mas no México se diz 'banqueta' e no Peru 'vereda'."
+  },
+  "tf45-06": {
+   "word": "el alcantarillado",
+   "translit": null,
+   "example": "El alcantarillado evita inundaciones en la ciudad.",
+   "examplePt": "O esgoto evita alagamentos na cidade.",
+   "pron": "al-kan-ta-ri-YA-do — o 'll' soa como 'i'",
+   "curiosity": "Vem de 'alcantarilla', do árabe 'al-qantara', que significa ponte."
+  },
+  "tf45-07": {
+   "word": "el poste",
+   "translit": null,
+   "example": "Un gato subió al poste de luz.",
+   "examplePt": "Um gato subiu no poste de luz.",
+   "pron": "POS-te — o 's' soa 's' mesmo",
+   "curiosity": "'Poste' também é a trave do gol no futebol."
+  },
+  "tf45-08": {
+   "word": "la autopista",
+   "translit": null,
+   "example": "La autopista une las dos ciudades.",
+   "examplePt": "A rodovia une as duas cidades.",
+   "pron": "au-to-PIS-ta — 'au' é um ditongo",
+   "curiosity": "'Autopista' é via rápida; 'carretera' é qualquer estrada."
+  },
+  "tf45-09": {
+   "word": "la rotonda",
+   "translit": null,
+   "example": "Gira a la derecha en la rotonda.",
+   "examplePt": "Vire à direita na rotatória.",
+   "pron": "rro-TON-da — o 'rr' inicial vibra",
+   "curiosity": "Em outros países se diz 'glorieta' para a mesma rotatória."
+  },
+  "tf45-10": {
+   "word": "el sumidero",
+   "translit": null,
+   "example": "La lluvia cayó en el sumidero.",
+   "examplePt": "A chuva caiu no bueiro.",
+   "pron": "su-mi-DE-ro — força no 'de'",
+   "curiosity": "'Sumidero' vem de 'sumir': a água some ali dentro."
+  },
+  "tf46-01": {
+   "word": "el rascacielos",
+   "translit": null,
+   "example": "Este rascacielos tiene cien pisos.",
+   "examplePt": "Este arranha-céu tem cem andares.",
+   "pron": "rras-ka-SIE-los — o 'rr' inicial vibra",
+   "curiosity": "Significa literalmente 'raspa-céus', e o singular e o plural são iguais."
+  },
+  "tf46-02": {
+   "word": "el faro",
+   "translit": null,
+   "example": "¿Qué barco guía el faro esta noche?",
+   "examplePt": "Que barco o farol guia esta noite?",
+   "pron": "FA-ro — igual ao português",
+   "curiosity": "O Farol de Alexandria foi uma das sete maravilhas do mundo antigo."
+  },
+  "tf46-03": {
+   "word": "el castillo",
+   "translit": null,
+   "example": "El castillo tiene un foso profundo.",
+   "examplePt": "O castelo tem um fosso profundo.",
+   "pron": "kas-TI-yo — o 'll' soa como 'i'",
+   "curiosity": "A região de Castilla deve o nome aos muitos castelos que tinha."
+  },
+  "tf46-04": {
+   "word": "el molino",
+   "translit": null,
+   "example": "¿Viste el molino de viento girar?",
+   "examplePt": "Você viu o moinho de vento girar?",
+   "pron": "mo-LI-no — igual ao português",
+   "curiosity": "Dom Quixote lutou contra moinhos de vento, pensando que eram gigantes."
+  },
+  "tf46-05": {
+   "word": "el acueducto",
+   "translit": null,
+   "example": "El acueducto romano sigue en pie.",
+   "examplePt": "O aqueduto romano continua de pé.",
+   "pron": "a-kue-DUK-to — o 'cu' tem som de 'kue'",
+   "curiosity": "O aqueduto de Segóvia, na Espanha, foi feito pelos romanos."
+  },
+  "tf46-06": {
+   "word": "la fábrica",
+   "translit": null,
+   "example": "La fábrica produce mil juguetes al día.",
+   "examplePt": "A fábrica produz mil brinquedos por dia.",
+   "pron": "FA-bri-ka — acento na primeira sílaba, com til",
+   "curiosity": "Em espanhol 'fábrica' é esdrújula (FÁ-bri-ca), por isso leva til."
+  },
+  "tf46-07": {
+   "word": "la muralla",
+   "translit": null,
+   "example": "La muralla protegía toda la ciudad.",
+   "examplePt": "A muralha protegia a cidade toda.",
+   "pron": "mu-RA-ya — o 'll' soa como 'i'",
+   "curiosity": "A Grande Muralha chinesa se escreve 'la Gran Muralla'."
+  },
+  "tf46-08": {
+   "word": "el puerto",
+   "translit": null,
+   "example": "El puerto recibe barcos de todo el mundo.",
+   "examplePt": "O porto recebe barcos do mundo todo.",
+   "pron": "PUER-to — 'ue' é um ditongo",
+   "curiosity": "'Puerto Rico' significa literalmente 'porto rico'."
+  },
+  "tf46-09": {
+   "word": "la torre",
+   "translit": null,
+   "example": "La torre del reloj marca las doce.",
+   "examplePt": "A torre do relógio marca meio-dia.",
+   "pron": "TO-rre — o 'rr' vibra",
+   "curiosity": "'Torre' também é a peça do xadrez."
+  },
+  "tf46-10": {
+   "word": "el granero",
+   "translit": null,
+   "example": "El granero guarda el trigo del año.",
+   "examplePt": "O celeiro guarda o trigo do ano.",
+   "pron": "gra-NE-ro — o 'r' final é rápido",
+   "curiosity": "A Argentina já foi chamada de 'granero del mundo' por exportar muito grão."
+  },
+  "tf47-01": {
+   "word": "la pirámide",
+   "translit": null,
+   "example": "¿Quién construyó la pirámide más alta?",
+   "examplePt": "Quem construiu a pirâmide mais alta?",
+   "pron": "pi-RA-mi-de — acento na antepenúltima, com til",
+   "curiosity": "A Pirâmide do Sol, no México, fica em Teotihuacán."
+  },
+  "tf47-02": {
+   "word": "la momia",
+   "translit": null,
+   "example": "La momia estaba envuelta en vendas.",
+   "examplePt": "A múmia estava envolta em ataduras.",
+   "pron": "MO-mia — 'mia' é um ditongo só",
+   "curiosity": "No Egito antigo, mumificar um corpo levava cerca de 70 dias."
+  },
+  "tf47-03": {
+   "word": "la armadura",
+   "translit": null,
+   "example": "Los caballeros usaban una armadura pesada.",
+   "examplePt": "Os cavaleiros usavam uma armadura pesada.",
+   "pron": "ar-ma-DU-ra — força no 'du'",
+   "curiosity": "'Armadura' também é a estrutura de ferro de uma construção."
+  },
+  "tf47-04": {
+   "word": "el pergamino",
+   "translit": null,
+   "example": "El pergamino antiguo estaba escrito a mano.",
+   "examplePt": "O pergaminho antigo estava escrito à mão.",
+   "pron": "per-ga-MI-no — o 'g' soa como em 'gato'",
+   "curiosity": "O nome vem de Pérgamo, cidade antiga da atual Turquia."
+  },
+  "tf47-05": {
+   "word": "el trono",
+   "translit": null,
+   "example": "¿Quién se sentó en el trono del rey?",
+   "examplePt": "Quem sentou no trono do rei?",
+   "pron": "TRO-no — o 'r' depois de 't' é rápido",
+   "curiosity": "'Trono' vem do grego 'thronos', que significa assento."
+  },
+  "tf47-06": {
+   "word": "la corona",
+   "translit": null,
+   "example": "La corona brillaba con mil joyas.",
+   "examplePt": "A coroa brilhava com mil joias.",
+   "pron": "ko-RO-na — o 'c' soa 'k'",
+   "curiosity": "'Corona' também é a aura de luz do Sol, visível nos eclipses totais."
+  },
+  "tf47-07": {
+   "word": "el tesoro",
+   "translit": null,
+   "example": "Los piratas enterraron un tesoro.",
+   "examplePt": "Os piratas enterraram um tesouro.",
+   "pron": "te-SO-ro — o 's' soa 's' mesmo",
+   "curiosity": "'Mi tesoro' é um carinho: 'meu tesouro', 'meu bem'."
+  },
+  "tf47-08": {
+   "word": "el ánfora",
+   "translit": null,
+   "example": "Un ánfora llena de aceite apareció en el mar.",
+   "examplePt": "Uma ânfora cheia de azeite apareceu no mar.",
+   "pron": "AN-fo-ra — acento na primeira sílaba, com til",
+   "curiosity": "É feminina, mas se diz 'el ánfora' por começar com 'a' tônico."
+  },
+  "tf47-09": {
+   "word": "el carruaje",
+   "translit": null,
+   "example": "El carruaje atravesó el puente de piedra.",
+   "examplePt": "A carruagem atravessou a ponte de pedra.",
+   "pron": "ka-RRUA-he — o 'rr' vibra e o 'j' soa 'h'",
+   "curiosity": "A carruagem da Cinderela é uma 'carroza' feita de abóbora."
+  },
+  "tf47-10": {
+   "word": "la antorcha",
+   "translit": null,
+   "example": "Los exploradores llevaban una antorcha.",
+   "examplePt": "Os exploradores levavam uma tocha.",
+   "pron": "an-TOR-cha — o 'ch' soa 'tch'",
+   "curiosity": "A tocha olímpica é acesa em Olímpia, na Grécia."
+  },
+  "tf48-01": {
+   "word": "el director de orquesta",
+   "translit": null,
+   "example": "El director de orquesta levantó los brazos.",
+   "examplePt": "O maestro levantou os braços.",
+   "pron": "di-rek-TOR de or-KES-ta — o 'qu' soa 'k'",
+   "curiosity": "Em espanhol o regente também é 'maestro', mas 'maestro' é também professor."
+  },
+  "tf48-02": {
+   "word": "la partitura",
+   "translit": null,
+   "example": "La pianista lee la partitura con calma.",
+   "examplePt": "A pianista lê a partitura com calma.",
+   "pron": "par-ti-TU-ra — força no 'tu'",
+   "curiosity": "Vem do italiano 'partitura', de 'partire': dividir as vozes."
+  },
+  "tf48-03": {
+   "word": "el escenario",
+   "translit": null,
+   "example": "Los actores salieron al escenario.",
+   "examplePt": "Os atores subiram ao palco.",
+   "pron": "es-se-NA-rio — o 'c' antes de 'e' soa 's'",
+   "curiosity": "'El peor escenario' também é a pior situação possível."
+  },
+  "tf48-04": {
+   "word": "el público",
+   "translit": null,
+   "example": "El público aplaudió de pie.",
+   "examplePt": "A plateia aplaudiu de pé.",
+   "pron": "PU-bli-ko — acento na primeira sílaba, com til",
+   "curiosity": "'Público' é o conjunto de espectadores; 'platea' é a parte baixa da sala."
+  },
+  "tf48-05": {
+   "word": "el micrófono",
+   "translit": null,
+   "example": "Habla más cerca del micrófono.",
+   "examplePt": "Fale mais perto do microfone.",
+   "pron": "mi-KRO-fo-no — acento na antepenúltima, com til",
+   "curiosity": "Do grego: 'mikros' (pequeno) + 'phone' (voz)."
+  },
+  "tf48-06": {
+   "word": "el coro",
+   "translit": null,
+   "example": "El coro de la escuela canta hermoso.",
+   "examplePt": "O coro da escola canta lindamente.",
+   "pron": "KO-ro — o 'c' soa 'k'",
+   "curiosity": "'Coro' vem do grego 'khoros', uma dança em grupo."
+  },
+  "tf48-07": {
+   "word": "la ópera",
+   "translit": null,
+   "example": "La ópera dura casi tres horas.",
+   "examplePt": "A ópera dura quase três horas.",
+   "pron": "O-pe-ra — acento na primeira sílaba, com til",
+   "curiosity": "'Ópera' é o plural do latim 'opus': obras."
+  },
+  "tf48-08": {
+   "word": "la batuta",
+   "translit": null,
+   "example": "Con la batuta marca el ritmo.",
+   "examplePt": "Com a batuta ele marca o ritmo.",
+   "pron": "ba-TU-ta — força no 'tu'",
+   "curiosity": "'Llevar la batuta' = comandar, ser quem manda."
+  },
+  "tf48-09": {
+   "word": "el metrónomo",
+   "translit": null,
+   "example": "El metrónomo marca sesenta golpes por minuto.",
+   "examplePt": "O metrônomo marca sessenta batidas por minuto.",
+   "pron": "me-TRO-no-mo — acento na antepenúltima, com til",
+   "curiosity": "Do grego: 'metron' (medida) + 'nomos' (lei)."
+  },
+  "tf48-10": {
+   "word": "el camerino",
+   "translit": null,
+   "example": "La cantante espera en el camerino.",
+   "examplePt": "A cantora espera no camarim.",
+   "pron": "ka-me-RI-no — força no 'ri'",
+   "curiosity": "Vem do italiano 'camerino', um quarto pequeno."
+  },
+  "tf49-01": {
+   "word": "la esgrima",
+   "translit": null,
+   "example": "La esgrima usa espadas ligeras.",
+   "examplePt": "A esgrima usa espadas leves.",
+   "pron": "es-GRI-ma — o 'g' soa como em 'gato'",
+   "curiosity": "A esgrima é um dos poucos esportes presentes em todos os Jogos Olímpicos modernos."
+  },
+  "tf49-02": {
+   "word": "el remo",
+   "translit": null,
+   "example": "¿Practicas remo en el río?",
+   "examplePt": "Você pratica remo no rio?",
+   "pron": "RRE-mo — o 'r' inicial vibra",
+   "curiosity": "'Remo' é tanto o esporte quanto o remo usado no barco."
+  },
+  "tf49-03": {
+   "word": "el maratón",
+   "translit": null,
+   "example": "El maratón tiene cuarenta y dos kilómetros.",
+   "examplePt": "A maratona tem quarenta e dois quilômetros.",
+   "pron": "ma-ra-TON — força no 'tón'",
+   "curiosity": "A distância oficial é de 42,195 km e lembra a lenda do mensageiro de Maratona."
+  },
+  "tf49-04": {
+   "word": "el salto con pértiga",
+   "translit": null,
+   "example": "El salto con pértiga exige mucha fuerza.",
+   "examplePt": "O salto com vara exige muita força.",
+   "pron": "SAL-to kon PER-ti-ga — o 'g' soa como em 'gato'",
+   "curiosity": "Na Argentina e no Chile, a vara se chama 'garrocha'."
+  },
+  "tf49-05": {
+   "word": "el patinaje",
+   "translit": null,
+   "example": "El patinaje sobre hielo es elegante.",
+   "examplePt": "A patinação no gelo é elegante.",
+   "pron": "pa-ti-NA-he — o 'j' soa como 'h'",
+   "curiosity": "No patinaje artístico há um salto famoso chamado 'axel'."
+  },
+  "tf49-06": {
+   "word": "el surf",
+   "translit": null,
+   "example": "¿El surf necesita olas grandes?",
+   "examplePt": "O surfe precisa de ondas grandes?",
+   "pron": "SURF — igual ao inglês; o 'r' é suave",
+   "curiosity": "O surfe estreou nos Jogos Olímpicos de Tóquio 2020."
+  },
+  "tf49-07": {
+   "word": "el tiro con arco",
+   "translit": null,
+   "example": "El tiro con arco requiere puntería.",
+   "examplePt": "O tiro com arco exige pontaria.",
+   "pron": "TI-ro kon AR-ko — o 'c' soa 'k'",
+   "curiosity": "'Puntería' é pontaria, a habilidade de acertar o alvo."
+  },
+  "tf49-08": {
+   "word": "la gimnasia",
+   "translit": null,
+   "example": "La gimnasia exige equilibrio y fuerza.",
+   "examplePt": "A ginástica exige equilíbrio e força.",
+   "pron": "him-NA-sia — o 'g' soa como 'h'",
+   "curiosity": "Do grego 'gymnos' (nu): os atletas gregos treinavam sem roupa."
+  },
+  "tf49-09": {
+   "word": "el triatlón",
+   "translit": null,
+   "example": "El triatlón combina tres deportes.",
+   "examplePt": "O triatlo combina três esportes.",
+   "pron": "tria-TLON — o 'tl' vai junto",
+   "curiosity": "O triatlo é nadar, pedalar e correr, nessa ordem."
+  },
+  "tf49-10": {
+   "word": "el buceo",
+   "translit": null,
+   "example": "El buceo me encanta, ¿y a ti?",
+   "examplePt": "Eu adoro mergulho, e você?",
+   "pron": "bu-SE-o — o 'c' antes de 'e' soa 's'",
+   "curiosity": "'Buceo' é com cilindro; 'snorkel' fica na superfície."
+  },
+  "tf50-01": {
+   "word": "el trofeo",
+   "translit": null,
+   "example": "El equipo levantó el trofeo.",
+   "examplePt": "A equipe ergueu o troféu.",
+   "pron": "tro-FE-o — o 'eo' são duas sílabas",
+   "curiosity": "Vem do grego 'tropaion', um monumento de vitória."
+  },
+  "tf50-02": {
+   "word": "la medalla",
+   "translit": null,
+   "example": "¿Quién ganó la medalla de bronce?",
+   "examplePt": "Quem ganhou a medalha de bronze?",
+   "pron": "me-DA-ya — o 'll' soa como 'i'",
+   "curiosity": "Nos Jogos de 1896, o primeiro colocado recebia prata, não ouro."
+  },
+  "tf50-03": {
+   "word": "el silbato",
+   "translit": null,
+   "example": "Suena el silbato y empieza el partido.",
+   "examplePt": "O apito soa e a partida começa.",
+   "pron": "sil-BA-to — o 'b' é suave",
+   "curiosity": "Em vários países da América Latina também se diz 'pito' para apito."
+  },
+  "tf50-04": {
+   "word": "el cronómetro",
+   "translit": null,
+   "example": "El cronómetro marca nueve segundos.",
+   "examplePt": "O cronômetro marca nove segundos.",
+   "pron": "kro-NO-me-tro — acento na antepenúltima, com til",
+   "curiosity": "Do grego: 'chronos' (tempo) + 'metron' (medida)."
+  },
+  "tf50-05": {
+   "word": "el podio",
+   "translit": null,
+   "example": "Los tres atletas subieron al podio.",
+   "examplePt": "Os três atletas subiram ao pódio.",
+   "pron": "PO-dio — 'dio' é um ditongo só",
+   "curiosity": "O pódio tem três degraus, e o do meio é o mais alto."
+  },
+  "tf50-06": {
+   "word": "el marcador",
+   "translit": null,
+   "example": "El marcador dice tres a dos.",
+   "examplePt": "O placar diz três a dois.",
+   "pron": "mar-ka-DOR — o 'c' soa 'k'",
+   "curiosity": "'Marcador' também é a caneta marca-texto."
+  },
+  "tf50-07": {
+   "word": "el árbitro",
+   "translit": null,
+   "example": "¿Quién es el árbitro del partido?",
+   "examplePt": "Quem é o árbitro da partida?",
+   "pron": "AR-bi-tro — acento na primeira sílaba, com til",
+   "curiosity": "Vem do latim 'arbiter', o mesmo de 'arbitrar'."
+  },
+  "tf50-08": {
+   "word": "la hinchada",
+   "translit": null,
+   "example": "La hinchada cantó durante todo el partido.",
+   "examplePt": "A torcida cantou durante a partida toda.",
+   "pron": "in-CHA-da — o 'h' é mudo e o 'ch' soa 'tch'",
+   "curiosity": "'Hincha' é o torcedor e vem de 'hinchar': inchar de entusiasmo."
+  },
+  "tf50-09": {
+   "word": "el casco",
+   "translit": null,
+   "example": "El ciclista siempre usa casco.",
+   "examplePt": "O ciclista sempre usa capacete.",
+   "pron": "KAS-ko — o 'c' soa 'k'",
+   "curiosity": "'Casco' também é o casco do cavalo e o do barco."
+  },
+  "tf50-10": {
+   "word": "la raqueta",
+   "translit": null,
+   "example": "La raqueta nueva pesa muy poco.",
+   "examplePt": "A raquete nova pesa muito pouco.",
+   "pron": "rra-KE-ta — o 'rr' inicial vibra",
+   "curiosity": "'Raqueta' vem do árabe 'rahat', que significa palma da mão."
   }
  }
 }

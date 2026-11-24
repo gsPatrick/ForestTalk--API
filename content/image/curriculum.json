@@ -1,0 +1,2963 @@
+{
+ "game": "image",
+ "version": 1,
+ "chapterTitles": [
+  "Bichos, Comida & Casa",
+  "Mundo, Sabores & Objetos",
+  "Esporte, Lar & Tecnologia",
+  "Ciência, Viagem & Sabores",
+  "Floresta, Moda & Fantasia"
+ ],
+ "phases": [
+  {
+   "phase": 1,
+   "globalPhase": 201,
+   "chapter": 21,
+   "level": "A1",
+   "theme": "Animais da selva",
+   "concepts": [
+    {
+     "id": "im01-01",
+     "emoji": "🦁",
+     "pt": "leão"
+    },
+    {
+     "id": "im01-02",
+     "emoji": "🐯",
+     "pt": "tigre"
+    },
+    {
+     "id": "im01-03",
+     "emoji": "🐘",
+     "pt": "elefante"
+    },
+    {
+     "id": "im01-04",
+     "emoji": "🦒",
+     "pt": "girafa"
+    },
+    {
+     "id": "im01-05",
+     "emoji": "🐒",
+     "pt": "macaco"
+    },
+    {
+     "id": "im01-06",
+     "emoji": "🦓",
+     "pt": "zebra"
+    },
+    {
+     "id": "im01-07",
+     "emoji": "🦛",
+     "pt": "hipopótamo"
+    },
+    {
+     "id": "im01-08",
+     "emoji": "🦏",
+     "pt": "rinoceronte"
+    },
+    {
+     "id": "im01-09",
+     "emoji": "🐊",
+     "pt": "crocodilo"
+    },
+    {
+     "id": "im01-10",
+     "emoji": "🐻",
+     "pt": "urso"
+    }
+   ]
+  },
+  {
+   "phase": 2,
+   "globalPhase": 202,
+   "chapter": 21,
+   "level": "A1",
+   "theme": "Animais da fazenda",
+   "concepts": [
+    {
+     "id": "im02-01",
+     "emoji": "🐄",
+     "pt": "vaca"
+    },
+    {
+     "id": "im02-02",
+     "emoji": "🐖",
+     "pt": "porco"
+    },
+    {
+     "id": "im02-03",
+     "emoji": "🐑",
+     "pt": "ovelha"
+    },
+    {
+     "id": "im02-04",
+     "emoji": "🐐",
+     "pt": "cabra"
+    },
+    {
+     "id": "im02-05",
+     "emoji": "🐔",
+     "pt": "galinha"
+    },
+    {
+     "id": "im02-06",
+     "emoji": "🐓",
+     "pt": "galo"
+    },
+    {
+     "id": "im02-07",
+     "emoji": "🐎",
+     "pt": "cavalo"
+    },
+    {
+     "id": "im02-08",
+     "emoji": "🐂",
+     "pt": "boi"
+    },
+    {
+     "id": "im02-09",
+     "emoji": "🦃",
+     "pt": "peru"
+    },
+    {
+     "id": "im02-10",
+     "emoji": "🦆",
+     "pt": "pato"
+    }
+   ]
+  },
+  {
+   "phase": 3,
+   "globalPhase": 203,
+   "chapter": 21,
+   "level": "A1",
+   "theme": "Bichos de estimação",
+   "concepts": [
+    {
+     "id": "im03-01",
+     "emoji": "🐕",
+     "pt": "cachorro"
+    },
+    {
+     "id": "im03-02",
+     "emoji": "🐈",
+     "pt": "gato"
+    },
+    {
+     "id": "im03-03",
+     "emoji": "🐹",
+     "pt": "hamster"
+    },
+    {
+     "id": "im03-04",
+     "emoji": "🐇",
+     "pt": "coelho"
+    },
+    {
+     "id": "im03-05",
+     "emoji": "🐢",
+     "pt": "tartaruga"
+    },
+    {
+     "id": "im03-06",
+     "emoji": "🐟",
+     "pt": "peixe"
+    },
+    {
+     "id": "im03-07",
+     "emoji": "🐁",
+     "pt": "rato"
+    },
+    {
+     "id": "im03-08",
+     "emoji": "🦎",
+     "pt": "lagarto"
+    },
+    {
+     "id": "im03-09",
+     "emoji": "🐍",
+     "pt": "cobra"
+    },
+    {
+     "id": "im03-10",
+     "emoji": "🐸",
+     "pt": "sapo"
+    }
+   ]
+  },
+  {
+   "phase": 4,
+   "globalPhase": 204,
+   "chapter": 21,
+   "level": "A1",
+   "theme": "Frutas doces",
+   "concepts": [
+    {
+     "id": "im04-01",
+     "emoji": "🍎",
+     "pt": "maçã"
+    },
+    {
+     "id": "im04-02",
+     "emoji": "🍌",
+     "pt": "banana"
+    },
+    {
+     "id": "im04-03",
+     "emoji": "🍊",
+     "pt": "tangerina"
+    },
+    {
+     "id": "im04-04",
+     "emoji": "🍇",
+     "pt": "uva"
+    },
+    {
+     "id": "im04-05",
+     "emoji": "🍓",
+     "pt": "morango"
+    },
+    {
+     "id": "im04-06",
+     "emoji": "🍉",
+     "pt": "melancia"
+    },
+    {
+     "id": "im04-07",
+     "emoji": "🍍",
+     "pt": "abacaxi"
+    },
+    {
+     "id": "im04-08",
+     "emoji": "🍒",
+     "pt": "cereja"
+    },
+    {
+     "id": "im04-09",
+     "emoji": "🍑",
+     "pt": "pêssego"
+    },
+    {
+     "id": "im04-10",
+     "emoji": "🍐",
+     "pt": "pera"
+    }
+   ]
+  },
+  {
+   "phase": 5,
+   "globalPhase": 205,
+   "chapter": 21,
+   "level": "A1",
+   "theme": "Comidas do dia a dia",
+   "concepts": [
+    {
+     "id": "im05-01",
+     "emoji": "🍞",
+     "pt": "pão"
+    },
+    {
+     "id": "im05-02",
+     "emoji": "🧀",
+     "pt": "queijo"
+    },
+    {
+     "id": "im05-03",
+     "emoji": "🥚",
+     "pt": "ovo"
+    },
+    {
+     "id": "im05-04",
+     "emoji": "🍚",
+     "pt": "arroz"
+    },
+    {
+     "id": "im05-05",
+     "emoji": "🍝",
+     "pt": "macarrão"
+    },
+    {
+     "id": "im05-06",
+     "emoji": "🍕",
+     "pt": "pizza"
+    },
+    {
+     "id": "im05-07",
+     "emoji": "🍔",
+     "pt": "hambúrguer"
+    },
+    {
+     "id": "im05-08",
+     "emoji": "🍟",
+     "pt": "batata frita"
+    },
+    {
+     "id": "im05-09",
+     "emoji": "🥩",
+     "pt": "carne"
+    },
+    {
+     "id": "im05-10",
+     "emoji": "🍗",
+     "pt": "frango"
+    }
+   ]
+  },
+  {
+   "phase": 6,
+   "globalPhase": 206,
+   "chapter": 21,
+   "level": "A1",
+   "theme": "Cores",
+   "concepts": [
+    {
+     "id": "im06-01",
+     "emoji": "🔴",
+     "pt": "vermelho"
+    },
+    {
+     "id": "im06-02",
+     "emoji": "🟠",
+     "pt": "laranja"
+    },
+    {
+     "id": "im06-03",
+     "emoji": "🟡",
+     "pt": "amarelo"
+    },
+    {
+     "id": "im06-04",
+     "emoji": "🟢",
+     "pt": "verde"
+    },
+    {
+     "id": "im06-05",
+     "emoji": "🔵",
+     "pt": "azul"
+    },
+    {
+     "id": "im06-06",
+     "emoji": "🟣",
+     "pt": "roxo"
+    },
+    {
+     "id": "im06-07",
+     "emoji": "🟤",
+     "pt": "marrom"
+    },
+    {
+     "id": "im06-08",
+     "emoji": "⚫",
+     "pt": "preto"
+    },
+    {
+     "id": "im06-09",
+     "emoji": "⚪",
+     "pt": "branco"
+    },
+    {
+     "id": "im06-10",
+     "emoji": "🩷",
+     "pt": "rosa"
+    }
+   ]
+  },
+  {
+   "phase": 7,
+   "globalPhase": 207,
+   "chapter": 21,
+   "level": "A1",
+   "theme": "Partes do corpo",
+   "concepts": [
+    {
+     "id": "im07-01",
+     "emoji": "👁️",
+     "pt": "olho"
+    },
+    {
+     "id": "im07-02",
+     "emoji": "👃",
+     "pt": "nariz"
+    },
+    {
+     "id": "im07-03",
+     "emoji": "👄",
+     "pt": "boca"
+    },
+    {
+     "id": "im07-04",
+     "emoji": "👂",
+     "pt": "orelha"
+    },
+    {
+     "id": "im07-05",
+     "emoji": "✋",
+     "pt": "mão"
+    },
+    {
+     "id": "im07-06",
+     "emoji": "🦶",
+     "pt": "pé"
+    },
+    {
+     "id": "im07-07",
+     "emoji": "🦵",
+     "pt": "perna"
+    },
+    {
+     "id": "im07-08",
+     "emoji": "🦷",
+     "pt": "dente"
+    },
+    {
+     "id": "im07-09",
+     "emoji": "👅",
+     "pt": "língua"
+    },
+    {
+     "id": "im07-10",
+     "emoji": "🧠",
+     "pt": "cérebro"
+    }
+   ]
+  },
+  {
+   "phase": 8,
+   "globalPhase": 208,
+   "chapter": 21,
+   "level": "A1",
+   "theme": "Roupas",
+   "concepts": [
+    {
+     "id": "im08-01",
+     "emoji": "👕",
+     "pt": "camiseta"
+    },
+    {
+     "id": "im08-02",
+     "emoji": "👖",
+     "pt": "calça"
+    },
+    {
+     "id": "im08-03",
+     "emoji": "👗",
+     "pt": "vestido"
+    },
+    {
+     "id": "im08-04",
+     "emoji": "🧥",
+     "pt": "casaco"
+    },
+    {
+     "id": "im08-05",
+     "emoji": "🧦",
+     "pt": "meia"
+    },
+    {
+     "id": "im08-06",
+     "emoji": "👟",
+     "pt": "tênis"
+    },
+    {
+     "id": "im08-07",
+     "emoji": "👞",
+     "pt": "sapato"
+    },
+    {
+     "id": "im08-08",
+     "emoji": "🧢",
+     "pt": "boné"
+    },
+    {
+     "id": "im08-09",
+     "emoji": "🧣",
+     "pt": "cachecol"
+    },
+    {
+     "id": "im08-10",
+     "emoji": "🧤",
+     "pt": "luvas"
+    }
+   ]
+  },
+  {
+   "phase": 9,
+   "globalPhase": 209,
+   "chapter": 21,
+   "level": "A1",
+   "theme": "Coisas da casa",
+   "concepts": [
+    {
+     "id": "im09-01",
+     "emoji": "🛏️",
+     "pt": "cama"
+    },
+    {
+     "id": "im09-02",
+     "emoji": "🚪",
+     "pt": "porta"
+    },
+    {
+     "id": "im09-03",
+     "emoji": "🪟",
+     "pt": "janela"
+    },
+    {
+     "id": "im09-04",
+     "emoji": "🛋️",
+     "pt": "sofá"
+    },
+    {
+     "id": "im09-05",
+     "emoji": "🚿",
+     "pt": "chuveiro"
+    },
+    {
+     "id": "im09-06",
+     "emoji": "🚽",
+     "pt": "vaso sanitário"
+    },
+    {
+     "id": "im09-07",
+     "emoji": "🔑",
+     "pt": "chave"
+    },
+    {
+     "id": "im09-08",
+     "emoji": "💡",
+     "pt": "lâmpada"
+    },
+    {
+     "id": "im09-09",
+     "emoji": "📺",
+     "pt": "televisão"
+    },
+    {
+     "id": "im09-10",
+     "emoji": "⏰",
+     "pt": "despertador"
+    }
+   ]
+  },
+  {
+   "phase": 10,
+   "globalPhase": 210,
+   "chapter": 21,
+   "level": "A1",
+   "theme": "Transportes",
+   "concepts": [
+    {
+     "id": "im10-01",
+     "emoji": "🚗",
+     "pt": "carro"
+    },
+    {
+     "id": "im10-02",
+     "emoji": "🚌",
+     "pt": "ônibus"
+    },
+    {
+     "id": "im10-03",
+     "emoji": "🚲",
+     "pt": "bicicleta"
+    },
+    {
+     "id": "im10-04",
+     "emoji": "✈️",
+     "pt": "avião"
+    },
+    {
+     "id": "im10-05",
+     "emoji": "🚂",
+     "pt": "trem"
+    },
+    {
+     "id": "im10-06",
+     "emoji": "🚢",
+     "pt": "navio"
+    },
+    {
+     "id": "im10-07",
+     "emoji": "🚁",
+     "pt": "helicóptero"
+    },
+    {
+     "id": "im10-08",
+     "emoji": "🏍️",
+     "pt": "moto"
+    },
+    {
+     "id": "im10-09",
+     "emoji": "🚑",
+     "pt": "ambulância"
+    },
+    {
+     "id": "im10-10",
+     "emoji": "🚚",
+     "pt": "caminhão"
+    }
+   ]
+  },
+  {
+   "phase": 11,
+   "globalPhase": 211,
+   "chapter": 22,
+   "level": "A2",
+   "theme": "Aves",
+   "concepts": [
+    {
+     "id": "im11-01",
+     "emoji": "🦅",
+     "pt": "águia"
+    },
+    {
+     "id": "im11-02",
+     "emoji": "🐧",
+     "pt": "pinguim"
+    },
+    {
+     "id": "im11-03",
+     "emoji": "🦉",
+     "pt": "coruja"
+    },
+    {
+     "id": "im11-04",
+     "emoji": "🦢",
+     "pt": "cisne"
+    },
+    {
+     "id": "im11-05",
+     "emoji": "🦩",
+     "pt": "flamingo"
+    },
+    {
+     "id": "im11-06",
+     "emoji": "🕊️",
+     "pt": "pomba"
+    },
+    {
+     "id": "im11-07",
+     "emoji": "🦚",
+     "pt": "pavão"
+    },
+    {
+     "id": "im11-08",
+     "emoji": "🐤",
+     "pt": "pintinho"
+    },
+    {
+     "id": "im11-09",
+     "emoji": "🦜",
+     "pt": "papagaio"
+    },
+    {
+     "id": "im11-10",
+     "emoji": "🐦",
+     "pt": "pássaro"
+    }
+   ]
+  },
+  {
+   "phase": 12,
+   "globalPhase": 212,
+   "chapter": 22,
+   "level": "A2",
+   "theme": "Natureza",
+   "concepts": [
+    {
+     "id": "im12-01",
+     "emoji": "🌳",
+     "pt": "árvore"
+    },
+    {
+     "id": "im12-02",
+     "emoji": "🌻",
+     "pt": "girassol"
+    },
+    {
+     "id": "im12-03",
+     "emoji": "🌵",
+     "pt": "cacto"
+    },
+    {
+     "id": "im12-04",
+     "emoji": "🌴",
+     "pt": "palmeira"
+    },
+    {
+     "id": "im12-05",
+     "emoji": "🌷",
+     "pt": "tulipa"
+    },
+    {
+     "id": "im12-06",
+     "emoji": "⛰️",
+     "pt": "montanha"
+    },
+    {
+     "id": "im12-07",
+     "emoji": "🌊",
+     "pt": "onda"
+    },
+    {
+     "id": "im12-08",
+     "emoji": "🌋",
+     "pt": "vulcão"
+    },
+    {
+     "id": "im12-09",
+     "emoji": "🏝️",
+     "pt": "ilha"
+    },
+    {
+     "id": "im12-10",
+     "emoji": "🏜️",
+     "pt": "deserto"
+    }
+   ]
+  },
+  {
+   "phase": 13,
+   "globalPhase": 213,
+   "chapter": 22,
+   "level": "A2",
+   "theme": "Clima e céu",
+   "concepts": [
+    {
+     "id": "im13-01",
+     "emoji": "☀️",
+     "pt": "sol"
+    },
+    {
+     "id": "im13-02",
+     "emoji": "🌙",
+     "pt": "lua"
+    },
+    {
+     "id": "im13-03",
+     "emoji": "⭐",
+     "pt": "estrela"
+    },
+    {
+     "id": "im13-04",
+     "emoji": "☁️",
+     "pt": "nuvem"
+    },
+    {
+     "id": "im13-05",
+     "emoji": "🌧️",
+     "pt": "chuva"
+    },
+    {
+     "id": "im13-06",
+     "emoji": "❄️",
+     "pt": "floco de neve"
+    },
+    {
+     "id": "im13-07",
+     "emoji": "🌈",
+     "pt": "arco-íris"
+    },
+    {
+     "id": "im13-08",
+     "emoji": "⚡",
+     "pt": "raio"
+    },
+    {
+     "id": "im13-09",
+     "emoji": "🌪️",
+     "pt": "tornado"
+    },
+    {
+     "id": "im13-10",
+     "emoji": "☔",
+     "pt": "guarda-chuva"
+    }
+   ]
+  },
+  {
+   "phase": 14,
+   "globalPhase": 214,
+   "chapter": 22,
+   "level": "A2",
+   "theme": "Insetos e bichinhos",
+   "concepts": [
+    {
+     "id": "im14-01",
+     "emoji": "🐝",
+     "pt": "abelha"
+    },
+    {
+     "id": "im14-02",
+     "emoji": "🦋",
+     "pt": "borboleta"
+    },
+    {
+     "id": "im14-03",
+     "emoji": "🐜",
+     "pt": "formiga"
+    },
+    {
+     "id": "im14-04",
+     "emoji": "🐞",
+     "pt": "joaninha"
+    },
+    {
+     "id": "im14-05",
+     "emoji": "🐛",
+     "pt": "lagarta"
+    },
+    {
+     "id": "im14-06",
+     "emoji": "🦗",
+     "pt": "grilo"
+    },
+    {
+     "id": "im14-07",
+     "emoji": "🕷️",
+     "pt": "aranha"
+    },
+    {
+     "id": "im14-08",
+     "emoji": "🦂",
+     "pt": "escorpião"
+    },
+    {
+     "id": "im14-09",
+     "emoji": "🦟",
+     "pt": "mosquito"
+    },
+    {
+     "id": "im14-10",
+     "emoji": "🐌",
+     "pt": "caracol"
+    }
+   ]
+  },
+  {
+   "phase": 15,
+   "globalPhase": 215,
+   "chapter": 22,
+   "level": "A2",
+   "theme": "Animais marinhos",
+   "concepts": [
+    {
+     "id": "im15-01",
+     "emoji": "🐬",
+     "pt": "golfinho"
+    },
+    {
+     "id": "im15-02",
+     "emoji": "🐳",
+     "pt": "baleia"
+    },
+    {
+     "id": "im15-03",
+     "emoji": "🦈",
+     "pt": "tubarão"
+    },
+    {
+     "id": "im15-04",
+     "emoji": "🐙",
+     "pt": "polvo"
+    },
+    {
+     "id": "im15-05",
+     "emoji": "🦀",
+     "pt": "caranguejo"
+    },
+    {
+     "id": "im15-06",
+     "emoji": "🦞",
+     "pt": "lagosta"
+    },
+    {
+     "id": "im15-07",
+     "emoji": "🦐",
+     "pt": "camarão"
+    },
+    {
+     "id": "im15-08",
+     "emoji": "🐡",
+     "pt": "baiacu"
+    },
+    {
+     "id": "im15-09",
+     "emoji": "🦑",
+     "pt": "lula"
+    },
+    {
+     "id": "im15-10",
+     "emoji": "🐚",
+     "pt": "concha"
+    }
+   ]
+  },
+  {
+   "phase": 16,
+   "globalPhase": 216,
+   "chapter": 22,
+   "level": "A2",
+   "theme": "Mais frutas e nozes",
+   "concepts": [
+    {
+     "id": "im16-01",
+     "emoji": "🥭",
+     "pt": "manga"
+    },
+    {
+     "id": "im16-02",
+     "emoji": "🥥",
+     "pt": "coco"
+    },
+    {
+     "id": "im16-03",
+     "emoji": "🥝",
+     "pt": "kiwi"
+    },
+    {
+     "id": "im16-04",
+     "emoji": "🍋",
+     "pt": "limão"
+    },
+    {
+     "id": "im16-05",
+     "emoji": "🍈",
+     "pt": "melão"
+    },
+    {
+     "id": "im16-06",
+     "emoji": "🥑",
+     "pt": "abacate"
+    },
+    {
+     "id": "im16-07",
+     "emoji": "🥜",
+     "pt": "amendoim"
+    },
+    {
+     "id": "im16-08",
+     "emoji": "🌰",
+     "pt": "castanha"
+    },
+    {
+     "id": "im16-09",
+     "emoji": "🍅",
+     "pt": "tomate"
+    },
+    {
+     "id": "im16-10",
+     "emoji": "🥒",
+     "pt": "pepino"
+    }
+   ]
+  },
+  {
+   "phase": 17,
+   "globalPhase": 217,
+   "chapter": 22,
+   "level": "A2",
+   "theme": "Legumes e verduras",
+   "concepts": [
+    {
+     "id": "im17-01",
+     "emoji": "🥕",
+     "pt": "cenoura"
+    },
+    {
+     "id": "im17-02",
+     "emoji": "🌽",
+     "pt": "milho"
+    },
+    {
+     "id": "im17-03",
+     "emoji": "🥔",
+     "pt": "batata"
+    },
+    {
+     "id": "im17-04",
+     "emoji": "🍆",
+     "pt": "berinjela"
+    },
+    {
+     "id": "im17-05",
+     "emoji": "🥦",
+     "pt": "brócolis"
+    },
+    {
+     "id": "im17-06",
+     "emoji": "🥬",
+     "pt": "alface"
+    },
+    {
+     "id": "im17-07",
+     "emoji": "🧅",
+     "pt": "cebola"
+    },
+    {
+     "id": "im17-08",
+     "emoji": "🧄",
+     "pt": "alho"
+    },
+    {
+     "id": "im17-09",
+     "emoji": "🌶️",
+     "pt": "pimenta"
+    },
+    {
+     "id": "im17-10",
+     "emoji": "🍄",
+     "pt": "cogumelo"
+    }
+   ]
+  },
+  {
+   "phase": 18,
+   "globalPhase": 218,
+   "chapter": 22,
+   "level": "A2",
+   "theme": "Bebidas e doces",
+   "concepts": [
+    {
+     "id": "im18-01",
+     "emoji": "☕",
+     "pt": "café"
+    },
+    {
+     "id": "im18-02",
+     "emoji": "🥛",
+     "pt": "leite"
+    },
+    {
+     "id": "im18-03",
+     "emoji": "🧃",
+     "pt": "suco"
+    },
+    {
+     "id": "im18-04",
+     "emoji": "🍺",
+     "pt": "cerveja"
+    },
+    {
+     "id": "im18-05",
+     "emoji": "🍷",
+     "pt": "vinho"
+    },
+    {
+     "id": "im18-06",
+     "emoji": "🍫",
+     "pt": "chocolate"
+    },
+    {
+     "id": "im18-07",
+     "emoji": "🍦",
+     "pt": "sorvete"
+    },
+    {
+     "id": "im18-08",
+     "emoji": "🍰",
+     "pt": "bolo"
+    },
+    {
+     "id": "im18-09",
+     "emoji": "🍪",
+     "pt": "biscoito"
+    },
+    {
+     "id": "im18-10",
+     "emoji": "🍩",
+     "pt": "rosquinha"
+    }
+   ]
+  },
+  {
+   "phase": 19,
+   "globalPhase": 219,
+   "chapter": 22,
+   "level": "A2",
+   "theme": "Objetos do dia a dia",
+   "concepts": [
+    {
+     "id": "im19-01",
+     "emoji": "📱",
+     "pt": "celular"
+    },
+    {
+     "id": "im19-02",
+     "emoji": "⌚",
+     "pt": "relógio"
+    },
+    {
+     "id": "im19-03",
+     "emoji": "👓",
+     "pt": "óculos"
+    },
+    {
+     "id": "im19-04",
+     "emoji": "🎒",
+     "pt": "mochila"
+    },
+    {
+     "id": "im19-05",
+     "emoji": "✂️",
+     "pt": "tesoura"
+    },
+    {
+     "id": "im19-06",
+     "emoji": "🔦",
+     "pt": "lanterna"
+    },
+    {
+     "id": "im19-07",
+     "emoji": "📷",
+     "pt": "câmera"
+    },
+    {
+     "id": "im19-08",
+     "emoji": "🔋",
+     "pt": "pilha"
+    },
+    {
+     "id": "im19-09",
+     "emoji": "🧸",
+     "pt": "ursinho de pelúcia"
+    },
+    {
+     "id": "im19-10",
+     "emoji": "🧲",
+     "pt": "ímã"
+    }
+   ]
+  },
+  {
+   "phase": 20,
+   "globalPhase": 220,
+   "chapter": 22,
+   "level": "A2",
+   "theme": "Material escolar",
+   "concepts": [
+    {
+     "id": "im20-01",
+     "emoji": "📖",
+     "pt": "livro"
+    },
+    {
+     "id": "im20-02",
+     "emoji": "✏️",
+     "pt": "lápis"
+    },
+    {
+     "id": "im20-03",
+     "emoji": "🖊️",
+     "pt": "caneta"
+    },
+    {
+     "id": "im20-04",
+     "emoji": "📓",
+     "pt": "caderno"
+    },
+    {
+     "id": "im20-05",
+     "emoji": "📏",
+     "pt": "régua"
+    },
+    {
+     "id": "im20-06",
+     "emoji": "📎",
+     "pt": "clipe"
+    },
+    {
+     "id": "im20-07",
+     "emoji": "📐",
+     "pt": "esquadro"
+    },
+    {
+     "id": "im20-08",
+     "emoji": "🧮",
+     "pt": "ábaco"
+    },
+    {
+     "id": "im20-09",
+     "emoji": "🏫",
+     "pt": "escola"
+    },
+    {
+     "id": "im20-10",
+     "emoji": "🎨",
+     "pt": "paleta"
+    }
+   ]
+  },
+  {
+   "phase": 21,
+   "globalPhase": 221,
+   "chapter": 23,
+   "level": "B1",
+   "theme": "Esportes e bolas",
+   "concepts": [
+    {
+     "id": "im21-01",
+     "emoji": "⚽",
+     "pt": "bola de futebol"
+    },
+    {
+     "id": "im21-02",
+     "emoji": "🏀",
+     "pt": "bola de basquete"
+    },
+    {
+     "id": "im21-03",
+     "emoji": "🎾",
+     "pt": "bola de tênis"
+    },
+    {
+     "id": "im21-04",
+     "emoji": "🏐",
+     "pt": "bola de vôlei"
+    },
+    {
+     "id": "im21-05",
+     "emoji": "🏓",
+     "pt": "pingue-pongue"
+    },
+    {
+     "id": "im21-06",
+     "emoji": "🥊",
+     "pt": "luva de boxe"
+    },
+    {
+     "id": "im21-07",
+     "emoji": "🎳",
+     "pt": "boliche"
+    },
+    {
+     "id": "im21-08",
+     "emoji": "🏹",
+     "pt": "arco e flecha"
+    },
+    {
+     "id": "im21-09",
+     "emoji": "🛹",
+     "pt": "skate"
+    },
+    {
+     "id": "im21-10",
+     "emoji": "⛸️",
+     "pt": "patins de gelo"
+    }
+   ]
+  },
+  {
+   "phase": 22,
+   "globalPhase": 222,
+   "chapter": 23,
+   "level": "B1",
+   "theme": "Cozinha e mesa",
+   "concepts": [
+    {
+     "id": "im22-01",
+     "emoji": "🍽️",
+     "pt": "prato"
+    },
+    {
+     "id": "im22-02",
+     "emoji": "🥄",
+     "pt": "colher"
+    },
+    {
+     "id": "im22-03",
+     "emoji": "🔪",
+     "pt": "faca"
+    },
+    {
+     "id": "im22-04",
+     "emoji": "🍳",
+     "pt": "frigideira"
+    },
+    {
+     "id": "im22-05",
+     "emoji": "🥣",
+     "pt": "tigela"
+    },
+    {
+     "id": "im22-06",
+     "emoji": "🥢",
+     "pt": "hashi"
+    },
+    {
+     "id": "im22-07",
+     "emoji": "🧂",
+     "pt": "sal"
+    },
+    {
+     "id": "im22-08",
+     "emoji": "🥫",
+     "pt": "lata"
+    },
+    {
+     "id": "im22-09",
+     "emoji": "🥤",
+     "pt": "copo"
+    },
+    {
+     "id": "im22-10",
+     "emoji": "🧊",
+     "pt": "gelo"
+    }
+   ]
+  },
+  {
+   "phase": 23,
+   "globalPhase": 223,
+   "chapter": 23,
+   "level": "B1",
+   "theme": "Banheiro e limpeza",
+   "concepts": [
+    {
+     "id": "im23-01",
+     "emoji": "🪥",
+     "pt": "escova de dentes"
+    },
+    {
+     "id": "im23-02",
+     "emoji": "🧼",
+     "pt": "sabonete"
+    },
+    {
+     "id": "im23-03",
+     "emoji": "🧻",
+     "pt": "papel higiênico"
+    },
+    {
+     "id": "im23-04",
+     "emoji": "🪒",
+     "pt": "navalha"
+    },
+    {
+     "id": "im23-05",
+     "emoji": "🛁",
+     "pt": "banheira"
+    },
+    {
+     "id": "im23-06",
+     "emoji": "🧽",
+     "pt": "esponja"
+    },
+    {
+     "id": "im23-07",
+     "emoji": "🧹",
+     "pt": "vassoura"
+    },
+    {
+     "id": "im23-08",
+     "emoji": "🪣",
+     "pt": "balde"
+    },
+    {
+     "id": "im23-09",
+     "emoji": "🪞",
+     "pt": "espelho"
+    },
+    {
+     "id": "im23-10",
+     "emoji": "🧺",
+     "pt": "cesta"
+    }
+   ]
+  },
+  {
+   "phase": 24,
+   "globalPhase": 224,
+   "chapter": 23,
+   "level": "B1",
+   "theme": "Quarto e sala",
+   "concepts": [
+    {
+     "id": "im24-01",
+     "emoji": "🪑",
+     "pt": "cadeira"
+    },
+    {
+     "id": "im24-02",
+     "emoji": "🖼️",
+     "pt": "quadro"
+    },
+    {
+     "id": "im24-03",
+     "emoji": "🕯️",
+     "pt": "vela"
+    },
+    {
+     "id": "im24-04",
+     "emoji": "🧳",
+     "pt": "mala"
+    },
+    {
+     "id": "im24-05",
+     "emoji": "🔒",
+     "pt": "cadeado"
+    },
+    {
+     "id": "im24-06",
+     "emoji": "🗑️",
+     "pt": "lixeira"
+    },
+    {
+     "id": "im24-07",
+     "emoji": "🪜",
+     "pt": "escada"
+    },
+    {
+     "id": "im24-08",
+     "emoji": "📻",
+     "pt": "rádio"
+    },
+    {
+     "id": "im24-09",
+     "emoji": "🔔",
+     "pt": "sino"
+    },
+    {
+     "id": "im24-10",
+     "emoji": "🧯",
+     "pt": "extintor"
+    }
+   ]
+  },
+  {
+   "phase": 25,
+   "globalPhase": 225,
+   "chapter": 23,
+   "level": "B1",
+   "theme": "Ferramentas",
+   "concepts": [
+    {
+     "id": "im25-01",
+     "emoji": "🔨",
+     "pt": "martelo"
+    },
+    {
+     "id": "im25-02",
+     "emoji": "🪓",
+     "pt": "machado"
+    },
+    {
+     "id": "im25-03",
+     "emoji": "🔧",
+     "pt": "chave inglesa"
+    },
+    {
+     "id": "im25-04",
+     "emoji": "🪛",
+     "pt": "chave de fenda"
+    },
+    {
+     "id": "im25-05",
+     "emoji": "🪚",
+     "pt": "serrote"
+    },
+    {
+     "id": "im25-06",
+     "emoji": "⛏️",
+     "pt": "picareta"
+    },
+    {
+     "id": "im25-07",
+     "emoji": "🧰",
+     "pt": "caixa de ferramentas"
+    },
+    {
+     "id": "im25-08",
+     "emoji": "🔩",
+     "pt": "parafuso"
+    },
+    {
+     "id": "im25-09",
+     "emoji": "⚙️",
+     "pt": "engrenagem"
+    },
+    {
+     "id": "im25-10",
+     "emoji": "⛓️",
+     "pt": "corrente"
+    }
+   ]
+  },
+  {
+   "phase": 26,
+   "globalPhase": 226,
+   "chapter": 23,
+   "level": "B1",
+   "theme": "Cidade e lugares",
+   "concepts": [
+    {
+     "id": "im26-01",
+     "emoji": "🏥",
+     "pt": "hospital"
+    },
+    {
+     "id": "im26-02",
+     "emoji": "🏦",
+     "pt": "banco"
+    },
+    {
+     "id": "im26-03",
+     "emoji": "⛪",
+     "pt": "igreja"
+    },
+    {
+     "id": "im26-04",
+     "emoji": "🏨",
+     "pt": "hotel"
+    },
+    {
+     "id": "im26-05",
+     "emoji": "🏭",
+     "pt": "fábrica"
+    },
+    {
+     "id": "im26-06",
+     "emoji": "⛽",
+     "pt": "posto de gasolina"
+    },
+    {
+     "id": "im26-07",
+     "emoji": "🚦",
+     "pt": "semáforo"
+    },
+    {
+     "id": "im26-08",
+     "emoji": "🌉",
+     "pt": "ponte"
+    },
+    {
+     "id": "im26-09",
+     "emoji": "🏟️",
+     "pt": "estádio"
+    },
+    {
+     "id": "im26-10",
+     "emoji": "🏪",
+     "pt": "loja"
+    }
+   ]
+  },
+  {
+   "phase": 27,
+   "globalPhase": 227,
+   "chapter": 23,
+   "level": "B1",
+   "theme": "Tecnologia",
+   "concepts": [
+    {
+     "id": "im27-01",
+     "emoji": "💻",
+     "pt": "notebook"
+    },
+    {
+     "id": "im27-02",
+     "emoji": "⌨️",
+     "pt": "teclado"
+    },
+    {
+     "id": "im27-03",
+     "emoji": "🖱️",
+     "pt": "mouse"
+    },
+    {
+     "id": "im27-04",
+     "emoji": "🖨️",
+     "pt": "impressora"
+    },
+    {
+     "id": "im27-05",
+     "emoji": "💾",
+     "pt": "disquete"
+    },
+    {
+     "id": "im27-06",
+     "emoji": "🎧",
+     "pt": "fone de ouvido"
+    },
+    {
+     "id": "im27-07",
+     "emoji": "🎙️",
+     "pt": "microfone"
+    },
+    {
+     "id": "im27-08",
+     "emoji": "📡",
+     "pt": "antena"
+    },
+    {
+     "id": "im27-09",
+     "emoji": "🔌",
+     "pt": "plugue"
+    },
+    {
+     "id": "im27-10",
+     "emoji": "🕹️",
+     "pt": "joystick"
+    }
+   ]
+  },
+  {
+   "phase": 28,
+   "globalPhase": 228,
+   "chapter": 23,
+   "level": "B1",
+   "theme": "Instrumentos musicais",
+   "concepts": [
+    {
+     "id": "im28-01",
+     "emoji": "🎸",
+     "pt": "guitarra"
+    },
+    {
+     "id": "im28-02",
+     "emoji": "🎹",
+     "pt": "piano"
+    },
+    {
+     "id": "im28-03",
+     "emoji": "🎺",
+     "pt": "trompete"
+    },
+    {
+     "id": "im28-04",
+     "emoji": "🎻",
+     "pt": "violino"
+    },
+    {
+     "id": "im28-05",
+     "emoji": "🥁",
+     "pt": "bateria"
+    },
+    {
+     "id": "im28-06",
+     "emoji": "🎷",
+     "pt": "saxofone"
+    },
+    {
+     "id": "im28-07",
+     "emoji": "🪕",
+     "pt": "banjo"
+    },
+    {
+     "id": "im28-08",
+     "emoji": "🪗",
+     "pt": "acordeão"
+    },
+    {
+     "id": "im28-09",
+     "emoji": "🎼",
+     "pt": "partitura"
+    },
+    {
+     "id": "im28-10",
+     "emoji": "🎵",
+     "pt": "nota musical"
+    }
+   ]
+  },
+  {
+   "phase": 29,
+   "globalPhase": 229,
+   "chapter": 23,
+   "level": "B1",
+   "theme": "Lazer e jogos",
+   "concepts": [
+    {
+     "id": "im29-01",
+     "emoji": "🎲",
+     "pt": "dado"
+    },
+    {
+     "id": "im29-02",
+     "emoji": "🧩",
+     "pt": "quebra-cabeça"
+    },
+    {
+     "id": "im29-03",
+     "emoji": "🎯",
+     "pt": "alvo"
+    },
+    {
+     "id": "im29-04",
+     "emoji": "♟️",
+     "pt": "xadrez"
+    },
+    {
+     "id": "im29-05",
+     "emoji": "🎮",
+     "pt": "videogame"
+    },
+    {
+     "id": "im29-06",
+     "emoji": "🎡",
+     "pt": "roda-gigante"
+    },
+    {
+     "id": "im29-07",
+     "emoji": "🎢",
+     "pt": "montanha-russa"
+    },
+    {
+     "id": "im29-08",
+     "emoji": "🎈",
+     "pt": "balão"
+    },
+    {
+     "id": "im29-09",
+     "emoji": "🪁",
+     "pt": "pipa"
+    },
+    {
+     "id": "im29-10",
+     "emoji": "🎠",
+     "pt": "carrossel"
+    }
+   ]
+  },
+  {
+   "phase": 30,
+   "globalPhase": 230,
+   "chapter": 23,
+   "level": "B1",
+   "theme": "Festas e presentes",
+   "concepts": [
+    {
+     "id": "im30-01",
+     "emoji": "🎁",
+     "pt": "presente"
+    },
+    {
+     "id": "im30-02",
+     "emoji": "🎂",
+     "pt": "bolo de aniversário"
+    },
+    {
+     "id": "im30-03",
+     "emoji": "🎄",
+     "pt": "árvore de natal"
+    },
+    {
+     "id": "im30-04",
+     "emoji": "🎃",
+     "pt": "abóbora"
+    },
+    {
+     "id": "im30-05",
+     "emoji": "🎆",
+     "pt": "fogos de artifício"
+    },
+    {
+     "id": "im30-06",
+     "emoji": "🏮",
+     "pt": "lanterna de papel"
+    },
+    {
+     "id": "im30-07",
+     "emoji": "🎅",
+     "pt": "papai noel"
+    },
+    {
+     "id": "im30-08",
+     "emoji": "🪅",
+     "pt": "piñata"
+    },
+    {
+     "id": "im30-09",
+     "emoji": "🎀",
+     "pt": "laço"
+    },
+    {
+     "id": "im30-10",
+     "emoji": "🍾",
+     "pt": "champanhe"
+    }
+   ]
+  },
+  {
+   "phase": 31,
+   "globalPhase": 231,
+   "chapter": 24,
+   "level": "B1",
+   "theme": "Saúde e remédios",
+   "concepts": [
+    {
+     "id": "im31-01",
+     "emoji": "🩺",
+     "pt": "estetoscópio"
+    },
+    {
+     "id": "im31-02",
+     "emoji": "💉",
+     "pt": "seringa"
+    },
+    {
+     "id": "im31-03",
+     "emoji": "💊",
+     "pt": "comprimido"
+    },
+    {
+     "id": "im31-04",
+     "emoji": "🩹",
+     "pt": "curativo"
+    },
+    {
+     "id": "im31-05",
+     "emoji": "🌡️",
+     "pt": "termômetro"
+    },
+    {
+     "id": "im31-06",
+     "emoji": "🦽",
+     "pt": "cadeira de rodas"
+    },
+    {
+     "id": "im31-07",
+     "emoji": "🦯",
+     "pt": "bengala"
+    },
+    {
+     "id": "im31-08",
+     "emoji": "🦠",
+     "pt": "micróbio"
+    },
+    {
+     "id": "im31-09",
+     "emoji": "🦴",
+     "pt": "osso"
+    },
+    {
+     "id": "im31-10",
+     "emoji": "🧬",
+     "pt": "DNA"
+    }
+   ]
+  },
+  {
+   "phase": 32,
+   "globalPhase": 232,
+   "chapter": 24,
+   "level": "B1",
+   "theme": "Ciência e laboratório",
+   "concepts": [
+    {
+     "id": "im32-01",
+     "emoji": "🔬",
+     "pt": "microscópio"
+    },
+    {
+     "id": "im32-02",
+     "emoji": "🔭",
+     "pt": "telescópio"
+    },
+    {
+     "id": "im32-03",
+     "emoji": "🧪",
+     "pt": "tubo de ensaio"
+    },
+    {
+     "id": "im32-04",
+     "emoji": "⚗️",
+     "pt": "alambique"
+    },
+    {
+     "id": "im32-05",
+     "emoji": "🧫",
+     "pt": "placa de Petri"
+    },
+    {
+     "id": "im32-06",
+     "emoji": "⚖️",
+     "pt": "balança"
+    },
+    {
+     "id": "im32-07",
+     "emoji": "🧭",
+     "pt": "bússola"
+    },
+    {
+     "id": "im32-08",
+     "emoji": "🔍",
+     "pt": "lupa"
+    },
+    {
+     "id": "im32-09",
+     "emoji": "⏳",
+     "pt": "ampulheta"
+    },
+    {
+     "id": "im32-10",
+     "emoji": "⚛️",
+     "pt": "átomo"
+    }
+   ]
+  },
+  {
+   "phase": 33,
+   "globalPhase": 233,
+   "chapter": 24,
+   "level": "B1",
+   "theme": "Escritório e dinheiro",
+   "concepts": [
+    {
+     "id": "im33-01",
+     "emoji": "📁",
+     "pt": "pasta"
+    },
+    {
+     "id": "im33-02",
+     "emoji": "📅",
+     "pt": "calendário"
+    },
+    {
+     "id": "im33-03",
+     "emoji": "📊",
+     "pt": "gráfico"
+    },
+    {
+     "id": "im33-04",
+     "emoji": "✉️",
+     "pt": "envelope"
+    },
+    {
+     "id": "im33-05",
+     "emoji": "📮",
+     "pt": "caixa de correio"
+    },
+    {
+     "id": "im33-06",
+     "emoji": "📦",
+     "pt": "pacote"
+    },
+    {
+     "id": "im33-07",
+     "emoji": "📰",
+     "pt": "jornal"
+    },
+    {
+     "id": "im33-08",
+     "emoji": "💳",
+     "pt": "cartão de crédito"
+    },
+    {
+     "id": "im33-09",
+     "emoji": "🪙",
+     "pt": "moeda"
+    },
+    {
+     "id": "im33-10",
+     "emoji": "📜",
+     "pt": "pergaminho"
+    }
+   ]
+  },
+  {
+   "phase": 34,
+   "globalPhase": 234,
+   "chapter": 24,
+   "level": "B1",
+   "theme": "Construções",
+   "concepts": [
+    {
+     "id": "im34-01",
+     "emoji": "🏠",
+     "pt": "casa"
+    },
+    {
+     "id": "im34-02",
+     "emoji": "🏢",
+     "pt": "prédio"
+    },
+    {
+     "id": "im34-03",
+     "emoji": "🧱",
+     "pt": "tijolo"
+    },
+    {
+     "id": "im34-04",
+     "emoji": "🏗️",
+     "pt": "guindaste"
+    },
+    {
+     "id": "im34-05",
+     "emoji": "🛖",
+     "pt": "cabana"
+    },
+    {
+     "id": "im34-06",
+     "emoji": "⛺",
+     "pt": "barraca"
+    },
+    {
+     "id": "im34-07",
+     "emoji": "🚧",
+     "pt": "obra"
+    },
+    {
+     "id": "im34-08",
+     "emoji": "🏰",
+     "pt": "castelo"
+    },
+    {
+     "id": "im34-09",
+     "emoji": "⛲",
+     "pt": "fonte"
+    },
+    {
+     "id": "im34-10",
+     "emoji": "🗿",
+     "pt": "moai"
+    }
+   ]
+  },
+  {
+   "phase": 35,
+   "globalPhase": 235,
+   "chapter": 24,
+   "level": "B1",
+   "theme": "Espaço",
+   "concepts": [
+    {
+     "id": "im35-01",
+     "emoji": "🪐",
+     "pt": "planeta"
+    },
+    {
+     "id": "im35-02",
+     "emoji": "🌍",
+     "pt": "Terra"
+    },
+    {
+     "id": "im35-03",
+     "emoji": "🌕",
+     "pt": "lua cheia"
+    },
+    {
+     "id": "im35-04",
+     "emoji": "☄️",
+     "pt": "cometa"
+    },
+    {
+     "id": "im35-05",
+     "emoji": "🚀",
+     "pt": "foguete"
+    },
+    {
+     "id": "im35-06",
+     "emoji": "🛰️",
+     "pt": "satélite"
+    },
+    {
+     "id": "im35-07",
+     "emoji": "🛸",
+     "pt": "disco voador"
+    },
+    {
+     "id": "im35-08",
+     "emoji": "👽",
+     "pt": "alienígena"
+    },
+    {
+     "id": "im35-09",
+     "emoji": "🌠",
+     "pt": "estrela cadente"
+    },
+    {
+     "id": "im35-10",
+     "emoji": "🌌",
+     "pt": "galáxia"
+    }
+   ]
+  },
+  {
+   "phase": 36,
+   "globalPhase": 236,
+   "chapter": 24,
+   "level": "B1",
+   "theme": "Mais transportes",
+   "concepts": [
+    {
+     "id": "im36-01",
+     "emoji": "⛵",
+     "pt": "veleiro"
+    },
+    {
+     "id": "im36-02",
+     "emoji": "🛶",
+     "pt": "canoa"
+    },
+    {
+     "id": "im36-03",
+     "emoji": "🚤",
+     "pt": "lancha"
+    },
+    {
+     "id": "im36-04",
+     "emoji": "🚕",
+     "pt": "táxi"
+    },
+    {
+     "id": "im36-05",
+     "emoji": "🛵",
+     "pt": "scooter"
+    },
+    {
+     "id": "im36-06",
+     "emoji": "🚜",
+     "pt": "trator"
+    },
+    {
+     "id": "im36-07",
+     "emoji": "🚇",
+     "pt": "metrô"
+    },
+    {
+     "id": "im36-08",
+     "emoji": "🛴",
+     "pt": "patinete"
+    },
+    {
+     "id": "im36-09",
+     "emoji": "🪂",
+     "pt": "paraquedas"
+    },
+    {
+     "id": "im36-10",
+     "emoji": "🚓",
+     "pt": "viatura"
+    }
+   ]
+  },
+  {
+   "phase": 37,
+   "globalPhase": 237,
+   "chapter": 24,
+   "level": "B1",
+   "theme": "Comidas do mundo",
+   "concepts": [
+    {
+     "id": "im37-01",
+     "emoji": "🍣",
+     "pt": "sushi"
+    },
+    {
+     "id": "im37-02",
+     "emoji": "🍜",
+     "pt": "lámen"
+    },
+    {
+     "id": "im37-03",
+     "emoji": "🥘",
+     "pt": "paella"
+    },
+    {
+     "id": "im37-04",
+     "emoji": "🍛",
+     "pt": "curry"
+    },
+    {
+     "id": "im37-05",
+     "emoji": "🥟",
+     "pt": "bolinho recheado"
+    },
+    {
+     "id": "im37-06",
+     "emoji": "🍱",
+     "pt": "bento"
+    },
+    {
+     "id": "im37-07",
+     "emoji": "🍙",
+     "pt": "onigiri"
+    },
+    {
+     "id": "im37-08",
+     "emoji": "🧆",
+     "pt": "falafel"
+    },
+    {
+     "id": "im37-09",
+     "emoji": "🥗",
+     "pt": "salada"
+    },
+    {
+     "id": "im37-10",
+     "emoji": "🍲",
+     "pt": "ensopado"
+    }
+   ]
+  },
+  {
+   "phase": 38,
+   "globalPhase": 238,
+   "chapter": 24,
+   "level": "B1",
+   "theme": "Lanches e padaria",
+   "concepts": [
+    {
+     "id": "im38-01",
+     "emoji": "🥐",
+     "pt": "croissant"
+    },
+    {
+     "id": "im38-02",
+     "emoji": "🥨",
+     "pt": "pretzel"
+    },
+    {
+     "id": "im38-03",
+     "emoji": "🥯",
+     "pt": "bagel"
+    },
+    {
+     "id": "im38-04",
+     "emoji": "🥞",
+     "pt": "panqueca"
+    },
+    {
+     "id": "im38-05",
+     "emoji": "🧇",
+     "pt": "waffle"
+    },
+    {
+     "id": "im38-06",
+     "emoji": "🌮",
+     "pt": "taco"
+    },
+    {
+     "id": "im38-07",
+     "emoji": "🌯",
+     "pt": "burrito"
+    },
+    {
+     "id": "im38-08",
+     "emoji": "🥪",
+     "pt": "sanduíche"
+    },
+    {
+     "id": "im38-09",
+     "emoji": "🍿",
+     "pt": "pipoca"
+    },
+    {
+     "id": "im38-10",
+     "emoji": "🌭",
+     "pt": "cachorro-quente"
+    }
+   ]
+  },
+  {
+   "phase": 39,
+   "globalPhase": 239,
+   "chapter": 24,
+   "level": "B1",
+   "theme": "Doces e sobremesas",
+   "concepts": [
+    {
+     "id": "im39-01",
+     "emoji": "🍮",
+     "pt": "pudim"
+    },
+    {
+     "id": "im39-02",
+     "emoji": "🥧",
+     "pt": "torta"
+    },
+    {
+     "id": "im39-03",
+     "emoji": "🧁",
+     "pt": "cupcake"
+    },
+    {
+     "id": "im39-04",
+     "emoji": "🍬",
+     "pt": "bala"
+    },
+    {
+     "id": "im39-05",
+     "emoji": "🍭",
+     "pt": "pirulito"
+    },
+    {
+     "id": "im39-06",
+     "emoji": "🍯",
+     "pt": "mel"
+    },
+    {
+     "id": "im39-07",
+     "emoji": "🍧",
+     "pt": "raspadinha"
+    },
+    {
+     "id": "im39-08",
+     "emoji": "🥠",
+     "pt": "biscoito da sorte"
+    },
+    {
+     "id": "im39-09",
+     "emoji": "🧈",
+     "pt": "manteiga"
+    },
+    {
+     "id": "im39-10",
+     "emoji": "🍡",
+     "pt": "dango"
+    }
+   ]
+  },
+  {
+   "phase": 40,
+   "globalPhase": 240,
+   "chapter": 24,
+   "level": "B1",
+   "theme": "Bebidas do mundo",
+   "concepts": [
+    {
+     "id": "im40-01",
+     "emoji": "🍵",
+     "pt": "chá"
+    },
+    {
+     "id": "im40-02",
+     "emoji": "🍸",
+     "pt": "coquetel"
+    },
+    {
+     "id": "im40-03",
+     "emoji": "🍶",
+     "pt": "saquê"
+    },
+    {
+     "id": "im40-04",
+     "emoji": "🥃",
+     "pt": "uísque"
+    },
+    {
+     "id": "im40-05",
+     "emoji": "🧉",
+     "pt": "mate"
+    },
+    {
+     "id": "im40-06",
+     "emoji": "🧋",
+     "pt": "bubble tea"
+    },
+    {
+     "id": "im40-07",
+     "emoji": "🍹",
+     "pt": "drinque tropical"
+    },
+    {
+     "id": "im40-08",
+     "emoji": "🍼",
+     "pt": "mamadeira"
+    },
+    {
+     "id": "im40-09",
+     "emoji": "💧",
+     "pt": "gota"
+    },
+    {
+     "id": "im40-10",
+     "emoji": "🥂",
+     "pt": "brinde"
+    }
+   ]
+  },
+  {
+   "phase": 41,
+   "globalPhase": 241,
+   "chapter": 25,
+   "level": "B2",
+   "theme": "Animais da floresta",
+   "concepts": [
+    {
+     "id": "im41-01",
+     "emoji": "🐺",
+     "pt": "lobo"
+    },
+    {
+     "id": "im41-02",
+     "emoji": "🦊",
+     "pt": "raposa"
+    },
+    {
+     "id": "im41-03",
+     "emoji": "🦌",
+     "pt": "cervo"
+    },
+    {
+     "id": "im41-04",
+     "emoji": "🐿️",
+     "pt": "esquilo"
+    },
+    {
+     "id": "im41-05",
+     "emoji": "🐗",
+     "pt": "javali"
+    },
+    {
+     "id": "im41-06",
+     "emoji": "🦡",
+     "pt": "texugo"
+    },
+    {
+     "id": "im41-07",
+     "emoji": "🦝",
+     "pt": "guaxinim"
+    },
+    {
+     "id": "im41-08",
+     "emoji": "🦇",
+     "pt": "morcego"
+    },
+    {
+     "id": "im41-09",
+     "emoji": "🦔",
+     "pt": "ouriço"
+    },
+    {
+     "id": "im41-10",
+     "emoji": "🦨",
+     "pt": "gambá"
+    }
+   ]
+  },
+  {
+   "phase": 42,
+   "globalPhase": 242,
+   "chapter": 25,
+   "level": "B2",
+   "theme": "Animais exóticos",
+   "concepts": [
+    {
+     "id": "im42-01",
+     "emoji": "🦘",
+     "pt": "canguru"
+    },
+    {
+     "id": "im42-02",
+     "emoji": "🐨",
+     "pt": "coala"
+    },
+    {
+     "id": "im42-03",
+     "emoji": "🐼",
+     "pt": "panda"
+    },
+    {
+     "id": "im42-04",
+     "emoji": "🐪",
+     "pt": "camelo"
+    },
+    {
+     "id": "im42-05",
+     "emoji": "🦙",
+     "pt": "lhama"
+    },
+    {
+     "id": "im42-06",
+     "emoji": "🦥",
+     "pt": "preguiça"
+    },
+    {
+     "id": "im42-07",
+     "emoji": "🦍",
+     "pt": "gorila"
+    },
+    {
+     "id": "im42-08",
+     "emoji": "🦧",
+     "pt": "orangotango"
+    },
+    {
+     "id": "im42-09",
+     "emoji": "🐆",
+     "pt": "leopardo"
+    },
+    {
+     "id": "im42-10",
+     "emoji": "🦬",
+     "pt": "bisão"
+    }
+   ]
+  },
+  {
+   "phase": 43,
+   "globalPhase": 243,
+   "chapter": 25,
+   "level": "B2",
+   "theme": "Mamíferos e dinossauros",
+   "concepts": [
+    {
+     "id": "im43-01",
+     "emoji": "🦖",
+     "pt": "tiranossauro"
+    },
+    {
+     "id": "im43-02",
+     "emoji": "🦕",
+     "pt": "braquiossauro"
+    },
+    {
+     "id": "im43-03",
+     "emoji": "🦣",
+     "pt": "mamute"
+    },
+    {
+     "id": "im43-04",
+     "emoji": "🦭",
+     "pt": "foca"
+    },
+    {
+     "id": "im43-05",
+     "emoji": "🦦",
+     "pt": "lontra"
+    },
+    {
+     "id": "im43-06",
+     "emoji": "🐃",
+     "pt": "búfalo"
+    },
+    {
+     "id": "im43-07",
+     "emoji": "🦫",
+     "pt": "castor"
+    },
+    {
+     "id": "im43-08",
+     "emoji": "🐏",
+     "pt": "carneiro"
+    },
+    {
+     "id": "im43-09",
+     "emoji": "🐩",
+     "pt": "poodle"
+    },
+    {
+     "id": "im43-10",
+     "emoji": "🦮",
+     "pt": "cão-guia"
+    }
+   ]
+  },
+  {
+   "phase": 44,
+   "globalPhase": 244,
+   "chapter": 25,
+   "level": "B2",
+   "theme": "Plantas e flores",
+   "concepts": [
+    {
+     "id": "im44-01",
+     "emoji": "🌲",
+     "pt": "pinheiro"
+    },
+    {
+     "id": "im44-02",
+     "emoji": "🌾",
+     "pt": "trigo"
+    },
+    {
+     "id": "im44-03",
+     "emoji": "🍀",
+     "pt": "trevo"
+    },
+    {
+     "id": "im44-04",
+     "emoji": "🌱",
+     "pt": "broto"
+    },
+    {
+     "id": "im44-05",
+     "emoji": "💐",
+     "pt": "buquê"
+    },
+    {
+     "id": "im44-06",
+     "emoji": "🌸",
+     "pt": "flor de cerejeira"
+    },
+    {
+     "id": "im44-07",
+     "emoji": "🌼",
+     "pt": "margarida"
+    },
+    {
+     "id": "im44-08",
+     "emoji": "🌺",
+     "pt": "hibisco"
+    },
+    {
+     "id": "im44-09",
+     "emoji": "🍂",
+     "pt": "folha seca"
+    },
+    {
+     "id": "im44-10",
+     "emoji": "🥀",
+     "pt": "flor murcha"
+    }
+   ]
+  },
+  {
+   "phase": 45,
+   "globalPhase": 245,
+   "chapter": 25,
+   "level": "B2",
+   "theme": "Mais roupas",
+   "concepts": [
+    {
+     "id": "im45-01",
+     "emoji": "👔",
+     "pt": "gravata"
+    },
+    {
+     "id": "im45-02",
+     "emoji": "👚",
+     "pt": "blusa"
+    },
+    {
+     "id": "im45-03",
+     "emoji": "👘",
+     "pt": "quimono"
+    },
+    {
+     "id": "im45-04",
+     "emoji": "👙",
+     "pt": "biquíni"
+    },
+    {
+     "id": "im45-05",
+     "emoji": "🩳",
+     "pt": "shorts"
+    },
+    {
+     "id": "im45-06",
+     "emoji": "👠",
+     "pt": "salto alto"
+    },
+    {
+     "id": "im45-07",
+     "emoji": "👢",
+     "pt": "bota"
+    },
+    {
+     "id": "im45-08",
+     "emoji": "🩴",
+     "pt": "chinelo"
+    },
+    {
+     "id": "im45-09",
+     "emoji": "👒",
+     "pt": "chapéu"
+    },
+    {
+     "id": "im45-10",
+     "emoji": "🥼",
+     "pt": "jaleco"
+    }
+   ]
+  },
+  {
+   "phase": 46,
+   "globalPhase": 246,
+   "chapter": 25,
+   "level": "B2",
+   "theme": "Acessórios e joias",
+   "concepts": [
+    {
+     "id": "im46-01",
+     "emoji": "💍",
+     "pt": "anel"
+    },
+    {
+     "id": "im46-02",
+     "emoji": "💎",
+     "pt": "diamante"
+    },
+    {
+     "id": "im46-03",
+     "emoji": "👜",
+     "pt": "bolsa"
+    },
+    {
+     "id": "im46-04",
+     "emoji": "👛",
+     "pt": "porta-moedas"
+    },
+    {
+     "id": "im46-05",
+     "emoji": "🎩",
+     "pt": "cartola"
+    },
+    {
+     "id": "im46-06",
+     "emoji": "🕶️",
+     "pt": "óculos escuros"
+    },
+    {
+     "id": "im46-07",
+     "emoji": "🎓",
+     "pt": "capelo"
+    },
+    {
+     "id": "im46-08",
+     "emoji": "💄",
+     "pt": "batom"
+    },
+    {
+     "id": "im46-09",
+     "emoji": "📿",
+     "pt": "colar de contas"
+    },
+    {
+     "id": "im46-10",
+     "emoji": "🦺",
+     "pt": "colete"
+    }
+   ]
+  },
+  {
+   "phase": 47,
+   "globalPhase": 247,
+   "chapter": 25,
+   "level": "B2",
+   "theme": "Esportes e prêmios",
+   "concepts": [
+    {
+     "id": "im47-01",
+     "emoji": "🏆",
+     "pt": "troféu"
+    },
+    {
+     "id": "im47-02",
+     "emoji": "🥇",
+     "pt": "medalha"
+    },
+    {
+     "id": "im47-03",
+     "emoji": "🎣",
+     "pt": "vara de pescar"
+    },
+    {
+     "id": "im47-04",
+     "emoji": "🎿",
+     "pt": "esquis"
+    },
+    {
+     "id": "im47-05",
+     "emoji": "🛷",
+     "pt": "trenó"
+    },
+    {
+     "id": "im47-06",
+     "emoji": "🏸",
+     "pt": "raquete de badminton"
+    },
+    {
+     "id": "im47-07",
+     "emoji": "🥅",
+     "pt": "gol"
+    },
+    {
+     "id": "im47-08",
+     "emoji": "⛳",
+     "pt": "bandeira de golfe"
+    },
+    {
+     "id": "im47-09",
+     "emoji": "🪀",
+     "pt": "ioiô"
+    },
+    {
+     "id": "im47-10",
+     "emoji": "🤿",
+     "pt": "máscara de mergulho"
+    }
+   ]
+  },
+  {
+   "phase": 48,
+   "globalPhase": 248,
+   "chapter": 25,
+   "level": "B2",
+   "theme": "Cinema e artes",
+   "concepts": [
+    {
+     "id": "im48-01",
+     "emoji": "🎬",
+     "pt": "claquete"
+    },
+    {
+     "id": "im48-02",
+     "emoji": "🎥",
+     "pt": "filmadora"
+    },
+    {
+     "id": "im48-03",
+     "emoji": "🎭",
+     "pt": "teatro"
+    },
+    {
+     "id": "im48-04",
+     "emoji": "🎪",
+     "pt": "circo"
+    },
+    {
+     "id": "im48-05",
+     "emoji": "🎞️",
+     "pt": "rolo de filme"
+    },
+    {
+     "id": "im48-06",
+     "emoji": "📽️",
+     "pt": "projetor"
+    },
+    {
+     "id": "im48-07",
+     "emoji": "🎤",
+     "pt": "karaokê"
+    },
+    {
+     "id": "im48-08",
+     "emoji": "🎟️",
+     "pt": "ingresso"
+    },
+    {
+     "id": "im48-09",
+     "emoji": "🖌️",
+     "pt": "pincel"
+    },
+    {
+     "id": "im48-10",
+     "emoji": "📯",
+     "pt": "corneta"
+    }
+   ]
+  },
+  {
+   "phase": 49,
+   "globalPhase": 249,
+   "chapter": 25,
+   "level": "B2",
+   "theme": "Fantasia e Idade Média",
+   "concepts": [
+    {
+     "id": "im49-01",
+     "emoji": "🛡️",
+     "pt": "escudo"
+    },
+    {
+     "id": "im49-02",
+     "emoji": "⚔️",
+     "pt": "espadas"
+    },
+    {
+     "id": "im49-03",
+     "emoji": "🗡️",
+     "pt": "adaga"
+    },
+    {
+     "id": "im49-04",
+     "emoji": "🐉",
+     "pt": "dragão"
+    },
+    {
+     "id": "im49-05",
+     "emoji": "🦄",
+     "pt": "unicórnio"
+    },
+    {
+     "id": "im49-06",
+     "emoji": "🪄",
+     "pt": "varinha mágica"
+    },
+    {
+     "id": "im49-07",
+     "emoji": "🔮",
+     "pt": "bola de cristal"
+    },
+    {
+     "id": "im49-08",
+     "emoji": "👑",
+     "pt": "coroa"
+    },
+    {
+     "id": "im49-09",
+     "emoji": "🧙",
+     "pt": "mago"
+    },
+    {
+     "id": "im49-10",
+     "emoji": "🧚",
+     "pt": "fada"
+    }
+   ]
+  },
+  {
+   "phase": 50,
+   "globalPhase": 250,
+   "chapter": 25,
+   "level": "B2",
+   "theme": "Objetos antigos e raros",
+   "concepts": [
+    {
+     "id": "im50-01",
+     "emoji": "🏺",
+     "pt": "ânfora"
+    },
+    {
+     "id": "im50-02",
+     "emoji": "⚓",
+     "pt": "âncora"
+    },
+    {
+     "id": "im50-03",
+     "emoji": "🪨",
+     "pt": "pedra"
+    },
+    {
+     "id": "im50-04",
+     "emoji": "🪵",
+     "pt": "tronco"
+    },
+    {
+     "id": "im50-05",
+     "emoji": "☎️",
+     "pt": "telefone"
+    },
+    {
+     "id": "im50-06",
+     "emoji": "📠",
+     "pt": "fax"
+    },
+    {
+     "id": "im50-07",
+     "emoji": "📼",
+     "pt": "fita cassete"
+    },
+    {
+     "id": "im50-08",
+     "emoji": "📢",
+     "pt": "megafone"
+    },
+    {
+     "id": "im50-09",
+     "emoji": "🗝️",
+     "pt": "chave antiga"
+    },
+    {
+     "id": "im50-10",
+     "emoji": "🛢️",
+     "pt": "barril de petróleo"
+    }
+   ]
+  }
+ ]
+}

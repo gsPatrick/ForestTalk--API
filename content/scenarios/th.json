@@ -1,0 +1,1015 @@
+{
+ "language": "th",
+ "scenarios": {
+  "sc01": {
+   "npcName": "สมศรี",
+   "turns": [
+    {
+     "npc": "สวัสดีค่ะ ขอดูพาสปอร์ตหน่อยค่ะ",
+     "npcPt": "Olá! Passaporte, por favor.",
+     "translit": "Sawatdi kha. Kho du phatsapot noi kha.",
+     "options": [
+      {
+       "text": "นี่ครับ",
+       "textPt": "Aqui está.",
+       "translit": "Ni khrap"
+      },
+      {
+       "text": "ผมคือพาสปอร์ต",
+       "textPt": "Eu sou um passaporte.",
+       "translit": "Phom khue phatsapot",
+       "hint": "'คือ' iguala duas coisas, então você diz que é o documento. Ao entregar, diga 'นี่ครับ' (aqui está)."
+      },
+      {
+       "text": "ขอบคุณครับ ลาก่อน",
+       "textPt": "Obrigado, tchau.",
+       "translit": "Khop khun khrap, la kon",
+       "hint": "Ainda não é hora de se despedir: primeiro entregue o documento."
+      }
+     ]
+    },
+    {
+     "npc": "คุณมีกระเป๋าไหมคะ",
+     "npcPt": "Você tem uma mala?",
+     "translit": "Khun mi krapao mai kha?",
+     "options": [
+      {
+       "text": "ใช่ ผมมีความสุข",
+       "textPt": "Sim, estou feliz.",
+       "translit": "Chai, phom mi khwam suk",
+       "hint": "Não responde ao que foi perguntado. Em tailandês, responda repetindo o verbo: 'มี' (tenho)."
+      },
+      {
+       "text": "มีครับ กระเป๋าหนึ่งใบ",
+       "textPt": "Sim, uma mala.",
+       "translit": "Mi khrap, krapao nueng bai"
+      },
+      {
+       "text": "ผมชอบกระเป๋า",
+       "textPt": "Eu gosto de malas.",
+       "translit": "Phom chop krapao",
+       "hint": "É uma frase possível, mas não responde: diga se tem ou não mala."
+      }
+     ]
+    },
+    {
+     "npc": "ริมหน้าต่างหรือทางเดินคะ",
+     "npcPt": "Janela ou corredor?",
+     "translit": "Rim naatang rue thang doen kha?",
+     "options": [
+      {
+       "text": "ใช่ครับ",
+       "textPt": "Sim, por favor.",
+       "translit": "Chai khrap",
+       "hint": "A pergunta oferece duas opções com 'หรือ' (ou); 'ใช่' (sim) não escolhe nenhuma."
+      },
+      {
+       "text": "ที่นั่งดีครับ",
+       "textPt": "Assento é bom.",
+       "translit": "Thi nang di khrap",
+       "hint": "Frase estranha e sem escolha. Diga qual lugar você quer."
+      },
+      {
+       "text": "ขอริมหน้าต่างครับ",
+       "textPt": "Janela, por favor.",
+       "translit": "Kho rim naatang khrap"
+      }
+     ]
+    },
+    {
+     "npc": "นี่บัตรขึ้นเครื่องค่ะ",
+     "npcPt": "Aqui está seu cartão de embarque.",
+     "translit": "Ni bat khuen khrueang kha.",
+     "options": [
+      {
+       "text": "ขอบคุณครับ ประตูไหนครับ",
+       "textPt": "Obrigado! Qual é o portão?",
+       "translit": "Khop khun khrap, pratu nai khrap?"
+      },
+      {
+       "text": "ไม่เป็นไรครับ",
+       "textPt": "De nada.",
+       "translit": "Mai pen rai khrap",
+       "hint": "'ไม่เป็นไร' (de nada) responde a um agradecimento; aqui quem agradece é você."
+      },
+      {
+       "text": "ราตรีสวัสดิ์ครับ",
+       "textPt": "Boa noite, senhor.",
+       "translit": "Ratri sawat khrap",
+       "hint": "'ราตรีสวัสดิ์' é boa noite de despedida; fora de contexto, pois você ainda precisa saber o portão."
+      }
+     ]
+    }
+   ]
+  },
+  "sc02": {
+   "npcName": "มะลิ",
+   "turns": [
+    {
+     "npc": "ยินดีต้อนรับค่ะ กี่ท่านคะ",
+     "npcPt": "Bem-vindo! Quantas pessoas?",
+     "translit": "Yindi ton rap kha. Ki than kha?",
+     "options": [
+      {
+       "text": "สบายดีครับ",
+       "textPt": "Estou bem.",
+       "translit": "Sabai di khrap",
+       "hint": "Responde a 'สบายดีไหม' (como vai?), não à quantidade de pessoas."
+      },
+      {
+       "text": "สองคนครับ",
+       "textPt": "Duas, por favor.",
+       "translit": "Song khon khrap"
+      },
+      {
+       "text": "โต๊ะใหญ่ครับ",
+       "textPt": "Uma mesa é grande.",
+       "translit": "To yai khrap",
+       "hint": "Não responde à pergunta. Diga o número de pessoas, como 'สองคน'."
+      }
+     ]
+    },
+    {
+     "npc": "รับอะไรดีคะ",
+     "npcPt": "O que você gostaria?",
+     "translit": "Rap arai di kha?",
+     "options": [
+      {
+       "text": "ผมชอบพิซซ่าครับ",
+       "textPt": "Eu gosto de pizza.",
+       "translit": "Phom chop phitsa khrap",
+       "hint": "'ชอบ' fala de gosto geral. Para pedir, use 'ขอ...' ou 'เอา...'."
+      },
+      {
+       "text": "เอาพิซซ่า!",
+       "textPt": "Me dá pizza!",
+       "translit": "Ao phitsa!",
+       "hint": "Sem 'ขอ' nem 'ครับ' soa seco e mandão. Prefira 'ขอพิซซ่าหนึ่งถาดครับ'."
+      },
+      {
+       "text": "ขอพิซซ่าหนึ่งถาดครับ",
+       "textPt": "Uma pizza, por favor.",
+       "translit": "Kho phitsa nueng that khrap"
+      }
+     ]
+    },
+    {
+     "npc": "รับเครื่องดื่มไหมคะ",
+     "npcPt": "Algo para beber?",
+     "translit": "Rap khrueang duem mai kha?",
+     "options": [
+      {
+       "text": "ขอน้ำเปล่าครับ",
+       "textPt": "Água, por favor.",
+       "translit": "Kho nam plao khrap"
+      },
+      {
+       "text": "ผมดื่มครับ",
+       "textPt": "Eu bebo, sim.",
+       "translit": "Phom duem khrap",
+       "hint": "Estranho: diga o que você quer beber."
+      },
+      {
+       "text": "ไม่กินครับ ขอบคุณ",
+       "textPt": "Não comer, obrigado.",
+       "translit": "Mai kin khrap, khop khun",
+       "hint": "'กิน' é comer, e a pergunta é sobre bebida (verbo 'ดื่ม'). A frase também fica incompleta."
+      }
+     ]
+    },
+    {
+     "npc": "อาหารมาแล้วค่ะ ทานให้อร่อยนะคะ",
+     "npcPt": "Aqui está sua comida. Aproveite!",
+     "translit": "Ahan ma laeo kha. Than hai aroi na kha.",
+     "options": [
+      {
+       "text": "ขอโทษครับ",
+       "textPt": "Sinto muito.",
+       "translit": "Kho thot khrap",
+       "hint": "Não há motivo para pedir desculpas aqui."
+      },
+      {
+       "text": "ขอบคุณครับ น่ากินมาก",
+       "textPt": "Obrigado! Parece bom.",
+       "translit": "Khop khun khrap, na kin mak"
+      },
+      {
+       "text": "ลาก่อนครับ",
+       "textPt": "Tchau!",
+       "translit": "La kon khrap",
+       "hint": "Você acabou de receber a comida; ainda não vai embora."
+      }
+     ]
+    }
+   ]
+  },
+  "sc03": {
+   "npcName": "ปัน",
+   "turns": [
+    {
+     "npc": "สวัสดีครับ ผมชื่อปัน คุณชื่ออะไรครับ",
+     "npcPt": "Oi! Eu sou o Sam. Qual é o seu nome?",
+     "translit": "Sawatdi khrap, phom chue Pan. Khun chue arai khrap?",
+     "options": [
+      {
+       "text": "ผมเรียกว่าอเล็กซ์ครับ",
+       "textPt": "Eu me chamo Alex.",
+       "translit": "Phom riak wa Alex khrap",
+       "hint": "Calque de 'eu me chamo': 'เรียกว่า' soa como apelido. Para o nome use 'ผมชื่อ...'."
+      },
+      {
+       "text": "ยินดีที่ได้รู้จักครับ ผมชื่ออเล็กซ์",
+       "textPt": "Prazer! Eu sou o Alex.",
+       "translit": "Yindi thi dai ru chak khrap. Phom chue Alex"
+      },
+      {
+       "text": "สบายดีครับ ขอบคุณ",
+       "textPt": "Bem, obrigado.",
+       "translit": "Sabai di khrap, khop khun",
+       "hint": "Responde a 'สบายดีไหม' (como vai?), não ao nome."
+      }
+     ]
+    },
+    {
+     "npc": "ยินดีครับ คุณมาจากที่ไหนครับ",
+     "npcPt": "Prazer! De onde você é?",
+     "translit": "Yindi khrap. Khun ma chak thi nai khrap?",
+     "options": [
+      {
+       "text": "ผมเป็นบราซิลครับ",
+       "textPt": "Eu sou Brasil.",
+       "translit": "Phom pen Brasin khrap",
+       "hint": "'เป็น' + país diz que você É o país. Use 'ผมมาจากบราซิล' ou 'ผมเป็นคนบราซิล'."
+      },
+      {
+       "text": "ผมเป็นของบราซิลครับ",
+       "textPt": "Eu sou de brasileiro.",
+       "translit": "Phom pen khong Brasin khrap",
+       "hint": "'ของ' indica posse, como se você pertencesse ao Brasil. Para origem use 'มาจาก' (vir de)."
+      },
+      {
+       "text": "ผมมาจากบราซิลครับ",
+       "textPt": "Sou do Brasil.",
+       "translit": "Phom ma chak Brasin khrap"
+      }
+     ]
+    },
+    {
+     "npc": "คุณชอบทำอะไรครับ",
+     "npcPt": "O que você gosta de fazer?",
+     "translit": "Khun chop tham arai khrap?",
+     "options": [
+      {
+       "text": "ผมชอบดนตรีกับฟุตบอลครับ",
+       "textPt": "Eu gosto de música e futebol.",
+       "translit": "Phom chop dontri kap futbon khrap"
+      },
+      {
+       "text": "ผมกำลังชอบฟุตบอลครับ",
+       "textPt": "Eu estou gostando de futebol.",
+       "translit": "Phom kamlang chop futbon khrap",
+       "hint": "'กำลัง' marca ação em andamento; 'ชอบ' é gosto geral e dispensa isso."
+      },
+      {
+       "text": "ผมมีงานอดิเรกฟุตบอลครับ",
+       "textPt": "Eu tenho hobby futebol.",
+       "translit": "Phom mi ngan adirek futbon khrap",
+       "hint": "Calque do português. Diga 'งานอดิเรกของผมคือฟุตบอล' ou simplesmente 'ผมชอบฟุตบอล'."
+      }
+     ]
+    },
+    {
+     "npc": "ติดต่อกันนะ เบอร์คุณเท่าไรครับ",
+     "npcPt": "Vamos manter contato. Qual é o seu número?",
+     "translit": "Tit to kan na. Boe khun thao rai khrap?",
+     "options": [
+      {
+       "text": "ครับ ผมจะติดต่อไปครับ",
+       "textPt": "Sim, eu fico em contato.",
+       "translit": "Khrap, phom cha tit to pai khrap",
+       "hint": "Não responde à pergunta: diga o seu número."
+      },
+      {
+       "text": "เบอร์ 555-0123 แล้วเบอร์คุณล่ะครับ",
+       "textPt": "É 555-0123. E o seu?",
+       "translit": "Boe 555-0123 laeo boe khun la khrap"
+      },
+      {
+       "text": "เบอร์ 555-0123 แล้วคุณล่ะ",
+       "textPt": "É 555-0123. E você?",
+       "translit": "Boe 555-0123 laeo khun la",
+       "hint": "Sem 'ครับ' no fim soa seco com quem você acabou de conhecer; prefira 'แล้วเบอร์คุณล่ะครับ'."
+      }
+     ]
+    }
+   ]
+  },
+  "sc04": {
+   "npcName": "นภา",
+   "turns": [
+    {
+     "npc": "สวัสดีตอนเย็นค่ะ ขอทราบชื่อด้วยค่ะ",
+     "npcPt": "Boa noite. Seu nome, por favor?",
+     "translit": "Sawatdi ton yen kha. Kho sap chue duai kha.",
+     "options": [
+      {
+       "text": "ผมเหนื่อยครับ",
+       "textPt": "Estou cansado.",
+       "translit": "Phom nueai khrap",
+       "hint": "Pode ser verdade, mas pediram seu nome."
+      },
+      {
+       "text": "ผมชื่ออเล็กซ์ครับ",
+       "textPt": "Meu nome é Alex.",
+       "translit": "Phom chue Alex khrap"
+      },
+      {
+       "text": "ราตรีสวัสดิ์ ลาก่อนครับ",
+       "textPt": "Boa noite, tchau.",
+       "translit": "Ratri sawat, la kon khrap",
+       "hint": "Você acabou de chegar; 'ราตรีสวัสดิ์' é despedida e não cabe agora."
+      }
+     ]
+    },
+    {
+     "npc": "คุณจองห้องไว้ไหมคะ",
+     "npcPt": "Você tem uma reserva?",
+     "translit": "Khun chong hong wai mai kha?",
+     "options": [
+      {
+       "text": "จองครับ สองคืน",
+       "textPt": "Sim, para duas noites.",
+       "translit": "Chong khrap, song khuen"
+      },
+      {
+       "text": "มีครับ ผมมีห้อง",
+       "textPt": "Sim, eu tenho um quarto.",
+       "translit": "Mi khrap, phom mi hong",
+       "hint": "Soa como se você já tivesse o quarto. O verbo para reserva é 'จอง'."
+      },
+      {
+       "text": "ไม่ครับ ขอบคุณ",
+       "textPt": "Não, obrigado.",
+       "translit": "Mai khrap, khop khun",
+       "hint": "'ไม่ ขอบคุณ' recusa uma oferta; aqui a pergunta é sobre reserva."
+      }
+     ]
+    },
+    {
+     "npc": "นี่กุญแจค่ะ ห้องสองศูนย์สี่",
+     "npcPt": "Aqui está sua chave. Quarto 204.",
+     "translit": "Ni kunchae kha. Hong song sun si kha.",
+     "options": [
+      {
+       "text": "กุญแจอยู่ที่ไหนครับ",
+       "textPt": "Onde está a chave?",
+       "translit": "Kunchae yu thi nai khrap",
+       "hint": "Ela acabou de entregar a chave."
+      },
+      {
+       "text": "ผมคือห้องสองศูนย์สี่",
+       "textPt": "Eu sou 204.",
+       "translit": "Phom khue hong song sun si",
+       "hint": "'คือ' iguala: você não é o número do quarto."
+      },
+      {
+       "text": "ขอบคุณครับ ลิฟต์อยู่ที่ไหนครับ",
+       "textPt": "Obrigado. Onde fica o elevador?",
+       "translit": "Khop khun khrap. Lif yu thi nai khrap?"
+      }
+     ]
+    },
+    {
+     "npc": "ตรงนั้น ทางซ้ายค่ะ",
+     "npcPt": "Ali, à esquerda.",
+     "translit": "Trong nan, thang sai kha.",
+     "options": [
+      {
+       "text": "ขอโทษครับ อะไรนะครับ",
+       "textPt": "Desculpe, o quê?",
+       "translit": "Kho thot khrap, arai na khrap",
+       "hint": "Pedir para repetir é válido, mas a explicação foi simples; agradecer é mais natural."
+      },
+      {
+       "text": "ขอบคุณครับ เยี่ยมเลย",
+       "textPt": "Ótimo, obrigado!",
+       "translit": "Khop khun khrap, yiam loei"
+      },
+      {
+       "text": "ใช่ ผมชอบซ้าย",
+       "textPt": "Sim, eu gosto de esquerda.",
+       "translit": "Chai, phom chop sai",
+       "hint": "Não responde nem agradece. Fora de contexto."
+      }
+     ]
+    }
+   ]
+  },
+  "sc05": {
+   "npcName": "วิชัย",
+   "turns": [
+    {
+     "npc": "สวัสดีครับ ช่วยอัปเดตโครงการหน่อยครับ",
+     "npcPt": "Bom dia. Pode nos atualizar sobre o projeto?",
+     "translit": "Sawatdi khrap. Chuai apdet khrongkan noi khrap.",
+     "options": [
+      {
+       "text": "ได้ครับ โครงการไปได้ดี",
+       "textPt": "Claro. O projeto está indo bem.",
+       "translit": "Dai khrap. Khrongkan pai dai di khrap"
+      },
+      {
+       "text": "โครงการอยู่บนเส้นทางที่ดี",
+       "textPt": "O projeto está em bom caminho.",
+       "translit": "Khrongkan yu bon senthang thi di",
+       "hint": "Calque de 'em bom caminho'. Em tailandês diga 'ไปได้ดี' ou 'เป็นไปตามแผน'."
+      },
+      {
+       "text": "ไม่ครับ ผมไม่อยาก",
+       "textPt": "Não, eu não quero.",
+       "translit": "Mai khrap, phom mai yak",
+       "hint": "Seco demais para uma reunião. Diga 'ได้ครับ' (claro)."
+      }
+     ]
+    },
+    {
+     "npc": "เรายังต้องทำอะไรอีกครับ",
+     "npcPt": "O que ainda precisamos fazer?",
+     "translit": "Rao yang tong tham arai ik khrap?",
+     "options": [
+      {
+       "text": "เราต้องการทดสอบแอปครับ",
+       "textPt": "Precisamos testar o app.",
+       "translit": "Rao tongkan thotsop aep khrap",
+       "hint": "'ต้องการ' é 'precisar/querer' com substantivo; antes de verbo use 'ต้อง' (ter que)."
+      },
+      {
+       "text": "เราต้องทดสอบแอปเมื่อวานครับ",
+       "textPt": "Temos que testar o app ontem.",
+       "translit": "Rao tong thotsop aep mue wan khrap",
+       "hint": "'เมื่อวาน' é ontem (passado); aqui você fala do que falta fazer."
+      },
+      {
+       "text": "เรายังต้องทดสอบแอปครับ",
+       "textPt": "Ainda precisamos testar o aplicativo.",
+       "translit": "Rao yang tong thotsop aep khrap"
+      }
+     ]
+    },
+    {
+     "npc": "คุณคิดยังไงกับดีไซน์ใหม่ครับ",
+     "npcPt": "O que você acha do novo design?",
+     "translit": "Khun khit yangngai kap disai mai khrap?",
+     "options": [
+      {
+       "text": "ผมเป็นเห็นด้วย สวยดีครับ",
+       "textPt": "Eu sou de acordo, é legal.",
+       "translit": "Phom pen hen duai, suai di khrap",
+       "hint": "'เห็นด้วย' (concordar) já é verbo; 'เป็น' antes dele é calque de 'eu sou de acordo'."
+      },
+      {
+       "text": "ผมว่าชัดเจนและทันสมัยครับ",
+       "textPt": "Acho que está claro e moderno.",
+       "translit": "Phom wa chat chen lae thansamai khrap"
+      },
+      {
+       "text": "ไม่รู้ ยังไงก็ได้",
+       "textPt": "Não sei, tanto faz.",
+       "translit": "Mai ru, yangngai ko dai",
+       "hint": "Soa desinteressado e sem 'ครับ'; dê uma opinião com 'ผมว่า...'."
+      }
+     ]
+    },
+    {
+     "npc": "คุณทำเสร็จเมื่อไรครับ",
+     "npcPt": "Quando você consegue terminar?",
+     "translit": "Khun tham set mue rai khrap?",
+     "options": [
+      {
+       "text": "ผมทำเสร็จจนถึงวันศุกร์ครับ",
+       "textPt": "Eu termino até sexta.",
+       "translit": "Phom tham set chon thueng wan suk khrap",
+       "hint": "'จนถึง' indica até quando algo continua; para prazo use 'ภายใน' ou 'ก่อน'."
+      },
+      {
+       "text": "ผมทำเสร็จในวันศุกร์ครับ",
+       "textPt": "Consigo terminar em sexta.",
+       "translit": "Phom tham set nai wan suk khrap",
+       "hint": "'ในวันศุกร์' diz 'na sexta'; para prazo (até sexta) use 'ภายในวันศุกร์'."
+      },
+      {
+       "text": "ผมทำเสร็จภายในวันศุกร์ครับ",
+       "textPt": "Consigo terminar até sexta.",
+       "translit": "Phom tham set phainai wan suk khrap"
+      }
+     ]
+    }
+   ]
+  },
+  "sc06": {
+   "npcName": "ฝน",
+   "turns": [
+    {
+     "npc": "สวัสดีค่ะ ต้องการความช่วยเหลือไหมคะ",
+     "npcPt": "Oi! Você precisa de ajuda?",
+     "translit": "Sawatdi kha. Tongkan khwam chuailue mai kha?",
+     "options": [
+      {
+       "text": "ครับ คลาสกี่ชั่วโมงครับ",
+       "textPt": "Sim. Qual hora é a aula?",
+       "translit": "Khrap, khlat ki chuamong khrap",
+       "hint": "'กี่ชั่วโมง' é duração (quantas horas); para horário use 'กี่โมง'."
+      },
+      {
+       "text": "ครับ คลาสราคาเท่าไรครับ",
+       "textPt": "Sim. Quanto custa a aula?",
+       "translit": "Khrap, khlat rakha thao rai khrap",
+       "hint": "'เท่าไร' pergunta preço, não horário."
+      },
+      {
+       "text": "ครับ คลาสเรียนกี่โมงครับ",
+       "textPt": "Sim. Que horas é a aula?",
+       "translit": "Khrap, khlat rian ki mong khrap"
+      }
+     ]
+    },
+    {
+     "npc": "คลาสเรียนสิบโมงค่ะ มีคำถามอีกไหมคะ",
+     "npcPt": "A aula é às dez. Mais alguma dúvida?",
+     "translit": "Khlat rian sip mong kha. Mi khamtham ik mai kha?",
+     "options": [
+      {
+       "text": "ครับ กำหนดส่งงานเมื่อไรครับ",
+       "textPt": "Sim. Quando é a entrega do trabalho?",
+       "translit": "Khrap, kamnot song ngan mue rai khrap"
+      },
+      {
+       "text": "ครับ งานเพื่อส่งเมื่อไรครับ",
+       "textPt": "Sim. Quando é o trabalho para entregar?",
+       "translit": "Khrap, ngan phuea song mue rai khrap",
+       "hint": "Calque de 'para entregar': 'เพื่อ' não funciona assim. Diga 'กำหนดส่งงาน' (prazo de entrega)."
+      },
+      {
+       "text": "ครับ ผมมีความสงสัยครับ",
+       "textPt": "Sim. Eu tenho uma dúvida.",
+       "translit": "Khrap, phom mi khwam songsai khrap",
+       "hint": "'ความสงสัย' soa pesado, como desconfiança. Para dúvida simples diga 'ผมมีคำถาม' (tenho uma pergunta)."
+      }
+     ]
+    },
+    {
+     "npc": "ส่งวันจันทร์ค่ะ มีอะไรอีกไหมคะ",
+     "npcPt": "É para segunda. Mais alguma coisa?",
+     "translit": "Song wan chan kha. Mi arai ik mai kha?",
+     "options": [
+      {
+       "text": "ครับ ร้านหนังสืออยู่ที่ไหนครับ",
+       "textPt": "Sim. Onde fica a livraria?",
+       "translit": "Khrap, ran nangsue yu thi nai khrap",
+       "hint": "Falso amigo: 'ร้านหนังสือ' é livraria. Biblioteca é 'ห้องสมุด'."
+      },
+      {
+       "text": "ครับ ห้องสมุดอยู่ที่ไหนครับ",
+       "textPt": "Sim. Onde fica a biblioteca?",
+       "translit": "Khrap, hong samut yu thi nai khrap"
+      },
+      {
+       "text": "ครับ อยู่ที่ไหนห้องสมุดครับ",
+       "textPt": "Sim. Biblioteca onde fica?",
+       "translit": "Khrap, yu thi nai hong samut khrap",
+       "hint": "Ordem errada: em tailandês o lugar vem antes: 'ห้องสมุดอยู่ที่ไหน'."
+      }
+     ]
+    },
+    {
+     "npc": "สุดทางเดิน ทางซ้ายค่ะ",
+     "npcPt": "No fim do corredor, à esquerda.",
+     "translit": "Sut thang doen, thang sai kha.",
+     "options": [
+      {
+       "text": "ขอบคุณครับ ตอนนี้เปิดไหมครับ",
+       "textPt": "Ótimo, obrigado! Está aberta agora?",
+       "translit": "Khop khun khrap. Tonni poet mai khrap?"
+      },
+      {
+       "text": "ขอบคุณครับ ไหมตอนนี้เปิดครับ",
+       "textPt": "Obrigado. Está aberta agora?",
+       "translit": "Khop khun khrap. Mai tonni poet khrap",
+       "hint": "'ไหม' vai no fim da pergunta: 'เปิดไหม', não antes do verbo."
+      },
+      {
+       "text": "ไม่เป็นไรครับ",
+       "textPt": "De nada.",
+       "translit": "Mai pen rai khrap",
+       "hint": "'ไม่เป็นไร' responde a um agradecimento; aqui quem agradece é você."
+      }
+     ]
+    }
+   ]
+  },
+  "sc07": {
+   "npcName": "แพร",
+   "turns": [
+    {
+     "npc": "สวัสดีค่ะ หาอะไรอยู่คะ",
+     "npcPt": "Oi! Você procura algo?",
+     "translit": "Sawatdi kha. Ha arai yu kha?",
+     "options": [
+      {
+       "text": "ครับ ผมอยากได้เสื้อแจ็กเก็ตครับ",
+       "textPt": "Sim, preciso de uma jaqueta.",
+       "translit": "Khrap, phom yak dai suea chaeket khrap"
+      },
+      {
+       "text": "ผมมองคุณครับ",
+       "textPt": "Eu olho para você.",
+       "translit": "Phom mong khun khrap",
+       "hint": "'มอง' é olhar para algo ou alguém; a pergunta é sobre procurar ('หา')."
+      },
+      {
+       "text": "ครับ ผมมองแจ็กเก็ตครับ",
+       "textPt": "Sim, eu olho jaqueta.",
+       "translit": "Khrap, phom mong chaeket khrap",
+       "hint": "'มอง' é só olhar. Para dizer que procura, use 'หา' ou 'อยากได้'."
+      }
+     ]
+    },
+    {
+     "npc": "ไซส์อะไรคะ",
+     "npcPt": "Qual é o seu tamanho?",
+     "translit": "Sai arai kha?",
+     "options": [
+      {
+       "text": "ผมอายุยี่สิบปีครับ",
+       "textPt": "Tenho vinte anos.",
+       "translit": "Phom ayu yisip pi khrap",
+       "hint": "Tamanho não é idade."
+      },
+      {
+       "text": "ไซส์ของผมเป็นสีน้ำเงินครับ",
+       "textPt": "Meu tamanho é azul.",
+       "translit": "Sai khong phom pen si namngoen khrap",
+       "hint": "Azul é cor (สี); diga o tamanho (S, M, L)."
+      },
+      {
+       "text": "ไซส์ M มั้งครับ",
+       "textPt": "Médio, acho.",
+       "translit": "Sai em mang khrap"
+      }
+     ]
+    },
+    {
+     "npc": "ห้องลองเสื้ออยู่ตรงนั้นค่ะ",
+     "npcPt": "O provador é ali.",
+     "translit": "Hong long suea yu trong nan kha.",
+     "options": [
+      {
+       "text": "ผมอยากนอนที่นั่นครับ",
+       "textPt": "Quero dormir lá.",
+       "translit": "Phom yak non thi nan khrap",
+       "hint": "Estranho: 'ห้องลองเสื้อ' é só para experimentar roupas."
+      },
+      {
+       "text": "ขอบคุณครับ ผมไปลองนะครับ",
+       "textPt": "Obrigado. Vou experimentar.",
+       "translit": "Khop khun khrap. Phom pai long na khrap"
+      },
+      {
+       "text": "ห้องสวยดีครับ",
+       "textPt": "O quarto é bonito.",
+       "translit": "Hong suai di khrap",
+       "hint": "Não é um quarto; agradeça e vá experimentar."
+      }
+     ]
+    },
+    {
+     "npc": "ลองแล้วเป็นยังไงคะ",
+     "npcPt": "Como ficou?",
+     "translit": "Long laeo pen yangngai kha?",
+     "options": [
+      {
+       "text": "คับไป มีไซส์ใหญ่กว่าไหมครับ",
+       "textPt": "Está pequeno. Tem um maior?",
+       "translit": "Khap pai. Mi sai yai kwa mai khrap"
+      },
+      {
+       "text": "แพงไปครับ",
+       "textPt": "É muito caro.",
+       "translit": "Phaeng pai khrap",
+       "hint": "Ela perguntou do caimento, não do preço."
+      },
+      {
+       "text": "ผมพอดีครับ",
+       "textPt": "Eu caibo, obrigado.",
+       "translit": "Phom phodi khrap",
+       "hint": "Descreva a roupa, não você: 'เสื้อพอดี' (a roupa serve)."
+      }
+     ]
+    }
+   ]
+  },
+  "sc08": {
+   "npcName": "ประเสริฐ",
+   "turns": [
+    {
+     "npc": "ดูเหมือนคุณหลงทาง ให้ช่วยไหมครับ",
+     "npcPt": "Você parece perdido. Posso ajudar?",
+     "translit": "Du muean khun long thang. Hai chuai mai khrap?",
+     "options": [
+      {
+       "text": "ไม่ครับ ผมเป็นนักท่องเที่ยว",
+       "textPt": "Não, sou turista.",
+       "translit": "Mai khrap, phom pen nak thongthiao",
+       "hint": "Não é errado, mas você perde a chance de pedir ajuda."
+      },
+      {
+       "text": "ครับ สถานีรถไฟฟ้าอยู่ที่ไหนครับ",
+       "textPt": "Sim, onde fica a estação de metrô?",
+       "translit": "Khrap, sathani rotfaifa yu thi nai khrap"
+      },
+      {
+       "text": "ครับ ผมหลงทางถนนครับ",
+       "textPt": "Sim, estou perdido a rua.",
+       "translit": "Khrap, phom long thang thanon khrap",
+       "hint": "Frase sem sentido. Diga 'ผมหลงทาง' (estou perdido) ou pergunte onde fica o lugar."
+      }
+     ]
+    },
+    {
+     "npc": "เดินตรงไปสองช่วงตึกครับ",
+     "npcPt": "Siga reto por duas quadras.",
+     "translit": "Doen trong pai song chuang tuek khrap.",
+     "options": [
+      {
+       "text": "ตรงไปสองช่วงตึก แล้วยังไงต่อครับ",
+       "textPt": "Reto duas quadras. E depois?",
+       "translit": "Trong pai song chuang tuek, laeo yangngai to khrap"
+      },
+      {
+       "text": "เมื่อวานผมเดินตรงไปครับ",
+       "textPt": "Eu fui reto ontem.",
+       "translit": "Mue wan phom doen trong pai khrap",
+       "hint": "Ele deu uma instrução, não falou do passado ('เมื่อวาน' = ontem)."
+      },
+      {
+       "text": "สองช่วงตึกไกลครับ",
+       "textPt": "Duas quadras é longe.",
+       "translit": "Song chuang tuek klai khrap",
+       "hint": "É um comentário; confirme e pergunte o próximo passo."
+      }
+     ]
+    },
+    {
+     "npc": "แล้วเลี้ยวซ้ายที่ธนาคารครับ",
+     "npcPt": "Depois vire à esquerda no banco.",
+     "translit": "Laeo liao sai thi thanakhan khrap.",
+     "options": [
+      {
+       "text": "เลี้ยวซ้ายคือธนาคารหรือครับ",
+       "textPt": "Vire esquerda é banco?",
+       "translit": "Liao sai khue thanakhan rue khrap",
+       "hint": "Pergunta confusa: 'คือ' iguala as duas coisas. Confirme com 'ซ้ายที่ธนาคารใช่ไหมครับ'."
+      },
+      {
+       "text": "ผมเลี้ยวขวาครับ",
+       "textPt": "Eu viro à direita.",
+       "translit": "Phom liao khwa khrap",
+       "hint": "Ele disse 'ซ้าย' (esquerda), não 'ขวา' (direita)."
+      },
+      {
+       "text": "เลี้ยวซ้ายที่ธนาคาร เข้าใจแล้วครับ",
+       "textPt": "Esquerda no banco. Entendi.",
+       "translit": "Liao sai thi thanakhan. Khaochai laeo khrap"
+      }
+     ]
+    },
+    {
+     "npc": "อยู่ข้างสวนสาธารณะครับ",
+     "npcPt": "Fica ao lado do parque.",
+     "translit": "Yu khang suan sathanana khrap.",
+     "options": [
+      {
+       "text": "ข้างคือสวนสาธารณะครับ",
+       "textPt": "Ao lado é um parque.",
+       "translit": "Khang khue suan sathanana khrap",
+       "hint": "Frase invertida; não é preciso repetir."
+      },
+      {
+       "text": "เยี่ยมเลย ขอบคุณที่ช่วยครับ",
+       "textPt": "Ótimo! Obrigado pela ajuda.",
+       "translit": "Yiam loei. Khop khun thi chuai khrap"
+      },
+      {
+       "text": "ผมไม่ชอบสวนสาธารณะครับ",
+       "textPt": "Não gosto de parques.",
+       "translit": "Phom mai chop suan sathanana khrap",
+       "hint": "Fora de contexto: agradeça pela ajuda."
+      }
+     ]
+    }
+   ]
+  },
+  "sc09": {
+   "npcName": "สุดา",
+   "turns": [
+    {
+     "npc": "สวัสดีค่ะ เป็นอะไรมาคะ",
+     "npcPt": "Bom dia. O que traz você aqui?",
+     "translit": "Sawatdi kha. Pen arai ma kha?",
+     "options": [
+      {
+       "text": "ผมเป็นไข้ตอนวันจันทร์ครับ",
+       "textPt": "Estou com febre desde segunda.",
+       "translit": "Phom pen khai ton wan chan khrap",
+       "hint": "'ตอน' marca um momento pontual; para 'desde segunda' use 'ตั้งแต่วันจันทร์'."
+      },
+      {
+       "text": "ผมเบื่อคอครับ",
+       "textPt": "Estou farto da minha garganta.",
+       "translit": "Phom bue kho khrap",
+       "hint": "'เบื่อ' é farto/entediado. Dor de garganta é 'เจ็บคอ'."
+      },
+      {
+       "text": "ผมเจ็บคอมาหลายวันแล้วครับ",
+       "textPt": "Estou com dor de garganta há dias.",
+       "translit": "Phom chep kho ma lai wan laeo khrap"
+      }
+     ]
+    },
+    {
+     "npc": "แพ้อะไรไหมคะ",
+     "npcPt": "Você tem alguma alergia?",
+     "translit": "Phae arai mai kha?",
+     "options": [
+      {
+       "text": "ไม่ครับ ผมไม่ใช่อาการแพ้ครับ",
+       "textPt": "Não, eu não sou alergia.",
+       "translit": "Mai khrap, phom mai chai akan phae khrap",
+       "hint": "Você não 'é' a alergia. Diga 'ผมไม่แพ้อะไร' (não sou alérgico a nada)."
+      },
+      {
+       "text": "ไม่มีครับ เท่าที่ผมรู้",
+       "textPt": "Não, nenhuma que eu saiba.",
+       "translit": "Mai mi khrap, thao thi phom ru"
+      },
+      {
+       "text": "มีครับ ผมแพ้ของถั่วครับ",
+       "textPt": "Sim, tenho alergia de nozes.",
+       "translit": "Mi khrap, phom phae khong thua khrap",
+       "hint": "'ของ' indica posse; diga direto 'แพ้ถั่ว', sem preposição."
+      }
+     ]
+    },
+    {
+     "npc": "อ้าปากแล้วพูดว่า อา ค่ะ",
+     "npcPt": "Abra a boca e diga aah.",
+     "translit": "A pak laeo phut wa a kha.",
+     "options": [
+      {
+       "text": "อา... ร้ายแรงไหมครับคุณหมอ",
+       "textPt": "Aah... É sério, doutor?",
+       "translit": "A... Rai raeng mai khrap khun mo"
+      },
+      {
+       "text": "อา... ร้ายแรงไหมครับ",
+       "textPt": "Aah... É sério?",
+       "translit": "A... Rai raeng mai khrap",
+       "hint": "Sem tratar por 'คุณหมอ' soa direto demais com um médico."
+      },
+      {
+       "text": "ไม่อยากครับ ขอโทษ",
+       "textPt": "Não quero, desculpe.",
+       "translit": "Mai yak khrap, kho thot",
+       "hint": "Seco e incompleto; o exame é importante, então colabore."
+      }
+     ]
+    },
+    {
+     "npc": "ติดเชื้อเล็กน้อยค่ะ พักผ่อนและดื่มน้ำเยอะๆ นะคะ",
+     "npcPt": "É uma infecção leve. Descanse e beba água.",
+     "translit": "Tit chuea leknoi kha. Phak phon lae duem nam yoe yoe na kha.",
+     "options": [
+      {
+       "text": "ผมควรพักผ่อนนะ ขอบใจ",
+       "textPt": "Eu devo descansar, obrigado.",
+       "translit": "Phom khuan phak phon na, khop chai",
+       "hint": "'ขอบใจ' é dito a quem está abaixo de você; com o médico use 'ขอบคุณครับ'."
+      },
+      {
+       "text": "ผมไปทำงานต้องไหมครับ",
+       "textPt": "Eu tenho que ir ao trabalho?",
+       "translit": "Phom pai tham ngan tong mai khrap",
+       "hint": "Ordem errada: 'ต้อง' vem antes do verbo: 'ผมต้องไปทำงานไหม'."
+      },
+      {
+       "text": "ขอบคุณครับคุณหมอ ต้องกินยาไหมครับ",
+       "textPt": "Obrigado, doutor. Devo tomar remédio?",
+       "translit": "Khop khun khrap khun mo. Tong kin ya mai khrap"
+      }
+     ]
+    }
+   ]
+  },
+  "sc10": {
+   "npcName": "มาลี",
+   "turns": [
+    {
+     "npc": "ขอบคุณที่มานะคะ เล่าเรื่องคุณหน่อยค่ะ",
+     "npcPt": "Obrigada por vir. Fale sobre você.",
+     "translit": "Khop khun thi ma na kha. Lao rueang khun noi kha.",
+     "options": [
+      {
+       "text": "ผมอายุ 25 ปี ชอบพิซซ่าครับ",
+       "textPt": "Tenho 25 anos e gosto de pizza.",
+       "translit": "Phom ayu 25 pi, chop phitsa khrap",
+       "hint": "Na entrevista o foco deve ser profissional, não idade e comida."
+      },
+      {
+       "text": "ผมเป็นดีไซเนอร์ ประสบการณ์สามปีครับ",
+       "textPt": "Sou designer com três anos de experiência.",
+       "translit": "Phom pen disaenoe, prasopkan sam pi khrap"
+      },
+      {
+       "text": "ชื่อผมอยู่ในกระดาษครับ",
+       "textPt": "Meu nome está no papel.",
+       "translit": "Chue phom yu nai kradat khrap",
+       "hint": "Fora de contexto: ela quer saber da sua experiência."
+      }
+     ]
+    },
+    {
+     "npc": "ทำไมคุณถึงอยากได้งานนี้คะ",
+     "npcPt": "Por que você quer este emprego?",
+     "translit": "Thammai khun thueng yak dai ngan ni kha?",
+     "options": [
+      {
+       "text": "ผมชอบทำงานเป็นทีมและอยากเติบโตครับ",
+       "textPt": "Gosto de trabalho em equipe e quero crescer.",
+       "translit": "Phom chop tham ngan pen thim lae yak toetto khrap"
+      },
+      {
+       "text": "เพราะผมต้องการเงินเท่านั้นครับ",
+       "textPt": "Porque preciso de dinheiro, só isso.",
+       "translit": "Phro phom tongkan ngoen thao nan khrap",
+       "hint": "Honesto, mas mostra pouco interesse pela vaga."
+      },
+      {
+       "text": "ผมอยากได้เพราะมันเจ๋งครับ",
+       "textPt": "Quero porque é legal.",
+       "translit": "Phom yak dai phro man choeng khrap",
+       "hint": "Vago e informal demais ('เจ๋ง' é gíria); dê um motivo concreto."
+      }
+     ]
+    },
+    {
+     "npc": "จุดแข็งที่สุดของคุณคืออะไรคะ",
+     "npcPt": "Qual é o seu maior ponto forte?",
+     "translit": "Chut khaeng thisut khong khun khue arai kha?",
+     "options": [
+      {
+       "text": "ผมเก่งที่สุดในโลกครับ",
+       "textPt": "Sou o melhor do mundo.",
+       "translit": "Phom keng thisut nai lok khrap",
+       "hint": "Exagerado; prefira algo concreto e humilde."
+      },
+      {
+       "text": "จุดแข็งผมคือยกน้ำหนักครับ",
+       "textPt": "Meu ponto forte é levantar peso.",
+       "translit": "Chut khaeng phom khue yok namnak khrap",
+       "hint": "Possível, mas não é relevante para a vaga."
+      },
+      {
+       "text": "ผมเป็นระเบียบและเรียนรู้เร็วครับ",
+       "textPt": "Sou organizado e aprendo rápido.",
+       "translit": "Phom pen rabiap lae rian ru reo khrap"
+      }
+     ]
+    },
+    {
+     "npc": "คุณมีคำถามอะไรถามเราไหมคะ",
+     "npcPt": "Você tem alguma pergunta para nós?",
+     "translit": "Khun mi khamtham arai tham rao mai kha?",
+     "options": [
+      {
+       "text": "ไม่มีครับ ลาก่อน",
+       "textPt": "Sem perguntas. Tchau.",
+       "translit": "Mai mi khrap, la kon",
+       "hint": "Seco demais, e 'ลาก่อน' é despedida definitiva; mostre interesse."
+      },
+      {
+       "text": "มีครับ วันทำงานปกติเป็นอย่างไรครับ",
+       "textPt": "Sim. Como é um dia típico?",
+       "translit": "Mi khrap, wan tham ngan pokkati pen yangrai khrap"
+      },
+      {
+       "text": "มีครับ พรุ่งนี้ผมจะได้เงินเท่าไรครับ",
+       "textPt": "Sim, quanto vou ganhar amanhã?",
+       "translit": "Mi khrap, phrung ni phom cha dai ngoen thao rai khrap",
+       "hint": "Perguntar salário já, e com 'พรุ่งนี้' (amanhã), soa pouco natural."
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

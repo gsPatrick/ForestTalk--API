@@ -1,0 +1,1015 @@
+{
+ "language": "zh",
+ "scenarios": {
+  "sc01": {
+   "npcName": "李娜",
+   "turns": [
+    {
+     "npc": "你好！请出示护照。",
+     "npcPt": "Olá! Passaporte, por favor.",
+     "translit": "Nǐ hǎo! Qǐng chūshì hùzhào.",
+     "options": [
+      {
+       "text": "给您。",
+       "textPt": "Aqui está.",
+       "translit": "Gěi nín."
+      },
+      {
+       "text": "我是护照。",
+       "textPt": "Eu sou um passaporte.",
+       "translit": "Wǒ shì hùzhào.",
+       "hint": "Soa como se você fosse o documento. Ao entregar, diga «给您» (aqui está)."
+      },
+      {
+       "text": "谢谢，再见。",
+       "textPt": "Obrigado, tchau.",
+       "translit": "Xièxie, zàijiàn.",
+       "hint": "Ainda não é hora de se despedir: primeiro entregue o documento."
+      }
+     ]
+    },
+    {
+     "npc": "您有行李吗？",
+     "npcPt": "Você tem uma mala?",
+     "translit": "Nín yǒu xíngli ma?",
+     "options": [
+      {
+       "text": "是的，我很高兴。",
+       "textPt": "Sim, estou feliz.",
+       "translit": "Shì de, wǒ hěn gāoxìng.",
+       "hint": "Não responde ao que foi perguntado. Em chinês, responda com o verbo: «有» (tenho)."
+      },
+      {
+       "text": "有，一个行李箱。",
+       "textPt": "Sim, uma mala.",
+       "translit": "Yǒu, yí gè xínglixiāng."
+      },
+      {
+       "text": "我喜欢行李箱。",
+       "textPt": "Eu gosto de malas.",
+       "translit": "Wǒ xǐhuan xínglixiāng.",
+       "hint": "Frase possível, mas não responde: diga «有» ou «没有» (tenho / não tenho)."
+      }
+     ]
+    },
+    {
+     "npc": "靠窗还是靠过道？",
+     "npcPt": "Janela ou corredor?",
+     "translit": "Kào chuāng háishi kào guòdào?",
+     "options": [
+      {
+       "text": "是的，谢谢。",
+       "textPt": "Sim, por favor.",
+       "translit": "Shì de, xièxie.",
+       "hint": "Pergunta com «还是» (ou) pede escolha; «是的» (sim) não escolhe nenhuma."
+      },
+      {
+       "text": "座位很好。",
+       "textPt": "Assento é bom.",
+       "translit": "Zuòwèi hěn hǎo.",
+       "hint": "Frase estranha e sem escolha. Diga o lugar: «靠窗» (janela) ou «靠过道»."
+      },
+      {
+       "text": "靠窗，谢谢。",
+       "textPt": "Janela, por favor.",
+       "translit": "Kào chuāng, xièxie."
+      }
+     ]
+    },
+    {
+     "npc": "这是您的登机牌。",
+     "npcPt": "Aqui está seu cartão de embarque.",
+     "translit": "Zhè shì nín de dēngjīpái.",
+     "options": [
+      {
+       "text": "谢谢！登机口在哪儿？",
+       "textPt": "Obrigado! Qual é o portão?",
+       "translit": "Xièxie! Dēngjīkǒu zài nǎr?"
+      },
+      {
+       "text": "不客气。",
+       "textPt": "De nada.",
+       "translit": "Bú kèqi.",
+       "hint": "«不客气» é o que quem atende diz, não o passageiro."
+      },
+      {
+       "text": "晚上好，先生。",
+       "textPt": "Boa noite, senhor.",
+       "translit": "Wǎnshang hǎo, xiānsheng.",
+       "hint": "Fora de contexto: você ainda precisa saber o portão."
+      }
+     ]
+    }
+   ]
+  },
+  "sc02": {
+   "npcName": "王芳",
+   "turns": [
+    {
+     "npc": "欢迎光临！几位？",
+     "npcPt": "Bem-vindo! Quantas pessoas?",
+     "translit": "Huānyíng guānglín! Jǐ wèi?",
+     "options": [
+      {
+       "text": "我很好。",
+       "textPt": "Estou bem.",
+       "translit": "Wǒ hěn hǎo.",
+       "hint": "Responde a «你好吗?», não à quantidade. Aqui «几位» pede o número de pessoas."
+      },
+      {
+       "text": "两位，谢谢。",
+       "textPt": "Duas, por favor.",
+       "translit": "Liǎng wèi, xièxie."
+      },
+      {
+       "text": "桌子很大。",
+       "textPt": "Uma mesa é grande.",
+       "translit": "Zhuōzi hěn dà.",
+       "hint": "Não responde à pergunta. Diga o número: «两位» (duas pessoas)."
+      }
+     ]
+    },
+    {
+     "npc": "您想吃点什么？",
+     "npcPt": "O que você gostaria?",
+     "translit": "Nín xiǎng chī diǎn shénme?",
+     "options": [
+      {
+       "text": "我喜欢披萨。",
+       "textPt": "Eu gosto de pizza.",
+       "translit": "Wǒ xǐhuan pīsà.",
+       "hint": "«喜欢» fala de gosto geral. Para pedir, use «我要…» ou «来一份…»."
+      },
+      {
+       "text": "给我披萨！",
+       "textPt": "Me dá pizza!",
+       "translit": "Gěi wǒ pīsà!",
+       "hint": "Soa seco e mandão, e falta o classificador «一份». Prefira «来一份披萨，谢谢»."
+      },
+      {
+       "text": "来一份披萨，谢谢。",
+       "textPt": "Uma pizza, por favor.",
+       "translit": "Lái yí fèn pīsà, xièxie."
+      }
+     ]
+    },
+    {
+     "npc": "要喝点什么吗？",
+     "npcPt": "Algo para beber?",
+     "translit": "Yào hē diǎn shénme ma?",
+     "options": [
+      {
+       "text": "一杯水，谢谢。",
+       "textPt": "Água, por favor.",
+       "translit": "Yì bēi shuǐ, xièxie."
+      },
+      {
+       "text": "我喝，是的。",
+       "textPt": "Eu bebo, sim.",
+       "translit": "Wǒ hē, shì de.",
+       "hint": "Estranho: diga o que quer beber, com classificador: «一杯水»."
+      },
+      {
+       "text": "不吃，谢谢。",
+       "textPt": "Não comer, obrigado.",
+       "translit": "Bù chī, xièxie.",
+       "hint": "«吃» é comer; bebida é «喝». Além disso, a pergunta pede o que você quer."
+      }
+     ]
+    },
+    {
+     "npc": "这是您的菜。请慢用！",
+     "npcPt": "Aqui está sua comida. Aproveite!",
+     "translit": "Zhè shì nín de cài. Qǐng màn yòng!",
+     "options": [
+      {
+       "text": "对不起。",
+       "textPt": "Sinto muito.",
+       "translit": "Duìbuqǐ.",
+       "hint": "Não há motivo para pedir desculpas aqui."
+      },
+      {
+       "text": "谢谢！看起来很好吃。",
+       "textPt": "Obrigado! Parece bom.",
+       "translit": "Xièxie! Kàn qǐlái hěn hǎochī."
+      },
+      {
+       "text": "再见！",
+       "textPt": "Tchau!",
+       "translit": "Zàijiàn!",
+       "hint": "Você acabou de receber a comida; ainda não vai embora."
+      }
+     ]
+    }
+   ]
+  },
+  "sc03": {
+   "npcName": "山姆",
+   "turns": [
+    {
+     "npc": "嗨！我是山姆。你叫什么名字？",
+     "npcPt": "Oi! Eu sou o Sam. Qual é o seu nome?",
+     "translit": "Hāi! Wǒ shì Shānmǔ. Nǐ jiào shénme míngzi?",
+     "options": [
+      {
+       "text": "我被叫亚历克斯。",
+       "textPt": "Eu me chamo Alex.",
+       "translit": "Wǒ bèi jiào Yàlìkèsī.",
+       "hint": "Calque de «eu me chamo». Em chinês diga «我叫亚历克斯»; «被» (passiva) soa estranho."
+      },
+      {
+       "text": "很高兴认识你！我是亚历克斯。",
+       "textPt": "Prazer! Eu sou o Alex.",
+       "translit": "Hěn gāoxìng rènshi nǐ! Wǒ shì Yàlìkèsī."
+      },
+      {
+       "text": "我很好，谢谢。",
+       "textPt": "Bem, obrigado.",
+       "translit": "Wǒ hěn hǎo, xièxie.",
+       "hint": "Responde a «你好吗?», não ao nome."
+      }
+     ]
+    },
+    {
+     "npc": "很高兴认识你！你是哪里人？",
+     "npcPt": "Prazer! De onde você é?",
+     "translit": "Hěn gāoxìng rènshi nǐ! Nǐ shì nǎlǐ rén?",
+     "options": [
+      {
+       "text": "我是巴西。",
+       "textPt": "Eu sou Brasil.",
+       "translit": "Wǒ shì Bāxī.",
+       "hint": "Diz que você É o país. Use «我是巴西人» ou «我来自巴西»."
+      },
+      {
+       "text": "我是从巴西人。",
+       "textPt": "Eu sou de brasileiro.",
+       "translit": "Wǒ shì cóng Bāxī rén.",
+       "hint": "«从» (de) não combina com «人». Diga «我来自巴西» ou «我是巴西人»."
+      },
+      {
+       "text": "我来自巴西。",
+       "textPt": "Sou do Brasil.",
+       "translit": "Wǒ láizì Bāxī."
+      }
+     ]
+    },
+    {
+     "npc": "你喜欢做什么？",
+     "npcPt": "O que você gosta de fazer?",
+     "translit": "Nǐ xǐhuan zuò shénme?",
+     "options": [
+      {
+       "text": "我喜欢音乐和足球。",
+       "textPt": "Eu gosto de música e futebol.",
+       "translit": "Wǒ xǐhuan yīnyuè hé zúqiú."
+      },
+      {
+       "text": "我正在喜欢足球。",
+       "textPt": "Eu estou gostando de futebol.",
+       "translit": "Wǒ zhèngzài xǐhuan zúqiú.",
+       "hint": "«喜欢» é um estado, não uma ação em andamento: não usa «正在». Diga «我喜欢足球»."
+      },
+      {
+       "text": "我有爱好足球。",
+       "textPt": "Eu tenho hobby futebol.",
+       "translit": "Wǒ yǒu àihào zúqiú.",
+       "hint": "Calque do português. Diga «我的爱好是足球» ou «我喜欢足球»."
+      }
+     ]
+    },
+    {
+     "npc": "我们保持联系吧。你的号码是多少？",
+     "npcPt": "Vamos manter contato. Qual é o seu número?",
+     "translit": "Wǒmen bǎochí liánxì ba. Nǐ de hàomǎ shì duōshao?",
+     "options": [
+      {
+       "text": "好的，我会保持联系。",
+       "textPt": "Sim, eu fico em contato.",
+       "translit": "Hǎo de, wǒ huì bǎochí liánxì.",
+       "hint": "Não responde à pergunta: diga o seu número."
+      },
+      {
+       "text": "是138-0013-8000。你呢？",
+       "textPt": "É 555-0123. E o seu?",
+       "translit": "Shì yāo sān bā, líng líng yāo sān, bā líng líng líng. Nǐ ne?"
+      },
+      {
+       "text": "是138-0013-8000。你吗？",
+       "textPt": "É 555-0123. E você?",
+       "translit": "Shì yāo sān bā, líng líng yāo sān, bā líng líng líng. Nǐ ma?",
+       "hint": "Para devolver a pergunta use «你呢?» (e você?). «你吗?» não funciona assim."
+      }
+     ]
+    }
+   ]
+  },
+  "sc04": {
+   "npcName": "张伟",
+   "turns": [
+    {
+     "npc": "晚上好。请问您的姓名？",
+     "npcPt": "Boa noite. Seu nome, por favor?",
+     "translit": "Wǎnshang hǎo. Qǐngwèn nín de xìngmíng?",
+     "options": [
+      {
+       "text": "我很累。",
+       "textPt": "Estou cansado.",
+       "translit": "Wǒ hěn lèi.",
+       "hint": "Pode ser verdade, mas pediram seu nome."
+      },
+      {
+       "text": "我叫亚历克斯。",
+       "textPt": "Meu nome é Alex.",
+       "translit": "Wǒ jiào Yàlìkèsī."
+      },
+      {
+       "text": "晚上好，再见。",
+       "textPt": "Boa noite, tchau.",
+       "translit": "Wǎnshang hǎo, zàijiàn.",
+       "hint": "Você acabou de chegar; não é hora de se despedir."
+      }
+     ]
+    },
+    {
+     "npc": "您有预订吗？",
+     "npcPt": "Você tem uma reserva?",
+     "translit": "Nín yǒu yùdìng ma?",
+     "options": [
+      {
+       "text": "有，订了两晚。",
+       "textPt": "Sim, para duas noites.",
+       "translit": "Yǒu, dìng le liǎng wǎn."
+      },
+      {
+       "text": "有，我有一个房间。",
+       "textPt": "Sim, eu tenho um quarto.",
+       "translit": "Yǒu, wǒ yǒu yí gè fángjiān.",
+       "hint": "Soa como se você já tivesse o quarto. Diga que tem uma reserva: «有预订»."
+      },
+      {
+       "text": "不，谢谢。",
+       "textPt": "Não, obrigado.",
+       "translit": "Bù, xièxie.",
+       "hint": "«不，谢谢» recusa uma oferta; a pergunta é sobre reserva: responda «有» ou «没有»."
+      }
+     ]
+    },
+    {
+     "npc": "这是您的房卡。房间是204。",
+     "npcPt": "Aqui está sua chave. Quarto 204.",
+     "translit": "Zhè shì nín de fángkǎ. Fángjiān shì èr líng sì.",
+     "options": [
+      {
+       "text": "房卡在哪儿？",
+       "textPt": "Onde está a chave?",
+       "translit": "Fángkǎ zài nǎr?",
+       "hint": "Ela acabou de entregar o cartão-chave."
+      },
+      {
+       "text": "我是204。",
+       "textPt": "Eu sou 204.",
+       "translit": "Wǒ shì èr líng sì.",
+       "hint": "Você não é o número do quarto."
+      },
+      {
+       "text": "谢谢。电梯在哪儿？",
+       "textPt": "Obrigado. Onde fica o elevador?",
+       "translit": "Xièxie. Diàntī zài nǎr?"
+      }
+     ]
+    },
+    {
+     "npc": "就在那边，左边。",
+     "npcPt": "Ali, à esquerda.",
+     "translit": "Jiù zài nàbiān, zuǒbiān.",
+     "options": [
+      {
+       "text": "对不起，什么？",
+       "textPt": "Desculpe, o quê?",
+       "translit": "Duìbuqǐ, shénme?",
+       "hint": "Pedir para repetir é válido, mas «什么？» sozinho soa seco; e a explicação foi simples: agradecer é mais natural."
+      },
+      {
+       "text": "好的，谢谢！",
+       "textPt": "Ótimo, obrigado!",
+       "translit": "Hǎo de, xièxie!"
+      },
+      {
+       "text": "是的，我喜欢左边。",
+       "textPt": "Sim, eu gosto de esquerda.",
+       "translit": "Shì de, wǒ xǐhuan zuǒbiān.",
+       "hint": "Não responde nem agradece. Fora de contexto."
+      }
+     ]
+    }
+   ]
+  },
+  "sc05": {
+   "npcName": "刘静",
+   "turns": [
+    {
+     "npc": "早上好。您能汇报一下项目进展吗？",
+     "npcPt": "Bom dia. Pode nos atualizar sobre o projeto?",
+     "translit": "Zǎoshang hǎo. Nín néng huìbào yíxià xiàngmù jìnzhǎn ma?",
+     "options": [
+      {
+       "text": "当然。项目进展顺利。",
+       "textPt": "Claro. O projeto está indo bem.",
+       "translit": "Dāngrán. Xiàngmù jìnzhǎn shùnlì."
+      },
+      {
+       "text": "项目在好的路上。",
+       "textPt": "O projeto está em bom caminho.",
+       "translit": "Xiàngmù zài hǎo de lù shang.",
+       "hint": "Calque de «em bom caminho». Em chinês: «进展顺利» ou «按计划进行»."
+      },
+      {
+       "text": "不，我不想。",
+       "textPt": "Não, eu não quero.",
+       "translit": "Bù, wǒ bù xiǎng.",
+       "hint": "Seco demais para uma reunião. Diga «当然» ou «好的»."
+      }
+     ]
+    },
+    {
+     "npc": "我们还需要做什么？",
+     "npcPt": "O que ainda precisamos fazer?",
+     "translit": "Wǒmen hái xūyào zuò shénme?",
+     "options": [
+      {
+       "text": "我们需要测试了应用。",
+       "textPt": "Precisamos testar o app.",
+       "translit": "Wǒmen xūyào cèshì le yìngyòng.",
+       "hint": "«了» marca ação já concluída; aqui o teste ainda falta fazer. Diga «还需要测试»."
+      },
+      {
+       "text": "我们得测试应用昨天。",
+       "textPt": "Temos que testar o app ontem.",
+       "translit": "Wǒmen děi cèshì yìngyòng zuótiān.",
+       "hint": "«昨天» é passado e, em chinês, a palavra de tempo vem antes do verbo. Aqui você fala do que falta."
+      },
+      {
+       "text": "我们还需要测试应用。",
+       "textPt": "Ainda precisamos testar o aplicativo.",
+       "translit": "Wǒmen hái xūyào cèshì yìngyòng."
+      }
+     ]
+    },
+    {
+     "npc": "你觉得新设计怎么样？",
+     "npcPt": "O que você acha do novo design?",
+     "translit": "Nǐ juéde xīn shèjì zěnmeyàng?",
+     "options": [
+      {
+       "text": "我是同意，很酷。",
+       "textPt": "Eu sou de acordo, é legal.",
+       "translit": "Wǒ shì tóngyì, hěn kù.",
+       "hint": "«同意» já é verbo: diga «我同意». Não use «是» antes, como no português «eu sou de acordo»."
+      },
+      {
+       "text": "我觉得清晰又现代。",
+       "textPt": "Acho que está claro e moderno.",
+       "translit": "Wǒ juéde qīngxī yòu xiàndài."
+      },
+      {
+       "text": "不知道，随便。",
+       "textPt": "Não sei, tanto faz.",
+       "translit": "Bù zhīdào, suíbiàn.",
+       "hint": "Soa desinteressado numa reunião; dê uma opinião, como «我觉得…»."
+      }
+     ]
+    },
+    {
+     "npc": "你什么时候能完成？",
+     "npcPt": "Quando você consegue terminar?",
+     "translit": "Nǐ shénme shíhou néng wánchéng?",
+     "options": [
+      {
+       "text": "我完成到星期五。",
+       "textPt": "Eu termino até sexta.",
+       "translit": "Wǒ wánchéng dào xīngqīwǔ.",
+       "hint": "«到» indica até quando algo continua; para prazo use «星期五之前»."
+      },
+      {
+       "text": "我能完成在星期五。",
+       "textPt": "Consigo terminar em sexta.",
+       "translit": "Wǒ néng wánchéng zài xīngqīwǔ.",
+       "hint": "O tempo vem antes do verbo em chinês: «我星期五之前能完成»."
+      },
+      {
+       "text": "我星期五之前能完成。",
+       "textPt": "Consigo terminar até sexta.",
+       "translit": "Wǒ xīngqīwǔ zhīqián néng wánchéng."
+      }
+     ]
+    }
+   ]
+  },
+  "sc06": {
+   "npcName": "赵敏",
+   "turns": [
+    {
+     "npc": "你好！需要帮忙吗？",
+     "npcPt": "Oi! Você precisa de ajuda?",
+     "translit": "Nǐ hǎo! Xūyào bāngmáng ma?",
+     "options": [
+      {
+       "text": "需要。课是哪个时间？",
+       "textPt": "Sim. Qual hora é a aula?",
+       "translit": "Xūyào. Kè shì nǎge shíjiān?",
+       "hint": "Calque de «qual hora». Para horário diga «几点上课？»."
+      },
+      {
+       "text": "需要。课多少钱？",
+       "textPt": "Sim. Quanto custa a aula?",
+       "translit": "Xūyào. Kè duōshao qián?",
+       "hint": "«多少钱» pergunta preço, não horário."
+      },
+      {
+       "text": "需要。几点上课？",
+       "textPt": "Sim. Que horas é a aula?",
+       "translit": "Xūyào. Jǐ diǎn shàngkè?"
+      }
+     ]
+    },
+    {
+     "npc": "十点上课。还有问题吗？",
+     "npcPt": "A aula é às dez. Mais alguma dúvida?",
+     "translit": "Shí diǎn shàngkè. Hái yǒu wèntí ma?",
+     "options": [
+      {
+       "text": "有。作业什么时候交？",
+       "textPt": "Sim. Quando é a entrega do trabalho?",
+       "translit": "Yǒu. Zuòyè shénme shíhou jiāo?"
+      },
+      {
+       "text": "有。什么时候是交作业？",
+       "textPt": "Sim. Quando é o trabalho para entregar?",
+       "translit": "Yǒu. Shénme shíhou shì jiāo zuòyè?",
+       "hint": "Calque da ordem do português. Em chinês: «作业什么时候交？» (o assunto vem primeiro)."
+      },
+      {
+       "text": "有。我有一个怀疑。",
+       "textPt": "Sim. Eu tenho uma dúvida.",
+       "translit": "Yǒu. Wǒ yǒu yí gè huáiyí.",
+       "hint": "Falso cognato: «怀疑» é duvidar/suspeitar. Para dúvida diga «我有一个问题»."
+      }
+     ]
+    },
+    {
+     "npc": "星期一交。还有别的吗？",
+     "npcPt": "É para segunda. Mais alguma coisa?",
+     "translit": "Xīngqīyī jiāo. Hái yǒu biéde ma?",
+     "options": [
+      {
+       "text": "有。书店在哪儿？",
+       "textPt": "Sim. Onde fica a livraria?",
+       "translit": "Yǒu. Shūdiàn zài nǎr?",
+       "hint": "Falso amigo: «书店» é livraria. Biblioteca é «图书馆»."
+      },
+      {
+       "text": "有。图书馆在哪儿？",
+       "textPt": "Sim. Onde fica a biblioteca?",
+       "translit": "Yǒu. Túshūguǎn zài nǎr?"
+      },
+      {
+       "text": "有。图书馆哪儿在？",
+       "textPt": "Sim. Biblioteca onde fica?",
+       "translit": "Yǒu. Túshūguǎn nǎr zài?",
+       "hint": "Ordem errada. Em chinês: «图书馆在哪儿？» (o verbo 在 vem antes de 哪儿)."
+      }
+     ]
+    },
+    {
+     "npc": "在走廊尽头，左边。",
+     "npcPt": "No fim do corredor, à esquerda.",
+     "translit": "Zài zǒuláng jìntóu, zuǒbiān.",
+     "options": [
+      {
+       "text": "太好了，谢谢！现在开门吗？",
+       "textPt": "Ótimo, obrigado! Está aberta agora?",
+       "translit": "Tài hǎo le, xièxie! Xiànzài kāimén ma?"
+      },
+      {
+       "text": "谢谢。现在是开吗？",
+       "textPt": "Obrigado. Está aberta agora?",
+       "translit": "Xièxie. Xiànzài shì kāi ma?",
+       "hint": "Estrutura estranha: para «está aberta?» diga «现在开门吗？» (sem «是»)."
+      },
+      {
+       "text": "不客气。",
+       "textPt": "De nada.",
+       "translit": "Bú kèqi.",
+       "hint": "«不客气» responde a um agradecimento; aqui é você quem agradece."
+      }
+     ]
+    }
+   ]
+  },
+  "sc07": {
+   "npcName": "孙丽",
+   "turns": [
+    {
+     "npc": "你好！您在找什么吗？",
+     "npcPt": "Oi! Você procura algo?",
+     "translit": "Nǐ hǎo! Nín zài zhǎo shénme ma?",
+     "options": [
+      {
+       "text": "是的，我想买一件夹克。",
+       "textPt": "Sim, preciso de uma jaqueta.",
+       "translit": "Shì de, wǒ xiǎng mǎi yí jiàn jiákè."
+      },
+      {
+       "text": "我看你。",
+       "textPt": "Eu olho para você.",
+       "translit": "Wǒ kàn nǐ.",
+       "hint": "«看» é olhar para algo; a pergunta é sobre procurar/querer comprar."
+      },
+      {
+       "text": "是的，我看夹克。",
+       "textPt": "Sim, eu olho jaqueta.",
+       "translit": "Shì de, wǒ kàn jiákè.",
+       "hint": "Falta o classificador «件» (一件夹克), e «看» só olha. Diga «我想买一件夹克»."
+      }
+     ]
+    },
+    {
+     "npc": "您穿多大的？",
+     "npcPt": "Qual é o seu tamanho?",
+     "translit": "Nín chuān duō dà de?",
+     "options": [
+      {
+       "text": "我二十岁。",
+       "textPt": "Tenho vinte anos.",
+       "translit": "Wǒ èrshí suì.",
+       "hint": "Tamanho não é idade."
+      },
+      {
+       "text": "我的尺码是蓝色。",
+       "textPt": "Meu tamanho é azul.",
+       "translit": "Wǒ de chǐmǎ shì lánsè.",
+       "hint": "Azul é cor; diga o tamanho (小号、中号、大号)."
+      },
+      {
+       "text": "中号吧。",
+       "textPt": "Médio, acho.",
+       "translit": "Zhōng hào ba."
+      }
+     ]
+    },
+    {
+     "npc": "试衣间在那边。",
+     "npcPt": "O provador é ali.",
+     "translit": "Shìyījiān zài nàbiān.",
+     "options": [
+      {
+       "text": "我想在那儿睡觉。",
+       "textPt": "Quero dormir lá.",
+       "translit": "Wǒ xiǎng zài nàr shuìjiào.",
+       "hint": "Estranho: o provador é só para experimentar roupas."
+      },
+      {
+       "text": "谢谢，我去试试。",
+       "textPt": "Obrigado. Vou experimentar.",
+       "translit": "Xièxie, wǒ qù shìshi."
+      },
+      {
+       "text": "房间很漂亮。",
+       "textPt": "O quarto é bonito.",
+       "translit": "Fángjiān hěn piàoliang.",
+       "hint": "Não é um quarto; agradeça e vá experimentar."
+      }
+     ]
+    },
+    {
+     "npc": "您觉得怎么样？",
+     "npcPt": "Como ficou?",
+     "translit": "Nín juéde zěnmeyàng?",
+     "options": [
+      {
+       "text": "有点小。有大一点的吗？",
+       "textPt": "Está pequeno. Tem um maior?",
+       "translit": "Yǒudiǎn xiǎo. Yǒu dà yìdiǎn de ma?"
+      },
+      {
+       "text": "太贵了。",
+       "textPt": "É muito caro.",
+       "translit": "Tài guì le.",
+       "hint": "Ela perguntou do caimento, não do preço."
+      },
+      {
+       "text": "我合适，谢谢。",
+       "textPt": "Eu caibo, obrigado.",
+       "translit": "Wǒ héshì, xièxie.",
+       "hint": "«合适» descreve a roupa, não a pessoa: «这件很合适»."
+      }
+     ]
+    }
+   ]
+  },
+  "sc08": {
+   "npcName": "周杰",
+   "turns": [
+    {
+     "npc": "你看起来迷路了。需要帮忙吗？",
+     "npcPt": "Você parece perdido. Posso ajudar?",
+     "translit": "Nǐ kàn qǐlái mílù le. Xūyào bāngmáng ma?",
+     "options": [
+      {
+       "text": "不用，我是游客。",
+       "textPt": "Não, sou turista.",
+       "translit": "Bú yòng, wǒ shì yóukè.",
+       "hint": "Não é errado, mas você perde a chance de pedir ajuda."
+      },
+      {
+       "text": "需要。地铁站在哪儿？",
+       "textPt": "Sim, onde fica a estação de metrô?",
+       "translit": "Xūyào. Dìtiězhàn zài nǎr?"
+      },
+      {
+       "text": "需要，我迷路了街。",
+       "textPt": "Sim, estou perdido a rua.",
+       "translit": "Xūyào, wǒ mílù le jiē.",
+       "hint": "Gramática errada: «迷路» já inclui «路» e não leva objeto. Diga «我迷路了» ou pergunte onde fica o lugar."
+      }
+     ]
+    },
+    {
+     "npc": "一直走，过两个路口。",
+     "npcPt": "Siga reto por duas quadras.",
+     "translit": "Yìzhí zǒu, guò liǎng gè lùkǒu.",
+     "options": [
+      {
+       "text": "一直走两个路口。然后呢？",
+       "textPt": "Reto duas quadras. E depois?",
+       "translit": "Yìzhí zǒu liǎng gè lùkǒu. Ránhòu ne?"
+      },
+      {
+       "text": "我昨天一直走了。",
+       "textPt": "Eu fui reto ontem.",
+       "translit": "Wǒ zuótiān yìzhí zǒu le.",
+       "hint": "Ela deu uma instrução, não falou do passado."
+      },
+      {
+       "text": "两路口很远。",
+       "textPt": "Duas quadras é longe.",
+       "translit": "Liǎng lùkǒu hěn yuǎn.",
+       "hint": "Falta o classificador «个» (两个路口). Além disso é só um comentário; confirme e pergunte o próximo passo."
+      }
+     ]
+    },
+    {
+     "npc": "然后在银行那儿往左拐。",
+     "npcPt": "Depois vire à esquerda no banco.",
+     "translit": "Ránhòu zài yínháng nàr wǎng zuǒ guǎi.",
+     "options": [
+      {
+       "text": "我往右拐。",
+       "textPt": "Vire esquerda é banco?",
+       "translit": "Wǒ wǎng yòu guǎi.",
+       "hint": "Ela disse «左» (esquerda), não «右» (direita)."
+      },
+      {
+       "text": "左拐是银行？",
+       "textPt": "Eu viro à direita.",
+       "translit": "Zuǒ guǎi shì yínháng?",
+       "hint": "Pergunta confusa. Confirme: «在银行左拐，对吗？»"
+      },
+      {
+       "text": "银行那儿左拐，明白了。",
+       "textPt": "Esquerda no banco. Entendi.",
+       "translit": "Yínháng nàr zuǒ guǎi, míngbai le."
+      }
+     ]
+    },
+    {
+     "npc": "就在公园旁边。",
+     "npcPt": "Fica ao lado do parque.",
+     "translit": "Jiù zài gōngyuán pángbiān.",
+     "options": [
+      {
+       "text": "旁边是一个公园。",
+       "textPt": "Ao lado é um parque.",
+       "translit": "Pángbiān shì yí gè gōngyuán.",
+       "hint": "Frase invertida; não é preciso repetir."
+      },
+      {
+       "text": "太好了！谢谢你的帮助。",
+       "textPt": "Ótimo! Obrigado pela ajuda.",
+       "translit": "Tài hǎo le! Xièxie nǐ de bāngzhù."
+      },
+      {
+       "text": "我不喜欢公园。",
+       "textPt": "Não gosto de parques.",
+       "translit": "Wǒ bù xǐhuan gōngyuán.",
+       "hint": "Fora de contexto: agradeça pela ajuda."
+      }
+     ]
+    }
+   ]
+  },
+  "sc09": {
+   "npcName": "林医生",
+   "turns": [
+    {
+     "npc": "早上好。哪里不舒服？",
+     "npcPt": "Bom dia. O que traz você aqui?",
+     "translit": "Zǎoshang hǎo. Nǎlǐ bù shūfu?",
+     "options": [
+      {
+       "text": "我发烧从星期一。",
+       "textPt": "Estou com febre desde segunda.",
+       "translit": "Wǒ fāshāo cóng xīngqīyī.",
+       "hint": "Em chinês o tempo vem antes do verbo: «我从星期一就发烧了»."
+      },
+      {
+       "text": "我厌倦我的喉咙。",
+       "textPt": "Estou farto da minha garganta.",
+       "translit": "Wǒ yànjuàn wǒ de hóulóng.",
+       "hint": "«厌倦» = estar farto/enjoado. Para dor de garganta diga «我喉咙痛»."
+      },
+      {
+       "text": "我喉咙痛好几天了。",
+       "textPt": "Estou com dor de garganta há dias.",
+       "translit": "Wǒ hóulóng tòng hǎo jǐ tiān le."
+      }
+     ]
+    },
+    {
+     "npc": "您有过敏吗？",
+     "npcPt": "Você tem alguma alergia?",
+     "translit": "Nín yǒu guòmǐn ma?",
+     "options": [
+      {
+       "text": "没有，我不是过敏。",
+       "textPt": "Não, eu não sou alergia.",
+       "translit": "Méiyǒu, wǒ bú shì guòmǐn.",
+       "hint": "Não use «是»: diga «我没有过敏» ou «我对什么都不过敏»."
+      },
+      {
+       "text": "没有，据我所知没有。",
+       "textPt": "Não, nenhuma que eu saiba.",
+       "translit": "Méiyǒu, jù wǒ suǒ zhī méiyǒu."
+      },
+      {
+       "text": "有，我有坚果的过敏。",
+       "textPt": "Sim, tenho alergia de nozes.",
+       "translit": "Yǒu, wǒ yǒu jiānguǒ de guòmǐn.",
+       "hint": "A estrutura é «对坚果过敏» (对 + alvo antes de 过敏)."
+      }
+     ]
+    },
+    {
+     "npc": "请张开嘴，说“啊”。",
+     "npcPt": "Abra a boca e diga aah.",
+     "translit": "Qǐng zhāngkāi zuǐ, shuō “ā”.",
+     "options": [
+      {
+       "text": "啊……严重吗，医生？",
+       "textPt": "Aah... É sério, doutor?",
+       "translit": "Ā... Yánzhòng ma, yīshēng?"
+      },
+      {
+       "text": "啊……是严重吗？",
+       "textPt": "Aah... É sério?",
+       "translit": "Ā... Shì yánzhòng ma?",
+       "hint": "Com adjetivo não se usa «是»: pergunte «严重吗？»."
+      },
+      {
+       "text": "我不要，对不起。",
+       "textPt": "Não quero, desculpe.",
+       "translit": "Wǒ bú yào, duìbuqǐ.",
+       "hint": "Seco e incompleto; o exame é importante, então colabore."
+      }
+     ]
+    },
+    {
+     "npc": "是轻微感染。多休息，多喝水。",
+     "npcPt": "É uma infecção leve. Descanse e beba água.",
+     "translit": "Shì qīngwēi gǎnrǎn. Duō xiūxi, duō hē shuǐ.",
+     "options": [
+      {
+       "text": "我休息应该，谢谢。",
+       "textPt": "Eu devo descansar, obrigado.",
+       "translit": "Wǒ xiūxi yīnggāi, xièxie.",
+       "hint": "Ordem errada: o verbo modal vem antes: «我应该休息»."
+      },
+      {
+       "text": "我要去工作吗？",
+       "textPt": "Eu tenho que ir ao trabalho?",
+       "translit": "Wǒ yào qù gōngzuò ma?",
+       "hint": "«要» é querer; para «preciso» use «得»/«需要», e «ir ao trabalho» é «上班»: «我得去上班吗？»"
+      },
+      {
+       "text": "谢谢医生。要吃药吗？",
+       "textPt": "Obrigado, doutor. Devo tomar remédio?",
+       "translit": "Xièxie yīshēng. Yào chī yào ma?"
+      }
+     ]
+    }
+   ]
+  },
+  "sc10": {
+   "npcName": "吴女士",
+   "turns": [
+    {
+     "npc": "谢谢您来。请介绍一下自己。",
+     "npcPt": "Obrigada por vir. Fale sobre você.",
+     "translit": "Xièxie nín lái. Qǐng jièshào yíxià zìjǐ.",
+     "options": [
+      {
+       "text": "我二十五岁，喜欢披萨。",
+       "textPt": "Tenho 25 anos e gosto de pizza.",
+       "translit": "Wǒ èrshíwǔ suì, xǐhuan pīsà.",
+       "hint": "Entrevista pede foco profissional, não idade e comida."
+      },
+      {
+       "text": "我是设计师，有三年经验。",
+       "textPt": "Sou designer com três anos de experiência.",
+       "translit": "Wǒ shì shèjìshī, yǒu sān nián jīngyàn."
+      },
+      {
+       "text": "我的名字在纸上。",
+       "textPt": "Meu nome está no papel.",
+       "translit": "Wǒ de míngzi zài zhǐ shang.",
+       "hint": "Fora de contexto: ela quer saber da sua experiência."
+      }
+     ]
+    },
+    {
+     "npc": "您为什么想要这份工作？",
+     "npcPt": "Por que você quer este emprego?",
+     "translit": "Nín wèishénme xiǎng yào zhè fèn gōngzuò?",
+     "options": [
+      {
+       "text": "我喜欢团队合作，也想成长。",
+       "textPt": "Gosto de trabalho em equipe e quero crescer.",
+       "translit": "Wǒ xǐhuan tuánduì hézuò, yě xiǎng chéngzhǎng."
+      },
+      {
+       "text": "因为我需要钱，仅此而已。",
+       "textPt": "Porque preciso de dinheiro, só isso.",
+       "translit": "Yīnwèi wǒ xūyào qián, jǐncǐ éryǐ.",
+       "hint": "Honesto, mas mostra pouco interesse pela vaga."
+      },
+      {
+       "text": "我想要，因为很酷。",
+       "textPt": "Quero porque é legal.",
+       "translit": "Wǒ xiǎng yào, yīnwèi hěn kù.",
+       "hint": "Resposta vaga e informal («酷») para uma entrevista; dê razões profissionais."
+      }
+     ]
+    },
+    {
+     "npc": "您最大的优点是什么？",
+     "npcPt": "Qual é o seu maior ponto forte?",
+     "translit": "Nín zuì dà de yōudiǎn shì shénme?",
+     "options": [
+      {
+       "text": "我是世界上最好的。",
+       "textPt": "Sou o melhor do mundo.",
+       "translit": "Wǒ shì shìjiè shang zuì hǎo de.",
+       "hint": "Exagerado e pouco humilde; prefira algo concreto."
+      },
+      {
+       "text": "我的优点是举重。",
+       "textPt": "Meu ponto forte é levantar peso.",
+       "translit": "Wǒ de yōudiǎn shì jǔzhòng.",
+       "hint": "Possível, mas não é relevante para a vaga."
+      },
+      {
+       "text": "我有条理，学得快。",
+       "textPt": "Sou organizado e aprendo rápido.",
+       "translit": "Wǒ yǒu tiáolǐ, xué de kuài."
+      }
+     ]
+    },
+    {
+     "npc": "您有什么问题要问我们吗？",
+     "npcPt": "Você tem alguma pergunta para nós?",
+     "translit": "Nín yǒu shénme wèntí yào wèn wǒmen ma?",
+     "options": [
+      {
+       "text": "没有问题。再见。",
+       "textPt": "Sem perguntas. Tchau.",
+       "translit": "Méiyǒu wèntí. Zàijiàn.",
+       "hint": "Seco demais; mostre interesse."
+      },
+      {
+       "text": "有。一天的工作是怎样的？",
+       "textPt": "Sim. Como é um dia típico?",
+       "translit": "Yǒu. Yì tiān de gōngzuò shì zěnyàng de?"
+      },
+      {
+       "text": "有，我明天能赚多少钱？",
+       "textPt": "Sim, quanto vou ganhar amanhã?",
+       "translit": "Yǒu, wǒ míngtiān néng zhuàn duōshao qián?",
+       "hint": "Perguntar salário logo assim soa direto demais; «赚钱» é informal. Fale disso mais tarde, com «薪资待遇»."
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

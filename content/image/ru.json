@@ -1,0 +1,2007 @@
+{
+ "game": "image",
+ "language": "ru",
+ "version": 2,
+ "entries": {
+  "im01-01": {
+   "word": "лев",
+   "translit": "Lev"
+  },
+  "im01-02": {
+   "word": "тигр",
+   "translit": "Tigr"
+  },
+  "im01-03": {
+   "word": "слон",
+   "translit": "Slon"
+  },
+  "im01-04": {
+   "word": "жираф",
+   "translit": "Zhiraf"
+  },
+  "im01-05": {
+   "word": "обезьяна",
+   "translit": "Obez'yana"
+  },
+  "im01-06": {
+   "word": "зебра",
+   "translit": "Zebra"
+  },
+  "im01-07": {
+   "word": "бегемот",
+   "translit": "Begemot"
+  },
+  "im01-08": {
+   "word": "носорог",
+   "translit": "Nosorog"
+  },
+  "im01-09": {
+   "word": "крокодил",
+   "translit": "Krokodil"
+  },
+  "im01-10": {
+   "word": "медведь",
+   "translit": "Medved'"
+  },
+  "im02-01": {
+   "word": "корова",
+   "translit": "Korova"
+  },
+  "im02-02": {
+   "word": "свинья",
+   "translit": "Svin'ya"
+  },
+  "im02-03": {
+   "word": "овца",
+   "translit": "Ovtsa"
+  },
+  "im02-04": {
+   "word": "коза",
+   "translit": "Koza"
+  },
+  "im02-05": {
+   "word": "курица",
+   "translit": "Kuritsa"
+  },
+  "im02-06": {
+   "word": "петух",
+   "translit": "Petukh"
+  },
+  "im02-07": {
+   "word": "лошадь",
+   "translit": "Loshad'"
+  },
+  "im02-08": {
+   "word": "бык",
+   "translit": "Byk"
+  },
+  "im02-09": {
+   "word": "индюк",
+   "translit": "Indyuk"
+  },
+  "im02-10": {
+   "word": "утка",
+   "translit": "Utka"
+  },
+  "im03-01": {
+   "word": "собака",
+   "translit": "Sobaka"
+  },
+  "im03-02": {
+   "word": "кошка",
+   "translit": "Koshka"
+  },
+  "im03-03": {
+   "word": "хомяк",
+   "translit": "Khomyak"
+  },
+  "im03-04": {
+   "word": "кролик",
+   "translit": "Krolik"
+  },
+  "im03-05": {
+   "word": "черепаха",
+   "translit": "Cherepakha"
+  },
+  "im03-06": {
+   "word": "рыба",
+   "translit": "Ryba"
+  },
+  "im03-07": {
+   "word": "мышь",
+   "translit": "Mysh'"
+  },
+  "im03-08": {
+   "word": "ящерица",
+   "translit": "Yashcheritsa"
+  },
+  "im03-09": {
+   "word": "змея",
+   "translit": "Zmeya"
+  },
+  "im03-10": {
+   "word": "лягушка",
+   "translit": "Lyagushka"
+  },
+  "im04-01": {
+   "word": "яблоко",
+   "translit": "Yabloko"
+  },
+  "im04-02": {
+   "word": "банан",
+   "translit": "Banan"
+  },
+  "im04-03": {
+   "word": "мандарин",
+   "translit": "Mandarin"
+  },
+  "im04-04": {
+   "word": "виноград",
+   "translit": "Vinograd"
+  },
+  "im04-05": {
+   "word": "клубника",
+   "translit": "Klubnika"
+  },
+  "im04-06": {
+   "word": "арбуз",
+   "translit": "Arbuz"
+  },
+  "im04-07": {
+   "word": "ананас",
+   "translit": "Ananas"
+  },
+  "im04-08": {
+   "word": "вишня",
+   "translit": "Vishnya"
+  },
+  "im04-09": {
+   "word": "персик",
+   "translit": "Persik"
+  },
+  "im04-10": {
+   "word": "груша",
+   "translit": "Grusha"
+  },
+  "im05-01": {
+   "word": "хлеб",
+   "translit": "Khleb"
+  },
+  "im05-02": {
+   "word": "сыр",
+   "translit": "Syr"
+  },
+  "im05-03": {
+   "word": "яйцо",
+   "translit": "Yaytso"
+  },
+  "im05-04": {
+   "word": "рис",
+   "translit": "Ris"
+  },
+  "im05-05": {
+   "word": "макароны",
+   "translit": "Makarony"
+  },
+  "im05-06": {
+   "word": "пицца",
+   "translit": "Pitstsa"
+  },
+  "im05-07": {
+   "word": "гамбургер",
+   "translit": "Gamburger"
+  },
+  "im05-08": {
+   "word": "картофель фри",
+   "translit": "Kartofel' fri"
+  },
+  "im05-09": {
+   "word": "мясо",
+   "translit": "Myaso"
+  },
+  "im05-10": {
+   "word": "куриная ножка",
+   "translit": "Kurinaya nozhka"
+  },
+  "im06-01": {
+   "word": "красный",
+   "translit": "Krasnyy"
+  },
+  "im06-02": {
+   "word": "оранжевый",
+   "translit": "Oranzhevyy"
+  },
+  "im06-03": {
+   "word": "жёлтый",
+   "translit": "Zhyoltyy"
+  },
+  "im06-04": {
+   "word": "зелёный",
+   "translit": "Zelyonyy"
+  },
+  "im06-05": {
+   "word": "синий",
+   "translit": "Siniy"
+  },
+  "im06-06": {
+   "word": "фиолетовый",
+   "translit": "Fioletovyy"
+  },
+  "im06-07": {
+   "word": "коричневый",
+   "translit": "Korichnevyy"
+  },
+  "im06-08": {
+   "word": "чёрный",
+   "translit": "Chyornyy"
+  },
+  "im06-09": {
+   "word": "белый",
+   "translit": "Belyy"
+  },
+  "im06-10": {
+   "word": "розовый",
+   "translit": "Rozovyy"
+  },
+  "im07-01": {
+   "word": "глаз",
+   "translit": "Glaz"
+  },
+  "im07-02": {
+   "word": "нос",
+   "translit": "Nos"
+  },
+  "im07-03": {
+   "word": "рот",
+   "translit": "Rot"
+  },
+  "im07-04": {
+   "word": "ухо",
+   "translit": "Ukho"
+  },
+  "im07-05": {
+   "word": "рука",
+   "translit": "Ruka"
+  },
+  "im07-06": {
+   "word": "ступня",
+   "translit": "Stupnya"
+  },
+  "im07-07": {
+   "word": "нога",
+   "translit": "Noga"
+  },
+  "im07-08": {
+   "word": "зуб",
+   "translit": "Zub"
+  },
+  "im07-09": {
+   "word": "язык",
+   "translit": "Yazyk"
+  },
+  "im07-10": {
+   "word": "мозг",
+   "translit": "Mozg"
+  },
+  "im08-01": {
+   "word": "футболка",
+   "translit": "Futbolka"
+  },
+  "im08-02": {
+   "word": "брюки",
+   "translit": "Bryuki"
+  },
+  "im08-03": {
+   "word": "платье",
+   "translit": "Plat'e"
+  },
+  "im08-04": {
+   "word": "пальто",
+   "translit": "Pal'to"
+  },
+  "im08-05": {
+   "word": "носок",
+   "translit": "Nosok"
+  },
+  "im08-06": {
+   "word": "кроссовки",
+   "translit": "Krossovki"
+  },
+  "im08-07": {
+   "word": "туфли",
+   "translit": "Tufli"
+  },
+  "im08-08": {
+   "word": "кепка",
+   "translit": "Kepka"
+  },
+  "im08-09": {
+   "word": "шарф",
+   "translit": "Sharf"
+  },
+  "im08-10": {
+   "word": "перчатки",
+   "translit": "Perchatki"
+  },
+  "im09-01": {
+   "word": "кровать",
+   "translit": "Krovat'"
+  },
+  "im09-02": {
+   "word": "дверь",
+   "translit": "Dver'"
+  },
+  "im09-03": {
+   "word": "окно",
+   "translit": "Okno"
+  },
+  "im09-04": {
+   "word": "диван",
+   "translit": "Divan"
+  },
+  "im09-05": {
+   "word": "душ",
+   "translit": "Dush"
+  },
+  "im09-06": {
+   "word": "унитаз",
+   "translit": "Unitaz"
+  },
+  "im09-07": {
+   "word": "ключ",
+   "translit": "Klyuch"
+  },
+  "im09-08": {
+   "word": "лампочка",
+   "translit": "Lampochka"
+  },
+  "im09-09": {
+   "word": "телевизор",
+   "translit": "Televizor"
+  },
+  "im09-10": {
+   "word": "будильник",
+   "translit": "Budil'nik"
+  },
+  "im10-01": {
+   "word": "машина",
+   "translit": "Mashina"
+  },
+  "im10-02": {
+   "word": "автобус",
+   "translit": "Avtobus"
+  },
+  "im10-03": {
+   "word": "велосипед",
+   "translit": "Velosiped"
+  },
+  "im10-04": {
+   "word": "самолёт",
+   "translit": "Samolyot"
+  },
+  "im10-05": {
+   "word": "поезд",
+   "translit": "Poezd"
+  },
+  "im10-06": {
+   "word": "корабль",
+   "translit": "Korabl'"
+  },
+  "im10-07": {
+   "word": "вертолёт",
+   "translit": "Vertolyot"
+  },
+  "im10-08": {
+   "word": "мотоцикл",
+   "translit": "Mototsikl"
+  },
+  "im10-09": {
+   "word": "скорая помощь",
+   "translit": "Skoraya pomoshch'"
+  },
+  "im10-10": {
+   "word": "грузовик",
+   "translit": "Gruzovik"
+  },
+  "im11-01": {
+   "word": "орёл",
+   "translit": "Oryol"
+  },
+  "im11-02": {
+   "word": "пингвин",
+   "translit": "Pingvin"
+  },
+  "im11-03": {
+   "word": "сова",
+   "translit": "Sova"
+  },
+  "im11-04": {
+   "word": "лебедь",
+   "translit": "Lebed'"
+  },
+  "im11-05": {
+   "word": "фламинго",
+   "translit": "Flamingo"
+  },
+  "im11-06": {
+   "word": "голубь",
+   "translit": "Golub'"
+  },
+  "im11-07": {
+   "word": "павлин",
+   "translit": "Pavlin"
+  },
+  "im11-08": {
+   "word": "цыплёнок",
+   "translit": "Tsyplyonok"
+  },
+  "im11-09": {
+   "word": "попугай",
+   "translit": "Popugay"
+  },
+  "im11-10": {
+   "word": "птица",
+   "translit": "Ptitsa"
+  },
+  "im12-01": {
+   "word": "дерево",
+   "translit": "Derevo"
+  },
+  "im12-02": {
+   "word": "подсолнух",
+   "translit": "Podsolnukh"
+  },
+  "im12-03": {
+   "word": "кактус",
+   "translit": "Kaktus"
+  },
+  "im12-04": {
+   "word": "пальма",
+   "translit": "Pal'ma"
+  },
+  "im12-05": {
+   "word": "тюльпан",
+   "translit": "Tyul'pan"
+  },
+  "im12-06": {
+   "word": "гора",
+   "translit": "Gora"
+  },
+  "im12-07": {
+   "word": "волна",
+   "translit": "Volna"
+  },
+  "im12-08": {
+   "word": "вулкан",
+   "translit": "Vulkan"
+  },
+  "im12-09": {
+   "word": "остров",
+   "translit": "Ostrov"
+  },
+  "im12-10": {
+   "word": "пустыня",
+   "translit": "Pustynya"
+  },
+  "im13-01": {
+   "word": "солнце",
+   "translit": "Solntse"
+  },
+  "im13-02": {
+   "word": "луна",
+   "translit": "Luna"
+  },
+  "im13-03": {
+   "word": "звезда",
+   "translit": "Zvezda"
+  },
+  "im13-04": {
+   "word": "облако",
+   "translit": "Oblako"
+  },
+  "im13-05": {
+   "word": "дождь",
+   "translit": "Dozhd'"
+  },
+  "im13-06": {
+   "word": "снежинка",
+   "translit": "Snezhinka"
+  },
+  "im13-07": {
+   "word": "радуга",
+   "translit": "Raduga"
+  },
+  "im13-08": {
+   "word": "молния",
+   "translit": "Molniya"
+  },
+  "im13-09": {
+   "word": "торнадо",
+   "translit": "Tornado"
+  },
+  "im13-10": {
+   "word": "зонт",
+   "translit": "Zont"
+  },
+  "im14-01": {
+   "word": "пчела",
+   "translit": "Pchela"
+  },
+  "im14-02": {
+   "word": "бабочка",
+   "translit": "Babochka"
+  },
+  "im14-03": {
+   "word": "муравей",
+   "translit": "Muravey"
+  },
+  "im14-04": {
+   "word": "божья коровка",
+   "translit": "Bozh'ya korovka"
+  },
+  "im14-05": {
+   "word": "гусеница",
+   "translit": "Gusenitsa"
+  },
+  "im14-06": {
+   "word": "сверчок",
+   "translit": "Sverchok"
+  },
+  "im14-07": {
+   "word": "паук",
+   "translit": "Pauk"
+  },
+  "im14-08": {
+   "word": "скорпион",
+   "translit": "Skorpion"
+  },
+  "im14-09": {
+   "word": "комар",
+   "translit": "Komar"
+  },
+  "im14-10": {
+   "word": "улитка",
+   "translit": "Ulitka"
+  },
+  "im15-01": {
+   "word": "дельфин",
+   "translit": "Del'fin"
+  },
+  "im15-02": {
+   "word": "кит",
+   "translit": "Kit"
+  },
+  "im15-03": {
+   "word": "акула",
+   "translit": "Akula"
+  },
+  "im15-04": {
+   "word": "осьминог",
+   "translit": "Os'minog"
+  },
+  "im15-05": {
+   "word": "краб",
+   "translit": "Krab"
+  },
+  "im15-06": {
+   "word": "омар",
+   "translit": "Omar"
+  },
+  "im15-07": {
+   "word": "креветка",
+   "translit": "Krevetka"
+  },
+  "im15-08": {
+   "word": "иглобрюх",
+   "translit": "Iglobryukh"
+  },
+  "im15-09": {
+   "word": "кальмар",
+   "translit": "Kal'mar"
+  },
+  "im15-10": {
+   "word": "ракушка",
+   "translit": "Rakushka"
+  },
+  "im16-01": {
+   "word": "манго",
+   "translit": "Mango"
+  },
+  "im16-02": {
+   "word": "кокос",
+   "translit": "Kokos"
+  },
+  "im16-03": {
+   "word": "киви",
+   "translit": "Kivi"
+  },
+  "im16-04": {
+   "word": "лимон",
+   "translit": "Limon"
+  },
+  "im16-05": {
+   "word": "дыня",
+   "translit": "Dynya"
+  },
+  "im16-06": {
+   "word": "авокадо",
+   "translit": "Avokado"
+  },
+  "im16-07": {
+   "word": "арахис",
+   "translit": "Arakhis"
+  },
+  "im16-08": {
+   "word": "каштан",
+   "translit": "Kashtan"
+  },
+  "im16-09": {
+   "word": "помидор",
+   "translit": "Pomidor"
+  },
+  "im16-10": {
+   "word": "огурец",
+   "translit": "Ogurets"
+  },
+  "im17-01": {
+   "word": "морковь",
+   "translit": "Morkov'"
+  },
+  "im17-02": {
+   "word": "кукуруза",
+   "translit": "Kukuruza"
+  },
+  "im17-03": {
+   "word": "картошка",
+   "translit": "Kartoshka"
+  },
+  "im17-04": {
+   "word": "баклажан",
+   "translit": "Baklazhan"
+  },
+  "im17-05": {
+   "word": "брокколи",
+   "translit": "Brokkoli"
+  },
+  "im17-06": {
+   "word": "салат-латук",
+   "translit": "Salat-latuk"
+  },
+  "im17-07": {
+   "word": "лук",
+   "translit": "Luk"
+  },
+  "im17-08": {
+   "word": "чеснок",
+   "translit": "Chesnok"
+  },
+  "im17-09": {
+   "word": "перец",
+   "translit": "Perets"
+  },
+  "im17-10": {
+   "word": "гриб",
+   "translit": "Grib"
+  },
+  "im18-01": {
+   "word": "кофе",
+   "translit": "Kofe"
+  },
+  "im18-02": {
+   "word": "молоко",
+   "translit": "Moloko"
+  },
+  "im18-03": {
+   "word": "сок",
+   "translit": "Sok"
+  },
+  "im18-04": {
+   "word": "пиво",
+   "translit": "Pivo"
+  },
+  "im18-05": {
+   "word": "вино",
+   "translit": "Vino"
+  },
+  "im18-06": {
+   "word": "шоколад",
+   "translit": "Shokolad"
+  },
+  "im18-07": {
+   "word": "мороженое",
+   "translit": "Morozhenoe"
+  },
+  "im18-08": {
+   "word": "торт",
+   "translit": "Tort"
+  },
+  "im18-09": {
+   "word": "печенье",
+   "translit": "Pechen'e"
+  },
+  "im18-10": {
+   "word": "пончик",
+   "translit": "Ponchik"
+  },
+  "im19-01": {
+   "word": "смартфон",
+   "translit": "Smartfon"
+  },
+  "im19-02": {
+   "word": "часы",
+   "translit": "Chasy"
+  },
+  "im19-03": {
+   "word": "очки",
+   "translit": "Ochki"
+  },
+  "im19-04": {
+   "word": "рюкзак",
+   "translit": "Ryukzak"
+  },
+  "im19-05": {
+   "word": "ножницы",
+   "translit": "Nozhnitsy"
+  },
+  "im19-06": {
+   "word": "фонарик",
+   "translit": "Fonarik"
+  },
+  "im19-07": {
+   "word": "фотоаппарат",
+   "translit": "Fotoapparat"
+  },
+  "im19-08": {
+   "word": "батарейка",
+   "translit": "Batareyka"
+  },
+  "im19-09": {
+   "word": "плюшевый мишка",
+   "translit": "Plyushevyy mishka"
+  },
+  "im19-10": {
+   "word": "магнит",
+   "translit": "Magnit"
+  },
+  "im20-01": {
+   "word": "книга",
+   "translit": "Kniga"
+  },
+  "im20-02": {
+   "word": "карандаш",
+   "translit": "Karandash"
+  },
+  "im20-03": {
+   "word": "ручка",
+   "translit": "Ruchka"
+  },
+  "im20-04": {
+   "word": "тетрадь",
+   "translit": "Tetrad'"
+  },
+  "im20-05": {
+   "word": "линейка",
+   "translit": "Lineyka"
+  },
+  "im20-06": {
+   "word": "скрепка",
+   "translit": "Skrepka"
+  },
+  "im20-07": {
+   "word": "угольник",
+   "translit": "Ugol'nik"
+  },
+  "im20-08": {
+   "word": "счёты",
+   "translit": "Schyoty"
+  },
+  "im20-09": {
+   "word": "школа",
+   "translit": "Shkola"
+  },
+  "im20-10": {
+   "word": "палитра",
+   "translit": "Palitra"
+  },
+  "im21-01": {
+   "word": "футбольный мяч",
+   "translit": "Futbol'nyy myach"
+  },
+  "im21-02": {
+   "word": "баскетбольный мяч",
+   "translit": "Basketbol'nyy myach"
+  },
+  "im21-03": {
+   "word": "теннисный мяч",
+   "translit": "Tennisnyy myach"
+  },
+  "im21-04": {
+   "word": "волейбольный мяч",
+   "translit": "Voleybol'nyy myach"
+  },
+  "im21-05": {
+   "word": "настольный теннис",
+   "translit": "Nastol'nyy tennis"
+  },
+  "im21-06": {
+   "word": "боксёрская перчатка",
+   "translit": "Boksyorskaya perchatka"
+  },
+  "im21-07": {
+   "word": "боулинг",
+   "translit": "Bouling"
+  },
+  "im21-08": {
+   "word": "лук со стрелами",
+   "translit": "Luk so strelami"
+  },
+  "im21-09": {
+   "word": "скейтборд",
+   "translit": "Skeytbord"
+  },
+  "im21-10": {
+   "word": "коньки",
+   "translit": "Kon'ki"
+  },
+  "im22-01": {
+   "word": "тарелка",
+   "translit": "Tarelka"
+  },
+  "im22-02": {
+   "word": "ложка",
+   "translit": "Lozhka"
+  },
+  "im22-03": {
+   "word": "нож",
+   "translit": "Nozh"
+  },
+  "im22-04": {
+   "word": "сковорода",
+   "translit": "Skovoroda"
+  },
+  "im22-05": {
+   "word": "миска",
+   "translit": "Miska"
+  },
+  "im22-06": {
+   "word": "палочки",
+   "translit": "Palochki"
+  },
+  "im22-07": {
+   "word": "соль",
+   "translit": "Sol'"
+  },
+  "im22-08": {
+   "word": "консервная банка",
+   "translit": "Konservnaya banka"
+  },
+  "im22-09": {
+   "word": "стакан",
+   "translit": "Stakan"
+  },
+  "im22-10": {
+   "word": "лёд",
+   "translit": "Lyod"
+  },
+  "im23-01": {
+   "word": "зубная щётка",
+   "translit": "Zubnaya shchyotka"
+  },
+  "im23-02": {
+   "word": "мыло",
+   "translit": "Mylo"
+  },
+  "im23-03": {
+   "word": "туалетная бумага",
+   "translit": "Tualetnaya bumaga"
+  },
+  "im23-04": {
+   "word": "бритва",
+   "translit": "Britva"
+  },
+  "im23-05": {
+   "word": "ванна",
+   "translit": "Vanna"
+  },
+  "im23-06": {
+   "word": "губка",
+   "translit": "Gubka"
+  },
+  "im23-07": {
+   "word": "веник",
+   "translit": "Venik"
+  },
+  "im23-08": {
+   "word": "ведро",
+   "translit": "Vedro"
+  },
+  "im23-09": {
+   "word": "зеркало",
+   "translit": "Zerkalo"
+  },
+  "im23-10": {
+   "word": "корзина",
+   "translit": "Korzina"
+  },
+  "im24-01": {
+   "word": "стул",
+   "translit": "Stul"
+  },
+  "im24-02": {
+   "word": "картина",
+   "translit": "Kartina"
+  },
+  "im24-03": {
+   "word": "свеча",
+   "translit": "Svecha"
+  },
+  "im24-04": {
+   "word": "чемодан",
+   "translit": "Chemodan"
+  },
+  "im24-05": {
+   "word": "навесной замок",
+   "translit": "Navesnoy zamok"
+  },
+  "im24-06": {
+   "word": "урна",
+   "translit": "Urna"
+  },
+  "im24-07": {
+   "word": "лестница",
+   "translit": "Lestnitsa"
+  },
+  "im24-08": {
+   "word": "радио",
+   "translit": "Radio"
+  },
+  "im24-09": {
+   "word": "колокольчик",
+   "translit": "Kolokol'chik"
+  },
+  "im24-10": {
+   "word": "огнетушитель",
+   "translit": "Ognetushitel'"
+  },
+  "im25-01": {
+   "word": "молоток",
+   "translit": "Molotok"
+  },
+  "im25-02": {
+   "word": "топор",
+   "translit": "Topor"
+  },
+  "im25-03": {
+   "word": "гаечный ключ",
+   "translit": "Gaechnyy klyuch"
+  },
+  "im25-04": {
+   "word": "отвёртка",
+   "translit": "Otvyortka"
+  },
+  "im25-05": {
+   "word": "пила",
+   "translit": "Pila"
+  },
+  "im25-06": {
+   "word": "кирка",
+   "translit": "Kirka"
+  },
+  "im25-07": {
+   "word": "ящик с инструментами",
+   "translit": "Yashchik s instrumentami"
+  },
+  "im25-08": {
+   "word": "болт",
+   "translit": "Bolt"
+  },
+  "im25-09": {
+   "word": "шестерёнка",
+   "translit": "Shesteryonka"
+  },
+  "im25-10": {
+   "word": "цепь",
+   "translit": "Tsep'"
+  },
+  "im26-01": {
+   "word": "больница",
+   "translit": "Bol'nitsa"
+  },
+  "im26-02": {
+   "word": "банк",
+   "translit": "Bank"
+  },
+  "im26-03": {
+   "word": "церковь",
+   "translit": "Tserkov'"
+  },
+  "im26-04": {
+   "word": "гостиница",
+   "translit": "Gostinitsa"
+  },
+  "im26-05": {
+   "word": "завод",
+   "translit": "Zavod"
+  },
+  "im26-06": {
+   "word": "заправка",
+   "translit": "Zapravka"
+  },
+  "im26-07": {
+   "word": "светофор",
+   "translit": "Svetofor"
+  },
+  "im26-08": {
+   "word": "мост",
+   "translit": "Most"
+  },
+  "im26-09": {
+   "word": "стадион",
+   "translit": "Stadion"
+  },
+  "im26-10": {
+   "word": "магазин",
+   "translit": "Magazin"
+  },
+  "im27-01": {
+   "word": "ноутбук",
+   "translit": "Noutbuk"
+  },
+  "im27-02": {
+   "word": "клавиатура",
+   "translit": "Klaviatura"
+  },
+  "im27-03": {
+   "word": "мышка",
+   "translit": "Myshka"
+  },
+  "im27-04": {
+   "word": "принтер",
+   "translit": "Printer"
+  },
+  "im27-05": {
+   "word": "дискета",
+   "translit": "Disketa"
+  },
+  "im27-06": {
+   "word": "наушники",
+   "translit": "Naushniki"
+  },
+  "im27-07": {
+   "word": "микрофон",
+   "translit": "Mikrofon"
+  },
+  "im27-08": {
+   "word": "антенна",
+   "translit": "Antenna"
+  },
+  "im27-09": {
+   "word": "штепсель",
+   "translit": "Shtepsel'"
+  },
+  "im27-10": {
+   "word": "джойстик",
+   "translit": "Dzhoystik"
+  },
+  "im28-01": {
+   "word": "гитара",
+   "translit": "Gitara"
+  },
+  "im28-02": {
+   "word": "пианино",
+   "translit": "Pianino"
+  },
+  "im28-03": {
+   "word": "труба",
+   "translit": "Truba"
+  },
+  "im28-04": {
+   "word": "скрипка",
+   "translit": "Skripka"
+  },
+  "im28-05": {
+   "word": "барабаны",
+   "translit": "Barabany"
+  },
+  "im28-06": {
+   "word": "саксофон",
+   "translit": "Saksofon"
+  },
+  "im28-07": {
+   "word": "банджо",
+   "translit": "Bandzho"
+  },
+  "im28-08": {
+   "word": "аккордеон",
+   "translit": "Akkordeon"
+  },
+  "im28-09": {
+   "word": "ноты",
+   "translit": "Noty"
+  },
+  "im28-10": {
+   "word": "нота",
+   "translit": "Nota"
+  },
+  "im29-01": {
+   "word": "игральная кость",
+   "translit": "Igral'naya kost'"
+  },
+  "im29-02": {
+   "word": "пазл",
+   "translit": "Pazl"
+  },
+  "im29-03": {
+   "word": "мишень",
+   "translit": "Mishen'"
+  },
+  "im29-04": {
+   "word": "шахматы",
+   "translit": "Shakhmaty"
+  },
+  "im29-05": {
+   "word": "видеоигра",
+   "translit": "Videoigra"
+  },
+  "im29-06": {
+   "word": "колесо обозрения",
+   "translit": "Koleso obozreniya"
+  },
+  "im29-07": {
+   "word": "американские горки",
+   "translit": "Amerikanskie gorki"
+  },
+  "im29-08": {
+   "word": "воздушный шар",
+   "translit": "Vozdushnyy shar"
+  },
+  "im29-09": {
+   "word": "воздушный змей",
+   "translit": "Vozdushnyy zmey"
+  },
+  "im29-10": {
+   "word": "карусель",
+   "translit": "Karusel'"
+  },
+  "im30-01": {
+   "word": "подарок",
+   "translit": "Podarok"
+  },
+  "im30-02": {
+   "word": "именинный торт",
+   "translit": "Imeninnyy tort"
+  },
+  "im30-03": {
+   "word": "ёлка",
+   "translit": "Yolka"
+  },
+  "im30-04": {
+   "word": "тыква",
+   "translit": "Tykva"
+  },
+  "im30-05": {
+   "word": "фейерверк",
+   "translit": "Feyerverk"
+  },
+  "im30-06": {
+   "word": "бумажный фонарик",
+   "translit": "Bumazhnyy fonarik"
+  },
+  "im30-07": {
+   "word": "Санта-Клаус",
+   "translit": "Santa-klaus"
+  },
+  "im30-08": {
+   "word": "пиньята",
+   "translit": "Pin'yata"
+  },
+  "im30-09": {
+   "word": "бант",
+   "translit": "Bant"
+  },
+  "im30-10": {
+   "word": "шампанское",
+   "translit": "Shampanskoe"
+  },
+  "im31-01": {
+   "word": "стетоскоп",
+   "translit": "Stetoskop"
+  },
+  "im31-02": {
+   "word": "шприц",
+   "translit": "Shprits"
+  },
+  "im31-03": {
+   "word": "таблетка",
+   "translit": "Tabletka"
+  },
+  "im31-04": {
+   "word": "пластырь",
+   "translit": "Plastyr'"
+  },
+  "im31-05": {
+   "word": "градусник",
+   "translit": "Gradusnik"
+  },
+  "im31-06": {
+   "word": "инвалидная коляска",
+   "translit": "Invalidnaya kolyaska"
+  },
+  "im31-07": {
+   "word": "трость",
+   "translit": "Trost'"
+  },
+  "im31-08": {
+   "word": "микроб",
+   "translit": "Mikrob"
+  },
+  "im31-09": {
+   "word": "кость",
+   "translit": "Kost'"
+  },
+  "im31-10": {
+   "word": "ДНК",
+   "translit": "Dnk"
+  },
+  "im32-01": {
+   "word": "микроскоп",
+   "translit": "Mikroskop"
+  },
+  "im32-02": {
+   "word": "телескоп",
+   "translit": "Teleskop"
+  },
+  "im32-03": {
+   "word": "пробирка",
+   "translit": "Probirka"
+  },
+  "im32-04": {
+   "word": "перегонный куб",
+   "translit": "Peregonnyy kub"
+  },
+  "im32-05": {
+   "word": "чашка Петри",
+   "translit": "Chashka petri"
+  },
+  "im32-06": {
+   "word": "весы",
+   "translit": "Vesy"
+  },
+  "im32-07": {
+   "word": "компас",
+   "translit": "Kompas"
+  },
+  "im32-08": {
+   "word": "лупа",
+   "translit": "Lupa"
+  },
+  "im32-09": {
+   "word": "песочные часы",
+   "translit": "Pesochnye chasy"
+  },
+  "im32-10": {
+   "word": "атом",
+   "translit": "Atom"
+  },
+  "im33-01": {
+   "word": "папка",
+   "translit": "Papka"
+  },
+  "im33-02": {
+   "word": "календарь",
+   "translit": "Kalendar'"
+  },
+  "im33-03": {
+   "word": "диаграмма",
+   "translit": "Diagramma"
+  },
+  "im33-04": {
+   "word": "конверт",
+   "translit": "Konvert"
+  },
+  "im33-05": {
+   "word": "почтовый ящик",
+   "translit": "Pochtovyy yashchik"
+  },
+  "im33-06": {
+   "word": "посылка",
+   "translit": "Posylka"
+  },
+  "im33-07": {
+   "word": "газета",
+   "translit": "Gazeta"
+  },
+  "im33-08": {
+   "word": "кредитная карта",
+   "translit": "Kreditnaya karta"
+  },
+  "im33-09": {
+   "word": "монета",
+   "translit": "Moneta"
+  },
+  "im33-10": {
+   "word": "свиток",
+   "translit": "Svitok"
+  },
+  "im34-01": {
+   "word": "дом",
+   "translit": "Dom"
+  },
+  "im34-02": {
+   "word": "здание",
+   "translit": "Zdanie"
+  },
+  "im34-03": {
+   "word": "кирпич",
+   "translit": "Kirpich"
+  },
+  "im34-04": {
+   "word": "подъёмный кран",
+   "translit": "Podyomnyy kran"
+  },
+  "im34-05": {
+   "word": "хижина",
+   "translit": "Khizhina"
+  },
+  "im34-06": {
+   "word": "палатка",
+   "translit": "Palatka"
+  },
+  "im34-07": {
+   "word": "стройка",
+   "translit": "Stroyka"
+  },
+  "im34-08": {
+   "word": "замок",
+   "translit": "Zamok"
+  },
+  "im34-09": {
+   "word": "фонтан",
+   "translit": "Fontan"
+  },
+  "im34-10": {
+   "word": "моаи",
+   "translit": "Moai"
+  },
+  "im35-01": {
+   "word": "планета",
+   "translit": "Planeta"
+  },
+  "im35-02": {
+   "word": "Земля",
+   "translit": "Zemlya"
+  },
+  "im35-03": {
+   "word": "полнолуние",
+   "translit": "Polnolunie"
+  },
+  "im35-04": {
+   "word": "комета",
+   "translit": "Kometa"
+  },
+  "im35-05": {
+   "word": "ракета",
+   "translit": "Raketa"
+  },
+  "im35-06": {
+   "word": "спутник",
+   "translit": "Sputnik"
+  },
+  "im35-07": {
+   "word": "летающая тарелка",
+   "translit": "Letayushchaya tarelka"
+  },
+  "im35-08": {
+   "word": "пришелец",
+   "translit": "Prishelets"
+  },
+  "im35-09": {
+   "word": "падающая звезда",
+   "translit": "Padayushchaya zvezda"
+  },
+  "im35-10": {
+   "word": "галактика",
+   "translit": "Galaktika"
+  },
+  "im36-01": {
+   "word": "парусник",
+   "translit": "Parusnik"
+  },
+  "im36-02": {
+   "word": "каноэ",
+   "translit": "Kanoe"
+  },
+  "im36-03": {
+   "word": "катер",
+   "translit": "Kater"
+  },
+  "im36-04": {
+   "word": "такси",
+   "translit": "Taksi"
+  },
+  "im36-05": {
+   "word": "скутер",
+   "translit": "Skuter"
+  },
+  "im36-06": {
+   "word": "трактор",
+   "translit": "Traktor"
+  },
+  "im36-07": {
+   "word": "метро",
+   "translit": "Metro"
+  },
+  "im36-08": {
+   "word": "самокат",
+   "translit": "Samokat"
+  },
+  "im36-09": {
+   "word": "парашют",
+   "translit": "Parashyut"
+  },
+  "im36-10": {
+   "word": "полицейская машина",
+   "translit": "Politseyskaya mashina"
+  },
+  "im37-01": {
+   "word": "суши",
+   "translit": "Sushi"
+  },
+  "im37-02": {
+   "word": "рамен",
+   "translit": "Ramen"
+  },
+  "im37-03": {
+   "word": "паэлья",
+   "translit": "Pael'ya"
+  },
+  "im37-04": {
+   "word": "карри",
+   "translit": "Karri"
+  },
+  "im37-05": {
+   "word": "пельмени",
+   "translit": "Pel'meni"
+  },
+  "im37-06": {
+   "word": "бэнто",
+   "translit": "Bento"
+  },
+  "im37-07": {
+   "word": "онигири",
+   "translit": "Onigiri"
+  },
+  "im37-08": {
+   "word": "фалафель",
+   "translit": "Falafel'"
+  },
+  "im37-09": {
+   "word": "салат",
+   "translit": "Salat"
+  },
+  "im37-10": {
+   "word": "рагу",
+   "translit": "Ragu"
+  },
+  "im38-01": {
+   "word": "круассан",
+   "translit": "Kruassan"
+  },
+  "im38-02": {
+   "word": "крендель",
+   "translit": "Krendel'"
+  },
+  "im38-03": {
+   "word": "бейгл",
+   "translit": "Beygl"
+  },
+  "im38-04": {
+   "word": "панкейк",
+   "translit": "Pankeyk"
+  },
+  "im38-05": {
+   "word": "вафля",
+   "translit": "Vaflya"
+  },
+  "im38-06": {
+   "word": "тако",
+   "translit": "Tako"
+  },
+  "im38-07": {
+   "word": "буррито",
+   "translit": "Burrito"
+  },
+  "im38-08": {
+   "word": "бутерброд",
+   "translit": "Buterbrod"
+  },
+  "im38-09": {
+   "word": "попкорн",
+   "translit": "Popkorn"
+  },
+  "im38-10": {
+   "word": "хот-дог",
+   "translit": "Khot-dog"
+  },
+  "im39-01": {
+   "word": "пудинг",
+   "translit": "Puding"
+  },
+  "im39-02": {
+   "word": "пирог",
+   "translit": "Pirog"
+  },
+  "im39-03": {
+   "word": "капкейк",
+   "translit": "Kapkeyk"
+  },
+  "im39-04": {
+   "word": "конфета",
+   "translit": "Konfeta"
+  },
+  "im39-05": {
+   "word": "леденец",
+   "translit": "Ledenets"
+  },
+  "im39-06": {
+   "word": "мёд",
+   "translit": "Myod"
+  },
+  "im39-07": {
+   "word": "фруктовый лёд",
+   "translit": "Fruktovyy lyod"
+  },
+  "im39-08": {
+   "word": "печенье с предсказанием",
+   "translit": "Pechen'e s predskazaniem"
+  },
+  "im39-09": {
+   "word": "масло",
+   "translit": "Maslo"
+  },
+  "im39-10": {
+   "word": "данго",
+   "translit": "Dango"
+  },
+  "im40-01": {
+   "word": "чай",
+   "translit": "Chay"
+  },
+  "im40-02": {
+   "word": "коктейль",
+   "translit": "Kokteyl'"
+  },
+  "im40-03": {
+   "word": "саке",
+   "translit": "Sake"
+  },
+  "im40-04": {
+   "word": "виски",
+   "translit": "Viski"
+  },
+  "im40-05": {
+   "word": "мате",
+   "translit": "Mate"
+  },
+  "im40-06": {
+   "word": "баббл-ти",
+   "translit": "Babbl-ti"
+  },
+  "im40-07": {
+   "word": "тропический напиток",
+   "translit": "Tropicheskiy napitok"
+  },
+  "im40-08": {
+   "word": "детская бутылочка",
+   "translit": "Detskaya butylochka"
+  },
+  "im40-09": {
+   "word": "капля",
+   "translit": "Kaplya"
+  },
+  "im40-10": {
+   "word": "тост",
+   "translit": "Tost"
+  },
+  "im41-01": {
+   "word": "волк",
+   "translit": "Volk"
+  },
+  "im41-02": {
+   "word": "лиса",
+   "translit": "Lisa"
+  },
+  "im41-03": {
+   "word": "олень",
+   "translit": "Olen'"
+  },
+  "im41-04": {
+   "word": "белка",
+   "translit": "Belka"
+  },
+  "im41-05": {
+   "word": "кабан",
+   "translit": "Kaban"
+  },
+  "im41-06": {
+   "word": "барсук",
+   "translit": "Barsuk"
+  },
+  "im41-07": {
+   "word": "енот",
+   "translit": "Enot"
+  },
+  "im41-08": {
+   "word": "летучая мышь",
+   "translit": "Letuchaya mysh'"
+  },
+  "im41-09": {
+   "word": "ёж",
+   "translit": "Yozh"
+  },
+  "im41-10": {
+   "word": "скунс",
+   "translit": "Skuns"
+  },
+  "im42-01": {
+   "word": "кенгуру",
+   "translit": "Kenguru"
+  },
+  "im42-02": {
+   "word": "коала",
+   "translit": "Koala"
+  },
+  "im42-03": {
+   "word": "панда",
+   "translit": "Panda"
+  },
+  "im42-04": {
+   "word": "верблюд",
+   "translit": "Verblyud"
+  },
+  "im42-05": {
+   "word": "лама",
+   "translit": "Lama"
+  },
+  "im42-06": {
+   "word": "ленивец",
+   "translit": "Lenivets"
+  },
+  "im42-07": {
+   "word": "горилла",
+   "translit": "Gorilla"
+  },
+  "im42-08": {
+   "word": "орангутан",
+   "translit": "Orangutan"
+  },
+  "im42-09": {
+   "word": "леопард",
+   "translit": "Leopard"
+  },
+  "im42-10": {
+   "word": "бизон",
+   "translit": "Bizon"
+  },
+  "im43-01": {
+   "word": "тираннозавр",
+   "translit": "Tirannozavr"
+  },
+  "im43-02": {
+   "word": "брахиозавр",
+   "translit": "Brakhiozavr"
+  },
+  "im43-03": {
+   "word": "мамонт",
+   "translit": "Mamont"
+  },
+  "im43-04": {
+   "word": "тюлень",
+   "translit": "Tyulen'"
+  },
+  "im43-05": {
+   "word": "выдра",
+   "translit": "Vydra"
+  },
+  "im43-06": {
+   "word": "буйвол",
+   "translit": "Buyvol"
+  },
+  "im43-07": {
+   "word": "бобр",
+   "translit": "Bobr"
+  },
+  "im43-08": {
+   "word": "баран",
+   "translit": "Baran"
+  },
+  "im43-09": {
+   "word": "пудель",
+   "translit": "Pudel'"
+  },
+  "im43-10": {
+   "word": "собака-поводырь",
+   "translit": "Sobaka-povodyr'"
+  },
+  "im44-01": {
+   "word": "сосна",
+   "translit": "Sosna"
+  },
+  "im44-02": {
+   "word": "пшеница",
+   "translit": "Pshenitsa"
+  },
+  "im44-03": {
+   "word": "клевер",
+   "translit": "Klever"
+  },
+  "im44-04": {
+   "word": "росток",
+   "translit": "Rostok"
+  },
+  "im44-05": {
+   "word": "букет",
+   "translit": "Buket"
+  },
+  "im44-06": {
+   "word": "цветок вишни",
+   "translit": "Tsvetok vishni"
+  },
+  "im44-07": {
+   "word": "ромашка",
+   "translit": "Romashka"
+  },
+  "im44-08": {
+   "word": "гибискус",
+   "translit": "Gibiskus"
+  },
+  "im44-09": {
+   "word": "опавший лист",
+   "translit": "Opavshiy list"
+  },
+  "im44-10": {
+   "word": "увядший цветок",
+   "translit": "Uvyadshiy tsvetok"
+  },
+  "im45-01": {
+   "word": "галстук",
+   "translit": "Galstuk"
+  },
+  "im45-02": {
+   "word": "блузка",
+   "translit": "Bluzka"
+  },
+  "im45-03": {
+   "word": "кимоно",
+   "translit": "Kimono"
+  },
+  "im45-04": {
+   "word": "бикини",
+   "translit": "Bikini"
+  },
+  "im45-05": {
+   "word": "шорты",
+   "translit": "Shorty"
+  },
+  "im45-06": {
+   "word": "туфли на каблуках",
+   "translit": "Tufli na kablukakh"
+  },
+  "im45-07": {
+   "word": "сапог",
+   "translit": "Sapog"
+  },
+  "im45-08": {
+   "word": "шлёпанцы",
+   "translit": "Shlyopantsy"
+  },
+  "im45-09": {
+   "word": "шляпа",
+   "translit": "Shlyapa"
+  },
+  "im45-10": {
+   "word": "белый халат",
+   "translit": "Belyy khalat"
+  },
+  "im46-01": {
+   "word": "кольцо",
+   "translit": "Kol'tso"
+  },
+  "im46-02": {
+   "word": "бриллиант",
+   "translit": "Brilliant"
+  },
+  "im46-03": {
+   "word": "сумка",
+   "translit": "Sumka"
+  },
+  "im46-04": {
+   "word": "кошелёк",
+   "translit": "Koshelyok"
+  },
+  "im46-05": {
+   "word": "цилиндр",
+   "translit": "Tsilindr"
+  },
+  "im46-06": {
+   "word": "солнцезащитные очки",
+   "translit": "Solntsezashchitnye ochki"
+  },
+  "im46-07": {
+   "word": "академическая шапочка",
+   "translit": "Akademicheskaya shapochka"
+  },
+  "im46-08": {
+   "word": "помада",
+   "translit": "Pomada"
+  },
+  "im46-09": {
+   "word": "бусы",
+   "translit": "Busy"
+  },
+  "im46-10": {
+   "word": "жилет",
+   "translit": "Zhilet"
+  },
+  "im47-01": {
+   "word": "кубок",
+   "translit": "Kubok"
+  },
+  "im47-02": {
+   "word": "медаль",
+   "translit": "Medal'"
+  },
+  "im47-03": {
+   "word": "удочка",
+   "translit": "Udochka"
+  },
+  "im47-04": {
+   "word": "лыжи",
+   "translit": "Lyzhi"
+  },
+  "im47-05": {
+   "word": "сани",
+   "translit": "Sani"
+  },
+  "im47-06": {
+   "word": "ракетка для бадминтона",
+   "translit": "Raketka dlya badmintona"
+  },
+  "im47-07": {
+   "word": "ворота",
+   "translit": "Vorota"
+  },
+  "im47-08": {
+   "word": "флажок для гольфа",
+   "translit": "Flazhok dlya gol'fa"
+  },
+  "im47-09": {
+   "word": "йо-йо",
+   "translit": "Yo-yo"
+  },
+  "im47-10": {
+   "word": "маска для ныряния",
+   "translit": "Maska dlya nyryaniya"
+  },
+  "im48-01": {
+   "word": "хлопушка",
+   "translit": "Khlopushka"
+  },
+  "im48-02": {
+   "word": "видеокамера",
+   "translit": "Videokamera"
+  },
+  "im48-03": {
+   "word": "театр",
+   "translit": "Teatr"
+  },
+  "im48-04": {
+   "word": "цирк",
+   "translit": "Tsirk"
+  },
+  "im48-05": {
+   "word": "киноплёнка",
+   "translit": "Kinoplyonka"
+  },
+  "im48-06": {
+   "word": "проектор",
+   "translit": "Proektor"
+  },
+  "im48-07": {
+   "word": "караоке",
+   "translit": "Karaoke"
+  },
+  "im48-08": {
+   "word": "билет",
+   "translit": "Bilet"
+  },
+  "im48-09": {
+   "word": "кисть",
+   "translit": "Kist'"
+  },
+  "im48-10": {
+   "word": "почтовый рожок",
+   "translit": "Pochtovyy rozhok"
+  },
+  "im49-01": {
+   "word": "щит",
+   "translit": "Shchit"
+  },
+  "im49-02": {
+   "word": "мечи",
+   "translit": "Mechi"
+  },
+  "im49-03": {
+   "word": "кинжал",
+   "translit": "Kinzhal"
+  },
+  "im49-04": {
+   "word": "дракон",
+   "translit": "Drakon"
+  },
+  "im49-05": {
+   "word": "единорог",
+   "translit": "Edinorog"
+  },
+  "im49-06": {
+   "word": "волшебная палочка",
+   "translit": "Volshebnaya palochka"
+  },
+  "im49-07": {
+   "word": "хрустальный шар",
+   "translit": "Khrustal'nyy shar"
+  },
+  "im49-08": {
+   "word": "корона",
+   "translit": "Korona"
+  },
+  "im49-09": {
+   "word": "волшебник",
+   "translit": "Volshebnik"
+  },
+  "im49-10": {
+   "word": "фея",
+   "translit": "Feya"
+  },
+  "im50-01": {
+   "word": "амфора",
+   "translit": "Amfora"
+  },
+  "im50-02": {
+   "word": "якорь",
+   "translit": "Yakor'"
+  },
+  "im50-03": {
+   "word": "камень",
+   "translit": "Kamen'"
+  },
+  "im50-04": {
+   "word": "бревно",
+   "translit": "Brevno"
+  },
+  "im50-05": {
+   "word": "телефон",
+   "translit": "Telefon"
+  },
+  "im50-06": {
+   "word": "факс",
+   "translit": "Faks"
+  },
+  "im50-07": {
+   "word": "кассета",
+   "translit": "Kasseta"
+  },
+  "im50-08": {
+   "word": "мегафон",
+   "translit": "Megafon"
+  },
+  "im50-09": {
+   "word": "старинный ключ",
+   "translit": "Starinnyy klyuch"
+  },
+  "im50-10": {
+   "word": "бочка с нефтью",
+   "translit": "Bochka s neft'yu"
+  }
+ }
+}

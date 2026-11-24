@@ -4,13 +4,15 @@
  "chapterTitles": [
   "Fale & Brilhe",
   "Conversa em Ação",
-  "Papo de Gente Grande"
+  "Papo de Gente Grande",
+  "Voz de Viajante",
+  "Falar com Confiança"
  ],
  "phases": [
   {
    "phase": 1,
-   "globalPhase": 91,
-   "chapter": 10,
+   "globalPhase": 151,
+   "chapter": 16,
    "level": "A1",
    "theme": "Elogios em uma palavra",
    "concepts": [
@@ -58,8 +60,8 @@
   },
   {
    "phase": 2,
-   "globalPhase": 92,
-   "chapter": 10,
+   "globalPhase": 152,
+   "chapter": 16,
    "level": "A1",
    "theme": "Pedir com uma palavra",
    "concepts": [
@@ -107,8 +109,8 @@
   },
   {
    "phase": 3,
-   "globalPhase": 93,
-   "chapter": 10,
+   "globalPhase": 153,
+   "chapter": 16,
    "level": "A1",
    "theme": "Tipos de pessoas",
    "concepts": [
@@ -156,8 +158,8 @@
   },
   {
    "phase": 4,
-   "globalPhase": 94,
-   "chapter": 10,
+   "globalPhase": 154,
+   "chapter": 16,
    "level": "A1",
    "theme": "Dias da semana",
    "concepts": [
@@ -205,8 +207,8 @@
   },
   {
    "phase": 5,
-   "globalPhase": 95,
-   "chapter": 10,
+   "globalPhase": 155,
+   "chapter": 16,
    "level": "A1",
    "theme": "Meses do ano",
    "concepts": [
@@ -254,8 +256,8 @@
   },
   {
    "phase": 6,
-   "globalPhase": 96,
-   "chapter": 10,
+   "globalPhase": 156,
+   "chapter": 16,
    "level": "A1",
    "theme": "Chamar a atenção",
    "concepts": [
@@ -303,8 +305,8 @@
   },
   {
    "phase": 7,
-   "globalPhase": 97,
-   "chapter": 10,
+   "globalPhase": 157,
+   "chapter": 16,
    "level": "A1",
    "theme": "Pratos do almoço",
    "concepts": [
@@ -352,8 +354,8 @@
   },
   {
    "phase": 8,
-   "globalPhase": 98,
-   "chapter": 10,
+   "globalPhase": 158,
+   "chapter": 16,
    "level": "A1",
    "theme": "Lanches rápidos",
    "concepts": [
@@ -401,8 +403,8 @@
   },
   {
    "phase": 9,
-   "globalPhase": 99,
-   "chapter": 10,
+   "globalPhase": 159,
+   "chapter": 16,
    "level": "A1",
    "theme": "Passeios e diversão",
    "concepts": [
@@ -450,8 +452,8 @@
   },
   {
    "phase": 10,
-   "globalPhase": 100,
-   "chapter": 10,
+   "globalPhase": 160,
+   "chapter": 16,
    "level": "A1",
    "theme": "Quando as coisas acontecem",
    "concepts": [
@@ -499,8 +501,8 @@
   },
   {
    "phase": 11,
-   "globalPhase": 101,
-   "chapter": 11,
+   "globalPhase": 161,
+   "chapter": 17,
    "level": "A2",
    "theme": "Oferecer algo",
    "concepts": [
@@ -548,8 +550,8 @@
   },
   {
    "phase": 12,
-   "globalPhase": 102,
-   "chapter": 11,
+   "globalPhase": 162,
+   "chapter": 17,
    "level": "A2",
    "theme": "Responder a um agradecimento",
    "concepts": [
@@ -597,8 +599,8 @@
   },
   {
    "phase": 13,
-   "globalPhase": 103,
-   "chapter": 11,
+   "globalPhase": 163,
+   "chapter": 17,
    "level": "A2",
    "theme": "Elogiar alguém",
    "concepts": [
@@ -646,8 +648,8 @@
   },
   {
    "phase": 14,
-   "globalPhase": 104,
-   "chapter": 11,
+   "globalPhase": 164,
+   "chapter": 17,
    "level": "A2",
    "theme": "Combinar um encontro",
    "concepts": [
@@ -695,8 +697,8 @@
   },
   {
    "phase": 15,
-   "globalPhase": 105,
-   "chapter": 11,
+   "globalPhase": 165,
+   "chapter": 17,
    "level": "A2",
    "theme": "Reagir a notícias",
    "concepts": [
@@ -744,8 +746,8 @@
   },
   {
    "phase": 16,
-   "globalPhase": 106,
-   "chapter": 11,
+   "globalPhase": 166,
+   "chapter": 17,
    "level": "A2",
    "theme": "Viajar de ônibus e trem",
    "concepts": [
@@ -793,8 +795,8 @@
   },
   {
    "phase": 17,
-   "globalPhase": 107,
-   "chapter": 11,
+   "globalPhase": 167,
+   "chapter": 17,
    "level": "A2",
    "theme": "Pedir na lanchonete",
    "concepts": [
@@ -842,8 +844,8 @@
   },
   {
    "phase": 18,
-   "globalPhase": 108,
-   "chapter": 11,
+   "globalPhase": 168,
+   "chapter": 17,
    "level": "A2",
    "theme": "Dizer como me sinto",
    "concepts": [
@@ -891,8 +893,8 @@
   },
   {
    "phase": 19,
-   "globalPhase": 109,
-   "chapter": 11,
+   "globalPhase": 169,
+   "chapter": 17,
    "level": "A2",
    "theme": "Conversa para conhecer alguém",
    "concepts": [
@@ -940,8 +942,8 @@
   },
   {
    "phase": 20,
-   "globalPhase": 110,
-   "chapter": 11,
+   "globalPhase": 170,
+   "chapter": 17,
    "level": "A2",
    "theme": "Convites para brincar",
    "concepts": [
@@ -989,8 +991,8 @@
   },
   {
    "phase": 21,
-   "globalPhase": 111,
-   "chapter": 12,
+   "globalPhase": 171,
+   "chapter": 18,
    "level": "B1",
    "theme": "Pedir ajuda na rua",
    "concepts": [
@@ -1038,8 +1040,8 @@
   },
   {
    "phase": 22,
-   "globalPhase": 112,
-   "chapter": 12,
+   "globalPhase": 172,
+   "chapter": 18,
    "level": "B1",
    "theme": "Conversas no trabalho",
    "concepts": [
@@ -1087,8 +1089,8 @@
   },
   {
    "phase": 23,
-   "globalPhase": 113,
-   "chapter": 12,
+   "globalPhase": 173,
+   "chapter": 18,
    "level": "B1",
    "theme": "Opiniões sobre gostos",
    "concepts": [
@@ -1136,8 +1138,8 @@
   },
   {
    "phase": 24,
-   "globalPhase": 114,
-   "chapter": 12,
+   "globalPhase": 174,
+   "chapter": 18,
    "level": "B1",
    "theme": "Planos para o futuro",
    "concepts": [
@@ -1185,8 +1187,8 @@
   },
   {
    "phase": 25,
-   "globalPhase": 115,
-   "chapter": 12,
+   "globalPhase": 175,
+   "chapter": 18,
    "level": "B1",
    "theme": "Contar o fim de semana",
    "concepts": [
@@ -1234,8 +1236,8 @@
   },
   {
    "phase": 26,
-   "globalPhase": 116,
-   "chapter": 12,
+   "globalPhase": 176,
+   "chapter": 18,
    "level": "B1",
    "theme": "Fazer novas amizades",
    "concepts": [
@@ -1283,8 +1285,8 @@
   },
   {
    "phase": 27,
-   "globalPhase": 117,
-   "chapter": 12,
+   "globalPhase": 177,
+   "chapter": 18,
    "level": "B1",
    "theme": "À mesa com visitas",
    "concepts": [
@@ -1332,8 +1334,8 @@
   },
   {
    "phase": 28,
-   "globalPhase": 118,
-   "chapter": 12,
+   "globalPhase": 178,
+   "chapter": 18,
    "level": "B1",
    "theme": "Cuidar da saúde",
    "concepts": [
@@ -1381,8 +1383,8 @@
   },
   {
    "phase": 29,
-   "globalPhase": 119,
-   "chapter": 12,
+   "globalPhase": 179,
+   "chapter": 18,
    "level": "B1",
    "theme": "Planejar uma viagem",
    "concepts": [
@@ -1430,8 +1432,8 @@
   },
   {
    "phase": 30,
-   "globalPhase": 120,
-   "chapter": 12,
+   "globalPhase": 180,
+   "chapter": 18,
    "level": "B1",
    "theme": "Despedidas e promessas",
    "concepts": [
@@ -1474,6 +1476,986 @@
      "id": "sp30-08",
      "emoji": "🌈",
      "pt": "Tenha uma boa semana"
+    }
+   ]
+  },
+  {
+   "phase": 31,
+   "globalPhase": 181,
+   "chapter": 19,
+   "level": "B1",
+   "theme": "Pedir um favor educado",
+   "concepts": [
+    {
+     "id": "sp31-01",
+     "emoji": "🙏",
+     "pt": "Pode me dar uma mão?"
+    },
+    {
+     "id": "sp31-02",
+     "emoji": "🤝",
+     "pt": "Você se importaria de esperar?"
+    },
+    {
+     "id": "sp31-03",
+     "emoji": "🔁",
+     "pt": "Poderia repetir, por favor?"
+    },
+    {
+     "id": "sp31-04",
+     "emoji": "🔌",
+     "pt": "Me empresta seu carregador?"
+    },
+    {
+     "id": "sp31-05",
+     "emoji": "🎁",
+     "pt": "Posso pedir uma gentileza?"
+    },
+    {
+     "id": "sp31-06",
+     "emoji": "🐢",
+     "pt": "Fale mais devagar, por favor"
+    },
+    {
+     "id": "sp31-07",
+     "emoji": "💺",
+     "pt": "Pode guardar meu lugar?"
+    },
+    {
+     "id": "sp31-08",
+     "emoji": "🪟",
+     "pt": "Poderia abrir a janela?"
+    }
+   ]
+  },
+  {
+   "phase": 32,
+   "globalPhase": 182,
+   "chapter": 19,
+   "level": "B1",
+   "theme": "Pedidos no restaurante",
+   "concepts": [
+    {
+     "id": "sp32-01",
+     "emoji": "🪑",
+     "pt": "Queria a mesa perto da janela"
+    },
+    {
+     "id": "sp32-02",
+     "emoji": "🧾",
+     "pt": "A conta, por favor, quando puder"
+    },
+    {
+     "id": "sp32-03",
+     "emoji": "🍴",
+     "pt": "O que você recomenda hoje?"
+    },
+    {
+     "id": "sp32-04",
+     "emoji": "🌶️",
+     "pt": "Este prato leva pimenta?"
+    },
+    {
+     "id": "sp32-05",
+     "emoji": "🥖",
+     "pt": "Pode trazer mais pão?"
+    },
+    {
+     "id": "sp32-06",
+     "emoji": "✅",
+     "pt": "Já estou pronto para pedir"
+    },
+    {
+     "id": "sp32-07",
+     "emoji": "🥩",
+     "pt": "Queria a carne bem passada"
+    },
+    {
+     "id": "sp32-08",
+     "emoji": "➗",
+     "pt": "Pode dividir a conta em duas?"
+    }
+   ]
+  },
+  {
+   "phase": 33,
+   "globalPhase": 183,
+   "chapter": 19,
+   "level": "B1",
+   "theme": "Comprar na loja",
+   "concepts": [
+    {
+     "id": "sp33-01",
+     "emoji": "👀",
+     "pt": "Estou só olhando, obrigado"
+    },
+    {
+     "id": "sp33-02",
+     "emoji": "📏",
+     "pt": "Tem esse tamanho menor?"
+    },
+    {
+     "id": "sp33-03",
+     "emoji": "👕",
+     "pt": "Posso provar esta camisa?"
+    },
+    {
+     "id": "sp33-04",
+     "emoji": "💳",
+     "pt": "Vocês aceitam cartão?"
+    },
+    {
+     "id": "sp33-05",
+     "emoji": "💸",
+     "pt": "Está um pouco caro para mim"
+    },
+    {
+     "id": "sp33-06",
+     "emoji": "🏷️",
+     "pt": "Tem desconto à vista?"
+    },
+    {
+     "id": "sp33-07",
+     "emoji": "🎁",
+     "pt": "Pode embrulhar para presente?"
+    },
+    {
+     "id": "sp33-08",
+     "emoji": "🎨",
+     "pt": "Quero trocar por outra cor"
+    }
+   ]
+  },
+  {
+   "phase": 34,
+   "globalPhase": 184,
+   "chapter": 19,
+   "level": "B1",
+   "theme": "Resolver no aeroporto",
+   "concepts": [
+    {
+     "id": "sp34-01",
+     "emoji": "🛄",
+     "pt": "Perdi minha conexão"
+    },
+    {
+     "id": "sp34-02",
+     "emoji": "🚪",
+     "pt": "Onde fica o portão de embarque?"
+    },
+    {
+     "id": "sp34-03",
+     "emoji": "🧳",
+     "pt": "Minha mala não chegou"
+    },
+    {
+     "id": "sp34-04",
+     "emoji": "⏰",
+     "pt": "Nosso voo saiu com atraso"
+    },
+    {
+     "id": "sp34-05",
+     "emoji": "💺",
+     "pt": "Quero um assento no corredor"
+    },
+    {
+     "id": "sp34-06",
+     "emoji": "📦",
+     "pt": "Preciso despachar esta mala"
+    },
+    {
+     "id": "sp34-07",
+     "emoji": "🕐",
+     "pt": "Qual é o horário do embarque?"
+    },
+    {
+     "id": "sp34-08",
+     "emoji": "🛃",
+     "pt": "Vou passar pela alfândega"
+    }
+   ]
+  },
+  {
+   "phase": 35,
+   "globalPhase": 185,
+   "chapter": 19,
+   "level": "B1",
+   "theme": "Falar com o hotel",
+   "concepts": [
+    {
+     "id": "sp35-01",
+     "emoji": "🔑",
+     "pt": "Tenho uma reserva em meu nome"
+    },
+    {
+     "id": "sp35-02",
+     "emoji": "🥐",
+     "pt": "A que horas é o café da manhã?"
+    },
+    {
+     "id": "sp35-03",
+     "emoji": "🚿",
+     "pt": "O chuveiro não está funcionando"
+    },
+    {
+     "id": "sp35-04",
+     "emoji": "🚕",
+     "pt": "Pode chamar um táxi para mim?"
+    },
+    {
+     "id": "sp35-05",
+     "emoji": "🧺",
+     "pt": "Preciso de mais toalhas"
+    },
+    {
+     "id": "sp35-06",
+     "emoji": "🗓️",
+     "pt": "Fico hospedado até sexta-feira"
+    },
+    {
+     "id": "sp35-07",
+     "emoji": "📶",
+     "pt": "Tem internet no quarto?"
+    },
+    {
+     "id": "sp35-08",
+     "emoji": "🛏️",
+     "pt": "O quarto fica no segundo andar?"
+    }
+   ]
+  },
+  {
+   "phase": 36,
+   "globalPhase": 186,
+   "chapter": 19,
+   "level": "B1",
+   "theme": "Achar o caminho de carro",
+   "concepts": [
+    {
+     "id": "sp36-01",
+     "emoji": "🚦",
+     "pt": "Vire à esquerda no semáforo"
+    },
+    {
+     "id": "sp36-02",
+     "emoji": "➡️",
+     "pt": "Siga em frente por dois quarteirões"
+    },
+    {
+     "id": "sp36-03",
+     "emoji": "🏦",
+     "pt": "Fica ao lado do banco"
+    },
+    {
+     "id": "sp36-04",
+     "emoji": "🚶",
+     "pt": "Está longe daqui a pé?"
+    },
+    {
+     "id": "sp36-05",
+     "emoji": "❓",
+     "pt": "Acho que estamos perdidos"
+    },
+    {
+     "id": "sp36-06",
+     "emoji": "🔀",
+     "pt": "Existe um atalho por aqui?"
+    },
+    {
+     "id": "sp36-07",
+     "emoji": "🅿️",
+     "pt": "Onde posso estacionar?"
+    },
+    {
+     "id": "sp36-08",
+     "emoji": "🚌",
+     "pt": "O ônibus passa de dez em dez minutos"
+    }
+   ]
+  },
+  {
+   "phase": 37,
+   "globalPhase": 187,
+   "chapter": 19,
+   "level": "B1",
+   "theme": "Consulta e farmácia",
+   "concepts": [
+    {
+     "id": "sp37-01",
+     "emoji": "🤕",
+     "pt": "Minha cabeça está latejando"
+    },
+    {
+     "id": "sp37-02",
+     "emoji": "🥜",
+     "pt": "Tenho alergia a amendoim"
+    },
+    {
+     "id": "sp37-03",
+     "emoji": "💊",
+     "pt": "Pode me indicar um remédio?"
+    },
+    {
+     "id": "sp37-04",
+     "emoji": "🤧",
+     "pt": "Estou com tosse desde ontem"
+    },
+    {
+     "id": "sp37-05",
+     "emoji": "🩹",
+     "pt": "Preciso de um curativo"
+    },
+    {
+     "id": "sp37-06",
+     "emoji": "⏱️",
+     "pt": "Com que frequência tomo isto?"
+    },
+    {
+     "id": "sp37-07",
+     "emoji": "🌡️",
+     "pt": "Acho que estou com febre"
+    },
+    {
+     "id": "sp37-08",
+     "emoji": "📅",
+     "pt": "Preciso marcar uma consulta"
+    }
+   ]
+  },
+  {
+   "phase": 38,
+   "globalPhase": 188,
+   "chapter": 19,
+   "level": "B1",
+   "theme": "Emoções intensas",
+   "concepts": [
+    {
+     "id": "sp38-01",
+     "emoji": "🤩",
+     "pt": "Estou muito animado hoje"
+    },
+    {
+     "id": "sp38-02",
+     "emoji": "😞",
+     "pt": "Fiquei decepcionado com o resultado"
+    },
+    {
+     "id": "sp38-03",
+     "emoji": "😮‍💨",
+     "pt": "Que alívio, deu tudo certo"
+    },
+    {
+     "id": "sp38-04",
+     "emoji": "😳",
+     "pt": "Estou morrendo de vergonha"
+    },
+    {
+     "id": "sp38-05",
+     "emoji": "😰",
+     "pt": "Estou nervoso por causa da prova"
+    },
+    {
+     "id": "sp38-06",
+     "emoji": "🥹",
+     "pt": "Me sinto orgulhoso de você"
+    },
+    {
+     "id": "sp38-07",
+     "emoji": "🏠",
+     "pt": "Estou com saudade de casa"
+    },
+    {
+     "id": "sp38-08",
+     "emoji": "🤣",
+     "pt": "Não consigo parar de rir"
+    }
+   ]
+  },
+  {
+   "phase": 39,
+   "globalPhase": 189,
+   "chapter": 19,
+   "level": "B1",
+   "theme": "Reunião de trabalho",
+   "concepts": [
+    {
+     "id": "sp39-01",
+     "emoji": "📣",
+     "pt": "Vamos começar a reunião"
+    },
+    {
+     "id": "sp39-02",
+     "emoji": "💡",
+     "pt": "Posso fazer uma sugestão?"
+    },
+    {
+     "id": "sp39-03",
+     "emoji": "🤝",
+     "pt": "Concordo com o seu ponto"
+    },
+    {
+     "id": "sp39-04",
+     "emoji": "📆",
+     "pt": "O prazo termina na sexta"
+    },
+    {
+     "id": "sp39-05",
+     "emoji": "📝",
+     "pt": "Vou revisar o relatório hoje"
+    },
+    {
+     "id": "sp39-06",
+     "emoji": "👤",
+     "pt": "Quem fica responsável por isso?"
+    },
+    {
+     "id": "sp39-07",
+     "emoji": "⏳",
+     "pt": "Podemos adiar para amanhã?"
+    },
+    {
+     "id": "sp39-08",
+     "emoji": "🕒",
+     "pt": "Preciso de mais tempo"
+    }
+   ]
+  },
+  {
+   "phase": 40,
+   "globalPhase": 190,
+   "chapter": 19,
+   "level": "B1",
+   "theme": "Entrevista de emprego",
+   "concepts": [
+    {
+     "id": "sp40-01",
+     "emoji": "📅",
+     "pt": "Tenho cinco anos de experiência"
+    },
+    {
+     "id": "sp40-02",
+     "emoji": "👥",
+     "pt": "Gosto de trabalhar em equipe"
+    },
+    {
+     "id": "sp40-03",
+     "emoji": "💪",
+     "pt": "Meu ponto forte é a organização"
+    },
+    {
+     "id": "sp40-04",
+     "emoji": "🎯",
+     "pt": "Estou muito interessado na vaga"
+    },
+    {
+     "id": "sp40-05",
+     "emoji": "🙋",
+     "pt": "Quando posso começar?"
+    },
+    {
+     "id": "sp40-06",
+     "emoji": "📚",
+     "pt": "Aprendo rápido e com vontade"
+    },
+    {
+     "id": "sp40-07",
+     "emoji": "💰",
+     "pt": "Qual é o salário?"
+    },
+    {
+     "id": "sp40-08",
+     "emoji": "🙏",
+     "pt": "Obrigado pela oportunidade"
+    }
+   ]
+  },
+  {
+   "phase": 41,
+   "globalPhase": 191,
+   "chapter": 20,
+   "level": "B2",
+   "theme": "Dar e pedir opinião",
+   "concepts": [
+    {
+     "id": "sp41-01",
+     "emoji": "✅",
+     "pt": "Na minha opinião, vale a pena"
+    },
+    {
+     "id": "sp41-02",
+     "emoji": "🤔",
+     "pt": "O que você acha dessa ideia?"
+    },
+    {
+     "id": "sp41-03",
+     "emoji": "🤷",
+     "pt": "Não tenho tanta certeza"
+    },
+    {
+     "id": "sp41-04",
+     "emoji": "🤏",
+     "pt": "Concordo em parte com você"
+    },
+    {
+     "id": "sp41-05",
+     "emoji": "🔄",
+     "pt": "Isso depende da situação"
+    },
+    {
+     "id": "sp41-06",
+     "emoji": "👍",
+     "pt": "Esse é um bom argumento"
+    },
+    {
+     "id": "sp41-07",
+     "emoji": "🔃",
+     "pt": "Veja por outro lado"
+    },
+    {
+     "id": "sp41-08",
+     "emoji": "🙂",
+     "pt": "Discordo, mas respeito"
+    }
+   ]
+  },
+  {
+   "phase": 42,
+   "globalPhase": 192,
+   "chapter": 20,
+   "level": "B2",
+   "theme": "Pedir desculpas de verdade",
+   "concepts": [
+    {
+     "id": "sp42-01",
+     "emoji": "⏰",
+     "pt": "Desculpe o atraso, o trânsito parou"
+    },
+    {
+     "id": "sp42-02",
+     "emoji": "🙇",
+     "pt": "Foi sem querer, me perdoe"
+    },
+    {
+     "id": "sp42-03",
+     "emoji": "🙈",
+     "pt": "A culpa foi minha"
+    },
+    {
+     "id": "sp42-04",
+     "emoji": "🎁",
+     "pt": "Vou compensar você depois"
+    },
+    {
+     "id": "sp42-05",
+     "emoji": "💔",
+     "pt": "Não quis te magoar"
+    },
+    {
+     "id": "sp42-06",
+     "emoji": "🕊️",
+     "pt": "Vamos esquecer o assunto?"
+    },
+    {
+     "id": "sp42-07",
+     "emoji": "😊",
+     "pt": "Fico feliz que tenha entendido"
+    },
+    {
+     "id": "sp42-08",
+     "emoji": "🤞",
+     "pt": "Prometo que não se repete"
+    }
+   ]
+  },
+  {
+   "phase": 43,
+   "globalPhase": 193,
+   "chapter": 20,
+   "level": "B2",
+   "theme": "Humor e brincadeiras",
+   "concepts": [
+    {
+     "id": "sp43-01",
+     "emoji": "😄",
+     "pt": "Essa foi boa, ri muito"
+    },
+    {
+     "id": "sp43-02",
+     "emoji": "😜",
+     "pt": "Você só pode estar brincando"
+    },
+    {
+     "id": "sp43-03",
+     "emoji": "🃏",
+     "pt": "Conta outra piada"
+    },
+    {
+     "id": "sp43-04",
+     "emoji": "🪑",
+     "pt": "Quase caí da cadeira de tanto rir"
+    },
+    {
+     "id": "sp43-05",
+     "emoji": "😉",
+     "pt": "Estou só zoando você"
+    },
+    {
+     "id": "sp43-06",
+     "emoji": "😴",
+     "pt": "Que cara de sono é essa?"
+    },
+    {
+     "id": "sp43-07",
+     "emoji": "🤥",
+     "pt": "Nem vem, eu sei que é mentira"
+    },
+    {
+     "id": "sp43-08",
+     "emoji": "💊",
+     "pt": "Rir faz bem para a alma"
+    }
+   ]
+  },
+  {
+   "phase": 44,
+   "globalPhase": 194,
+   "chapter": 20,
+   "level": "B2",
+   "theme": "Convites e recusas gentis",
+   "concepts": [
+    {
+     "id": "sp44-01",
+     "emoji": "🎉",
+     "pt": "Adoraria, mas já tenho compromisso"
+    },
+    {
+     "id": "sp44-02",
+     "emoji": "🚫",
+     "pt": "Infelizmente não vou poder ir"
+    },
+    {
+     "id": "sp44-03",
+     "emoji": "📅",
+     "pt": "Fica para a próxima, combinado?"
+    },
+    {
+     "id": "sp44-04",
+     "emoji": "👫",
+     "pt": "Traga quem você quiser"
+    },
+    {
+     "id": "sp44-05",
+     "emoji": "🕗",
+     "pt": "Que horas começa a festa?"
+    },
+    {
+     "id": "sp44-06",
+     "emoji": "🍰",
+     "pt": "Posso levar uma sobremesa?"
+    },
+    {
+     "id": "sp44-07",
+     "emoji": "💌",
+     "pt": "Obrigado por lembrar de mim"
+    },
+    {
+     "id": "sp44-08",
+     "emoji": "✔️",
+     "pt": "Vou confirmar até amanhã"
+    }
+   ]
+  },
+  {
+   "phase": 45,
+   "globalPhase": 195,
+   "chapter": 20,
+   "level": "B2",
+   "theme": "Conversa sobre o clima",
+   "concepts": [
+    {
+     "id": "sp45-01",
+     "emoji": "☁️",
+     "pt": "Hoje o céu está bem nublado"
+    },
+    {
+     "id": "sp45-02",
+     "emoji": "🌧️",
+     "pt": "Parece que vai chover à tarde"
+    },
+    {
+     "id": "sp45-03",
+     "emoji": "🥵",
+     "pt": "Que calor insuportável hoje"
+    },
+    {
+     "id": "sp45-04",
+     "emoji": "🥶",
+     "pt": "A previsão diz que vai esfriar"
+    },
+    {
+     "id": "sp45-05",
+     "emoji": "☂️",
+     "pt": "Não esqueça o guarda-chuva"
+    },
+    {
+     "id": "sp45-06",
+     "emoji": "💨",
+     "pt": "O vento está forte demais"
+    },
+    {
+     "id": "sp45-07",
+     "emoji": "☀️",
+     "pt": "Adoro dias de sol assim"
+    },
+    {
+     "id": "sp45-08",
+     "emoji": "❄️",
+     "pt": "Nevou muito neste inverno"
+    }
+   ]
+  },
+  {
+   "phase": 46,
+   "globalPhase": 196,
+   "chapter": 20,
+   "level": "B2",
+   "theme": "Tecnologia no dia a dia",
+   "concepts": [
+    {
+     "id": "sp46-01",
+     "emoji": "🔋",
+     "pt": "Minha bateria está acabando"
+    },
+    {
+     "id": "sp46-02",
+     "emoji": "📲",
+     "pt": "O aplicativo não abre de jeito nenhum"
+    },
+    {
+     "id": "sp46-03",
+     "emoji": "🔗",
+     "pt": "Pode me mandar o link?"
+    },
+    {
+     "id": "sp46-04",
+     "emoji": "🔐",
+     "pt": "Esqueci a senha da conta"
+    },
+    {
+     "id": "sp46-05",
+     "emoji": "🐌",
+     "pt": "A internet está muito lenta"
+    },
+    {
+     "id": "sp46-06",
+     "emoji": "⬇️",
+     "pt": "Vou baixar esse arquivo agora"
+    },
+    {
+     "id": "sp46-07",
+     "emoji": "🔌",
+     "pt": "Desliga e liga de novo"
+    },
+    {
+     "id": "sp46-08",
+     "emoji": "📷",
+     "pt": "Tirei uma foto da paisagem"
+    }
+   ]
+  },
+  {
+   "phase": 47,
+   "globalPhase": 197,
+   "chapter": 20,
+   "level": "B2",
+   "theme": "Memórias e histórias",
+   "concepts": [
+    {
+     "id": "sp47-01",
+     "emoji": "🏡",
+     "pt": "Quando criança, eu morava no campo"
+    },
+    {
+     "id": "sp47-02",
+     "emoji": "🏫",
+     "pt": "Lembro bem do primeiro dia de aula"
+    },
+    {
+     "id": "sp47-03",
+     "emoji": "😆",
+     "pt": "Ontem aconteceu algo engraçado"
+    },
+    {
+     "id": "sp47-04",
+     "emoji": "🧳",
+     "pt": "Isso me lembra uma viagem antiga"
+    },
+    {
+     "id": "sp47-05",
+     "emoji": "🕵️",
+     "pt": "Você nem imagina o que houve"
+    },
+    {
+     "id": "sp47-06",
+     "emoji": "🌅",
+     "pt": "Resumindo, foi um dia inesquecível"
+    },
+    {
+     "id": "sp47-07",
+     "emoji": "🌊",
+     "pt": "Cresci perto do mar"
+    },
+    {
+     "id": "sp47-08",
+     "emoji": "🔜",
+     "pt": "E o que aconteceu depois?"
+    }
+   ]
+  },
+  {
+   "phase": 48,
+   "globalPhase": 198,
+   "chapter": 20,
+   "level": "B2",
+   "theme": "Metas e sonhos",
+   "concepts": [
+    {
+     "id": "sp48-01",
+     "emoji": "🌍",
+     "pt": "Meu sonho é viajar pelo mundo"
+    },
+    {
+     "id": "sp48-02",
+     "emoji": "💪",
+     "pt": "Quero melhorar a cada dia"
+    },
+    {
+     "id": "sp48-03",
+     "emoji": "💰",
+     "pt": "Estou juntando dinheiro para viajar"
+    },
+    {
+     "id": "sp48-04",
+     "emoji": "🏪",
+     "pt": "Um dia vou abrir meu negócio"
+    },
+    {
+     "id": "sp48-05",
+     "emoji": "🏆",
+     "pt": "Com esforço, tudo é possível"
+    },
+    {
+     "id": "sp48-06",
+     "emoji": "📚",
+     "pt": "Ainda tenho muito a aprender"
+    },
+    {
+     "id": "sp48-07",
+     "emoji": "🦾",
+     "pt": "Não desisto fácil"
+    },
+    {
+     "id": "sp48-08",
+     "emoji": "🎨",
+     "pt": "Vou começar um novo hobby"
+    }
+   ]
+  },
+  {
+   "phase": 49,
+   "globalPhase": 199,
+   "chapter": 20,
+   "level": "B2",
+   "theme": "Cuidar da cidade",
+   "concepts": [
+    {
+     "id": "sp49-01",
+     "emoji": "🗑️",
+     "pt": "Vamos separar o lixo reciclável"
+    },
+    {
+     "id": "sp49-02",
+     "emoji": "💡",
+     "pt": "Apague a luz ao sair"
+    },
+    {
+     "id": "sp49-03",
+     "emoji": "🚰",
+     "pt": "Precisamos economizar água"
+    },
+    {
+     "id": "sp49-04",
+     "emoji": "🚲",
+     "pt": "Prefiro ir de bicicleta ao trabalho"
+    },
+    {
+     "id": "sp49-05",
+     "emoji": "🌳",
+     "pt": "Plantar árvores ajuda o planeta"
+    },
+    {
+     "id": "sp49-06",
+     "emoji": "🛍️",
+     "pt": "Evite usar sacolas plásticas"
+    },
+    {
+     "id": "sp49-07",
+     "emoji": "🌲",
+     "pt": "A praça está limpa e bonita"
+    },
+    {
+     "id": "sp49-08",
+     "emoji": "🏙️",
+     "pt": "Vamos cuidar da cidade juntos"
+    }
+   ]
+  },
+  {
+   "phase": 50,
+   "globalPhase": 200,
+   "chapter": 20,
+   "level": "B2",
+   "theme": "Discurso de agradecimento",
+   "concepts": [
+    {
+     "id": "sp50-01",
+     "emoji": "🙏",
+     "pt": "Quero agradecer a todos por virem"
+    },
+    {
+     "id": "sp50-02",
+     "emoji": "🛤️",
+     "pt": "Foi uma jornada incrível"
+    },
+    {
+     "id": "sp50-03",
+     "emoji": "📖",
+     "pt": "Aprendi muito com vocês"
+    },
+    {
+     "id": "sp50-04",
+     "emoji": "🤝",
+     "pt": "Sem vocês isso não seria possível"
+    },
+    {
+     "id": "sp50-05",
+     "emoji": "🔚",
+     "pt": "Hoje encerramos um grande ciclo"
+    },
+    {
+     "id": "sp50-06",
+     "emoji": "🧠",
+     "pt": "Levo lembranças para sempre"
+    },
+    {
+     "id": "sp50-07",
+     "emoji": "🌟",
+     "pt": "Desejo muito sucesso a todos"
+    },
+    {
+     "id": "sp50-08",
+     "emoji": "👋",
+     "pt": "Até a próxima, de coração"
     }
    ]
   }

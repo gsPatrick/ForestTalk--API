@@ -1,0 +1,1015 @@
+{
+ "language": "ja",
+ "scenarios": {
+  "sc01": {
+   "npcName": "田中",
+   "turns": [
+    {
+     "npc": "こんにちは!パスポートをお願いします。",
+     "npcPt": "Olá! Passaporte, por favor.",
+     "translit": "Konnichiwa! Pasupōto o onegai shimasu.",
+     "options": [
+      {
+       "text": "はい、どうぞ。",
+       "textPt": "Aqui está.",
+       "translit": "Hai, dōzo."
+      },
+      {
+       "text": "私はパスポートです。",
+       "textPt": "Eu sou um passaporte.",
+       "translit": "Watashi wa pasupōto desu.",
+       "hint": "Soa como se você fosse o documento (は…です = 'é'). Ao entregar, diga 'どうぞ'."
+      },
+      {
+       "text": "ありがとう、さようなら。",
+       "textPt": "Obrigado, tchau.",
+       "translit": "Arigatō, sayōnara.",
+       "hint": "Ainda não é hora de se despedir; e 'さようなら' é uma despedida longa, não de balcão."
+      }
+     ]
+    },
+    {
+     "npc": "荷物はありますか。",
+     "npcPt": "Você tem uma mala?",
+     "translit": "Nimotsu wa arimasu ka.",
+     "options": [
+      {
+       "text": "はい、幸せです。",
+       "textPt": "Sim, estou feliz.",
+       "translit": "Hai, shiawase desu.",
+       "hint": "Não responde ao que foi perguntado."
+      },
+      {
+       "text": "はい、一つです。",
+       "textPt": "Sim, uma mala.",
+       "translit": "Hai, hitotsu desu."
+      },
+      {
+       "text": "私はスーツケースが好きです。",
+       "textPt": "Eu gosto de malas.",
+       "translit": "Watashi wa sūtsukēsu ga suki desu.",
+       "hint": "É uma frase possível, mas não responde: diga se tem ou não bagagem."
+      }
+     ]
+    },
+    {
+     "npc": "窓側と通路側、どちらがいいですか。",
+     "npcPt": "Janela ou corredor?",
+     "translit": "Madogawa to tsūrogawa, dochira ga ii desu ka.",
+     "options": [
+      {
+       "text": "はい、お願いします。",
+       "textPt": "Sim, por favor.",
+       "translit": "Hai, onegai shimasu.",
+       "hint": "A pergunta oferece duas opções; 'はい' não escolhe nenhuma."
+      },
+      {
+       "text": "いい席です。",
+       "textPt": "Assento é bom.",
+       "translit": "Ii seki desu.",
+       "hint": "Frase estranha e sem escolha. Diga qual lugar quer: '窓側をお願いします'."
+      },
+      {
+       "text": "窓側をお願いします。",
+       "textPt": "Janela, por favor.",
+       "translit": "Madogawa o onegai shimasu."
+      }
+     ]
+    },
+    {
+     "npc": "こちらが搭乗券です。",
+     "npcPt": "Aqui está seu cartão de embarque.",
+     "translit": "Kochira ga tōjōken desu.",
+     "options": [
+      {
+       "text": "ありがとうございます。ゲートはどこですか。",
+       "textPt": "Obrigado! Qual é o portão?",
+       "translit": "Arigatō gozaimasu. Gēto wa doko desu ka."
+      },
+      {
+       "text": "どういたしまして。",
+       "textPt": "De nada.",
+       "translit": "Dō itashimashite.",
+       "hint": "'どういたしまして' é o que quem atende diz; o passageiro é quem agradece."
+      },
+      {
+       "text": "こんばんは、お客様。",
+       "textPt": "Boa noite, senhor.",
+       "translit": "Konbanwa, okyakusama.",
+       "hint": "Fora de contexto, e 'お客様' é como o atendente chama o cliente, não o contrário."
+      }
+     ]
+    }
+   ]
+  },
+  "sc02": {
+   "npcName": "佐藤",
+   "turns": [
+    {
+     "npc": "いらっしゃいませ。何名様ですか。",
+     "npcPt": "Bem-vindo! Quantas pessoas?",
+     "translit": "Irasshaimase. Nanmei-sama desu ka.",
+     "options": [
+      {
+       "text": "元気です。",
+       "textPt": "Estou bem.",
+       "translit": "Genki desu.",
+       "hint": "Responde a 'お元気ですか', não à quantidade de pessoas."
+      },
+      {
+       "text": "二人です、お願いします。",
+       "textPt": "Duas, por favor.",
+       "translit": "Futari desu, onegai shimasu."
+      },
+      {
+       "text": "大きいテーブルです。",
+       "textPt": "Uma mesa é grande.",
+       "translit": "Ōkii tēburu desu.",
+       "hint": "Não responde à pergunta. Diga o número de pessoas."
+      }
+     ]
+    },
+    {
+     "npc": "ご注文は何にしますか。",
+     "npcPt": "O que você gostaria?",
+     "translit": "Gochūmon wa nani ni shimasu ka.",
+     "options": [
+      {
+       "text": "私はピザが好きです。",
+       "textPt": "Eu gosto de pizza.",
+       "translit": "Watashi wa piza ga suki desu.",
+       "hint": "'好きです' fala de gosto geral. Para pedir, use 'ピザを一つお願いします'."
+      },
+      {
+       "text": "ピザをくれ!",
+       "textPt": "Me dá pizza!",
+       "translit": "Piza o kure!",
+       "hint": "'くれ' é imperativo rude, soa mandão. Use 'お願いします'."
+      },
+      {
+       "text": "ピザを一つお願いします。",
+       "textPt": "Uma pizza, por favor.",
+       "translit": "Piza o hitotsu onegai shimasu."
+      }
+     ]
+    },
+    {
+     "npc": "お飲み物はいかがですか。",
+     "npcPt": "Algo para beber?",
+     "translit": "Onomimono wa ikaga desu ka.",
+     "options": [
+      {
+       "text": "お水をお願いします。",
+       "textPt": "Água, por favor.",
+       "translit": "Omizu o onegai shimasu."
+      },
+      {
+       "text": "はい、飲みます。",
+       "textPt": "Eu bebo, sim.",
+       "translit": "Hai, nomimasu.",
+       "hint": "Estranho: diga O QUE você quer beber."
+      },
+      {
+       "text": "食べません、ありがとう。",
+       "textPt": "Não comer, obrigado.",
+       "translit": "Tabemasen, arigatō.",
+       "hint": "'食べる' é comer, e a pergunta é sobre bebida (飲む). Falta também o 'ございます'."
+      }
+     ]
+    },
+    {
+     "npc": "お待たせしました。ごゆっくりどうぞ。",
+     "npcPt": "Aqui está sua comida. Aproveite!",
+     "translit": "Omatase shimashita. Goyukkuri dōzo.",
+     "options": [
+      {
+       "text": "すみません。",
+       "textPt": "Sinto muito.",
+       "translit": "Sumimasen.",
+       "hint": "Aqui soa como pedir desculpas, sem motivo. O natural é agradecer."
+      },
+      {
+       "text": "ありがとうございます。おいしそうです。",
+       "textPt": "Obrigado! Parece bom.",
+       "translit": "Arigatō gozaimasu. Oishisō desu."
+      },
+      {
+       "text": "さようなら!",
+       "textPt": "Tchau!",
+       "translit": "Sayōnara!",
+       "hint": "Você acabou de receber a comida; ainda não vai embora."
+      }
+     ]
+    }
+   ]
+  },
+  "sc03": {
+   "npcName": "健",
+   "turns": [
+    {
+     "npc": "こんにちは!健です。お名前は?",
+     "npcPt": "Oi! Eu sou o Sam. Qual é o seu nome?",
+     "translit": "Konnichiwa! Ken desu. Onamae wa?",
+     "options": [
+      {
+       "text": "私は自分をアレックスと呼びます。",
+       "textPt": "Eu me chamo Alex.",
+       "translit": "Watashi wa jibun o Arekkusu to yobimasu.",
+       "hint": "Calque de 'eu me chamo'. Em japonês basta 'アレックスです' ou 'アレックスといいます'."
+      },
+      {
+       "text": "はじめまして。アレックスです。",
+       "textPt": "Prazer! Eu sou o Alex.",
+       "translit": "Hajimemashite. Arekkusu desu."
+      },
+      {
+       "text": "元気です、ありがとう。",
+       "textPt": "Bem, obrigado.",
+       "translit": "Genki desu, arigatō.",
+       "hint": "Responde a 'お元気ですか', não ao nome."
+      }
+     ]
+    },
+    {
+     "npc": "よろしくお願いします。ご出身は?",
+     "npcPt": "Prazer! De onde você é?",
+     "translit": "Yoroshiku onegai shimasu. Goshusshin wa?",
+     "options": [
+      {
+       "text": "私はブラジルです。",
+       "textPt": "Eu sou Brasil.",
+       "translit": "Watashi wa Burajiru desu.",
+       "hint": "Diz que você É o Brasil (は…です = 'é'). Use 'ブラジルから来ました' ou 'ブラジル人です'."
+      },
+      {
+       "text": "私はブラジル人から来ました。",
+       "textPt": "Eu sou de brasileiro.",
+       "translit": "Watashi wa burajirujin kara kimashita.",
+       "hint": "'ブラジル人' é a nacionalidade (a pessoa); com 'から' vai o país: 'ブラジルから'."
+      },
+      {
+       "text": "ブラジルから来ました。",
+       "textPt": "Sou do Brasil.",
+       "translit": "Burajiru kara kimashita."
+      }
+     ]
+    },
+    {
+     "npc": "何をするのが好きですか。",
+     "npcPt": "O que você gosta de fazer?",
+     "translit": "Nani o suru no ga suki desu ka.",
+     "options": [
+      {
+       "text": "音楽とサッカーが好きです。",
+       "textPt": "Eu gosto de música e futebol.",
+       "translit": "Ongaku to sakkā ga suki desu."
+      },
+      {
+       "text": "サッカーを好きです。",
+       "textPt": "Eu estou gostando de futebol.",
+       "translit": "Sakkā o suki desu.",
+       "hint": "Com '好き' o objeto leva 'が', não 'を': 'サッカーが好きです'."
+      },
+      {
+       "text": "私はサッカーの趣味を持っています。",
+       "textPt": "Eu tenho hobby futebol.",
+       "translit": "Watashi wa sakkā no shumi o motte imasu.",
+       "hint": "Calque de 'tenho hobby'. Diga '趣味はサッカーです'."
+      }
+     ]
+    },
+    {
+     "npc": "連絡先を交換しましょう。番号は?",
+     "npcPt": "Vamos manter contato. Qual é o seu número?",
+     "translit": "Renrakusaki o kōkan shimashō. Bangō wa?",
+     "options": [
+      {
+       "text": "はい、連絡を取ります。",
+       "textPt": "Sim, eu fico em contato.",
+       "translit": "Hai, renraku o torimasu.",
+       "hint": "Não responde à pergunta: diga o seu número."
+      },
+      {
+       "text": "555-0123です。そちらは?",
+       "textPt": "É 555-0123. E o seu?",
+       "translit": "Gō-gō-gō no zero-ichi-ni-san desu. Sochira wa?"
+      },
+      {
+       "text": "555-0123です。あなたは?",
+       "textPt": "É 555-0123. E você?",
+       "translit": "Gō-gō-gō no zero-ichi-ni-san desu. Anata wa?",
+       "hint": "'あなた' soa direto demais; em japonês evita-se. Use 'そちらは?' ou o nome da pessoa."
+      }
+     ]
+    }
+   ]
+  },
+  "sc04": {
+   "npcName": "山本",
+   "turns": [
+    {
+     "npc": "こんばんは。お名前をお願いします。",
+     "npcPt": "Boa noite. Seu nome, por favor?",
+     "translit": "Konbanwa. Onamae o onegai shimasu.",
+     "options": [
+      {
+       "text": "疲れました。",
+       "textPt": "Estou cansado.",
+       "translit": "Tsukaremashita.",
+       "hint": "Pode ser verdade, mas pediram o seu nome."
+      },
+      {
+       "text": "アレックスです。",
+       "textPt": "Meu nome é Alex.",
+       "translit": "Arekkusu desu."
+      },
+      {
+       "text": "こんばんは、さようなら。",
+       "textPt": "Boa noite, tchau.",
+       "translit": "Konbanwa, sayōnara.",
+       "hint": "Você acabou de chegar; 'さようなら' é despedida."
+      }
+     ]
+    },
+    {
+     "npc": "ご予約はありますか。",
+     "npcPt": "Você tem uma reserva?",
+     "translit": "Goyoyaku wa arimasu ka.",
+     "options": [
+      {
+       "text": "はい、二泊です。",
+       "textPt": "Sim, para duas noites.",
+       "translit": "Hai, nihaku desu."
+      },
+      {
+       "text": "はい、部屋を持っています。",
+       "textPt": "Sim, eu tenho um quarto.",
+       "translit": "Hai, heya o motte imasu.",
+       "hint": "Soa como se você já tivesse o quarto. Diga '予約があります'."
+      },
+      {
+       "text": "いいえ、結構です。",
+       "textPt": "Não, obrigado.",
+       "translit": "Iie, kekkō desu.",
+       "hint": "'結構です' recusa uma oferta; aqui a pergunta é se há reserva."
+      }
+     ]
+    },
+    {
+     "npc": "こちらが鍵です。204号室です。",
+     "npcPt": "Aqui está sua chave. Quarto 204.",
+     "translit": "Kochira ga kagi desu. Nihyakuyon gōshitsu desu.",
+     "options": [
+      {
+       "text": "鍵はどこですか。",
+       "textPt": "Onde está a chave?",
+       "translit": "Kagi wa doko desu ka.",
+       "hint": "Ela acabou de entregar a chave."
+      },
+      {
+       "text": "私は204です。",
+       "textPt": "Eu sou 204.",
+       "translit": "Watashi wa nihyakuyon desu.",
+       "hint": "'私は…です' diz que você É o número 204. O quarto é seu: '204号室ですね'."
+      },
+      {
+       "text": "ありがとうございます。エレベーターはどこですか。",
+       "textPt": "Obrigado. Onde fica o elevador?",
+       "translit": "Arigatō gozaimasu. Erebētā wa doko desu ka."
+      }
+     ]
+    },
+    {
+     "npc": "あちらの左側です。",
+     "npcPt": "Ali, à esquerda.",
+     "translit": "Achira no hidarigawa desu.",
+     "options": [
+      {
+       "text": "すみません、何ですか。",
+       "textPt": "Desculpe, o quê?",
+       "translit": "Sumimasen, nan desu ka.",
+       "hint": "'何ですか' soa abrupto para pedir repetição, e a explicação foi simples; agradecer é mais natural."
+      },
+      {
+       "text": "はい、ありがとうございます。",
+       "textPt": "Ótimo, obrigado!",
+       "translit": "Hai, arigatō gozaimasu."
+      },
+      {
+       "text": "はい、左が好きです。",
+       "textPt": "Sim, eu gosto de esquerda.",
+       "translit": "Hai, hidari ga suki desu.",
+       "hint": "Não agradece nem responde. Fora de contexto."
+      }
+     ]
+    }
+   ]
+  },
+  "sc05": {
+   "npcName": "鈴木",
+   "turns": [
+    {
+     "npc": "おはようございます。進捗を教えてください。",
+     "npcPt": "Bom dia. Pode nos atualizar sobre o projeto?",
+     "translit": "Ohayō gozaimasu. Shinchoku o oshiete kudasai.",
+     "options": [
+      {
+       "text": "はい、プロジェクトは順調です。",
+       "textPt": "Claro. O projeto está indo bem.",
+       "translit": "Hai, purojekuto wa junchō desu."
+      },
+      {
+       "text": "プロジェクトは良い道にあります。",
+       "textPt": "O projeto está em bom caminho.",
+       "translit": "Purojekuto wa yoi michi ni arimasu.",
+       "hint": "Calque de 'em bom caminho'. Em japonês use '順調です'."
+      },
+      {
+       "text": "いいえ、したくないです。",
+       "textPt": "Não, eu não quero.",
+       "translit": "Iie, shitakunai desu.",
+       "hint": "Seco demais numa reunião. Diga 'はい、もちろんです'."
+      }
+     ]
+    },
+    {
+     "npc": "まだ何をする必要がありますか。",
+     "npcPt": "O que ainda precisamos fazer?",
+     "translit": "Mada nani o suru hitsuyō ga arimasu ka.",
+     "options": [
+      {
+       "text": "アプリをテストする必要です。",
+       "textPt": "Precisamos testar o app.",
+       "translit": "Apuri o tesuto suru hitsuyō desu.",
+       "hint": "Falta o 'が あります': 'テストする必要があります'. '必要です' sozinho fica incompleto."
+      },
+      {
+       "text": "昨日アプリをテストしなければなりません。",
+       "textPt": "Temos que testar o app ontem.",
+       "translit": "Kinō apuri o tesuto shinakereba narimasen.",
+       "hint": "'昨日' é passado; aqui você fala do que falta fazer."
+      },
+      {
+       "text": "まだアプリをテストする必要があります。",
+       "textPt": "Ainda precisamos testar o aplicativo.",
+       "translit": "Mada apuri o tesuto suru hitsuyō ga arimasu."
+      }
+     ]
+    },
+    {
+     "npc": "新しいデザインをどう思いますか。",
+     "npcPt": "O que você acha do novo design?",
+     "translit": "Atarashii dezain o dō omoimasu ka.",
+     "options": [
+      {
+       "text": "私は賛成するです、いいです。",
+       "textPt": "Eu sou de acordo, é legal.",
+       "translit": "Watashi wa sansei suru desu, ii desu.",
+       "hint": "Não se junta verbo + です: diga '賛成です' ou '賛成します'."
+      },
+      {
+       "text": "見やすくてモダンだと思います。",
+       "textPt": "Acho que está claro e moderno.",
+       "translit": "Miyasukute modan da to omoimasu."
+      },
+      {
+       "text": "さあ、どうでもいいです。",
+       "textPt": "Não sei, tanto faz.",
+       "translit": "Sā, dō demo ii desu.",
+       "hint": "Soa desinteressado e rude; dê uma opinião com '〜と思います'."
+      }
+     ]
+    },
+    {
+     "npc": "いつ頃終わりそうですか。",
+     "npcPt": "Quando você consegue terminar?",
+     "translit": "Itsugoro owarisō desu ka.",
+     "options": [
+      {
+       "text": "金曜日まで終わります。",
+       "textPt": "Eu termino até sexta.",
+       "translit": "Kinyōbi made owarimasu.",
+       "hint": "'まで' indica até quando algo CONTINUA; para prazo use 'までに'."
+      },
+      {
+       "text": "金曜日で終わります。",
+       "textPt": "Consigo terminar em sexta.",
+       "translit": "Kinyōbi de owarimasu.",
+       "hint": "A partícula 'で' não marca prazo; use '金曜日までに'."
+      },
+      {
+       "text": "金曜日までに終えられます。",
+       "textPt": "Consigo terminar até sexta.",
+       "translit": "Kinyōbi made ni oeraremasu."
+      }
+     ]
+    }
+   ]
+  },
+  "sc06": {
+   "npcName": "高橋",
+   "turns": [
+    {
+     "npc": "こんにちは!何かお手伝いしましょうか。",
+     "npcPt": "Oi! Você precisa de ajuda?",
+     "translit": "Konnichiwa! Nanika otetsudai shimashō ka.",
+     "options": [
+      {
+       "text": "はい。授業はどの時間ですか。",
+       "textPt": "Sim. Qual hora é a aula?",
+       "translit": "Hai. Jugyō wa dono jikan desu ka.",
+       "hint": "Calque de 'qual hora'. Para horário pergunte '何時ですか'."
+      },
+      {
+       "text": "はい。授業はいくらですか。",
+       "textPt": "Sim. Quanto custa a aula?",
+       "translit": "Hai. Jugyō wa ikura desu ka.",
+       "hint": "'いくら' pergunta preço, não horário."
+      },
+      {
+       "text": "はい。授業は何時ですか。",
+       "textPt": "Sim. Que horas é a aula?",
+       "translit": "Hai. Jugyō wa nanji desu ka."
+      }
+     ]
+    },
+    {
+     "npc": "授業は十時です。他に質問はありますか。",
+     "npcPt": "A aula é às dez. Mais alguma dúvida?",
+     "translit": "Jugyō wa jūji desu. Hoka ni shitsumon wa arimasu ka.",
+     "options": [
+      {
+       "text": "はい。課題の締め切りはいつですか。",
+       "textPt": "Sim. Quando é a entrega do trabalho?",
+       "translit": "Hai. Kadai no shimekiri wa itsu desu ka."
+      },
+      {
+       "text": "はい。提出するための課題はいつですか。",
+       "textPt": "Sim. Quando é o trabalho para entregar?",
+       "translit": "Hai. Teishutsu suru tame no kadai wa itsu desu ka.",
+       "hint": "Calque de 'trabalho para entregar'. Prazo de entrega é '締め切り'."
+      },
+      {
+       "text": "はい。私は疑いがあります。",
+       "textPt": "Sim. Eu tenho uma dúvida.",
+       "translit": "Hai. Watashi wa utagai ga arimasu.",
+       "hint": "Falso cognato: '疑い' é suspeita/desconfiança. Para dúvida diga '質問があります'."
+      }
+     ]
+    },
+    {
+     "npc": "月曜日までです。他に何かありますか。",
+     "npcPt": "É para segunda. Mais alguma coisa?",
+     "translit": "Getsuyōbi made desu. Hoka ni nanika arimasu ka.",
+     "options": [
+      {
+       "text": "はい。本屋はどこですか。",
+       "textPt": "Sim. Onde fica a livraria?",
+       "translit": "Hai. Hon'ya wa doko desu ka.",
+       "hint": "Falso amigo: '本屋' é livraria. Biblioteca é '図書館'."
+      },
+      {
+       "text": "はい。図書館はどこですか。",
+       "textPt": "Sim. Onde fica a biblioteca?",
+       "translit": "Hai. Toshokan wa doko desu ka."
+      },
+      {
+       "text": "はい。図書館にどこですか。",
+       "textPt": "Sim. Biblioteca onde fica?",
+       "translit": "Hai. Toshokan ni doko desu ka.",
+       "hint": "Partícula errada: o tema leva 'は' ('図書館はどこですか')."
+      }
+     ]
+    },
+    {
+     "npc": "廊下の突き当たりの左側です。",
+     "npcPt": "No fim do corredor, à esquerda.",
+     "translit": "Rōka no tsukiatari no hidarigawa desu.",
+     "options": [
+      {
+       "text": "ありがとうございます。今開いていますか。",
+       "textPt": "Ótimo, obrigado! Está aberta agora?",
+       "translit": "Arigatō gozaimasu. Ima aite imasu ka."
+      },
+      {
+       "text": "ありがとう。今開きますか。",
+       "textPt": "Obrigado. Está aberta agora?",
+       "translit": "Arigatō. Ima akimasu ka.",
+       "hint": "'開きます' = vai abrir. Para 'está aberta' use '開いています'. 'ありがとう' sozinho também é casual."
+      },
+      {
+       "text": "どういたしまして。",
+       "textPt": "De nada.",
+       "translit": "Dō itashimashite.",
+       "hint": "'どういたしまして' responde a um agradecimento; aqui é você quem agradece."
+      }
+     ]
+    }
+   ]
+  },
+  "sc07": {
+   "npcName": "伊藤",
+   "turns": [
+    {
+     "npc": "いらっしゃいませ。何かお探しですか。",
+     "npcPt": "Oi! Você procura algo?",
+     "translit": "Irasshaimase. Nanika osagashi desu ka.",
+     "options": [
+      {
+       "text": "はい、ジャケットが欲しいです。",
+       "textPt": "Sim, preciso de uma jaqueta.",
+       "translit": "Hai, jaketto ga hoshii desu."
+      },
+      {
+       "text": "あなたを見ています。",
+       "textPt": "Eu olho para você.",
+       "translit": "Anata o mite imasu.",
+       "hint": "'見る' é olhar para algo/alguém; a pergunta é sobre procurar (探す)."
+      },
+      {
+       "text": "はい、ジャケットを見ます。",
+       "textPt": "Sim, eu olho jaqueta.",
+       "translit": "Hai, jaketto o mimasu.",
+       "hint": "'見ます' é só olhar; para 'estou procurando' use '探しています'."
+      }
+     ]
+    },
+    {
+     "npc": "サイズはいくつですか。",
+     "npcPt": "Qual é o seu tamanho?",
+     "translit": "Saizu wa ikutsu desu ka.",
+     "options": [
+      {
+       "text": "二十歳です。",
+       "textPt": "Tenho vinte anos.",
+       "translit": "Hatachi desu.",
+       "hint": "Tamanho não é idade."
+      },
+      {
+       "text": "サイズは青いです。",
+       "textPt": "Meu tamanho é azul.",
+       "translit": "Saizu wa aoi desu.",
+       "hint": "Azul é cor; diga o tamanho (S, M, L)."
+      },
+      {
+       "text": "Mサイズだと思います。",
+       "textPt": "Médio, acho.",
+       "translit": "Emu saizu da to omoimasu."
+      }
+     ]
+    },
+    {
+     "npc": "試着室はあちらです。",
+     "npcPt": "O provador é ali.",
+     "translit": "Shichakushitsu wa achira desu.",
+     "options": [
+      {
+       "text": "そこで寝たいです。",
+       "textPt": "Quero dormir lá.",
+       "translit": "Soko de netai desu.",
+       "hint": "Estranho: o provador é só para experimentar roupas."
+      },
+      {
+       "text": "ありがとうございます。着てみます。",
+       "textPt": "Obrigado. Vou experimentar.",
+       "translit": "Arigatō gozaimasu. Kite mimasu."
+      },
+      {
+       "text": "部屋はきれいです。",
+       "textPt": "O quarto é bonito.",
+       "translit": "Heya wa kirei desu.",
+       "hint": "Não é um quarto; agradeça e vá experimentar."
+      }
+     ]
+    },
+    {
+     "npc": "サイズはいかがですか。",
+     "npcPt": "Como ficou?",
+     "translit": "Saizu wa ikaga desu ka.",
+     "options": [
+      {
+       "text": "小さいです。大きいのはありますか。",
+       "textPt": "Está pequeno. Tem um maior?",
+       "translit": "Chiisai desu. Ōkii no wa arimasu ka."
+      },
+      {
+       "text": "高すぎます。",
+       "textPt": "É muito caro.",
+       "translit": "Takasugimasu.",
+       "hint": "Ela perguntou do caimento, não do preço."
+      },
+      {
+       "text": "私は入ります、ありがとう。",
+       "textPt": "Eu caibo, obrigado.",
+       "translit": "Watashi wa hairimasu, arigatō.",
+       "hint": "'入る' é entrar; não existe 'eu caibo' assim. Descreva a roupa: 'ぴったりです'."
+      }
+     ]
+    }
+   ]
+  },
+  "sc08": {
+   "npcName": "中村",
+   "turns": [
+    {
+     "npc": "道に迷っていますか。お手伝いしましょうか。",
+     "npcPt": "Você parece perdido. Posso ajudar?",
+     "translit": "Michi ni mayotte imasu ka. Otetsudai shimashō ka.",
+     "options": [
+      {
+       "text": "いいえ、観光客です。",
+       "textPt": "Não, sou turista.",
+       "translit": "Iie, kankōkyaku desu.",
+       "hint": "'いいえ' recusa a ajuda; você perde a chance de pedir direções."
+      },
+      {
+       "text": "はい、地下鉄の駅はどこですか。",
+       "textPt": "Sim, onde fica a estação de metrô?",
+       "translit": "Hai, chikatetsu no eki wa doko desu ka."
+      },
+      {
+       "text": "はい、私は道に迷います。",
+       "textPt": "Sim, estou perdido a rua.",
+       "translit": "Hai, watashi wa michi ni mayoimasu.",
+       "hint": "'迷います' (presente) soa como hábito; para agora use '迷っています'."
+      }
+     ]
+    },
+    {
+     "npc": "二ブロックまっすぐ行ってください。",
+     "npcPt": "Siga reto por duas quadras.",
+     "translit": "Ni burokku massugu itte kudasai.",
+     "options": [
+      {
+       "text": "まっすぐ二ブロックですね。それから?",
+       "textPt": "Reto duas quadras. E depois?",
+       "translit": "Massugu ni burokku desu ne. Sorekara?"
+      },
+      {
+       "text": "昨日まっすぐ行きました。",
+       "textPt": "Eu fui reto ontem.",
+       "translit": "Kinō massugu ikimashita.",
+       "hint": "Ela deu uma instrução, não falou do passado."
+      },
+      {
+       "text": "二ブロックは遠いです。",
+       "textPt": "Duas quadras é longe.",
+       "translit": "Ni burokku wa tōi desu.",
+       "hint": "É só um comentário; confirme e pergunte o próximo passo."
+      }
+     ]
+    },
+    {
+     "npc": "銀行のところで左に曲がってください。",
+     "npcPt": "Depois vire à esquerda no banco.",
+     "translit": "Ginkō no tokoro de hidari ni magatte kudasai.",
+     "options": [
+      {
+       "text": "曲がる左は銀行ですか。",
+       "textPt": "Vire esquerda é banco?",
+       "translit": "Magaru hidari wa ginkō desu ka.",
+       "hint": "Pergunta confusa, com a ordem desfeita. Confirme: '銀行で左ですね'."
+      },
+      {
+       "text": "右に曲がります。",
+       "textPt": "Eu viro à direita.",
+       "translit": "Migi ni magarimasu.",
+       "hint": "Ela disse esquerda (左), não direita (右)."
+      },
+      {
+       "text": "銀行で左ですね。分かりました。",
+       "textPt": "Esquerda no banco. Entendi.",
+       "translit": "Ginkō de hidari desu ne. Wakarimashita."
+      }
+     ]
+    },
+    {
+     "npc": "公園のとなりにありますよ。",
+     "npcPt": "Fica ao lado do parque.",
+     "translit": "Kōen no tonari ni arimasu yo.",
+     "options": [
+      {
+       "text": "となりは公園です。",
+       "textPt": "Ao lado é um parque.",
+       "translit": "Tonari wa kōen desu.",
+       "hint": "Frase invertida; não é preciso repetir."
+      },
+      {
+       "text": "ありがとうございます。助かりました。",
+       "textPt": "Ótimo! Obrigado pela ajuda.",
+       "translit": "Arigatō gozaimasu. Tasukarimashita."
+      },
+      {
+       "text": "公園は好きじゃないです。",
+       "textPt": "Não gosto de parques.",
+       "translit": "Kōen wa suki ja nai desu.",
+       "hint": "Fora de contexto: agradeça pela ajuda."
+      }
+     ]
+    }
+   ]
+  },
+  "sc09": {
+   "npcName": "渡辺",
+   "turns": [
+    {
+     "npc": "おはようございます。どうしましたか。",
+     "npcPt": "Bom dia. O que traz você aqui?",
+     "translit": "Ohayō gozaimasu. Dō shimashita ka.",
+     "options": [
+      {
+       "text": "月曜日まで熱があります。",
+       "textPt": "Estou com febre desde segunda.",
+       "translit": "Getsuyōbi made netsu ga arimasu.",
+       "hint": "'まで' = até segunda; 'desde segunda' é '月曜日から'."
+      },
+      {
+       "text": "喉に飽きました。",
+       "textPt": "Estou farto da minha garganta.",
+       "translit": "Nodo ni akimashita.",
+       "hint": "'飽きる' = enjoar/cansar de. Para dor de garganta: '喉が痛いです'."
+      },
+      {
+       "text": "数日前から喉が痛いです。",
+       "textPt": "Estou com dor de garganta há dias.",
+       "translit": "Sūjitsu mae kara nodo ga itai desu."
+      }
+     ]
+    },
+    {
+     "npc": "アレルギーはありますか。",
+     "npcPt": "Você tem alguma alergia?",
+     "translit": "Arerugī wa arimasu ka.",
+     "options": [
+      {
+       "text": "いいえ、私はアレルギーです。",
+       "textPt": "Não, eu não sou alergia.",
+       "translit": "Iie, watashi wa arerugī desu.",
+       "hint": "Diz 'eu sou alergia'. Use 'アレルギーはありません'."
+      },
+      {
+       "text": "いいえ、ないと思います。",
+       "textPt": "Não, nenhuma que eu saiba.",
+       "translit": "Iie, nai to omoimasu."
+      },
+      {
+       "text": "ナッツからアレルギーがあります。",
+       "textPt": "Sim, tenho alergia de nozes.",
+       "translit": "Nattsu kara arerugī ga arimasu.",
+       "hint": "Partícula errada (calque de 'de'). Diga 'ナッツアレルギーがあります'."
+      }
+     ]
+    },
+    {
+     "npc": "口を開けて、「あー」と言ってください。",
+     "npcPt": "Abra a boca e diga aah.",
+     "translit": "Kuchi o akete, 'ā' to itte kudasai.",
+     "options": [
+      {
+       "text": "あー…深刻ですか、先生。",
+       "textPt": "Aah... É sério, doutor?",
+       "translit": "Ā... Shinkoku desu ka, sensei."
+      },
+      {
+       "text": "あー…深刻か?",
+       "textPt": "Aah... É sério?",
+       "translit": "Ā... Shinkoku ka?",
+       "hint": "Sem です/ます fica seco e informal demais com o médico."
+      },
+      {
+       "text": "嫌です、ごめんなさい。",
+       "textPt": "Não quero, desculpe.",
+       "translit": "Iya desu, gomennasai.",
+       "hint": "Recusar o exame é seco, e 'ごめんなさい' é informal demais. O exame é importante."
+      }
+     ]
+    },
+    {
+     "npc": "軽い感染症です。休んで水を飲んでください。",
+     "npcPt": "É uma infecção leve. Descanse e beba água.",
+     "translit": "Karui kansenshō desu. Yasunde mizu o nonde kudasai.",
+     "options": [
+      {
+       "text": "私は休むはずです、ありがとう。",
+       "textPt": "Eu devo descansar, obrigado.",
+       "translit": "Watashi wa yasumu hazu desu, arigatō.",
+       "hint": "'はず' é expectativa ('deve ser que'), não obrigação. Use '休みます'."
+      },
+      {
+       "text": "仕事に行きますか。",
+       "textPt": "Eu tenho que ir ao trabalho?",
+       "translit": "Shigoto ni ikimasu ka.",
+       "hint": "Isso pergunta se o médico vai trabalhar. Use '行かなければなりませんか'."
+      },
+      {
+       "text": "ありがとうございます。薬を飲んだほうがいいですか。",
+       "textPt": "Obrigado, doutor. Devo tomar remédio?",
+       "translit": "Arigatō gozaimasu. Kusuri o nonda hō ga ii desu ka."
+      }
+     ]
+    }
+   ]
+  },
+  "sc10": {
+   "npcName": "小林",
+   "turns": [
+    {
+     "npc": "ご来社ありがとうございます。自己紹介をどうぞ。",
+     "npcPt": "Obrigada por vir. Fale sobre você.",
+     "translit": "Goraisha arigatō gozaimasu. Jiko shōkai o dōzo.",
+     "options": [
+      {
+       "text": "二十五歳で、ピザが好きです。",
+       "textPt": "Tenho 25 anos e gosto de pizza.",
+       "translit": "Nijūgo-sai de, piza ga suki desu.",
+       "hint": "Idade e comida não são o foco; fale da sua experiência profissional."
+      },
+      {
+       "text": "三年の経験があるデザイナーです。",
+       "textPt": "Sou designer com três anos de experiência.",
+       "translit": "Sannen no keiken ga aru dezainā desu."
+      },
+      {
+       "text": "名前は紙に書いてあります。",
+       "textPt": "Meu nome está no papel.",
+       "translit": "Namae wa kami ni kaite arimasu.",
+       "hint": "Fora de contexto: ela quer saber da sua experiência."
+      }
+     ]
+    },
+    {
+     "npc": "なぜこの仕事を希望しますか。",
+     "npcPt": "Por que você quer este emprego?",
+     "translit": "Naze kono shigoto o kibō shimasu ka.",
+     "options": [
+      {
+       "text": "チームで働くのが好きで、成長したいです。",
+       "textPt": "Gosto de trabalho em equipe e quero crescer.",
+       "translit": "Chīmu de hataraku no ga suki de, seichō shitai desu."
+      },
+      {
+       "text": "お金が必要だからです、それだけです。",
+       "textPt": "Porque preciso de dinheiro, só isso.",
+       "translit": "Okane ga hitsuyō dakara desu, sore dake desu.",
+       "hint": "Honesto, mas mostra pouco interesse pela vaga."
+      },
+      {
+       "text": "楽しそうだから、したいです。",
+       "textPt": "Quero porque é legal.",
+       "translit": "Tanoshisō dakara, shitai desu.",
+       "hint": "Vago e casual demais; numa entrevista dê um motivo concreto em registro formal."
+      }
+     ]
+    },
+    {
+     "npc": "あなたの一番の強みは何ですか。",
+     "npcPt": "Qual é o seu maior ponto forte?",
+     "translit": "Anata no ichiban no tsuyomi wa nan desu ka.",
+     "options": [
+      {
+       "text": "私は世界で一番です。",
+       "textPt": "Sou o melhor do mundo.",
+       "translit": "Watashi wa sekai de ichiban desu.",
+       "hint": "Exagerado; prefira algo concreto e humilde."
+      },
+      {
+       "text": "強みは重い物を持つことです。",
+       "textPt": "Meu ponto forte é levantar peso.",
+       "translit": "Tsuyomi wa omoi mono o motsu koto desu.",
+       "hint": "Possível, mas não é relevante para a vaga."
+      },
+      {
+       "text": "整理が得意で、覚えが早いです。",
+       "textPt": "Sou organizado e aprendo rápido.",
+       "translit": "Seiri ga tokui de, oboe ga hayai desu."
+      }
+     ]
+    },
+    {
+     "npc": "何か質問はありますか。",
+     "npcPt": "Você tem alguma pergunta para nós?",
+     "translit": "Nanika shitsumon wa arimasu ka.",
+     "options": [
+      {
+       "text": "質問はありません。じゃあね。",
+       "textPt": "Sem perguntas. Tchau.",
+       "translit": "Shitsumon wa arimasen. Jā ne.",
+       "hint": "Seco demais, e 'じゃあね' é casual; mostre interesse e despeça-se com '失礼します'."
+      },
+      {
+       "text": "はい。一日の流れを教えてください。",
+       "textPt": "Sim. Como é um dia típico?",
+       "translit": "Hai. Ichinichi no nagare o oshiete kudasai."
+      },
+      {
+       "text": "はい、明日いくらもらえますか。",
+       "textPt": "Sim, quanto vou ganhar amanhã?",
+       "translit": "Hai, ashita ikura moraemasu ka.",
+       "hint": "Perguntar salário logo assim, e 'amanhã', soa pouco natural."
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,3207 @@
+{
+ "game": "pairs",
+ "language": "de",
+ "version": 2,
+ "entries": {
+  "pr01-01": {
+   "word": "der Löwe",
+   "translit": null,
+   "example": "Wie laut brüllt der Löwe im Zoo?",
+   "examplePt": "Quão alto o leão ruge no zoológico?",
+   "pron": "LÖ-ve — 'ö' é um 'é' com lábios em 'u'; o 'w' soa como 'v'",
+   "curiosity": "O dente-de-leão chama-se 'Löwenzahn': literalmente 'dente de leão'."
+  },
+  "pr01-02": {
+   "word": "der Tiger",
+   "translit": null,
+   "example": "Der Tiger schleicht durch das hohe Gras.",
+   "examplePt": "O tigre se esgueira pela grama alta.",
+   "pron": "TI-ga — o 'g' é duro e o 'er' final soa como um 'a' curto",
+   "curiosity": "'Tigerauge' (olho de tigre) é o nome de uma pedra listrada dourada."
+  },
+  "pr01-03": {
+   "word": "der Elefant",
+   "translit": null,
+   "example": "Der Elefant spritzt Wasser mit dem Rüssel.",
+   "examplePt": "O elefante espirra água com a tromba.",
+   "pron": "e-le-FANT — o 't' final é bem marcado e a força cai no 'fant'",
+   "curiosity": "'Ein Elefant im Porzellanladen' é o nosso 'elefante em loja de cristais'."
+  },
+  "pr01-04": {
+   "word": "die Giraffe",
+   "translit": null,
+   "example": "Die Giraffe frisst Blätter von hohen Bäumen.",
+   "examplePt": "A girafa come folhas de árvores altas.",
+   "pron": "gi-RA-fe — o 'g' é duro como em 'gato' e o 'e' final é leve",
+   "curiosity": "Substantivos terminados em -e, como 'Giraffe', costumam ser femininos."
+  },
+  "pr01-05": {
+   "word": "der Affe",
+   "translit": null,
+   "example": "Der Affe klaut mir die Banane!",
+   "examplePt": "O macaco rouba minha banana!",
+   "pron": "A-fe — o 'a' é curto e o 'ff' vale um 'f' só",
+   "curiosity": "'Affenhitze' (calor de macaco) é um calor insuportável."
+  },
+  "pr01-06": {
+   "word": "das Zebra",
+   "translit": null,
+   "example": "Hat das Zebra schwarze oder weiße Streifen?",
+   "examplePt": "A zebra tem listras pretas ou brancas?",
+   "pron": "TSÊ-bra — o 'z' soa 'ts' e o 'e' é longo e fechado",
+   "curiosity": "'Zebrastreifen' é a faixa de pedestres, literalmente 'listras de zebra'."
+  },
+  "pr01-07": {
+   "word": "das Nilpferd",
+   "translit": null,
+   "example": "Das Nilpferd gähnt mit riesigem Maul.",
+   "examplePt": "O hipopótamo boceja com a boca enorme.",
+   "pron": "NIL-pfert — o 'pf' junta p e f num só som; o 'd' final soa 't'",
+   "curiosity": "Nilpferd é 'cavalo do Nilo'; também se diz 'Flusspferd', cavalo de rio."
+  },
+  "pr01-08": {
+   "word": "das Krokodil",
+   "translit": null,
+   "example": "Das Krokodil liegt still im Fluss.",
+   "examplePt": "O crocodilo fica quieto no rio.",
+   "pron": "kro-ko-DIL — o acento cai no 'dil' e o 'r' vem da garganta",
+   "curiosity": "'Krokodilstränen' são lágrimas de crocodilo, ou seja, choro falso."
+  },
+  "pr02-01": {
+   "word": "der Adler",
+   "translit": null,
+   "example": "Der Adler kreist hoch über den Bergen.",
+   "examplePt": "A águia circula alto sobre as montanhas.",
+   "pron": "A-dla — o 'a' é longo e o 'er' final soa como um 'a'",
+   "curiosity": "A águia (Adler) é o animal que aparece no brasão da Alemanha."
+  },
+  "pr02-02": {
+   "word": "der Pinguin",
+   "translit": null,
+   "example": "Ein Pinguin rutscht auf dem Bauch über das Eis.",
+   "examplePt": "Um pinguim desliza de barriga sobre o gelo.",
+   "pron": "PIN-gu-in — o 'g' é duro e o 'u' soa claramente",
+   "curiosity": "Todo substantivo alemão leva inicial maiúscula, até 'Pinguin' no meio da frase."
+  },
+  "pr02-03": {
+   "word": "der Papagei",
+   "translit": null,
+   "example": "Der Papagei wiederholt jedes Wort von mir.",
+   "examplePt": "O papagaio repete cada palavra minha.",
+   "pron": "pa-pa-GAI — o 'ei' soa 'ai' e a força cai no fim",
+   "curiosity": "Quem repete sem pensar 'plappert nach wie ein Papagei', como no português!"
+  },
+  "pr02-04": {
+   "word": "der Schwan",
+   "translit": null,
+   "example": "Der Schwan gleitet ruhig über den See.",
+   "examplePt": "O cisne desliza calmo sobre o lago.",
+   "pron": "CHVAN — o 'sch' é o 'ch' de 'chá' e o 'w' soa 'v'",
+   "curiosity": "'Schwanengesang' (canto do cisne) é a última obra de alguém."
+  },
+  "pr02-05": {
+   "word": "der Flamingo",
+   "translit": null,
+   "example": "Steht der Flamingo wirklich auf einem Bein?",
+   "examplePt": "O flamingo fica mesmo em uma perna só?",
+   "pron": "fla-MIN-go — o 'g' é duro e a força cai no 'min'",
+   "curiosity": "O plural é 'die Flamingos', com -s, como em muitas palavras estrangeiras."
+  },
+  "pr02-06": {
+   "word": "der Pfau",
+   "translit": null,
+   "example": "Der Pfau ist stolz auf seine bunten Federn.",
+   "examplePt": "O pavão tem orgulho das suas penas coloridas.",
+   "pron": "PFAU — o 'pf' junta p e f; o 'au' soa como em 'mau'",
+   "curiosity": "'Stolz wie ein Pfau' é estar orgulhoso como um pavão, igual ao português."
+  },
+  "pr02-07": {
+   "word": "die Taube",
+   "translit": null,
+   "example": "Eine Taube sitzt auf meinem Fensterbrett.",
+   "examplePt": "Um pombo está no parapeito da minha janela.",
+   "pron": "TAU-be — o 'au' soa como em 'mau' e o 'e' final é leve",
+   "curiosity": "'Taube' vale para pombo e pomba; 'Friedenstaube' é a pomba da paz."
+  },
+  "pr02-08": {
+   "word": "der Strauß",
+   "translit": null,
+   "example": "Der Strauß rennt schnell über die Steppe.",
+   "examplePt": "A avestruz corre rápido pela estepe.",
+   "pron": "CHTRAUS — o 'st' soa 'scht', o 'au' como em 'mau' e o 'ß' como 's'",
+   "curiosity": "'Strauß' também é buquê: 'ein Blumenstrauß' é um buquê de flores."
+  },
+  "pr03-01": {
+   "word": "die Biene",
+   "translit": null,
+   "example": "Die Biene sammelt Nektar von jeder Blüte.",
+   "examplePt": "A abelha coleta néctar de cada flor.",
+   "pron": "BI-ne — o 'ie' é um 'i' longo e a força cai no começo",
+   "curiosity": "'Bienenstich' é um bolo alemão com amêndoas e creme: 'picada de abelha'."
+  },
+  "pr03-02": {
+   "word": "der Schmetterling",
+   "translit": null,
+   "example": "Der Schmetterling landet auf meiner Hand.",
+   "examplePt": "A borboleta pousa na minha mão.",
+   "pron": "CHMÉ-ta-ling — o 'sch' é o 'ch' de 'chá' e o 'tt' vale um 't'",
+   "curiosity": "'Schmetterlinge im Bauch' são as borboletas no estômago de quem se apaixona."
+  },
+  "pr03-03": {
+   "word": "die Ameise",
+   "translit": null,
+   "example": "Die Ameise trägt einen riesigen Krümel.",
+   "examplePt": "A formiga carrega uma migalha gigante.",
+   "pron": "A-mai-ze — o 'ei' soa 'ai' e o 's' entre vogais soa 'z'",
+   "curiosity": "'Ameisenbär' é o tamanduá, literalmente 'urso das formigas'."
+  },
+  "pr03-04": {
+   "word": "die Spinne",
+   "translit": null,
+   "example": "Hast du die Spinne an der Wand gesehen?",
+   "examplePt": "Você viu a aranha na parede?",
+   "pron": "CHPI-ne — o 'sp' no início soa 'schp'",
+   "curiosity": "'Spinne' vem de 'spinnen' (fiar), e 'du spinnst' também quer dizer 'você é maluco'."
+  },
+  "pr03-05": {
+   "word": "die Fliege",
+   "translit": null,
+   "example": "Eine Fliege brummt um meine Suppe.",
+   "examplePt": "Uma mosca zumbe em volta da minha sopa.",
+   "pron": "FLI-ge — o 'ie' é um 'i' longo e o 'g' é suave",
+   "curiosity": "'Zwei Fliegen mit einer Klappe schlagen' é matar dois coelhos de uma vez."
+  },
+  "pr03-06": {
+   "word": "der Marienkäfer",
+   "translit": null,
+   "example": "Wie viele Punkte hat der Marienkäfer?",
+   "examplePt": "Quantos pontos a joaninha tem?",
+   "pron": "ma-RI-en-KÊ-fa — o 'ä' soa 'ê' e o 'er' final soa 'a'",
+   "curiosity": "Também chamada 'Glückskäfer', a joaninha é símbolo de sorte na Alemanha."
+  },
+  "pr03-07": {
+   "word": "der Regenwurm",
+   "translit": null,
+   "example": "Nach dem Regen kriecht der Regenwurm heraus.",
+   "examplePt": "Depois da chuva a minhoca sai rastejando.",
+   "pron": "RÊ-guen-vurm — o 'w' soa 'v' e o 'r' é de garganta",
+   "curiosity": "É um composto: Regen (chuva) + Wurm (verme), a 'minhoca da chuva'."
+  },
+  "pr03-08": {
+   "word": "die Schnecke",
+   "translit": null,
+   "example": "Die Schnecke trägt ihr Haus auf dem Rücken.",
+   "examplePt": "O caracol carrega a casa nas costas.",
+   "pron": "CHNÉ-ke — o 'sch' é o 'ch' de 'chá' e o 'ck' é um 'k' forte",
+   "curiosity": "'Im Schneckentempo' (em ritmo de caracol) é devagar quase parando."
+  },
+  "pr04-01": {
+   "word": "der Fisch",
+   "translit": null,
+   "example": "Der Fisch schwimmt im klaren Wasser.",
+   "examplePt": "O peixe nada na água clara.",
+   "pron": "FICH — o 'sch' final soa como o 'ch' de 'chá' e o 'i' é curto",
+   "curiosity": "'Fischstäbchen' são os palitos de peixe empanados, que as crianças adoram."
+  },
+  "pr04-02": {
+   "word": "der Hai",
+   "translit": null,
+   "example": "Der Hai hat viele scharfe Zähne.",
+   "examplePt": "O tubarão tem muitos dentes afiados.",
+   "pron": "RAI — o 'h' é aspirado, como um 'rr' bem suave; 'ai' como em 'pai'",
+   "curiosity": "'Hai' e 'Haifisch' significam o mesmo; a forma curta é a mais usada."
+  },
+  "pr04-03": {
+   "word": "der Wal",
+   "translit": null,
+   "example": "Ein Wal singt tief im Ozean.",
+   "examplePt": "Uma baleia canta no fundo do oceano.",
+   "pron": "VAL — o 'w' soa 'v' e o 'a' é longo",
+   "curiosity": "Existe também 'Walfisch', mas a baleia não é peixe: 'Wal' basta."
+  },
+  "pr04-04": {
+   "word": "der Delfin",
+   "translit": null,
+   "example": "Springt der Delfin durch den Reifen?",
+   "examplePt": "O golfinho pula pelo aro?",
+   "pron": "DEL-fin — o 'f' soa como em 'faca' e o 'e' é aberto",
+   "curiosity": "Escreve-se 'Delfin' ou 'Delphin': as duas grafias são corretas."
+  },
+  "pr04-05": {
+   "word": "der Krake",
+   "translit": null,
+   "example": "Der Krake hat acht Arme.",
+   "examplePt": "O polvo tem oito braços.",
+   "pron": "KRA-ke — o 'a' é longo e o 'e' final é leve",
+   "curiosity": "Também se diz 'Oktopus'; já 'Tintenfisch' é o 'peixe de tinta', a lula."
+  },
+  "pr04-06": {
+   "word": "die Schildkröte",
+   "translit": null,
+   "example": "Die Schildkröte zieht den Kopf ein.",
+   "examplePt": "A tartaruga recolhe a cabeça.",
+   "pron": "CHILT-krö-te — o 'ö' é um 'é' com lábios em 'u'",
+   "curiosity": "'Schild' + 'Kröte' = escudo + sapo: literalmente 'sapo com escudo'."
+  },
+  "pr04-07": {
+   "word": "die Krabbe",
+   "translit": null,
+   "example": "Eine Krabbe läuft seitwärts über den Sand.",
+   "examplePt": "Um caranguejo corre de lado pela areia.",
+   "pron": "KRA-be — o 'bb' vale um 'b' só e o 'a' é curto",
+   "curiosity": "'Krabbe' cobre caranguejos e camarões pequenos, como a 'Nordseekrabbe'."
+  },
+  "pr04-08": {
+   "word": "die Robbe",
+   "translit": null,
+   "example": "Die Robbe sonnt sich am Strand.",
+   "examplePt": "A foca toma sol na praia.",
+   "pron": "RO-be — o 'bb' vale um 'b' só e o 'o' é curto",
+   "curiosity": "'Robbe' é o nome geral das focas; 'Seehund' (cão do mar) é a foca-comum."
+  },
+  "pr05-01": {
+   "word": "die Karotte",
+   "translit": null,
+   "example": "Isst der Hase gern eine Karotte?",
+   "examplePt": "O coelho gosta de comer uma cenoura?",
+   "pron": "ka-RO-te — o acento cai no 'ro' e o 'tt' vale um 't'",
+   "curiosity": "Também se diz 'Möhre': as duas palavras são usadas na Alemanha."
+  },
+  "pr05-02": {
+   "word": "die Kartoffel",
+   "translit": null,
+   "example": "Die Kartoffel wächst unter der Erde.",
+   "examplePt": "A batata cresce debaixo da terra.",
+   "pron": "kar-TO-fel — o acento cai no 'to' e o 'ff' vale um 'f'",
+   "curiosity": "'Kartoffelsalat' e 'Bratkartoffeln' são pratos clássicos da cozinha alemã."
+  },
+  "pr05-03": {
+   "word": "die Tomate",
+   "translit": null,
+   "example": "Die Tomate ist rot und saftig.",
+   "examplePt": "O tomate é vermelho e suculento.",
+   "pron": "to-MA-te — o 'a' é longo e o 'e' final é suave",
+   "curiosity": "'Tomaten auf den Augen haben' é não enxergar o que está na cara."
+  },
+  "pr05-04": {
+   "word": "die Zwiebel",
+   "translit": null,
+   "example": "Schneidest du gern Zwiebeln für den Salat?",
+   "examplePt": "Você gosta de cortar cebolas para a salada?",
+   "pron": "TSVI-bel — o 'z' soa 'ts', o 'w' soa 'v' e o 'ie' é um 'i' longo",
+   "curiosity": "'Zwiebelkuchen' é uma torta salgada de cebola, típica do outono alemão."
+  },
+  "pr05-05": {
+   "word": "der Mais",
+   "translit": null,
+   "example": "Der Mais wächst hoch auf dem Feld.",
+   "examplePt": "O milho cresce alto no campo.",
+   "pron": "MAIS — soa quase como o 'mais' do português, mas significa milho",
+   "curiosity": "Parece 'mais', mas é milho! Um falso amigo masculino: der Mais."
+  },
+  "pr05-06": {
+   "word": "der Brokkoli",
+   "translit": null,
+   "example": "Mag dein Bruder Brokkoli?",
+   "examplePt": "Seu irmão gosta de brócolis?",
+   "pron": "BRO-ko-li — o 'kk' vale um 'k' só e a força cai no 'bro'",
+   "curiosity": "As grafias 'Brokkoli' e 'Broccoli' são aceitas em alemão."
+  },
+  "pr05-07": {
+   "word": "der Knoblauch",
+   "translit": null,
+   "example": "Der Knoblauch riecht schon von weitem.",
+   "examplePt": "O alho cheira de longe.",
+   "pron": "KNÔ-blauch — o 'k' soa antes do 'n'; o 'ch' final é áspero",
+   "curiosity": "'Knoblauchzehe' é o dente de alho, literalmente 'dedo do pé' de alho."
+  },
+  "pr05-08": {
+   "word": "die Gurke",
+   "translit": null,
+   "example": "Die Gurke ist knackig und frisch.",
+   "examplePt": "O pepino é crocante e fresco.",
+   "pron": "GUR-ke — o 'u' é curto e o 'r' vem da garganta",
+   "curiosity": "'Saure-Gurken-Zeit' (época dos picles) é a fase sem novidades, tipo férias."
+  },
+  "pr06-01": {
+   "word": "der Kuchen",
+   "translit": null,
+   "example": "Oma backt einen Kuchen für uns.",
+   "examplePt": "A vovó assa um bolo para nós.",
+   "pron": "KU-chen — o 'u' é longo e o 'ch' é um som áspero na garganta",
+   "curiosity": "'Kaffee und Kuchen' é o lanche da tarde tradicional na Alemanha."
+  },
+  "pr06-02": {
+   "word": "das Eis",
+   "translit": null,
+   "example": "Wer möchte ein Eis mit Schokolade?",
+   "examplePt": "Quem quer um sorvete com chocolate?",
+   "pron": "AIS — o 'ei' soa 'ai', como em 'pai'",
+   "curiosity": "'Eis' é sorvete e também gelo: o contexto decide!"
+  },
+  "pr06-03": {
+   "word": "der Keks",
+   "translit": null,
+   "example": "Der Keks zerbricht in meiner Hand.",
+   "examplePt": "O biscoito se quebra na minha mão.",
+   "pron": "KÊKS — o 'e' é longo e fechado; o 'ks' final é nítido",
+   "curiosity": "'Jemandem auf den Keks gehen' (ir ao biscoito de alguém) é irritá-lo."
+  },
+  "pr06-04": {
+   "word": "der Donut",
+   "translit": null,
+   "example": "Isst du den Donut mit Zucker?",
+   "examplePt": "Você come a rosquinha com açúcar?",
+   "pron": "DÔ-nat — vem do inglês; o 'u' final soa quase como um 'a' fraco",
+   "curiosity": "O doce recheado de geleia também se chama 'Berliner' ou 'Krapfen'."
+  },
+  "pr06-05": {
+   "word": "der Lutscher",
+   "translit": null,
+   "example": "Der Lutscher färbt meine Zunge blau!",
+   "examplePt": "O pirulito deixa minha língua azul!",
+   "pron": "LU-tcha — o 'tsch' soa como 'tch' de 'tchau'; o 'er' soa 'a'",
+   "curiosity": "Vem do verbo 'lutschen' (chupar): 'Lutscher' é 'aquele que se chupa'."
+  },
+  "pr06-06": {
+   "word": "die Schokolade",
+   "translit": null,
+   "example": "Die Schokolade schmilzt in der Sonne.",
+   "examplePt": "O chocolate derrete no sol.",
+   "pron": "cho-ko-LA-de — o 'sch' é o 'ch' de 'chá'; a força cai no 'la'",
+   "curiosity": "'Eine Tafel Schokolade' é uma barra; 'Tafel' também quer dizer lousa."
+  },
+  "pr06-07": {
+   "word": "das Popcorn",
+   "translit": null,
+   "example": "Das Popcorn knallt laut in der Pfanne!",
+   "examplePt": "A pipoca estoura alto na panela!",
+   "pron": "PÓP-korn — empréstimo do inglês; o 'r' soa bem fraco",
+   "curiosity": "'Popcorn' é um anglicismo e mantém o artigo neutro: das Popcorn."
+  },
+  "pr06-08": {
+   "word": "die Tarte",
+   "translit": null,
+   "example": "Die Tarte duftet nach warmen Äpfeln.",
+   "examplePt": "A torta cheira a maçãs quentes.",
+   "pron": "TAR-te — o 'r' vem da garganta e o 'e' final é leve",
+   "curiosity": "'Torte' não é torta: é bolo de camadas! A torta de frutas é 'Tarte'."
+  },
+  "pr07-01": {
+   "word": "die Küche",
+   "translit": null,
+   "example": "Mama kocht Suppe in der Küche.",
+   "examplePt": "A mamãe faz sopa na cozinha.",
+   "pron": "KÜ-che — o 'ü' é um 'i' com lábios em 'u'; o 'ch' é suave",
+   "curiosity": "'Küche' é cozinha e também culinária: 'die deutsche Küche'."
+  },
+  "pr07-02": {
+   "word": "das Badezimmer",
+   "translit": null,
+   "example": "Das Badezimmer hat ein kleines Fenster.",
+   "examplePt": "O banheiro tem uma janelinha.",
+   "pron": "BA-de-tsi-ma — o 'z' soa 'ts' e o 'er' final soa 'a'",
+   "curiosity": "Muita gente diz só 'das Bad' para banheiro: 'Bad' + 'Zimmer' = quarto de banho."
+  },
+  "pr07-03": {
+   "word": "das Schlafzimmer",
+   "translit": null,
+   "example": "Mein Schlafzimmer liegt im ersten Stock.",
+   "examplePt": "Meu quarto fica no primeiro andar.",
+   "pron": "CHLAF-tsi-ma — o 'sch' é o 'ch' de 'chá' e o 'z' soa 'ts'",
+   "curiosity": "É um composto: 'Schlaf' (sono) + 'Zimmer' (cômodo)."
+  },
+  "pr07-04": {
+   "word": "das Wohnzimmer",
+   "translit": null,
+   "example": "Wir sehen im Wohnzimmer einen Film.",
+   "examplePt": "Nós vemos um filme na sala.",
+   "pron": "VÔN-tsi-ma — o 'w' soa 'v' e o 'o' é longo",
+   "curiosity": "'Wohnen' é morar: o 'Wohnzimmer' é o cômodo de morar, a sala de estar."
+  },
+  "pr07-05": {
+   "word": "die Garage",
+   "translit": null,
+   "example": "Das Auto steht in der Garage.",
+   "examplePt": "O carro está na garagem.",
+   "pron": "ga-RA-je — o 'g' final soa como o 'j' de 'jarra'",
+   "curiosity": "'Tiefgarage' é a garagem subterrânea, literalmente 'garagem profunda'."
+  },
+  "pr07-06": {
+   "word": "der Garten",
+   "translit": null,
+   "example": "Im Garten blühen bunte Blumen.",
+   "examplePt": "No jardim florescem flores coloridas.",
+   "pron": "GAR-ten — o 'g' é duro e o 'r' vem da garganta",
+   "curiosity": "'Kindergarten' é palavra alemã: 'jardim das crianças', usada até no inglês."
+  },
+  "pr07-07": {
+   "word": "die Tür",
+   "translit": null,
+   "example": "Wer klopft denn da an die Tür?",
+   "examplePt": "Quem bate à porta?",
+   "pron": "TÜR — o 'ü' é um 'i' com lábios em 'u'; o 'r' final é suave",
+   "curiosity": "'Tag der offenen Tür' (dia da porta aberta) é um dia de visitas a escolas e empresas."
+  },
+  "pr07-08": {
+   "word": "das Fenster",
+   "translit": null,
+   "example": "Das Fenster ist offen, es zieht!",
+   "examplePt": "A janela está aberta, tem corrente de ar!",
+   "pron": "FÉN-sta — o 'er' final soa 'a'; o 's' é suave",
+   "curiosity": "Vem do latim 'fenestra', antiga palavra portuguesa para janela."
+  },
+  "pr08-01": {
+   "word": "das Bett",
+   "translit": null,
+   "example": "Mein Bett steht direkt unter dem Fenster.",
+   "examplePt": "Minha cama fica logo abaixo da janela.",
+   "pron": "BÉT — o 'e' é aberto e o 'tt' vale um 't' só",
+   "curiosity": "'Bett' (cama) e 'Beet' (canteiro) soam parecidos, mas são palavras diferentes."
+  },
+  "pr08-02": {
+   "word": "der Tisch",
+   "translit": null,
+   "example": "Wer deckt heute den Tisch?",
+   "examplePt": "Quem põe a mesa hoje?",
+   "pron": "TICH — o 'sch' final soa como o 'ch' de 'chá'",
+   "curiosity": "'Stammtisch' é a mesa fixa de um grupo de amigos no bar."
+  },
+  "pr08-03": {
+   "word": "der Stuhl",
+   "translit": null,
+   "example": "Der Stuhl wackelt, setz dich lieber aufs Sofa.",
+   "examplePt": "A cadeira balança, sente melhor no sofá.",
+   "pron": "CHTUL — o 'st' soa 'scht' e o 'uh' é um 'u' longo",
+   "curiosity": "'Stuhl' é cadeira; 'Sessel' é poltrona e 'Hocker' é banquinho."
+  },
+  "pr08-04": {
+   "word": "das Sofa",
+   "translit": null,
+   "example": "Die Katze schläft auf dem Sofa.",
+   "examplePt": "O gato dorme no sofá.",
+   "pron": "ZÔ-fa — o 's' inicial soa 'z' e o 'o' é fechado",
+   "curiosity": "Também existe 'die Couch': os alemães usam as duas palavras."
+  },
+  "pr08-05": {
+   "word": "der Spiegel",
+   "translit": null,
+   "example": "Der Spiegel zeigt mein müdes Gesicht.",
+   "examplePt": "O espelho mostra meu rosto cansado.",
+   "pron": "CHPI-guel — o 'sp' soa 'schp' e o 'ie' é um 'i' longo",
+   "curiosity": "'Spiegelei' (ovo-espelho) é o ovo frito."
+  },
+  "pr08-06": {
+   "word": "der Kühlschrank",
+   "translit": null,
+   "example": "Ist noch Milch im Kühlschrank?",
+   "examplePt": "Ainda tem leite na geladeira?",
+   "pron": "KÜL-chrank — o 'ü' é um 'i' com lábios em 'u'; 'sch' como 'ch' de 'chá'",
+   "curiosity": "'Kühl' (fresco) + 'Schrank' (armário): o 'armário fresco'."
+  },
+  "pr08-07": {
+   "word": "der Fernseher",
+   "translit": null,
+   "example": "Der Fernseher läuft schon den ganzen Tag.",
+   "examplePt": "A televisão está ligada o dia todo.",
+   "pron": "FÉRN-zê-a — o 's' soa 'z' e o 'er' final soa 'a'",
+   "curiosity": "'Fern' (longe) + 'sehen' (ver): o aparelho para 'ver de longe'."
+  },
+  "pr08-08": {
+   "word": "die Glühbirne",
+   "translit": null,
+   "example": "Die Glühbirne ist durchgebrannt.",
+   "examplePt": "A lâmpada queimou.",
+   "pron": "GLÜ-bir-ne — o 'ü' é um 'i' com lábios em 'u'; o 'h' é mudo",
+   "curiosity": "'Glühbirne' é 'pera incandescente': o formato lembra uma pera (Birne)."
+  },
+  "pr09-01": {
+   "word": "die Gabel",
+   "translit": null,
+   "example": "Ich esse die Nudeln mit der Gabel.",
+   "examplePt": "Eu como o macarrão com o garfo.",
+   "pron": "GA-bel — o 'a' é longo e o 'g' é duro",
+   "curiosity": "'Gabelung' é a bifurcação de uma estrada, como um garfo."
+  },
+  "pr09-02": {
+   "word": "das Messer",
+   "translit": null,
+   "example": "Das Messer ist scharf, Vorsicht!",
+   "examplePt": "A faca é afiada, cuidado!",
+   "pron": "MÉ-sa — o 'ss' é um 's' forte e o 'er' final soa 'a'",
+   "curiosity": "Garfo, faca e colher têm os três gêneros: die Gabel, das Messer, der Löffel."
+  },
+  "pr09-03": {
+   "word": "der Löffel",
+   "translit": null,
+   "example": "Ein Löffel Honig süßt den Tee.",
+   "examplePt": "Uma colher de mel adoça o chá.",
+   "pron": "LÖ-fel — o 'ö' é um 'é' com lábios em 'u'; o 'ff' vale um 'f'",
+   "curiosity": "'Esslöffel' é a colher de sopa e 'Teelöffel' é a colher de chá."
+  },
+  "pr09-04": {
+   "word": "der Teller",
+   "translit": null,
+   "example": "Mein Teller ist schon leer!",
+   "examplePt": "Meu prato já está vazio!",
+   "pron": "TÉ-la — o 'll' vale um 'l' só e o 'er' final soa 'a'",
+   "curiosity": "'Über den Tellerrand schauen' (olhar além da borda do prato) é abrir a mente."
+  },
+  "pr09-05": {
+   "word": "das Trinkglas",
+   "translit": null,
+   "example": "Gibst du mir ein Trinkglas für den Saft?",
+   "examplePt": "Você me dá um copo para o suco?",
+   "pron": "TRINK-glas — o 'a' é longo e o 's' final é suave",
+   "curiosity": "'Glas' é copo, vidro e pote: 'Marmeladenglas' é o pote de geleia."
+  },
+  "pr09-06": {
+   "word": "der Topf",
+   "translit": null,
+   "example": "Die Suppe kocht im großen Topf.",
+   "examplePt": "A sopa ferve na panela grande.",
+   "pron": "TOPF — o 'pf' junta p e f num só som",
+   "curiosity": "'Alles in einen Topf werfen' é misturar tudo sem distinguir."
+  },
+  "pr09-07": {
+   "word": "die Tasse",
+   "translit": null,
+   "example": "Trinkst du Tee aus dieser Tasse?",
+   "examplePt": "Você bebe chá nesta xícara?",
+   "pron": "TA-se — o 'ss' é um 's' forte e o 'e' final é leve",
+   "curiosity": "'Nicht alle Tassen im Schrank haben' é ser meio avoado (faltam xícaras no armário)."
+  },
+  "pr09-08": {
+   "word": "die Schüssel",
+   "translit": null,
+   "example": "Die Schüssel ist voll mit buntem Salat.",
+   "examplePt": "A tigela está cheia de salada colorida.",
+   "pron": "CHÜ-sel — o 'ü' é um 'i' com lábios em 'u'; 'ss' é um 's' forte",
+   "curiosity": "'Satellitenschüssel' é a antena parabólica: a 'tigela' do satélite."
+  },
+  "pr10-01": {
+   "word": "die Hand",
+   "translit": null,
+   "example": "Gib mir deine Hand, bitte!",
+   "examplePt": "Me dá a sua mão, por favor!",
+   "pron": "RANT — o 'h' é aspirado e o 'd' final soa 't'",
+   "curiosity": "O plural troca a vogal: die Hand, die Hände."
+  },
+  "pr10-02": {
+   "word": "der Fuß",
+   "translit": null,
+   "example": "Mein Fuß tut nach dem Spiel weh.",
+   "examplePt": "Meu pé dói depois do jogo.",
+   "pron": "FUS — o 'u' é longo e o 'ß' soa como 's' forte",
+   "curiosity": "'Fußgänger' é o pedestre, literalmente 'quem vai a pé'."
+  },
+  "pr10-03": {
+   "word": "das Auge",
+   "translit": null,
+   "example": "Ich habe etwas im Auge, es brennt.",
+   "examplePt": "Tenho algo no olho, está ardendo.",
+   "pron": "AU-ge — o 'au' soa como em 'mau'; o 'g' é suave",
+   "curiosity": "'Augenblick' (piscar de olhos) é um instante: 'Einen Augenblick, bitte'."
+  },
+  "pr10-04": {
+   "word": "die Nase",
+   "translit": null,
+   "example": "Die Nase läuft, ich habe Schnupfen.",
+   "examplePt": "O nariz escorre, estou resfriado.",
+   "pron": "NA-ze — o 's' entre vogais soa 'z'",
+   "curiosity": "'Die Nase voll haben' (ter o nariz cheio) é estar farto de algo."
+  },
+  "pr10-05": {
+   "word": "der Mund",
+   "translit": null,
+   "example": "Mach bitte den Mund weit auf!",
+   "examplePt": "Abra bem a boca, por favor!",
+   "pron": "MUNT — o 'u' é curto e o 'd' final soa 't'",
+   "curiosity": "'Mundart' (jeito da boca) é o dialeto de uma região."
+  },
+  "pr10-06": {
+   "word": "das Ohr",
+   "translit": null,
+   "example": "Welches Ohr tut dir weh?",
+   "examplePt": "Qual ouvido está doendo?",
+   "pron": "ÔR — o 'oh' é um 'ô' longo e o 'r' final é suave",
+   "curiosity": "'Ohrwurm' (minhoca de ouvido) é a música que gruda na cabeça."
+  },
+  "pr10-07": {
+   "word": "das Bein",
+   "translit": null,
+   "example": "Mein Bein ist eingeschlafen!",
+   "examplePt": "Minha perna dormiu!",
+   "pron": "BAIN — o 'ei' soa 'ai', como em 'pai'",
+   "curiosity": "'Jemandem ein Bein stellen' é passar uma rasteira em alguém."
+  },
+  "pr10-08": {
+   "word": "der Zahn",
+   "translit": null,
+   "example": "Mein Zahn wackelt, er fällt bald aus.",
+   "examplePt": "Meu dente está mole, vai cair logo.",
+   "pron": "TSAN — o 'z' soa 'ts' e o 'ah' é um 'a' longo",
+   "curiosity": "'Zahnfee' é a fada do dente, que troca o dente de leite por uma moeda."
+  },
+  "pr11-01": {
+   "word": "das T-Shirt",
+   "translit": null,
+   "example": "Mein T-Shirt ist im Regen nass geworden.",
+   "examplePt": "Minha camiseta ficou molhada na chuva.",
+   "pron": "TI-chört — vem do inglês; o 'sh' soa 'ch' e o 'r' é suave",
+   "curiosity": "'T-Shirt' é inglês puro, mas em alemão ganhou artigo neutro: das T-Shirt."
+  },
+  "pr11-02": {
+   "word": "die Hose",
+   "translit": null,
+   "example": "Gestern habe ich meine Hose zerrissen.",
+   "examplePt": "Ontem eu rasguei minha calça.",
+   "pron": "RÔ-ze — o 'h' é aspirado, o 'o' longo e o 's' soa 'z'",
+   "curiosity": "No inglês 'pants' é plural, mas em alemão 'die Hose' é singular."
+  },
+  "pr11-03": {
+   "word": "der Schuh",
+   "translit": null,
+   "example": "Wo ist mein linker Schuh?",
+   "examplePt": "Onde está meu sapato esquerdo?",
+   "pron": "CHU — o 'sch' é o 'ch' de 'chá' e o 'u' é longo",
+   "curiosity": "'Wo drückt der Schuh?' (onde o sapato aperta?) pergunta qual é o problema."
+  },
+  "pr11-04": {
+   "word": "die Socke",
+   "translit": null,
+   "example": "Eine Socke fehlt immer nach der Wäsche.",
+   "examplePt": "Sempre falta uma meia depois da lavagem.",
+   "pron": "ZO-ke — o 's' inicial soa 'z' e o 'ck' é um 'k' forte",
+   "curiosity": "'Sich auf die Socken machen' (pôr-se nas meias) é pôr-se a caminho."
+  },
+  "pr11-05": {
+   "word": "der Mantel",
+   "translit": null,
+   "example": "Morgen brauchst du einen warmen Mantel.",
+   "examplePt": "Amanhã você vai precisar de um casaco quente.",
+   "pron": "MAN-tel — o 'a' é curto e o 'el' final é leve",
+   "curiosity": "'Den Mantel nach dem Wind hängen' é mudar de opinião conforme a conveniência."
+  },
+  "pr11-06": {
+   "word": "das Kleid",
+   "translit": null,
+   "example": "Sie trug gestern ein rotes Kleid.",
+   "examplePt": "Ela usou um vestido vermelho ontem.",
+   "pron": "KLAIT — o 'ei' soa 'ai' e o 'd' final soa 't'",
+   "curiosity": "'Kleider machen Leute' (roupas fazem pessoas) é um provérbio sobre aparência."
+  },
+  "pr11-07": {
+   "word": "die Handschuhe",
+   "translit": null,
+   "example": "Im Winter trage ich dicke Handschuhe.",
+   "examplePt": "No inverno eu uso luvas grossas.",
+   "pron": "RANT-chu-e — o 'h' é aspirado e o 'sch' soa como 'ch' de 'chá'",
+   "curiosity": "É literalmente 'sapatos de mão': Hand + Schuh."
+  },
+  "pr11-08": {
+   "word": "die Kappe",
+   "translit": null,
+   "example": "Setz die Kappe auf, die Sonne brennt!",
+   "examplePt": "Ponha o boné, o sol está queimando!",
+   "pron": "KA-pe — o 'pp' vale um 'p' só e o 'a' é curto",
+   "curiosity": "'Etwas auf seine Kappe nehmen' é assumir a responsabilidade por algo."
+  },
+  "pr12-01": {
+   "word": "die Brille",
+   "translit": null,
+   "example": "Wo habe ich nur meine Brille gelassen?",
+   "examplePt": "Onde foi que deixei meus óculos?",
+   "pron": "BRI-le — o 'i' é curto e o 'e' final é leve",
+   "curiosity": "'Brille' vem de 'Beryll', um mineral que serviu para lentes antigas."
+  },
+  "pr12-02": {
+   "word": "die Tasche",
+   "translit": null,
+   "example": "Ich packe das Buch in meine Tasche.",
+   "examplePt": "Eu ponho o livro na minha bolsa.",
+   "pron": "TA-che — o 'sch' soa como o 'ch' de 'chá'",
+   "curiosity": "'Tasche' é bolsa e bolso: 'Hosentasche' é o bolso da calça."
+  },
+  "pr12-03": {
+   "word": "der Regenschirm",
+   "translit": null,
+   "example": "Nimmst du den Regenschirm heute mit?",
+   "examplePt": "Você leva o guarda-chuva hoje?",
+   "pron": "RÊ-guen-chirm — o 'sch' soa como 'ch' de 'chá'",
+   "curiosity": "Composto de 'Regen' (chuva) + 'Schirm' (proteção): o 'escudo da chuva'."
+  },
+  "pr12-04": {
+   "word": "der Ring",
+   "translit": null,
+   "example": "Der Ring glänzt in der Sonne.",
+   "examplePt": "O anel brilha ao sol.",
+   "pron": "RING — o 'r' vem da garganta e o 'g' final quase não soa",
+   "curiosity": "'Ring' é anel e também ringue de boxe; 'Ohrring' é brinco."
+  },
+  "pr12-05": {
+   "word": "die Uhr",
+   "translit": null,
+   "example": "Wie spät ist es auf deiner Uhr?",
+   "examplePt": "Que horas são no seu relógio?",
+   "pron": "UR — o 'uh' é um 'u' longo e o 'r' final é suave",
+   "curiosity": "'Uhr' é relógio e também 'horas': 'drei Uhr' são três horas."
+  },
+  "pr12-06": {
+   "word": "das Vorhängeschloss",
+   "translit": null,
+   "example": "Das Vorhängeschloss hängt am Fahrrad.",
+   "examplePt": "O cadeado está pendurado na bicicleta.",
+   "pron": "FÔR-hén-ge-chlós — o 'V' soa 'f'; o 'ä' soa 'é'; o 'ss' é forte",
+   "curiosity": "Palavrão de letras! 'Schloss' é cadeado, fechadura e também castelo."
+  },
+  "pr12-07": {
+   "word": "der Rucksack",
+   "translit": null,
+   "example": "Mein Rucksack ist viel zu schwer.",
+   "examplePt": "Minha mochila está pesada demais.",
+   "pron": "RUK-zak — o 'u' é curto e o 's' de 'sack' soa 'z'",
+   "curiosity": "'Rucksack' (Rücken + Sack) é palavra alemã que o inglês adotou."
+  },
+  "pr12-08": {
+   "word": "die Taschenlampe",
+   "translit": null,
+   "example": "Mit der Taschenlampe leuchten wir ins Dunkel.",
+   "examplePt": "Com a lanterna iluminamos o escuro.",
+   "pron": "TA-chen-lam-pe — o 'sch' soa como 'ch' de 'chá'",
+   "curiosity": "'Laterne' em alemão é lampião ou poste de rua; lanterna de mão é 'Taschenlampe'."
+  },
+  "pr13-01": {
+   "word": "der Fußball",
+   "translit": null,
+   "example": "Spielen wir nach der Schule Fußball?",
+   "examplePt": "Vamos jogar bola depois da escola?",
+   "pron": "FUS-bal — o 'u' é longo e o 'ß' soa 's' forte",
+   "curiosity": "A liga nacional alemã de futebol se chama 'Bundesliga'."
+  },
+  "pr13-02": {
+   "word": "der Basketball",
+   "translit": null,
+   "example": "Der Basketball prallt vom Rand des Korbs ab.",
+   "examplePt": "A bola de basquete quica na borda da cesta.",
+   "pron": "BAS-ket-bal — o 'a' é longo e a força cai na 1ª sílaba",
+   "curiosity": "Palavras compostas levam o gênero da última parte: der Ball, der Basketball."
+  },
+  "pr13-03": {
+   "word": "das Tennis",
+   "translit": null,
+   "example": "Spielst du lieber Tennis oder Fußball?",
+   "examplePt": "Você prefere jogar tênis ou futebol?",
+   "pron": "TÉ-nis — o 'e' é aberto e o 'nn' vale um 'n' só",
+   "curiosity": "'Tennis' é neutro e não tem plural: 'Ich spiele Tennis'."
+  },
+  "pr13-04": {
+   "word": "das Schwimmen",
+   "translit": null,
+   "example": "Das Schwimmen macht mir im Sommer Spaß.",
+   "examplePt": "Nadar me diverte no verão.",
+   "pron": "CHVI-men — o 'sch' é o 'ch' de 'chá'; o 'w' soa 'v'",
+   "curiosity": "Qualquer verbo vira substantivo com maiúscula e 'das': schwimmen, das Schwimmen."
+  },
+  "pr13-05": {
+   "word": "der Volleyball",
+   "translit": null,
+   "example": "Der Volleyball fliegt über das Netz.",
+   "examplePt": "A bola de vôlei voa sobre a rede.",
+   "pron": "VO-li-bal — aqui o 'v' soa 'v' mesmo; acento no 'vol'",
+   "curiosity": "'Netz' é rede e também internet: 'im Netz' é na internet."
+  },
+  "pr13-06": {
+   "word": "das Radfahren",
+   "translit": null,
+   "example": "Radfahren im Park macht mir Spaß.",
+   "examplePt": "Andar de bicicleta no parque me diverte.",
+   "pron": "RAT-fa-ren — o 'd' final de 'Rad' soa 't'; o 'f' como em 'faca'",
+   "curiosity": "'Radfahrer' é ciclista e 'Radweg' é a ciclovia."
+  },
+  "pr13-07": {
+   "word": "das Skifahren",
+   "translit": null,
+   "example": "Skifahren ist im Schnee ein Riesenspaß!",
+   "examplePt": "Esquiar é uma diversão enorme na neve!",
+   "pron": "CHI-fa-ren — o 'sk' de 'Ski' soa 'ch' de 'chá'",
+   "curiosity": "'Ski' lê-se 'schi' e vem do norueguês."
+  },
+  "pr13-08": {
+   "word": "das Baseball",
+   "translit": null,
+   "example": "Baseball sieht man in Deutschland selten.",
+   "examplePt": "Beisebol se vê raramente na Alemanha.",
+   "pron": "BÊS-bol — empréstimo do inglês; o 's' é bem pronunciado",
+   "curiosity": "'Baseball' é quase igual ao inglês, mas em alemão é neutro: das Baseball."
+  },
+  "pr14-01": {
+   "word": "die Puppe",
+   "translit": null,
+   "example": "Meine Puppe hat blaue Augen.",
+   "examplePt": "Minha boneca tem olhos azuis.",
+   "pron": "PU-pe — o 'pp' vale um 'p' só e o 'u' é curto",
+   "curiosity": "'Puppe' é boneca e também a pupa, o casulo da borboleta."
+  },
+  "pr14-02": {
+   "word": "der Luftballon",
+   "translit": null,
+   "example": "Der Luftballon platzt mit einem Knall!",
+   "examplePt": "O balão estoura com um estrondo!",
+   "pron": "LUFT-ba-lõ — o 'u' é curto; o fim soa como um 'lon' nasal leve",
+   "curiosity": "'Heißluftballon' é o balão de ar quente, literalmente 'balão de ar quente'."
+  },
+  "pr14-03": {
+   "word": "das Puzzle",
+   "translit": null,
+   "example": "Wir legen ein Puzzle mit tausend Teilen.",
+   "examplePt": "Montamos um quebra-cabeça de mil peças.",
+   "pron": "PA-sel — o 'u' soa quase 'a' e o 'zz' soa 's' simples",
+   "curiosity": "Os alemães usam o inglês 'Puzzle' para quebra-cabeça; cada peça é 'ein Teil'."
+  },
+  "pr14-04": {
+   "word": "der Teddybär",
+   "translit": null,
+   "example": "Der Teddybär schläft in meinem Arm.",
+   "examplePt": "O ursinho dorme no meu braço.",
+   "pron": "TÉ-di-bér — o 'y' soa 'i' e o 'ä' soa 'é'",
+   "curiosity": "'Bär' é urso; urso de pelúcia pode ser 'Plüschtier', o 'bicho de pelúcia'."
+  },
+  "pr14-05": {
+   "word": "der Spielwürfel",
+   "translit": null,
+   "example": "Der Spielwürfel zeigt eine Sechs.",
+   "examplePt": "O dado mostra um seis.",
+   "pron": "CHPIL-vür-fel — o 'sp' soa 'schp'; o 'ü' é 'i' com lábios em 'u'",
+   "curiosity": "'Würfel' é cubo e dado; 'Zuckerwürfel' é o cubinho de açúcar."
+  },
+  "pr14-06": {
+   "word": "der Ball",
+   "translit": null,
+   "example": "Wirf mir bitte den Ball zu!",
+   "examplePt": "Jogue a bola para mim, por favor!",
+   "pron": "BAL — o 'a' é curto e o 'll' vale um 'l' só",
+   "curiosity": "'Ball' é bola e também baile: 'ein Ball' pode ser uma festa de gala!"
+  },
+  "pr14-07": {
+   "word": "die Rollschuhe",
+   "translit": null,
+   "example": "Letzten Sommer lernte ich Rollschuhe fahren.",
+   "examplePt": "No verão passado aprendi a andar de patins.",
+   "pron": "ROL-chu-e — o 'll' vale um 'l' só; o 'sch' soa como 'ch' de 'chá'",
+   "curiosity": "Os patins em linha também se chamam 'Inliner' em alemão."
+  },
+  "pr14-08": {
+   "word": "das Karussell",
+   "translit": null,
+   "example": "Fahren wir noch eine Runde Karussell?",
+   "examplePt": "Vamos dar mais uma volta no carrossel?",
+   "pron": "ka-ru-SÉL — o 'ss' é um 's' forte e a força cai no 'sel'",
+   "curiosity": "Vem do francês 'carrousel', por isso a grafia parece estranha."
+  },
+  "pr15-01": {
+   "word": "der Bleistift",
+   "translit": null,
+   "example": "Der Bleistift ist zu kurz zum Schreiben.",
+   "examplePt": "O lápis está curto demais para escrever.",
+   "pron": "BLAI-chtift — o 'ei' soa 'ai'; o 'st' soa 'scht'",
+   "curiosity": "'Blei' é chumbo, mas o grafite do lápis não tem chumbo: o nome é histórico."
+  },
+  "pr15-02": {
+   "word": "der Kugelschreiber",
+   "translit": null,
+   "example": "Mein Kugelschreiber ist leider leer.",
+   "examplePt": "Minha caneta esferográfica está vazia, infelizmente.",
+   "pron": "KU-guel-chrai-ba — o 'sch' soa 'ch'; o 'ei' soa 'ai'",
+   "curiosity": "O apelido de 'Kugelschreiber' é 'Kuli', bem mais curto de falar."
+  },
+  "pr15-03": {
+   "word": "das Heft",
+   "translit": null,
+   "example": "Schreib die Aufgabe in dein Heft!",
+   "examplePt": "Escreva a tarefa no seu caderno!",
+   "pron": "REFT — o 'h' é aspirado e o 'e' é curto",
+   "curiosity": "'Heft' é o caderno fino da escola; 'Notizbuch' é o caderno de anotações."
+  },
+  "pr15-04": {
+   "word": "das Buch",
+   "translit": null,
+   "example": "Welches Buch liest du gerade?",
+   "examplePt": "Que livro você está lendo agora?",
+   "pron": "BUCH — o 'u' é longo e o 'ch' é áspero, como um 'rr' suave",
+   "curiosity": "O plural muda a vogal: das Buch, die Bücher."
+  },
+  "pr15-05": {
+   "word": "das Lineal",
+   "translit": null,
+   "example": "Zieh mit dem Lineal eine gerade Linie.",
+   "examplePt": "Trace uma linha reta com a régua.",
+   "pron": "li-ne-AL — a força cai no 'al' e o 'l' é bem marcado",
+   "curiosity": "'Lineal' vem do latim 'linea' (linha); em alemão linha é 'Linie'."
+  },
+  "pr15-06": {
+   "word": "die Schere",
+   "translit": null,
+   "example": "Schneidet diese Schere wirklich Papier?",
+   "examplePt": "Esta tesoura corta papel mesmo?",
+   "pron": "CHÊ-re — o 'sch' é o 'ch' de 'chá' e o 'e' é longo",
+   "curiosity": "'Schere, Stein, Papier' é o jogo de pedra, papel e tesoura!"
+  },
+  "pr15-07": {
+   "word": "der Taschenrechner",
+   "translit": null,
+   "example": "Der Taschenrechner löst jede Aufgabe sofort.",
+   "examplePt": "A calculadora resolve qualquer tarefa na hora.",
+   "pron": "TA-chen-rech-na — o 'sch' soa 'ch' de 'chá'; 'ch' de 'rech' é suave",
+   "curiosity": "'Rechnen' é calcular: o 'Taschenrechner' é o 'calculador de bolso'."
+  },
+  "pr15-08": {
+   "word": "das Papier",
+   "translit": null,
+   "example": "Ich brauche ein Blatt Papier.",
+   "examplePt": "Preciso de uma folha de papel.",
+   "pron": "pa-PIR — a força cai no 'pir' e o 'r' final é suave",
+   "curiosity": "'Zu Papier bringen' (levar ao papel) é escrever algo."
+  },
+  "pr16-01": {
+   "word": "der Fluss",
+   "translit": null,
+   "example": "Der Fluss fließt langsam durch die Stadt.",
+   "examplePt": "O rio flui devagar pela cidade.",
+   "pron": "FLUS — o 'ss' é um 's' forte e o 'u' é curto",
+   "curiosity": "'Strom' é rio grande e também eletricidade: 'Stromausfall' é falta de luz."
+  },
+  "pr16-02": {
+   "word": "der Berg",
+   "translit": null,
+   "example": "Wir sind gestern auf den Berg gestiegen.",
+   "examplePt": "Ontem subimos a montanha.",
+   "pron": "BERK — o 'g' final soa 'k' e o 'r' é suave",
+   "curiosity": "'Berg' (montanha) e 'burg' (fortaleza) aparecem em nomes como 'Heidelberg'."
+  },
+  "pr16-03": {
+   "word": "der Strand",
+   "translit": null,
+   "example": "Am Strand bauen wir eine Sandburg.",
+   "examplePt": "Na praia construímos um castelo de areia.",
+   "pron": "CHTRANT — o 'st' soa 'scht' e o 'd' final soa 't'",
+   "curiosity": "'Strandkorb' é a cadeira-cesta coberta, típica das praias alemãs."
+  },
+  "pr16-04": {
+   "word": "die Wüste",
+   "translit": null,
+   "example": "Die Wüste ist am Tag heiß und nachts kalt.",
+   "examplePt": "O deserto é quente de dia e frio à noite.",
+   "pron": "VÜ-ste — o 'w' soa 'v'; o 'ü' é 'i' com lábios em 'u'",
+   "curiosity": "'Ein wüstes Durcheinander' é uma bagunça total: 'wüst' também é caótico."
+  },
+  "pr16-05": {
+   "word": "die Insel",
+   "translit": null,
+   "example": "Gibt es auf der Insel einen Leuchtturm?",
+   "examplePt": "Tem um farol na ilha?",
+   "pron": "IN-zel — o 's' entre vogais soa 'z'",
+   "curiosity": "A maior ilha da Alemanha é Rügen, no mar Báltico."
+  },
+  "pr16-06": {
+   "word": "der Vulkan",
+   "translit": null,
+   "example": "Der Vulkan spuckt Asche und Feuer.",
+   "examplePt": "O vulcão cospe cinzas e fogo.",
+   "pron": "vul-KAN — o 'v' soa 'v' e a força cai no 'kan'",
+   "curiosity": "'Vulkan' vem do nome de Vulcano, deus romano do fogo."
+  },
+  "pr16-07": {
+   "word": "das Meer",
+   "translit": null,
+   "example": "Hörst du das Meer rauschen?",
+   "examplePt": "Você ouve o mar sussurrar?",
+   "pron": "MÊR — o 'ee' é um 'ê' longo e o 'r' final é suave",
+   "curiosity": "'Meer' (mar) e 'mehr' (mais) soam iguais, mas se escrevem diferente."
+  },
+  "pr16-08": {
+   "word": "das Feld",
+   "translit": null,
+   "example": "Auf dem Feld wächst der Weizen.",
+   "examplePt": "No campo cresce o trigo.",
+   "pron": "FELT — o 'e' é aberto e o 'd' final soa 't'",
+   "curiosity": "'Feld' é campo de cultivo e também campo de jogo: 'Spielfeld'."
+  },
+  "pr17-01": {
+   "word": "der Frühling",
+   "translit": null,
+   "example": "Im Frühling blühen die Kirschbäume.",
+   "examplePt": "Na primavera as cerejeiras florescem.",
+   "pron": "FRÜ-ling — o 'ü' é um 'i' com lábios em 'u'",
+   "curiosity": "Na poesia, a primavera também se chama 'Lenz', uma palavra antiga."
+  },
+  "pr17-02": {
+   "word": "der Sommer",
+   "translit": null,
+   "example": "Im Sommer fahren wir ans Meer.",
+   "examplePt": "No verão vamos ao mar.",
+   "pron": "ZO-ma — o 's' inicial soa 'z'; o 'mm' vale um 'm' só",
+   "curiosity": "'Sommerzeit' é o horário de verão, quando se adianta o relógio."
+  },
+  "pr17-03": {
+   "word": "der Herbst",
+   "translit": null,
+   "example": "Im Herbst fallen bunte Blätter von den Bäumen.",
+   "examplePt": "No outono caem folhas coloridas das árvores.",
+   "pron": "RÉRPST — o 'h' é aspirado e o 'bst' sai tudo junto",
+   "curiosity": "'Herbst' e o inglês 'harvest' (colheita) são parentes!"
+  },
+  "pr17-04": {
+   "word": "der Winter",
+   "translit": null,
+   "example": "Im Winter bauen wir einen Schneemann.",
+   "examplePt": "No inverno construímos um boneco de neve.",
+   "pron": "VIN-ta — o 'w' soa 'v' e o 'er' final soa 'a'",
+   "curiosity": "'Winterschlaf' é a hibernação: o 'sono de inverno' dos ursos."
+  },
+  "pr17-05": {
+   "word": "der Morgen",
+   "translit": null,
+   "example": "Am Morgen trinke ich warme Milch.",
+   "examplePt": "De manhã eu bebo leite quente.",
+   "pron": "MÓR-guen — o 'r' vem da garganta e o 'g' é duro",
+   "curiosity": "'Morgen' é manhã e também 'amanhã': 'morgen früh' é amanhã cedo."
+  },
+  "pr17-06": {
+   "word": "die Nacht",
+   "translit": null,
+   "example": "Die Nacht war ruhig und sternenklar.",
+   "examplePt": "A noite foi calma e de céu estrelado.",
+   "pron": "NACHT — o 'ch' é áspero, como um 'rr' suave",
+   "curiosity": "'Gute Nacht' só se diz ao ir dormir; antes disso é 'Guten Abend'."
+  },
+  "pr17-07": {
+   "word": "die Woche",
+   "translit": null,
+   "example": "Wie viele Tage hat eine Woche?",
+   "examplePt": "Quantos dias tem uma semana?",
+   "pron": "VO-rre — o 'w' soa 'v' e o 'ch' é áspero",
+   "curiosity": "'In acht Tagen' (em oito dias) quer dizer 'daqui a uma semana'."
+  },
+  "pr17-08": {
+   "word": "der Monat",
+   "translit": null,
+   "example": "Welcher Monat hat nur achtundzwanzig Tage?",
+   "examplePt": "Qual mês tem só vinte e oito dias?",
+   "pron": "MÔ-nat — o 'o' é longo e o 't' final é claro",
+   "curiosity": "'Monat' vem de 'Mond' (lua): o mês era contado pelas fases da lua."
+  },
+  "pr18-01": {
+   "word": "groß",
+   "translit": null,
+   "example": "Das Haus ist wirklich groß!",
+   "examplePt": "A casa é muito grande!",
+   "pron": "GRÔS — o 'ß' soa 's' forte e o 'o' é longo",
+   "curiosity": "'Großartig' (ótimo, incrível) nasce de 'groß'."
+  },
+  "pr18-02": {
+   "word": "klein",
+   "translit": null,
+   "example": "Der Käfer ist winzig klein.",
+   "examplePt": "O besouro é minúsculo.",
+   "pron": "KLAIN — o 'ei' soa 'ai'; o 'k' é bem marcado",
+   "curiosity": "'Kleingeld' (dinheiro pequeno) são as moedas soltas."
+  },
+  "pr18-03": {
+   "word": "lang",
+   "translit": null,
+   "example": "Ihr Haar ist sehr lang.",
+   "examplePt": "O cabelo dela é muito comprido.",
+   "pron": "LANG — o 'ng' soa como em 'ring', sem 'g' forte",
+   "curiosity": "'Langweilig' (chato) vem de 'lange Weile': muito tempo para passar."
+  },
+  "pr18-04": {
+   "word": "kurz",
+   "translit": null,
+   "example": "Der Film war leider zu kurz.",
+   "examplePt": "O filme foi curto demais, infelizmente.",
+   "pron": "KURTS — o 'z' final soa 'ts' e o 'r' é suave",
+   "curiosity": "'Kurz und gut' (curto e bom) é o nosso 'enfim, resumindo'."
+  },
+  "pr18-05": {
+   "word": "schwer",
+   "translit": null,
+   "example": "Der Koffer ist heute viel zu schwer!",
+   "examplePt": "A mala hoje está pesada demais!",
+   "pron": "CHVÊR — o 'sch' é o 'ch' de 'chá' e o 'w' soa 'v'",
+   "curiosity": "'Schwer' é pesado e também difícil: 'eine schwere Aufgabe' é tarefa difícil."
+  },
+  "pr18-06": {
+   "word": "voll",
+   "translit": null,
+   "example": "Ist der Bus wieder so voll?",
+   "examplePt": "O ônibus está lotado de novo?",
+   "pron": "FOL — o 'v' soa 'f' e o 'll' vale um 'l' só",
+   "curiosity": "'Vollmond' é a lua cheia e 'Vollgas' é pisar fundo no acelerador."
+  },
+  "pr18-07": {
+   "word": "leer",
+   "translit": null,
+   "example": "Die Flasche war plötzlich leer.",
+   "examplePt": "A garrafa de repente estava vazia.",
+   "pron": "LÊR — o 'ee' é um 'ê' longo e o 'r' é suave",
+   "curiosity": "'Leer' (vazio) e 'lehren' (ensinar) soam parecidos; 'Lehrer' é professor."
+  },
+  "pr18-08": {
+   "word": "breit",
+   "translit": null,
+   "example": "Die Straße ist hier sehr breit.",
+   "examplePt": "A rua é muito larga aqui.",
+   "pron": "BRAIT — o 'ei' soa 'ai' e o 't' final é claro",
+   "curiosity": "O substantivo é 'die Breite' (largura), como 'die Länge' é comprimento."
+  },
+  "pr19-01": {
+   "word": "heiß",
+   "translit": null,
+   "example": "Vorsicht, die Suppe ist heiß!",
+   "examplePt": "Cuidado, a sopa está quente!",
+   "pron": "RAIS — o 'h' é aspirado; o 'ei' soa 'ai' e o 'ß' soa 's'",
+   "curiosity": "'Heiß' e 'heißen' se parecem: 'ich heiße' é 'eu me chamo'."
+  },
+  "pr19-02": {
+   "word": "kalt",
+   "translit": null,
+   "example": "Draußen ist es eiskalt.",
+   "examplePt": "Lá fora está gelado.",
+   "pron": "KALT — o 'a' é curto e o 't' final é claro",
+   "curiosity": "'Kalte Füße bekommen' (ficar com pés frios) é amarelar na hora H."
+  },
+  "pr19-03": {
+   "word": "neu",
+   "translit": null,
+   "example": "Ich habe ein neues Fahrrad bekommen.",
+   "examplePt": "Ganhei uma bicicleta nova.",
+   "pron": "NÓI — o 'eu' soa 'ói', como em 'bóia'",
+   "curiosity": "'Neu' aparece em 'Neuigkeit' (novidade) e 'Neujahr' (Ano-Novo)."
+  },
+  "pr19-04": {
+   "word": "alt",
+   "translit": null,
+   "example": "Wie alt bist du heute geworden?",
+   "examplePt": "Quantos anos você fez hoje?",
+   "pron": "ALT — o 'a' é curto e o 't' final é claro",
+   "curiosity": "Para a idade o alemão pergunta 'Wie alt bist du?': 'quão velho é você?'."
+  },
+  "pr19-05": {
+   "word": "schnell",
+   "translit": null,
+   "example": "Der Zug fährt heute besonders schnell.",
+   "examplePt": "O trem anda especialmente rápido hoje.",
+   "pron": "CHNEL — o 'sch' é o 'ch' de 'chá'; o 'll' vale um 'l' só",
+   "curiosity": "'Schnellimbiss' é a lanchonete de comida rápida."
+  },
+  "pr19-06": {
+   "word": "langsam",
+   "translit": null,
+   "example": "Die Schnecke ist wirklich langsam.",
+   "examplePt": "O caracol é mesmo lento.",
+   "pron": "LANG-zam — o 's' entre vogais soa 'z' e o 'ng' como em 'ring'",
+   "curiosity": "'Immer langsam mit den jungen Pferden!' é 'calma lá!'."
+  },
+  "pr19-07": {
+   "word": "sauber",
+   "translit": null,
+   "example": "Mein Zimmer ist endlich sauber!",
+   "examplePt": "Meu quarto está limpo, finalmente!",
+   "pron": "ZAU-ba — o 'au' soa como em 'mau' e o 'er' final soa 'a'",
+   "curiosity": "'Saubermachen' é fazer a limpeza da casa."
+  },
+  "pr19-08": {
+   "word": "schmutzig",
+   "translit": null,
+   "example": "Warum sind deine Schuhe so schmutzig?",
+   "examplePt": "Por que seus sapatos estão tão sujos?",
+   "pron": "CHMU-tsik — o 'tz' soa 'ts' e o 'ig' final soa 'ik' suave",
+   "curiosity": "'Schmutzfink' (tentilhão da sujeira) é quem vive se sujando."
+  },
+  "pr20-01": {
+   "word": "grau",
+   "translit": null,
+   "example": "Der Himmel ist heute ganz grau.",
+   "examplePt": "O céu hoje está todo cinza.",
+   "pron": "GRAU — o 'au' soa como em 'mau' e o 'r' vem da garganta",
+   "curiosity": "'Der graue Alltag' é a rotina cinzenta do dia a dia."
+  },
+  "pr20-02": {
+   "word": "golden",
+   "translit": null,
+   "example": "Die Sonne taucht alles in goldenes Licht.",
+   "examplePt": "O sol banha tudo em luz dourada.",
+   "pron": "GOL-den — o 'o' é curto e o 'd' é suave",
+   "curiosity": "'Die goldene Mitte' (o meio dourado) é o equilíbrio perfeito."
+  },
+  "pr20-03": {
+   "word": "silbern",
+   "translit": null,
+   "example": "Silberne Sterne glitzern am Himmel.",
+   "examplePt": "Estrelas prateadas cintilam no céu.",
+   "pron": "ZIL-bern — o 's' soa 'z' e o 'er' soa quase 'a'",
+   "curiosity": "'Silberhochzeit' são as bodas de prata, 25 anos de casamento."
+  },
+  "pr20-04": {
+   "word": "beige",
+   "translit": null,
+   "example": "Sie trägt einen beigen Mantel.",
+   "examplePt": "Ela usa um casaco bege.",
+   "pron": "BÊCH — vem do francês; termina num 'ch' suave (ou 'bêj')",
+   "curiosity": "Veio do francês: é uma das cores que o alemão pegou emprestadas."
+  },
+  "pr20-05": {
+   "word": "türkis",
+   "translit": null,
+   "example": "Das Wasser leuchtet türkis.",
+   "examplePt": "A água brilha em turquesa.",
+   "pron": "tür-KIS — o 'ü' é 'i' com lábios em 'u'; a força cai no 'kis'",
+   "curiosity": "'Türkis' é cor e pedra, e o nome lembra 'turco', de onde vinha a pedra."
+  },
+  "pr20-06": {
+   "word": "violett",
+   "translit": null,
+   "example": "Der Himmel wird abends violett.",
+   "examplePt": "O céu fica violeta à noite.",
+   "pron": "vi-o-LÉT — o 'v' soa 'v'; a força cai no 'lett'",
+   "curiosity": "'Veilchen' é a violeta, a flor que dá nome à cor."
+  },
+  "pr20-07": {
+   "word": "marineblau",
+   "translit": null,
+   "example": "Die Uniform ist marineblau.",
+   "examplePt": "O uniforme é azul-marinho.",
+   "pron": "ma-RI-ne-blau — o 'au' soa como em 'mau'",
+   "curiosity": "Composto de 'Marine' (marinha) + 'blau' (azul): a cor da farda naval."
+  },
+  "pr20-08": {
+   "word": "bunt",
+   "translit": null,
+   "example": "Auf dem Markt ist alles bunt.",
+   "examplePt": "No mercado tudo é colorido.",
+   "pron": "BUNT — o 'u' é curto e o 't' final é claro",
+   "curiosity": "'Ein bunter Abend' é uma noite de variedades, com música e shows."
+  },
+  "pr21-01": {
+   "word": "die Gitarre",
+   "translit": null,
+   "example": "Er spielte gestern Gitarre am Lagerfeuer.",
+   "examplePt": "Ele tocou violão ontem na fogueira.",
+   "pron": "gi-TA-re — o 'g' é duro e a força cai no 'ta'",
+   "curiosity": "O alemão só tem 'Gitarre' para violão e guitarra; a elétrica é 'E-Gitarre'."
+  },
+  "pr21-02": {
+   "word": "das Klavier",
+   "translit": null,
+   "example": "Sie übt jeden Tag Klavier.",
+   "examplePt": "Ela pratica piano todos os dias.",
+   "pron": "kla-VIR — o 'v' soa 'v' e o 'ie' é um 'i' longo",
+   "curiosity": "'Flügel' (asa) é o piano de cauda, com o tampo aberto como uma asa."
+  },
+  "pr21-03": {
+   "word": "das Schlagzeug",
+   "translit": null,
+   "example": "Das Schlagzeug dröhnt durch die ganze Straße.",
+   "examplePt": "A bateria ressoa pela rua inteira.",
+   "pron": "CHLAG-tsóik — o 'z' soa 'ts' e o 'eu' soa 'ói'",
+   "curiosity": "'Schlag' (batida) + 'Zeug' (equipamento): 'coisa de bater'."
+  },
+  "pr21-04": {
+   "word": "die Geige",
+   "translit": null,
+   "example": "Die Geige klang wunderschön im Saal.",
+   "examplePt": "O violino soou lindamente no salão.",
+   "pron": "GAI-ge — o 'ei' soa 'ai' e o 'g' é duro",
+   "curiosity": "'Die erste Geige spielen' é ser quem manda, tocar o primeiro violino."
+  },
+  "pr21-05": {
+   "word": "die Trompete",
+   "translit": null,
+   "example": "Die Trompete weckt alle am Morgen.",
+   "examplePt": "O trompete acorda todo mundo de manhã.",
+   "pron": "trom-PÊ-te — a força cai no 'pê' e o 'r' vem da garganta",
+   "curiosity": "O elefante também 'trompetet': o alemão usa o verbo 'trompeten' para ele."
+  },
+  "pr21-06": {
+   "word": "die Flöte",
+   "translit": null,
+   "example": "Lernst du schon lange Flöte?",
+   "examplePt": "Você aprende flauta há muito tempo?",
+   "pron": "FLÖ-te — o 'ö' é um 'é' com lábios em 'u'",
+   "curiosity": "'Flöten gehen' é gíria para algo que se perdeu: foi-se tocando flauta."
+  },
+  "pr21-07": {
+   "word": "das Saxofon",
+   "translit": null,
+   "example": "Das Saxofon klingt warm und weich.",
+   "examplePt": "O saxofone soa quente e suave.",
+   "pron": "zak-so-FÔN — o 'x' soa 'ks' e a força cai no 'fon'",
+   "curiosity": "Aceitam-se 'Saxofon' e 'Saxophon'; o instrumento foi inventado na Bélgica."
+  },
+  "pr21-08": {
+   "word": "das Akkordeon",
+   "translit": null,
+   "example": "Der Opa spielt Akkordeon auf dem Fest.",
+   "examplePt": "O vovô toca acordeão na festa.",
+   "pron": "a-KOR-de-on — o 'kk' vale um 'k' só; a força cai no 'kor'",
+   "curiosity": "O nome vem de 'Akkord' (acorde), porque o instrumento toca acordes."
+  },
+  "pr22-01": {
+   "word": "der Hammer",
+   "translit": null,
+   "example": "Der Hammer fällt mir auf den Daumen!",
+   "examplePt": "O martelo cai no meu polegar!",
+   "pron": "RA-ma — o 'h' é aspirado; o 'mm' vale um 'm'; o 'er' soa 'a'",
+   "curiosity": "'Das ist der Hammer!' é gíria para 'que demais!'."
+  },
+  "pr22-02": {
+   "word": "die Bohrmaschine",
+   "translit": null,
+   "example": "Die Bohrmaschine macht einen Höllenlärm.",
+   "examplePt": "A furadeira faz um barulho infernal.",
+   "pron": "BÔR-ma-CHI-ne — o 'sch' soa 'ch'; a força cai no 'chi'",
+   "curiosity": "'Löcher in den Bauch fragen' é perguntar sem parar (fazer furos na barriga)."
+  },
+  "pr22-03": {
+   "word": "die Schraube",
+   "translit": null,
+   "example": "Die Schraube sitzt nicht fest genug.",
+   "examplePt": "O parafuso não está firme o bastante.",
+   "pron": "CHRAU-be — o 'sch' é o 'ch' de 'chá' e o 'au' soa como 'mau'",
+   "curiosity": "'Bei dir ist eine Schraube locker' diz que alguém é meio doido, como em português."
+  },
+  "pr22-04": {
+   "word": "die Leiter",
+   "translit": null,
+   "example": "Halt die Leiter fest, bitte!",
+   "examplePt": "Segure a escada firme, por favor!",
+   "pron": "LAI-ta — o 'ei' soa 'ai' e o 'er' final soa 'a'",
+   "curiosity": "'Die Leiter' (escada) e 'der Leiter' (líder) são palavras iguais com artigos diferentes."
+  },
+  "pr22-05": {
+   "word": "der Pinsel",
+   "translit": null,
+   "example": "Der Pinsel ist noch nass von Farbe.",
+   "examplePt": "O pincel ainda está molhado de tinta.",
+   "pron": "PIN-zel — o 's' soa 'z' e o 'e' final é leve",
+   "curiosity": "O 'Pinsel' é masculino, mas a 'Bürste' (escova) é feminina."
+  },
+  "pr22-06": {
+   "word": "das Seil",
+   "translit": null,
+   "example": "Wir klettern am Seil nach oben.",
+   "examplePt": "Nós subimos escalando pela corda.",
+   "pron": "ZAIL — o 's' soa 'z' e o 'ei' soa 'ai'",
+   "curiosity": "'Seilbahn' é o teleférico, literalmente 'trilho de corda'."
+  },
+  "pr22-07": {
+   "word": "der Magnet",
+   "translit": null,
+   "example": "Der Magnet hält den Zettel am Kühlschrank.",
+   "examplePt": "O ímã segura o bilhete na geladeira.",
+   "pron": "ma-GNÊT — a força cai no 'gnêt' e o 'g' é duro",
+   "curiosity": "'Kühlschrankmagnet' é o ímã de geladeira, uma lembrancinha de viagem."
+  },
+  "pr22-08": {
+   "word": "der Eimer",
+   "translit": null,
+   "example": "Der Eimer ist randvoll mit Wasser.",
+   "examplePt": "O balde está cheio até a borda de água.",
+   "pron": "AI-ma — o 'ei' soa 'ai' e o 'er' final soa 'a'",
+   "curiosity": "'Es gießt wie aus Eimern' é chover a cântaros."
+  },
+  "pr23-01": {
+   "word": "der Computer",
+   "translit": null,
+   "example": "Mein Computer startet sehr langsam.",
+   "examplePt": "Meu computador liga muito devagar.",
+   "pron": "kom-PIU-ta — o 'u' soa 'iu' e o 'er' final soa 'a'",
+   "curiosity": "Também se diz 'Rechner', pois o computador 'rechnet' (calcula)."
+  },
+  "pr23-02": {
+   "word": "das Handy",
+   "translit": null,
+   "example": "Dein Handy klingelt schon wieder!",
+   "examplePt": "Seu celular está tocando de novo!",
+   "pron": "RÉN-di — o 'h' é aspirado; o 'y' soa 'i'",
+   "curiosity": "'Handy' parece inglês, mas nos EUA ninguém diz isso: é invenção alemã."
+  },
+  "pr23-03": {
+   "word": "die Tastatur",
+   "translit": null,
+   "example": "Die Tastatur klemmt an einer Stelle.",
+   "examplePt": "O teclado emperra em um ponto.",
+   "pron": "tas-ta-TUR — o 'st' soa 'st' aqui; a força cai no 'tur'",
+   "curiosity": "'Taste' é tecla e botão: 'Tastatur' é o conjunto de teclas."
+  },
+  "pr23-04": {
+   "word": "die Kamera",
+   "translit": null,
+   "example": "Hast du die Kamera dabei?",
+   "examplePt": "Você trouxe a câmera?",
+   "pron": "KA-me-ra — a força cai no 'ka' e o 'r' vem da garganta",
+   "curiosity": "'Kamera' vem do latim 'camera obscura', 'quarto escuro'."
+  },
+  "pr23-05": {
+   "word": "der Kopfhörer",
+   "translit": null,
+   "example": "Ohne Kopfhörer höre ich kaum etwas.",
+   "examplePt": "Sem fones eu quase não ouço nada.",
+   "pron": "KOPF-hö-ra — o 'pf' junta p e f; o 'ö' é 'é' com lábios em 'u'",
+   "curiosity": "'Kopf' (cabeça) + 'Hörer' (ouvinte): o 'ouvinte de cabeça'."
+  },
+  "pr23-06": {
+   "word": "der Drucker",
+   "translit": null,
+   "example": "Der Drucker hat schon wieder Papierstau.",
+   "examplePt": "A impressora engasgou o papel de novo.",
+   "pron": "DRU-ka — o 'ck' é um 'k' forte e o 'er' final soa 'a'",
+   "curiosity": "'Druck' é impressão e pressão: 'unter Druck' é sob pressão."
+  },
+  "pr23-07": {
+   "word": "der Roboter",
+   "translit": null,
+   "example": "Ein Roboter saugt jeden Morgen unser Wohnzimmer.",
+   "examplePt": "Um robô aspira nossa sala toda manhã.",
+   "pron": "RÔ-bo-ta — a força cai no 'rô' e o 'er' final soa 'a'",
+   "curiosity": "'Roboter' vem do tcheco 'robota', que significa trabalho pesado."
+  },
+  "pr23-08": {
+   "word": "das Ladekabel",
+   "translit": null,
+   "example": "Wo ist mein Ladekabel schon wieder?",
+   "examplePt": "Onde está meu carregador de novo?",
+   "pron": "LA-de-ka-bel — o 'a' é longo; a força cai no 'la'",
+   "curiosity": "'Laden' (carregar) + 'Kabel': o 'cabo de carregar'; 'Ladegerät' é o carregador."
+  },
+  "pr24-01": {
+   "word": "das Gehirn",
+   "translit": null,
+   "example": "Das Gehirn arbeitet auch im Schlaf.",
+   "examplePt": "O cérebro trabalha também durante o sono.",
+   "pron": "ge-RIRN — o 'h' alonga o 'i'; a força cai no 'hirn'",
+   "curiosity": "'Hirn' é a forma curta de 'Gehirn'; 'Hirnforschung' é pesquisa do cérebro."
+  },
+  "pr24-02": {
+   "word": "der Knochen",
+   "translit": null,
+   "example": "Welcher Knochen ist im Körper am längsten?",
+   "examplePt": "Qual osso é o mais longo do corpo?",
+   "pron": "KNÔ-rren — o 'k' soa antes do 'n'; o 'ch' é áspero",
+   "curiosity": "'Knochenarbeit' (trabalho de osso) é trabalho pesado e cansativo."
+  },
+  "pr24-03": {
+   "word": "der Muskel",
+   "translit": null,
+   "example": "Nach dem Training tut jeder Muskel weh.",
+   "examplePt": "Depois do treino cada músculo dói.",
+   "pron": "MUS-kel — o 'u' é curto e o 'k' é bem marcado",
+   "curiosity": "'Muskelkater' (gato do músculo) é a dor muscular do dia seguinte."
+  },
+  "pr24-04": {
+   "word": "das Haar",
+   "translit": null,
+   "example": "Ihr Haar glänzt in der Sonne.",
+   "examplePt": "O cabelo dela brilha ao sol.",
+   "pron": "RAR — o 'h' é aspirado e o 'aa' é um 'a' longo",
+   "curiosity": "'Mir stehen die Haare zu Berge' é 'fiquei de cabelo em pé'."
+  },
+  "pr24-05": {
+   "word": "der Fingernagel",
+   "translit": null,
+   "example": "Mein Fingernagel ist eingerissen, autsch!",
+   "examplePt": "Minha unha rachou, ai!",
+   "pron": "FIN-ga-na-guel — o 'ng' soa como em 'ring'; o 'er' soa 'a'",
+   "curiosity": "'Nägel mit Köpfen machen' (fazer unhas com cabeça) é fazer algo direito."
+  },
+  "pr24-06": {
+   "word": "das Knie",
+   "translit": null,
+   "example": "Mein Knie schmerzt beim Treppensteigen.",
+   "examplePt": "Meu joelho dói ao subir escadas.",
+   "pron": "KNI — o 'k' soa antes do 'n' e o 'ie' é um 'i' longo",
+   "curiosity": "'Etwas übers Knie brechen' é fazer algo às pressas, quebrando no joelho."
+  },
+  "pr24-07": {
+   "word": "der Finger",
+   "translit": null,
+   "example": "Welcher Finger ist der kleinste?",
+   "examplePt": "Qual dedo é o menor?",
+   "pron": "FIN-ga — o 'ng' soa como em 'ring'; o 'er' final soa 'a'",
+   "curiosity": "'Keinen Finger rühren' é não mexer um dedo, não ajudar em nada."
+  },
+  "pr24-08": {
+   "word": "die Lunge",
+   "translit": null,
+   "example": "Die Lunge füllt sich mit frischer Luft.",
+   "examplePt": "O pulmão se enche de ar fresco.",
+   "pron": "LUN-ge — o 'ng' soa como em 'ring'; o 'u' é curto",
+   "curiosity": "'Lungenentzündung' (inflamação do pulmão) é a pneumonia."
+  },
+  "pr25-01": {
+   "word": "die Impfung",
+   "translit": null,
+   "example": "Die Impfung tut nur kurz weh.",
+   "examplePt": "A vacina só dói um pouquinho.",
+   "pron": "IMP-fung — o 'pf' junta p e f; o 'ung' soa como 'un' nasal",
+   "curiosity": "'Impfpass' é a caderneta de vacinação."
+  },
+  "pr25-02": {
+   "word": "das Thermometer",
+   "translit": null,
+   "example": "Das Thermometer zeigt achtunddreißig Grad.",
+   "examplePt": "O termômetro marca trinta e oito graus.",
+   "pron": "ter-mo-MÊ-ta — o 'th' soa 't'; a força cai no 'mê'",
+   "curiosity": "Vem do grego: 'thermos' (calor) + 'metron' (medida)."
+  },
+  "pr25-03": {
+   "word": "das Pflaster",
+   "translit": null,
+   "example": "Gib mir bitte ein Pflaster für den Finger!",
+   "examplePt": "Me dá um curativo para o dedo, por favor!",
+   "pron": "PFLAS-ta — o 'pf' junta p e f; o 'er' final soa 'a'",
+   "curiosity": "'Pflaster' é curativo e também o calçamento de pedras da rua."
+  },
+  "pr25-04": {
+   "word": "die Grippe",
+   "translit": null,
+   "example": "Hast du dich mit der Grippe angesteckt?",
+   "examplePt": "Você pegou gripe?",
+   "pron": "GRI-pe — o 'pp' vale um 'p' só e o 'r' vem da garganta",
+   "curiosity": "Gripe é gripe mesmo; o resfriado comum se chama 'Erkältung'."
+  },
+  "pr25-05": {
+   "word": "der Husten",
+   "translit": null,
+   "example": "Dieser Husten lässt mich nachts nicht schlafen.",
+   "examplePt": "Esta tosse não me deixa dormir à noite.",
+   "pron": "RUS-ten — o 'h' é aspirado; o 'st' soa 'st' no meio",
+   "curiosity": "'Dem huste ich was' é gíria para 'nem pensar', 'não vou ajudar'."
+  },
+  "pr25-06": {
+   "word": "der Schmerz",
+   "translit": null,
+   "example": "Wo spürst du den Schmerz genau?",
+   "examplePt": "Onde exatamente você sente a dor?",
+   "pron": "CHMERTS — o 'sch' soa 'ch'; o 'z' final soa 'ts'",
+   "curiosity": "Usa-se mais o plural: 'Ich habe Schmerzen' é 'estou com dores'."
+  },
+  "pr25-07": {
+   "word": "die Krücken",
+   "translit": null,
+   "example": "Mit den Krücken komme ich kaum voran.",
+   "examplePt": "Com as muletas mal consigo avançar.",
+   "pron": "KRÜ-ken — o 'ü' é 'i' com lábios em 'u'; o 'ck' é um 'k' forte",
+   "curiosity": "Para muletas o alemão usa o plural: 'ein Paar Krücken'."
+  },
+  "pr25-08": {
+   "word": "das Stethoskop",
+   "translit": null,
+   "example": "Der Arzt hört mein Herz mit dem Stethoskop ab.",
+   "examplePt": "O médico ouve meu coração com o estetoscópio.",
+   "pron": "chte-to-SKÔP — o 'st' soa 'scht'; a força cai no 'skop'",
+   "curiosity": "Vem do grego: 'stethos' (peito) + 'skopein' (observar)."
+  },
+  "pr26-01": {
+   "word": "das Geld",
+   "translit": null,
+   "example": "Wie viel Geld hast du dabei?",
+   "examplePt": "Quanto dinheiro você tem aí?",
+   "pron": "GELT — o 'd' final soa 't' e o 'e' é aberto",
+   "curiosity": "Em alemão diz-se 'Geld sparen' para poupar e 'Geld ausgeben' para gastar dinheiro."
+  },
+  "pr26-02": {
+   "word": "die Münze",
+   "translit": null,
+   "example": "Ich werfe eine Münze in den Brunnen.",
+   "examplePt": "Jogo uma moeda na fonte.",
+   "pron": "MÜN-tse — 'ü' é um 'i' com lábios de 'u'; 'z' soa 'ts'",
+   "curiosity": "'Münze' vem do latim 'moneta', a mesma raiz de 'money' em inglês."
+  },
+  "pr26-03": {
+   "word": "die Kreditkarte",
+   "translit": null,
+   "example": "Kann ich mit Kreditkarte bezahlen?",
+   "examplePt": "Posso pagar com cartão de crédito?",
+   "pron": "kre-DIT-kar-te — o 'r' alemão é gutural, no fundo da garganta",
+   "curiosity": "Na Alemanha muita gente ainda prefere dinheiro vivo, e algumas lojas não aceitam cartão."
+  },
+  "pr26-04": {
+   "word": "die Geldbörse",
+   "translit": null,
+   "example": "Meine Geldbörse liegt auf dem Tisch.",
+   "examplePt": "Minha carteira está sobre a mesa.",
+   "pron": "GELT-bör-ze — 'ö' é um 'e' com lábios de 'o'; 's' vibra como 'z'",
+   "curiosity": "'Börse' também é bolsa de valores; 'Geldbörse' é literalmente 'bolsinha de dinheiro'."
+  },
+  "pr26-05": {
+   "word": "der Preis",
+   "translit": null,
+   "example": "Der Preis steht auf dem Schild.",
+   "examplePt": "O preço está na placa.",
+   "pron": "PRAIS — 'ei' soa 'ai' e o 's' final é surdo",
+   "curiosity": "'Preis' também significa prêmio: 'der erste Preis' é o primeiro prêmio."
+  },
+  "pr26-06": {
+   "word": "das Sparschwein",
+   "translit": null,
+   "example": "Mein Sparschwein ist fast voll!",
+   "examplePt": "Meu cofrinho está quase cheio!",
+   "pron": "SCHPAR-schvain — 'sp' soa 'schp', 'w' soa 'v', 'ei' soa 'ai'",
+   "curiosity": "Em alemão o cofrinho é um 'porco poupador': Sparschwein."
+  },
+  "pr26-07": {
+   "word": "der Rabatt",
+   "translit": null,
+   "example": "Gibt es heute einen Rabatt?",
+   "examplePt": "Hoje tem desconto?",
+   "pron": "ra-BAT — o 'tt' vale um 't' só; a força cai no fim",
+   "curiosity": "'Rabatt' é masculino (der Rabatt); 'Ermäßigung' é a palavra mais formal para desconto."
+  },
+  "pr26-08": {
+   "word": "der Kassenbon",
+   "translit": null,
+   "example": "Brauche ich den Kassenbon für den Umtausch?",
+   "examplePt": "Preciso do recibo para a troca?",
+   "pron": "KA-sen-bong — 'ss' é 's' surdo; 'bon' soa nasal, como no francês",
+   "curiosity": "'Bon' vem do francês e quer dizer vale; 'Kassenbon' é o papel que sai do caixa."
+  },
+  "pr27-01": {
+   "word": "der Schüler",
+   "translit": null,
+   "example": "Der Schüler hebt die Hand.",
+   "examplePt": "O aluno levanta a mão.",
+   "pron": "SCHÜ-ler — 'sch' soa 'x' e 'ü' é 'i' com lábios de 'u'",
+   "curiosity": "'Schüler' é quem vai à escola; quem estuda na universidade é 'Student'."
+  },
+  "pr27-02": {
+   "word": "die Unterrichtsstunde",
+   "translit": null,
+   "example": "Wann beginnt die Unterrichtsstunde?",
+   "examplePt": "Quando começa a aula?",
+   "pron": "UN-ter-rikhts-schtun-de — 'ch' suave como um sopro; 'st' soa 'scht'",
+   "curiosity": "Uma 'Stunde' escolar dura 45 minutos, bem menos que a hora do relógio."
+  },
+  "pr27-03": {
+   "word": "die Prüfung",
+   "translit": null,
+   "example": "Die Prüfung war leichter als gedacht.",
+   "examplePt": "A prova foi mais fácil do que pensei.",
+   "pron": "PRÜ-fung — 'ü' é um 'i' com lábios de 'u'; o 'ng' é nasal",
+   "curiosity": "Quem passa na prova 'besteht die Prüfung'; quem repete 'fällt durch'."
+  },
+  "pr27-04": {
+   "word": "die Tafel",
+   "translit": null,
+   "example": "Der Lehrer schreibt an die Tafel.",
+   "examplePt": "O professor escreve no quadro.",
+   "pron": "TÁ-fel — 'a' longo; o 'f' é como em português",
+   "curiosity": "'Tafel' também é tablete: 'eine Tafel Schokolade' é uma barra de chocolate."
+  },
+  "pr27-05": {
+   "word": "das Wörterbuch",
+   "translit": null,
+   "example": "Ich suche das Wort im Wörterbuch.",
+   "examplePt": "Procuro a palavra no dicionário.",
+   "pron": "VÖR-ter-bukh — 'w' soa 'v'; 'ö' é 'e' com lábios de 'o'",
+   "curiosity": "'Wörterbuch' junta 'Wörter' (palavras) e 'Buch' (livro): livro de palavras."
+  },
+  "pr27-06": {
+   "word": "das Diplom",
+   "translit": null,
+   "example": "Sie bekommt das Diplom im Sommer.",
+   "examplePt": "Ela recebe o diploma no verão.",
+   "pron": "di-PLÔM — a força cai no fim e o 'o' é longo",
+   "curiosity": "Na Alemanha, 'Diplom' era o título clássico das engenharias antes das reformas de Bolonha."
+  },
+  "pr27-07": {
+   "word": "die Mathematik",
+   "translit": null,
+   "example": "Die Mathematik fällt ihm leicht.",
+   "examplePt": "A matemática é fácil para ele.",
+   "pron": "ma-te-ma-TIK — 'th' soa como 't' e a força cai no 'tik'",
+   "curiosity": "Na escola chama-se só 'Mathe': 'Wir haben jetzt Mathe!'."
+  },
+  "pr27-08": {
+   "word": "die Wissenschaft",
+   "translit": null,
+   "example": "Die Wissenschaft erklärt den Regenbogen.",
+   "examplePt": "A ciência explica o arco-íris.",
+   "pron": "VI-sen-schaft — 'w' soa 'v'; 'ss' é 's' surdo; 'sch' soa 'x'",
+   "curiosity": "'Wissen' é saber e 'schaffen' é criar: 'Wissenschaft' é literalmente 'criar saber'."
+  },
+  "pr28-01": {
+   "word": "das Gemälde",
+   "translit": null,
+   "example": "Dieses Gemälde hängt im Museum.",
+   "examplePt": "Este quadro está pendurado no museu.",
+   "pron": "ge-MÉL-de — 'ä' soa como 'é' aberto",
+   "curiosity": "'Gemälde' vem de 'malen' (pintar); 'Maler' é quem pinta, seja arte ou parede."
+  },
+  "pr28-02": {
+   "word": "die Zeichnung",
+   "translit": null,
+   "example": "Wer hat diese Zeichnung gemacht?",
+   "examplePt": "Quem fez este desenho?",
+   "pron": "TSAI-khnung — 'z' soa 'ts'; 'ei' soa 'ai'; 'ch' é um sopro suave",
+   "curiosity": "'Zeichnung' também é desenho técnico de engenharia e arquitetura."
+  },
+  "pr28-03": {
+   "word": "die Skulptur",
+   "translit": null,
+   "example": "Die Skulptur steht mitten im Park.",
+   "examplePt": "A escultura fica no meio do parque.",
+   "pron": "skulp-TUR — a força cai no fim; 'u' longo no final",
+   "curiosity": "'Skulptur' e 'Plastik' são sinônimos para escultura em alemão."
+  },
+  "pr28-04": {
+   "word": "das Theater",
+   "translit": null,
+   "example": "Heute Abend gehen wir ins Theater.",
+   "examplePt": "Hoje à noite vamos ao teatro.",
+   "pron": "te-Á-ter — 'th' soa 't'; o 'r' final vira quase um 'a'",
+   "curiosity": "'Theater machen' também quer dizer fazer drama ou escândalo por pouca coisa."
+  },
+  "pr28-05": {
+   "word": "die Musik",
+   "translit": null,
+   "example": "Die Musik ist viel zu laut!",
+   "examplePt": "A música está alta demais!",
+   "pron": "mu-ZIK — o 's' entre vogais soa 'z'; a força cai no fim",
+   "curiosity": "Na Alemanha, muitas escolas de música (Musikschulen) são municipais e acessíveis."
+  },
+  "pr28-06": {
+   "word": "der Tanz",
+   "translit": null,
+   "example": "Nach dem Tanz sind alle müde.",
+   "examplePt": "Depois da dança todos estão cansados.",
+   "pron": "TANTS — o 'z' final soa 'ts'",
+   "curiosity": "'Tanzen' é dançar; 'Tanz' vira 'Tanzfläche' (pista de dança) e 'Tanzschule'."
+  },
+  "pr28-07": {
+   "word": "der Film",
+   "translit": null,
+   "example": "Welcher Film läuft heute im Kino?",
+   "examplePt": "Que filme está passando hoje no cinema?",
+   "pron": "FILM — o 'l' é pronunciado antes do 'm', sem 'u'",
+   "curiosity": "Em alemão um filme 'läuft' (corre) no cinema, não 'é passado'."
+  },
+  "pr28-08": {
+   "word": "das Gedicht",
+   "translit": null,
+   "example": "Sie liest ein Gedicht vor.",
+   "examplePt": "Ela lê um poema em voz alta.",
+   "pron": "ge-DIKHT — 'ch' é um sopro suave, e 'ie' não existe aqui",
+   "curiosity": "'Gedicht' é neutro; já 'dichten' significa compor versos."
+  },
+  "pr29-01": {
+   "word": "der Planet",
+   "translit": null,
+   "example": "Jeder Planet kreist um die Sonne.",
+   "examplePt": "Cada planeta gira em torno do sol.",
+   "pron": "pla-NÊT — 'e' longo e fechado; a força cai no fim",
+   "curiosity": "'Planet' vem do grego 'planetes', que significa 'errante'."
+  },
+  "pr29-02": {
+   "word": "die Rakete",
+   "translit": null,
+   "example": "Die Rakete startet in zehn Sekunden.",
+   "examplePt": "O foguete decola em dez segundos.",
+   "pron": "ra-KÊ-te — o 'e' final soa fraco, quase 'e' mudo",
+   "curiosity": "'Rakete' também é o nome do fogo de artifício que sobe e explode no ar."
+  },
+  "pr29-03": {
+   "word": "der Astronaut",
+   "translit": null,
+   "example": "Der Astronaut schwebt in der Raumstation.",
+   "examplePt": "O astronauta flutua na estação espacial.",
+   "pron": "as-tro-NAUT — 'au' soa 'au' e a força cai no fim",
+   "curiosity": "'Raum' é espaço e 'Raumfahrer' é um sinônimo de astronauta."
+  },
+  "pr29-04": {
+   "word": "das Teleskop",
+   "translit": null,
+   "example": "Mit dem Teleskop sehen wir den Mond.",
+   "examplePt": "Com o telescópio vemos a lua.",
+   "pron": "te-le-SKÓP — o 'o' final é longo e fechado",
+   "curiosity": "'Tele' é 'longe' em grego: 'Telefon' e 'Teleskop' partilham essa raiz."
+  },
+  "pr29-05": {
+   "word": "die Galaxie",
+   "translit": null,
+   "example": "Unsere Galaxie heißt Milchstraße.",
+   "examplePt": "Nossa galáxia se chama Via Láctea.",
+   "pron": "ga-la-KSI — o 'x' soa 'ks' e o 'ie' final é 'i' longo",
+   "curiosity": "A Via Láctea em alemão é 'Milchstraße', literalmente 'rua do leite'."
+  },
+  "pr29-06": {
+   "word": "der Komet",
+   "translit": null,
+   "example": "Siehst du den Kometen am Himmel?",
+   "examplePt": "Você vê o cometa no céu?",
+   "pron": "ko-MÊT — 'e' longo e fechado; a força cai no fim",
+   "curiosity": "'Komet' é masculino fraco: no acusativo vira 'den Kometen'."
+  },
+  "pr29-07": {
+   "word": "der Satellit",
+   "translit": null,
+   "example": "Der Satellit sendet Bilder zur Erde.",
+   "examplePt": "O satélite manda imagens para a Terra.",
+   "pron": "za-te-LIT — o 's' inicial soa 'z'; a força cai no fim",
+   "curiosity": "Em alemão o som do 's' no começo da palavra sempre é um 'z' vibrado."
+  },
+  "pr29-08": {
+   "word": "die Sonnenfinsternis",
+   "translit": null,
+   "example": "Die Sonnenfinsternis dauert nur Minuten.",
+   "examplePt": "O eclipse solar dura só minutos.",
+   "pron": "ZO-nen-fin-ster-nis — 's' inicial soa 'z'; 'nn' é um 'n' só",
+   "curiosity": "'Finsternis' é escuridão: a palavra é literalmente 'escuridão do sol'."
+  },
+  "pr30-01": {
+   "word": "der Müll",
+   "translit": null,
+   "example": "Wohin kommt der Müll?",
+   "examplePt": "Para onde vai o lixo?",
+   "pron": "MÜL — 'ü' é um 'i' com lábios de 'u'",
+   "curiosity": "Na Alemanha o lixo é separado em várias lixeiras de cores diferentes."
+  },
+  "pr30-02": {
+   "word": "das Recycling",
+   "translit": null,
+   "example": "Recycling hilft der Umwelt.",
+   "examplePt": "A reciclagem ajuda o meio ambiente.",
+   "pron": "ri-SAI-kling — o 'y' soa 'ai' como em inglês",
+   "curiosity": "'Recycling' foi emprestado do inglês, mas 'Wiederverwertung' também existe."
+  },
+  "pr30-03": {
+   "word": "die Energie",
+   "translit": null,
+   "example": "Die Energie kommt aus Wind und Sonne.",
+   "examplePt": "A energia vem do vento e do sol.",
+   "pron": "e-ner-GUI — o 'g' é duro e o 'ie' final é 'i' longo",
+   "curiosity": "'Energiewende' é a palavra alemã para a transição para energias limpas."
+  },
+  "pr30-04": {
+   "word": "die Luftverschmutzung",
+   "translit": null,
+   "example": "Die Luftverschmutzung macht uns krank.",
+   "examplePt": "A poluição nos deixa doentes.",
+   "pron": "LUFT-fer-schmu-tsung — 'v' soa 'f'; 'sch' soa 'x'; 'tz' soa 'ts'",
+   "curiosity": "'Luft' é ar e 'verschmutzen' é sujar: 'Luftverschmutzung' é 'sujeira do ar'."
+  },
+  "pr30-05": {
+   "word": "das Erdöl",
+   "translit": null,
+   "example": "Das Erdöl steckt unter dem Meeresboden.",
+   "examplePt": "O petróleo está sob o fundo do mar.",
+   "pron": "ÉRT-öl — 'd' soa 't'; 'ö' é 'e' com lábios de 'o'",
+   "curiosity": "'Erdöl' é 'óleo da terra': 'Erde' (terra) mais 'Öl' (óleo)."
+  },
+  "pr30-06": {
+   "word": "die Solaranlage",
+   "translit": null,
+   "example": "Die Solaranlage steht auf dem Dach.",
+   "examplePt": "O painel solar fica no telhado.",
+   "pron": "zo-LAR-an-la-ge — 'o' fechado e 'g' duro",
+   "curiosity": "'Solar' vem do latim; o 'Sonnenkollektor' é o coletor de calor, diferente do painel."
+  },
+  "pr30-07": {
+   "word": "das Plastik",
+   "translit": null,
+   "example": "Plastik braucht sehr lange zum Zerfallen.",
+   "examplePt": "O plástico leva muito tempo para se decompor.",
+   "pron": "PLÁS-tik — a força cai no 'plas'",
+   "curiosity": "As sacolas plásticas finas são proibidas nas lojas alemãs desde 2022."
+  },
+  "pr30-08": {
+   "word": "das Metall",
+   "translit": null,
+   "example": "Dieses Metall ist leicht und stark.",
+   "examplePt": "Este metal é leve e forte.",
+   "pron": "me-TAL — a força cai no fim; 'a' curto",
+   "curiosity": "'Metall' é neutro, e 'Schwermetall' é metal pesado."
+  },
+  "pr31-01": {
+   "word": "die Säge",
+   "translit": null,
+   "example": "Mit der Säge schneide ich das Brett.",
+   "examplePt": "Com a serra corto a tábua.",
+   "pron": "ZÊ-ge — 'ä' soa 'ê' longo; 'g' duro",
+   "curiosity": "'Sägen' também é serrar; e 'sägen' pode ser roncar, na gíria!"
+  },
+  "pr31-02": {
+   "word": "der Schraubenschlüssel",
+   "translit": null,
+   "example": "Reichst du mir den Schraubenschlüssel?",
+   "examplePt": "Você me passa a chave inglesa?",
+   "pron": "SCHRAU-ben-schlüs-sel — 'sch' soa 'x'; 'au' soa 'au'; 'ü' soa 'i' arredondado",
+   "curiosity": "'Schlüssel' é chave, e 'Schraube' é parafuso: a chave de parafuso!"
+  },
+  "pr31-03": {
+   "word": "die Zange",
+   "translit": null,
+   "example": "Die Zange hält den Draht fest.",
+   "examplePt": "O alicate segura o fio.",
+   "pron": "TSAN-ge — 'z' soa 'ts'; o 'ng' é nasal",
+   "curiosity": "'Zange' é alicate e também pinça; a de sobrancelha chama-se 'Pinzette'."
+  },
+  "pr31-04": {
+   "word": "das Maßband",
+   "translit": null,
+   "example": "Messen wir es mit dem Maßband!",
+   "examplePt": "Vamos medir com a trena!",
+   "pron": "MÁSS-bant — o 'ß' é um 's' longo e surdo; 'd' final soa 't'",
+   "curiosity": "'Maß' é medida; 'Maßband' é literalmente 'fita de medida'."
+  },
+  "pr31-05": {
+   "word": "der Kleber",
+   "translit": null,
+   "example": "Der Kleber trocknet in einer Stunde.",
+   "examplePt": "A cola seca em uma hora.",
+   "pron": "KLÊ-ber — 'e' longo; o 'r' final é quase um 'a'",
+   "curiosity": "'Kleben' é colar; 'Klebstoff' é a palavra técnica para cola."
+  },
+  "pr31-06": {
+   "word": "die Spitzhacke",
+   "translit": null,
+   "example": "Mit der Spitzhacke brechen sie den Stein.",
+   "examplePt": "Com a picareta eles quebram a pedra.",
+   "pron": "SCHPITS-ha-ke — 'sp' soa 'schp'; 'tz' soa 'ts'",
+   "curiosity": "'Spitz' é pontudo e 'Hacke' é enxada: 'Spitzhacke' é enxada pontuda."
+  },
+  "pr31-07": {
+   "word": "der Besen",
+   "translit": null,
+   "example": "Wo steht der Besen?",
+   "examplePt": "Onde está a vassoura?",
+   "pron": "BÊ-zen — 'e' longo; o 's' entre vogais soa 'z'",
+   "curiosity": "Em alemão a vassoura é masculina: 'der Besen', e 'kehren' é varrer."
+  },
+  "pr31-08": {
+   "word": "die Farbe",
+   "translit": null,
+   "example": "Die Farbe ist noch nass.",
+   "examplePt": "A tinta ainda está molhada.",
+   "pron": "FAR-be — 'r' gutural; o 'e' final é fraco",
+   "curiosity": "'Farbe' quer dizer tanto cor quanto tinta: 'rote Farbe' pode ser as duas coisas."
+  },
+  "pr32-01": {
+   "word": "die Pfanne",
+   "translit": null,
+   "example": "In der Pfanne brutzeln die Eier.",
+   "examplePt": "Os ovos chiam na frigideira.",
+   "pron": "PFA-ne — 'pf' é um 'p' e um 'f' juntos",
+   "curiosity": "Um bom truque: 'pf' no começo exige soltar o 'p' e sem pausa o 'f'."
+  },
+  "pr32-02": {
+   "word": "der Wasserkocher",
+   "translit": null,
+   "example": "Der Wasserkocher klickt von selbst aus.",
+   "examplePt": "A chaleira desliga sozinha.",
+   "pron": "VA-ser-ko-kher — 'w' soa 'v'; 'ch' é um sopro suave",
+   "curiosity": "'Wasserkocher' é 'cozedor de água': tudo numa palavra só, como é típico no alemão."
+  },
+  "pr32-03": {
+   "word": "der Mixer",
+   "translit": null,
+   "example": "Der Mixer macht einen Riesenlärm!",
+   "examplePt": "O liquidificador faz um barulhão!",
+   "pron": "MI-ksa — 'x' soa 'ks' e o 'er' final é quase 'a'",
+   "curiosity": "'Mixer' veio do inglês, mas o 'x' é pronunciado igual ao original."
+  },
+  "pr32-04": {
+   "word": "die Schürze",
+   "translit": null,
+   "example": "Eine Schürze schützt vor Flecken.",
+   "examplePt": "Um avental protege contra manchas.",
+   "pron": "SCHÜR-tse — 'sch' soa 'x'; 'ü' é um 'i' arredondado; 'z' soa 'ts'",
+   "curiosity": "'Schürzenjäger' é, de brincadeira, um galanteador: um 'caçador de aventais'."
+  },
+  "pr32-05": {
+   "word": "der Schwamm",
+   "translit": null,
+   "example": "Der Schwamm saugt viel Wasser auf.",
+   "examplePt": "A esponja absorve muita água.",
+   "pron": "SCHVAM — 'sch' soa 'x'; 'w' soa 'v'",
+   "curiosity": "'Schwamm drüber!' é uma expressão para dizer 'vamos esquecer isso'."
+  },
+  "pr32-06": {
+   "word": "der Mülleimer",
+   "translit": null,
+   "example": "Wirf das Papier in den Mülleimer!",
+   "examplePt": "Jogue o papel na lixeira!",
+   "pron": "MÜL-ai-mer — 'ü' soa 'i' arredondado; 'ei' soa 'ai'",
+   "curiosity": "'Eimer' é balde: 'Mülleimer' é literalmente 'balde de lixo'."
+  },
+  "pr32-07": {
+   "word": "der Krug",
+   "translit": null,
+   "example": "Der Krug steht voll Wasser auf dem Tisch.",
+   "examplePt": "A jarra cheia de água está sobre a mesa.",
+   "pron": "KRUK — 'u' longo; o 'g' final soa 'k'",
+   "curiosity": "'Krug' também é o nome de uma caneca grande de cerveja ou de suco."
+  },
+  "pr32-08": {
+   "word": "die Reibe",
+   "translit": null,
+   "example": "Mit der Reibe raspelst du den Käse.",
+   "examplePt": "Com o ralador você rala o queijo.",
+   "pron": "RAI-be — 'ei' soa 'ai'; o 'e' final é fraco",
+   "curiosity": "'Reibe' vem de 'reiben' (esfregar, ralar); 'Reibung' é atrito."
+  },
+  "pr33-01": {
+   "word": "die Feldflasche",
+   "translit": null,
+   "example": "Die Feldflasche ist randvoll mit Tee.",
+   "examplePt": "O cantil está cheio de chá.",
+   "pron": "FELT-fla-sche — 'd' soa 't'; 'sch' soa 'x'",
+   "curiosity": "'Feld' é campo: 'Feldflasche' é a garrafa que se leva para o campo."
+  },
+  "pr33-02": {
+   "word": "das Zelt",
+   "translit": null,
+   "example": "Wir bauen das Zelt am See auf.",
+   "examplePt": "Armamos a barraca à beira do lago.",
+   "pron": "TSELT — 'z' soa 'ts' e o 'e' é aberto",
+   "curiosity": "'Zelten' é acampar; 'zelten gehen' é o jeito de dizer 'ir acampar'."
+  },
+  "pr33-03": {
+   "word": "das Lagerfeuer",
+   "translit": null,
+   "example": "Am Lagerfeuer singen wir alle.",
+   "examplePt": "Na fogueira todos nós cantamos.",
+   "pron": "LÁ-ger-foi-er — 'eu' soa 'ói'; o 'g' é duro",
+   "curiosity": "'Lager' pode ser acampamento, depósito ou até cama, dependendo do contexto."
+  },
+  "pr33-04": {
+   "word": "das Fernglas",
+   "translit": null,
+   "example": "Mit dem Fernglas sehe ich den Adler.",
+   "examplePt": "Com o binóculo vejo a águia.",
+   "pron": "FERN-glás — 'e' aberto; 'gl' juntos",
+   "curiosity": "'Fern' é longe e 'Glas' é vidro: o 'vidro para longe'."
+  },
+  "pr33-05": {
+   "word": "das Kanu",
+   "translit": null,
+   "example": "Das Kanu gleitet über den Fluss.",
+   "examplePt": "A canoa desliza sobre o rio.",
+   "pron": "KA-nu — a força cai no 'ka'",
+   "curiosity": "'Kanu' é neutro; 'Kanufahren' é a atividade de remar de canoa."
+  },
+  "pr33-06": {
+   "word": "der Wanderweg",
+   "translit": null,
+   "example": "Der Wanderweg führt durch den Wald.",
+   "examplePt": "A trilha passa pela floresta.",
+   "pron": "VAN-der-vêk — 'w' soa 'v'; o 'g' final soa 'k'",
+   "curiosity": "'Wandern' é caminhar por prazer, um passatempo muito querido na Alemanha."
+  },
+  "pr33-07": {
+   "word": "der Anker",
+   "translit": null,
+   "example": "Der Anker sinkt auf den Grund.",
+   "examplePt": "A âncora afunda até o fundo.",
+   "pron": "AN-ker — 'a' curto; 'r' final quase 'a'",
+   "curiosity": "'Vor Anker gehen' quer dizer ancorar, e também se fixar em algum lugar."
+  },
+  "pr33-08": {
+   "word": "die Sonnencreme",
+   "translit": null,
+   "example": "Vergiss die Sonnencreme nicht!",
+   "examplePt": "Não esqueça o protetor solar!",
+   "pron": "ZO-nen-krêm — 's' inicial soa 'z'; 'e' longo no fim",
+   "curiosity": "'Sonnenbrand' é a queimadura de sol que a Sonnencreme evita."
+  },
+  "pr34-01": {
+   "word": "der Tretroller",
+   "translit": null,
+   "example": "Der Tretroller steht vor der Haustür.",
+   "examplePt": "O patinete está diante da porta.",
+   "pron": "TRÊ-tro-ler — 'e' longo; 'r' gutural",
+   "curiosity": "'Roller' também é scooter com motor; o de pé é o 'Tretroller'."
+  },
+  "pr34-02": {
+   "word": "der Traktor",
+   "translit": null,
+   "example": "Der Traktor zieht den Anhänger.",
+   "examplePt": "O trator puxa o reboque.",
+   "pron": "TRAK-tor — o 'o' final é longo e a força cai no 'trak'",
+   "curiosity": "'Traktor' vem do latim 'trahere' (puxar): trator é quem puxa."
+  },
+  "pr34-03": {
+   "word": "das Schiff",
+   "translit": null,
+   "example": "Das Schiff verlässt den Hafen.",
+   "examplePt": "O navio deixa o porto.",
+   "pron": "SCHIF — 'sch' soa 'x' e o 'ff' vale um 'f'",
+   "curiosity": "'Schiff' é neutro; um pequeno barco é 'Boot'."
+  },
+  "pr34-04": {
+   "word": "die Seilbahn",
+   "translit": null,
+   "example": "Die Seilbahn fährt auf den Berg.",
+   "examplePt": "O teleférico sobe a montanha.",
+   "pron": "ZAIL-ban — 'ei' soa 'ai'; 'b' normal",
+   "curiosity": "'Seil' é corda: a 'Seilbahn' é um 'caminho de cabo'."
+  },
+  "pr34-05": {
+   "word": "der Schnellzug",
+   "translit": null,
+   "example": "Der Schnellzug hält nicht in jedem Ort.",
+   "examplePt": "O trem rápido não para em todo lugar.",
+   "pron": "SCHNEL-tsug — 'sch' soa 'x'; 'z' soa 'ts'",
+   "curiosity": "'Schnell' é rápido e 'Zug' é trem: tudo se junta numa palavra só."
+  },
+  "pr34-06": {
+   "word": "das Skateboard",
+   "translit": null,
+   "example": "Das Skateboard rollt über den Platz.",
+   "examplePt": "O skate rola pela praça.",
+   "pron": "SKÊIT-bord — o 'sk' é pronunciado como em inglês",
+   "curiosity": "Palavras esportivas inglesas entram no alemão quase sem mudança."
+  },
+  "pr34-07": {
+   "word": "der Schlitten",
+   "translit": null,
+   "example": "Die Kinder fahren Schlitten im Schnee.",
+   "examplePt": "As crianças andam de trenó na neve.",
+   "pron": "SCHLI-ten — 'sch' soa 'x'; o 'tt' vale um 't'",
+   "curiosity": "'Schlittenfahren' (andar de trenó) é um passatempo de inverno em toda a Alemanha."
+  },
+  "pr34-08": {
+   "word": "die Straßenbahn",
+   "translit": null,
+   "example": "Die Straßenbahn kommt in drei Minuten.",
+   "examplePt": "O bonde chega em três minutos.",
+   "pron": "SCHTRA-sen-ban — 'st' soa 'scht'; 'ß' é um 's' longo",
+   "curiosity": "'Bahn' é trilho; 'Straßenbahn' é o trem da rua, que anda entre os carros."
+  },
+  "pr35-01": {
+   "word": "die Maus",
+   "translit": null,
+   "example": "Klick mit der Maus auf das Symbol!",
+   "examplePt": "Clique com o mouse no ícone!",
+   "pron": "MAUS — 'au' soa 'au'; o 's' é surdo",
+   "curiosity": "O mouse do computador também se chama 'Maus', como o bichinho."
+  },
+  "pr35-02": {
+   "word": "das WLAN",
+   "translit": null,
+   "example": "Wie lautet das WLAN-Passwort?",
+   "examplePt": "Qual é a senha do wi-fi?",
+   "pron": "VÊ-lan — o 'W' soa 'v' e o 'LAN' soa 'lan'",
+   "curiosity": "'WLAN' é a sigla alemã para 'wireless LAN', a rede sem fio."
+  },
+  "pr35-03": {
+   "word": "die App",
+   "translit": null,
+   "example": "Diese App ist gratis.",
+   "examplePt": "Este aplicativo é gratuito.",
+   "pron": "ÉP — leia como em inglês, com 'é' aberto",
+   "curiosity": "'App' é feminino em alemão: 'die App', embora venha de 'Application'."
+  },
+  "pr35-04": {
+   "word": "die Nachricht",
+   "translit": null,
+   "example": "Ich habe deine Nachricht gelesen.",
+   "examplePt": "Li a sua mensagem.",
+   "pron": "NAKH-rikht — 'ch' duas vezes: o primeiro raspado, o segundo suave",
+   "curiosity": "'Nachricht' também é notícia: 'die Nachrichten' é o telejornal."
+  },
+  "pr35-05": {
+   "word": "die Datei",
+   "translit": null,
+   "example": "Speicher die Datei auf dem Desktop!",
+   "examplePt": "Salve o arquivo na área de trabalho!",
+   "pron": "da-TAI — 'ei' soa 'ai'; a força cai no fim",
+   "curiosity": "'Datei' vem de 'Daten' (dados); 'Dateiname' é o nome do arquivo."
+  },
+  "pr35-06": {
+   "word": "der USB-Stick",
+   "translit": null,
+   "example": "Der USB-Stick steckt im Laptop.",
+   "examplePt": "O pen drive está no notebook.",
+   "pron": "u-es-BÊ-schtik — 'st' soa 'scht'; as letras USB se lêem em alemão",
+   "curiosity": "'Stick' é graveto em inglês, mas em alemão é o pen drive."
+  },
+  "pr35-07": {
+   "word": "die Webseite",
+   "translit": null,
+   "example": "Die Webseite lädt sehr langsam.",
+   "examplePt": "O site carrega muito devagar.",
+   "pron": "VÉP-zai-te — 'w' soa 'v'; 'ei' soa 'ai'",
+   "curiosity": "'Seite' quer dizer página e lado: 'auf der einen Seite' é 'por um lado'."
+  },
+  "pr35-08": {
+   "word": "die Drohne",
+   "translit": null,
+   "example": "Die Drohne filmt das Feld von oben.",
+   "examplePt": "O drone filma o campo de cima.",
+   "pron": "DRÔ-ne — 'o' longo e fechado",
+   "curiosity": "'Drohne' também é o zangão das abelhas, o macho da colmeia."
+  },
+  "pr36-01": {
+   "word": "die Krawatte",
+   "translit": null,
+   "example": "Er trägt eine rote Krawatte.",
+   "examplePt": "Ele usa uma gravata vermelha.",
+   "pron": "kra-VA-te — 'w' soa 'v'; o 'tt' vale um 't'",
+   "curiosity": "'Krawatte' vem de 'Kroat' (croata): soldados croatas usavam lenços no pescoço."
+  },
+  "pr36-02": {
+   "word": "der Schal",
+   "translit": null,
+   "example": "Im Winter wickle ich den Schal um den Hals.",
+   "examplePt": "No inverno enrolo o cachecol no pescoço.",
+   "pron": "SCHAL — 'sch' soa 'x'; 'a' longo",
+   "curiosity": "'Schal' é masculino em alemão, mas 'der Schal' e 'die Schals' no plural."
+  },
+  "pr36-03": {
+   "word": "die Shorts",
+   "translit": null,
+   "example": "Bei dieser Hitze trage ich Shorts.",
+   "examplePt": "Com este calor uso bermuda.",
+   "pron": "SCHÓRTS — 'sh' inglês soa 'x'; 'o' aberto",
+   "curiosity": "'Shorts' só existe no plural em alemão: 'die Shorts', 'eine kurze Hose'."
+  },
+  "pr36-04": {
+   "word": "die Jacke",
+   "translit": null,
+   "example": "Nimm die Jacke mit, es wird kalt!",
+   "examplePt": "Leve a jaqueta, vai esfriar!",
+   "pron": "IA-ke — 'j' soa como o nosso 'i'; o 'e' final é fraco",
+   "curiosity": "'Jacke wie Hose' é uma expressão: é tudo a mesma coisa, tanto faz."
+  },
+  "pr36-05": {
+   "word": "die Flipflops",
+   "translit": null,
+   "example": "Am Strand tragen wir Flipflops.",
+   "examplePt": "Na praia usamos chinelos.",
+   "pron": "FLIP-flops — pronuncia-se como em inglês",
+   "curiosity": "'Flipflops' é um plural: não existe 'ein Flipflop' em uso comum."
+  },
+  "pr36-06": {
+   "word": "der Stiefel",
+   "translit": null,
+   "example": "Ein Stiefel steht vor der Tür.",
+   "examplePt": "Uma bota está diante da porta.",
+   "pron": "SCHTI-fel — 'st' soa 'scht'; 'ie' é 'i' longo",
+   "curiosity": "No dia 6 de dezembro as crianças deixam uma bota na porta e recebem doces."
+  },
+  "pr36-07": {
+   "word": "die Halskette",
+   "translit": null,
+   "example": "Oma schenkt mir eine Halskette.",
+   "examplePt": "Vovó me dá um colar.",
+   "pron": "HALS-ke-te — 's' surdo e 'e' final fraco",
+   "curiosity": "'Hals' é pescoço e 'Kette' é corrente: 'Halskette' é corrente de pescoço."
+  },
+  "pr36-08": {
+   "word": "der Hut",
+   "translit": null,
+   "example": "Der Wind weht ihm den Hut weg.",
+   "examplePt": "O vento leva o chapéu dele.",
+   "pron": "HUT — 'u' longo; o 'h' é aspirado",
+   "curiosity": "'Hut ab!' (tire o chapéu) é o jeito de elogiar alguém."
+  },
+  "pr37-01": {
+   "word": "die Universität",
+   "translit": null,
+   "example": "Sie studiert an der Universität Medizin.",
+   "examplePt": "Ela estuda medicina na universidade.",
+   "pron": "u-ni-ver-zi-TÉT — 'v' soa 'v' aqui; a força cai no 'tét'",
+   "curiosity": "A palavra é feminina: 'die Universität', e a abreviação é 'Uni'."
+  },
+  "pr37-02": {
+   "word": "die Abschlussfeier",
+   "translit": null,
+   "example": "Nach der Abschlussfeier gibt es Kuchen.",
+   "examplePt": "Depois da formatura tem bolo.",
+   "pron": "AP-schlus-fai-er — 'sch' soa 'x'; 'ei' soa 'ai'",
+   "curiosity": "'Abschluss' é conclusão e 'Feier' é festa: festa da conclusão."
+  },
+  "pr37-03": {
+   "word": "das Labor",
+   "translit": null,
+   "example": "Im Labor tragen alle eine Brille.",
+   "examplePt": "No laboratório todos usam óculos.",
+   "pron": "la-BÔR — o 'o' é longo; a força cai no fim",
+   "curiosity": "'Labor' tem o mesmo sentido de 'laboratório', mas é um nome curtinho."
+  },
+  "pr37-04": {
+   "word": "das Skript",
+   "translit": null,
+   "example": "Das Skript hat achtzig Seiten.",
+   "examplePt": "A apostila tem oitenta páginas.",
+   "pron": "SKRIPT — 'sk' juntos; 'i' curto",
+   "curiosity": "Na universidade 'Skript' é o conjunto de notas do professor."
+  },
+  "pr37-05": {
+   "word": "der Vortrag",
+   "translit": null,
+   "example": "Der Vortrag beginnt um drei Uhr.",
+   "examplePt": "A palestra começa às três horas.",
+   "pron": "FÔR-trak — 'v' soa 'f'; o 'g' final soa 'k'",
+   "curiosity": "'Vor' é diante e 'tragen' é carregar: 'Vortrag' é o que se 'carrega' à frente da plateia."
+  },
+  "pr37-06": {
+   "word": "die Forschung",
+   "translit": null,
+   "example": "Wofür braucht man diese Forschung?",
+   "examplePt": "Para que serve essa pesquisa?",
+   "pron": "FOR-shung — 'sch' soa 'x'; 'ng' é nasal",
+   "curiosity": "Quem pesquisa é 'Forscher'; 'Forschung' é feminina."
+  },
+  "pr37-07": {
+   "word": "der Aufsatz",
+   "translit": null,
+   "example": "Mein Aufsatz handelt vom Meer.",
+   "examplePt": "Minha redação trata do mar.",
+   "pron": "AUF-zats — 'au' soa 'au'; 'tz' soa 'ts'",
+   "curiosity": "'Aufsatz' também é o encaixe de cima de um móvel ou ferramenta."
+  },
+  "pr37-08": {
+   "word": "der Kalender",
+   "translit": null,
+   "example": "Im Kalender steht mein Geburtstag rot.",
+   "examplePt": "No calendário meu aniversário está em vermelho.",
+   "pron": "ka-LEN-der — 'e' aberto e a força cai no 'len'",
+   "curiosity": "'Kalender' vem do latim 'calendae', o primeiro dia do mês romano."
+  },
+  "pr38-01": {
+   "word": "der Ziegelstein",
+   "translit": null,
+   "example": "Jeder Ziegelstein ist rot und schwer.",
+   "examplePt": "Cada tijolo é vermelho e pesado.",
+   "pron": "TSI-gel-schtain — 'z' soa 'ts'; 'st' soa 'scht'; 'ei' soa 'ai'",
+   "curiosity": "'Ziegel' é telha ou tijolo queimado: 'Ziegelstein' é um tijolo cozido."
+  },
+  "pr38-02": {
+   "word": "der Kran",
+   "translit": null,
+   "example": "Der Kran hebt den Balken hoch.",
+   "examplePt": "O guindaste ergue a viga.",
+   "pron": "KRAN — 'a' longo; 'r' gutural",
+   "curiosity": "'Kran' vem do nome da ave grou, 'Kranich', pelo pescoço longo do guindaste."
+  },
+  "pr38-03": {
+   "word": "die Schaufel",
+   "translit": null,
+   "example": "Die Schaufel steckt im Sand.",
+   "examplePt": "A pá está enfiada na areia.",
+   "pron": "SCHAU-fel — 'sch' soa 'x'; 'au' soa 'au'",
+   "curiosity": "'Schaufeln' é cavar com a pá; 'Kehrschaufel' é a pá de lixo."
+  },
+  "pr38-04": {
+   "word": "das Dach",
+   "translit": null,
+   "example": "Auf dem Dach sitzt ein Vogel.",
+   "examplePt": "No telhado há um pássaro.",
+   "pron": "DAKH — 'ch' após 'a' é um 'r' raspado de garganta",
+   "curiosity": "'Unter einem Dach' quer dizer 'sob o mesmo teto', isto é, morar junto."
+  },
+  "pr38-05": {
+   "word": "der Aufzug",
+   "translit": null,
+   "example": "Der Aufzug ist heute kaputt.",
+   "examplePt": "O elevador está quebrado hoje.",
+   "pron": "AUF-tsuk — 'z' soa 'ts'; o 'g' final soa 'k'",
+   "curiosity": "'Aufzug' e 'Fahrstuhl' são o elevador; 'Lift' também se ouve."
+  },
+  "pr38-06": {
+   "word": "der Winkel",
+   "translit": null,
+   "example": "Der Winkel misst genau neunzig Grad.",
+   "examplePt": "O esquadro mede exatamente noventa graus.",
+   "pron": "VIN-kel — 'w' soa 'v'; 'nk' é nasal",
+   "curiosity": "'Winkel' é ângulo; 'rechter Winkel' é o ângulo reto."
+  },
+  "pr38-07": {
+   "word": "die Baustelle",
+   "translit": null,
+   "example": "Vorsicht, hier ist eine Baustelle!",
+   "examplePt": "Cuidado, aqui tem uma obra!",
+   "pron": "BAU-schtel-le — 'st' soa 'scht'; 'au' soa 'au'",
+   "curiosity": "'Bau' é construção e 'Stelle' é lugar: 'Baustelle' é o lugar da construção."
+  },
+  "pr38-08": {
+   "word": "der Schlüssel",
+   "translit": null,
+   "example": "Wo hast du den Schlüssel gelassen?",
+   "examplePt": "Onde você deixou a chave?",
+   "pron": "SCHLÜ-sel — 'sch' soa 'x'; 'ü' é 'i' arredondado",
+   "curiosity": "'Schlüssel' é também a chave de um código ou de um enigma."
+  },
+  "pr39-01": {
+   "word": "der Einkaufswagen",
+   "translit": null,
+   "example": "Für den Einkaufswagen brauchst du eine Münze.",
+   "examplePt": "Para o carrinho você precisa de uma moeda.",
+   "pron": "AIN-kaufs-va-gen — 'ei' soa 'ai'; 'w' soa 'v'",
+   "curiosity": "Nos mercados alemães o carrinho exige uma moeda, devolvida quando o devolvemos."
+  },
+  "pr39-02": {
+   "word": "das Etikett",
+   "translit": null,
+   "example": "Das Etikett zeigt die Größe.",
+   "examplePt": "A etiqueta mostra o tamanho.",
+   "pron": "e-ti-KÉT — a força cai no fim; 'tt' vale um 't'",
+   "curiosity": "'Etikett' é a etiqueta de roupa ou de garrafa; 'Etikette' é o bom comportamento."
+  },
+  "pr39-03": {
+   "word": "die Tüte",
+   "translit": null,
+   "example": "Brauchen Sie eine Tüte?",
+   "examplePt": "Precisa de uma sacola?",
+   "pron": "TÜ-te — 'ü' é um 'i' arredondado",
+   "curiosity": "No primeiro dia de escola, as crianças ganham uma 'Schultüte' cheia de doces."
+  },
+  "pr39-04": {
+   "word": "der Geldautomat",
+   "translit": null,
+   "example": "Wo finde ich einen Geldautomaten?",
+   "examplePt": "Onde encontro um caixa eletrônico?",
+   "pron": "GELT-au-to-mat — 'd' soa 't'; o 'au' soa 'au'",
+   "curiosity": "Na Áustria também se diz 'Bankomat' para o caixa eletrônico."
+  },
+  "pr39-05": {
+   "word": "das Trinkgeld",
+   "translit": null,
+   "example": "Das Trinkgeld lasse ich auf dem Tisch.",
+   "examplePt": "Deixo a gorjeta sobre a mesa.",
+   "pron": "TRINK-gelt — 'd' final soa 't'",
+   "curiosity": "'Trinkgeld' é 'dinheiro para beber', e na Alemanha dá-se cerca de dez por cento."
+  },
+  "pr39-06": {
+   "word": "der Gewinn",
+   "translit": null,
+   "example": "Der Gewinn geht an die Schule.",
+   "examplePt": "O lucro vai para a escola.",
+   "pron": "ge-VIN — 'w' soa 'v'; a força cai no fim",
+   "curiosity": "'Gewinn' é lucro e também o prêmio de um sorteio: 'Gewinnspiel' é concurso."
+  },
+  "pr39-07": {
+   "word": "das Geschäft",
+   "translit": null,
+   "example": "Das Geschäft öffnet um neun Uhr.",
+   "examplePt": "A loja abre às nove horas.",
+   "pron": "ge-SCHÉFT — 'ä' soa 'é'; 'sch' soa 'x'",
+   "curiosity": "'Geschäft' também é negócio: 'Geschäftsreise' é viagem de negócios."
+  },
+  "pr39-08": {
+   "word": "das Schaufenster",
+   "translit": null,
+   "example": "Ich schaue ins Schaufenster und träume.",
+   "examplePt": "Olho na vitrine e sonho.",
+   "pron": "SCHAU-fens-ter — 'au' soa 'au'; 'st' soa 'st' aqui",
+   "curiosity": "Passear olhando vitrines chama-se 'Schaufensterbummel'."
+  },
+  "pr40-01": {
+   "word": "weich",
+   "translit": null,
+   "example": "Das Kissen ist weich und warm.",
+   "examplePt": "A almofada é macia e quente.",
+   "pron": "VAIKH — 'w' soa 'v'; 'ei' soa 'ai'; 'ch' é um sopro",
+   "curiosity": "'Weich' também descreve um ovo cozido mole: 'ein weiches Ei'."
+  },
+  "pr40-02": {
+   "word": "hart",
+   "translit": null,
+   "example": "Das Brot von gestern ist hart.",
+   "examplePt": "O pão de ontem está duro.",
+   "pron": "HART — 'h' aspirado; 'r' gutural",
+   "curiosity": "'Hart' também é difícil e severo: 'harte Arbeit' é trabalho duro."
+  },
+  "pr40-03": {
+   "word": "glänzend",
+   "translit": null,
+   "example": "Der Pokal ist glänzend und neu.",
+   "examplePt": "A taça é brilhante e nova.",
+   "pron": "GLEN-tsent — 'ä' soa 'é'; 'z' soa 'ts'",
+   "curiosity": "'Glänzend' é particípio de 'glänzen' e também quer dizer excelente."
+  },
+  "pr40-04": {
+   "word": "dunkel",
+   "translit": null,
+   "example": "Im Keller ist es dunkel.",
+   "examplePt": "No porão está escuro.",
+   "pron": "DUN-kel — 'u' curto; o 'e' final é fraco",
+   "curiosity": "'Dunkles Brot' é o pão escuro de centeio, típico da Alemanha."
+  },
+  "pr40-05": {
+   "word": "nass",
+   "translit": null,
+   "example": "Meine Schuhe sind ganz nass.",
+   "examplePt": "Meus sapatos estão todos molhados.",
+   "pron": "NAS — o 'ss' vale um 's' surdo",
+   "curiosity": "'Nass' leva 'ss' e não 'ß' porque a vogal é curta."
+  },
+  "pr40-06": {
+   "word": "trocken",
+   "translit": null,
+   "example": "Die Wäsche ist schon trocken.",
+   "examplePt": "A roupa já está seca.",
+   "pron": "TRO-ken — 'o' curto; 'ck' é um 'k' só",
+   "curiosity": "'Trocken' descreve também o vinho seco: 'ein trockener Wein'."
+  },
+  "pr40-07": {
+   "word": "stachelig",
+   "translit": null,
+   "example": "Der Kaktus ist stachelig.",
+   "examplePt": "O cacto é espinhoso.",
+   "pron": "SCHTA-khe-lig — 'st' soa 'scht'; 'ch' é um sopro; 'ig' soa 'ik'",
+   "curiosity": "'Stachel' é espinho; o porco-espinho é 'Stachelschwein'."
+  },
+  "pr40-08": {
+   "word": "laut",
+   "translit": null,
+   "example": "Warum ist der Hund so laut?",
+   "examplePt": "Por que o cachorro está tão barulhento?",
+   "pron": "LAUT — 'au' soa 'au'",
+   "curiosity": "'Laut' é alto, mas 'laut' também é preposição: 'laut Wetterbericht' é 'segundo a previsão'."
+  },
+  "pr41-01": {
+   "word": "billig",
+   "translit": null,
+   "example": "Diese Tasche ist billig und gut.",
+   "examplePt": "Esta bolsa é barata e boa.",
+   "pron": "BI-lik — 'll' vale um 'l' e 'ig' soa 'ik'",
+   "curiosity": "'Billig' pode soar negativo: 'günstig' é o barato bom, com bom preço."
+  },
+  "pr41-02": {
+   "word": "teuer",
+   "translit": null,
+   "example": "Das Hotel ist mir zu teuer.",
+   "examplePt": "O hotel é caro demais para mim.",
+   "pron": "TÓI-er — 'eu' soa 'ói'",
+   "curiosity": "'Teuer' é também querido: 'mein teurer Freund' é meu caro amigo."
+  },
+  "pr41-03": {
+   "word": "einfach",
+   "translit": null,
+   "example": "Die Aufgabe war ganz einfach.",
+   "examplePt": "A tarefa foi bem fácil.",
+   "pron": "AIN-fakh — 'ei' soa 'ai'; 'ch' é um 'r' raspado",
+   "curiosity": "'Einfach' também significa 'simplesmente': 'einfach toll' é simplesmente ótimo."
+  },
+  "pr41-04": {
+   "word": "schwierig",
+   "translit": null,
+   "example": "Ist Deutsch wirklich so schwierig?",
+   "examplePt": "O alemão é mesmo tão difícil?",
+   "pron": "SCHVI-rik — 'sch' soa 'x'; 'w' soa 'v'; 'ig' soa 'ik'",
+   "curiosity": "'Schwer' e 'schwierig' são difíceis; mas 'schwer' também é pesado."
+  },
+  "pr41-05": {
+   "word": "kostenlos",
+   "translit": null,
+   "example": "Der Eintritt ist heute kostenlos.",
+   "examplePt": "A entrada hoje é gratuita.",
+   "pron": "KOS-ten-lôs — 'o' longo no fim; 'st' soa 'st' aqui",
+   "curiosity": "'Kostenlos' é 'sem custos'; 'gratis' é a forma coloquial."
+  },
+  "pr41-06": {
+   "word": "überfüllt",
+   "translit": null,
+   "example": "Der Bus ist morgens immer überfüllt.",
+   "examplePt": "O ônibus está sempre lotado de manhã.",
+   "pron": "Ü-ber-fült — 'ü' é um 'i' arredondado, duas vezes",
+   "curiosity": "'Voll' é cheio; 'überfüllt' é 'cheio demais'."
+  },
+  "pr41-07": {
+   "word": "leise",
+   "translit": null,
+   "example": "Sprich bitte leise, das Baby schläft.",
+   "examplePt": "Fale baixo, por favor, o bebê dorme.",
+   "pron": "LAI-ze — 'ei' soa 'ai'; 's' soa 'z'",
+   "curiosity": "'Leise' é baixo no som; 'niedrig' é baixo na altura."
+  },
+  "pr41-08": {
+   "word": "selten",
+   "translit": null,
+   "example": "Dieser Vogel ist sehr selten.",
+   "examplePt": "Esta ave é muito rara.",
+   "pron": "ZEL-ten — 's' soa 'z'; 'e' aberto",
+   "curiosity": "'Selten' também é advérbio: 'selten' é 'raramente'."
+  },
+  "pr42-01": {
+   "word": "drinnen",
+   "translit": null,
+   "example": "Bei Regen bleiben wir drinnen.",
+   "examplePt": "Com chuva ficamos dentro.",
+   "pron": "DRI-nen — 'dr' juntos; 'nn' vale um 'n'",
+   "curiosity": "'Drinnen' e 'draußen' formam o par dentro e fora, muito usado."
+  },
+  "pr42-02": {
+   "word": "draußen",
+   "translit": null,
+   "example": "Draußen scheint die Sonne.",
+   "examplePt": "Fora o sol brilha.",
+   "pron": "DRAU-sen — 'au' soa 'au'; 'ß' é um 's' longo",
+   "curiosity": "'Draußen' tem 'au' no meio, e 'außen' é o lado de fora."
+  },
+  "pr42-03": {
+   "word": "oben",
+   "translit": null,
+   "example": "Das Buch liegt oben im Regal.",
+   "examplePt": "O livro está em cima na estante.",
+   "pron": "Ô-ben — 'o' longo e fechado",
+   "curiosity": "'Oben' é em cima e também fica na frase 'nach oben' (para cima)."
+  },
+  "pr42-04": {
+   "word": "unten",
+   "translit": null,
+   "example": "Unten wartet das Taxi auf uns.",
+   "examplePt": "Embaixo o táxi nos espera.",
+   "pron": "UN-ten — 'u' curto",
+   "curiosity": "'Unten' é embaixo; 'nach unten' é para baixo e 'von unten' é de baixo."
+  },
+  "pr42-05": {
+   "word": "links",
+   "translit": null,
+   "example": "Biegen Sie links ab!",
+   "examplePt": "Vire à esquerda!",
+   "pron": "LINKS — 'nk' é nasal; o 's' final é surdo",
+   "curiosity": "'Links' pode ser também 'de esquerda' na política: 'Linke' é a esquerda."
+  },
+  "pr42-06": {
+   "word": "rechts",
+   "translit": null,
+   "example": "Rechts steht ein rotes Haus.",
+   "examplePt": "À direita há uma casa vermelha.",
+   "pron": "REKHTS — 'ch' é um sopro suave; 'ts' no fim",
+   "curiosity": "'Rechts' é direita e 'Recht' é direito: parentes no sentido de correto."
+  },
+  "pr42-07": {
+   "word": "die Mitte",
+   "translit": null,
+   "example": "Die Mitte des Platzes ist frei.",
+   "examplePt": "O centro da praça está livre.",
+   "pron": "MI-te — 'tt' vale um 't'; 'e' final fraco",
+   "curiosity": "'Die Mitte' é centro e também meio: 'in der Mitte' é no meio."
+  },
+  "pr42-08": {
+   "word": "hinten",
+   "translit": null,
+   "example": "Wer sitzt hinten im Auto?",
+   "examplePt": "Quem senta atrás no carro?",
+   "pron": "HIN-ten — 'h' aspirado; 'nt' juntos",
+   "curiosity": "'Hinten' (atrás) e 'vorne' (à frente) formam um par frequente."
+  },
+  "pr43-01": {
+   "word": "die Hälfte",
+   "translit": null,
+   "example": "Er isst nur die Hälfte der Pizza.",
+   "examplePt": "Ele come só a metade da pizza.",
+   "pron": "HÉLF-te — 'ä' soa 'é'; 'ft' juntos",
+   "curiosity": "'Hälfte' é feminina; 'halb' é o adjetivo meio."
+  },
+  "pr43-02": {
+   "word": "das Dutzend",
+   "translit": null,
+   "example": "Ein Dutzend Eier kostet drei Euro.",
+   "examplePt": "Uma dúzia de ovos custa três euros.",
+   "pron": "DU-tsent — 'tz' soa 'ts'; 'e' fraco",
+   "curiosity": "'Dutzend' vem do francês 'douzaine', a mesma ideia de doze."
+  },
+  "pr43-03": {
+   "word": "das Zehnerpack",
+   "translit": null,
+   "example": "Ich kaufe ein Zehnerpack Socken.",
+   "examplePt": "Compro um pacote de dez meias.",
+   "pron": "TSÊ-ner-pak — 'z' soa 'ts'; 'ck' é um 'k'",
+   "curiosity": "'Zehner' é um grupo de dez; 'Zehnerpack' é um pacote com dez unidades."
+  },
+  "pr43-04": {
+   "word": "das Paar",
+   "translit": null,
+   "example": "Ein Paar Schuhe steht an der Tür.",
+   "examplePt": "Um par de sapatos está na porta.",
+   "pron": "PAR — 'aa' é um 'a' longo",
+   "curiosity": "'ein paar' (minúsculo) quer dizer 'alguns'; 'ein Paar' é um par."
+  },
+  "pr43-05": {
+   "word": "das Stück",
+   "translit": null,
+   "example": "Möchtest du noch ein Stück Kuchen?",
+   "examplePt": "Quer mais um pedaço de bolo?",
+   "pron": "SCHTÜK — 'st' soa 'scht'; 'ü' é um 'i' arredondado",
+   "curiosity": "'Stück' é também peça: 'ein Stück Papier' é uma folha de papel."
+  },
+  "pr43-06": {
+   "word": "der Tropfen",
+   "translit": null,
+   "example": "Ein Tropfen fällt auf das Blatt.",
+   "examplePt": "Uma gota cai na folha.",
+   "pron": "TRO-pfen — 'pf' é um 'p' e um 'f' juntos",
+   "curiosity": "'Ein Tropfen auf den heißen Stein' é 'uma gota no oceano'."
+  },
+  "pr43-07": {
+   "word": "das Prozent",
+   "translit": null,
+   "example": "Zehn Prozent sind nicht viel.",
+   "examplePt": "Dez por cento não é muito.",
+   "pron": "pro-TSENT — 'z' soa 'ts'; a força cai no fim",
+   "curiosity": "'Prozent' vem do latim 'pro centum', ou seja 'por cem'."
+  },
+  "pr43-08": {
+   "word": "die Handvoll",
+   "translit": null,
+   "example": "Eine Handvoll Nüsse reicht mir.",
+   "examplePt": "Um punhado de nozes me basta.",
+   "pron": "HANT-fol — 'd' soa 't'; 'v' soa 'f'",
+   "curiosity": "'Handvoll' vira uma palavra só e é feminina: 'eine Handvoll'."
+  },
+  "pr44-01": {
+   "word": "der Wasserhahn",
+   "translit": null,
+   "example": "Der Wasserhahn tropft schon wieder.",
+   "examplePt": "A torneira está pingando de novo.",
+   "pron": "VA-ser-han — 'w' soa 'v'; 'h' final é mudo no 'Hahn'",
+   "curiosity": "'Hahn' é galo e também torneira: a mesma palavra para os dois."
+  },
+  "pr44-02": {
+   "word": "der Stecker",
+   "translit": null,
+   "example": "Zieh den Stecker aus der Dose!",
+   "examplePt": "Tire o plugue da tomada!",
+   "pron": "SCHTE-ker — 'st' soa 'scht'; 'ck' vale um 'k'",
+   "curiosity": "'Steckdose' é tomada e 'Stecker' é o plugue que entra nela."
+  },
+  "pr44-03": {
+   "word": "die Türklingel",
+   "translit": null,
+   "example": "Wer drückt die Türklingel um acht?",
+   "examplePt": "Quem aperta a campainha às oito?",
+   "pron": "TÜR-kling-el — 'ü' soa 'i' arredondado; 'ng' nasal",
+   "curiosity": "'Klingeln' é tocar a campainha e também o telefone que toca."
+  },
+  "pr44-04": {
+   "word": "der Vorhang",
+   "translit": null,
+   "example": "Der Vorhang hält die Sonne ab.",
+   "examplePt": "A cortina barra o sol.",
+   "pron": "FÔR-han — 'v' soa 'f'; 'ng' nasal",
+   "curiosity": "'Der Eiserne Vorhang' foi o nome dado à divisão da Europa na Guerra Fria."
+  },
+  "pr44-05": {
+   "word": "die Dusche",
+   "translit": null,
+   "example": "Die Dusche ist heute zu heiß.",
+   "examplePt": "O chuveiro está quente demais hoje.",
+   "pron": "DU-sche — 'sch' soa 'x'; 'u' longo",
+   "curiosity": "'Duschen' é tomar banho; 'sich duschen' ou só 'duschen' valem."
+  },
+  "pr44-06": {
+   "word": "das Kopfkissen",
+   "translit": null,
+   "example": "Mein Kopfkissen ist sehr weich.",
+   "examplePt": "Meu travesseiro é muito macio.",
+   "pron": "KOPF-ki-sen — 'pf' é 'p' e 'f' juntos; 'ss' é 's' surdo",
+   "curiosity": "'Kopf' é cabeça e 'Kissen' é almofada: 'almofada da cabeça'."
+  },
+  "pr44-07": {
+   "word": "der Wäschekorb",
+   "translit": null,
+   "example": "Wirf die Socken in den Wäschekorb!",
+   "examplePt": "Jogue as meias no cesto de roupa!",
+   "pron": "VÉ-sche-korp — 'ä' soa 'é'; 'b' final soa 'p'",
+   "curiosity": "'Wäsche' é roupa lavada ou por lavar; 'Wäscherei' é lavanderia."
+  },
+  "pr44-08": {
+   "word": "der Ventilator",
+   "translit": null,
+   "example": "Der Ventilator surrt die ganze Nacht.",
+   "examplePt": "O ventilador zumbe a noite toda.",
+   "pron": "ven-ti-LÁ-tor — 'v' soa 'v' aqui; 'o' final longo",
+   "curiosity": "'Ventilator' vem do latim 'ventilare' e usa 'v' como em palavras latinas."
+  },
+  "pr45-01": {
+   "word": "der Briefträger",
+   "translit": null,
+   "example": "Der Briefträger kommt jeden Morgen.",
+   "examplePt": "O carteiro vem toda manhã.",
+   "pron": "BRIF-trê-ger — 'ie' é 'i' longo; 'ä' soa 'ê'",
+   "curiosity": "'Brief' é carta e 'Träger' é portador: o carteiro leva as cartas."
+  },
+  "pr45-02": {
+   "word": "der Landwirt",
+   "translit": null,
+   "example": "Der Landwirt füttert seine Kühe.",
+   "examplePt": "O agricultor alimenta suas vacas.",
+   "pron": "LANT-virt — 'd' soa 't'; 'w' soa 'v'",
+   "curiosity": "'Landwirt' é o termo formal, e 'Bauer' é o mais comum."
+  },
+  "pr45-03": {
+   "word": "der Pilot",
+   "translit": null,
+   "example": "Der Pilot begrüßt alle Passagiere.",
+   "examplePt": "O piloto cumprimenta todos os passageiros.",
+   "pron": "pi-LÔT — 'o' longo; a força cai no fim",
+   "curiosity": "Para mulheres usa-se 'die Pilotin', com o sufixo '-in'."
+  },
+  "pr45-04": {
+   "word": "der Wissenschaftler",
+   "translit": null,
+   "example": "Der Wissenschaftler forscht an Bienen.",
+   "examplePt": "O cientista pesquisa abelhas.",
+   "pron": "VI-sen-schaft-ler — 'w' soa 'v'; 'sch' soa 'x'",
+   "curiosity": "A mulher é 'die Wissenschaftlerin'; o '-in' feminino é comum no alemão."
+  },
+  "pr45-05": {
+   "word": "der Mechaniker",
+   "translit": null,
+   "example": "Der Mechaniker repariert mein Fahrrad.",
+   "examplePt": "O mecânico conserta minha bicicleta.",
+   "pron": "me-KHÁ-ni-ker — 'ch' é um sopro suave; 'a' aberto",
+   "curiosity": "'Mechaniker' vem do grego 'mechane', que significa máquina."
+  },
+  "pr45-06": {
+   "word": "der Künstler",
+   "translit": null,
+   "example": "Wer ist dein Lieblings-Künstler?",
+   "examplePt": "Quem é o seu artista favorito?",
+   "pron": "KÜNST-ler — 'ü' soa 'i' arredondado; 'nst' junto",
+   "curiosity": "'Künstler' vem de 'Kunst' (arte); 'Künstlerin' é a forma feminina."
+  },
+  "pr45-07": {
+   "word": "der Richter",
+   "translit": null,
+   "example": "Der Richter hört beide Seiten.",
+   "examplePt": "O juiz ouve os dois lados.",
+   "pron": "RIKH-ter — 'ch' é um sopro; 'i' curto",
+   "curiosity": "'Richter' é quem 'richtet' (decide); 'richtig' (certo) tem a mesma raiz."
+  },
+  "pr45-08": {
+   "word": "der Fotograf",
+   "translit": null,
+   "example": "Der Fotograf bittet alle zu lächeln.",
+   "examplePt": "O fotógrafo pede que todos sorriam.",
+   "pron": "fo-to-GRAF — 'f' como em português; a força cai no fim",
+   "curiosity": "'Fotograf' vem do grego: 'phos' (luz) e 'graphein' (escrever)."
+  },
+  "pr46-01": {
+   "word": "das Feuerwerk",
+   "translit": null,
+   "example": "Das Feuerwerk beginnt um Mitternacht.",
+   "examplePt": "O show de fogos começa à meia-noite.",
+   "pron": "FÓI-er-verk — 'eu' soa 'ói'; 'w' soa 'v'",
+   "curiosity": "Na virada de ano (Silvester), a Alemanha acende fogos à meia-noite."
+  },
+  "pr46-02": {
+   "word": "das Geschenk",
+   "translit": null,
+   "example": "Für wen ist dieses Geschenk?",
+   "examplePt": "Para quem é este presente?",
+   "pron": "ge-SCHENK — 'sch' soa 'x'; 'nk' nasal",
+   "curiosity": "'Geschenk' é presente e 'Gift' em alemão é veneno: cuidado com o falso amigo!"
+  },
+  "pr46-03": {
+   "word": "die Einladung",
+   "translit": null,
+   "example": "Die Einladung kam per Post.",
+   "examplePt": "O convite veio pelo correio.",
+   "pron": "AIN-la-dung — 'ei' soa 'ai'; 'd' fraco",
+   "curiosity": "'Einladen' é convidar, e também 'carregar' coisas num veículo."
+  },
+  "pr46-04": {
+   "word": "die Kerze",
+   "translit": null,
+   "example": "Auf dem Kuchen brennt eine Kerze.",
+   "examplePt": "No bolo queima uma vela.",
+   "pron": "KER-tse — 'z' soa 'ts'; 'r' gutural",
+   "curiosity": "No Advento, os alemães acendem uma vela a mais por semana na coroa."
+  },
+  "pr46-05": {
+   "word": "die Fahne",
+   "translit": null,
+   "example": "Die Fahne weht im Wind.",
+   "examplePt": "A bandeira balança ao vento.",
+   "pron": "FÁ-ne — 'a' longo; 'h' mudo",
+   "curiosity": "'Fahne' e 'Flagge' são bandeiras, e 'Fahne' também é o hálito de bebida."
+  },
+  "pr46-06": {
+   "word": "der Zirkus",
+   "translit": null,
+   "example": "Der Zirkus kommt in unsere Stadt.",
+   "examplePt": "O circo vem à nossa cidade.",
+   "pron": "TSIR-kus — 'z' soa 'ts'; 'r' gutural",
+   "curiosity": "'Zirkus' vem do latim 'circus', que quer dizer círculo ou arena."
+  },
+  "pr46-07": {
+   "word": "die Maske",
+   "translit": null,
+   "example": "Zur Party trägt er eine Maske.",
+   "examplePt": "Na festa ele usa uma máscara.",
+   "pron": "MAS-ke — 'a' curto; 's' surdo",
+   "curiosity": "Na época do Carnaval, 'Fasching' ou 'Karneval', usam-se muitas máscaras."
+  },
+  "pr46-08": {
+   "word": "das Konfetti",
+   "translit": null,
+   "example": "Das Konfetti liegt überall auf dem Boden.",
+   "examplePt": "O confete está por todo o chão.",
+   "pron": "kon-FÉ-ti — 'ti' soa 'ti'; a força cai no 'fé'",
+   "curiosity": "'Konfetti' vem do italiano e tem 'k', não 'c', em alemão."
+  },
+  "pr47-01": {
+   "word": "die Büroklammer",
+   "translit": null,
+   "example": "Die Büroklammer hält die Blätter zusammen.",
+   "examplePt": "O clipe mantém as folhas juntas.",
+   "pron": "bü-RÔ-kla-mer — 'ü' soa 'i' arredondado; 'o' longo",
+   "curiosity": "'Klammer' é grampo e também parêntese: '(Klammer)' em um texto."
+  },
+  "pr47-02": {
+   "word": "der Umschlag",
+   "translit": null,
+   "example": "Der Umschlag liegt auf deinem Tisch.",
+   "examplePt": "O envelope está na sua mesa.",
+   "pron": "UM-schlak — 'sch' soa 'x'; 'g' final soa 'k'",
+   "curiosity": "'Umschlag' é também a capa do livro ou a mudança de tempo."
+  },
+  "pr47-03": {
+   "word": "die Schublade",
+   "translit": null,
+   "example": "Die Schere liegt in der Schublade.",
+   "examplePt": "A tesoura está na gaveta.",
+   "pron": "SCHUP-la-de — 'b' soa 'p'; 'sch' soa 'x'",
+   "curiosity": "'Schublade' vem de 'schieben' (empurrar) e 'Lade' (caixa)."
+  },
+  "pr47-04": {
+   "word": "der Ausweis",
+   "translit": null,
+   "example": "Haben Sie Ihren Ausweis dabei?",
+   "examplePt": "Você está com o seu documento?",
+   "pron": "AUS-vais — 'au' soa 'au'; 'ei' soa 'ai'",
+   "curiosity": "Na Alemanha é obrigatório ter um 'Personalausweis' (documento de identidade)."
+  },
+  "pr47-05": {
+   "word": "der Tacker",
+   "translit": null,
+   "example": "Mit dem Tacker hefte ich die Seiten.",
+   "examplePt": "Com o grampeador prendo as páginas.",
+   "pron": "TÁ-ker — 'ck' vale um 'k'",
+   "curiosity": "'Tackern' é grampear; 'Heftklammer' é o grampo."
+  },
+  "pr47-06": {
+   "word": "die Mappe",
+   "translit": null,
+   "example": "Die Mappe ist rot und dünn.",
+   "examplePt": "A pasta é vermelha e fina.",
+   "pron": "MA-pe — 'pp' vale um 'p'",
+   "curiosity": "'Mappe' vem do latim 'mappa', a mesma raiz de 'mapa'."
+  },
+  "pr47-07": {
+   "word": "der Terminplaner",
+   "translit": null,
+   "example": "Mein Terminplaner ist schon voll.",
+   "examplePt": "Minha agenda já está cheia.",
+   "pron": "ter-MIN-pla-ner — 'i' longo no 'min'; 'r' gutural",
+   "curiosity": "'Termin' é compromisso marcado: 'einen Termin haben' é ter hora marcada."
+  },
+  "pr47-08": {
+   "word": "der Notizblock",
+   "translit": null,
+   "example": "Hast du einen Notizblock dabei?",
+   "examplePt": "Você tem um bloco de notas aí?",
+   "pron": "no-TIS-blok — 'z' soa 's' suave; 'ck' vale um 'k'",
+   "curiosity": "'Notiz' é anotação e 'Block' é bloco: 'bloco de notas'."
+  },
+  "pr48-01": {
+   "word": "die Chilischote",
+   "translit": null,
+   "example": "Die Chilischote brennt auf der Zunge.",
+   "examplePt": "A pimenta arde na língua.",
+   "pron": "TCHI-li-scho-te — 'ch' soa 'tch' como em inglês; 'sch' soa 'x'",
+   "curiosity": "'Schote' quer dizer vagem: 'Chilischote' é a 'vagem de chili'."
+  },
+  "pr48-02": {
+   "word": "der Honig",
+   "translit": null,
+   "example": "Die Bienen machen den Honig.",
+   "examplePt": "As abelhas fazem o mel.",
+   "pron": "HÔ-nik — 'o' longo; 'ig' final soa 'ik'",
+   "curiosity": "'Honig um den Mund schmieren' é bajular, passar mel na boca de alguém."
+  },
+  "pr48-03": {
+   "word": "das Salz",
+   "translit": null,
+   "example": "Das Salz steht neben dem Pfeffer.",
+   "examplePt": "O sal está ao lado da pimenta.",
+   "pron": "SALTS — 'z' soa 'ts'",
+   "curiosity": "'Salz' também aparece em 'Salzburg', literalmente 'castelo do sal'."
+  },
+  "pr48-04": {
+   "word": "die Olive",
+   "translit": null,
+   "example": "Möchtest du eine grüne Olive?",
+   "examplePt": "Quer uma azeitona verde?",
+   "pron": "o-LI-ve — 'v' soa 'v' aqui; a força cai no 'li'",
+   "curiosity": "'Olive' tem 'v' como no latim; em alemão o 'v' de origem latina soa 'v'."
+  },
+  "pr48-05": {
+   "word": "der Ingwer",
+   "translit": null,
+   "example": "Der Ingwer wärmt im Winter.",
+   "examplePt": "O gengibre aquece no inverno.",
+   "pron": "ING-ver — 'ng' nasal; 'w' soa 'v'",
+   "curiosity": "'Ingwer' é masculino em alemão: 'der Ingwer'."
+  },
+  "pr48-06": {
+   "word": "die Erdnuss",
+   "translit": null,
+   "example": "Die Erdnuss wächst unter der Erde.",
+   "examplePt": "O amendoim cresce debaixo da terra.",
+   "pron": "ÉRT-nus — 'd' soa 't'; 'u' curto",
+   "curiosity": "'Erdnuss' é a 'noz da terra', embora botanicamente seja uma leguminosa."
+  },
+  "pr48-07": {
+   "word": "die Avocado",
+   "translit": null,
+   "example": "Die Avocado ist reif und weich.",
+   "examplePt": "O abacate está maduro e macio.",
+   "pron": "a-vo-KÁ-do — 'v' soa 'v'; a força cai no 'ká'",
+   "curiosity": "'Avocado' tem 'v' e vem do náuatle 'ahuacatl'."
+  },
+  "pr48-08": {
+   "word": "die Kokosnuss",
+   "translit": null,
+   "example": "Die Kokosnuss ist hart wie Stein.",
+   "examplePt": "O coco é duro como pedra.",
+   "pron": "KÔ-kos-nus — 'o' longo no começo; 's' surdo",
+   "curiosity": "'Kokos' é coco, e 'Kokosnuss' é a 'noz de coco', como em português."
+  },
+  "pr49-01": {
+   "word": "das Schach",
+   "translit": null,
+   "example": "Mein Opa spielt gern Schach.",
+   "examplePt": "Meu avô gosta de jogar xadrez.",
+   "pron": "SCHAKH — 'sch' soa 'x'; 'ch' é um 'r' raspado",
+   "curiosity": "'Schach' vem do persa 'shah' (rei); 'Schachmatt' é xeque-mate."
+  },
+  "pr49-02": {
+   "word": "das Kartenspiel",
+   "translit": null,
+   "example": "Das Kartenspiel dauert eine Stunde.",
+   "examplePt": "O jogo de cartas dura uma hora.",
+   "pron": "KAR-ten-schpil — 'sp' soa 'schp'; 'ie' é 'i' longo",
+   "curiosity": "'Karte' é carta, 'Spiel' é jogo: 'jogo de cartas'."
+  },
+  "pr49-03": {
+   "word": "der Drachen",
+   "translit": null,
+   "example": "Der Drachen steigt hoch in den Himmel.",
+   "examplePt": "A pipa sobe alto no céu.",
+   "pron": "DRA-khen — 'ch' raspado; 'a' curto",
+   "curiosity": "'Drachen' também é dragão: a pipa é a 'dragão do céu'."
+  },
+  "pr49-04": {
+   "word": "das Jo-Jo",
+   "translit": null,
+   "example": "Das Jo-Jo springt an der Schnur hoch.",
+   "examplePt": "O ioiô sobe pelo cordão.",
+   "pron": "IÔ-iô — 'j' soa 'i'",
+   "curiosity": "'Jo-Jo' vem do inglês, mas 'j' em alemão soa como o nosso 'i'."
+  },
+  "pr49-05": {
+   "word": "das Bowling",
+   "translit": null,
+   "example": "Wollen wir heute Bowling spielen?",
+   "examplePt": "Vamos jogar boliche hoje?",
+   "pron": "BÔ-ling — 'ow' soa 'ô' longo",
+   "curiosity": "'Bowling' foi emprestado do inglês; 'Kegeln' é o jogo alemão parecido."
+  },
+  "pr49-06": {
+   "word": "der Flipper",
+   "translit": null,
+   "example": "Der Flipper blinkt und piept laut.",
+   "examplePt": "O fliperama pisca e apita alto.",
+   "pron": "FLI-per — 'pp' é um 'p'; 'r' final suave",
+   "curiosity": "'Flipper' é o fliperama de bolinha; 'Spielhalle' é o salão de jogos."
+  },
+  "pr49-07": {
+   "word": "die Rutsche",
+   "translit": null,
+   "example": "Das Kind saust die Rutsche hinunter.",
+   "examplePt": "A criança desce voando pelo escorregador.",
+   "pron": "RU-tche — 'tsch' soa 'tch'",
+   "curiosity": "'Rutschen' é escorregar e 'Rutsch' é o deslize: 'Guten Rutsch!' é um desejo de Ano Novo."
+  },
+  "pr49-08": {
+   "word": "das Videospiel",
+   "translit": null,
+   "example": "Das Videospiel macht richtig Spaß.",
+   "examplePt": "O videogame é muito divertido.",
+   "pron": "VI-de-o-schpil — 'v' soa 'v'; 'sp' soa 'schp'",
+   "curiosity": "'Videospiel' junta 'Video' e 'Spiel'; 'zocken' é a gíria para jogar."
+  },
+  "pr50-01": {
+   "word": "der Ausgang",
+   "translit": null,
+   "example": "Der Ausgang ist links vom Eingang.",
+   "examplePt": "A saída fica à esquerda da entrada.",
+   "pron": "AUS-gang — 'au' soa 'au'; 'ng' nasal",
+   "curiosity": "'Ausgang' é saída e 'Eingang' é entrada: um par quase espelhado."
+  },
+  "pr50-02": {
+   "word": "verboten",
+   "translit": null,
+   "example": "Hier ist Rauchen strengstens verboten.",
+   "examplePt": "Aqui é terminantemente proibido fumar.",
+   "pron": "fer-BÔ-ten — 'v' soa 'f'; 'o' longo",
+   "curiosity": "'Verboten' é uma das palavras alemãs mais conhecidas no mundo."
+  },
+  "pr50-03": {
+   "word": "die Gefahr",
+   "translit": null,
+   "example": "Achtung, hier besteht Gefahr!",
+   "examplePt": "Atenção, aqui há perigo!",
+   "pron": "ge-FAR — 'g' duro; a força cai no 'far'",
+   "curiosity": "'Gefahr' é feminina; o adjetivo é 'gefährlich' (perigoso)."
+  },
+  "pr50-04": {
+   "word": "der Notfall",
+   "translit": null,
+   "example": "Im Notfall wähle die Hundertzwölf.",
+   "examplePt": "Em emergência, ligue para cento e doze.",
+   "pron": "NÔT-fal — 'o' longo; 'ff' vale um 'f'",
+   "curiosity": "O número de emergência na União Europeia, inclusive na Alemanha, é 112."
+  },
+  "pr50-05": {
+   "word": "zerbrechlich",
+   "translit": null,
+   "example": "Vorsicht, das Paket ist zerbrechlich!",
+   "examplePt": "Cuidado, o pacote é frágil!",
+   "pron": "tser-BRE-khlikh — 'z' soa 'ts'; 'ch' é um sopro",
+   "curiosity": "'Zerbrechlich' vem de 'zerbrechen' (quebrar em pedaços)."
+  },
+  "pr50-06": {
+   "word": "offen",
+   "translit": null,
+   "example": "Das Fenster ist weit offen.",
+   "examplePt": "A janela está bem aberta.",
+   "pron": "Ó-fen — 'o' curto e aberto",
+   "curiosity": "'Offen' também é franco: 'offen gesagt' é 'para ser franco'."
+  },
+  "pr50-07": {
+   "word": "geschlossen",
+   "translit": null,
+   "example": "Sonntags ist der Laden geschlossen.",
+   "examplePt": "Aos domingos a loja fica fechada.",
+   "pron": "ge-SCHLÓ-sen — 'sch' soa 'x'",
+   "curiosity": "Na Alemanha, a maioria das lojas fecha aos domingos."
+  },
+  "pr50-08": {
+   "word": "die Information",
+   "translit": null,
+   "example": "Wo finde ich die Information?",
+   "examplePt": "Onde fica o balcão de informação?",
+   "pron": "in-for-ma-TSIÔN — 'tion' soa 'tsiôn'",
+   "curiosity": "Em alemão 'ti' antes de vogal soa 'tsi', como em 'Information' e 'Nation'."
+  }
+ }
+}

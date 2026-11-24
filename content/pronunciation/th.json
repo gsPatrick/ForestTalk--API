@@ -1,0 +1,3207 @@
+{
+ "game": "pronunciation",
+ "language": "th",
+ "version": 2,
+ "entries": {
+  "sp01-01": {
+   "word": "ยอดเยี่ยม",
+   "translit": "yotyiam",
+   "example": "ยอดเยี่ยม! ทีมของเราชนะแล้ว",
+   "examplePt": "Ótimo! O nosso time ganhou.",
+   "pron": "yôot-yîam — as duas descem (tom descendente); 'ia' é um ditongo só",
+   "curiosity": "ยอด é o topo de uma montanha ou de uma árvore; ยอดเยี่ยม é estar no topo da qualidade."
+  },
+  "sp01-02": {
+   "word": "สวย",
+   "translit": "suai",
+   "example": "ดอกกุหลาบช่อนี้สวยจังเลย",
+   "examplePt": "Este buquê de rosas está lindíssimo.",
+   "pron": "sǔai — tom ascendente; 'ua' e 'i' deslizam num ditongo só",
+   "curiosity": "สวย descreve mulheres e coisas; para um homem bonito o tailandês usa หล่อ."
+  },
+  "sp01-03": {
+   "word": "น่าทึ่ง",
+   "translit": "na thueng",
+   "example": "ภาพวาดนี้น่าทึ่งมากเลย",
+   "examplePt": "Este desenho é simplesmente incrível.",
+   "pron": "nâa-tʉ̂ng — as duas descem; 'ท' é um 't' com sopro e 'ึ' é um 'u' sem arredondar os lábios",
+   "curiosity": "น่า + verbo ou adjetivo cria adjetivos: น่ารัก (fofo), น่ากลัว (assustador), น่ากิน (apetitoso)."
+  },
+  "sp01-04": {
+   "word": "สมบูรณ์แบบ",
+   "translit": "sombunbaep",
+   "example": "เค้กชิ้นนี้สมบูรณ์แบบพอดี",
+   "examplePt": "Este pedaço de bolo está perfeito.",
+   "pron": "sǒm-buun-bɛ̀ɛp — começa subindo; 'ɛ̀ɛ' é um 'é' longo e grave",
+   "curiosity": "แบบ também significa 'modelo': แบบฟอร์ม é um formulário."
+  },
+  "sp01-05": {
+   "word": "อร่อย",
+   "translit": "aroi",
+   "example": "ซุปถ้วยนี้ร้อนแต่อร่อยมาก",
+   "examplePt": "Esta tigela de sopa está quente, mas deliciosa.",
+   "pron": "à-rɔ̀i — dois tons baixos (voz grave e curta); 'rɔi' soa quase 'ró-i'",
+   "curiosity": "อร่อย só elogia comida e bebida; é o elogio que mais se ouve nas feiras de rua."
+  },
+  "sp01-06": {
+   "word": "สนุก",
+   "translit": "sanuk",
+   "example": "เกมนี้สนุกที่สุดเลย",
+   "examplePt": "Este jogo é o mais divertido de todos!",
+   "pron": "sà-nùk — duas sílabas em tom baixo; o 'u' é curto",
+   "curiosity": "Muitos tailandeses valorizam o 'sanuk': levar diversão até para o trabalho e para as tarefas."
+  },
+  "sp01-07": {
+   "word": "ฉลาด",
+   "translit": "chalat",
+   "example": "นกแก้วตัวนี้ฉลาดไหม?",
+   "examplePt": "Será que este papagaio é esperto?",
+   "pron": "chà-làat — as duas em tom baixo; 'ch' suave e 'aa' longo no fim",
+   "curiosity": "O adjetivo vem depois do substantivo: เด็กฉลาด é 'criança esperta'."
+  },
+  "sp01-08": {
+   "word": "แข็งแรง",
+   "translit": "khaengraeng",
+   "example": "ช้างตัวนี้แข็งแรงมาก",
+   "examplePt": "Este elefante é muito forte.",
+   "pron": "kɛ̌ng-rɛɛng — a 1ª sobe, a 2ª fica média; 'ng' final como em 'ring'",
+   "curiosity": "แข็ง quer dizer 'duro' e แรง 'força': o 'forte' tailandês é 'duro + força'."
+  },
+  "sp02-01": {
+   "word": "ช่วยด้วย",
+   "translit": "chuai duai",
+   "example": "แมวติดอยู่บนต้นไม้ ช่วยด้วย!",
+   "examplePt": "O gato está preso na árvore, socorro!",
+   "pron": "chûai dûai — as duas descem; 'ua' e 'ai' são ditongos rápidos",
+   "curiosity": "ช่วย é 'ajudar' e ด้วย é 'junto, também': o grito de socorro junta as duas."
+  },
+  "sp02-02": {
+   "word": "ความเงียบ",
+   "translit": "khwam ngiap",
+   "example": "ห้องสมุดต้องรักษาความเงียบนะ",
+   "examplePt": "A biblioteca tem de ficar em silêncio.",
+   "pron": "kwaam ngîap — 'ng' inicial (como no fim de 'ring'); 'ngîap' desce",
+   "curiosity": "A expressão 'เงียบเป็นเป่าสาก' descreve um silêncio absoluto."
+  },
+  "sp02-03": {
+   "word": "ความอดทน",
+   "translit": "khwamotthon",
+   "example": "การปีนเขาต้องใช้ความอดทน",
+   "examplePt": "Escalar montanhas exige paciência.",
+   "pron": "kwaam òt-ton — 'òt' baixo e curto; 'th' é um 't' com sopro",
+   "curiosity": "ความ + verbo vira substantivo abstrato: อดทน (aguentar) vira ความอดทน (paciência)."
+  },
+  "sp02-04": {
+   "word": "ตั้งใจ",
+   "translit": "tangchai",
+   "example": "ตั้งใจฟังครูนะ",
+   "examplePt": "Preste atenção no que a professora diz.",
+   "pron": "dtâng-jai — 'dtâng' desce, com 't' seco; 'jai' médio e 'ai' rápido",
+   "curiosity": "ใจ (coração) forma muitas palavras de sentimento: ตั้งใจ, ดีใจ, เสียใจ."
+  },
+  "sp02-05": {
+   "word": "ระวัง",
+   "translit": "rawang",
+   "example": "ระวัง! พื้นเปียกลื่นมาก",
+   "examplePt": "Cuidado! O chão molhado está muito escorregadio.",
+   "pron": "rá-wang — a 1ª alta; o 'r' é suave e pode soar quase como 'l'",
+   "curiosity": "Placas usam ระวัง o tempo todo: ระวังหมา quer dizer 'cuidado com o cão'."
+  },
+  "sp02-06": {
+   "word": "สงบ",
+   "translit": "sangop",
+   "example": "ทะเลยามเช้าสงบมาก",
+   "examplePt": "O mar de manhã cedo está calmo.",
+   "pron": "sà-ngòp — as duas baixas; 'ng' inicial como no fim de 'ring'",
+   "curiosity": "สงบสุข junta 'calmo' e 'feliz' e quer dizer 'paz'."
+  },
+  "sp02-07": {
+   "word": "ความเคารพ",
+   "translit": "khwam khaorop",
+   "example": "เราควรให้ความเคารพผู้ใหญ่เสมอ",
+   "examplePt": "Devemos sempre respeitar os mais velhos.",
+   "pron": "kwaam kao-RÓP — 'kao' é um ditongo 'ao'; 'róp' alto e curto",
+   "curiosity": "Ao cumprimentar com o 'wai' (mãos juntas diante do peito) mostra-se respeito."
+  },
+  "sp02-08": {
+   "word": "โชค",
+   "translit": "chok",
+   "example": "เขาถูกรางวัลเพราะโชคช่วย",
+   "examplePt": "Ele ganhou o prêmio graças à sorte.",
+   "pron": "chôok — tom descendente; 'oo' longo e fechado",
+   "curiosity": "โชค + ดี é sorte; โชค + ร้าย é azar: a palavra vira o contrário só trocando o final."
+  },
+  "sp03-01": {
+   "word": "เพื่อนบ้าน",
+   "translit": "phuean ban",
+   "example": "เพื่อนบ้านเอาผลไม้มาฝากเรา",
+   "examplePt": "A vizinha trouxe frutas para nós.",
+   "pron": "pʰûan-bâan — as duas descem; 'ph' é um 'p' com sopro",
+   "curiosity": "Literalmente é 'amigo da casa': เพื่อน (amigo) + บ้าน (casa)."
+  },
+  "sp03-02": {
+   "word": "เด็ก",
+   "translit": "dek",
+   "example": "เด็กตัวเล็กกำลังเล่นทราย",
+   "examplePt": "A criança pequena está brincando na areia.",
+   "pron": "dèk — tom baixo e curto, voz grave; o 'k' final fica preso",
+   "curiosity": "Dobrar com ๆ faz plural ou ênfase: เด็กๆ quer dizer 'crianças'."
+  },
+  "sp03-03": {
+   "word": "ทารก",
+   "translit": "tharok",
+   "example": "ทารกคนนี้หลับในอ้อมแขนแม่",
+   "examplePt": "Este bebê dorme nos braços da mãe.",
+   "pron": "taa-RÓK — 'aa' longo; a última sílaba é alta e curta",
+   "curiosity": "ทารกแรกเกิด quer dizer 'recém-nascido': แรก (primeiro) + เกิด (nascer)."
+  },
+  "sp03-04": {
+   "word": "เด็กผู้ชาย",
+   "translit": "dek phu chai",
+   "example": "เด็กผู้ชายคนนั้นเตะบอลเก่งมาก",
+   "examplePt": "Aquele menino chuta bola muito bem.",
+   "pron": "dèk pûu-chaai — 'pûu' desce e o 'uu' é longo; 'chaai' médio",
+   "curiosity": "ผู้ชาย (homem) e ผู้หญิง (mulher) com เด็ก na frente viram menino e menina."
+  },
+  "sp03-05": {
+   "word": "เด็กผู้หญิง",
+   "translit": "dek phu ying",
+   "example": "เด็กผู้หญิงคนนั้นวาดรูปเก่งไหม?",
+   "examplePt": "Aquela menina desenha bem?",
+   "pron": "dèk pûu-yǐng — 'yǐng' sobe; o 'y' é como em 'iogurte'",
+   "curiosity": "ผู้ใหญ่ (adulto) é 'pessoa grande': ผู้ (pessoa) + ใหญ่ (grande)."
+  },
+  "sp03-06": {
+   "word": "สุภาพบุรุษ",
+   "translit": "suphapburut",
+   "example": "สุภาพบุรุษท่านนั้นช่วยถือกระเป๋าให้",
+   "examplePt": "Aquele senhor ajudou a carregar a mala.",
+   "pron": "sù-pâap bù-rùt — 'pâap' desce e é longo; as outras sílabas são baixas e curtas",
+   "curiosity": "สุภาพ (educado) + บุรุษ (homem): o 'cavalheiro' é um 'homem educado'."
+  },
+  "sp03-07": {
+   "word": "สุภาพสตรี",
+   "translit": "suphapsatri",
+   "example": "สุภาพสตรีท่านนั้นกำลังรอรถอยู่",
+   "examplePt": "Aquela senhora está esperando o carro.",
+   "pron": "sù-pâap sà-dtrii — 'dtr' é um 't' seco; a última sílaba é longa",
+   "curiosity": "Em anúncios formais ouve-se 'สุภาพสตรีและสุภาพบุรุษ': senhoras e senhores."
+  },
+  "sp03-08": {
+   "word": "วัยรุ่น",
+   "translit": "wairun",
+   "example": "วัยรุ่นกลุ่มนั้นเล่นสเก็ตบอร์ดเก่งมาก",
+   "examplePt": "Aquele grupo de jovens anda muito bem de skate.",
+   "pron": "wai-rûn — 'wai' médio; 'rûn' desce e o 'r' é suave",
+   "curiosity": "วัย é 'fase da vida': วัยเด็ก é a infância e วัยรุ่น é a juventude."
+  },
+  "sp04-01": {
+   "word": "วันจันทร์",
+   "translit": "wan chan",
+   "example": "วันจันทร์เรามีสอบคณิตศาสตร์",
+   "examplePt": "Na segunda temos prova de matemática.",
+   "pron": "wan jan — as duas em tom médio; 'จ' é um 'tch' seco; 'ทร์' é mudo",
+   "curiosity": "จันทร์ é 'lua': a segunda-feira é o 'dia da lua', como em português."
+  },
+  "sp04-02": {
+   "word": "วันอังคาร",
+   "translit": "wan angkhan",
+   "example": "วันอังคารเรียนว่ายน้ำใช่ไหม?",
+   "examplePt": "A aula de natação é na terça, certo?",
+   "pron": "wan ang-kaan — três sílabas em tom médio; 'ang' termina em 'ng'",
+   "curiosity": "อังคาร também é o nome do planeta Marte."
+  },
+  "sp04-03": {
+   "word": "วันพุธ",
+   "translit": "wan phut",
+   "example": "วันพุธคุณยายมาหาเรา",
+   "examplePt": "Na quarta a vovó vem nos visitar.",
+   "pron": "wan pʰút — 'พ' é um 'p' com sopro; 'ธ' final soa 't'; tom alto",
+   "curiosity": "พุธ é Mercúrio: os dias da semana tailandeses levam nomes de astros."
+  },
+  "sp04-04": {
+   "word": "วันพฤหัสบดี",
+   "translit": "wan pharuehatsabodi",
+   "example": "วันพฤหัสบดีที่แล้วฝนตกหนักมาก",
+   "examplePt": "Na quinta passada choveu muito forte.",
+   "pron": "wan pa-rʉ-hàt-sa-bɔɔ-dii — longo; na fala corrente basta 'pa-rʉ-hàt'",
+   "curiosity": "พฤหัสบดี é Júpiter; na conversa o dia aparece abreviado como วันพฤหัส."
+  },
+  "sp04-05": {
+   "word": "วันศุกร์",
+   "translit": "wan suk",
+   "example": "วันศุกร์เลิกเรียนแล้วไปเที่ยวกันไหม?",
+   "examplePt": "Depois da aula de sexta, vamos passear?",
+   "pron": "wan sùk — 'ศ' soa como 's'; 'ร์' é mudo; tom baixo",
+   "curiosity": "ศุกร์ é Vênus, o planeta que dá nome à sexta-feira."
+  },
+  "sp04-06": {
+   "word": "วันเสาร์",
+   "translit": "wan sao",
+   "example": "วันเสาร์นี้เราจะไปตลาดนัด",
+   "examplePt": "Neste sábado vamos à feira.",
+   "pron": "wan sǎo — 'sǎo' sobe; 'ร์' no fim é mudo",
+   "curiosity": "เสาร์ é Saturno; sábado e domingo juntos formam เสาร์-อาทิตย์, o fim de semana."
+  },
+  "sp04-07": {
+   "word": "วันอาทิตย์",
+   "translit": "wan athit",
+   "example": "วันอาทิตย์ตื่นสายได้เลย",
+   "examplePt": "No domingo dá para acordar tarde.",
+   "pron": "wan aa-tít — 'ย์' é mudo; 'tít' alto e curto",
+   "curiosity": "Cada dia tem uma cor tradicional, e a do domingo é o vermelho."
+  },
+  "sp04-08": {
+   "word": "วันหยุด",
+   "translit": "wan yut",
+   "example": "วันหยุดนี้ไปปิกนิกกันไหม?",
+   "examplePt": "Neste feriado, vamos fazer um piquenique?",
+   "pron": "wan yùt — o 'ห' é mudo, só dá o tom baixo; o 't' final fica preso",
+   "curiosity": "หยุด é 'parar': วันหยุด é o 'dia de parar' e หยุดงาน é ficar de folga."
+  },
+  "sp05-01": {
+   "word": "มกราคม",
+   "translit": "makarakhom",
+   "example": "ปีใหม่เริ่มต้นในเดือนมกราคม",
+   "examplePt": "O ano novo começa em janeiro.",
+   "pron": "ma-ga-raa-kom — o 'k' do meio soa como 'g'; termina em 'kom' com tom médio",
+   "curiosity": "Os meses que terminam em -คม têm 31 dias, e os que terminam em -ยน têm 30."
+  },
+  "sp05-02": {
+   "word": "มีนาคม",
+   "translit": "minakhom",
+   "example": "เดือนมีนาคมอากาศเริ่มร้อนแล้ว",
+   "examplePt": "Em março o tempo já começa a esquentar.",
+   "pron": "mii-naa-kom — tudo em tom médio; 'ii' e 'aa' são longos",
+   "curiosity": "มีน é o signo de Peixes: os meses tailandeses vêm dos signos do zodíaco."
+  },
+  "sp05-03": {
+   "word": "เมษายน",
+   "translit": "mesayon",
+   "example": "สงกรานต์ตรงกับเดือนเมษายนทุกปี",
+   "examplePt": "O Songkran cai em abril todos os anos.",
+   "pron": "mee-sǎa-yon — 'sǎa' sobe; 'yon' em tom médio",
+   "curiosity": "เมษ é o carneiro (Áries), e abril termina em -ยน porque tem 30 dias."
+  },
+  "sp05-04": {
+   "word": "พฤษภาคม",
+   "translit": "phruetsaphakhom",
+   "example": "โรงเรียนเปิดเทอมใหม่ในเดือนพฤษภาคม",
+   "examplePt": "A escola abre o novo período em maio.",
+   "pron": "prʉ́t-sa-paa-kom — 'prʉ́t' alto e curto; 'ph' é um 'p' com sopro",
+   "curiosity": "พฤษภ é o touro: maio leva o nome do signo de Touro."
+  },
+  "sp05-05": {
+   "word": "มิถุนายน",
+   "translit": "mithunayon",
+   "example": "เดือนมิถุนายนฝนตกบ่อยมาก",
+   "examplePt": "Em junho chove com muita frequência.",
+   "pron": "mí-tù-naa-yon — 'th' é um 't' com sopro; termina em 'yon'",
+   "curiosity": "มิถุน quer dizer 'gêmeos': junho é o mês do signo de Gêmeos."
+  },
+  "sp05-06": {
+   "word": "กรกฎาคม",
+   "translit": "karakadakhom",
+   "example": "ไปเที่ยวภูเขาเดือนกรกฎาคมไหม?",
+   "examplePt": "Vamos passear nas montanhas em julho?",
+   "pron": "ga-ra-ga-daa-kom — cinco sílabas; o 'ฎ' soa como 'd'",
+   "curiosity": "กรกฎ é o caranguejo (Câncer): julho é o mês desse signo."
+  },
+  "sp05-07": {
+   "word": "สิงหาคม",
+   "translit": "singhakhom",
+   "example": "วันแม่ตรงกับเดือนสิงหาคม",
+   "examplePt": "O Dia das Mães cai em agosto.",
+   "pron": "sǐng-hǎa-kom — as duas primeiras sobem; 'ng' final como em 'ring'",
+   "curiosity": "สิงห์ é o leão (Leão): agosto leva o nome desse signo."
+  },
+  "sp05-08": {
+   "word": "ธันวาคม",
+   "translit": "thanwakhom",
+   "example": "เดือนธันวาคมอากาศเย็นสบายมาก",
+   "examplePt": "Em dezembro o tempo fica fresco e agradável.",
+   "pron": "tan-waa-kom — 'ธ' é um 't' com sopro; ritmo parelho, tom médio",
+   "curiosity": "ธนู é o arqueiro (Sagitário): dezembro vem desse signo."
+  },
+  "sp06-01": {
+   "word": "รอก่อน",
+   "translit": "ro kon",
+   "example": "รอก่อนนะ เดี๋ยวฉันตามไป",
+   "examplePt": "Espere um pouco, já vou atrás.",
+   "pron": "rɔɔ gɔ̀ɔn — 'rɔɔ' médio; 'gɔ̀ɔn' baixo; 'ɔɔ' é um 'ó' aberto e longo",
+   "curiosity": "ก่อน quer dizer 'antes' e amacia o pedido: รอก่อน é 'espere primeiro'."
+  },
+  "sp06-02": {
+   "word": "ดูสิ",
+   "translit": "du si",
+   "example": "ดูสิ! มีนกตัวใหญ่บนหลังคา",
+   "examplePt": "Olhe! Tem uma ave grande no telhado.",
+   "pron": "duu sì — 'uu' longo e médio; 'sì' baixo e curto",
+   "curiosity": "สิ no fim do verbo dá um tom animado de convite: ดูสิ, ลองสิ, ไปสิ."
+  },
+  "sp06-03": {
+   "word": "ฟังนะ",
+   "translit": "fang na",
+   "example": "ฟังนะ นั่นเสียงฝนตกใช่ไหม?",
+   "examplePt": "Escute, isso é o barulho de chuva?",
+   "pron": "fang ná — 'fang' médio, 'ng' final como em 'ring'; 'ná' alto",
+   "curiosity": "นะ no fim da frase deixa o pedido gentil, em vez de seco."
+  },
+  "sp06-04": {
+   "word": "ลองดู",
+   "translit": "long du",
+   "example": "ลองดูอีกทีสิ เกือบสำเร็จแล้ว",
+   "examplePt": "Tente mais uma vez, quase deu certo.",
+   "pron": "long duu — as duas em tom médio; 'ng' final como em 'ring'",
+   "curiosity": "ดู depois de um verbo significa 'experimentar': ชิมดู, ลองทำดู."
+  },
+  "sp06-05": {
+   "word": "มานี่",
+   "translit": "ma ni",
+   "example": "มานี่เร็ว มีของให้ดู",
+   "examplePt": "Venha cá rápido, tenho algo para mostrar.",
+   "pron": "maa nîi — 'maa' médio e longo; 'nîi' desce",
+   "curiosity": "นี่ é 'aqui' e มา é 'vir': มานี่ é literalmente 'venha aqui'."
+  },
+  "sp06-06": {
+   "word": "ไปกันเถอะ",
+   "translit": "pai kan thoe",
+   "example": "ไปกันเถอะ ฝนกำลังจะหยุดแล้ว",
+   "examplePt": "Vamos, a chuva já vai parar.",
+   "pron": "pai gan tʰə̀ə — 'ai' é um ditongo médio; 'tʰə̀ə' baixo, com 't' soprado",
+   "curiosity": "เถอะ no fim da frase significa 'vamos lá' e incentiva a fazer algo em grupo."
+  },
+  "sp06-07": {
+   "word": "อยู่นี่ก่อน",
+   "translit": "yu ni kon",
+   "example": "อยู่นี่ก่อนนะ เดี๋ยวเรากลับมา",
+   "examplePt": "Fique aqui, já voltamos.",
+   "pron": "yùu nîi gɔ̀ɔn — 'yùu' baixo e longo; 'nîi' desce; 'gɔ̀ɔn' baixo",
+   "curiosity": "อยู่ serve para 'estar', 'ficar' e 'morar': อยู่บ้าน, อยู่ที่นี่."
+  },
+  "sp06-08": {
+   "word": "หยิบสิ",
+   "translit": "yip si",
+   "example": "หยิบสิ ขนมอยู่บนโต๊ะ",
+   "examplePt": "Pegue, os doces estão na mesa.",
+   "pron": "yìp sì — o 'ห' é mudo e só dá o tom baixo; o 'p' final fica preso",
+   "curiosity": "หยิบ é pegar com os dedos algo pequeno; para erguer algo pesado usa-se ยก."
+  },
+  "sp07-01": {
+   "word": "ข้าว",
+   "translit": "khao",
+   "example": "ข้าวหุงใหม่หอมมากเลย",
+   "examplePt": "O arroz recém-cozido está cheirosíssimo.",
+   "pron": "kâao — tom descendente; 'kh' é um 'k' com sopro",
+   "curiosity": "ข้าวเหนียว é o arroz glutinoso, típico do norte e do nordeste, comido com as mãos."
+  },
+  "sp07-02": {
+   "word": "ถั่ว",
+   "translit": "thua",
+   "example": "แม่ต้มถั่วให้กินกับข้าว",
+   "examplePt": "A mãe cozinhou feijão para comer com arroz.",
+   "pron": "tùa — tom baixo; 'th' é um 't' com sopro; 'ua' é um ditongo",
+   "curiosity": "ถั่ว vale para feijões e grãos: ถั่วลิสง é amendoim e ถั่วเหลือง é soja."
+  },
+  "sp07-03": {
+   "word": "เนื้อไก่",
+   "translit": "nuea kai",
+   "example": "ร้านนี้ย่างเนื้อไก่ได้อร่อยไหม?",
+   "examplePt": "Será que este restaurante assa bem o frango?",
+   "pron": "núa gài — 'núa' alto; 'gài' baixo; 'ai' é um ditongo",
+   "curiosity": "เนื้อ + nome de animal dá a carne dele: เนื้อไก่, เนื้อหมู, เนื้อวัว."
+  },
+  "sp07-04": {
+   "word": "เนื้อวัว",
+   "translit": "nuea wua",
+   "example": "เนื้อวัวชิ้นนี้นุ่มมาก",
+   "examplePt": "Este pedaço de carne bovina está bem macio.",
+   "pron": "núa wua — 'núa' alto; 'wua' médio; o 'w' soa como um 'u' curto",
+   "curiosity": "เนื้อ também quer dizer 'conteúdo': เนื้อเรื่อง é o enredo de uma história."
+  },
+  "sp07-05": {
+   "word": "ก๋วยเตี๋ยว",
+   "translit": "kuaitiao",
+   "example": "ก๋วยเตี๋ยวชามนี้เส้นนุ่มจัง",
+   "examplePt": "O macarrão desta tigela está macio.",
+   "pron": "gǔai-dtǐao — as duas sobem; 'dt' é um 't' seco, quase 'd'",
+   "curiosity": "Em Bangkok já existiu macarrão de barco: ก๋วยเตี๋ยวเรือ, servido em barquinhos nos canais."
+  },
+  "sp07-06": {
+   "word": "ซุป",
+   "translit": "sup",
+   "example": "วันฝนตกต้องกินซุปร้อนๆ",
+   "examplePt": "Em dia de chuva é preciso tomar sopa quente.",
+   "pron": "súp — tom alto; o 'p' final fecha os lábios sem soltar ar",
+   "curiosity": "ซุป vem do inglês 'soup'; a sopa tailandesa mais famosa é a ต้มยำ."
+  },
+  "sp07-07": {
+   "word": "สลัด",
+   "translit": "salat",
+   "example": "สลัดชามนี้มีมะเขือเทศเยอะไหม?",
+   "examplePt": "Esta tigela de salada tem muito tomate?",
+   "pron": "sa-làt — a 2ª sílaba é baixa e o 't' final fica preso",
+   "curiosity": "A salada tailandesa típica é a ยำ, picante e com limão, bem diferente da ocidental."
+  },
+  "sp07-08": {
+   "word": "พิซซ่า",
+   "translit": "phitsa",
+   "example": "พิซซ่าถาดนี้แบ่งกันได้แปดชิ้น",
+   "examplePt": "Esta pizza dá para dividir em oito pedaços.",
+   "pron": "pít-sâa — 'pít' alto e curto; 'sâa' desce; o 'ซซ' é um 's' só",
+   "curiosity": "ชิ้น é o classificador de pedaços e fatias: พิซซ่าสองชิ้น."
+  },
+  "sp08-01": {
+   "word": "แซนด์วิช",
+   "translit": "saenwit",
+   "example": "น้องกินแซนด์วิชไข่เป็นอาหารเช้า",
+   "examplePt": "O irmãozinho comeu sanduíche de ovo no café da manhã.",
+   "pron": "sɛɛn-wít — 'ɛɛ' é um 'é' aberto e longo; o 'ด์' é mudo e o 'ช' final soa 't'",
+   "curiosity": "Em palavras importadas, o sinal ์ marca uma letra muda: por isso o 'd' de 'sandwich' não soa."
+  },
+  "sp08-02": {
+   "word": "เบอร์เกอร์",
+   "translit": "boekoe",
+   "example": "เบอร์เกอร์ชิ้นนี้ใหญ่เกินกินคนเดียว",
+   "examplePt": "Este hambúrguer é grande demais para uma pessoa só.",
+   "pron": "bəə-gəə — 'əə' é um 'ê' relaxado, entre 'e' e 'ô'; os 'ร์' são mudos",
+   "curiosity": "O '-er' do inglês vira เออร์: เบอร์เกอร์ (burger), คอมพิวเตอร์ (computador)."
+  },
+  "sp08-03": {
+   "word": "มันฝรั่งทอด",
+   "translit": "man farang thot",
+   "example": "มันฝรั่งทอดร้อนๆ กรอบอร่อยจริง",
+   "examplePt": "A batata frita quentinha está crocante e deliciosa.",
+   "pron": "man fa-ràng tɔ̂ɔt — 'ฝ' é um 'f'; 'ràng' baixo; 'tɔ̂ɔt' desce",
+   "curiosity": "ฝรั่ง quer dizer 'goiaba' e também 'ocidental': มันฝรั่ง é a batata 'vinda do Ocidente'."
+  },
+  "sp08-04": {
+   "word": "ฮอตดอก",
+   "translit": "hotdok",
+   "example": "น้องกินฮอตดอกไม่หมดไหม?",
+   "examplePt": "O irmãozinho não conseguiu terminar o cachorro-quente?",
+   "pron": "hot-dok — 'ฮ' é um 'h' aspirado; o 't' e o 'k' finais ficam presos, sem soltar o ar",
+   "curiosity": "ไส้กรอก (salsicha) junta ไส้ (recheio) e กรอก (encher)."
+  },
+  "sp08-05": {
+   "word": "ขนมกรุบกรอบ",
+   "translit": "khanom krupkrop",
+   "example": "ขนมกรุบกรอบถุงนี้เค็มนิดหน่อย",
+   "examplePt": "Este pacote de salgadinho é um pouco salgado.",
+   "pron": "kà-nǒm grùp-gròp — 'nǒm' sobe; 'grùp-gròp' em tom baixo, curtos",
+   "curiosity": "กรุบกรอบ imita o barulho do 'crec-crec' de algo crocante."
+  },
+  "sp08-06": {
+   "word": "ไอศกรีมแท่ง",
+   "translit": "aisakrim thaeng",
+   "example": "ไอศกรีมแท่งรสส้มละลายเร็วมาก",
+   "examplePt": "O picolé de laranja derrete muito rápido.",
+   "pron": "ai-sà-griim tɛ̂ɛng — 'sà' curto e baixo; 'tɛ̂ɛng' desce, com 'ɛɛ' longo",
+   "curiosity": "แท่ง quer dizer 'barra': ทองแท่ง é uma barra de ouro."
+  },
+  "sp08-07": {
+   "word": "เกี๊ยวทอด",
+   "translit": "kiao thot",
+   "example": "เกี๊ยวทอดจานนี้ราดซอสหวานไหม?",
+   "examplePt": "O pastel frito deste prato leva molho doce?",
+   "pron": "gíao tɔ̂ɔt — 'gíao' alto, ditongo rápido; 'tɔ̂ɔt' desce",
+   "curiosity": "ทอด quer dizer 'fritar' e aparece em กล้วยทอด, ไก่ทอด e ปลาทอด."
+  },
+  "sp08-08": {
+   "word": "พุดดิ้ง",
+   "translit": "phutding",
+   "example": "พุดดิ้งถ้วยนี้นุ่มและหวานมาก",
+   "examplePt": "Este pudim é macio e muito doce.",
+   "pron": "pút-dîng — 'pút' alto e curto; 'dîng' desce; o 'ng' final como em 'ring'",
+   "curiosity": "ถ้วย é 'copo' ou 'tigelinha' e serve de classificador: พุดดิ้งหนึ่งถ้วย."
+  },
+  "sp09-01": {
+   "word": "สวนสาธารณะ",
+   "translit": "suan satharana",
+   "example": "วันอาทิตย์ครอบครัวไปสวนสาธารณะ",
+   "examplePt": "No domingo a família vai ao parque.",
+   "pron": "sǔan sǎa-taa-ra-ná — comece com 'sǔan' subindo; depois ritmo parelho em 4 sílabas",
+   "curiosity": "สาธารณะ é 'público' e สวน é 'jardim': o parque é um 'jardim público'."
+  },
+  "sp09-02": {
+   "word": "สวนสัตว์",
+   "translit": "suan sat",
+   "example": "ที่สวนสัตว์เราได้ให้อาหารยีราฟ",
+   "examplePt": "No zoológico demos comida à girafa.",
+   "pron": "sǔan sàt — 'sǔan' sobe; o 'ว์' é mudo e o 't' final fica preso",
+   "curiosity": "สัตว์ quer dizer 'animal': สัตว์เลี้ยง é bicho de estimação."
+  },
+  "sp09-03": {
+   "word": "สระว่ายน้ำ",
+   "translit": "sa wainam",
+   "example": "เด็กๆ กระโดดลงสระว่ายน้ำพร้อมกัน",
+   "examplePt": "As crianças pularam juntas na piscina.",
+   "pron": "sà wâai nám — baixo, descendente, alto; o 'sà' é curto",
+   "curiosity": "สระ quer dizer 'piscina' e também 'vogal': as vogais tailandesas são 'สระ'."
+  },
+  "sp09-04": {
+   "word": "ห้าง",
+   "translit": "hang",
+   "example": "วันหยุดเราไปเดินห้างกับแม่",
+   "examplePt": "No feriado fomos passear no shopping com a mãe.",
+   "pron": "hâang — tom descendente; 'h' aspirado como em inglês; 'aa' longo",
+   "curiosity": "O nome completo é ห้างสรรพสินค้า: 'loja de todas as mercadorias'."
+  },
+  "sp09-05": {
+   "word": "สนามกีฬา",
+   "translit": "sanam kila",
+   "example": "สนามกีฬาจุคนได้เป็นหมื่นเลยนะ",
+   "examplePt": "O estádio comporta dezenas de milhares de pessoas.",
+   "pron": "sà-nǎam gii-laa — 'nǎam' sobe; 'gii-laa' médio e longo",
+   "curiosity": "สนาม é 'campo': สนามฟุตบอล é o campo de futebol e สนามเด็กเล่น é o parquinho."
+  },
+  "sp09-06": {
+   "word": "สนามบิน",
+   "translit": "sanam bin",
+   "example": "พวกเราไปถึงสนามบินตั้งแต่เช้า",
+   "examplePt": "Chegamos ao aeroporto logo cedo.",
+   "pron": "sà-nǎam bin — 'nǎam' sobe; 'bin' médio, como em inglês",
+   "curiosity": "สนามบิน é literalmente 'campo de voo'; o nome formal é ท่าอากาศยาน."
+  },
+  "sp09-07": {
+   "word": "ร้านอาหาร",
+   "translit": "ran ahan",
+   "example": "ร้านอาหารริมน้ำเปิดตอนเย็นไหม?",
+   "examplePt": "O restaurante à beira da água abre à noite?",
+   "pron": "ráan aa-hǎan — 'ráan' alto; 'hǎan' sobe; 'aa' longo",
+   "curiosity": "ร้าน é 'loja' e forma muitos lugares: ร้านกาแฟ (café), ร้านหนังสือ (livraria)."
+  },
+  "sp09-08": {
+   "word": "ร้านไอศกรีม",
+   "translit": "ran aisakrim",
+   "example": "ร้านไอศกรีมมีรสมะม่วงด้วยหรือเปล่า?",
+   "examplePt": "A sorveteria tem sabor manga também?",
+   "pron": "ráan ai-sà-griim — 'ráan' alto; 'sà' curto; 'griim' longo",
+   "curiosity": "No dia a dia diz-se 'ไอติม', versão curta e informal de ไอศกรีม."
+  },
+  "sp10-01": {
+   "word": "วันนี้",
+   "translit": "wan ni",
+   "example": "วันนี้ท้องฟ้าสดใสมาก",
+   "examplePt": "Hoje o céu está muito claro.",
+   "pron": "wan níi — 'wan' médio; 'níi' alto e longo",
+   "curiosity": "นี้ quer dizer 'este' e gruda em palavras de tempo: วันนี้, ปีนี้, สัปดาห์นี้."
+  },
+  "sp10-02": {
+   "word": "เมื่อวาน",
+   "translit": "mueawan",
+   "example": "เมื่อวานเรากินข้าวที่บ้านยาย",
+   "examplePt": "Ontem comemos na casa da vovó.",
+   "pron": "mûa-waan — 'mûa' desce (ditongo 'ua'); 'waan' médio e longo",
+   "curiosity": "เมื่อ marca o passado: เมื่อวาน (ontem), เมื่อคืน (ontem à noite)."
+  },
+  "sp10-03": {
+   "word": "พรุ่งนี้",
+   "translit": "phrungni",
+   "example": "พรุ่งนี้พวกเราจะไปว่ายน้ำ",
+   "examplePt": "Amanhã vamos nadar.",
+   "pron": "prûng níi — 'prûng' desce e o 'r' é suave; 'níi' alto",
+   "curiosity": "Depois de amanhã é มะรืนนี้, uma palavra própria."
+  },
+  "sp10-04": {
+   "word": "ตอนนี้",
+   "translit": "tonni",
+   "example": "ตอนนี้กี่โมงแล้วนะ?",
+   "examplePt": "Que horas são agora?",
+   "pron": "dtɔɔn níi — 'dt' é um 't' seco, quase 'd'; 'níi' alto",
+   "curiosity": "เดี๋ยวนี้ é 'agora mesmo' e soa mais urgente que ตอนนี้."
+  },
+  "sp10-05": {
+   "word": "ทีหลัง",
+   "translit": "thi lang",
+   "example": "ไว้ทีหลังค่อยคุยกันนะ",
+   "examplePt": "Depois a gente conversa, tá?",
+   "pron": "tii lǎng — 'tii' médio e longo; 'lǎng' sobe",
+   "curiosity": "หลัง quer dizer 'depois' e também 'atrás': หลังบ้าน é o quintal dos fundos."
+  },
+  "sp10-06": {
+   "word": "ก่อน",
+   "translit": "kon",
+   "example": "ล้างมือก่อนกินข้าวทุกครั้ง",
+   "examplePt": "Lave as mãos antes de comer, sempre.",
+   "pron": "gɔ̀ɔn — tom baixo; 'ɔɔ' é um 'ó' aberto e longo",
+   "curiosity": "ก่อน é 'antes' e หลัง é 'depois': ก่อนนอน (antes de dormir), หลังกินข้าว (após comer)."
+  },
+  "sp10-07": {
+   "word": "คืนนี้",
+   "translit": "khuen ni",
+   "example": "คืนนี้ไปดูดาวกันไหม?",
+   "examplePt": "Vamos ver as estrelas esta noite?",
+   "pron": "kʉʉn níi — 'ʉʉ' é um 'u' sem arredondar os lábios; 'níi' alto",
+   "curiosity": "คืน quer dizer 'noite' e também 'devolver': คืนเงิน é devolver o dinheiro."
+  },
+  "sp10-08": {
+   "word": "ตอนเช้า",
+   "translit": "ton chao",
+   "example": "ตอนเช้าอากาศเย็นสบาย",
+   "examplePt": "De manhã o tempo está fresco e agradável.",
+   "pron": "dtɔɔn cháao — 'cháao' alto; 'ch' suave",
+   "curiosity": "เช้า significa 'manhã' e também 'cedo': ตื่นเช้า é 'acordar cedo'."
+  },
+  "sp11-01": {
+   "word": "กินหน่อยไหม?",
+   "translit": "kin noi mai",
+   "example": "กินหน่อยไหม? ขนมนี้เพิ่งอบเสร็จ",
+   "examplePt": "Quer um pouco? Este doce acabou de sair do forno.",
+   "pron": "gin nɔ̀ɔi mái — 'gin' médio; 'nɔ̀ɔi' baixo; 'mái' alto",
+   "curiosity": "หน่อย quer dizer 'um pouquinho' e suaviza pedidos: ช่วยหน่อย, ขอหน่อย."
+  },
+  "sp11-02": {
+   "word": "ดื่มชาไหม?",
+   "translit": "duem cha mai",
+   "example": "ดื่มชาไหม? ชานี้หอมกลิ่นมะลิ",
+   "examplePt": "Aceita um chá? Este tem aroma de jasmim.",
+   "pron": "dʉ̀ʉm chaa mái — 'dʉ̀ʉm' baixo e longo; 'mái' alto",
+   "curiosity": "ไหม com tom alto (mái) faz perguntas de sim/não; ไหม com tom ascendente é a seda."
+  },
+  "sp11-03": {
+   "word": "เชิญทานเลย",
+   "translit": "choen than loei",
+   "example": "เชิญทานเลย ข้าวต้มยังร้อนอยู่",
+   "examplePt": "Sirva-se, o mingau de arroz ainda está quente.",
+   "pron": "chəən taan ləəi — 'chəən' médio; 'əə' fica entre 'ê' e 'ó'; 'ləəi' médio",
+   "curiosity": "เชิญ é um convite educado: เชิญนั่ง (sente-se), เชิญเข้ามา (entre)."
+  },
+  "sp11-04": {
+   "word": "เข้ามาไหม?",
+   "translit": "khao ma mai",
+   "example": "เข้ามาไหม? ข้างนอกฝนตกหนักนะ",
+   "examplePt": "Quer entrar? Lá fora a chuva está forte.",
+   "pron": "kâo maa mái — 'kâo' desce; 'maa' médio e longo; 'mái' alto",
+   "curiosity": "เข้า é 'entrar' e ออก é 'sair': ทางเข้า e ทางออก aparecem em toda placa."
+  },
+  "sp11-05": {
+   "word": "ให้ช่วยไหม?",
+   "translit": "hai chuai mai",
+   "example": "ให้ช่วยไหม? กระเป๋านั้นดูหนักมาก",
+   "examplePt": "Posso ajudar? Essa mala parece muito pesada.",
+   "pron": "hâi chûai mái — 'hâi' e 'chûai' descem; 'mái' sobe em tom alto",
+   "curiosity": "ให้ é 'dar' e também 'deixar eu': ให้ช่วยไหม quer dizer 'deixa eu ajudar?'."
+  },
+  "sp11-06": {
+   "word": "ไปกินข้าวกันไหม?",
+   "translit": "pai kin khao kan mai",
+   "example": "ไปกินข้าวกันไหม? ฉันหิวแล้ว",
+   "examplePt": "Vamos comer? Já estou com fome.",
+   "pron": "pai gin kâao gan mái — tudo médio, menos 'kâao' (desce) e 'mái' (alto)",
+   "curiosity": "กินข้าว é literalmente 'comer arroz', mas serve para dizer 'fazer uma refeição'."
+  },
+  "sp11-07": {
+   "word": "แบ่งกันไหม?",
+   "translit": "baeng kan mai",
+   "example": "แบ่งกันไหม? พิซซ่านี้ชิ้นใหญ่มาก",
+   "examplePt": "Vamos dividir? Esta pizza é enorme.",
+   "pron": "bɛ̀ɛng gan mái — 'bɛ̀ɛng' baixo, com 'ɛɛ' longo; 'mái' alto",
+   "curiosity": "แบ่ง é 'dividir' e แบ่งปัน é 'compartilhar'; ambas valem para comida e ideias."
+  },
+  "sp11-08": {
+   "word": "ชิมดูไหม?",
+   "translit": "chim du mai",
+   "example": "ชิมดูไหม? น้ำพริกนี้ไม่เผ็ดมาก",
+   "examplePt": "Quer provar? Este molho não é muito picante.",
+   "pron": "chim duu mái — 'chim' médio e curto; 'mái' alto",
+   "curiosity": "ชิม é provar um sabor; para testar uma roupa ou um objeto usa-se ลอง."
+  },
+  "sp12-01": {
+   "word": "ยินดีเลย",
+   "translit": "yindi loei",
+   "example": "ยินดีเลย ถ้าต้องการอะไรบอกได้เสมอ",
+   "examplePt": "Foi um prazer, se precisar de algo é só falar.",
+   "pron": "yin-dii ləəi — todas em tom médio; 'ləəi' tem ditongo 'əə-i'",
+   "curiosity": "ยินดี quer dizer 'ter prazer' e aparece também em ยินดีต้อนรับ e ยินดีด้วย."
+  },
+  "sp12-02": {
+   "word": "เราต่างหากที่ขอบคุณ",
+   "translit": "rao tanghak thi khopkhun",
+   "example": "เราต่างหากที่ขอบคุณ วันนี้สนุกมาก",
+   "examplePt": "Eu é que agradeço, hoje foi muito divertido.",
+   "pron": "rao dtàang-hàak tîi kɔ̀ɔp-kun — 'dtàang-hàak' baixo; 'tîi' desce",
+   "curiosity": "ต่างหาก dá ênfase e vira o argumento: 'ao contrário, é eu que...'."
+  },
+  "sp12-03": {
+   "word": "ไม่ต้องก็ได้",
+   "translit": "mai tong ko dai",
+   "example": "ไม่ต้องก็ได้ ซื้อของมาให้ทำไม?",
+   "examplePt": "Não precisava, por que comprou um presente?",
+   "pron": "mâi dtɔ̂ng gɔ̂ dâai — quase tudo desce; o 'ก็' (gɔ̂) é curto",
+   "curiosity": "ก็ é uma das partículas mais frequentes e liga ideias: 'então', 'também', 'mesmo assim'."
+  },
+  "sp12-04": {
+   "word": "ดีใจที่ได้ช่วย",
+   "translit": "di chai thi dai chuai",
+   "example": "ดีใจที่ได้ช่วย ขอให้เดินทางปลอดภัยนะ",
+   "examplePt": "Fico feliz em ajudar, boa viagem!",
+   "pron": "dii-jai tîi dâai chûai — 'tîi', 'dâai' e 'chûai' descem",
+   "curiosity": "ดีใจ é 'alegre' (ดี + ใจ) e เสียใจ é 'triste' (เสีย + ใจ)."
+  },
+  "sp12-05": {
+   "word": "ไว้ใจได้เลย",
+   "translit": "wai chai dai loei",
+   "example": "ไว้ใจได้เลย เรื่องนี้เรารับผิดชอบเอง",
+   "examplePt": "Conte comigo, eu mesmo cuido disso.",
+   "pron": "wái-jai dâai ləəi — 'wái' alto; 'jai' médio; 'dâai' desce",
+   "curiosity": "ไว้ใจ quer dizer 'confiar' e é a base de ความไว้ใจ, a confiança."
+  },
+  "sp12-06": {
+   "word": "ชอบมากเลย",
+   "translit": "chop mak loei",
+   "example": "ชอบมากเลย ของขวัญชิ้นนี้ตรงใจสุด",
+   "examplePt": "Gostei muito, este presente é a minha cara.",
+   "pron": "chɔ̂ɔp mâak ləəi — 'chɔ̂ɔp' e 'mâak' descem",
+   "curiosity": "เลย no fim da frase reforça a emoção, como 'demais' ou 'mesmo'."
+  },
+  "sp12-07": {
+   "word": "ช่วยได้มากเลย",
+   "translit": "chuai dai mak loei",
+   "example": "ช่วยได้มากเลย ไม่อย่างนั้นงานไม่เสร็จ",
+   "examplePt": "Ajudou muito, senão o trabalho não terminaria.",
+   "pron": "chûai dâai mâak ləəi — três sílabas descem seguidas",
+   "curiosity": "ได้ depois de um verbo indica capacidade: ช่วยได้ (consegue ajudar), กินได้ (dá para comer)."
+  },
+  "sp12-08": {
+   "word": "มีประโยชน์มาก",
+   "translit": "mi prayot mak",
+   "example": "มีประโยชน์มาก ตอนนี้เข้าใจทุกอย่างแล้ว",
+   "examplePt": "Foi muito útil, agora entendo tudo.",
+   "pron": "mii bprà-yòot mâak — 'dpr' é um 'p' seco; 'yòot' baixo e longo",
+   "curiosity": "ประโยชน์ é 'utilidade': ไม่มีประโยชน์ quer dizer 'não adianta'."
+  },
+  "sp13-01": {
+   "word": "ออกมาสวยมาก",
+   "translit": "ok ma suai mak",
+   "example": "ออกมาสวยมาก ใครช่วยจัดดอกไม้เหรอ?",
+   "examplePt": "Ficou lindo, quem ajudou a arrumar as flores?",
+   "pron": "ɔ̀ɔk maa sǔai mâak — 'ɔ̀ɔk' baixo; 'sǔai' sobe; 'mâak' desce",
+   "curiosity": "ออกมา depois de um verbo diz o resultado: ออกมาดี (saiu bem), ออกมาสวย (ficou bonito)."
+  },
+  "sp13-02": {
+   "word": "ร้องเพลงเก่ง",
+   "translit": "rong phleng keng",
+   "example": "ร้องเพลงเก่ง ไปประกวดได้เลยนะ",
+   "examplePt": "Você canta bem, poderia até competir.",
+   "pron": "rɔ́ɔng pleeng gèng — 'rɔ́ɔng' alto; 'pleeng' médio; 'gèng' baixo",
+   "curiosity": "เก่ง vem depois do verbo e mostra habilidade: ร้องเพลงเก่ง, วาดรูปเก่ง."
+  },
+  "sp13-03": {
+   "word": "งานดีมาก",
+   "translit": "ngan di mak",
+   "example": "งานดีมาก ทุกคนปรบมือให้เลย",
+   "examplePt": "Bom trabalho, todo mundo aplaudiu.",
+   "pron": "ngaan dii mâak — 'ng' inicial como no fim de 'ring'; 'mâak' desce",
+   "curiosity": "งาน é 'trabalho' e também 'evento': งานแต่ง (casamento) e งานเลี้ยง (festa)."
+  },
+  "sp13-04": {
+   "word": "เสื้อผ้าสวยจัง",
+   "translit": "suea pha suai chang",
+   "example": "เสื้อผ้าสวยจัง ซื้อมาจากที่ไหนเหรอ?",
+   "examplePt": "Que roupa bonita, onde você comprou?",
+   "pron": "sûa-pâa sǔai jang — 'sûa-pâa' desce nas duas; 'sǔai' sobe",
+   "curiosity": "เสื้อผ้า junta 'camisa' e 'pano' e quer dizer 'roupas' em geral."
+  },
+  "sp13-05": {
+   "word": "คุณใจดีมาก",
+   "translit": "khun chai di mak",
+   "example": "คุณใจดีมาก ขอบใจนะที่รอเรา",
+   "examplePt": "Você é muito gentil, obrigado por nos esperar.",
+   "pron": "kun jai dii mâak — 'kun', 'jai' e 'dii' médios; só 'mâak' desce",
+   "curiosity": "ใจดี é 'bom de coração', e o contrário é ใจร้าย."
+  },
+  "sp13-06": {
+   "word": "เก่งมาก",
+   "translit": "keng mak",
+   "example": "เก่งมาก! เธอแก้โจทย์เสร็จก่อนใครเลย",
+   "examplePt": "Muito bem! Ela resolveu o problema antes de todos.",
+   "pron": "gèng mâak — 'gèng' baixo; 'mâak' desce; 'ng' final como em 'ring'",
+   "curiosity": "เก่ง é elogio forte: pais e professores o usam com as crianças."
+  },
+  "sp13-07": {
+   "word": "วิ่งเร็วจัง",
+   "translit": "wing reo chang",
+   "example": "วิ่งเร็วจัง ตามไม่ทันเลย",
+   "examplePt": "Como você corre rápido, não consigo acompanhar.",
+   "pron": "wîng reo jang — 'wîng' desce; 'reo' e 'jang' médios",
+   "curiosity": "เร็ว é 'rápido' e ช้า é 'devagar': เร็วๆ หน่อย quer dizer 'ande logo'."
+  },
+  "sp13-08": {
+   "word": "ความคิดดีนะ",
+   "translit": "khwamkhit di na",
+   "example": "ความคิดดีนะ ลองทำตามนี้ก็ได้",
+   "examplePt": "Boa ideia, podemos tentar assim.",
+   "pron": "kwaam-kít dii ná — 'kít' alto e curto; 'ná' alto",
+   "curiosity": "ความคิด é 'pensamento' e vem de คิด (pensar) com ความ na frente."
+  },
+  "sp14-01": {
+   "word": "ไปเที่ยวกันไหม?",
+   "translit": "pai thiao kan mai",
+   "example": "ไปเที่ยวกันไหม? เสาร์นี้ว่างพอดี",
+   "examplePt": "Vamos sair? Neste sábado estou livre.",
+   "pron": "pai tîao gan mái — 'tîao' desce; 'mái' alto",
+   "curiosity": "เที่ยว é passear por lazer: เที่ยวทะเล, เที่ยวตลาด, เที่ยวสวนสนุก."
+  },
+  "sp14-02": {
+   "word": "เจอกันที่ไหน?",
+   "translit": "choe kan thi nai",
+   "example": "เจอกันที่ไหน? หน้าห้างดีไหม?",
+   "examplePt": "Onde nos encontramos? Em frente ao shopping?",
+   "pron": "jəə gan tîi nǎi — 'tîi' desce; 'nǎi' sobe",
+   "curiosity": "ที่ไหน é 'onde?' e ไหน aparece também em อันไหน (qual) e ทางไหน (que caminho)."
+  },
+  "sp14-03": {
+   "word": "กี่โมงดี?",
+   "translit": "ki mong di",
+   "example": "กี่โมงดี? เช้านี้เราว่างทั้งวัน",
+   "examplePt": "Que horas ficam bem? Hoje de manhã estamos livres o dia todo.",
+   "pron": "gìi moong dii — 'gìi' baixo; 'moong' e 'dii' médios",
+   "curiosity": "โมง conta as horas de manhã; depois do meio-dia as pessoas usam บ่าย, เย็น, ทุ่ม."
+  },
+  "sp14-04": {
+   "word": "รอที่นั่นนะ",
+   "translit": "ro thi nan na",
+   "example": "รอที่นั่นนะ เดี๋ยวเราตามไปทีหลัง",
+   "examplePt": "Te espero lá, já vou depois.",
+   "pron": "rɔɔ tîi nân ná — 'tîi' e 'nân' descem; 'ná' alto",
+   "curiosity": "นี่, นั่น e โน่น vão de perto a longe: 'este', 'esse', 'aquele'."
+  },
+  "sp14-05": {
+   "word": "อีกสิบนาทีถึง",
+   "translit": "ik sip nathi thueng",
+   "example": "อีกสิบนาทีถึง รถติดนิดหน่อย",
+   "examplePt": "Chego em dez minutos, o trânsito está um pouco parado.",
+   "pron": "ìik sìp naa-tii tʉ̌ng — 'ìik' e 'sìp' baixos; 'tʉ̌ng' sobe",
+   "curiosity": "รถติด quer dizer 'carro preso': é a forma de dizer 'trânsito'."
+  },
+  "sp14-06": {
+   "word": "บอกด้วยนะ",
+   "translit": "bok duai na",
+   "example": "บอกด้วยนะ ถ้ามีอะไรเปลี่ยนแปลง",
+   "examplePt": "Me avise se algo mudar.",
+   "pron": "bɔ̀ɔk dûai ná — 'bɔ̀ɔk' baixo; 'dûai' desce; 'ná' alto",
+   "curiosity": "ด้วย no fim do pedido tem sentido de 'por favor, também' e vale para pedir um aviso."
+  },
+  "sp14-07": {
+   "word": "ตกลงตามนั้น",
+   "translit": "tok long tam nan",
+   "example": "ตกลงตามนั้น แล้วเจอกันตอนเย็น",
+   "examplePt": "Combinado, a gente se vê no fim do dia.",
+   "pron": "dtòk-long dtaam nân — 'dtòk' baixo; 'dtaam' médio; 'nân' desce",
+   "curiosity": "ตกลง quer dizer 'concordar' e também é a resposta curta 'tá bom, fechado'."
+  },
+  "sp14-08": {
+   "word": "ให้เอาอะไรไปไหม?",
+   "translit": "hai ao arai pai mai",
+   "example": "ให้เอาอะไรไปไหม? ขนมหรือน้ำผลไม้ดี?",
+   "examplePt": "Posso levar algo? Doces ou suco?",
+   "pron": "hâi ao à-rai pai mái — 'hâi' desce; 'à-rai' baixo; 'mái' alto",
+   "curiosity": "อะไร quer dizer 'o quê' e ใคร 'quem': ambos vêm no lugar da resposta na frase."
+  },
+  "sp15-01": {
+   "word": "ข่าวดีจัง",
+   "translit": "khao di chang",
+   "example": "ข่าวดีจัง! เธอสอบติดแล้วใช่ไหม?",
+   "examplePt": "Que ótima notícia! Ela passou na prova, né?",
+   "pron": "kàao dii jang — 'kàao' baixo e longo; 'dii' e 'jang' médios",
+   "curiosity": "ข่าว é 'notícia', e ข่าวสาร junta notícia e informação."
+  },
+  "sp15-02": {
+   "word": "ไม่อยากเชื่อ",
+   "translit": "mai yak chuea",
+   "example": "ไม่อยากเชื่อ! เขากลับมาแล้วจริงๆ",
+   "examplePt": "Não acredito! Ele voltou de verdade.",
+   "pron": "mâi yàak chûa — 'mâi' desce; 'yàak' baixo; 'chûa' desce",
+   "curiosity": "เชื่อ é 'acreditar': เชื่อใจ é 'confiar' e เชื่อฟัง é 'obedecer'."
+  },
+  "sp15-03": {
+   "word": "จริงเหรอ?",
+   "translit": "ching hoe",
+   "example": "จริงเหรอ? เมื่อกี้ได้ยินเสียงอะไรนะ",
+   "examplePt": "É mesmo? Que barulho foi esse agora há pouco?",
+   "pron": "jing rə̌ə — 'jing' médio; 'rə̌ə' sobe; 'ə' fica entre 'ê' e 'ó'",
+   "curiosity": "เหรอ no fim da frase vira pergunta de surpresa: 'é mesmo?'."
+  },
+  "sp15-04": {
+   "word": "ตกใจหมด",
+   "translit": "tok chai mot",
+   "example": "ตกใจหมด! ลูกบอลลอยมาจากไหน",
+   "examplePt": "Que susto! De onde veio essa bola?",
+   "pron": "dtòk-jai mòt — 'dtòk' e 'mòt' baixos; 'jai' médio",
+   "curiosity": "ตกใจ é literalmente 'o coração cai': ตก (cair) + ใจ (coração)."
+  },
+  "sp15-05": {
+   "word": "ไม่คาดคิดเลย",
+   "translit": "mai khat khit loei",
+   "example": "ไม่คาดคิดเลย ปาร์ตี้เซอร์ไพรส์นี่เอง",
+   "examplePt": "Que surpresa, era uma festa-surpresa.",
+   "pron": "mâi kâat kít ləəi — 'mâi' e 'kâat' descem; 'kít' alto",
+   "curiosity": "คาด é 'esperar, supor': ไม่คาดคิด é 'não esperar nem pensar'."
+  },
+  "sp15-06": {
+   "word": "ขำจัง",
+   "translit": "kham chang",
+   "example": "ขำจัง! ลูกแมวกลิ้งตกเก้าอี้ด้วย",
+   "examplePt": "Que engraçado! O gatinho rolou da cadeira.",
+   "pron": "kǎm jang — 'kǎm' sobe; 'jang' médio",
+   "curiosity": "Os tailandeses escrevem 555 na internet para rir: 5 se lê 'ha'."
+  },
+  "sp15-07": {
+   "word": "น่ารักจัง",
+   "translit": "na rak chang",
+   "example": "น่ารักจัง! ลูกหมาตัวนี้ชื่ออะไรเหรอ?",
+   "examplePt": "Que fofo! Qual é o nome deste cachorrinho?",
+   "pron": "nâa rák jang — 'nâa' desce; 'rák' alto e curto",
+   "curiosity": "รัก é 'amar', mas น่ารัก (fofo) é usado até para gatinhos e bebês."
+  },
+  "sp15-08": {
+   "word": "น่ากินจัง",
+   "translit": "na kin chang",
+   "example": "น่ากินจัง กลิ่นหอมไปทั้งบ้านเลย",
+   "examplePt": "Que delícia, o cheiro se espalha pela casa toda.",
+   "pron": "nâa gin jang — 'nâa' desce; 'gin' e 'jang' médios",
+   "curiosity": "จัง no fim reforça o adjetivo, como 'tão' ou 'demais'; é bem informal."
+  },
+  "sp16-01": {
+   "word": "ไปกลับ",
+   "translit": "pai klap",
+   "example": "ซื้อตั๋วไปกลับสองใบนะ",
+   "examplePt": "Compre dois bilhetes de ida e volta.",
+   "pron": "pai glàp — 'pai' médio; 'glàp' baixo, com 'gl' junto e 'p' final preso",
+   "curiosity": "ตั๋วเที่ยวเดียว é o bilhete só de ida: literalmente 'uma viagem só'."
+  },
+  "sp16-02": {
+   "word": "ชานชาลาไหน?",
+   "translit": "chanchala nai",
+   "example": "ชานชาลาไหน? รถไฟออกในห้านาที",
+   "examplePt": "Qual plataforma? O trem sai em cinco minutos.",
+   "pron": "chaan-chaa-laa nǎi — três sílabas médias e longas; 'nǎi' sobe",
+   "curiosity": "ไหน fica no fim da pergunta: ชานชาลาไหน é literalmente 'plataforma qual?'."
+  },
+  "sp16-03": {
+   "word": "ออกกี่โมง?",
+   "translit": "ok ki mong",
+   "example": "รถไฟออกกี่โมง? เรายังซื้อตั๋วไม่เสร็จ",
+   "examplePt": "Que horas o trem parte? Ainda não compramos o bilhete.",
+   "pron": "ɔ̀ɔk gìi moong — 'ɔ̀ɔk' e 'gìi' baixos; 'moong' médio",
+   "curiosity": "ออก é 'sair' e vira ทางออก (saída) e รถออก (o ônibus parte)."
+  },
+  "sp16-04": {
+   "word": "ลงตรงนี้",
+   "translit": "long trong ni",
+   "example": "ลงตรงนี้เลยนะ ใกล้ตลาดแล้ว",
+   "examplePt": "Desço aqui mesmo, já estamos perto do mercado.",
+   "pron": "long dtrong níi — 'dtr' é um 't' seco; 'níi' alto",
+   "curiosity": "ตรง quer dizer 'reto' e 'exato': ตรงนี้ é 'bem aqui' e ตรงเวลา é 'pontual'."
+  },
+  "sp16-05": {
+   "word": "จอดตรงนี้ด้วย",
+   "translit": "chot trong ni duai",
+   "example": "จอดตรงนี้ด้วย เรามาถึงโรงเรียนแล้ว",
+   "examplePt": "Pare aqui, por favor, chegamos à escola.",
+   "pron": "jɔ̀ɔt dtrong níi dûai — 'jɔ̀ɔt' baixo; 'níi' alto; 'dûai' desce",
+   "curiosity": "จอด é 'parar' ou 'estacionar': จอดรถ, ที่จอดรถ (estacionamento)."
+  },
+  "sp16-06": {
+   "word": "ที่นี่ว่างไหม?",
+   "translit": "thi ni wang mai",
+   "example": "ที่นี่ว่างไหม? ขอนั่งด้วยได้หรือเปล่า",
+   "examplePt": "Este lugar está livre? Posso me sentar?",
+   "pron": "tîi-nîi wâang mái — 'tîi-nîi' desce nas duas; 'wâang' desce; 'mái' alto",
+   "curiosity": "ว่าง é 'livre' e 'vazio': รถว่าง, ห้องว่าง, วันว่าง."
+  },
+  "sp16-07": {
+   "word": "คาดเข็มขัดด้วย",
+   "translit": "khat khemkhat duai",
+   "example": "คาดเข็มขัดด้วย รถกำลังจะออกแล้ว",
+   "examplePt": "Coloque o cinto, o carro já vai sair.",
+   "pron": "kâat kěm-kàt dûai — 'kâat' desce; 'kěm' sobe; 'kàt' baixo",
+   "curiosity": "เข็มขัดนิรภัย é o cinto de segurança; só เข็มขัด é o cinto de calça."
+  },
+  "sp16-08": {
+   "word": "มีที่ว่างไหม?",
+   "translit": "mi thi wang mai",
+   "example": "มีที่ว่างไหม? เรามากันสี่คน",
+   "examplePt": "Tem lugar? Somos quatro pessoas.",
+   "pron": "mii tîi wâang mái — 'tîi' e 'wâang' descem; 'mái' alto",
+   "curiosity": "ที่ é 'lugar': ที่นั่ง (assento), ที่ว่าง (vaga), ที่พัก (hospedagem)."
+  },
+  "sp17-01": {
+   "word": "ไม่ใส่น้ำตาล",
+   "translit": "mai sai namtan",
+   "example": "ขอกาแฟไม่ใส่น้ำตาลนะ",
+   "examplePt": "Quero um café sem açúcar, por favor.",
+   "pron": "mâi sài nám-dtaan — 'mâi' desce; 'sài' baixo; 'nám' alto; 'dt' seco",
+   "curiosity": "น้ำตาล quer dizer 'açúcar' e também 'marrom': สีน้ำตาล é a cor marrom."
+  },
+  "sp17-02": {
+   "word": "ใส่น้ำแข็งด้วย",
+   "translit": "sai namkhaeng duai",
+   "example": "ใส่น้ำแข็งด้วย วันนี้ร้อนมาก",
+   "examplePt": "Com gelo, por favor, hoje está muito quente.",
+   "pron": "sài nám-kɛ̌ng dûai — 'sài' baixo; 'nám' alto; 'kɛ̌ng' sobe",
+   "curiosity": "Pedir 'เย็น' numa bebida a deixa gelada: ชาเย็น e กาแฟเย็น."
+  },
+  "sp17-03": {
+   "word": "ขอเพิ่มอีกนิด",
+   "translit": "kho phoem ik nit",
+   "example": "ขอเพิ่มอีกนิด ซอสยังน้อยไป",
+   "examplePt": "Mais um pouco, o molho ainda está pouco.",
+   "pron": "kɔ̌ɔ pə̂əm ìik nít — 'kɔ̌ɔ' sobe; 'pə̂əm' desce; 'nít' alto e curto",
+   "curiosity": "นิด quer dizer 'um tico' e นิดหน่อย é 'um pouquinho'."
+  },
+  "sp17-04": {
+   "word": "ขอเหมือนกัน",
+   "translit": "kho muean kan",
+   "example": "ขอเหมือนกัน น้ำส้มแก้วหนึ่ง",
+   "examplePt": "Para mim também, um copo de suco de laranja.",
+   "pron": "kɔ̌ɔ mʉ̌an gan — 'kɔ̌ɔ' e 'mʉ̌an' sobem; 'gan' médio",
+   "curiosity": "เหมือนกัน também responde a 'igualmente!': tanto 'eu também' quanto 'para você também'."
+  },
+  "sp17-05": {
+   "word": "เหมือนเดิม",
+   "translit": "muean doem",
+   "example": "เหมือนเดิมนะ ฉันชอบรสนี้ที่สุด",
+   "examplePt": "A mesma coisa, adoro esse sabor.",
+   "pron": "mʉ̌an dəəm — 'mʉ̌an' sobe; 'dəəm' médio",
+   "curiosity": "เดิม quer dizer 'original' ou 'de antes': เหมือนเดิม é 'como antes'."
+  },
+  "sp17-06": {
+   "word": "ขอแค่หนึ่งชิ้น",
+   "translit": "kho khae nueng chin",
+   "example": "ขอแค่หนึ่งชิ้น เพราะอิ่มมาแล้ว",
+   "examplePt": "Só uma fatia, porque já estou satisfeito.",
+   "pron": "kɔ̌ɔ kɛ̂ɛ nʉ̀ng chín — 'kɛ̂ɛ' desce; 'nʉ̀ng' baixo; 'chín' alto",
+   "curiosity": "แค่ quer dizer 'apenas': แค่นี้ é 'só isso' e แค่นั้น é 'só aquilo'."
+  },
+  "sp17-07": {
+   "word": "เต็มแก้วเลย",
+   "translit": "tem kaeo loei",
+   "example": "เต็มแก้วเลย กระหายน้ำมากเลย",
+   "examplePt": "Encha o copo, estou com muita sede.",
+   "pron": "dtem gɛ̂ɛo ləəi — 'dtem' médio; 'gɛ̂ɛo' desce; 'ləəi' médio",
+   "curiosity": "เต็ม é 'cheio' e também 'lotado': ห้องเต็ม quer dizer 'quarto sem vaga'."
+  },
+  "sp17-08": {
+   "word": "ร้อนไหม?",
+   "translit": "ron mai",
+   "example": "ร้อนไหม? กลัวลวกลิ้นนะ",
+   "examplePt": "Está quente? Tenho medo de queimar a língua.",
+   "pron": "rɔ́ɔn mái — as duas em tom alto; o 'r' é suave",
+   "curiosity": "ร้อน serve para tempo e comida, enquanto อุ่น é 'morno'."
+  },
+  "sp18-01": {
+   "word": "หนาวจัง",
+   "translit": "nao chang",
+   "example": "หนาวจัง ขอผ้าห่มผืนหนึ่งได้ไหม?",
+   "examplePt": "Que frio, pode me dar um cobertor?",
+   "pron": "nǎao jang — 'nǎao' sobe, com ditongo 'ao'; 'jang' médio",
+   "curiosity": "หนาว é o frio do tempo; para algo gelado ao toque usa-se เย็น."
+  },
+  "sp18-02": {
+   "word": "ร้อนจังเลย",
+   "translit": "ron chang loei",
+   "example": "ร้อนจังเลย เปิดพัดลมหน่อยสิ",
+   "examplePt": "Que calor, ligue o ventilador!",
+   "pron": "rɔ́ɔn jang ləəi — 'rɔ́ɔn' alto; o 'r' é suave",
+   "curiosity": "ใจร้อน é 'coração quente' e quer dizer 'impaciente'."
+  },
+  "sp18-03": {
+   "word": "กังวลจัง",
+   "translit": "kangwon chang",
+   "example": "กังวลจัง พรุ่งนี้มีสอบใหญ่",
+   "examplePt": "Estou preocupado, amanhã tem prova importante.",
+   "pron": "gang-won jang — 'gang' e 'won' médios; 'ng' final como em 'ring'",
+   "curiosity": "กังวล é preocupação por si mesmo, e ห่วง é preocupação com outra pessoa."
+  },
+  "sp18-04": {
+   "word": "อิ่มแล้ว",
+   "translit": "im laeo",
+   "example": "อิ่มแล้ว ขอบคุณสำหรับมื้อนี้",
+   "examplePt": "Estou satisfeito, obrigado pela refeição.",
+   "pron": "ìm lɛ́ɛo — 'ìm' baixo; 'lɛ́ɛo' alto, com 'ɛɛ' longo",
+   "curiosity": "แล้ว marca o 'já': อิ่มแล้ว é 'já estou cheio' e หิวแล้ว é 'já estou com fome'."
+  },
+  "sp18-05": {
+   "word": "สนุกมากเลย",
+   "translit": "sanuk mak loei",
+   "example": "สนุกมากเลย ขอเล่นอีกรอบได้ไหม?",
+   "examplePt": "Estou me divertindo muito, posso jogar mais uma rodada?",
+   "pron": "sà-nùk mâak ləəi — 'sà-nùk' baixos; 'mâak' desce",
+   "curiosity": "Para um livro ou filme interessante usa-se น่าสนใจ, e สนุก fica para o que diverte."
+  },
+  "sp18-06": {
+   "word": "สบายดีมาก",
+   "translit": "sabai di mak",
+   "example": "สบายดีมาก ขอบคุณที่ถามนะ",
+   "examplePt": "Estou muito bem, obrigado por perguntar.",
+   "pron": "sà-baai dii mâak — 'sà' baixo; 'baai' e 'dii' médios; 'mâak' desce",
+   "curiosity": "สบาย quer dizer 'confortável' e 'bem': นั่งสบาย, นอนสบาย, สบายใจ."
+  },
+  "sp18-07": {
+   "word": "งงไปหมด",
+   "translit": "ngong pai mot",
+   "example": "งงไปหมด ทำไมไฟดับเองล่ะ?",
+   "examplePt": "Estou confuso, por que a luz apagou sozinha?",
+   "pron": "ngong pai mòt — 'ng' inicial como no fim de 'ring'; 'mòt' baixo",
+   "curiosity": "งง é gíria muito usada para 'confuso' e mais informal que สับสน."
+  },
+  "sp18-08": {
+   "word": "ไอไม่หยุด",
+   "translit": "ai mai yut",
+   "example": "ไอไม่หยุดเลย ต้องไปหาหมอแล้ว",
+   "examplePt": "Não paro de tossir, preciso ir ao médico.",
+   "pron": "ai mâi yùt — 'ai' médio; 'mâi' desce; 'yùt' baixo (o 'ห' é mudo)",
+   "curiosity": "ไอ é tossir e จาม é espirrar: dois verbos curtos para duas situações."
+  },
+  "sp19-01": {
+   "word": "วันนี้เป็นไงบ้าง?",
+   "translit": "wan ni pen ngai bang",
+   "example": "วันนี้เป็นไงบ้าง? เหนื่อยไหม?",
+   "examplePt": "Como foi o dia? Cansou?",
+   "pron": "wan níi pen ngai bâang — 'ng' inicial; 'níi' alto; 'bâang' desce",
+   "curiosity": "ไง é a forma falada e curta de อย่างไร ('como')."
+  },
+  "sp19-02": {
+   "word": "อยู่แถวนี้เหรอ?",
+   "translit": "yu thaeo ni hoe",
+   "example": "อยู่แถวนี้เหรอ? บ้านเราก็อยู่แถวนี้เหมือนกัน",
+   "examplePt": "Mora por aqui? Nossa casa também fica por aqui.",
+   "pron": "yùu tɛ̌ɛo níi rə̌ə — 'yùu' baixo; 'tɛ̌ɛo' sobe; 'rə̌ə' sobe",
+   "curiosity": "แถว quer dizer 'fileira' e 'arredores': แถวนี้ é 'por aqui'."
+  },
+  "sp19-03": {
+   "word": "ทำงานอะไร?",
+   "translit": "tham ngan arai",
+   "example": "ทำงานอะไรเหรอ? ดูยุ่งมากเลย",
+   "examplePt": "Trabalha com o quê? Parece muito ocupado.",
+   "pron": "tam-ngaan à-rai — 'ng' inicial; 'à-rai' baixo e médio",
+   "curiosity": "Em vez de 'profissão', os tailandeses perguntam 'trabalha com o quê?'."
+  },
+  "sp19-04": {
+   "word": "มีพี่น้องไหม?",
+   "translit": "mi phi nong mai",
+   "example": "มีพี่น้องไหม? เรามีน้องสาวสองคน",
+   "examplePt": "Tem irmãos? Eu tenho duas irmãs mais novas.",
+   "pron": "mii pîi-nɔ́ɔng mái — 'pîi' desce; 'nɔ́ɔng' alto; 'mái' alto",
+   "curiosity": "พี่ é o irmão mais velho e น้อง o mais novo; juntos, พี่น้อง quer dizer 'irmãos'."
+  },
+  "sp19-05": {
+   "word": "อายุเท่าไร?",
+   "translit": "ayu thaorai",
+   "example": "อายุเท่าไรแล้ว? ดูเด็กกว่าอายุมาก",
+   "examplePt": "Quantos anos tem? Parece bem mais jovem.",
+   "pron": "aa-yú tâo-rài — 'yú' alto; 'tâo' desce; 'rài' baixo",
+   "curiosity": "Perguntar a idade é comum: พี่ e น้อง dependem de quem é mais velho."
+  },
+  "sp19-06": {
+   "word": "ชื่ออะไร?",
+   "translit": "chue arai",
+   "example": "ชื่ออะไรเหรอ? ยินดีที่ได้รู้จักนะ",
+   "examplePt": "Como se chama? Prazer em conhecê-lo.",
+   "pron": "chʉ̂ʉ à-rai — 'chʉ̂ʉ' desce e é longo; 'à-rai' baixo e médio",
+   "curiosity": "Tailandeses têm um apelido, o ชื่อเล่น, usado no dia a dia."
+  },
+  "sp19-07": {
+   "word": "ชอบฟังเพลงไหม?",
+   "translit": "chop fang phleng mai",
+   "example": "ชอบฟังเพลงไหม? เราชอบเพลงช้าๆ",
+   "examplePt": "Gosta de ouvir música? Eu gosto de músicas lentas.",
+   "pron": "chɔ̂ɔp fang pleeng mái — 'chɔ̂ɔp' desce; 'pleeng' médio; 'mái' alto",
+   "curiosity": "ฟัง é ouvir com atenção, e ได้ยิน é ouvir sem querer."
+  },
+  "sp19-08": {
+   "word": "ชอบอะไรบ้าง?",
+   "translit": "chop arai bang",
+   "example": "ชอบอะไรบ้าง? เราชอบวาดรูปกับว่ายน้ำ",
+   "examplePt": "Do que gosta? Eu gosto de desenhar e nadar.",
+   "pron": "chɔ̂ɔp à-rai bâang — 'chɔ̂ɔp' e 'bâang' descem; 'à-rai' baixo e médio",
+   "curiosity": "บ้าง no fim da pergunta pede uma lista: 'quais coisas, por exemplo?'."
+  },
+  "sp20-01": {
+   "word": "เตะบอลกันเถอะ",
+   "translit": "te bon kan thoe",
+   "example": "เตะบอลกันเถอะ สนามว่างพอดี",
+   "examplePt": "Vamos jogar bola, o campo está livre.",
+   "pron": "dtè bɔɔn gan tʰə̀ə — 'dtè' baixo, com 't' seco; 'tʰə̀ə' baixo",
+   "curiosity": "บอล vem do inglês 'ball', e เตะ quer dizer 'chutar'."
+  },
+  "sp20-02": {
+   "word": "ไปสวนกันเถอะ",
+   "translit": "pai suan kan thoe",
+   "example": "ไปสวนกันเถอะ ดอกไม้บานเต็มเลย",
+   "examplePt": "Vamos ao parque, as flores estão todas abertas.",
+   "pron": "pai sǔan gan tʰə̀ə — 'sǔan' sobe; 'tʰə̀ə' baixo",
+   "curiosity": "สวน é 'jardim' e também 'plantação': สวนผลไม้ é um pomar."
+  },
+  "sp20-03": {
+   "word": "วาดรูปกันเถอะ",
+   "translit": "wat rup kan thoe",
+   "example": "วาดรูปกันเถอะ เรามีสีเทียนเยอะมาก",
+   "examplePt": "Vamos pintar, temos muitos giz de cera.",
+   "pron": "wâat rûup gan tʰə̀ə — 'wâat' e 'rûup' descem; 'tʰə̀ə' baixo",
+   "curiosity": "รูป quer dizer 'imagem': วาดรูป é desenhar e ถ่ายรูป é fotografar."
+  },
+  "sp20-04": {
+   "word": "ไปว่ายน้ำกันเถอะ",
+   "translit": "pai wai nam kan thoe",
+   "example": "ไปว่ายน้ำกันเถอะ น้ำเย็นสบายดี",
+   "examplePt": "Vamos nadar, a água está fresca e gostosa.",
+   "pron": "pai wâai nám gan tʰə̀ə — 'wâai' desce; 'nám' alto",
+   "curiosity": "น้ำตก é 'água que cai' e quer dizer 'cachoeira'."
+  },
+  "sp20-05": {
+   "word": "ร้องเพลงกันเถอะ",
+   "translit": "rong phleng kan thoe",
+   "example": "ร้องเพลงกันเถอะ เพลงนี้ใครรู้บ้าง?",
+   "examplePt": "Vamos cantar, quem conhece esta música?",
+   "pron": "rɔ́ɔng pleeng gan tʰə̀ə — 'rɔ́ɔng' alto; 'pleeng' médio",
+   "curiosity": "เพลงชาติ é o hino nacional, e เพลง é qualquer canção."
+  },
+  "sp20-06": {
+   "word": "ทำเค้กกันเถอะ",
+   "translit": "tham kek kan thoe",
+   "example": "ทำเค้กกันเถอะ เรามีไข่กับแป้งแล้ว",
+   "examplePt": "Vamos fazer um bolo, já temos ovos e farinha.",
+   "pron": "tam kéek gan tʰə̀ə — 'kéek' alto e longo; 'tʰə̀ə' baixo",
+   "curiosity": "O bolo inteiro conta com ก้อน e a fatia com ชิ้น: เค้กหนึ่งก้อน, เค้กหนึ่งชิ้น."
+  },
+  "sp20-07": {
+   "word": "ดูหนังกันเถอะ",
+   "translit": "du nang kan thoe",
+   "example": "ดูหนังกันเถอะ ฉันซื้อป๊อปคอร์นมาแล้ว",
+   "examplePt": "Vamos ver um filme, já comprei pipoca.",
+   "pron": "duu nǎng gan tʰə̀ə — 'nǎng' sobe; 'ng' final como em 'ring'",
+   "curiosity": "หนัง quer dizer 'filme' e também 'pele' ou 'couro'."
+  },
+  "sp20-08": {
+   "word": "ปั่นจักรยานกันเถอะ",
+   "translit": "pan chakrayan kan thoe",
+   "example": "ปั่นจักรยานกันเถอะ ลมวันนี้เย็นสบาย",
+   "examplePt": "Vamos andar de bicicleta, o vento está fresco hoje.",
+   "pron": "bpàn jàk-grà-yaan gan tʰə̀ə — 'bpàn' baixo, com 'p' seco; 'jàk' baixo",
+   "curiosity": "ปั่นหัว é 'girar a cabeça' e quer dizer 'enrolar alguém'."
+  },
+  "sp21-01": {
+   "word": "ช่วยบอกเวลาหน่อยได้ไหม?",
+   "translit": "chuai bok wela noi dai mai",
+   "example": "ขอบคุณมาก ตอนนี้บ่ายสองโมงพอดี",
+   "examplePt": "Muito obrigado, são duas da tarde em ponto.",
+   "pron": "chûai bɔ̀ɔk wee-laa nɔ̀ɔi dâai mái — 'chûai' desce; 'nɔ̀ɔi' baixo; 'mái' alto",
+   "curiosity": "เวลา quer dizer 'tempo' e 'hora': ไม่มีเวลา é 'não tenho tempo'."
+  },
+  "sp21-02": {
+   "word": "กำลังหาถนนเส้นนี้อยู่",
+   "translit": "kamlang ha thanon sen ni yu",
+   "example": "ชื่อถนนยาวมาก หาเท่าไรก็ไม่เจอ",
+   "examplePt": "O nome da rua é longo, por mais que eu procure não acho.",
+   "pron": "gam-lang hǎa tà-nǒn sên níi yùu — 'hǎa' sobe; 'tà-nǒn' baixo e sobe",
+   "curiosity": "เส้น é o classificador de coisas compridas: ถนนหนึ่งเส้น, เชือกหนึ่งเส้น."
+  },
+  "sp21-03": {
+   "word": "ไปใจกลางเมืองยังไง?",
+   "translit": "pai chai klang mueang yang ngai",
+   "example": "ไปรถไฟใต้ดินก็ได้ ลงสถานีที่สาม",
+   "examplePt": "Pode ir de metrô, desça na terceira estação.",
+   "pron": "pai jai-glaang mʉang yang-ngai — 'yang' e 'ngai' separados; 'ngai' começa com 'ng'",
+   "curiosity": "ใจกลาง é 'o coração': ใจกลางเมือง quer dizer 'o centro, o coração da cidade'."
+  },
+  "sp21-04": {
+   "word": "ช่วยเรียกแท็กซี่หน่อยได้ไหม?",
+   "translit": "chuai riak taeksi noi dai mai",
+   "example": "ได้เลย รอสักครู่ เดี๋ยวโทรเรียกให้",
+   "examplePt": "Claro, aguarde um instante, vou ligar para chamar.",
+   "pron": "chûai rîak tɛ́k-sîi nɔ̀ɔi dâai mái — 'rîak' desce; 'tɛ́k' alto",
+   "curiosity": "No táxi pede-se 'ช่วยกดมิเตอร์ด้วย', isto é, que ligue o taxímetro."
+  },
+  "sp21-05": {
+   "word": "โทรศัพท์ของฉันแบตหมด",
+   "translit": "thorasap khong chan baet mot",
+   "example": "มีที่ชาร์จให้ยืมไหม? จะโทรหาแม่หน่อย",
+   "examplePt": "Tem um carregador para emprestar? Vou ligar para minha mãe.",
+   "pron": "too-ra-sàp kɔ̌ɔng chǎn bɛ̀t mòt — 'bɛ̀t' baixo e curto; 'mòt' baixo",
+   "curiosity": "แบต é a abreviação de แบตเตอรี่ (bateria), e หมด quer dizer 'acabou'."
+  },
+  "sp21-06": {
+   "word": "ช่วยถ่ายรูปให้หน่อยได้ไหม?",
+   "translit": "chuai thai rup hai noi dai mai",
+   "example": "ยิ้มกว้างๆ นะ หนึ่ง สอง สาม!",
+   "examplePt": "Sorria bem, um, dois, três!",
+   "pron": "chûai tàai rûup hâi nɔ̀ɔi dâai mái — 'tàai' baixo; 'rûup' desce",
+   "curiosity": "ถ่าย quer dizer 'copiar': ถ่ายรูป é fotografar e ถ่ายเอกสาร é fotocopiar."
+  },
+  "sp21-07": {
+   "word": "ถนนเส้นนี้ไปจัตุรัสไหม?",
+   "translit": "thanon sen ni pai chatturat mai",
+   "example": "ใช่ เดินตรงไปอีกห้าร้อยเมตรก็ถึง",
+   "examplePt": "Sim, siga reto mais quinhentos metros.",
+   "pron": "tà-nǒn sên níi pai jàt-dtù-ràt mái — 'jàt-dtù-ràt' tem três sílabas baixas",
+   "curiosity": "ตรงไป é 'siga reto', เลี้ยวซ้าย é 'vire à esquerda' e เลี้ยวขวา é 'à direita'."
+  },
+  "sp21-08": {
+   "word": "แถวนี้มีร้านขายยาไหม?",
+   "translit": "thaeo ni mi ran khai ya mai",
+   "example": "มีอยู่หน้าปากซอยเลย",
+   "examplePt": "Tem sim, bem na entrada da travessa.",
+   "pron": "tɛ̌ɛo níi mii ráan kǎai yaa mái — 'kǎai' sobe; 'yaa' médio e longo",
+   "curiosity": "ซอย é a travessa que sai de uma rua grande, e os endereços tailandeses a citam."
+  },
+  "sp22-01": {
+   "word": "มีเรื่องต้องคุยกับคุณ",
+   "translit": "mi rueang tong khui kap khun",
+   "example": "ได้เลย ไปคุยกันในห้องประชุมไหม?",
+   "examplePt": "Claro, vamos conversar na sala de reunião?",
+   "pron": "mii rʉ̂ang dtɔ̂ng kui gàp kun — 'rʉ̂ang' e 'dtɔ̂ng' descem; 'gàp' baixo",
+   "curiosity": "เรื่อง é 'assunto', e เรื่องเล็ก é 'coisa pequena, sem importância'."
+  },
+  "sp22-02": {
+   "word": "ขอนัดคุยหน่อยได้ไหม?",
+   "translit": "kho nat khui noi dai mai",
+   "example": "บ่ายวันพฤหัสว่างไหม? เรามีเวลาครึ่งชั่วโมง",
+   "examplePt": "Você está livre na quinta à tarde? Temos meia hora.",
+   "pron": "kɔ̌ɔ nát kui nɔ̀ɔi dâai mái — 'nát' alto e curto; 'nɔ̀ɔi' baixo",
+   "curiosity": "นัด é 'marcar': นัดหมอ (marcar consulta), นัดเพื่อน (combinar com um amigo)."
+  },
+  "sp22-03": {
+   "word": "ช่วยส่งไฟล์ให้หน่อยได้ไหม?",
+   "translit": "chuai song fai hai noi dai mai",
+   "example": "ส่งให้ทางอีเมลแล้ว ลองเช็กดูนะ",
+   "examplePt": "Já enviei por e-mail, dê uma conferida.",
+   "pron": "chûai sòng fai hâi nɔ̀ɔi dâai mái — 'sòng' baixo; 'fai' médio; o 'ล์' final é mudo",
+   "curiosity": "ส่ง é 'enviar' e também 'levar alguém': ส่งเพื่อนกลับบ้าน."
+  },
+  "sp22-04": {
+   "word": "จะทำให้เสร็จก่อนวันศุกร์",
+   "translit": "cha tham hai set kon wan suk",
+   "example": "ถ้าไม่ทันบอกได้นะ เราช่วยแบ่งงานให้",
+   "examplePt": "Se não der tempo, avise, vamos dividir o trabalho.",
+   "pron": "jà tam hâi sèt gɔ̀ɔn wan sùk — 'sèt' baixo e curto; 'sùk' baixo",
+   "curiosity": "เสร็จ quer dizer 'terminar', e เสร็จแล้ว é 'pronto, terminei'."
+  },
+  "sp22-05": {
+   "word": "อินเทอร์เน็ตหลุดอีกแล้ว",
+   "translit": "intoenet lut ik laeo",
+   "example": "รีสตาร์ทเราเตอร์ดูสิ เดี๋ยวก็กลับมา",
+   "examplePt": "Reinicie o roteador, daqui a pouco volta.",
+   "pron": "in-təə-nét lùt ìik lɛ́ɛo — 'nét' alto; 'lùt' baixo; 'ìik' baixo",
+   "curiosity": "หลุด é 'soltar-se': เน็ตหลุด é a conexão que caiu."
+  },
+  "sp22-06": {
+   "word": "วันนี้จะไปสายนิดหน่อย",
+   "translit": "wan ni cha pai sai nit noi",
+   "example": "ไม่เป็นไร ประชุมเริ่มสิบโมงครึ่งอยู่แล้ว",
+   "examplePt": "Sem problema, a reunião já começa às dez e meia.",
+   "pron": "wan níi jà pai sǎai nít nɔ̀ɔi — 'sǎai' sobe; 'nít' alto; 'nɔ̀ɔi' baixo",
+   "curiosity": "สาย é 'tarde' no sentido de atraso: มาสาย (chegar atrasado) e เช้า é 'cedo'."
+  },
+  "sp22-07": {
+   "word": "มาช่วยกันตรวจแผนนี้เถอะ",
+   "translit": "ma chuai kan truat phaen ni thoe",
+   "example": "ดีเลย เราแบ่งกันคนละครึ่งไหม?",
+   "examplePt": "Ótimo, cada um revisa uma metade?",
+   "pron": "maa chûai gan dtrùat pɛ̌ɛn níi tʰə̀ə — 'dtrùat' baixo; 'pɛ̌ɛn' sobe",
+   "curiosity": "ตรวจ é 'inspecionar': ตรวจการบ้าน (corrigir lição), ตรวจเลือด (exame de sangue)."
+  },
+  "sp22-08": {
+   "word": "ขอบคุณที่รอนะ",
+   "translit": "khop khun thi ro na",
+   "example": "ไม่เป็นไรเลย เพิ่งมาถึงเหมือนกัน",
+   "examplePt": "Sem problema, também acabei de chegar.",
+   "pron": "kɔ̀ɔp-kun tîi rɔɔ ná — 'kɔ̀ɔp' baixo; 'tîi' desce; 'ná' alto",
+   "curiosity": "รอสักครู่ quer dizer 'aguarde um instante', frase de balcões e telefonemas."
+  },
+  "sp23-01": {
+   "word": "ชอบหนังเรื่องนี้มาก",
+   "translit": "chop nang rueang ni mak",
+   "example": "ฉากจบทำเอายิ้มทั้งโรงเลย",
+   "examplePt": "A cena final fez a sala inteira sorrir.",
+   "pron": "chɔ̂ɔp nǎng rʉ̂ang níi mâak — 'nǎng' sobe; 'rʉ̂ang' e 'mâak' descem",
+   "curiosity": "ชอบ é 'gostar' e รัก é 'amar': para filmes e comidas usa-se ชอบ."
+  },
+  "sp23-02": {
+   "word": "หนังสือเล่มนี้ยาวไป",
+   "translit": "nangsue lem ni yao pai",
+   "example": "สั้นกว่านี้อีกนิดคงอ่านจบเร็วกว่า",
+   "examplePt": "Se fosse um pouco mais curto, eu terminaria mais cedo.",
+   "pron": "nǎng-sʉ̌ʉ lêm níi yaao pai — 'lêm' desce; 'yaao' médio e longo",
+   "curiosity": "เล่ม é o classificador de livros e de facas: หนังสือเล่มหนึ่ง, มีดเล่มหนึ่ง."
+  },
+  "sp23-03": {
+   "word": "ชอบหน้าร้อนมากกว่าหน้าหนาว",
+   "translit": "chop na ron mak kwa na nao",
+   "example": "แต่ที่นี่หน้าหนาวก็ยังอุ่นนะ",
+   "examplePt": "Mas aqui o tempo frio ainda é quente.",
+   "pron": "chɔ̂ɔp nâa rɔ́ɔn mâak gwàa nâa nǎao — 'gwàa' baixo; 'nǎao' sobe",
+   "curiosity": "A Tailândia costuma ser descrita com três estações: quente, chuvosa e fresca."
+  },
+  "sp23-04": {
+   "word": "เพลงนี้สนุกมาก",
+   "translit": "phleng ni sanuk mak",
+   "example": "จังหวะทำให้อยากลุกขึ้นเต้นเลย",
+   "examplePt": "O ritmo dá vontade de levantar e dançar.",
+   "pron": "pleeng níi sà-nùk mâak — 'pleeng' médio; 'níi' alto; 'sà-nùk' baixos",
+   "curiosity": "จังหวะ é 'ritmo' e também 'momento certo': ได้จังหวะพอดี."
+  },
+  "sp23-05": {
+   "word": "ฉันไม่เห็นด้วยกับคุณ",
+   "translit": "chan mai hen duai kap khun",
+   "example": "ลองฟังเหตุผลของเราก่อนได้ไหม?",
+   "examplePt": "Pode ouvir primeiro as minhas razões?",
+   "pron": "chǎn mâi hěn dûai gàp kun — 'chǎn' e 'hěn' sobem; 'mâi' e 'dûai' descem",
+   "curiosity": "เห็นด้วย é 'concordar' (literalmente 'ver junto') e ไม่เห็นด้วย é 'discordar'."
+  },
+  "sp23-06": {
+   "word": "ฟังดูเป็นความคิดที่ดี",
+   "translit": "fang du pen khwamkhit thi di",
+   "example": "งั้นเริ่มจากแผนง่ายๆ ก่อนก็ได้",
+   "examplePt": "Então podemos começar por um plano simples.",
+   "pron": "fang duu pen kwaam-kít tîi dii — 'kít' alto; 'tîi' desce",
+   "curiosity": "ฟังดู é 'parece, pelo que ouvi' e ดูเหมือน é 'parece, pelo que vejo'."
+  },
+  "sp23-07": {
+   "word": "อาหารนี้เค็มเกินไป",
+   "translit": "ahan ni khem koen pai",
+   "example": "ขอน้ำเปล่าอีกแก้วได้ไหม?",
+   "examplePt": "Pode trazer mais um copo de água?",
+   "pron": "aa-hǎan níi kem gəən pai — 'hǎan' sobe; 'níi' alto; 'gəən' médio",
+   "curiosity": "เกินไป quer dizer 'demais': ร้อนเกินไป, เผ็ดเกินไป, หวานเกินไป."
+  },
+  "sp23-08": {
+   "word": "ชอบหมามากกว่าแมว",
+   "translit": "chop ma mak kwa maeo",
+   "example": "หมาซื่อสัตย์ ส่วนแมวชอบอยู่คนเดียว",
+   "examplePt": "Cachorros são leais, e gatos gostam de ficar sozinhos.",
+   "pron": "chɔ̂ɔp mǎa mâak gwàa mɛɛo — 'mǎa' sobe; 'mɛɛo' médio e longo",
+   "curiosity": "หมา é a forma falada, e สุนัข é a palavra mais formal para 'cão'."
+  },
+  "sp24-01": {
+   "word": "อยากเรียนเล่นกีตาร์",
+   "translit": "yak rian len kita",
+   "example": "เริ่มจากคอร์ดง่ายๆ ก่อนก็สนุกแล้ว",
+   "examplePt": "Começar por acordes simples já é divertido.",
+   "pron": "yàak rian lên gii-dtâa — 'yàak' baixo; 'lên' desce; 'dtâa' desce",
+   "curiosity": "เล่น é 'brincar' e 'tocar': เล่นกีตาร์, เล่นเกม, เล่นกีฬา."
+  },
+  "sp24-02": {
+   "word": "จะย้ายไปอยู่เมืองอื่น",
+   "translit": "cha yai pai yu mueang uen",
+   "example": "ที่นั่นอยู่ใกล้ทะเล เลยตื่นเต้นมาก",
+   "examplePt": "Lá fica perto do mar, então estou animado.",
+   "pron": "jà yáai pai yùu mʉang ʉ̀ʉn — 'yáai' alto; 'ʉ̀ʉn' baixo",
+   "curiosity": "ย้าย é 'mudar': ย้ายบ้าน, ย้ายงาน, ย้ายโรงเรียน."
+  },
+  "sp24-03": {
+   "word": "ปีหน้าจะไปเรียนต่อ",
+   "translit": "pi na cha pai rian to",
+   "example": "สมัครเรียนที่วิทยาลัยไว้แล้วนะ",
+   "examplePt": "Já me inscrevi na faculdade.",
+   "pron": "pii nâa jà pai rian dtɔ̀ɔ — 'nâa' desce; 'dtɔ̀ɔ' baixo",
+   "curiosity": "หน้า é 'frente' e também 'próximo': ปีหน้า, อาทิตย์หน้า, เดือนหน้า."
+  },
+  "sp24-04": {
+   "word": "ตั้งใจจะเปิดร้านเบเกอรี",
+   "translit": "tangchai cha poet ran bekoeri",
+   "example": "จะอบขนมปังใหม่ทุกเช้าให้เพื่อนบ้าน",
+   "examplePt": "Vou assar pão fresco toda manhã para os vizinhos.",
+   "pron": "dtâng-jai jà bpə̀ət ráan bee-gə-rii — 'bpə̀ət' baixo; 'ráan' alto; 'ə' é neutro",
+   "curiosity": "เปิด é 'abrir' e também 'ligar': เปิดร้าน, เปิดประตู, เปิดทีวี."
+  },
+  "sp24-05": {
+   "word": "สักวันจะไปดูทะเล",
+   "translit": "sak wan cha pai du thale",
+   "example": "จะนั่งดูคลื่นทั้งวันเลย",
+   "examplePt": "Vou ficar olhando as ondas o dia todo.",
+   "pron": "sàk wan jà pai duu tá-lee — 'sàk' baixo e curto; 'tá' alto",
+   "curiosity": "สัก antes de tempo ou número dá ideia de 'algum': สักวัน, สักครู่, สักหน่อย."
+  },
+  "sp24-06": {
+   "word": "อยากเลี้ยงสุนัขสักตัว",
+   "translit": "yak liang sunak sak tua",
+   "example": "จะพาไปเดินเล่นทุกเย็นเลย",
+   "examplePt": "Vou levá-lo para passear toda tarde.",
+   "pron": "yàak líang sù-nák sàk dtua — 'líang' alto; 'nák' alto e curto",
+   "curiosity": "เลี้ยง é 'criar' (สุนัข, ลูก) e também 'pagar' uma refeição para alguém."
+  },
+  "sp24-07": {
+   "word": "จะวิ่งทุกเช้า",
+   "translit": "cha wing thuk chao",
+   "example": "ตั้งนาฬิกาปลุกตีห้าครึ่งเลย",
+   "examplePt": "Vou programar o despertador para cinco e meia.",
+   "pron": "jà wîng túk cháao — 'wîng' desce; 'túk' e 'cháao' altos",
+   "curiosity": "ทุก quer dizer 'todo, cada': ทุกวัน, ทุกคน, ทุกที."
+  },
+  "sp24-08": {
+   "word": "จะอ่านหนังสือให้มากขึ้น",
+   "translit": "cha an nangsue hai mak khuen",
+   "example": "เริ่มจากวันละสิบหน้าก็ยังดี",
+   "examplePt": "Começar com dez páginas por dia já é bom.",
+   "pron": "jà àan nǎng-sʉ̌ʉ hâi mâak kʉ̂n — 'àan' baixo e longo; 'kʉ̂n' desce",
+   "curiosity": "ขึ้น depois de um adjetivo quer dizer 'mais': มากขึ้น, ดีขึ้น, เร็วขึ้น."
+  },
+  "sp25-01": {
+   "word": "วันเสาร์ไปเที่ยวทะเล",
+   "translit": "wan sao pai thiao thale",
+   "example": "น้ำใสมาก เลยลงว่ายอยู่นานเลย",
+   "examplePt": "A água era límpida, então nadei bastante.",
+   "pron": "wan sǎo pai tîao tá-lee — 'sǎo' sobe; 'tîao' desce; 'tá' alto",
+   "curiosity": "O verbo não muda no passado: o tempo vem de palavras como เมื่อวาน ou วันเสาร์."
+  },
+  "sp25-02": {
+   "word": "อยู่บ้านทั้งวัน",
+   "translit": "yu ban thang wan",
+   "example": "อ่านหนังสือบ้าง ดูการ์ตูนบ้าง",
+   "examplePt": "Li um pouco, assisti desenho um pouco.",
+   "pron": "yùu bâan táng wan — 'yùu' baixo; 'bâan' desce; 'táng' alto",
+   "curiosity": "ทั้ง + tempo dá 'todo': ทั้งวัน (o dia todo), ทั้งคืน (a noite toda), ทั้งปี."
+  },
+  "sp25-03": {
+   "word": "ได้เจอเพื่อนเก่า",
+   "translit": "dai choe phuean kao",
+   "example": "นั่งคุยกันเป็นชั่วโมงเลยนะ",
+   "examplePt": "Ficamos conversando por horas.",
+   "pron": "dâai jəə pʉ̂an gào — 'dâai' desce; 'jəə' médio; 'gào' baixo",
+   "curiosity": "ได้ + verbo diz que houve a chance de fazer algo: ได้เจอ é 'pude encontrar'."
+  },
+  "sp25-04": {
+   "word": "ฝนตกทั้งวัน",
+   "translit": "fon tok thang wan",
+   "example": "เลยไม่ได้ออกไปไหนเลย",
+   "examplePt": "Por isso não saí para lugar nenhum.",
+   "pron": "fǒn dtòk táng wan — 'fǒn' sobe; 'dtòk' baixo; 'táng' alto",
+   "curiosity": "ฝนตกปรอยๆ é a garoa, e ฝนตกหนัก é a chuva forte."
+  },
+  "sp25-05": {
+   "word": "ดูหนังสนุกมากเรื่องหนึ่ง",
+   "translit": "du nang sanuk mak rueang nueng",
+   "example": "ตอนจบเซอร์ไพรส์จนทุกคนตะลึงเลย",
+   "examplePt": "O final surpreendeu tanto que todos ficaram de queixo caído.",
+   "pron": "duu nǎng sà-nùk mâak rʉ̂ang nʉ̀ng — 'nǎng' sobe; 'nʉ̀ng' baixo",
+   "curiosity": "เรื่อง é o classificador de filmes e histórias: หนังเรื่องหนึ่ง é 'um filme'."
+  },
+  "sp25-06": {
+   "word": "ทำอาหารให้ครอบครัวกิน",
+   "translit": "tham ahan hai khropkhrua kin",
+   "example": "ทำแกงจืดกับไข่เจียวให้ทุกคน",
+   "examplePt": "Fiz sopa leve e omelete para todos.",
+   "pron": "tam aa-hǎan hâi krɔ̂ɔp-krua gin — 'krɔ̂ɔp' desce; 'krua' médio",
+   "curiosity": "ครัว é 'cozinha' e está dentro de ครอบครัว ('família')."
+  },
+  "sp25-07": {
+   "word": "เมื่อคืนนอนหลับสบายมาก",
+   "translit": "mueakhuen non lap sabai mak",
+   "example": "ตื่นมาก็รู้สึกสดชื่นมากเลย",
+   "examplePt": "Acordei me sentindo muito revigorado.",
+   "pron": "mûa-kʉʉn nɔɔn làp sà-baai mâak — 'mûa' desce; 'làp' baixo e curto",
+   "curiosity": "นอน é 'deitar' e หลับ é 'adormecer': นอนไม่หลับ é deitar sem conseguir dormir."
+  },
+  "sp25-08": {
+   "word": "วันนี้ตื่นแต่เช้า",
+   "translit": "wan ni tuen tae chao",
+   "example": "เห็นพระอาทิตย์ขึ้นสวยมากเลย",
+   "examplePt": "Vi o sol nascer, lindíssimo.",
+   "pron": "wan níi dtʉ̀ʉn dtɛ̀ɛ cháao — 'dtʉ̀ʉn' e 'dtɛ̀ɛ' baixos; 'cháao' alto",
+   "curiosity": "แต่ antes de um tempo quer dizer 'desde': แต่เช้า (desde cedo), แต่เด็ก (desde criança)."
+  },
+  "sp26-01": {
+   "word": "ยินดีที่ได้รู้จัก",
+   "translit": "yindi thi dai ruchak",
+   "example": "ยินดีที่ได้รู้จักเพื่อนใหม่ทุกคน",
+   "examplePt": "Prazer em conhecer todos os novos amigos.",
+   "pron": "yin-dii tîi dâi rúu-jàk — 'tîi' e 'dâi' descem; 'rúu' sobe agudo",
+   "curiosity": "ยินดี quer dizer 'contente': o prazer de conhecer é literalmente 'contente de conhecer'."
+  },
+  "sp26-02": {
+   "word": "อยากดื่มกาแฟกับฉันไหม?",
+   "translit": "yak duem kafae kap chan mai?",
+   "example": "เช้านี้อยากดื่มกาแฟกับฉันไหม?",
+   "examplePt": "Quer tomar um café comigo esta manhã?",
+   "pron": "yàak dùuem gaa-fɛɛ gàp chǎn mǎi — 'mǎi' sobe e marca a pergunta",
+   "curiosity": "ไหม no fim transforma qualquer frase em pergunta de sim ou não, sem mudar a ordem."
+  },
+  "sp26-03": {
+   "word": "เป็นเพื่อนกันได้ไหม?",
+   "translit": "pen phuean kan dai mai?",
+   "example": "เราเป็นเพื่อนกันตลอดไปนะ",
+   "examplePt": "Vamos ser amigos para sempre.",
+   "pron": "pen pûan gan dâi mǎi — 'pûan' desce com ditongo 'uan'; 'mǎi' sobe",
+   "curiosity": "กัน marca ação recíproca: เป็นเพื่อนกัน = ser amigos um do outro."
+  },
+  "sp26-04": {
+   "word": "คุยกันบ่อยขึ้นนะ",
+   "translit": "khui kan boi khuen na",
+   "example": "ช่วงนี้เราคุยกันน้อยไปหน่อย",
+   "examplePt": "Ultimamente nós conversamos pouco.",
+   "pron": "kui gan bɔ̀i kʉ̂n ná — 'bɔ̀i' grave; 'kʉ̂n' desce; 'ná' agudo curto",
+   "curiosity": "O 'นะ' no fim torna o pedido amigável; sem ele, a frase soaria seca."
+  },
+  "sp26-05": {
+   "word": "อยู่กับคุณสนุกเสมอ",
+   "translit": "yu kap khun sanuk samoe",
+   "example": "ไปเที่ยวกับเพื่อนสนุกเสมอ",
+   "examplePt": "Passear com amigos é sempre divertido.",
+   "pron": "yùu gàp kun sà-nùk sà-mə̌ə — 'sà-nùk' duas sílabas graves; 'mə̌ə' sobe",
+   "curiosity": "สนุก vale para tudo que é divertido: เกมสนุก, หนังสนุก, วันนี้สนุก."
+  },
+  "sp26-06": {
+   "word": "ขอแนะนำเพื่อนฉันได้ไหม?",
+   "translit": "kho naenam phuean chan dai mai?",
+   "example": "ขอแนะนำเพื่อนใหม่ให้รู้จักหน่อย",
+   "examplePt": "Deixe-me apresentar um amigo novo.",
+   "pron": "kɔ̌ɔ nɛ́-nam pûan chǎn dâi mǎi — 'nɛ́' agudo; 'nam' reto, vogal curta",
+   "curiosity": "เพื่อน não marca gênero: serve para amigo e amiga; o contexto mostra quem é."
+  },
+  "sp26-07": {
+   "word": "ชอบคุยกับคุณมาก",
+   "translit": "chop khui kap khun mak",
+   "example": "คืนนี้ชอบคุยกับทุกคนมาก",
+   "examplePt": "Esta noite adorei conversar com todos.",
+   "pron": "chɔ̂ɔp kui gàp kun mâak — 'chɔ̂ɔp' e 'mâak' descem; 'kun' reto",
+   "curiosity": "ชอบ significa 'gostar': ชอบกิน, ชอบอ่าน, ชอบคุย — junto de um verbo, sem preposição."
+  },
+  "sp26-08": {
+   "word": "ขอบคุณที่มาวันนี้",
+   "translit": "khopkhun thi ma wan ni",
+   "example": "ขอบคุณที่มางานวันเกิดนะ",
+   "examplePt": "Obrigado por vir à festa de aniversário.",
+   "pron": "kɔ̀ɔp-kun tîi maa wan níi — 'kɔ̀ɔp' grave; 'tîi' desce; 'níi' agudo",
+   "curiosity": "วัน (dia) é a base de วันนี้ (hoje), วันเกิด (aniversário) e วันหยุด (feriado)."
+  },
+  "sp27-01": {
+   "word": "รับอะไรดื่มไหม?",
+   "translit": "rap arai duem mai?",
+   "example": "ขอน้ำส้มแก้วหนึ่งนะ",
+   "examplePt": "Aceito um copo de suco de laranja.",
+   "pron": "ráp à-rai dùuem mǎi — 'ráp' agudo; 'à' grave curto; 'mǎi' sobe",
+   "curiosity": "รับ = receber/aceitar; รับอะไรดี? é a pergunta clássica de quem serve visitas."
+  },
+  "sp27-02": {
+   "word": "อาหารเย็นพร้อมแล้ว",
+   "translit": "ahan yen phrom laeo",
+   "example": "ทุกคนมานั่งกินกันเถอะ",
+   "examplePt": "Vamos todos sentar e comer.",
+   "pron": "aa-hǎan yen prɔ́ɔm lɛ́ɛo — 'hǎan' sobe; 'prɔ́ɔm' e 'lɛ́ɛo' agudos",
+   "curiosity": "เย็น quer dizer 'fresco/tarde': เย็นนี้ = esta tarde e อาหารเย็น = jantar."
+  },
+  "sp27-03": {
+   "word": "นั่งตรงนี้ได้เลย",
+   "translit": "nang trong ni dai loei",
+   "example": "ขอบคุณ เก้าอี้ตัวนี้นุ่มจังเลย",
+   "examplePt": "Obrigado, esta cadeira é bem macia.",
+   "pron": "nâng dtrong níi dâi ləəi — 'nâng' desce; 'níi' agudo; 'ləəi' reto longo",
+   "curiosity": "เลย depois de uma permissão quer dizer 'vá em frente': ได้เลย = pode, sim."
+  },
+  "sp27-04": {
+   "word": "เอาอีกจานไหม?",
+   "translit": "ao ik chan mai?",
+   "example": "อร่อยมาก ขออีกจานหนึ่งนะ",
+   "examplePt": "Delicioso, quero mais um prato.",
+   "pron": "ao ìik jaan mǎi — 'ìik' grave e longo; 'mǎi' sobe",
+   "curiosity": "จาน é o prato e o classificador de pratos: ข้าวผัดสองจาน = dois pratos de arroz frito."
+  },
+  "sp27-05": {
+   "word": "ซุปนี้ร้อนมาก",
+   "translit": "sup ni ron mak",
+   "example": "ซุปร้อนจัด ต้องเป่าก่อนกินนะ",
+   "examplePt": "A sopa está fervendo, sopre antes de comer.",
+   "pron": "súp níi rɔ́ɔn mâak — 'súp' e 'rɔ́ɔn' agudos; 'mâak' desce",
+   "curiosity": "ร้อน é 'quente' e também 'calor do tempo' e 'ansioso': ร้อนใจ = aflito."
+  },
+  "sp27-06": {
+   "word": "ขาดเกลืออีกนิดหน่อย",
+   "translit": "khat kluea ik nit noi",
+   "example": "ชิมแล้วยังขาดเกลืออยู่เลย",
+   "examplePt": "Provei e ainda falta sal.",
+   "pron": "kàat klʉʉa ìik nít nɔ̀i — 'kàat' grave; 'klʉʉa' ditongo reto",
+   "curiosity": "ขาด = faltar: ขาดเรียน (faltar à aula), ขาดเงิน (faltar dinheiro)."
+  },
+  "sp27-07": {
+   "word": "ช่วยส่งเกลือให้หน่อยได้ไหม?",
+   "translit": "chuai song kluea hai noi dai mai?",
+   "example": "ช่วยส่งน้ำจิ้มให้หน่อยนะ",
+   "examplePt": "Passe o molho de mergulho, por favor.",
+   "pron": "chûai sòng klʉʉa hâi nɔ̀i dâi mǎi — 'chûai' desce; 'sòng' grave",
+   "curiosity": "ส่ง = enviar e também passar algo a alguém à mesa; ให้ indica 'para mim'."
+  },
+  "sp27-08": {
+   "word": "วันนี้ฉันเลี้ยงเอง",
+   "translit": "wan ni chan liang eng",
+   "example": "มื้อนี้ฉันเลี้ยงเอง ไม่ต้องเกรงใจ",
+   "examplePt": "Esta refeição é por minha conta, sem cerimônia.",
+   "pron": "wan níi chǎn líang eeng — 'líang' agudo; 'eeng' reto e longo",
+   "curiosity": "เลี้ยง = pagar a refeição de outros; เกรงใจ é a delicadeza de não querer incomodar."
+  },
+  "sp28-01": {
+   "word": "ต้องดื่มน้ำให้มากขึ้น",
+   "translit": "tong duem nam hai mak khuen",
+   "example": "แดดแรงแบบนี้ ต้องดื่มน้ำเยอะ",
+   "examplePt": "Com sol assim, preciso beber muita água.",
+   "pron": "tɔ̂ng dùuem náam hâi mâak kʉ̂n — 'náam' agudo; os demais descem ou são graves",
+   "curiosity": "น้ำ é 'água' e entra em น้ำแข็ง (gelo), น้ำตา (lágrima) e น้ำหอม (perfume)."
+  },
+  "sp28-02": {
+   "word": "วันนี้จะนอนเร็วขึ้น",
+   "translit": "wan ni cha non reo khuen",
+   "example": "พรุ่งนี้ตื่นเช้า คืนนี้จึงนอนเร็ว",
+   "examplePt": "Amanhã acordo cedo, então durmo cedo.",
+   "pron": "wan níi jà noon reo kʉ̂n — 'jà' grave curto; 'reo' reto",
+   "curiosity": "จะ marca o futuro e não muda o verbo: จะนอน, จะกิน, จะไป."
+  },
+  "sp28-03": {
+   "word": "เช้านี้ฉันออกกำลังกายแล้ว",
+   "translit": "chao ni chan ok kamlang kai laeo",
+   "example": "ออกกำลังกายตอนเช้า ทำให้สดชื่น",
+   "examplePt": "Exercitar-se de manhã deixa a gente disposto.",
+   "pron": "cháo níi chǎn ɔ̀ɔk gam-lang gaai lɛ́ɛo — 'ɔ̀ɔk' grave; 'lɛ́ɛo' agudo",
+   "curiosity": "แล้ว no fim da frase marca ação concluída, sem mudar o verbo."
+  },
+  "sp28-04": {
+   "word": "พยายามกินอาหารให้ดีขึ้น",
+   "translit": "phayayam kin ahan hai di khuen",
+   "example": "ลองกินอาหารให้หลากหลายขึ้น",
+   "examplePt": "Experimente comer de forma mais variada.",
+   "pron": "pá-yaa-yaam gin aa-hǎan hâi dii kʉ̂n — 'pá' agudo; 'hǎan' sobe",
+   "curiosity": "กินข้าว é 'comer' e também 'fazer refeição': ข้าว (arroz) representa a comida toda."
+  },
+  "sp28-05": {
+   "word": "ต้องไปหาหมอฟัน",
+   "translit": "tong pai ha mo fan",
+   "example": "ฟันผุ ต้องไปหาหมอฟันแล้ว",
+   "examplePt": "Com cárie, preciso ir ao dentista.",
+   "pron": "tɔ̂ng pai hǎa mɔ̌ɔ fan — 'hǎa' e 'mɔ̌ɔ' sobem; 'fan' reto",
+   "curiosity": "หมอ forma cargos: หมอฟัน (dentista), หมอตา (oftalmologista), หมอดู (vidente)."
+  },
+  "sp28-06": {
+   "word": "ล้างมือก่อนกินข้าว",
+   "translit": "lang mue kon kin khao",
+   "example": "ก่อนกินข้าว ล้างมือให้สะอาดนะ",
+   "examplePt": "Antes de comer, lave bem as mãos.",
+   "pron": "láang mʉʉ gɔ̀ɔn gin kâao — 'láang' agudo; 'gɔ̀ɔn' grave; 'kâao' desce",
+   "curiosity": "ก่อน = antes e หลัง = depois: ก่อนนอน (antes de dormir), หลังอาหาร (após a refeição)."
+  },
+  "sp28-07": {
+   "word": "จะไปชงชาร้อนสักแก้ว",
+   "translit": "cha pai chong cha ron sak kaeo",
+   "example": "ชาร้อนสักแก้วช่วยให้อุ่นขึ้น",
+   "examplePt": "Um copo de chá quente ajuda a esquentar.",
+   "pron": "jà pai chong chaa rɔ́ɔn sàk gɛ̂ɛo — 'rɔ́ɔn' agudo; 'gɛ̂ɛo' desce",
+   "curiosity": "ชา (chá) tem som parecido com o 'chá' do português: ambas vêm do chinês."
+  },
+  "sp28-08": {
+   "word": "พักสักครู่แล้วหายใจลึก",
+   "translit": "phak sak khru laeo hai chai luek",
+   "example": "ปิดตา แล้วหายใจเข้าออกช้า",
+   "examplePt": "Feche os olhos e respire devagar.",
+   "pron": "pák sàk krûu lɛ́ɛo hǎai-jai lʉ́ʉk — 'hǎai' sobe; 'lʉ́ʉk' agudo e longo",
+   "curiosity": "หายใจเข้า = inspirar e หายใจออก = expirar: basta trocar a direção."
+  },
+  "sp29-01": {
+   "word": "อยากไปเที่ยวต่างประเทศ",
+   "translit": "yak pai thiao tang prathet",
+   "example": "ปีหน้าอยากไปเที่ยวต่างประเทศสักครั้ง",
+   "examplePt": "Ano que vem quero viajar ao exterior.",
+   "pron": "yàak pai tîao dtàang bprà-têet — 'yàak' e 'dtàang' graves; 'tîao' desce",
+   "curiosity": "อยาก + verbo = querer fazer, sem 'que': อยากกิน, อยากไป, อยากนอน."
+  },
+  "sp29-02": {
+   "word": "วันนี้มาจองโรงแรมกัน",
+   "translit": "wan ni ma chong rongraem kan",
+   "example": "ห้องว่างน้อยแล้ว รีบจองโรงแรมนะ",
+   "examplePt": "Restam poucos quartos, reserve logo o hotel.",
+   "pron": "wan níi maa jɔɔng roong-rɛɛm gan — 'jɔɔng' e 'roong' longos e retos",
+   "curiosity": "โรง = edifício: โรงเรียน (escola), โรงหนัง (cinema), โรงแรม (hotel)."
+  },
+  "sp29-03": {
+   "word": "ตั๋วเครื่องบินราคาเท่าไร?",
+   "translit": "tua khrueang bin rakha thao rai?",
+   "example": "ตั๋วเครื่องบินช่วงปิดเทอมแพงไหม?",
+   "examplePt": "A passagem na época de férias é cara?",
+   "pron": "dtǔa krʉ̂ang-bin raa-kaa tâo-rai — 'dtǔa' sobe; 'krʉ̂ang' desce",
+   "curiosity": "เครื่องบิน = 'máquina de voar': เครื่อง (máquina) + บิน (voar)."
+  },
+  "sp29-04": {
+   "word": "ต้องจัดกระเป๋าเดินทาง",
+   "translit": "tong chat krapao doenthang",
+   "example": "คืนนี้ต้องจัดกระเป๋าเดินทางให้เสร็จ",
+   "examplePt": "Esta noite preciso terminar de arrumar a mala.",
+   "pron": "tɔ̂ng jàt grà-bpǎo dəən-taang — 'grà' grave; 'bpǎo' sobe; 'dəən' longo",
+   "curiosity": "เดินทาง = 'andar caminho' (เดิน + ทาง) e significa viajar."
+  },
+  "sp29-05": {
+   "word": "ไปถึงสนามบินแต่เช้ากันเถอะ",
+   "translit": "pai thueng sanam bin tae chao kan thoe",
+   "example": "เครื่องออกแปดโมง ไปสนามบินแต่เช้า",
+   "examplePt": "O voo sai às oito, vá cedo ao aeroporto.",
+   "pron": "pai tʉ̌ng sà-nǎam-bin dtɛ̀ɛ cháo gan tə̀ — 'tʉ̌ng' e 'nǎam' sobem",
+   "curiosity": "สนามบิน = 'campo de voo': สนาม (campo) + บิน; também สนามฟุตบอล."
+  },
+  "sp29-06": {
+   "word": "เช่ารถได้ที่ไหน?",
+   "translit": "chao rot dai thi nai?",
+   "example": "อยากเช่ารถขับเที่ยวสักสามวัน",
+   "examplePt": "Quero alugar um carro para uns três dias.",
+   "pron": "châo rót dâi tîi-nǎi — 'châo' desce; 'rót' agudo; 'nǎi' sobe",
+   "curiosity": "ที่ไหน = onde? e vem no fim da frase, não no começo como em português."
+  },
+  "sp29-07": {
+   "word": "อยากเข้าชมพิพิธภัณฑ์ในเมือง",
+   "translit": "yak khao chom phiphitthaphan nai mueang",
+   "example": "พิพิธภัณฑ์ในเมืองเปิดถึงห้าโมงเย็น",
+   "examplePt": "O museu da cidade abre até as cinco da tarde.",
+   "pron": "yàak kâo chom pí-pít-tá-pan nai mʉang — quatro sílabas agudas seguidas",
+   "curiosity": "ชม = apreciar visitando: ชมวิว (admirar a vista), ชมพิพิธภัณฑ์ (visitar museu)."
+  },
+  "sp29-08": {
+   "word": "ทัวร์เริ่มตอนเก้าโมง",
+   "translit": "thua roem ton kao mong",
+   "example": "ทัวร์ครึ่งวันเริ่มเก้าโมงตรง",
+   "examplePt": "O passeio de meio dia começa às nove em ponto.",
+   "pron": "tua rə̂əm dtɔɔn gâao moong — 'rə̂əm' e 'gâao' descem",
+   "curiosity": "Das 7h às 11h diz-se โมงเช้า; 13h é บ่ายโมง; 15h é บ่ายสามโมง."
+  },
+  "sp30-01": {
+   "word": "ดีใจที่ได้เจอคุณ",
+   "translit": "di chai thi dai choe khun",
+   "example": "เมื่อวานดีใจที่ได้เจอกันนะ",
+   "examplePt": "Fiquei feliz de nos vermos ontem.",
+   "pron": "dii-jai tîi dâi jəə kun — 'tîi' e 'dâi' descem; 'jəə' reto e longo",
+   "curiosity": "ได้ + verbo = ter a chance de: ได้เจอ = poder encontrar, conseguir ver."
+  },
+  "sp30-02": {
+   "word": "ส่งข้อความมาหาด้วยนะ",
+   "translit": "song khokhwam ma ha duai na",
+   "example": "ถึงบ้านแล้วส่งข้อความมาหาด้วยนะ",
+   "examplePt": "Quando chegar em casa, me manda mensagem.",
+   "pron": "sòng kɔ̂ɔ-kwaam maa hǎa dûai ná — 'sòng' grave; 'kɔ̂ɔ' desce; 'hǎa' sobe",
+   "curiosity": "ข้อ é 'item' e ความ forma abstratos: ข้อความ = o conteúdo escrito, a mensagem."
+  },
+  "sp30-03": {
+   "word": "ติดต่อกันไว้นะ",
+   "translit": "tit to kan wai na",
+   "example": "ย้ายไปไกลแค่ไหน ก็ติดต่อกันไว้นะ",
+   "examplePt": "Mesmo longe, vamos manter contato.",
+   "pron": "dtìt-dtɔ̀ɔ gan wái ná — duas sílabas graves; 'wái' e 'ná' agudos",
+   "curiosity": "ไว้ depois de verbo = guardar para depois: เก็บไว้, จองไว้, ติดต่อไว้."
+  },
+  "sp30-04": {
+   "word": "ฝากความคิดถึงถึงครอบครัวด้วย",
+   "translit": "fak khwam khitthueng thueng khropkhrua duai",
+   "example": "ฝากความคิดถึงไปถึงคุณยายด้วยนะ",
+   "examplePt": "Mande lembranças à vovó, por favor.",
+   "pron": "fàak kwaam-kít-tʉ̌ng tʉ̌ng krɔ̂ɔp-krua dûai — 'fàak' grave; 'tʉ̌ng' sobe",
+   "curiosity": "ฝาก = deixar aos cuidados de: ฝากของ (mandar algo), ฝากความคิดถึง (mandar lembranças)."
+  },
+  "sp30-05": {
+   "word": "กลับมาเยี่ยมกันอีกนะ",
+   "translit": "klap ma yiam kan ik na",
+   "example": "ปิดเทอมหน้ากลับมาเยี่ยมกันอีกนะ",
+   "examplePt": "Nas próximas férias, volte para nos visitar.",
+   "pron": "glàp maa yîam gan ìik ná — 'glàp' e 'ìik' graves; 'yîam' desce",
+   "curiosity": "กลับมา = voltar para cá e กลับไป = voltar para lá; a direção vem do 2º verbo."
+  },
+  "sp30-06": {
+   "word": "จะคิดถึงคุณมาก",
+   "translit": "cha khitthueng khun mak",
+   "example": "ไปไกลขนาดนี้ จะคิดถึงทุกคนมาก",
+   "examplePt": "Indo tão longe, sentirei falta de todos.",
+   "pron": "jà kít-tʉ̌ng kun mâak — 'kít' agudo; 'tʉ̌ng' sobe; 'mâak' desce",
+   "curiosity": "คิดถึง junta 'pensar' (คิด) e 'chegar' (ถึง): é assim que o tailandês diz saudade."
+  },
+  "sp30-07": {
+   "word": "แล้วพบกันใหม่",
+   "translit": "laeo phop kan mai",
+   "example": "ไว้ปีหน้า แล้วพบกันใหม่นะ",
+   "examplePt": "Ano que vem, nos vemos de novo.",
+   "pron": "lɛ́ɛo póp gan mài — 'lɛ́ɛo' e 'póp' agudos; 'mài' grave",
+   "curiosity": "ใหม่ = novo e 'de novo': พบกันใหม่ é literalmente 'encontrar-se novamente'."
+  },
+  "sp30-08": {
+   "word": "ขอให้มีสัปดาห์ที่ดี",
+   "translit": "kho hai mi sapda thi di",
+   "example": "ขอให้มีสัปดาห์ที่ดีนะเพื่อน",
+   "examplePt": "Tenha uma ótima semana, amigo.",
+   "pron": "kɔ̌ɔ hâi mii sàp-daa tîi dii — 'kɔ̌ɔ' sobe; 'hâi' e 'tîi' descem",
+   "curiosity": "ขอให้ + desejo = 'que...': a base dos votos tailandeses, como ขอให้โชคดี (boa sorte)."
+  },
+  "sp31-01": {
+   "word": "ช่วยหน่อยได้ไหม?",
+   "translit": "chuai noi dai mai?",
+   "example": "กล่องหนักมาก ช่วยหน่อยได้ไหม?",
+   "examplePt": "A caixa está pesada, pode ajudar?",
+   "pron": "chûai nɔ̀i dâi mǎi — 'chûai' desce; 'nɔ̀i' grave; 'mǎi' sobe",
+   "curiosity": "หน่อย suaviza pedidos (= um pouquinho): ช่วยหน่อย, เบาหน่อย, เร็วหน่อย."
+  },
+  "sp31-02": {
+   "word": "รอสักครู่ได้ไหม?",
+   "translit": "ro sakkhru dai mai?",
+   "example": "เดี๋ยวฉันกลับมา รอสักครู่ได้ไหม?",
+   "examplePt": "Já volto, pode esperar um instante?",
+   "pron": "rɔɔ sàk-krûu dâi mǎi — 'rɔɔ' reto longo; 'sàk' grave; 'krûu' desce",
+   "curiosity": "สักครู่ é 'um instante' mais formal; no dia a dia usa-se เดี๋ยว (já já)."
+  },
+  "sp31-03": {
+   "word": "ช่วยพูดอีกครั้งได้ไหม?",
+   "translit": "chuai phut ik khrang dai mai?",
+   "example": "ไม่ทันฟัง พูดอีกครั้งได้ไหม?",
+   "examplePt": "Não deu para ouvir, repete mais uma vez?",
+   "pron": "chûai pûut ìik kráng dâi mǎi — 'pûut' desce longo; 'kráng' agudo",
+   "curiosity": "ครั้ง é o classificador de 'vezes': สองครั้ง = duas vezes, ครั้งแรก = primeira vez."
+  },
+  "sp31-04": {
+   "word": "ขอยืมที่ชาร์จหน่อยได้ไหม?",
+   "translit": "kho yuem thi chat noi dai mai?",
+   "example": "แบตหมด ขอยืมที่ชาร์จหน่อย",
+   "examplePt": "Minha bateria acabou, empresta o carregador?",
+   "pron": "kɔ̌ɔ yʉʉm tîi cháat nɔ̀i dâi mǎi — 'yʉʉm' reto longo; 'cháat' agudo",
+   "curiosity": "ยืม serve para pedir e para dar emprestado; quem empresta diz ให้ยืม."
+  },
+  "sp31-05": {
+   "word": "ขอรบกวนหน่อยได้ไหม?",
+   "translit": "kho robkuan noi dai mai?",
+   "example": "ขอรบกวนเวลาสักนิดได้ไหม?",
+   "examplePt": "Posso tomar só um minutinho do seu tempo?",
+   "pron": "kɔ̌ɔ róp-guan nɔ̀i dâi mǎi — 'róp' agudo; 'guan' reto",
+   "curiosity": "รบกวน = incomodar: soa humilde ao pedir e aparece muito em mensagens educadas."
+  },
+  "sp31-06": {
+   "word": "พูดช้าลงหน่อยนะ",
+   "translit": "phut cha long noi na",
+   "example": "ยังฟังไม่ทัน ขอให้พูดช้าลงหน่อย",
+   "examplePt": "Ainda não acompanho, fale mais devagar.",
+   "pron": "pûut cháa long nɔ̀i ná — 'pûut' desce; 'cháa' agudo; 'long' reto",
+   "curiosity": "ลง depois de adjetivo = diminuir: ช้าลง (mais lento), เบาลง (mais baixo); ขึ้น é o oposto."
+  },
+  "sp31-07": {
+   "word": "ช่วยเก็บที่นั่งไว้ให้หน่อย",
+   "translit": "chuai kep thi nang wai hai noi",
+   "example": "ไปห้องน้ำแป๊บ เก็บที่นั่งไว้ให้นะ",
+   "examplePt": "Vou ao banheiro rapidinho, guarde meu lugar.",
+   "pron": "chûai gèp tîi-nâng wái hâi nɔ̀i — 'gèp' grave; 'tîi' e 'nâng' descem",
+   "curiosity": "ที่ = lugar e forma palavras: ที่นั่ง (assento), ที่พัก (hospedagem), ที่เที่ยว (passeio)."
+  },
+  "sp31-08": {
+   "word": "เปิดหน้าต่างให้หน่อยได้ไหม?",
+   "translit": "poet natang hai noi dai mai?",
+   "example": "ห้องอบอ้าว ช่วยเปิดหน้าต่างหน่อย",
+   "examplePt": "O quarto está abafado, abra a janela.",
+   "pron": "bpə̀ət nâa-dtàang hâi nɔ̀i dâi mǎi — 'bpə̀ət' grave; 'nâa' desce",
+   "curiosity": "หน้า = rosto/frente e está em หน้าตา (aparência), หน้าบ้าน (frente da casa)."
+  },
+  "sp32-01": {
+   "word": "ขอโต๊ะริมหน้าต่าง",
+   "translit": "kho to rim natang",
+   "example": "ถ้าว่างอยู่ ขอโต๊ะริมหน้าต่างนะ",
+   "examplePt": "Se estiver livre, queria a mesa da janela.",
+   "pron": "kɔ̌ɔ dtó rim nâa-dtàang — 'dtó' agudo; 'rim' reto; 'nâa' desce",
+   "curiosity": "ริม = beira: ริมทะเล (beira-mar), ริมถนน (beira da rua), ริมน้ำ (beira do rio)."
+  },
+  "sp32-02": {
+   "word": "คิดเงินด้วย",
+   "translit": "khit ngoen duai",
+   "example": "อิ่มแล้ว ขอคิดเงินด้วยนะ",
+   "examplePt": "Estou satisfeito, a conta, por favor.",
+   "pron": "kít ngən dûai — 'kít' agudo; 'ngən' reto; 'dûai' desce",
+   "curiosity": "เงิน é 'dinheiro' e também 'prata'; คิดเงิน = 'calcular o dinheiro' = pedir a conta."
+  },
+  "sp32-03": {
+   "word": "วันนี้มีอะไรแนะนำบ้าง?",
+   "translit": "wan ni mi arai naenam bang?",
+   "example": "ไม่เคยมาที่นี่ มีอะไรแนะนำบ้างไหม?",
+   "examplePt": "Nunca vim aqui, tem alguma sugestão?",
+   "pron": "wan níi mii à-rai nɛ́-nam bâang — 'bâang' desce; 'nɛ́' agudo",
+   "curiosity": "บ้าง no fim da pergunta pede 'alguns/quais' e deixa o tom mais leve e natural."
+  },
+  "sp32-04": {
+   "word": "จานนี้ใส่พริกไหม?",
+   "translit": "chan ni sai phrik mai?",
+   "example": "ฉันไม่ชอบเผ็ด จานนี้ใส่พริกไหม?",
+   "examplePt": "Não gosto de picante, este prato leva pimenta?",
+   "pron": "jaan níi sài prík mǎi — 'sài' grave; 'prík' agudo; 'mǎi' sobe",
+   "curiosity": "พริกไทย (pimenta-do-reino) significa literalmente 'pimenta tailandesa'."
+  },
+  "sp32-05": {
+   "word": "ขอขนมปังเพิ่มได้ไหม?",
+   "translit": "kho khanompang phoem dai mai?",
+   "example": "ขนมปังอร่อยมาก ขอเพิ่มอีกได้ไหม?",
+   "examplePt": "O pão está ótimo, pode trazer mais?",
+   "pron": "kɔ̌ɔ kà-nǒm-bpang pə̂əm dâi mǎi — 'kà' grave; 'nǒm' sobe; 'pə̂əm' desce",
+   "curiosity": "ปัง em ขนมปัง vem do português 'pão': um empréstimo antigo."
+  },
+  "sp32-06": {
+   "word": "พร้อมสั่งอาหารแล้ว",
+   "translit": "phrom sang ahan laeo",
+   "example": "ดูเมนูเสร็จแล้ว พร้อมสั่งได้เลย",
+   "examplePt": "Já olhei o cardápio, posso pedir agora.",
+   "pron": "prɔ́ɔm sàng aa-hǎan lɛ́ɛo — 'prɔ́ɔm' agudo; 'sàng' grave; 'hǎan' sobe",
+   "curiosity": "สั่ง = ordenar/encomendar: สั่งอาหาร (pedir comida), สั่งซื้อ (fazer pedido de compra)."
+  },
+  "sp32-07": {
+   "word": "ขอเนื้อสุกมาก",
+   "translit": "kho nuea suk mak",
+   "example": "ไม่เอาเลือดซิบ ขอเนื้อสุกมากนะ",
+   "examplePt": "Não quero malpassado, a carne bem passada.",
+   "pron": "kɔ̌ɔ nʉ́a sùk mâak — 'nʉ́a' agudo, ditongo; 'sùk' grave curto",
+   "curiosity": "สุก = cozido e maduro: ข้าวสุก (arroz cozido), มะม่วงสุก (manga madura)."
+  },
+  "sp32-08": {
+   "word": "ช่วยแยกบิลเป็นสองใบได้ไหม?",
+   "translit": "chuai yaek bin pen song bai dai mai?",
+   "example": "เรามาแยกกัน ขอแยกบิลเป็นสองใบ",
+   "examplePt": "Pagamos separado, quero duas contas.",
+   "pron": "chûai yɛ̂ɛk bin pen sɔ̌ɔng bai dâi mǎi — 'yɛ̂ɛk' desce; 'sɔ̌ɔng' sobe",
+   "curiosity": "ใบ é classificador de coisas chatas e vasilhas: บิลสองใบ, ใบเสร็จ (recibo)."
+  },
+  "sp33-01": {
+   "word": "แค่ดูก่อน ขอบคุณ",
+   "translit": "khae du kon khopkhun",
+   "example": "แค่ดูก่อน ยังตัดสินใจไม่ได้",
+   "examplePt": "Só estou olhando, ainda não decidi.",
+   "pron": "kɛ̂ɛ duu gɔ̀ɔn kɔ̀ɔp-kun — 'kɛ̂ɛ' desce; 'duu' reto longo; 'gɔ̀ɔn' grave",
+   "curiosity": "แค่ = apenas: แค่นี้ (só isso), แค่ดู (só olhar), แค่นั้น (só aquilo)."
+  },
+  "sp33-02": {
+   "word": "มีขนาดเล็กกว่านี้ไหม?",
+   "translit": "mi khanat lek kwa ni mai?",
+   "example": "ตัวนี้หลวมไป มีขนาดเล็กกว่านี้ไหม?",
+   "examplePt": "Este ficou folgado, tem menor que este?",
+   "pron": "mii kà-nàat lék gwàa níi mǎi — 'kà' e 'nàat' graves; 'lék' agudo",
+   "curiosity": "กว่า = mais...do que: เล็กกว่า, ใหญ่กว่า, ถูกกว่า — sem palavra separada para 'mais'."
+  },
+  "sp33-03": {
+   "word": "ขอลองเสื้อตัวนี้ได้ไหม?",
+   "translit": "kho long suea tua ni dai mai?",
+   "example": "เสื้อสวยมาก ขอลองตัวนี้ได้ไหม?",
+   "examplePt": "A camisa é linda, posso provar esta?",
+   "pron": "kɔ̌ɔ loong sʉ̂a dtua níi dâi mǎi — 'sʉ̂a' desce, ditongo; 'dtua' reto",
+   "curiosity": "ตัว é classificador de roupas e animais: เสื้อสองตัว, หมาสามตัว."
+  },
+  "sp33-04": {
+   "word": "รับบัตรเครดิตไหม?",
+   "translit": "rap bat khredit mai?",
+   "example": "ไม่มีเงินสด ที่นี่รับบัตรไหม?",
+   "examplePt": "Estou sem dinheiro vivo, aceitam cartão?",
+   "pron": "ráp bàt kree-dìt mǎi — 'ráp' agudo; 'bàt' grave; 'dìt' grave",
+   "curiosity": "บัตร = cartão: บัตรเครดิต, บัตรประชาชน (identidade), บัตรเชิญ (convite)."
+  },
+  "sp33-05": {
+   "word": "แพงไปหน่อยสำหรับฉัน",
+   "translit": "phaeng pai noi samrap chan",
+   "example": "สวยดี แต่แพงไปหน่อยสำหรับงบนี้",
+   "examplePt": "Bonito, mas caro demais para este orçamento.",
+   "pron": "pɛɛng pai nɔ̀i sǎm-ràp chǎn — 'pɛɛng' reto longo; 'sǎm' sobe; 'ràp' grave",
+   "curiosity": "ไป depois de adjetivo = 'demais': แพงไป, ร้อนไป, ใหญ่ไป; หน่อย amacia a crítica."
+  },
+  "sp33-06": {
+   "word": "ถ้าจ่ายเงินสดลดได้ไหม?",
+   "translit": "tha chai ngoensot lot dai mai?",
+   "example": "ซื้อสองชิ้น ลดได้ไหม?",
+   "examplePt": "Se eu comprar duas peças, tem desconto?",
+   "pron": "tâa jàai ngən-sòt lót dâi mǎi — 'tâa' desce; 'jàai' grave; 'lót' agudo",
+   "curiosity": "ถ้า...ก็ = se..., então...: ถ้าฝนตกก็ไม่ไป (se chover, não vou)."
+  },
+  "sp33-07": {
+   "word": "ช่วยห่อเป็นของขวัญหน่อย",
+   "translit": "chuai ho pen khongkhwan noi",
+   "example": "วันเกิดเพื่อน ช่วยห่อเป็นของขวัญหน่อย",
+   "examplePt": "É aniversário de um amigo, embrulhe como presente.",
+   "pron": "chûai hɔ̀ɔ pen kɔ̌ɔng-kwǎn nɔ̀i — 'hɔ̀ɔ' grave; 'kɔ̌ɔng' e 'kwǎn' sobem",
+   "curiosity": "ของขวัญ junta ของ (coisa) e ขวัญ (ânimo/moral): daí vem a ideia de presente."
+  },
+  "sp33-08": {
+   "word": "อยากเปลี่ยนเป็นสีอื่น",
+   "translit": "yak plian pen si uen",
+   "example": "สีนี้ไม่ค่อยเข้ากัน อยากเปลี่ยนเป็นสีอื่น",
+   "examplePt": "Esta cor não combina, quero trocar por outra.",
+   "pron": "yàak bplìan pen sǐi ʉ̀ʉn — 'bplìan' grave; 'sǐi' sobe; 'ʉ̀ʉn' grave longo",
+   "curiosity": "อื่น = outro diferente: คนอื่น (outra pessoa), ที่อื่น (outro lugar), อย่างอื่น (outra coisa)."
+  },
+  "sp34-01": {
+   "word": "พลาดเที่ยวบินต่อเครื่อง",
+   "translit": "phlat thiaobin to khrueang",
+   "example": "เครื่องมาช้า เลยพลาดเที่ยวบินต่อ",
+   "examplePt": "O avião atrasou e perdi a conexão.",
+   "pron": "plâat tîao-bin dtɔ̀ɔ krʉ̂ang — 'plâat' desce; 'tîao' desce; 'dtɔ̀ɔ' grave",
+   "curiosity": "พลาด = perder por pouco: พลาดรถ (perder o ônibus), พลาดโอกาส (perder a chance)."
+  },
+  "sp34-02": {
+   "word": "ประตูขึ้นเครื่องอยู่ที่ไหน?",
+   "translit": "pratu khuen khrueang yu thi nai?",
+   "example": "ใกล้ถึงเวลาแล้ว ประตูขึ้นเครื่องอยู่ที่ไหน?",
+   "examplePt": "Está quase na hora, onde fica o portão?",
+   "pron": "bprà-dtuu kʉ̂n krʉ̂ang yùu tîi-nǎi — 'kʉ̂n' desce; 'nǎi' sobe",
+   "curiosity": "ขึ้นเครื่อง = subir no avião; ลงเครื่อง = desembarcar (descer)."
+  },
+  "sp34-03": {
+   "word": "กระเป๋ายังมาไม่ถึง",
+   "translit": "krapao yang ma mai thueng",
+   "example": "รอสายพานนานมาก กระเป๋ายังมาไม่ถึง",
+   "examplePt": "Esperei na esteira e a mala não chegou.",
+   "pron": "grà-bpǎo yang maa mâi tʉ̌ng — 'bpǎo' sobe; 'mâi' desce; 'tʉ̌ng' sobe",
+   "curiosity": "ยัง...ไม่ = ainda não: ยังไม่กิน (ainda não comeu), ยังไม่ถึง (ainda não chegou)."
+  },
+  "sp34-04": {
+   "word": "เที่ยวบินของเราล่าช้า",
+   "translit": "thiaobin khong rao lacha",
+   "example": "ฝนตกหนัก เที่ยวบินของเราล่าช้าสองชั่วโมง",
+   "examplePt": "Choveu forte, nosso voo atrasou duas horas.",
+   "pron": "tîao-bin kɔ̌ɔng rao lâa-cháa — 'tîao' desce; 'kɔ̌ɔng' sobe; 'lâa' desce",
+   "curiosity": "ล่าช้า é o aviso formal de atraso; ช้า sozinho é só 'lento'."
+  },
+  "sp34-05": {
+   "word": "ขอนั่งริมทางเดินได้ไหม?",
+   "translit": "kho nang rim thang doen dai mai?",
+   "example": "ขอที่นั่งริมทางเดิน จะได้ลุกง่าย",
+   "examplePt": "Quero o corredor para me levantar fácil.",
+   "pron": "kɔ̌ɔ nâng rim taang dəən dâi mǎi — 'nâng' desce; 'mǎi' sobe",
+   "curiosity": "ทาง = caminho: ทางออก (saída), ทางเข้า (entrada), ทางเดิน (corredor, calçada)."
+  },
+  "sp34-06": {
+   "word": "ขอโหลดกระเป๋าใบนี้",
+   "translit": "kho lot krapao bai ni",
+   "example": "กระเป๋าใบใหญ่ต้องโหลดใต้เครื่อง",
+   "examplePt": "A mala grande deve ir no porão.",
+   "pron": "kɔ̌ɔ lòot grà-bpǎo bai níi — 'lòot' grave e longo; 'bai' reto",
+   "curiosity": "โหลด vem do inglês 'load' e é usado para bagagem; o tailandês adota muitos empréstimos."
+  },
+  "sp34-07": {
+   "word": "เวลาขึ้นเครื่องกี่โมง?",
+   "translit": "wela khuen khrueang ki mong?",
+   "example": "ตั๋วไม่ระบุชัด เวลาขึ้นเครื่องกี่โมง?",
+   "examplePt": "O bilhete não diz, que horas é o embarque?",
+   "pron": "wee-laa kʉ̂n krʉ̂ang gìi moong — 'gìi' grave; 'moong' reto longo",
+   "curiosity": "กี่ = quantos/quais, sempre com classificador: กี่โมง, กี่คน, กี่วัน, กี่ใบ."
+  },
+  "sp34-08": {
+   "word": "จะผ่านศุลกากร",
+   "translit": "cha phan sunlakakon",
+   "example": "ต้องเปิดกระเป๋า เพื่อผ่านศุลกากร",
+   "examplePt": "Preciso abrir a mala para passar pela alfândega.",
+   "pron": "jà pàan sǔn-lá-gaa-gɔɔn — 'pàan' grave; 'sǔn' sobe; 'lá' agudo",
+   "curiosity": "ผ่าน = passar: ผ่านประตู, ผ่านการสอบ (passar na prova), ผ่านไป (passar por)."
+  },
+  "sp35-01": {
+   "word": "จองห้องพักไว้ในชื่อของฉัน",
+   "translit": "chong hong phak wai nai chue khong chan",
+   "example": "เมื่อวานจองไว้แล้ว ในชื่อของฉัน",
+   "examplePt": "Reservei ontem, no meu nome.",
+   "pron": "jɔɔng hɔ̂ng pák wái nai chʉ̂ʉ kɔ̌ɔng chǎn — 'hɔ̂ng' desce; 'chʉ̂ʉ' desce",
+   "curiosity": "ชื่อเล่น é o apelido que todo tailandês recebe na infância e usa no dia a dia."
+  },
+  "sp35-02": {
+   "word": "อาหารเช้าเริ่มกี่โมง?",
+   "translit": "ahan chao roem ki mong?",
+   "example": "พรุ่งนี้อยากตื่นเช้า อาหารเช้าเริ่มกี่โมง?",
+   "examplePt": "Amanhã quero acordar cedo, quando começa o café?",
+   "pron": "aa-hǎan cháo rə̂əm gìi moong — 'hǎan' sobe; 'cháo' agudo; 'rə̂əm' desce",
+   "curiosity": "อาหารเช้า = café da manhã; อาหารกลางวัน = almoço; อาหารเย็น = jantar."
+  },
+  "sp35-03": {
+   "word": "ฝักบัวไม่มีน้ำออก",
+   "translit": "fakbua mai mi nam ok",
+   "example": "น้ำไม่ไหลเลย ฝักบัวใช้ไม่ได้",
+   "examplePt": "A água não sai, o chuveiro não funciona.",
+   "pron": "fàk-bua mâi mii náam ɔ̀ɔk — 'fàk' grave; 'mâi' desce; 'náam' agudo",
+   "curiosity": "ฝักบัว = 'vagem de lótus' (ฝัก + บัว): o chuveiro lembra o formato dela."
+  },
+  "sp35-04": {
+   "word": "ช่วยเรียกแท็กซี่ให้หน่อยได้ไหม?",
+   "translit": "chuai riak thaeksi hai noi dai mai?",
+   "example": "ฝนตกแล้ว ช่วยเรียกแท็กซี่ให้หน่อย",
+   "examplePt": "Começou a chover, chame um táxi, por favor.",
+   "pron": "chûai rîak ték-sîi hâi nɔ̀i dâi mǎi — 'rîak' desce; 'ték' agudo; 'sîi' desce",
+   "curiosity": "เรียก = chamar: เรียกแท็กซี่, เรียกชื่อ; ...เรียกว่า... = 'chama-se...'."
+  },
+  "sp35-05": {
+   "word": "ขอผ้าเช็ดตัวเพิ่ม",
+   "translit": "kho pha chet tua phoem",
+   "example": "มาสี่คน ขอผ้าเช็ดตัวเพิ่มสองผืน",
+   "examplePt": "Somos quatro, mais duas toalhas, por favor.",
+   "pron": "kɔ̌ɔ pâa chét dtua pə̂əm — 'pâa' desce; 'chét' agudo; 'pə̂əm' desce",
+   "curiosity": "ผืน é o classificador de panos e tapetes: ผ้าเช็ดตัวสองผืน (duas toalhas)."
+  },
+  "sp35-06": {
+   "word": "จะพักอยู่ถึงวันศุกร์",
+   "translit": "cha phak yu thueng wan suk",
+   "example": "จะพักอยู่ถึงวันศุกร์ แล้วเดินทางต่อ",
+   "examplePt": "Fico até sexta e depois sigo viagem.",
+   "pron": "jà pák yùu tʉ̌ng wan sùk — 'jà' e 'yùu' graves; 'tʉ̌ng' sobe; 'sùk' grave",
+   "curiosity": "Os dias levam วัน + planeta: ศุกร์ vem do nome de Vênus, วันอาทิตย์ é o dia do Sol."
+  },
+  "sp35-07": {
+   "word": "ในห้องมีอินเทอร์เน็ตไหม?",
+   "translit": "nai hong mi inthoenet mai?",
+   "example": "ทำงานออนไลน์ ในห้องมีอินเทอร์เน็ตไหม?",
+   "examplePt": "Vou trabalhar on-line, o quarto tem internet?",
+   "pron": "nai hɔ̂ng mii in-təə-nét mǎi — 'hɔ̂ng' desce; 'nét' agudo",
+   "curiosity": "เน็ต é o apelido curto de อินเทอร์เน็ต, como 'net' em português."
+  },
+  "sp35-08": {
+   "word": "ห้องอยู่ชั้นสองใช่ไหม?",
+   "translit": "hong yu chan song chai mai?",
+   "example": "ขึ้นลิฟต์ ห้องอยู่ชั้นสองใช่ไหม?",
+   "examplePt": "Pegando o elevador, o quarto fica no 2º andar?",
+   "pron": "hɔ̂ng yùu chán sɔ̌ɔng châi mǎi — 'chán' agudo; 'châi' desce; 'mǎi' sobe",
+   "curiosity": "ใช่ไหม no fim = 'né?/não é?', para pedir confirmação do que já se supõe."
+  },
+  "sp36-01": {
+   "word": "เลี้ยวซ้ายตรงสัญญาณไฟ",
+   "translit": "liao sai trong sanyan fai",
+   "example": "เจอสัญญาณไฟแล้วเลี้ยวซ้ายเลย",
+   "examplePt": "Ao ver o semáforo, vire à esquerda.",
+   "pron": "líao sáai dtrong sǎn-yaan fai — 'líao' e 'sáai' agudos; 'sǎn' sobe",
+   "curiosity": "ไฟ = fogo e luz elétrica: ไฟแดง (sinal vermelho), ไฟฟ้า (eletricidade)."
+  },
+  "sp36-02": {
+   "word": "ตรงไปอีกสองแยก",
+   "translit": "trong pai ik song yaek",
+   "example": "ตรงไปอีกสองแยก แล้วจะเห็นตลาด",
+   "examplePt": "Siga em frente dois cruzamentos e verá a feira.",
+   "pron": "dtrong pai ìik sɔ̌ɔng yɛ̂ɛk — 'ìik' grave; 'sɔ̌ɔng' sobe; 'yɛ̂ɛk' desce",
+   "curiosity": "แยก = separar e 'cruzamento': สามแยก = T (3 vias), สี่แยก = cruzamento de 4 vias."
+  },
+  "sp36-03": {
+   "word": "อยู่ข้างธนาคาร",
+   "translit": "yu khang thanakhan",
+   "example": "ร้านขนมอยู่ข้างธนาคารนั่นแหละ",
+   "examplePt": "A doceria fica bem ao lado do banco.",
+   "pron": "yùu kâang tá-naa-kaan — 'yùu' grave; 'kâang' desce; 'tá' agudo",
+   "curiosity": "No dia a dia muita gente diz แบงก์ (do inglês 'bank'), que também é 'cédula'."
+  },
+  "sp36-04": {
+   "word": "เดินจากที่นี่ไกลไหม?",
+   "translit": "doen chak thini klai mai?",
+   "example": "ไม่อยากเรียกรถ เดินจากที่นี่ไกลไหม?",
+   "examplePt": "Prefiro não chamar carro, é longe a pé?",
+   "pron": "dəən jàak tîi-nîi glai mǎi — 'dəən' longo reto; 'tîi-nîi' descem",
+   "curiosity": "ไกล (longe, tom reto) e ใกล้ (perto, tom descendente) só mudam no tom."
+  },
+  "sp36-05": {
+   "word": "ดูเหมือนว่าเราหลงทาง",
+   "translit": "du muean wa rao long thang",
+   "example": "แผนที่ก็ไม่ชัด ดูเหมือนว่าเราหลงทาง",
+   "examplePt": "O mapa não ajuda, parece que nos perdemos.",
+   "pron": "duu mʉ̌an wâa rao lǒng taang — 'mʉ̌an' sobe; 'wâa' desce; 'lǒng' sobe",
+   "curiosity": "หลง = perder-se/encantar-se: หลงทาง (perder o caminho), หลงรัก (apaixonar-se)."
+  },
+  "sp36-06": {
+   "word": "แถวนี้มีทางลัดไหม?",
+   "translit": "thaeo ni mi thang lat mai?",
+   "example": "ใกล้เวลาแล้ว แถวนี้มีทางลัดไหม?",
+   "examplePt": "Estamos quase atrasados, tem atalho por aqui?",
+   "pron": "tɛ̌ɛo níi mii taang lát mǎi — 'tɛ̌ɛo' sobe; 'lát' agudo",
+   "curiosity": "ลัด = cortar caminho: ทางลัด (atalho); no teclado, ปุ่มลัด é a tecla de atalho."
+  },
+  "sp36-07": {
+   "word": "จอดรถได้ที่ไหนบ้าง?",
+   "translit": "jot rot dai thi nai bang?",
+   "example": "ลานจอดเต็มแล้ว จอดรถได้ที่ไหนบ้าง?",
+   "examplePt": "O estacionamento lotou, onde posso parar?",
+   "pron": "jɔ̀ɔt rót dâi tîi-nǎi bâang — 'jɔ̀ɔt' grave; 'rót' agudo; 'nǎi' sobe",
+   "curiosity": "จอด = estacionar/parar: จอดรถ, จอดเรือ (atracar), ป้ายจอด (ponto de parada)."
+  },
+  "sp36-08": {
+   "word": "รถเมล์มาทุกสิบนาที",
+   "translit": "rotme ma thuk sip nathi",
+   "example": "รถเมล์มาทุกสิบนาที ไม่ต้องรีบ",
+   "examplePt": "O ônibus passa a cada dez minutos, sem pressa.",
+   "pron": "rót-mee maa túk sìp naa-tii — 'rót' e 'túk' agudos; 'sìp' grave",
+   "curiosity": "รถเมล์ vem do inglês 'mail': antes o ônibus levava o correio, hoje é só 'ônibus'."
+  },
+  "sp37-01": {
+   "word": "ปวดหัวมากเลย",
+   "translit": "puat hua mak loei",
+   "example": "ปวดหัวมากเลย อยากนอนพักสักหน่อย",
+   "examplePt": "Dor de cabeça forte, quero deitar um pouco.",
+   "pron": "bpùat hǔa mâak ləəi — 'bpùat' grave; 'hǔa' sobe; 'mâak' desce",
+   "curiosity": "ปวด = doer: ปวดท้อง, ปวดฟัน, ปวดหลัง — a mesma regra vale para qualquer parte."
+  },
+  "sp37-02": {
+   "word": "แพ้ถั่วลิสง",
+   "translit": "phae thua lisong",
+   "example": "แพ้ถั่วลิสง กินขนมนี้ไม่ได้",
+   "examplePt": "Sou alérgico a amendoim, não posso comer isso.",
+   "pron": "pɛ́ɛ tùa lí-sǒng — 'pɛ́ɛ' agudo; 'tùa' grave; 'lí' agudo; 'sǒng' sobe",
+   "curiosity": "แพ้ = ser alérgico e também perder: แพ้ฝุ่น (alergia a pó), แพ้เกม (perder o jogo)."
+  },
+  "sp37-03": {
+   "word": "ช่วยแนะนำยาให้หน่อยได้ไหม?",
+   "translit": "chuai naenam ya hai noi dai mai?",
+   "example": "ปวดท้องนิดหน่อย ช่วยแนะนำยาให้หน่อย",
+   "examplePt": "Estou com dorzinha de barriga, indique um remédio.",
+   "pron": "chûai nɛ́-nam yaa hâi nɔ̀i dâi mǎi — 'yaa' reto longo; 'hâi' desce",
+   "curiosity": "ยา = remédio: ร้านขายยา (farmácia), ยาสีฟัน (pasta de dente, 'remédio de dentes')."
+  },
+  "sp37-04": {
+   "word": "ไอมาตั้งแต่เมื่อวาน",
+   "translit": "ai ma tangtae muea wan",
+   "example": "ไอมาตั้งแต่เมื่อวาน กลางคืนนอนไม่หลับ",
+   "examplePt": "Tusso desde ontem e à noite não durmo.",
+   "pron": "ai maa dtâng-dtɛ̀ɛ mʉ̂a-waan — 'dtâng' desce; 'dtɛ̀ɛ' grave; 'mʉ̂a' desce",
+   "curiosity": "ตั้งแต่ = desde: ตั้งแต่เด็ก (desde criança), ตั้งแต่เช้า (desde cedo)."
+  },
+  "sp37-05": {
+   "word": "ขอพลาสเตอร์ปิดแผลหน่อย",
+   "translit": "kho phlastoe pit phlae noi",
+   "example": "เข่าถลอก ขอพลาสเตอร์ปิดแผลหน่อย",
+   "examplePt": "Ralei o joelho, preciso de um curativo.",
+   "pron": "kɔ̌ɔ plaa-sà-dtəə bpìt plɛ̌ɛ nɔ̀i — 'bpìt' grave; 'plɛ̌ɛ' sobe",
+   "curiosity": "แผลเป็น = cicatriz: แผล (ferida) + เป็น (ser/virar)."
+  },
+  "sp37-06": {
+   "word": "ต้องกินยานี้บ่อยแค่ไหน?",
+   "translit": "tong kin ya ni boi khae nai?",
+   "example": "ลืมถามหมอ ต้องกินยานี้บ่อยแค่ไหน?",
+   "examplePt": "Esqueci de perguntar, de quanto em quanto tomo?",
+   "pron": "tɔ̂ng gin yaa níi bɔ̀i kɛ̂ɛ-nǎi — 'bɔ̀i' grave; 'kɛ̂ɛ' desce; 'nǎi' sobe",
+   "curiosity": "Em tailandês o remédio se 'come': กินยา, e não se 'toma'."
+  },
+  "sp37-07": {
+   "word": "น่าจะมีไข้",
+   "translit": "na cha mi khai",
+   "example": "ตัวร้อนมาก น่าจะมีไข้นะ",
+   "examplePt": "Estou muito quente, acho que tenho febre.",
+   "pron": "nâa jà mii kâi — 'nâa' desce; 'jà' grave curto; 'kâi' desce",
+   "curiosity": "น่า + verbo = digno de: น่ารัก (fofo), น่ากลัว (assustador); น่าจะ = provavelmente."
+  },
+  "sp37-08": {
+   "word": "อยากนัดพบหมอ",
+   "translit": "yak nat phop mo",
+   "example": "ไอไม่หาย อยากนัดพบหมอสักวัน",
+   "examplePt": "A tosse não passa, quero marcar uma consulta.",
+   "pron": "yàak nát póp mɔ̌ɔ — 'yàak' grave; 'nát' e 'póp' agudos; 'mɔ̌ɔ' sobe",
+   "curiosity": "นัด = combinar horário: นัดเพื่อน, นัดหมาย; นัดกัน = combinar de se ver."
+  },
+  "sp38-01": {
+   "word": "วันนี้ตื่นเต้นมาก",
+   "translit": "wan ni tuenten mak",
+   "example": "พรุ่งนี้จะเที่ยวทะเล ตื่นเต้นมาก",
+   "examplePt": "Amanhã vamos à praia, estou animadíssimo.",
+   "pron": "wan níi dtʉ̀ʉn-dtên mâak — 'dtʉ̀ʉn' grave longo; 'dtên' desce",
+   "curiosity": "ตื่นเต้น junta ตื่น (acordar) e เต้น (pulsar/dançar): o coração acelera."
+  },
+  "sp38-02": {
+   "word": "ผิดหวังกับผลลัพธ์",
+   "translit": "phit wang kap phonlaphat",
+   "example": "ซ้อมมาหนัก แต่ผิดหวังกับผลลัพธ์",
+   "examplePt": "Treinei duro, mas me decepcionei com o resultado.",
+   "pron": "pìt wǎng gàp pǒn-láp — 'pìt' grave; 'wǎng' sobe; 'pǒn' sobe; 'láp' agudo",
+   "curiosity": "หวัง = esperar: ผิดหวัง (decepcionar-se), ความหวัง (esperança), หวังว่า (espero que)."
+  },
+  "sp38-03": {
+   "word": "โล่งอกจังทุกอย่างเรียบร้อย",
+   "translit": "long ok chang thuk yang riaproi",
+   "example": "ผลสอบออกแล้ว โล่งอกจังเลย",
+   "examplePt": "Saiu o resultado da prova, que alívio!",
+   "pron": "lôong òk jang túk yàang rîap-rɔ́ɔi — 'lôong' desce; 'òk' grave; 'rɔ́ɔi' agudo",
+   "curiosity": "โล่งอก = 'peito livre': a imagem do alívio, como tirar um peso do peito."
+  },
+  "sp38-04": {
+   "word": "อายจนอยากแทรกแผ่นดินหนี",
+   "translit": "ai chon yak saek phaendin ni",
+   "example": "ล้มกลางห้อง อายจนอยากแทรกแผ่นดินหนี",
+   "examplePt": "Caí no meio da sala e queria sumir.",
+   "pron": "aai jon yàak sɛ̂ɛk pɛ̀ɛn-din nǐi — 'sɛ̂ɛk' desce; 'pɛ̀ɛn' grave; 'nǐi' sobe",
+   "curiosity": "แทรกแผ่นดินหนี = 'enfiar-se no chão para fugir': o 'queria sumir' tailandês."
+  },
+  "sp38-05": {
+   "word": "กังวลเรื่องการสอบ",
+   "translit": "kangwon rueang kan sop",
+   "example": "คืนนี้นอนไม่หลับ กังวลเรื่องการสอบ",
+   "examplePt": "Esta noite não dormi, preocupado com a prova.",
+   "pron": "gang-won rʉ̂ang gaan sɔ̀ɔp — 'rʉ̂ang' desce; 'sɔ̀ɔp' grave",
+   "curiosity": "เรื่อง = assunto/história: เรื่องนี้ (este assunto), เล่าเรื่อง (contar história)."
+  },
+  "sp38-06": {
+   "word": "ภูมิใจในตัวคุณ",
+   "translit": "phumchai nai tua khun",
+   "example": "ภูมิใจในตัวคุณมากที่ทำได้สำเร็จ",
+   "examplePt": "Tenho muito orgulho de você ter conseguido.",
+   "pron": "puum-jai nai dtua kun — 'puum' e 'jai' retos; 'dtua' reto",
+   "curiosity": "ใจ (coração) forma emoções: ภูมิใจ (orgulho), ดีใจ (alegria), เสียใจ (tristeza)."
+  },
+  "sp38-07": {
+   "word": "คิดถึงบ้านจัง",
+   "translit": "khit thueng ban chang",
+   "example": "อยู่ไกลมานาน คิดถึงบ้านจัง",
+   "examplePt": "Faz tempo que estou longe, que saudade de casa.",
+   "pron": "kít-tʉ̌ng bâan jang — 'kít' agudo; 'tʉ̌ng' sobe; 'bâan' desce",
+   "curiosity": "จัง no fim é 'muito' informal: คิดถึงจัง, หิวจัง (que fome!), สวยจัง (que lindo)."
+  },
+  "sp38-08": {
+   "word": "หยุดหัวเราะไม่ได้",
+   "translit": "yut huaro mai dai",
+   "example": "ดูตลกเรื่องนี้ หยุดหัวเราะไม่ได้เลย",
+   "examplePt": "Vendo esta comédia, não paro de rir.",
+   "pron": "yùt hǔa-rɔ́ mâi-dâi — 'yùt' grave; 'hǔa' sobe; 'rɔ́' agudo curto",
+   "curiosity": "ไม่ได้ depois do verbo = 'não consigo': หยุดไม่ได้, ลืมไม่ได้, นอนไม่ได้."
+  },
+  "sp39-01": {
+   "word": "เริ่มประชุมกันเลย",
+   "translit": "roem prachum kan loei",
+   "example": "ทุกคนพร้อมแล้ว เริ่มประชุมกันเลย",
+   "examplePt": "Todos prontos, vamos começar a reunião.",
+   "pron": "rə̂əm bprà-chum gan ləəi — 'rə̂əm' desce; 'bprà' grave curto; 'chum' reto",
+   "curiosity": "ห้องประชุม = sala de reunião; ประชุม é o verbo e também o substantivo."
+  },
+  "sp39-02": {
+   "word": "ขอเสนอแนะหน่อยได้ไหม?",
+   "translit": "kho sanoe nae noi dai mai?",
+   "example": "คิดว่าอีกทางดีกว่า ขอเสนอแนะได้ไหม?",
+   "examplePt": "Acho que o outro jeito é melhor, posso sugerir?",
+   "pron": "kɔ̌ɔ sà-nə̌ə nɛ́ nɔ̀i dâi mǎi — 'sà' grave; 'nə̌ə' sobe; 'nɛ́' agudo",
+   "curiosity": "เสนอ = propor/oferecer: เสนอราคา (apresentar orçamento), เสนอชื่อ (indicar um nome)."
+  },
+  "sp39-03": {
+   "word": "เห็นด้วยกับประเด็นของคุณ",
+   "translit": "hen duai kap praden khong khun",
+   "example": "ฟังแล้วเห็นด้วยกับประเด็นของคุณ",
+   "examplePt": "Depois de ouvir, concordo com o seu ponto.",
+   "pron": "hěn-dûai gàp bprà-den kɔ̌ɔng kun — 'hěn' sobe; 'dûai' desce; 'bprà' grave",
+   "curiosity": "เห็นด้วย = 'ver junto' = concordar; ไม่เห็นด้วย = discordar."
+  },
+  "sp39-04": {
+   "word": "กำหนดส่งคือวันศุกร์",
+   "translit": "kamnot song khue wan suk",
+   "example": "งานต้องเสร็จตามกำหนดส่งทุกครั้ง",
+   "examplePt": "O trabalho deve estar pronto no prazo sempre.",
+   "pron": "gam-nòt sòng kʉʉ wan sùk — 'nòt' e 'sòng' graves; 'kʉʉ' reto",
+   "curiosity": "คือ liga uma coisa à sua identidade: A คือ B (A é B); เป็น liga a adjetivos e profissões."
+  },
+  "sp39-05": {
+   "word": "วันนี้จะตรวจทานรายงาน",
+   "translit": "wan ni cha truat than raingan",
+   "example": "ก่อนส่งหัวหน้า ต้องตรวจทานรายงาน",
+   "examplePt": "Antes de entregar ao chefe, é preciso revisar.",
+   "pron": "wan níi jà dtrùat taan raai-ngaan — 'dtrùat' grave; 'taan' e 'ngaan' longos",
+   "curiosity": "งาน = trabalho e também festa/evento: งานแต่ง (casamento), งานวัด (feira do templo)."
+  },
+  "sp39-06": {
+   "word": "ใครรับผิดชอบเรื่องนี้?",
+   "translit": "khrai rap phitchop rueang ni?",
+   "example": "ใครรับผิดชอบเรื่องนี้ในทีม?",
+   "examplePt": "Quem se responsabiliza por isso na equipe?",
+   "pron": "krai ráp-pìt-chɔ̂ɔp rʉ̂ang níi — 'ráp' agudo; 'pìt' grave; 'chɔ̂ɔp' desce",
+   "curiosity": "รับผิดชอบ = รับ (aceitar) + ผิด (errado) + ชอบ (certo): arcar com acertos e erros."
+  },
+  "sp39-07": {
+   "word": "เลื่อนไปพรุ่งนี้ได้ไหม?",
+   "translit": "luean pai phrungni dai mai?",
+   "example": "วันนี้ยังไม่พร้อม เลื่อนไปพรุ่งนี้ได้ไหม?",
+   "examplePt": "Hoje não estamos prontos, dá para adiar?",
+   "pron": "lʉ̂an pai prûng-níi dâi mǎi — 'lʉ̂an' desce; 'prûng' desce; 'níi' agudo",
+   "curiosity": "เลื่อน = adiar e deslizar: เลื่อนนัด (remarcar), เลื่อนหน้าจอ (rolar a tela)."
+  },
+  "sp39-08": {
+   "word": "ขอเวลาเพิ่มอีกหน่อย",
+   "translit": "kho wela phoem ik noi",
+   "example": "ยังเขียนไม่เสร็จ ขอเวลาเพิ่มอีกหน่อย",
+   "examplePt": "Ainda não terminei de escrever, preciso de mais tempo.",
+   "pron": "kɔ̌ɔ wee-laa pə̂əm ìik nɔ̀i — 'wee-laa' reto; 'pə̂əm' desce",
+   "curiosity": "เวลา = tempo: เวลาว่าง (tempo livre), เวลาทำงาน (horário de trabalho)."
+  },
+  "sp40-01": {
+   "word": "มีประสบการณ์ห้าปี",
+   "translit": "mi prasopkan ha pi",
+   "example": "ทำงานด้านนี้มา มีประสบการณ์ห้าปี",
+   "examplePt": "Trabalho nesta área, tenho cinco anos de experiência.",
+   "pron": "mii bprà-sòp-gaan hâa bpii — 'bprà' e 'sòp' graves; 'hâa' desce",
+   "curiosity": "ปี = ano e classificador de anos: ห้าปี (cinco anos), ปีนี้ (este ano)."
+  },
+  "sp40-02": {
+   "word": "ชอบทำงานเป็นทีม",
+   "translit": "chop tham ngan pen tim",
+   "example": "ชอบทำงานเป็นทีมมากกว่าทำคนเดียว",
+   "examplePt": "Prefiro trabalhar em equipe a trabalhar sozinho.",
+   "pron": "chɔ̂ɔp tam ngaan pen tiim — 'chɔ̂ɔp' desce; 'tam' reto curto; 'ngaan' longo",
+   "curiosity": "ชอบ + verbo = gostar de fazer, sem preposição: ชอบกิน, ชอบอ่าน, ชอบเดิน."
+  },
+  "sp40-03": {
+   "word": "จุดแข็งของฉันคือความเป็นระเบียบ",
+   "translit": "chut khaeng khong chan khue khwam pen rabiap",
+   "example": "เพื่อนร่วมงานชมว่าฉันเป็นระเบียบมาก",
+   "examplePt": "Os colegas elogiam como sou organizado.",
+   "pron": "jùt kɛ̌ng kɔ̌ɔng chǎn kʉʉ kwaam pen rá-bìap — 'jùt' grave; 'kɛ̌ng' sobe",
+   "curiosity": "ความ + adjetivo/verbo cria substantivo abstrato: ความเป็นระเบียบ = organização, ordem."
+  },
+  "sp40-04": {
+   "word": "สนใจตำแหน่งนี้มาก",
+   "translit": "sonchai tamnaeng ni mak",
+   "example": "เห็นประกาศเมื่อวาน เลยสนใจตำแหน่งนี้มาก",
+   "examplePt": "Vi o anúncio ontem e me interessei muito.",
+   "pron": "sǒn-jai dtam-nɛ̀ng níi mâak — 'sǒn' sobe; 'nɛ̀ng' grave; 'níi' agudo",
+   "curiosity": "ตำแหน่ง = posição: cargo, vaga e também a localização de algo."
+  },
+  "sp40-05": {
+   "word": "เริ่มงานได้เมื่อไร?",
+   "translit": "roem ngan dai muea rai?",
+   "example": "ถ้ารับเข้าทำงาน เริ่มงานได้เมื่อไร?",
+   "examplePt": "Se eu for aceito, quando posso começar?",
+   "pron": "rə̂əm ngaan dâi mʉ̂a-rai — 'rə̂əm' desce; 'mʉ̂a' desce; 'rai' reto",
+   "curiosity": "เมื่อไร = quando?; o mesmo เมื่อ aparece em เมื่อวาน (ontem) e เมื่อคืน (ontem à noite)."
+  },
+  "sp40-06": {
+   "word": "เรียนรู้เร็วและตั้งใจมาก",
+   "translit": "rianru reo lae tangchai mak",
+   "example": "งานใหม่ยากหน่อย แต่เรียนรู้เร็วเสมอ",
+   "examplePt": "O trabalho novo é difícil, mas aprendo rápido.",
+   "pron": "rian-rúu reo lɛ́ dtâng-jai mâak — 'rúu' agudo; 'dtâng' desce",
+   "curiosity": "ตั้งใจ = 'pôr o coração' (ตั้ง + ใจ): ter intenção e empenho."
+  },
+  "sp40-07": {
+   "word": "เงินเดือนเท่าไร?",
+   "translit": "ngoenduean thao rai?",
+   "example": "ขอถามเรื่องสวัสดิการ เงินเดือนเท่าไร?",
+   "examplePt": "Quero perguntar dos benefícios, qual é o salário?",
+   "pron": "ngən-dʉan tâo-rai — 'ngən' e 'dʉan' retos; 'tâo' desce; 'rai' reto",
+   "curiosity": "เดือน = mês e lua; เงินเดือน = 'dinheiro do mês' = salário."
+  },
+  "sp40-08": {
+   "word": "ขอบคุณสำหรับโอกาส",
+   "translit": "khopkhun samrap okat",
+   "example": "ขอบคุณสำหรับโอกาสในวันนี้นะ",
+   "examplePt": "Obrigado pela oportunidade de hoje.",
+   "pron": "kɔ̀ɔp-kun sǎm-ràp oo-gàat — 'sǎm' sobe; 'ràp' grave; 'gàat' grave longo",
+   "curiosity": "สำหรับ = para: ของขวัญสำหรับคุณ (presente para você); ขอบคุณสำหรับ... = obrigado por..."
+  },
+  "sp41-01": {
+   "word": "ในความเห็นของฉันคุ้มค่า",
+   "translit": "nai khwam hen khong chan khumkha",
+   "example": "ลองใช้แล้ว ในความเห็นฉันคุ้มค่า",
+   "examplePt": "Testei, e na minha opinião vale a pena.",
+   "pron": "nai kwaam-hěn kɔ̌ɔng chǎn kúm-kâa — 'kúm' agudo; 'kâa' desce",
+   "curiosity": "คุ้ม = compensar: คุ้มราคา (vale o preço), คุ้มเวลา; ค่า = valor."
+  },
+  "sp41-02": {
+   "word": "คุณคิดอย่างไรกับความคิดนี้?",
+   "translit": "khun khit yangrai kap khwamkhit ni?",
+   "example": "ฉันมีแผนใหม่ คุณคิดอย่างไรกับมัน?",
+   "examplePt": "Tenho um plano novo, o que você acha?",
+   "pron": "kun kít yàang-rai gàp kwaam-kít níi — 'yàang' grave; 'rai' reto",
+   "curiosity": "อย่างไร = 'como?' em tom formal; na fala diária vira ยังไง (yang-ngai)."
+  },
+  "sp41-03": {
+   "word": "ไม่ค่อยแน่ใจเท่าไร",
+   "translit": "mai khoi naechai thaorai",
+   "example": "เรื่องนี้ยังไม่ค่อยแน่ใจเท่าไร",
+   "examplePt": "Sobre isso ainda não tenho muita certeza.",
+   "pron": "mâi kɔ̂ɔi nɛ̂ɛ-jai tâo-rai — 'mâi', 'kɔ̂ɔi' e 'nɛ̂ɛ' descem",
+   "curiosity": "ไม่ค่อย = 'não muito': ไม่ค่อยดี, ไม่ค่อยมีเวลา; suaviza a negação."
+  },
+  "sp41-04": {
+   "word": "เห็นด้วยบางส่วนกับคุณ",
+   "translit": "hen duai bang suan kap khun",
+   "example": "ข้อแรกใช่ เห็นด้วยบางส่วนกับคุณ",
+   "examplePt": "O primeiro ponto sim, concordo em parte com você.",
+   "pron": "hěn-dûai baang sùan gàp kun — 'baang' reto; 'sùan' grave",
+   "curiosity": "ส่วน = parte: ส่วนใหญ่ (a maior parte), ส่วนตัว (pessoal), ส่วนผสม (ingredientes)."
+  },
+  "sp41-05": {
+   "word": "มันขึ้นอยู่กับสถานการณ์",
+   "translit": "man khuen yu kap sathanakan",
+   "example": "จะไปหรือไม่ไป ขึ้นอยู่กับสถานการณ์",
+   "examplePt": "Ir ou não ir depende da situação.",
+   "pron": "man kʉ̂n yùu gàp sà-tǎa-ná-gaan — 'sà' grave; 'tǎa' sobe; 'ná' agudo",
+   "curiosity": "ขึ้น significa 'subir', mas em ขึ้นอยู่กับ vira 'depender de': o sentido muda."
+  },
+  "sp41-06": {
+   "word": "นั่นเป็นเหตุผลที่ดี",
+   "translit": "nan pen hetphon thi di",
+   "example": "ฟังแล้วมีน้ำหนัก นั่นเป็นเหตุผลที่ดี",
+   "examplePt": "Faz sentido, esse é um bom argumento.",
+   "pron": "nân pen hèet-pǒn tîi dii — 'nân' desce; 'hèet' grave; 'pǒn' sobe",
+   "curiosity": "เหตุ (causa) + ผล (efeito) = เหตุผล: razão e argumento nascem de 'causa e efeito'."
+  },
+  "sp41-07": {
+   "word": "ลองมองอีกมุมหนึ่ง",
+   "translit": "long mong ik mum nueng",
+   "example": "ลองมองอีกมุมหนึ่ง อาจเห็นต่างออกไป",
+   "examplePt": "Olhe de outro ângulo, pode ver diferente.",
+   "pron": "loong moong ìik mum nʉ̀ng — 'ìik' e 'nʉ̀ng' graves; os outros retos",
+   "curiosity": "มุม = canto/ângulo; มุมมอง (ângulo + olhar) = ponto de vista."
+  },
+  "sp41-08": {
+   "word": "ไม่เห็นด้วยแต่เคารพ",
+   "translit": "mai hen duai tae khaorop",
+   "example": "คนละความคิดได้ ไม่เห็นด้วยแต่เคารพ",
+   "examplePt": "Pensamos diferente, discordo mas respeito.",
+   "pron": "mâi hěn-dûai dtɛ̀ɛ kao-róp — 'mâi' desce; 'hěn' sobe; 'dtɛ̀ɛ' grave; 'róp' agudo",
+   "curiosity": "เคารพ = respeitar; o respeito é central na cultura, como em เกรงใจ e การไหว้."
+  },
+  "sp42-01": {
+   "word": "ขอโทษที่มาสาย รถติดมาก",
+   "translit": "kho thot thi ma sai rot tit mak",
+   "example": "ขอโทษนะ ที่มาสายครึ่งชั่วโมง",
+   "examplePt": "Desculpe, cheguei meia hora atrasado.",
+   "pron": "kɔ̌ɔ-tôot tîi maa sǎai rót dtìt mâak — 'sǎai' sobe; 'dtìt' grave",
+   "curiosity": "รถติด = 'carro preso': engarrafamento; ติด = grudar/ficar preso."
+  },
+  "sp42-02": {
+   "word": "ไม่ได้ตั้งใจ ขอโทษนะ",
+   "translit": "mai dai tangchai kho thot na",
+   "example": "ทำแก้วแตก ไม่ได้ตั้งใจจริงนะ",
+   "examplePt": "Quebrei o copo, foi sem querer mesmo.",
+   "pron": "mâi-dâi dtâng-jai kɔ̌ɔ-tôot ná — 'mâi', 'dâi' e 'dtâng' descem",
+   "curiosity": "ไม่ได้ antes do verbo = 'não fiz': ไม่ได้ตั้งใจ nega a intenção, não o fato."
+  },
+  "sp42-03": {
+   "word": "ความผิดของฉันเอง",
+   "translit": "khwam phit khong chan eng",
+   "example": "ลืมส่งงาน เป็นความผิดของฉันเอง",
+   "examplePt": "Esqueci de entregar, a culpa é minha mesmo.",
+   "pron": "kwaam pìt kɔ̌ɔng chǎn eeng — 'pìt' grave; 'kɔ̌ɔng' e 'chǎn' sobem",
+   "curiosity": "เอง = próprio: ตัวเอง (a si mesmo), ทำเอง (fazer sozinho), ของตัวเอง (próprio)."
+  },
+  "sp42-04": {
+   "word": "เดี๋ยวจะชดเชยให้ทีหลัง",
+   "translit": "diao cha chotchoei hai thilang",
+   "example": "ผิดนัดไปแล้ว เดี๋ยวจะชดเชยให้ทีหลัง",
+   "examplePt": "Faltei ao combinado, compenso depois.",
+   "pron": "dǐao jà chót-chəəi hâi tii-lǎng — 'dǐao' sobe; 'chót' agudo; 'lǎng' sobe",
+   "curiosity": "เดี๋ยว = daqui a pouco; sozinho, no meio da conversa, quer dizer 'espere!'."
+  },
+  "sp42-05": {
+   "word": "ไม่ได้อยากทำให้คุณเสียใจ",
+   "translit": "mai dai yak tham hai khun siachai",
+   "example": "คำพูดแรงไปหน่อย ไม่ได้อยากทำให้คุณเสียใจ",
+   "examplePt": "Falei duro demais, não quis te magoar.",
+   "pron": "mâi-dâi yàak tam-hâi kun sǐa-jai — 'yàak' grave; 'hâi' desce; 'sǐa' sobe",
+   "curiosity": "ทำให้ = 'fazer com que': ทำให้ยิ้ม (fazer sorrir), ทำให้เสียใจ (entristecer)."
+  },
+  "sp42-06": {
+   "word": "ลืมเรื่องนี้กันไหม?",
+   "translit": "luem rueang ni kan mai?",
+   "example": "ทะเลาะกันมานานแล้ว ลืมเรื่องนี้กันไหม?",
+   "examplePt": "Brigamos há tempo, vamos esquecer isso?",
+   "pron": "lʉʉm rʉ̂ang níi gan mǎi — 'lʉʉm' longo reto; 'rʉ̂ang' desce; 'mǎi' sobe",
+   "curiosity": "...กันไหม = 'que tal (nós) ...?': ไปกันไหม, กินกันไหม, ลืมกันไหม."
+  },
+  "sp42-07": {
+   "word": "ดีใจที่คุณเข้าใจ",
+   "translit": "di chai thi khun khaochai",
+   "example": "ขอบคุณนะ ดีใจที่คุณเข้าใจ",
+   "examplePt": "Obrigado, fico feliz que você entendeu.",
+   "pron": "dii-jai tîi kun kâo-jai — 'tîi' desce; 'kâo' desce; 'jai' reto",
+   "curiosity": "เข้าใจ = 'entrar no coração' (เข้า + ใจ): é assim que se diz compreender."
+  },
+  "sp42-08": {
+   "word": "สัญญาว่าจะไม่เกิดซ้ำอีก",
+   "translit": "sanya wa cha mai koet sam ik",
+   "example": "เรื่องนี้จะไม่มีครั้งหน้า สัญญาว่าจะไม่เกิดซ้ำ",
+   "examplePt": "Não haverá próxima vez, prometo não repetir.",
+   "pron": "sǎn-yaa wâa jà mâi gə̀ət sám ìik — 'sám' agudo; 'gə̀ət' grave",
+   "curiosity": "สัญญา = promessa e contrato: ทำสัญญา; ว่า introduz o conteúdo: 'prometo que...'."
+  },
+  "sp43-01": {
+   "word": "ตลกมากหัวเราะเยอะเลย",
+   "translit": "talok mak huaro yoe loei",
+   "example": "มุกนี้ตลกมาก หัวเราะเยอะเลยวันนี้",
+   "examplePt": "Essa piada é ótima, ri demais hoje.",
+   "pron": "dtà-lòk mâak hǔa-rɔ́ yə́ ləəi — 'dtà' e 'lòk' graves; 'yə́' agudo",
+   "curiosity": "เยอะ = muito; เยอะแยะ = 'um montão': informal e muito comum."
+  },
+  "sp43-02": {
+   "word": "คุณคงล้อเล่นอยู่",
+   "translit": "khun khong lo len yu",
+   "example": "ราคาเท่านี้เหรอ คุณคงล้อเล่นอยู่",
+   "examplePt": "Esse preço? Você só pode estar brincando.",
+   "pron": "kun kong lɔ́ɔ-lên yùu — 'lɔ́ɔ' agudo; 'lên' desce; 'yùu' grave",
+   "curiosity": "ล้อเล่น = brincar com alguém; ล้อ é zombar de leve e เล่น é brincar."
+  },
+  "sp43-03": {
+   "word": "เล่าเรื่องตลกอีกเรื่องสิ",
+   "translit": "lao rueang talok ik rueang si",
+   "example": "สนุกมาก เล่าเรื่องตลกอีกเรื่องสิ",
+   "examplePt": "Muito bom, conta mais uma piada!",
+   "pron": "lâo rʉ̂ang dtà-lòk ìik rʉ̂ang sì — 'lâo' e 'rʉ̂ang' descem; 'sì' grave",
+   "curiosity": "สิ no fim incentiva: กินสิ (come!), ลองสิ (tenta!); soa mais animado que นะ."
+  },
+  "sp43-04": {
+   "word": "เกือบตกเก้าอี้เพราะขำมาก",
+   "translit": "kueap tok kaoi phro kham mak",
+   "example": "ฟังมุกแล้วเกือบตกเก้าอี้เลยทีเดียว",
+   "examplePt": "Ouvi a piada e quase caí da cadeira.",
+   "pron": "gʉ̀ap dtòk gâo-îi prɔ́ kǎm mâak — 'gʉ̀ap' e 'dtòk' graves; 'kǎm' sobe",
+   "curiosity": "เกือบ = quase: เกือบไป, เกือบตก; ขำ é achar graça, mais leve que หัวเราะ."
+  },
+  "sp43-05": {
+   "word": "แค่แกล้งเล่นนะ",
+   "translit": "khae klaeng len na",
+   "example": "อย่าโกรธนะ แค่แกล้งเล่นนิดเดียว",
+   "examplePt": "Não fique bravo, foi só uma brincadeirinha.",
+   "pron": "kɛ̂ɛ glɛ̂ɛng lên ná — 'kɛ̂ɛ', 'glɛ̂ɛng' e 'lên' descem; 'ná' agudo",
+   "curiosity": "เล่น = brincar, jogar e tocar: เล่นเกม, เล่นกีตาร์, เล่นน้ำ (brincar na água)."
+  },
+  "sp43-06": {
+   "word": "ทำไมหน้าง่วงนอนแบบนั้น?",
+   "translit": "thammai na nguang non baep nan?",
+   "example": "ตาปรือเชียว ทำไมหน้าง่วงนอนแบบนั้น?",
+   "examplePt": "Olho caído, por que essa cara de sono?",
+   "pron": "tam-mai nâa ngûang noon bɛ̀ɛp nán — 'nâa' e 'ngûang' descem; 'nán' agudo",
+   "curiosity": "หน้า (rosto) revela o estado: หน้าตาดี (boa aparência), หน้าบึ้ง (cara fechada)."
+  },
+  "sp43-07": {
+   "word": "อย่ามาโกหกเลย รู้ทันแล้ว",
+   "translit": "ya ma kohok loei ru than laeo",
+   "example": "ทำหน้าเนียนแค่ไหน ก็อย่ามาโกหกเลย",
+   "examplePt": "Por mais que disfarce, nem vem mentir.",
+   "pron": "yàa maa goo-hòk ləəi rúu-tan lɛ́ɛo — 'yàa' e 'hòk' graves; 'rúu' agudo",
+   "curiosity": "อย่า + verbo = 'não faça': อย่าลืม (não esqueça), อย่าโกหก (não minta)."
+  },
+  "sp43-08": {
+   "word": "การหัวเราะดีต่อใจ",
+   "translit": "kan huaro di to chai",
+   "example": "ดูหนังตลกกับเพื่อน หัวเราะแล้วสบายใจ",
+   "examplePt": "Vendo comédia com amigos, rio e relaxo.",
+   "pron": "gaan hǔa-rɔ́ dii dtɔ̀ɔ jai — 'hǔa' sobe; 'rɔ́' agudo; 'dtɔ̀ɔ' grave",
+   "curiosity": "การ + verbo = substantivo ('o ato de'): การหัวเราะ (o rir), การเดิน (o caminhar)."
+  },
+  "sp44-01": {
+   "word": "อยากไปนะ แต่มีนัดแล้ว",
+   "translit": "yak pai na tae mi nat laeo",
+   "example": "อยากไปมาก แต่เสาร์นี้มีนัดแล้ว",
+   "examplePt": "Queria muito ir, mas neste sábado já tenho compromisso.",
+   "pron": "yàak pai ná dtɛ̀ɛ mii nát lɛ́ɛo — 'yàak' grave; 'ná' agudo; 'dtɛ̀ɛ' grave",
+   "curiosity": "แต่ = mas: 'quero ir, mas...' é o jeito mais educado de recusar sem magoar."
+  },
+  "sp44-02": {
+   "word": "เสียดายที่ไปไม่ได้",
+   "translit": "siadai thi pai mai dai",
+   "example": "เสียดายที่ไปไม่ได้ ขอให้สนุกนะ",
+   "examplePt": "Que pena não poder ir, divirtam-se.",
+   "pron": "sǐa-daai tîi pai mâi-dâi — 'sǐa' sobe; 'daai' longo reto; 'mâi-dâi' desce",
+   "curiosity": "เสียดาย = 'que pena!': frase curta e suave para recusar convites."
+  },
+  "sp44-03": {
+   "word": "ไว้คราวหน้านะ ตกลงไหม?",
+   "translit": "wai khrao na na toklong mai?",
+   "example": "วันนี้ไม่ว่าง ไว้คราวหน้านะ ตกลงไหม?",
+   "examplePt": "Hoje não posso, fica para a próxima, combinado?",
+   "pron": "wái kraao nâa ná dtòk-long mǎi — 'wái' agudo; 'nâa' desce; 'dtòk' grave",
+   "curiosity": "ตกลง junta 'cair' e 'descer', mas significa 'combinado!' ou 'concordo'."
+  },
+  "sp44-04": {
+   "word": "ชวนใครมาก็ได้นะ",
+   "translit": "chuan khrai ma ko dai na",
+   "example": "ปาร์ตี้ใหญ่ ชวนใครมาก็ได้นะ",
+   "examplePt": "A festa é grande, traga quem quiser.",
+   "pron": "chuan krai maa gɔ̂ɔ dâi ná — 'gɔ̂ɔ' e 'dâi' descem; 'ná' agudo",
+   "curiosity": "ใคร...ก็ได้ = 'qualquer pessoa': ที่ไหนก็ได้ (qualquer lugar), อะไรก็ได้ (qualquer coisa)."
+  },
+  "sp44-05": {
+   "word": "งานเลี้ยงเริ่มตอนกี่โมง?",
+   "translit": "ngan liang roem ton ki mong?",
+   "example": "ฉันอยากไปทัน งานเลี้ยงเริ่มตอนกี่โมง?",
+   "examplePt": "Quero chegar a tempo, a que horas começa a festa?",
+   "pron": "ngaan líang rə̂əm dtɔɔn gìi moong — 'líang' agudo; 'rə̂əm' desce; 'gìi' grave",
+   "curiosity": "เลี้ยง = oferecer/sustentar: เลี้ยงข้าว (pagar refeição), เลี้ยงหมา (criar cachorro)."
+  },
+  "sp44-06": {
+   "word": "ขอเอาของหวานมาด้วยได้ไหม?",
+   "translit": "kho ao khongwan ma duai dai mai?",
+   "example": "ฉันอบคุกกี้ ขอเอาของหวานมาด้วยนะ",
+   "examplePt": "Assei biscoitos, posso trazer uma sobremesa?",
+   "pron": "kɔ̌ɔ ao kɔ̌ɔng-wǎan maa dûai dâi mǎi — 'kɔ̌ɔng' e 'wǎan' sobem; 'dûai' desce",
+   "curiosity": "ของหวาน = 'coisa doce' = sobremesa; ขนม é o termo geral para doces e petiscos."
+  },
+  "sp44-07": {
+   "word": "ขอบคุณที่นึกถึงกัน",
+   "translit": "khopkhun thi nuek thueng kan",
+   "example": "ขอบคุณที่นึกถึงกัน ดีใจมากเลย",
+   "examplePt": "Obrigado por lembrar de mim, fiquei contente.",
+   "pron": "kɔ̀ɔp-kun tîi nʉ́k-tʉ̌ng gan — 'nʉ́k' agudo; 'tʉ̌ng' sobe",
+   "curiosity": "นึก = lembrar/imaginar: นึกออก (lembrar), นึกไม่ถึง (nem imaginar)."
+  },
+  "sp44-08": {
+   "word": "จะยืนยันภายในพรุ่งนี้",
+   "translit": "cha yuenyan phainai phrungni",
+   "example": "ขอเช็กตารางก่อน แล้วจะยืนยันพรุ่งนี้",
+   "examplePt": "Vou conferir a agenda e confirmo amanhã.",
+   "pron": "jà yʉʉn-yan paai-nai prûng-níi — 'yʉʉn' e 'yan' retos; 'prûng' desce",
+   "curiosity": "ยืนยัน reúne 'ficar de pé' (ยืน) e 'escorar' (ยัน): firmeza de quem confirma."
+  },
+  "sp45-01": {
+   "word": "วันนี้ฟ้าครึ้มมาก",
+   "translit": "wan ni fa khrueam mak",
+   "example": "ฟ้าครึ้มมาก เหมือนฝนจะมา",
+   "examplePt": "O céu está carregado, parece que vai chover.",
+   "pron": "wan níi fáa krʉ́ʉm mâak — 'fáa' e 'krʉ́ʉm' agudos; 'mâak' desce",
+   "curiosity": "ฟ้า = céu: ฟ้าใส (céu limpo), ฟ้าร้อง (trovão), ฟ้าผ่า (raio)."
+  },
+  "sp45-02": {
+   "word": "ดูเหมือนบ่ายนี้ฝนจะตก",
+   "translit": "du muean bai ni fon cha tok",
+   "example": "ลมเย็นขึ้น ดูเหมือนบ่ายนี้ฝนจะตก",
+   "examplePt": "O vento esfriou, parece que vai chover à tarde.",
+   "pron": "duu mʉ̌an bàai níi fǒn jà dtòk — 'bàai' grave; 'fǒn' sobe; 'dtòk' grave",
+   "curiosity": "'Chuva' cai: ฝนตก = 'chuva cai'; ฝนตกหนัก = chuva forte."
+  },
+  "sp45-03": {
+   "word": "ร้อนทนไม่ไหวเลยวันนี้",
+   "translit": "ron thon mai wai loei wan ni",
+   "example": "ไม่มีแอร์ ร้อนทนไม่ไหวเลย",
+   "examplePt": "Sem ar-condicionado, não aguento o calor.",
+   "pron": "rɔ́ɔn ton mâi-wǎi ləəi wan níi — 'rɔ́ɔn' agudo; 'mâi' desce; 'wǎi' sobe",
+   "curiosity": "ไม่ไหว = 'não aguento': ทนไม่ไหว, กินไม่ไหว (não consigo comer mais)."
+  },
+  "sp45-04": {
+   "word": "พยากรณ์บอกว่าจะหนาวขึ้น",
+   "translit": "phayakon bok wa cha nao khuen",
+   "example": "ข่าวพยากรณ์บอกว่าคืนนี้จะหนาวขึ้น",
+   "examplePt": "A previsão diz que esta noite esfria.",
+   "pron": "pá-yaa-gɔɔn bɔ̀ɔk wâa jà nǎao kʉ̂n — 'pá' agudo; 'bɔ̀ɔk' grave; 'nǎao' sobe",
+   "curiosity": "ว่า introduz o conteúdo: บอกว่า (disse que), นึกว่า (achei que), ได้ยินว่า (ouvi que)."
+  },
+  "sp45-05": {
+   "word": "อย่าลืมเอาร่มไปด้วยนะ",
+   "translit": "ya luem ao rom pai duai na",
+   "example": "ฟ้ามืดแล้ว อย่าลืมเอาร่มไปด้วย",
+   "examplePt": "O céu escureceu, não esqueça o guarda-chuva.",
+   "pron": "yàa lʉʉm ao rôm pai dûai ná — 'yàa' grave; 'rôm' desce; 'dûai' desce",
+   "curiosity": "ร่ม = guarda-chuva e 'sombra': ร่มไม้ (sombra de árvore), ร่มเงา (sombra)."
+  },
+  "sp45-06": {
+   "word": "ลมแรงเกินไปแล้ว",
+   "translit": "lom raeng koen pai laeo",
+   "example": "หมวกปลิวหมด ลมแรงเกินไปแล้ว",
+   "examplePt": "O chapéu voou, o vento está forte demais.",
+   "pron": "lom rɛɛng gəən pai lɛ́ɛo — 'lom' e 'rɛɛng' retos; 'lɛ́ɛo' agudo",
+   "curiosity": "ลม = vento e ar: ลมหายใจ (fôlego), ลมแรง (vento forte), ลมพัด (venta)."
+  },
+  "sp45-07": {
+   "word": "ชอบวันที่แดดจ้าแบบนี้",
+   "translit": "chop wan thi daet cha baep ni",
+   "example": "ชอบวันที่แดดจ้าแบบนี้ ไปทะเลได้เลย",
+   "examplePt": "Adoro dias de sol forte, dá para ir à praia.",
+   "pron": "chɔ̂ɔp wan tîi dɛ̀ɛt jâa bɛ̀ɛp níi — 'dɛ̀ɛt' grave; 'jâa' desce; 'níi' agudo",
+   "curiosity": "แดด = luz do sol que se sente na pele; อาทิตย์ é o Sol como astro."
+  },
+  "sp45-08": {
+   "word": "ฤดูหนาวนี้ทางเหนือหิมะตกเยอะมาก",
+   "translit": "ruedu nao ni thang nuea hima tok yoe mak",
+   "example": "ฤดูหนาวนี้ทางเหนือหิมะตกเยอะมาก",
+   "examplePt": "Neste inverno nevou muito lá no norte.",
+   "pron": "rʉ́-duu nǎao níi taang nʉ̌a hì-má dtòk yə́ mâak",
+   "curiosity": "A Tailândia costuma ter três estações: quente, chuvosa e fresca; neve é rara."
+  },
+  "sp46-01": {
+   "word": "แบตเตอรี่ใกล้หมดแล้ว",
+   "translit": "bettoei klai mot laeo",
+   "example": "ชาร์จแล้วนะ แบตเตอรี่ใกล้หมดแล้ว",
+   "examplePt": "Preciso carregar, a bateria está no fim.",
+   "pron": "bɛ̀ɛt-dtə̂ə-rîi glâai mòt lɛ́ɛo — 'bɛ̀ɛt' grave; 'glâai' desce; 'mòt' grave",
+   "curiosity": "หมด = acabar: หมดแรง (sem forças), หมดเวลา (tempo esgotado), หมดอายุ (vencido)."
+  },
+  "sp46-02": {
+   "word": "แอปเปิดไม่ติดเลย",
+   "translit": "aep poet mai tit loei",
+   "example": "กดหลายรอบแล้ว แอปเปิดไม่ติดเลย",
+   "examplePt": "Cliquei várias vezes, o aplicativo não abre.",
+   "pron": "ɛ́ɛp bpə̀ət mâi dtìt ləəi — 'ɛ́ɛp' agudo; 'bpə̀ət' grave; 'mâi' desce",
+   "curiosity": "เปิดไม่ติด = 'não pega': ติด também forma ติดไฟ (acender) e ติดต่อ (contatar)."
+  },
+  "sp46-03": {
+   "word": "ส่งลิงก์มาให้หน่อยได้ไหม?",
+   "translit": "song ling ma hai noi dai mai?",
+   "example": "ขอลองดูเอง ส่งลิงก์มาให้หน่อยได้ไหม?",
+   "examplePt": "Quero ver eu mesmo, manda o link?",
+   "pron": "sòng ling maa hâi nɔ̀i dâi mǎi — 'sòng' grave; 'ling' reto",
+   "curiosity": "Em ลิงก์ o ก์ final é só ortografia (marca muda): lê-se 'ling'."
+  },
+  "sp46-04": {
+   "word": "ลืมรหัสผ่านของบัญชีแล้ว",
+   "translit": "luem rahatphan khong banchi laeo",
+   "example": "เข้าระบบไม่ได้ ลืมรหัสผ่านของบัญชีแล้ว",
+   "examplePt": "Não consigo entrar, esqueci a senha da conta.",
+   "pron": "lʉʉm rá-hàt pàan kɔ̌ɔng ban-chii lɛ́ɛo — 'rá' agudo; 'hàt' e 'pàan' graves",
+   "curiosity": "รหัส = código: รหัสผ่าน (senha), รหัสไปรษณีย์ (CEP), รหัสลับ (código secreto)."
+  },
+  "sp46-05": {
+   "word": "เน็ตช้าเหลือเกิน",
+   "translit": "net cha luea koen",
+   "example": "โหลดหน้าเดียวหลายนาที เน็ตช้าเหลือเกิน",
+   "examplePt": "Uma página leva minutos, a net está lentíssima.",
+   "pron": "nét cháa lʉ̌a-gəən — 'nét' e 'cháa' agudos; 'lʉ̌a' sobe",
+   "curiosity": "เหลือเกิน = 'demais, extremamente': เหลือ (sobrar) + เกิน (exceder)."
+  },
+  "sp46-06": {
+   "word": "เดี๋ยวจะดาวน์โหลดไฟล์นี้",
+   "translit": "diao cha daunlot fai ni",
+   "example": "ไฟล์ใหญ่หน่อย เดี๋ยวจะดาวน์โหลดตอนกลางคืน",
+   "examplePt": "O arquivo é grande, baixo à noite.",
+   "pron": "dǐao jà daao-lòot fai níi — 'dǐao' sobe; 'daao' reto; 'lòot' grave",
+   "curiosity": "ดาวน์โหลด = baixar; o oposto é อัปโหลด (upload), com 'อัป' de 'up'."
+  },
+  "sp46-07": {
+   "word": "ปิดแล้วเปิดใหม่อีกที",
+   "translit": "pit laeo poet mai ik thi",
+   "example": "ลองปิดแล้วเปิดใหม่อีกทีดูนะ",
+   "examplePt": "Tente desligar e ligar de novo.",
+   "pron": "bpìt lɛ́ɛo bpə̀ət mài ìik tii — 'bpìt', 'bpə̀ət', 'mài' e 'ìik' graves",
+   "curiosity": "อีกที = 'mais uma vez' coloquial: ลองอีกที, พูดอีกที, ไปอีกที."
+  },
+  "sp46-08": {
+   "word": "ถ่ายรูปทิวทัศน์ไว้",
+   "translit": "thai rup thiwathat wai",
+   "example": "ขึ้นเขาไปถึงยอด ถ่ายรูปทิวทัศน์ไว้ด้วย",
+   "examplePt": "No alto do morro, tire fotos da paisagem.",
+   "pron": "tàai rûup tiw-tát wái — 'tàai' grave; 'rûup' desce; 'tát' agudo",
+   "curiosity": "ถ่าย = copiar/transferir: ถ่ายรูป (fotografar), ถ่ายเอกสาร (tirar cópia)."
+  },
+  "sp47-01": {
+   "word": "ตอนเด็กฉันอยู่ชนบท",
+   "translit": "ton dek chan yu chonnabot",
+   "example": "ตอนเด็กอยู่ชนบท เห็นดาวทุกคืน",
+   "examplePt": "Quando criança no campo, via estrelas toda noite.",
+   "pron": "dtɔɔn dèk chǎn yùu chon-ná-bòt — 'dèk' grave; 'ná' agudo; 'bòt' grave",
+   "curiosity": "ตอน = momento/trecho: ตอนเช้า (de manhã), ตอนเด็ก (na infância), ตอนนี้ (agora)."
+  },
+  "sp47-02": {
+   "word": "จำวันแรกที่ไปโรงเรียนได้ดี",
+   "translit": "cham wan raek thi pai rongrian dai di",
+   "example": "ใส่ชุดนักเรียนใหม่ จำวันแรกได้ดีเลย",
+   "examplePt": "Uniforme novo, lembro bem do primeiro dia.",
+   "pron": "jam wan rɛ̂ɛk tîi pai roong-rian dâi dii — 'rɛ̂ɛk' desce; 'dâi' desce",
+   "curiosity": "จำ = lembrar/memorizar: จำได้ (lembro), จำไม่ได้ (não lembro), ท่องจำ (decorar)."
+  },
+  "sp47-03": {
+   "word": "เมื่อวานมีเรื่องตลกเกิดขึ้น",
+   "translit": "muea wan mi rueang talok koet khuen",
+   "example": "เมื่อวานมีเรื่องตลกเกิดขึ้นที่ตลาด",
+   "examplePt": "Ontem aconteceu algo engraçado na feira.",
+   "pron": "mʉ̂a-waan mii rʉ̂ang dtà-lòk gə̀ət kʉ̂n — 'gə̀ət' grave; 'kʉ̂n' desce",
+   "curiosity": "เกิด = nascer e ocorrer: วันเกิด (aniversário), เกิดขึ้น (acontecer, surgir)."
+  },
+  "sp47-04": {
+   "word": "เรื่องนี้ทำให้นึกถึงทริปเก่า",
+   "translit": "rueang ni tham hai nuek thueng thrip kao",
+   "example": "ได้กลิ่นทะเล ทำให้นึกถึงทริปเก่า",
+   "examplePt": "O cheiro do mar lembra uma viagem antiga.",
+   "pron": "rʉ̂ang níi tam-hâi nʉ́k-tʉ̌ng trip gào — 'nʉ́k' agudo; 'tʉ̌ng' sobe; 'gào' grave",
+   "curiosity": "เก่า (coisas antigas) e แก่ (pessoas idosas) só mudam na vogal; ambos têm tom grave."
+  },
+  "sp47-05": {
+   "word": "คุณไม่รู้หรอกว่าเกิดอะไรขึ้น",
+   "translit": "khun mai ru rok wa koet arai khuen",
+   "example": "คุณไม่รู้หรอก ว่าเมื่อคืนเกิดอะไรขึ้น",
+   "examplePt": "Você nem imagina o que rolou ontem à noite.",
+   "pron": "kun mâi-rúu rɔ̀ɔk wâa gə̀ət à-rai kʉ̂n — 'rúu' agudo; 'rɔ̀ɔk' grave",
+   "curiosity": "หรอก no fim da negativa = 'na verdade não': ไม่รู้หรอก, ไม่เป็นไรหรอก."
+  },
+  "sp47-06": {
+   "word": "สรุปคือเป็นวันที่ไม่มีวันลืม",
+   "translit": "sarup khue pen wan thi mai mi wan luem",
+   "example": "ทั้งสนุกทั้งเหนื่อย สรุปคือไม่มีวันลืม",
+   "examplePt": "Divertido e cansativo, jamais vou esquecer.",
+   "pron": "sà-rùp kʉʉ pen wan tîi mâi mii wan lʉʉm — 'sà-rùp' graves; 'tîi' desce",
+   "curiosity": "ไม่มีวัน + verbo = 'nunca': ไม่มีวันลืม (jamais esquecerei), ไม่มีวันยอมแพ้."
+  },
+  "sp47-07": {
+   "word": "ฉันโตมาใกล้ทะเล",
+   "translit": "chan to ma klai thale",
+   "example": "ฉันโตมาใกล้ทะเล ว่ายน้ำเก่งตั้งแต่เด็ก",
+   "examplePt": "Cresci perto do mar e nadava bem desde pequeno.",
+   "pron": "chǎn dtoo maa glâai tá-lee — 'glâai' desce; 'tá' agudo; 'lee' reto longo",
+   "curiosity": "โต = crescer e ser grande: เด็กโต (criança maior), โตแล้ว (já é grande)."
+  },
+  "sp47-08": {
+   "word": "แล้วหลังจากนั้นเกิดอะไรขึ้น?",
+   "translit": "laeo lang chak nan koet arai khuen?",
+   "example": "ตื่นเต้นมาก แล้วหลังจากนั้นเกิดอะไรขึ้น?",
+   "examplePt": "Que emoção, e o que aconteceu depois?",
+   "pron": "lɛ́ɛo lǎng jàak nán gə̀ət à-rai kʉ̂n — 'lǎng' sobe; 'jàak' grave; 'nán' agudo",
+   "curiosity": "หลัง = depois e atrás: หลังจากนั้น (depois disso), ข้างหลัง (atrás), หลังบ้าน (quintal)."
+  },
+  "sp48-01": {
+   "word": "ความฝันคือได้เดินทางรอบโลก",
+   "translit": "khwamfan khue dai doenthang rop lok",
+   "example": "ความฝันคือได้เดินทางรอบโลกสักครั้ง",
+   "examplePt": "Meu sonho é dar a volta ao mundo uma vez.",
+   "pron": "kwaam-fǎn kʉʉ dâi dəən-taang rɔ̂ɔp lôok — 'fǎn' sobe; 'rɔ̂ɔp' e 'lôok' descem",
+   "curiosity": "ฝัน = sonhar e sonho; ความฝัน = aspiração, e ฝันหวาน = bons sonhos."
+  },
+  "sp48-02": {
+   "word": "อยากพัฒนาตัวเองทุกวัน",
+   "translit": "yak phatthana tua eng thuk wan",
+   "example": "อยากพัฒนาตัวเองทุกวัน แม้แค่นิดเดียว",
+   "examplePt": "Quero me aperfeiçoar todo dia, mesmo pouquinho.",
+   "pron": "yàak pát-tá-naa dtua-eeng túk wan — 'pát' e 'tá' agudos; 'naa' longo",
+   "curiosity": "ตัวเอง = 'si mesmo': ตัว (corpo, eu) + เอง (próprio): o reflexivo tailandês."
+  },
+  "sp48-03": {
+   "word": "กำลังเก็บเงินไปเที่ยว",
+   "translit": "kamlang kep ngoen pai thiao",
+   "example": "ตอนนี้กำลังเก็บเงินไปเที่ยวทะเล",
+   "examplePt": "Agora estou juntando dinheiro para ir à praia.",
+   "pron": "gam-lang gèp ngən pai tîao — 'gèp' grave; 'tîao' desce",
+   "curiosity": "กำลัง + verbo = 'estar fazendo': กำลังกิน, กำลังเก็บ; é o gerúndio tailandês."
+  },
+  "sp48-04": {
+   "word": "สักวันจะเปิดร้านของตัวเอง",
+   "translit": "sak wan cha poet ran khong tua eng",
+   "example": "ชอบทำขนม สักวันจะเปิดร้านของตัวเอง",
+   "examplePt": "Adoro fazer doces, um dia abro minha loja.",
+   "pron": "sàk wan jà bpə̀ət ráan kɔ̌ɔng dtua-eeng — 'sàk' grave; 'ráan' agudo",
+   "curiosity": "สัก + classificador = 'algum, uns': สักคน (alguém), สักวัน (um dia), สักที (uma vez)."
+  },
+  "sp48-05": {
+   "word": "ถ้าพยายามก็เป็นไปได้ทุกอย่าง",
+   "translit": "tha phayayam ko pen pai dai thuk yang",
+   "example": "อย่าท้อ ถ้าพยายามก็เป็นไปได้ทุกอย่าง",
+   "examplePt": "Não desanime, com esforço tudo é possível.",
+   "pron": "tâa pá-yaa-yaam gɔ̂ɔ pen-bpai-dâi túk yàang — 'tâa' e 'dâi' descem",
+   "curiosity": "เป็นไปได้ = possível; เป็นไปไม่ได้ = impossível — o mesmo bloco com ไม่."
+  },
+  "sp48-06": {
+   "word": "ยังมีอีกมากที่ต้องเรียนรู้",
+   "translit": "yang mi ik mak thi tong rianru",
+   "example": "แม้เก่งแล้ว ยังมีอีกมากที่ต้องเรียนรู้",
+   "examplePt": "Mesmo bom, ainda há muito a aprender.",
+   "pron": "yang mii ìik mâak tîi tɔ̂ng rian-rúu — 'mâak' e 'tîi' descem; 'rúu' agudo",
+   "curiosity": "เรียนรู้ = 'estudar + saber': เรียน (estudar) e รู้ (saber) formam 'aprender'."
+  },
+  "sp48-07": {
+   "word": "ไม่ยอมแพ้ง่าย",
+   "translit": "mai yom phae ngai",
+   "example": "ล้มหลายครั้ง แต่ไม่ยอมแพ้ง่าย",
+   "examplePt": "Caí várias vezes, mas não desisto fácil.",
+   "pron": "mâi yɔɔm pɛ́ɛ ngâai — 'mâi' desce; 'pɛ́ɛ' agudo; 'ngâai' desce",
+   "curiosity": "ยอม = ceder/aceitar: ยอมรับ (admitir), ยอมแพ้ (render-se), ไม่ยอม (recusar-se)."
+  },
+  "sp48-08": {
+   "word": "จะเริ่มงานอดิเรกใหม่",
+   "translit": "cha roem ngan adirek mai",
+   "example": "ชวนเพื่อนมาด้วย จะเริ่มงานอดิเรกใหม่",
+   "examplePt": "Chame um amigo, vou começar um hobby novo.",
+   "pron": "jà rə̂əm ngaan à-dì-rèek mài — 'à', 'dì', 'rèek' graves; 'mài' grave",
+   "curiosity": "งานอดิเรก = 'trabalho extra': o que se faz por prazer fora do trabalho."
+  },
+  "sp49-01": {
+   "word": "ช่วยกันแยกขยะรีไซเคิลเถอะ",
+   "translit": "chuai kan yaek khaya risaikhoen thoe",
+   "example": "ขวดกับกระดาษ ช่วยกันแยกขยะนะ",
+   "examplePt": "Garrafas e papel, vamos separar o lixo.",
+   "pron": "chûai gan yɛ̂ɛk kà-yà rii-sai-kʉ̂n tə̀ — 'kà-yà' graves; 'kʉ̂n' desce",
+   "curiosity": "ขยะ = lixo; ถังขยะ = lixeira, de ถัง (balde)."
+  },
+  "sp49-02": {
+   "word": "ปิดไฟก่อนออกจากห้อง",
+   "translit": "pit fai kon ok chak hong",
+   "example": "ไม่มีใครอยู่ ปิดไฟก่อนออกจากห้อง",
+   "examplePt": "Ninguém está aqui, apague a luz ao sair.",
+   "pron": "bpìt fai gɔ̀ɔn ɔ̀ɔk jàak hɔ̂ng — 'bpìt', 'gɔ̀ɔn', 'ɔ̀ɔk', 'jàak' graves",
+   "curiosity": "ปิด = fechar e desligar: ปิดไฟ, ปิดประตู; เปิด = abrir e ligar."
+  },
+  "sp49-03": {
+   "word": "เราต้องประหยัดน้ำ",
+   "translit": "rao tong prayat nam",
+   "example": "หน้าแล้งน้ำน้อย เราต้องประหยัดน้ำ",
+   "examplePt": "Na seca há pouca água, é preciso economizar.",
+   "pron": "rao tɔ̂ng bprà-yàt náam — 'tɔ̂ng' desce; 'bprà-yàt' graves; 'náam' agudo",
+   "curiosity": "หน้า também é 'época': หน้าฝน (estação chuvosa), หน้าแล้ง (época seca)."
+  },
+  "sp49-04": {
+   "word": "ชอบปั่นจักรยานไปทำงานมากกว่า",
+   "translit": "chop pan chakkrayan pai tham ngan mak kwa",
+   "example": "ช่วยลดรถติด ชอบปั่นจักรยานไปทำงานมากกว่า",
+   "examplePt": "Ajuda com o trânsito, prefiro pedalar ao trabalho.",
+   "pron": "chɔ̂ɔp bpàn jàk-grà-yaan pai tam ngaan mâak-gwàa — 'bpàn' grave",
+   "curiosity": "ปั่น = girar/pedalar: ปั่นจักรยาน (pedalar), ปั่นป่วน (agitar-se, bagunçar)."
+  },
+  "sp49-05": {
+   "word": "การปลูกต้นไม้ช่วยโลก",
+   "translit": "kan pluk ton mai chuai lok",
+   "example": "ปลูกต้นไม้ในสวนสาธารณะ ช่วยให้อากาศดี",
+   "examplePt": "Plantar árvores no parque melhora o ar.",
+   "pron": "gaan bplùuk dtôn-máai chûai lôok — 'bplùuk' grave; 'dtôn' desce; 'máai' agudo",
+   "curiosity": "ต้น é classificador de árvores e também 'começo': ต้นไม้สามต้น = três árvores."
+  },
+  "sp49-06": {
+   "word": "หลีกเลี่ยงถุงพลาสติก",
+   "translit": "lik liang thung phlastik",
+   "example": "ไปตลาดต้องหลีกเลี่ยงถุงพลาสติก",
+   "examplePt": "Ao ir à feira, evite sacolas plásticas.",
+   "pron": "lìik-lîang tǔng plaa-sà-dtìk — 'lìik' grave; 'lîang' desce; 'tǔng' sobe",
+   "curiosity": "ถุง = saco: ถุงเท้า (meia), ถุงมือ (luva) — 'saco do pé' e 'saco da mão'."
+  },
+  "sp49-07": {
+   "word": "จัตุรัสสะอาดและสวย",
+   "translit": "chattrat sa-at lae suai",
+   "example": "หลังฝนตก จัตุรัสสะอาดและสวยมาก",
+   "examplePt": "Depois da chuva, a praça fica limpa e bela.",
+   "pron": "jà-dtù-ràt sà-àat lɛ́ sǔai — 'jà', 'dtù' e 'ràt' graves; 'sǔai' sobe",
+   "curiosity": "จัตุรัส = praça e quadrado; จัตุ- vem do pali/sânscrito para 'quatro'."
+  },
+  "sp49-08": {
+   "word": "มาดูแลเมืองไปด้วยกัน",
+   "translit": "ma dulae mueang pai duai kan",
+   "example": "ทุกคนมีส่วน มาดูแลเมืองไปด้วยกัน",
+   "examplePt": "Todos têm sua parte, vamos cuidar da cidade.",
+   "pron": "maa duu-lɛɛ mʉang pai dûai-gan — 'duu' e 'lɛɛ' retos; 'dûai' desce",
+   "curiosity": "ดูแล = cuidar: ดู (olhar) + แล (olhar) reforça o sentido, como um par de sinônimos."
+  },
+  "sp50-01": {
+   "word": "ขอขอบคุณทุกคนที่มา",
+   "translit": "kho khopkhun thuk khon thi ma",
+   "example": "ขอขอบคุณทุกคนที่มางานวันนี้",
+   "examplePt": "Agradeço a todos que vieram ao evento de hoje.",
+   "pron": "kɔ̌ɔ kɔ̀ɔp-kun túk kon tîi maa — 'kɔ̌ɔ' sobe; 'kɔ̀ɔp' grave; 'túk' agudo",
+   "curiosity": "ขอขอบคุณ, com ขอ dobrado, é a forma formal de agradecer em discursos."
+  },
+  "sp50-02": {
+   "word": "เป็นการเดินทางที่น่าทึ่ง",
+   "translit": "pen kan doenthang thi na thueng",
+   "example": "สามปีที่ผ่านมา เป็นการเดินทางที่น่าทึ่ง",
+   "examplePt": "Estes três anos foram uma jornada admirável.",
+   "pron": "pen gaan dəən-taang tîi nâa-tʉ̂ng — 'tîi' desce; 'nâa' desce; 'tʉ̂ng' desce",
+   "curiosity": "เดินทาง também é figurado: การเดินทางของชีวิต = a jornada da vida."
+  },
+  "sp50-03": {
+   "word": "ได้เรียนรู้อะไรมากมายจากทุกคน",
+   "translit": "dai rianru arai makmai chak thuk khon",
+   "example": "เพื่อนร่วมทีมสอนให้ได้เรียนรู้มากมาย",
+   "examplePt": "Os colegas me ensinaram muitas coisas.",
+   "pron": "dâi rian-rúu à-rai mâak-maai jàak túk kon — 'mâak' desce; 'jàak' grave",
+   "curiosity": "มากมาย é mais enfático que มาก: 'um monte de', 'em abundância'."
+  },
+  "sp50-04": {
+   "word": "ถ้าไม่มีทุกคนก็คงทำไม่ได้",
+   "translit": "tha mai mi thuk khon ko khong tham mai dai",
+   "example": "ทุกคนช่วยกัน ถ้าไม่มีทุกคนก็คงทำไม่ได้",
+   "examplePt": "Todos ajudaram; sem vocês não seria possível.",
+   "pron": "tâa mâi mii túk kon gɔ̂ɔ kong tam mâi-dâi — 'tâa', 'mâi', 'gɔ̂ɔ' descem",
+   "curiosity": "ถ้า...ก็คง... = 'se..., então certamente...': a estrutura do hipotético."
+  },
+  "sp50-05": {
+   "word": "วันนี้เราปิดฉากช่วงสำคัญ",
+   "translit": "wan ni rao pit chak chuang samkhan",
+   "example": "ปีนี้เราปิดฉากช่วงสำคัญไปด้วยกัน",
+   "examplePt": "Este ano encerramos juntos uma fase importante.",
+   "pron": "wan níi rao bpìt chàak chûang sǎm-kan — 'chàak' grave; 'chûang' desce",
+   "curiosity": "ฉาก = cena de teatro ou filme; ปิดฉาก = 'fechar a cortina', encerrar."
+  },
+  "sp50-06": {
+   "word": "หัวใจจะเก็บความทรงจำนี้ไว้ตลอดไป",
+   "translit": "huachai cha kep khwam songcham ni wai talot pai",
+   "example": "หัวใจจะเก็บความทรงจำนี้ไว้ตลอดไป",
+   "examplePt": "O coração guardará esta memória para sempre.",
+   "pron": "hǔa-jai jà gèp kwaam-song-jam níi wái dtà-lɔ̀ɔt pai — 'hǔa' sobe; 'gèp' grave",
+   "curiosity": "ตลอด = durante todo: ตลอดวัน (o dia todo), ตลอดปี (o ano inteiro), ตลอดไป (para sempre)."
+  },
+  "sp50-07": {
+   "word": "ขอให้ทุกคนประสบความสำเร็จ",
+   "translit": "kho hai thuk khon prasop khwam samret",
+   "example": "ปีหน้าขอให้ทุกคนประสบความสำเร็จ",
+   "examplePt": "Que no ano que vem todos tenham sucesso.",
+   "pron": "kɔ̌ɔ hâi túk kon bprà-sòp kwaam sǎm-rèt — 'sòp' e 'rèt' graves",
+   "curiosity": "ประสบความสำเร็จ é a fórmula formal de 'ter sucesso'; na fala diária, ทำได้ (conseguir)."
+  },
+  "sp50-08": {
+   "word": "ไว้พบกันใหม่ด้วยใจจริง",
+   "translit": "wai phop kan mai duai chai ching",
+   "example": "ขอบคุณอีกครั้ง ไว้พบกันใหม่ด้วยใจจริง",
+   "examplePt": "Obrigado mais uma vez, até breve de coração.",
+   "pron": "wái póp gan mài dûai jai jing — 'wái' e 'póp' agudos; 'mài' grave",
+   "curiosity": "ด้วยใจจริง = 'de coração, sinceramente'; จริง (verdade) reforça: ขอบคุณจริง ๆ."
+  }
+ }
+}

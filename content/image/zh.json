@@ -1,0 +1,2007 @@
+{
+ "game": "image",
+ "language": "zh",
+ "version": 2,
+ "entries": {
+  "im01-01": {
+   "word": "狮子",
+   "translit": "shīzi"
+  },
+  "im01-02": {
+   "word": "老虎",
+   "translit": "lǎohǔ"
+  },
+  "im01-03": {
+   "word": "大象",
+   "translit": "dàxiàng"
+  },
+  "im01-04": {
+   "word": "长颈鹿",
+   "translit": "chángjǐnglù"
+  },
+  "im01-05": {
+   "word": "猴子",
+   "translit": "hóuzi"
+  },
+  "im01-06": {
+   "word": "斑马",
+   "translit": "bānmǎ"
+  },
+  "im01-07": {
+   "word": "河马",
+   "translit": "hémǎ"
+  },
+  "im01-08": {
+   "word": "犀牛",
+   "translit": "xīniú"
+  },
+  "im01-09": {
+   "word": "鳄鱼",
+   "translit": "èyú"
+  },
+  "im01-10": {
+   "word": "熊",
+   "translit": "xióng"
+  },
+  "im02-01": {
+   "word": "奶牛",
+   "translit": "nǎiniú"
+  },
+  "im02-02": {
+   "word": "猪",
+   "translit": "zhū"
+  },
+  "im02-03": {
+   "word": "绵羊",
+   "translit": "miányáng"
+  },
+  "im02-04": {
+   "word": "山羊",
+   "translit": "shānyáng"
+  },
+  "im02-05": {
+   "word": "母鸡",
+   "translit": "mǔjī"
+  },
+  "im02-06": {
+   "word": "公鸡",
+   "translit": "gōngjī"
+  },
+  "im02-07": {
+   "word": "马",
+   "translit": "mǎ"
+  },
+  "im02-08": {
+   "word": "公牛",
+   "translit": "gōngniú"
+  },
+  "im02-09": {
+   "word": "火鸡",
+   "translit": "huǒjī"
+  },
+  "im02-10": {
+   "word": "鸭子",
+   "translit": "yāzi"
+  },
+  "im03-01": {
+   "word": "狗",
+   "translit": "gǒu"
+  },
+  "im03-02": {
+   "word": "猫",
+   "translit": "māo"
+  },
+  "im03-03": {
+   "word": "仓鼠",
+   "translit": "cāngshǔ"
+  },
+  "im03-04": {
+   "word": "兔子",
+   "translit": "tùzi"
+  },
+  "im03-05": {
+   "word": "乌龟",
+   "translit": "wūguī"
+  },
+  "im03-06": {
+   "word": "鱼",
+   "translit": "yú"
+  },
+  "im03-07": {
+   "word": "老鼠",
+   "translit": "lǎoshǔ"
+  },
+  "im03-08": {
+   "word": "蜥蜴",
+   "translit": "xīyì"
+  },
+  "im03-09": {
+   "word": "蛇",
+   "translit": "shé"
+  },
+  "im03-10": {
+   "word": "青蛙",
+   "translit": "qīngwā"
+  },
+  "im04-01": {
+   "word": "苹果",
+   "translit": "píngguǒ"
+  },
+  "im04-02": {
+   "word": "香蕉",
+   "translit": "xiāngjiāo"
+  },
+  "im04-03": {
+   "word": "橘子",
+   "translit": "júzi"
+  },
+  "im04-04": {
+   "word": "葡萄",
+   "translit": "pútao"
+  },
+  "im04-05": {
+   "word": "草莓",
+   "translit": "cǎoméi"
+  },
+  "im04-06": {
+   "word": "西瓜",
+   "translit": "xīguā"
+  },
+  "im04-07": {
+   "word": "菠萝",
+   "translit": "bōluó"
+  },
+  "im04-08": {
+   "word": "樱桃",
+   "translit": "yīngtao"
+  },
+  "im04-09": {
+   "word": "桃子",
+   "translit": "táozi"
+  },
+  "im04-10": {
+   "word": "梨",
+   "translit": "lí"
+  },
+  "im05-01": {
+   "word": "面包",
+   "translit": "miànbāo"
+  },
+  "im05-02": {
+   "word": "奶酪",
+   "translit": "nǎilào"
+  },
+  "im05-03": {
+   "word": "鸡蛋",
+   "translit": "jīdàn"
+  },
+  "im05-04": {
+   "word": "米饭",
+   "translit": "mǐfàn"
+  },
+  "im05-05": {
+   "word": "面条",
+   "translit": "miàntiáo"
+  },
+  "im05-06": {
+   "word": "披萨",
+   "translit": "pīsà"
+  },
+  "im05-07": {
+   "word": "汉堡包",
+   "translit": "hànbǎobāo"
+  },
+  "im05-08": {
+   "word": "薯条",
+   "translit": "shǔtiáo"
+  },
+  "im05-09": {
+   "word": "牛肉",
+   "translit": "niúròu"
+  },
+  "im05-10": {
+   "word": "鸡肉",
+   "translit": "jīròu"
+  },
+  "im06-01": {
+   "word": "红色",
+   "translit": "hóngsè"
+  },
+  "im06-02": {
+   "word": "橙色",
+   "translit": "chéngsè"
+  },
+  "im06-03": {
+   "word": "黄色",
+   "translit": "huángsè"
+  },
+  "im06-04": {
+   "word": "绿色",
+   "translit": "lǜsè"
+  },
+  "im06-05": {
+   "word": "蓝色",
+   "translit": "lánsè"
+  },
+  "im06-06": {
+   "word": "紫色",
+   "translit": "zǐsè"
+  },
+  "im06-07": {
+   "word": "棕色",
+   "translit": "zōngsè"
+  },
+  "im06-08": {
+   "word": "黑色",
+   "translit": "hēisè"
+  },
+  "im06-09": {
+   "word": "白色",
+   "translit": "báisè"
+  },
+  "im06-10": {
+   "word": "粉色",
+   "translit": "fěnsè"
+  },
+  "im07-01": {
+   "word": "眼睛",
+   "translit": "yǎnjing"
+  },
+  "im07-02": {
+   "word": "鼻子",
+   "translit": "bízi"
+  },
+  "im07-03": {
+   "word": "嘴",
+   "translit": "zuǐ"
+  },
+  "im07-04": {
+   "word": "耳朵",
+   "translit": "ěrduo"
+  },
+  "im07-05": {
+   "word": "手",
+   "translit": "shǒu"
+  },
+  "im07-06": {
+   "word": "脚",
+   "translit": "jiǎo"
+  },
+  "im07-07": {
+   "word": "腿",
+   "translit": "tuǐ"
+  },
+  "im07-08": {
+   "word": "牙齿",
+   "translit": "yáchǐ"
+  },
+  "im07-09": {
+   "word": "舌头",
+   "translit": "shétou"
+  },
+  "im07-10": {
+   "word": "大脑",
+   "translit": "dànǎo"
+  },
+  "im08-01": {
+   "word": "体恤",
+   "translit": "tǐxù"
+  },
+  "im08-02": {
+   "word": "裤子",
+   "translit": "kùzi"
+  },
+  "im08-03": {
+   "word": "连衣裙",
+   "translit": "liányīqún"
+  },
+  "im08-04": {
+   "word": "外套",
+   "translit": "wàitào"
+  },
+  "im08-05": {
+   "word": "袜子",
+   "translit": "wàzi"
+  },
+  "im08-06": {
+   "word": "运动鞋",
+   "translit": "yùndòngxié"
+  },
+  "im08-07": {
+   "word": "皮鞋",
+   "translit": "píxié"
+  },
+  "im08-08": {
+   "word": "棒球帽",
+   "translit": "bàngqiúmào"
+  },
+  "im08-09": {
+   "word": "围巾",
+   "translit": "wéijīn"
+  },
+  "im08-10": {
+   "word": "手套",
+   "translit": "shǒutào"
+  },
+  "im09-01": {
+   "word": "床",
+   "translit": "chuáng"
+  },
+  "im09-02": {
+   "word": "门",
+   "translit": "mén"
+  },
+  "im09-03": {
+   "word": "窗户",
+   "translit": "chuānghu"
+  },
+  "im09-04": {
+   "word": "沙发",
+   "translit": "shāfā"
+  },
+  "im09-05": {
+   "word": "淋浴",
+   "translit": "línyù"
+  },
+  "im09-06": {
+   "word": "马桶",
+   "translit": "mǎtǒng"
+  },
+  "im09-07": {
+   "word": "钥匙",
+   "translit": "yàoshi"
+  },
+  "im09-08": {
+   "word": "灯泡",
+   "translit": "dēngpào"
+  },
+  "im09-09": {
+   "word": "电视",
+   "translit": "diànshì"
+  },
+  "im09-10": {
+   "word": "闹钟",
+   "translit": "nàozhōng"
+  },
+  "im10-01": {
+   "word": "汽车",
+   "translit": "qìchē"
+  },
+  "im10-02": {
+   "word": "公共汽车",
+   "translit": "gōnggòng qìchē"
+  },
+  "im10-03": {
+   "word": "自行车",
+   "translit": "zìxíngchē"
+  },
+  "im10-04": {
+   "word": "飞机",
+   "translit": "fēijī"
+  },
+  "im10-05": {
+   "word": "火车",
+   "translit": "huǒchē"
+  },
+  "im10-06": {
+   "word": "轮船",
+   "translit": "lúnchuán"
+  },
+  "im10-07": {
+   "word": "直升机",
+   "translit": "zhíshēngjī"
+  },
+  "im10-08": {
+   "word": "摩托车",
+   "translit": "mótuōchē"
+  },
+  "im10-09": {
+   "word": "救护车",
+   "translit": "jiùhùchē"
+  },
+  "im10-10": {
+   "word": "卡车",
+   "translit": "kǎchē"
+  },
+  "im11-01": {
+   "word": "老鹰",
+   "translit": "lǎoyīng"
+  },
+  "im11-02": {
+   "word": "企鹅",
+   "translit": "qǐé"
+  },
+  "im11-03": {
+   "word": "猫头鹰",
+   "translit": "māotóuyīng"
+  },
+  "im11-04": {
+   "word": "天鹅",
+   "translit": "tiān'é"
+  },
+  "im11-05": {
+   "word": "火烈鸟",
+   "translit": "huǒlièniǎo"
+  },
+  "im11-06": {
+   "word": "鸽子",
+   "translit": "gēzi"
+  },
+  "im11-07": {
+   "word": "孔雀",
+   "translit": "kǒngquè"
+  },
+  "im11-08": {
+   "word": "小鸡",
+   "translit": "xiǎojī"
+  },
+  "im11-09": {
+   "word": "鹦鹉",
+   "translit": "yīngwǔ"
+  },
+  "im11-10": {
+   "word": "鸟",
+   "translit": "niǎo"
+  },
+  "im12-01": {
+   "word": "树",
+   "translit": "shù"
+  },
+  "im12-02": {
+   "word": "向日葵",
+   "translit": "xiàngrìkuí"
+  },
+  "im12-03": {
+   "word": "仙人掌",
+   "translit": "xiānrénzhǎng"
+  },
+  "im12-04": {
+   "word": "棕榈树",
+   "translit": "zōnglǘshù"
+  },
+  "im12-05": {
+   "word": "郁金香",
+   "translit": "yùjīnxiāng"
+  },
+  "im12-06": {
+   "word": "山",
+   "translit": "shān"
+  },
+  "im12-07": {
+   "word": "海浪",
+   "translit": "hǎilàng"
+  },
+  "im12-08": {
+   "word": "火山",
+   "translit": "huǒshān"
+  },
+  "im12-09": {
+   "word": "岛",
+   "translit": "dǎo"
+  },
+  "im12-10": {
+   "word": "沙漠",
+   "translit": "shāmò"
+  },
+  "im13-01": {
+   "word": "太阳",
+   "translit": "tàiyáng"
+  },
+  "im13-02": {
+   "word": "月亮",
+   "translit": "yuèliang"
+  },
+  "im13-03": {
+   "word": "星星",
+   "translit": "xīngxing"
+  },
+  "im13-04": {
+   "word": "云",
+   "translit": "yún"
+  },
+  "im13-05": {
+   "word": "雨",
+   "translit": "yǔ"
+  },
+  "im13-06": {
+   "word": "雪花",
+   "translit": "xuěhuā"
+  },
+  "im13-07": {
+   "word": "彩虹",
+   "translit": "cǎihóng"
+  },
+  "im13-08": {
+   "word": "闪电",
+   "translit": "shǎndiàn"
+  },
+  "im13-09": {
+   "word": "龙卷风",
+   "translit": "lóngjuǎnfēng"
+  },
+  "im13-10": {
+   "word": "雨伞",
+   "translit": "yǔsǎn"
+  },
+  "im14-01": {
+   "word": "蜜蜂",
+   "translit": "mìfēng"
+  },
+  "im14-02": {
+   "word": "蝴蝶",
+   "translit": "húdié"
+  },
+  "im14-03": {
+   "word": "蚂蚁",
+   "translit": "mǎyǐ"
+  },
+  "im14-04": {
+   "word": "瓢虫",
+   "translit": "piáochóng"
+  },
+  "im14-05": {
+   "word": "毛毛虫",
+   "translit": "máomaochóng"
+  },
+  "im14-06": {
+   "word": "蟋蟀",
+   "translit": "xīshuài"
+  },
+  "im14-07": {
+   "word": "蜘蛛",
+   "translit": "zhīzhū"
+  },
+  "im14-08": {
+   "word": "蝎子",
+   "translit": "xiēzi"
+  },
+  "im14-09": {
+   "word": "蚊子",
+   "translit": "wénzi"
+  },
+  "im14-10": {
+   "word": "蜗牛",
+   "translit": "wōniú"
+  },
+  "im15-01": {
+   "word": "海豚",
+   "translit": "hǎitún"
+  },
+  "im15-02": {
+   "word": "鲸鱼",
+   "translit": "jīngyú"
+  },
+  "im15-03": {
+   "word": "鲨鱼",
+   "translit": "shāyú"
+  },
+  "im15-04": {
+   "word": "章鱼",
+   "translit": "zhāngyú"
+  },
+  "im15-05": {
+   "word": "螃蟹",
+   "translit": "pángxiè"
+  },
+  "im15-06": {
+   "word": "龙虾",
+   "translit": "lóngxiā"
+  },
+  "im15-07": {
+   "word": "虾",
+   "translit": "xiā"
+  },
+  "im15-08": {
+   "word": "河豚",
+   "translit": "hétún"
+  },
+  "im15-09": {
+   "word": "鱿鱼",
+   "translit": "yóuyú"
+  },
+  "im15-10": {
+   "word": "贝壳",
+   "translit": "bèiké"
+  },
+  "im16-01": {
+   "word": "芒果",
+   "translit": "mángguǒ"
+  },
+  "im16-02": {
+   "word": "椰子",
+   "translit": "yēzi"
+  },
+  "im16-03": {
+   "word": "猕猴桃",
+   "translit": "míhóutáo"
+  },
+  "im16-04": {
+   "word": "柠檬",
+   "translit": "níngméng"
+  },
+  "im16-05": {
+   "word": "哈密瓜",
+   "translit": "hāmìguā"
+  },
+  "im16-06": {
+   "word": "牛油果",
+   "translit": "niúyóuguǒ"
+  },
+  "im16-07": {
+   "word": "花生",
+   "translit": "huāshēng"
+  },
+  "im16-08": {
+   "word": "栗子",
+   "translit": "lìzi"
+  },
+  "im16-09": {
+   "word": "西红柿",
+   "translit": "xīhóngshì"
+  },
+  "im16-10": {
+   "word": "黄瓜",
+   "translit": "huángguā"
+  },
+  "im17-01": {
+   "word": "胡萝卜",
+   "translit": "húluóbo"
+  },
+  "im17-02": {
+   "word": "玉米",
+   "translit": "yùmǐ"
+  },
+  "im17-03": {
+   "word": "土豆",
+   "translit": "tǔdòu"
+  },
+  "im17-04": {
+   "word": "茄子",
+   "translit": "qiézi"
+  },
+  "im17-05": {
+   "word": "西兰花",
+   "translit": "xīlánhuā"
+  },
+  "im17-06": {
+   "word": "生菜",
+   "translit": "shēngcài"
+  },
+  "im17-07": {
+   "word": "洋葱",
+   "translit": "yángcōng"
+  },
+  "im17-08": {
+   "word": "大蒜",
+   "translit": "dàsuàn"
+  },
+  "im17-09": {
+   "word": "辣椒",
+   "translit": "làjiāo"
+  },
+  "im17-10": {
+   "word": "蘑菇",
+   "translit": "mógu"
+  },
+  "im18-01": {
+   "word": "咖啡",
+   "translit": "kāfēi"
+  },
+  "im18-02": {
+   "word": "牛奶",
+   "translit": "niúnǎi"
+  },
+  "im18-03": {
+   "word": "果汁",
+   "translit": "guǒzhī"
+  },
+  "im18-04": {
+   "word": "啤酒",
+   "translit": "píjiǔ"
+  },
+  "im18-05": {
+   "word": "红酒",
+   "translit": "hóngjiǔ"
+  },
+  "im18-06": {
+   "word": "巧克力",
+   "translit": "qiǎokèlì"
+  },
+  "im18-07": {
+   "word": "冰淇淋",
+   "translit": "bīngqílín"
+  },
+  "im18-08": {
+   "word": "蛋糕",
+   "translit": "dàngāo"
+  },
+  "im18-09": {
+   "word": "饼干",
+   "translit": "bǐnggān"
+  },
+  "im18-10": {
+   "word": "甜甜圈",
+   "translit": "tiántiánquān"
+  },
+  "im19-01": {
+   "word": "手机",
+   "translit": "shǒujī"
+  },
+  "im19-02": {
+   "word": "手表",
+   "translit": "shǒubiǎo"
+  },
+  "im19-03": {
+   "word": "眼镜",
+   "translit": "yǎnjìng"
+  },
+  "im19-04": {
+   "word": "书包",
+   "translit": "shūbāo"
+  },
+  "im19-05": {
+   "word": "剪刀",
+   "translit": "jiǎndāo"
+  },
+  "im19-06": {
+   "word": "手电筒",
+   "translit": "shǒudiàntǒng"
+  },
+  "im19-07": {
+   "word": "照相机",
+   "translit": "zhàoxiàngjī"
+  },
+  "im19-08": {
+   "word": "电池",
+   "translit": "diànchí"
+  },
+  "im19-09": {
+   "word": "毛绒熊",
+   "translit": "máoróngxióng"
+  },
+  "im19-10": {
+   "word": "磁铁",
+   "translit": "cítiě"
+  },
+  "im20-01": {
+   "word": "书",
+   "translit": "shū"
+  },
+  "im20-02": {
+   "word": "铅笔",
+   "translit": "qiānbǐ"
+  },
+  "im20-03": {
+   "word": "钢笔",
+   "translit": "gāngbǐ"
+  },
+  "im20-04": {
+   "word": "笔记本",
+   "translit": "bǐjìběn"
+  },
+  "im20-05": {
+   "word": "尺子",
+   "translit": "chǐzi"
+  },
+  "im20-06": {
+   "word": "回形针",
+   "translit": "huíxíngzhēn"
+  },
+  "im20-07": {
+   "word": "三角板",
+   "translit": "sānjiǎobǎn"
+  },
+  "im20-08": {
+   "word": "算盘",
+   "translit": "suànpán"
+  },
+  "im20-09": {
+   "word": "学校",
+   "translit": "xuéxiào"
+  },
+  "im20-10": {
+   "word": "调色板",
+   "translit": "tiáosèbǎn"
+  },
+  "im21-01": {
+   "word": "足球",
+   "translit": "zúqiú"
+  },
+  "im21-02": {
+   "word": "篮球",
+   "translit": "lánqiú"
+  },
+  "im21-03": {
+   "word": "网球",
+   "translit": "wǎngqiú"
+  },
+  "im21-04": {
+   "word": "排球",
+   "translit": "páiqiú"
+  },
+  "im21-05": {
+   "word": "乒乓球",
+   "translit": "pīngpāngqiú"
+  },
+  "im21-06": {
+   "word": "拳击手套",
+   "translit": "quánjī shǒutào"
+  },
+  "im21-07": {
+   "word": "保龄球",
+   "translit": "bǎolíngqiú"
+  },
+  "im21-08": {
+   "word": "弓箭",
+   "translit": "gōngjiàn"
+  },
+  "im21-09": {
+   "word": "滑板",
+   "translit": "huábǎn"
+  },
+  "im21-10": {
+   "word": "冰刀鞋",
+   "translit": "bīngdāoxié"
+  },
+  "im22-01": {
+   "word": "盘子",
+   "translit": "pánzi"
+  },
+  "im22-02": {
+   "word": "勺子",
+   "translit": "sháozi"
+  },
+  "im22-03": {
+   "word": "刀",
+   "translit": "dāo"
+  },
+  "im22-04": {
+   "word": "平底锅",
+   "translit": "píngdǐguō"
+  },
+  "im22-05": {
+   "word": "碗",
+   "translit": "wǎn"
+  },
+  "im22-06": {
+   "word": "筷子",
+   "translit": "kuàizi"
+  },
+  "im22-07": {
+   "word": "盐",
+   "translit": "yán"
+  },
+  "im22-08": {
+   "word": "罐头",
+   "translit": "guàntou"
+  },
+  "im22-09": {
+   "word": "杯子",
+   "translit": "bēizi"
+  },
+  "im22-10": {
+   "word": "冰块",
+   "translit": "bīngkuài"
+  },
+  "im23-01": {
+   "word": "牙刷",
+   "translit": "yáshuā"
+  },
+  "im23-02": {
+   "word": "肥皂",
+   "translit": "féizào"
+  },
+  "im23-03": {
+   "word": "卫生纸",
+   "translit": "wèishēngzhǐ"
+  },
+  "im23-04": {
+   "word": "剃须刀",
+   "translit": "tìxūdāo"
+  },
+  "im23-05": {
+   "word": "浴缸",
+   "translit": "yùgāng"
+  },
+  "im23-06": {
+   "word": "海绵",
+   "translit": "hǎimián"
+  },
+  "im23-07": {
+   "word": "扫帚",
+   "translit": "sàozhou"
+  },
+  "im23-08": {
+   "word": "水桶",
+   "translit": "shuǐtǒng"
+  },
+  "im23-09": {
+   "word": "镜子",
+   "translit": "jìngzi"
+  },
+  "im23-10": {
+   "word": "篮子",
+   "translit": "lánzi"
+  },
+  "im24-01": {
+   "word": "椅子",
+   "translit": "yǐzi"
+  },
+  "im24-02": {
+   "word": "画框",
+   "translit": "huàkuàng"
+  },
+  "im24-03": {
+   "word": "蜡烛",
+   "translit": "làzhú"
+  },
+  "im24-04": {
+   "word": "行李箱",
+   "translit": "xínglixiāng"
+  },
+  "im24-05": {
+   "word": "挂锁",
+   "translit": "guàsuǒ"
+  },
+  "im24-06": {
+   "word": "垃圾桶",
+   "translit": "lājītǒng"
+  },
+  "im24-07": {
+   "word": "梯子",
+   "translit": "tīzi"
+  },
+  "im24-08": {
+   "word": "收音机",
+   "translit": "shōuyīnjī"
+  },
+  "im24-09": {
+   "word": "铃铛",
+   "translit": "língdang"
+  },
+  "im24-10": {
+   "word": "灭火器",
+   "translit": "mièhuǒqì"
+  },
+  "im25-01": {
+   "word": "锤子",
+   "translit": "chuízi"
+  },
+  "im25-02": {
+   "word": "斧头",
+   "translit": "fǔtou"
+  },
+  "im25-03": {
+   "word": "扳手",
+   "translit": "bānshǒu"
+  },
+  "im25-04": {
+   "word": "螺丝刀",
+   "translit": "luósīdāo"
+  },
+  "im25-05": {
+   "word": "锯子",
+   "translit": "jùzi"
+  },
+  "im25-06": {
+   "word": "镐",
+   "translit": "gǎo"
+  },
+  "im25-07": {
+   "word": "工具箱",
+   "translit": "gōngjùxiāng"
+  },
+  "im25-08": {
+   "word": "螺丝钉",
+   "translit": "luósīdīng"
+  },
+  "im25-09": {
+   "word": "齿轮",
+   "translit": "chǐlún"
+  },
+  "im25-10": {
+   "word": "铁链",
+   "translit": "tiěliàn"
+  },
+  "im26-01": {
+   "word": "医院",
+   "translit": "yīyuàn"
+  },
+  "im26-02": {
+   "word": "银行",
+   "translit": "yínháng"
+  },
+  "im26-03": {
+   "word": "教堂",
+   "translit": "jiàotáng"
+  },
+  "im26-04": {
+   "word": "酒店",
+   "translit": "jiǔdiàn"
+  },
+  "im26-05": {
+   "word": "工厂",
+   "translit": "gōngchǎng"
+  },
+  "im26-06": {
+   "word": "加油站",
+   "translit": "jiāyóuzhàn"
+  },
+  "im26-07": {
+   "word": "红绿灯",
+   "translit": "hónglǜdēng"
+  },
+  "im26-08": {
+   "word": "桥",
+   "translit": "qiáo"
+  },
+  "im26-09": {
+   "word": "体育场",
+   "translit": "tǐyùchǎng"
+  },
+  "im26-10": {
+   "word": "商店",
+   "translit": "shāngdiàn"
+  },
+  "im27-01": {
+   "word": "笔记本电脑",
+   "translit": "bǐjìběn diànnǎo"
+  },
+  "im27-02": {
+   "word": "键盘",
+   "translit": "jiànpán"
+  },
+  "im27-03": {
+   "word": "鼠标",
+   "translit": "shǔbiāo"
+  },
+  "im27-04": {
+   "word": "打印机",
+   "translit": "dǎyìnjī"
+  },
+  "im27-05": {
+   "word": "软盘",
+   "translit": "ruǎnpán"
+  },
+  "im27-06": {
+   "word": "耳机",
+   "translit": "ěrjī"
+  },
+  "im27-07": {
+   "word": "麦克风",
+   "translit": "màikèfēng"
+  },
+  "im27-08": {
+   "word": "天线",
+   "translit": "tiānxiàn"
+  },
+  "im27-09": {
+   "word": "插头",
+   "translit": "chātóu"
+  },
+  "im27-10": {
+   "word": "游戏手柄",
+   "translit": "yóuxì shǒubǐng"
+  },
+  "im28-01": {
+   "word": "吉他",
+   "translit": "jítā"
+  },
+  "im28-02": {
+   "word": "钢琴",
+   "translit": "gāngqín"
+  },
+  "im28-03": {
+   "word": "小号",
+   "translit": "xiǎohào"
+  },
+  "im28-04": {
+   "word": "小提琴",
+   "translit": "xiǎotíqín"
+  },
+  "im28-05": {
+   "word": "架子鼓",
+   "translit": "jiàzigǔ"
+  },
+  "im28-06": {
+   "word": "萨克斯",
+   "translit": "sàkèsī"
+  },
+  "im28-07": {
+   "word": "班卓琴",
+   "translit": "bānzhuóqín"
+  },
+  "im28-08": {
+   "word": "手风琴",
+   "translit": "shǒufēngqín"
+  },
+  "im28-09": {
+   "word": "乐谱",
+   "translit": "yuèpǔ"
+  },
+  "im28-10": {
+   "word": "音符",
+   "translit": "yīnfú"
+  },
+  "im29-01": {
+   "word": "骰子",
+   "translit": "shǎizi"
+  },
+  "im29-02": {
+   "word": "拼图",
+   "translit": "pīntú"
+  },
+  "im29-03": {
+   "word": "靶子",
+   "translit": "bǎzi"
+  },
+  "im29-04": {
+   "word": "国际象棋",
+   "translit": "guójì xiàngqí"
+  },
+  "im29-05": {
+   "word": "电子游戏",
+   "translit": "diànzǐ yóuxì"
+  },
+  "im29-06": {
+   "word": "摩天轮",
+   "translit": "mótiānlún"
+  },
+  "im29-07": {
+   "word": "过山车",
+   "translit": "guòshānchē"
+  },
+  "im29-08": {
+   "word": "气球",
+   "translit": "qìqiú"
+  },
+  "im29-09": {
+   "word": "风筝",
+   "translit": "fēngzheng"
+  },
+  "im29-10": {
+   "word": "旋转木马",
+   "translit": "xuánzhuǎn mùmǎ"
+  },
+  "im30-01": {
+   "word": "礼物",
+   "translit": "lǐwù"
+  },
+  "im30-02": {
+   "word": "生日蛋糕",
+   "translit": "shēngrì dàngāo"
+  },
+  "im30-03": {
+   "word": "圣诞树",
+   "translit": "shèngdànshù"
+  },
+  "im30-04": {
+   "word": "南瓜",
+   "translit": "nánguā"
+  },
+  "im30-05": {
+   "word": "烟花",
+   "translit": "yānhuā"
+  },
+  "im30-06": {
+   "word": "灯笼",
+   "translit": "dēnglong"
+  },
+  "im30-07": {
+   "word": "圣诞老人",
+   "translit": "shèngdàn lǎorén"
+  },
+  "im30-08": {
+   "word": "皮纳塔",
+   "translit": "pínàtǎ"
+  },
+  "im30-09": {
+   "word": "蝴蝶结",
+   "translit": "húdiéjié"
+  },
+  "im30-10": {
+   "word": "香槟",
+   "translit": "xiāngbīn"
+  },
+  "im31-01": {
+   "word": "听诊器",
+   "translit": "tīngzhěnqì"
+  },
+  "im31-02": {
+   "word": "注射器",
+   "translit": "zhùshèqì"
+  },
+  "im31-03": {
+   "word": "药片",
+   "translit": "yàopiàn"
+  },
+  "im31-04": {
+   "word": "创可贴",
+   "translit": "chuàngkětiē"
+  },
+  "im31-05": {
+   "word": "体温计",
+   "translit": "tǐwēnjì"
+  },
+  "im31-06": {
+   "word": "轮椅",
+   "translit": "lúnyǐ"
+  },
+  "im31-07": {
+   "word": "拐杖",
+   "translit": "guǎizhàng"
+  },
+  "im31-08": {
+   "word": "细菌",
+   "translit": "xìjūn"
+  },
+  "im31-09": {
+   "word": "骨头",
+   "translit": "gǔtou"
+  },
+  "im31-10": {
+   "word": "基因",
+   "translit": "jīyīn"
+  },
+  "im32-01": {
+   "word": "显微镜",
+   "translit": "xiǎnwēijìng"
+  },
+  "im32-02": {
+   "word": "望远镜",
+   "translit": "wàngyuǎnjìng"
+  },
+  "im32-03": {
+   "word": "试管",
+   "translit": "shìguǎn"
+  },
+  "im32-04": {
+   "word": "蒸馏器",
+   "translit": "zhēngliúqì"
+  },
+  "im32-05": {
+   "word": "培养皿",
+   "translit": "péiyǎngmǐn"
+  },
+  "im32-06": {
+   "word": "天平",
+   "translit": "tiānpíng"
+  },
+  "im32-07": {
+   "word": "指南针",
+   "translit": "zhǐnánzhēn"
+  },
+  "im32-08": {
+   "word": "放大镜",
+   "translit": "fàngdàjìng"
+  },
+  "im32-09": {
+   "word": "沙漏",
+   "translit": "shālòu"
+  },
+  "im32-10": {
+   "word": "原子",
+   "translit": "yuánzǐ"
+  },
+  "im33-01": {
+   "word": "文件夹",
+   "translit": "wénjiànjiā"
+  },
+  "im33-02": {
+   "word": "日历",
+   "translit": "rìlì"
+  },
+  "im33-03": {
+   "word": "图表",
+   "translit": "túbiǎo"
+  },
+  "im33-04": {
+   "word": "信封",
+   "translit": "xìnfēng"
+  },
+  "im33-05": {
+   "word": "邮筒",
+   "translit": "yóutǒng"
+  },
+  "im33-06": {
+   "word": "包裹",
+   "translit": "bāoguǒ"
+  },
+  "im33-07": {
+   "word": "报纸",
+   "translit": "bàozhǐ"
+  },
+  "im33-08": {
+   "word": "信用卡",
+   "translit": "xìnyòngkǎ"
+  },
+  "im33-09": {
+   "word": "硬币",
+   "translit": "yìngbì"
+  },
+  "im33-10": {
+   "word": "卷轴",
+   "translit": "juànzhóu"
+  },
+  "im34-01": {
+   "word": "房子",
+   "translit": "fángzi"
+  },
+  "im34-02": {
+   "word": "大楼",
+   "translit": "dàlóu"
+  },
+  "im34-03": {
+   "word": "砖头",
+   "translit": "zhuāntóu"
+  },
+  "im34-04": {
+   "word": "起重机",
+   "translit": "qǐzhòngjī"
+  },
+  "im34-05": {
+   "word": "小木屋",
+   "translit": "xiǎo mùwū"
+  },
+  "im34-06": {
+   "word": "帐篷",
+   "translit": "zhàngpeng"
+  },
+  "im34-07": {
+   "word": "施工",
+   "translit": "shīgōng"
+  },
+  "im34-08": {
+   "word": "城堡",
+   "translit": "chéngbǎo"
+  },
+  "im34-09": {
+   "word": "喷泉",
+   "translit": "pēnquán"
+  },
+  "im34-10": {
+   "word": "石像",
+   "translit": "shíxiàng"
+  },
+  "im35-01": {
+   "word": "行星",
+   "translit": "xíngxīng"
+  },
+  "im35-02": {
+   "word": "地球",
+   "translit": "dìqiú"
+  },
+  "im35-03": {
+   "word": "满月",
+   "translit": "mǎnyuè"
+  },
+  "im35-04": {
+   "word": "彗星",
+   "translit": "huìxīng"
+  },
+  "im35-05": {
+   "word": "火箭",
+   "translit": "huǒjiàn"
+  },
+  "im35-06": {
+   "word": "卫星",
+   "translit": "wèixīng"
+  },
+  "im35-07": {
+   "word": "飞碟",
+   "translit": "fēidié"
+  },
+  "im35-08": {
+   "word": "外星人",
+   "translit": "wàixīngrén"
+  },
+  "im35-09": {
+   "word": "流星",
+   "translit": "liúxīng"
+  },
+  "im35-10": {
+   "word": "银河",
+   "translit": "yínhé"
+  },
+  "im36-01": {
+   "word": "帆船",
+   "translit": "fānchuán"
+  },
+  "im36-02": {
+   "word": "独木舟",
+   "translit": "dúmùzhōu"
+  },
+  "im36-03": {
+   "word": "快艇",
+   "translit": "kuàitǐng"
+  },
+  "im36-04": {
+   "word": "出租车",
+   "translit": "chūzūchē"
+  },
+  "im36-05": {
+   "word": "电动滑板车",
+   "translit": "diàndòng huábǎnchē"
+  },
+  "im36-06": {
+   "word": "拖拉机",
+   "translit": "tuōlājī"
+  },
+  "im36-07": {
+   "word": "地铁",
+   "translit": "dìtiě"
+  },
+  "im36-08": {
+   "word": "踏板车",
+   "translit": "tàbǎnchē"
+  },
+  "im36-09": {
+   "word": "降落伞",
+   "translit": "jiàngluòsǎn"
+  },
+  "im36-10": {
+   "word": "警车",
+   "translit": "jǐngchē"
+  },
+  "im37-01": {
+   "word": "寿司",
+   "translit": "shòusī"
+  },
+  "im37-02": {
+   "word": "拉面",
+   "translit": "lāmiàn"
+  },
+  "im37-03": {
+   "word": "海鲜饭",
+   "translit": "hǎixiānfàn"
+  },
+  "im37-04": {
+   "word": "咖喱",
+   "translit": "gālí"
+  },
+  "im37-05": {
+   "word": "饺子",
+   "translit": "jiǎozi"
+  },
+  "im37-06": {
+   "word": "便当",
+   "translit": "biàndāng"
+  },
+  "im37-07": {
+   "word": "饭团",
+   "translit": "fàntuán"
+  },
+  "im37-08": {
+   "word": "炸豆丸子",
+   "translit": "zhàdòuwánzi"
+  },
+  "im37-09": {
+   "word": "沙拉",
+   "translit": "shālā"
+  },
+  "im37-10": {
+   "word": "炖菜",
+   "translit": "dùncài"
+  },
+  "im38-01": {
+   "word": "羊角面包",
+   "translit": "yángjiǎo miànbāo"
+  },
+  "im38-02": {
+   "word": "椒盐卷饼",
+   "translit": "jiāoyán juǎnbǐng"
+  },
+  "im38-03": {
+   "word": "贝果",
+   "translit": "bèiguǒ"
+  },
+  "im38-04": {
+   "word": "煎饼",
+   "translit": "jiānbǐng"
+  },
+  "im38-05": {
+   "word": "华夫饼",
+   "translit": "huáfūbǐng"
+  },
+  "im38-06": {
+   "word": "墨西哥卷饼",
+   "translit": "mòxīgē juǎnbǐng"
+  },
+  "im38-07": {
+   "word": "卷饼",
+   "translit": "juǎnbǐng"
+  },
+  "im38-08": {
+   "word": "三明治",
+   "translit": "sānmíngzhì"
+  },
+  "im38-09": {
+   "word": "爆米花",
+   "translit": "bàomǐhuā"
+  },
+  "im38-10": {
+   "word": "热狗",
+   "translit": "règǒu"
+  },
+  "im39-01": {
+   "word": "布丁",
+   "translit": "bùdīng"
+  },
+  "im39-02": {
+   "word": "馅饼",
+   "translit": "xiànbǐng"
+  },
+  "im39-03": {
+   "word": "纸杯蛋糕",
+   "translit": "zhǐbēi dàngāo"
+  },
+  "im39-04": {
+   "word": "糖果",
+   "translit": "tángguǒ"
+  },
+  "im39-05": {
+   "word": "棒棒糖",
+   "translit": "bàngbangtáng"
+  },
+  "im39-06": {
+   "word": "蜂蜜",
+   "translit": "fēngmì"
+  },
+  "im39-07": {
+   "word": "刨冰",
+   "translit": "bàobīng"
+  },
+  "im39-08": {
+   "word": "幸运饼干",
+   "translit": "xìngyùn bǐnggān"
+  },
+  "im39-09": {
+   "word": "黄油",
+   "translit": "huángyóu"
+  },
+  "im39-10": {
+   "word": "团子",
+   "translit": "tuánzi"
+  },
+  "im40-01": {
+   "word": "茶",
+   "translit": "chá"
+  },
+  "im40-02": {
+   "word": "鸡尾酒",
+   "translit": "jīwěijiǔ"
+  },
+  "im40-03": {
+   "word": "清酒",
+   "translit": "qīngjiǔ"
+  },
+  "im40-04": {
+   "word": "威士忌",
+   "translit": "wēishìjì"
+  },
+  "im40-05": {
+   "word": "马黛茶",
+   "translit": "mǎdàichá"
+  },
+  "im40-06": {
+   "word": "珍珠奶茶",
+   "translit": "zhēnzhū nǎichá"
+  },
+  "im40-07": {
+   "word": "热带饮料",
+   "translit": "rèdài yǐnliào"
+  },
+  "im40-08": {
+   "word": "奶瓶",
+   "translit": "nǎipíng"
+  },
+  "im40-09": {
+   "word": "水滴",
+   "translit": "shuǐdī"
+  },
+  "im40-10": {
+   "word": "干杯",
+   "translit": "gānbēi"
+  },
+  "im41-01": {
+   "word": "狼",
+   "translit": "láng"
+  },
+  "im41-02": {
+   "word": "狐狸",
+   "translit": "húli"
+  },
+  "im41-03": {
+   "word": "鹿",
+   "translit": "lù"
+  },
+  "im41-04": {
+   "word": "松鼠",
+   "translit": "sōngshǔ"
+  },
+  "im41-05": {
+   "word": "野猪",
+   "translit": "yězhū"
+  },
+  "im41-06": {
+   "word": "獾",
+   "translit": "huān"
+  },
+  "im41-07": {
+   "word": "浣熊",
+   "translit": "huànxióng"
+  },
+  "im41-08": {
+   "word": "蝙蝠",
+   "translit": "biānfú"
+  },
+  "im41-09": {
+   "word": "刺猬",
+   "translit": "cìwei"
+  },
+  "im41-10": {
+   "word": "臭鼬",
+   "translit": "chòuyòu"
+  },
+  "im42-01": {
+   "word": "袋鼠",
+   "translit": "dàishǔ"
+  },
+  "im42-02": {
+   "word": "考拉",
+   "translit": "kǎolā"
+  },
+  "im42-03": {
+   "word": "熊猫",
+   "translit": "xióngmāo"
+  },
+  "im42-04": {
+   "word": "骆驼",
+   "translit": "luòtuo"
+  },
+  "im42-05": {
+   "word": "羊驼",
+   "translit": "yángtuó"
+  },
+  "im42-06": {
+   "word": "树懒",
+   "translit": "shùlǎn"
+  },
+  "im42-07": {
+   "word": "大猩猩",
+   "translit": "dàxīngxing"
+  },
+  "im42-08": {
+   "word": "猩猩",
+   "translit": "xīngxing"
+  },
+  "im42-09": {
+   "word": "豹子",
+   "translit": "bàozi"
+  },
+  "im42-10": {
+   "word": "野牛",
+   "translit": "yěniú"
+  },
+  "im43-01": {
+   "word": "霸王龙",
+   "translit": "bàwánglóng"
+  },
+  "im43-02": {
+   "word": "腕龙",
+   "translit": "wànlóng"
+  },
+  "im43-03": {
+   "word": "猛犸象",
+   "translit": "měngmǎxiàng"
+  },
+  "im43-04": {
+   "word": "海豹",
+   "translit": "hǎibào"
+  },
+  "im43-05": {
+   "word": "水獭",
+   "translit": "shuǐtǎ"
+  },
+  "im43-06": {
+   "word": "水牛",
+   "translit": "shuǐniú"
+  },
+  "im43-07": {
+   "word": "河狸",
+   "translit": "hélí"
+  },
+  "im43-08": {
+   "word": "公羊",
+   "translit": "gōngyáng"
+  },
+  "im43-09": {
+   "word": "贵宾犬",
+   "translit": "guìbīnquǎn"
+  },
+  "im43-10": {
+   "word": "导盲犬",
+   "translit": "dǎomángquǎn"
+  },
+  "im44-01": {
+   "word": "松树",
+   "translit": "sōngshù"
+  },
+  "im44-02": {
+   "word": "小麦",
+   "translit": "xiǎomài"
+  },
+  "im44-03": {
+   "word": "三叶草",
+   "translit": "sānyècǎo"
+  },
+  "im44-04": {
+   "word": "幼苗",
+   "translit": "yòumiáo"
+  },
+  "im44-05": {
+   "word": "花束",
+   "translit": "huāshù"
+  },
+  "im44-06": {
+   "word": "樱花",
+   "translit": "yīnghuā"
+  },
+  "im44-07": {
+   "word": "雏菊",
+   "translit": "chújú"
+  },
+  "im44-08": {
+   "word": "木槿花",
+   "translit": "mùjǐnhuā"
+  },
+  "im44-09": {
+   "word": "落叶",
+   "translit": "luòyè"
+  },
+  "im44-10": {
+   "word": "枯花",
+   "translit": "kūhuā"
+  },
+  "im45-01": {
+   "word": "领带",
+   "translit": "lǐngdài"
+  },
+  "im45-02": {
+   "word": "女式衬衫",
+   "translit": "nǚshì chènshān"
+  },
+  "im45-03": {
+   "word": "和服",
+   "translit": "héfú"
+  },
+  "im45-04": {
+   "word": "比基尼",
+   "translit": "bǐjīní"
+  },
+  "im45-05": {
+   "word": "短裤",
+   "translit": "duǎnkù"
+  },
+  "im45-06": {
+   "word": "高跟鞋",
+   "translit": "gāogēnxié"
+  },
+  "im45-07": {
+   "word": "靴子",
+   "translit": "xuēzi"
+  },
+  "im45-08": {
+   "word": "拖鞋",
+   "translit": "tuōxié"
+  },
+  "im45-09": {
+   "word": "帽子",
+   "translit": "màozi"
+  },
+  "im45-10": {
+   "word": "白大褂",
+   "translit": "báidàguà"
+  },
+  "im46-01": {
+   "word": "戒指",
+   "translit": "jièzhi"
+  },
+  "im46-02": {
+   "word": "钻石",
+   "translit": "zuànshí"
+  },
+  "im46-03": {
+   "word": "手提包",
+   "translit": "shǒutíbāo"
+  },
+  "im46-04": {
+   "word": "零钱包",
+   "translit": "língqiánbāo"
+  },
+  "im46-05": {
+   "word": "礼帽",
+   "translit": "lǐmào"
+  },
+  "im46-06": {
+   "word": "墨镜",
+   "translit": "mòjìng"
+  },
+  "im46-07": {
+   "word": "学士帽",
+   "translit": "xuéshìmào"
+  },
+  "im46-08": {
+   "word": "口红",
+   "translit": "kǒuhóng"
+  },
+  "im46-09": {
+   "word": "佛珠",
+   "translit": "fózhū"
+  },
+  "im46-10": {
+   "word": "背心",
+   "translit": "bèixīn"
+  },
+  "im47-01": {
+   "word": "奖杯",
+   "translit": "jiǎngbēi"
+  },
+  "im47-02": {
+   "word": "金牌",
+   "translit": "jīnpái"
+  },
+  "im47-03": {
+   "word": "鱼竿",
+   "translit": "yúgān"
+  },
+  "im47-04": {
+   "word": "滑雪板",
+   "translit": "huáxuěbǎn"
+  },
+  "im47-05": {
+   "word": "雪橇",
+   "translit": "xuěqiāo"
+  },
+  "im47-06": {
+   "word": "羽毛球拍",
+   "translit": "yǔmáoqiúpāi"
+  },
+  "im47-07": {
+   "word": "球门",
+   "translit": "qiúmén"
+  },
+  "im47-08": {
+   "word": "高尔夫球旗",
+   "translit": "gāo'ěrfūqiú qí"
+  },
+  "im47-09": {
+   "word": "悠悠球",
+   "translit": "yōuyōuqiú"
+  },
+  "im47-10": {
+   "word": "潜水镜",
+   "translit": "qiánshuǐjìng"
+  },
+  "im48-01": {
+   "word": "场记板",
+   "translit": "chǎngjìbǎn"
+  },
+  "im48-02": {
+   "word": "摄像机",
+   "translit": "shèxiàngjī"
+  },
+  "im48-03": {
+   "word": "戏剧",
+   "translit": "xìjù"
+  },
+  "im48-04": {
+   "word": "马戏团",
+   "translit": "mǎxìtuán"
+  },
+  "im48-05": {
+   "word": "胶卷",
+   "translit": "jiāojuǎn"
+  },
+  "im48-06": {
+   "word": "放映机",
+   "translit": "fàngyìngjī"
+  },
+  "im48-07": {
+   "word": "话筒",
+   "translit": "huàtǒng"
+  },
+  "im48-08": {
+   "word": "电影票",
+   "translit": "diànyǐngpiào"
+  },
+  "im48-09": {
+   "word": "画笔",
+   "translit": "huàbǐ"
+  },
+  "im48-10": {
+   "word": "喇叭",
+   "translit": "lǎba"
+  },
+  "im49-01": {
+   "word": "盾牌",
+   "translit": "dùnpái"
+  },
+  "im49-02": {
+   "word": "双剑",
+   "translit": "shuāngjiàn"
+  },
+  "im49-03": {
+   "word": "匕首",
+   "translit": "bǐshǒu"
+  },
+  "im49-04": {
+   "word": "龙",
+   "translit": "lóng"
+  },
+  "im49-05": {
+   "word": "独角兽",
+   "translit": "dújiǎoshòu"
+  },
+  "im49-06": {
+   "word": "魔杖",
+   "translit": "mózhàng"
+  },
+  "im49-07": {
+   "word": "水晶球",
+   "translit": "shuǐjīngqiú"
+  },
+  "im49-08": {
+   "word": "王冠",
+   "translit": "wángguān"
+  },
+  "im49-09": {
+   "word": "魔法师",
+   "translit": "mófǎshī"
+  },
+  "im49-10": {
+   "word": "仙女",
+   "translit": "xiānnǚ"
+  },
+  "im50-01": {
+   "word": "双耳瓶",
+   "translit": "shuāng'ěrpíng"
+  },
+  "im50-02": {
+   "word": "锚",
+   "translit": "máo"
+  },
+  "im50-03": {
+   "word": "石头",
+   "translit": "shítou"
+  },
+  "im50-04": {
+   "word": "木头",
+   "translit": "mùtou"
+  },
+  "im50-05": {
+   "word": "电话",
+   "translit": "diànhuà"
+  },
+  "im50-06": {
+   "word": "传真机",
+   "translit": "chuánzhēnjī"
+  },
+  "im50-07": {
+   "word": "磁带",
+   "translit": "cídài"
+  },
+  "im50-08": {
+   "word": "扩音器",
+   "translit": "kuòyīnqì"
+  },
+  "im50-09": {
+   "word": "古钥匙",
+   "translit": "gǔ yàoshi"
+  },
+  "im50-10": {
+   "word": "油桶",
+   "translit": "yóutǒng"
+  }
+ }
+}

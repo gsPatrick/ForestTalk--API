@@ -1,0 +1,2007 @@
+{
+ "game": "image",
+ "language": "en",
+ "version": 2,
+ "entries": {
+  "im01-01": {
+   "word": "lion",
+   "translit": null
+  },
+  "im01-02": {
+   "word": "tiger",
+   "translit": null
+  },
+  "im01-03": {
+   "word": "elephant",
+   "translit": null
+  },
+  "im01-04": {
+   "word": "giraffe",
+   "translit": null
+  },
+  "im01-05": {
+   "word": "monkey",
+   "translit": null
+  },
+  "im01-06": {
+   "word": "zebra",
+   "translit": null
+  },
+  "im01-07": {
+   "word": "hippo",
+   "translit": null
+  },
+  "im01-08": {
+   "word": "rhino",
+   "translit": null
+  },
+  "im01-09": {
+   "word": "crocodile",
+   "translit": null
+  },
+  "im01-10": {
+   "word": "bear",
+   "translit": null
+  },
+  "im02-01": {
+   "word": "cow",
+   "translit": null
+  },
+  "im02-02": {
+   "word": "pig",
+   "translit": null
+  },
+  "im02-03": {
+   "word": "sheep",
+   "translit": null
+  },
+  "im02-04": {
+   "word": "goat",
+   "translit": null
+  },
+  "im02-05": {
+   "word": "hen",
+   "translit": null
+  },
+  "im02-06": {
+   "word": "rooster",
+   "translit": null
+  },
+  "im02-07": {
+   "word": "horse",
+   "translit": null
+  },
+  "im02-08": {
+   "word": "ox",
+   "translit": null
+  },
+  "im02-09": {
+   "word": "turkey",
+   "translit": null
+  },
+  "im02-10": {
+   "word": "duck",
+   "translit": null
+  },
+  "im03-01": {
+   "word": "dog",
+   "translit": null
+  },
+  "im03-02": {
+   "word": "cat",
+   "translit": null
+  },
+  "im03-03": {
+   "word": "hamster",
+   "translit": null
+  },
+  "im03-04": {
+   "word": "rabbit",
+   "translit": null
+  },
+  "im03-05": {
+   "word": "turtle",
+   "translit": null
+  },
+  "im03-06": {
+   "word": "fish",
+   "translit": null
+  },
+  "im03-07": {
+   "word": "mouse",
+   "translit": null
+  },
+  "im03-08": {
+   "word": "lizard",
+   "translit": null
+  },
+  "im03-09": {
+   "word": "snake",
+   "translit": null
+  },
+  "im03-10": {
+   "word": "frog",
+   "translit": null
+  },
+  "im04-01": {
+   "word": "apple",
+   "translit": null
+  },
+  "im04-02": {
+   "word": "banana",
+   "translit": null
+  },
+  "im04-03": {
+   "word": "tangerine",
+   "translit": null
+  },
+  "im04-04": {
+   "word": "grapes",
+   "translit": null
+  },
+  "im04-05": {
+   "word": "strawberry",
+   "translit": null
+  },
+  "im04-06": {
+   "word": "watermelon",
+   "translit": null
+  },
+  "im04-07": {
+   "word": "pineapple",
+   "translit": null
+  },
+  "im04-08": {
+   "word": "cherry",
+   "translit": null
+  },
+  "im04-09": {
+   "word": "peach",
+   "translit": null
+  },
+  "im04-10": {
+   "word": "pear",
+   "translit": null
+  },
+  "im05-01": {
+   "word": "bread",
+   "translit": null
+  },
+  "im05-02": {
+   "word": "cheese",
+   "translit": null
+  },
+  "im05-03": {
+   "word": "egg",
+   "translit": null
+  },
+  "im05-04": {
+   "word": "rice",
+   "translit": null
+  },
+  "im05-05": {
+   "word": "pasta",
+   "translit": null
+  },
+  "im05-06": {
+   "word": "pizza",
+   "translit": null
+  },
+  "im05-07": {
+   "word": "hamburger",
+   "translit": null
+  },
+  "im05-08": {
+   "word": "french fries",
+   "translit": null
+  },
+  "im05-09": {
+   "word": "meat",
+   "translit": null
+  },
+  "im05-10": {
+   "word": "chicken",
+   "translit": null
+  },
+  "im06-01": {
+   "word": "red",
+   "translit": null
+  },
+  "im06-02": {
+   "word": "orange",
+   "translit": null
+  },
+  "im06-03": {
+   "word": "yellow",
+   "translit": null
+  },
+  "im06-04": {
+   "word": "green",
+   "translit": null
+  },
+  "im06-05": {
+   "word": "blue",
+   "translit": null
+  },
+  "im06-06": {
+   "word": "purple",
+   "translit": null
+  },
+  "im06-07": {
+   "word": "brown",
+   "translit": null
+  },
+  "im06-08": {
+   "word": "black",
+   "translit": null
+  },
+  "im06-09": {
+   "word": "white",
+   "translit": null
+  },
+  "im06-10": {
+   "word": "pink",
+   "translit": null
+  },
+  "im07-01": {
+   "word": "eye",
+   "translit": null
+  },
+  "im07-02": {
+   "word": "nose",
+   "translit": null
+  },
+  "im07-03": {
+   "word": "mouth",
+   "translit": null
+  },
+  "im07-04": {
+   "word": "ear",
+   "translit": null
+  },
+  "im07-05": {
+   "word": "hand",
+   "translit": null
+  },
+  "im07-06": {
+   "word": "foot",
+   "translit": null
+  },
+  "im07-07": {
+   "word": "leg",
+   "translit": null
+  },
+  "im07-08": {
+   "word": "tooth",
+   "translit": null
+  },
+  "im07-09": {
+   "word": "tongue",
+   "translit": null
+  },
+  "im07-10": {
+   "word": "brain",
+   "translit": null
+  },
+  "im08-01": {
+   "word": "t-shirt",
+   "translit": null
+  },
+  "im08-02": {
+   "word": "pants",
+   "translit": null
+  },
+  "im08-03": {
+   "word": "dress",
+   "translit": null
+  },
+  "im08-04": {
+   "word": "coat",
+   "translit": null
+  },
+  "im08-05": {
+   "word": "sock",
+   "translit": null
+  },
+  "im08-06": {
+   "word": "sneaker",
+   "translit": null
+  },
+  "im08-07": {
+   "word": "shoe",
+   "translit": null
+  },
+  "im08-08": {
+   "word": "cap",
+   "translit": null
+  },
+  "im08-09": {
+   "word": "scarf",
+   "translit": null
+  },
+  "im08-10": {
+   "word": "gloves",
+   "translit": null
+  },
+  "im09-01": {
+   "word": "bed",
+   "translit": null
+  },
+  "im09-02": {
+   "word": "door",
+   "translit": null
+  },
+  "im09-03": {
+   "word": "window",
+   "translit": null
+  },
+  "im09-04": {
+   "word": "sofa",
+   "translit": null
+  },
+  "im09-05": {
+   "word": "shower",
+   "translit": null
+  },
+  "im09-06": {
+   "word": "toilet",
+   "translit": null
+  },
+  "im09-07": {
+   "word": "key",
+   "translit": null
+  },
+  "im09-08": {
+   "word": "light bulb",
+   "translit": null
+  },
+  "im09-09": {
+   "word": "television",
+   "translit": null
+  },
+  "im09-10": {
+   "word": "alarm clock",
+   "translit": null
+  },
+  "im10-01": {
+   "word": "car",
+   "translit": null
+  },
+  "im10-02": {
+   "word": "bus",
+   "translit": null
+  },
+  "im10-03": {
+   "word": "bicycle",
+   "translit": null
+  },
+  "im10-04": {
+   "word": "airplane",
+   "translit": null
+  },
+  "im10-05": {
+   "word": "train",
+   "translit": null
+  },
+  "im10-06": {
+   "word": "ship",
+   "translit": null
+  },
+  "im10-07": {
+   "word": "helicopter",
+   "translit": null
+  },
+  "im10-08": {
+   "word": "motorcycle",
+   "translit": null
+  },
+  "im10-09": {
+   "word": "ambulance",
+   "translit": null
+  },
+  "im10-10": {
+   "word": "truck",
+   "translit": null
+  },
+  "im11-01": {
+   "word": "eagle",
+   "translit": null
+  },
+  "im11-02": {
+   "word": "penguin",
+   "translit": null
+  },
+  "im11-03": {
+   "word": "owl",
+   "translit": null
+  },
+  "im11-04": {
+   "word": "swan",
+   "translit": null
+  },
+  "im11-05": {
+   "word": "flamingo",
+   "translit": null
+  },
+  "im11-06": {
+   "word": "dove",
+   "translit": null
+  },
+  "im11-07": {
+   "word": "peacock",
+   "translit": null
+  },
+  "im11-08": {
+   "word": "chick",
+   "translit": null
+  },
+  "im11-09": {
+   "word": "parrot",
+   "translit": null
+  },
+  "im11-10": {
+   "word": "bird",
+   "translit": null
+  },
+  "im12-01": {
+   "word": "tree",
+   "translit": null
+  },
+  "im12-02": {
+   "word": "sunflower",
+   "translit": null
+  },
+  "im12-03": {
+   "word": "cactus",
+   "translit": null
+  },
+  "im12-04": {
+   "word": "palm tree",
+   "translit": null
+  },
+  "im12-05": {
+   "word": "tulip",
+   "translit": null
+  },
+  "im12-06": {
+   "word": "mountain",
+   "translit": null
+  },
+  "im12-07": {
+   "word": "wave",
+   "translit": null
+  },
+  "im12-08": {
+   "word": "volcano",
+   "translit": null
+  },
+  "im12-09": {
+   "word": "island",
+   "translit": null
+  },
+  "im12-10": {
+   "word": "desert",
+   "translit": null
+  },
+  "im13-01": {
+   "word": "sun",
+   "translit": null
+  },
+  "im13-02": {
+   "word": "moon",
+   "translit": null
+  },
+  "im13-03": {
+   "word": "star",
+   "translit": null
+  },
+  "im13-04": {
+   "word": "cloud",
+   "translit": null
+  },
+  "im13-05": {
+   "word": "rain",
+   "translit": null
+  },
+  "im13-06": {
+   "word": "snowflake",
+   "translit": null
+  },
+  "im13-07": {
+   "word": "rainbow",
+   "translit": null
+  },
+  "im13-08": {
+   "word": "lightning",
+   "translit": null
+  },
+  "im13-09": {
+   "word": "tornado",
+   "translit": null
+  },
+  "im13-10": {
+   "word": "umbrella",
+   "translit": null
+  },
+  "im14-01": {
+   "word": "bee",
+   "translit": null
+  },
+  "im14-02": {
+   "word": "butterfly",
+   "translit": null
+  },
+  "im14-03": {
+   "word": "ant",
+   "translit": null
+  },
+  "im14-04": {
+   "word": "ladybug",
+   "translit": null
+  },
+  "im14-05": {
+   "word": "caterpillar",
+   "translit": null
+  },
+  "im14-06": {
+   "word": "cricket",
+   "translit": null
+  },
+  "im14-07": {
+   "word": "spider",
+   "translit": null
+  },
+  "im14-08": {
+   "word": "scorpion",
+   "translit": null
+  },
+  "im14-09": {
+   "word": "mosquito",
+   "translit": null
+  },
+  "im14-10": {
+   "word": "snail",
+   "translit": null
+  },
+  "im15-01": {
+   "word": "dolphin",
+   "translit": null
+  },
+  "im15-02": {
+   "word": "whale",
+   "translit": null
+  },
+  "im15-03": {
+   "word": "shark",
+   "translit": null
+  },
+  "im15-04": {
+   "word": "octopus",
+   "translit": null
+  },
+  "im15-05": {
+   "word": "crab",
+   "translit": null
+  },
+  "im15-06": {
+   "word": "lobster",
+   "translit": null
+  },
+  "im15-07": {
+   "word": "shrimp",
+   "translit": null
+  },
+  "im15-08": {
+   "word": "pufferfish",
+   "translit": null
+  },
+  "im15-09": {
+   "word": "squid",
+   "translit": null
+  },
+  "im15-10": {
+   "word": "seashell",
+   "translit": null
+  },
+  "im16-01": {
+   "word": "mango",
+   "translit": null
+  },
+  "im16-02": {
+   "word": "coconut",
+   "translit": null
+  },
+  "im16-03": {
+   "word": "kiwi",
+   "translit": null
+  },
+  "im16-04": {
+   "word": "lemon",
+   "translit": null
+  },
+  "im16-05": {
+   "word": "melon",
+   "translit": null
+  },
+  "im16-06": {
+   "word": "avocado",
+   "translit": null
+  },
+  "im16-07": {
+   "word": "peanut",
+   "translit": null
+  },
+  "im16-08": {
+   "word": "chestnut",
+   "translit": null
+  },
+  "im16-09": {
+   "word": "tomato",
+   "translit": null
+  },
+  "im16-10": {
+   "word": "cucumber",
+   "translit": null
+  },
+  "im17-01": {
+   "word": "carrot",
+   "translit": null
+  },
+  "im17-02": {
+   "word": "corn",
+   "translit": null
+  },
+  "im17-03": {
+   "word": "potato",
+   "translit": null
+  },
+  "im17-04": {
+   "word": "eggplant",
+   "translit": null
+  },
+  "im17-05": {
+   "word": "broccoli",
+   "translit": null
+  },
+  "im17-06": {
+   "word": "lettuce",
+   "translit": null
+  },
+  "im17-07": {
+   "word": "onion",
+   "translit": null
+  },
+  "im17-08": {
+   "word": "garlic",
+   "translit": null
+  },
+  "im17-09": {
+   "word": "chili pepper",
+   "translit": null
+  },
+  "im17-10": {
+   "word": "mushroom",
+   "translit": null
+  },
+  "im18-01": {
+   "word": "coffee",
+   "translit": null
+  },
+  "im18-02": {
+   "word": "milk",
+   "translit": null
+  },
+  "im18-03": {
+   "word": "juice",
+   "translit": null
+  },
+  "im18-04": {
+   "word": "beer",
+   "translit": null
+  },
+  "im18-05": {
+   "word": "wine",
+   "translit": null
+  },
+  "im18-06": {
+   "word": "chocolate",
+   "translit": null
+  },
+  "im18-07": {
+   "word": "ice cream",
+   "translit": null
+  },
+  "im18-08": {
+   "word": "cake",
+   "translit": null
+  },
+  "im18-09": {
+   "word": "cookie",
+   "translit": null
+  },
+  "im18-10": {
+   "word": "donut",
+   "translit": null
+  },
+  "im19-01": {
+   "word": "cell phone",
+   "translit": null
+  },
+  "im19-02": {
+   "word": "watch",
+   "translit": null
+  },
+  "im19-03": {
+   "word": "glasses",
+   "translit": null
+  },
+  "im19-04": {
+   "word": "backpack",
+   "translit": null
+  },
+  "im19-05": {
+   "word": "scissors",
+   "translit": null
+  },
+  "im19-06": {
+   "word": "flashlight",
+   "translit": null
+  },
+  "im19-07": {
+   "word": "camera",
+   "translit": null
+  },
+  "im19-08": {
+   "word": "battery",
+   "translit": null
+  },
+  "im19-09": {
+   "word": "teddy bear",
+   "translit": null
+  },
+  "im19-10": {
+   "word": "magnet",
+   "translit": null
+  },
+  "im20-01": {
+   "word": "book",
+   "translit": null
+  },
+  "im20-02": {
+   "word": "pencil",
+   "translit": null
+  },
+  "im20-03": {
+   "word": "pen",
+   "translit": null
+  },
+  "im20-04": {
+   "word": "notebook",
+   "translit": null
+  },
+  "im20-05": {
+   "word": "ruler",
+   "translit": null
+  },
+  "im20-06": {
+   "word": "paper clip",
+   "translit": null
+  },
+  "im20-07": {
+   "word": "set square",
+   "translit": null
+  },
+  "im20-08": {
+   "word": "abacus",
+   "translit": null
+  },
+  "im20-09": {
+   "word": "school",
+   "translit": null
+  },
+  "im20-10": {
+   "word": "palette",
+   "translit": null
+  },
+  "im21-01": {
+   "word": "soccer ball",
+   "translit": null
+  },
+  "im21-02": {
+   "word": "basketball",
+   "translit": null
+  },
+  "im21-03": {
+   "word": "tennis ball",
+   "translit": null
+  },
+  "im21-04": {
+   "word": "volleyball",
+   "translit": null
+  },
+  "im21-05": {
+   "word": "ping-pong",
+   "translit": null
+  },
+  "im21-06": {
+   "word": "boxing glove",
+   "translit": null
+  },
+  "im21-07": {
+   "word": "bowling",
+   "translit": null
+  },
+  "im21-08": {
+   "word": "bow and arrow",
+   "translit": null
+  },
+  "im21-09": {
+   "word": "skateboard",
+   "translit": null
+  },
+  "im21-10": {
+   "word": "ice skate",
+   "translit": null
+  },
+  "im22-01": {
+   "word": "plate",
+   "translit": null
+  },
+  "im22-02": {
+   "word": "spoon",
+   "translit": null
+  },
+  "im22-03": {
+   "word": "knife",
+   "translit": null
+  },
+  "im22-04": {
+   "word": "frying pan",
+   "translit": null
+  },
+  "im22-05": {
+   "word": "bowl",
+   "translit": null
+  },
+  "im22-06": {
+   "word": "chopsticks",
+   "translit": null
+  },
+  "im22-07": {
+   "word": "salt",
+   "translit": null
+  },
+  "im22-08": {
+   "word": "can",
+   "translit": null
+  },
+  "im22-09": {
+   "word": "cup",
+   "translit": null
+  },
+  "im22-10": {
+   "word": "ice",
+   "translit": null
+  },
+  "im23-01": {
+   "word": "toothbrush",
+   "translit": null
+  },
+  "im23-02": {
+   "word": "soap",
+   "translit": null
+  },
+  "im23-03": {
+   "word": "toilet paper",
+   "translit": null
+  },
+  "im23-04": {
+   "word": "razor",
+   "translit": null
+  },
+  "im23-05": {
+   "word": "bathtub",
+   "translit": null
+  },
+  "im23-06": {
+   "word": "sponge",
+   "translit": null
+  },
+  "im23-07": {
+   "word": "broom",
+   "translit": null
+  },
+  "im23-08": {
+   "word": "bucket",
+   "translit": null
+  },
+  "im23-09": {
+   "word": "mirror",
+   "translit": null
+  },
+  "im23-10": {
+   "word": "laundry basket",
+   "translit": null
+  },
+  "im24-01": {
+   "word": "chair",
+   "translit": null
+  },
+  "im24-02": {
+   "word": "picture frame",
+   "translit": null
+  },
+  "im24-03": {
+   "word": "candle",
+   "translit": null
+  },
+  "im24-04": {
+   "word": "suitcase",
+   "translit": null
+  },
+  "im24-05": {
+   "word": "padlock",
+   "translit": null
+  },
+  "im24-06": {
+   "word": "trash can",
+   "translit": null
+  },
+  "im24-07": {
+   "word": "ladder",
+   "translit": null
+  },
+  "im24-08": {
+   "word": "radio",
+   "translit": null
+  },
+  "im24-09": {
+   "word": "bell",
+   "translit": null
+  },
+  "im24-10": {
+   "word": "fire extinguisher",
+   "translit": null
+  },
+  "im25-01": {
+   "word": "hammer",
+   "translit": null
+  },
+  "im25-02": {
+   "word": "axe",
+   "translit": null
+  },
+  "im25-03": {
+   "word": "wrench",
+   "translit": null
+  },
+  "im25-04": {
+   "word": "screwdriver",
+   "translit": null
+  },
+  "im25-05": {
+   "word": "saw",
+   "translit": null
+  },
+  "im25-06": {
+   "word": "pickaxe",
+   "translit": null
+  },
+  "im25-07": {
+   "word": "toolbox",
+   "translit": null
+  },
+  "im25-08": {
+   "word": "screw",
+   "translit": null
+  },
+  "im25-09": {
+   "word": "gear",
+   "translit": null
+  },
+  "im25-10": {
+   "word": "chain",
+   "translit": null
+  },
+  "im26-01": {
+   "word": "hospital",
+   "translit": null
+  },
+  "im26-02": {
+   "word": "bank",
+   "translit": null
+  },
+  "im26-03": {
+   "word": "church",
+   "translit": null
+  },
+  "im26-04": {
+   "word": "hotel",
+   "translit": null
+  },
+  "im26-05": {
+   "word": "factory",
+   "translit": null
+  },
+  "im26-06": {
+   "word": "gas station",
+   "translit": null
+  },
+  "im26-07": {
+   "word": "traffic light",
+   "translit": null
+  },
+  "im26-08": {
+   "word": "bridge",
+   "translit": null
+  },
+  "im26-09": {
+   "word": "stadium",
+   "translit": null
+  },
+  "im26-10": {
+   "word": "store",
+   "translit": null
+  },
+  "im27-01": {
+   "word": "laptop",
+   "translit": null
+  },
+  "im27-02": {
+   "word": "keyboard",
+   "translit": null
+  },
+  "im27-03": {
+   "word": "computer mouse",
+   "translit": null
+  },
+  "im27-04": {
+   "word": "printer",
+   "translit": null
+  },
+  "im27-05": {
+   "word": "floppy disk",
+   "translit": null
+  },
+  "im27-06": {
+   "word": "headphones",
+   "translit": null
+  },
+  "im27-07": {
+   "word": "microphone",
+   "translit": null
+  },
+  "im27-08": {
+   "word": "antenna",
+   "translit": null
+  },
+  "im27-09": {
+   "word": "plug",
+   "translit": null
+  },
+  "im27-10": {
+   "word": "joystick",
+   "translit": null
+  },
+  "im28-01": {
+   "word": "guitar",
+   "translit": null
+  },
+  "im28-02": {
+   "word": "piano",
+   "translit": null
+  },
+  "im28-03": {
+   "word": "trumpet",
+   "translit": null
+  },
+  "im28-04": {
+   "word": "violin",
+   "translit": null
+  },
+  "im28-05": {
+   "word": "drums",
+   "translit": null
+  },
+  "im28-06": {
+   "word": "saxophone",
+   "translit": null
+  },
+  "im28-07": {
+   "word": "banjo",
+   "translit": null
+  },
+  "im28-08": {
+   "word": "accordion",
+   "translit": null
+  },
+  "im28-09": {
+   "word": "sheet music",
+   "translit": null
+  },
+  "im28-10": {
+   "word": "musical note",
+   "translit": null
+  },
+  "im29-01": {
+   "word": "dice",
+   "translit": null
+  },
+  "im29-02": {
+   "word": "puzzle",
+   "translit": null
+  },
+  "im29-03": {
+   "word": "target",
+   "translit": null
+  },
+  "im29-04": {
+   "word": "chess",
+   "translit": null
+  },
+  "im29-05": {
+   "word": "video game",
+   "translit": null
+  },
+  "im29-06": {
+   "word": "ferris wheel",
+   "translit": null
+  },
+  "im29-07": {
+   "word": "roller coaster",
+   "translit": null
+  },
+  "im29-08": {
+   "word": "balloon",
+   "translit": null
+  },
+  "im29-09": {
+   "word": "kite",
+   "translit": null
+  },
+  "im29-10": {
+   "word": "carousel",
+   "translit": null
+  },
+  "im30-01": {
+   "word": "gift",
+   "translit": null
+  },
+  "im30-02": {
+   "word": "birthday cake",
+   "translit": null
+  },
+  "im30-03": {
+   "word": "Christmas tree",
+   "translit": null
+  },
+  "im30-04": {
+   "word": "pumpkin",
+   "translit": null
+  },
+  "im30-05": {
+   "word": "fireworks",
+   "translit": null
+  },
+  "im30-06": {
+   "word": "paper lantern",
+   "translit": null
+  },
+  "im30-07": {
+   "word": "Santa Claus",
+   "translit": null
+  },
+  "im30-08": {
+   "word": "piñata",
+   "translit": null
+  },
+  "im30-09": {
+   "word": "ribbon",
+   "translit": null
+  },
+  "im30-10": {
+   "word": "champagne",
+   "translit": null
+  },
+  "im31-01": {
+   "word": "stethoscope",
+   "translit": null
+  },
+  "im31-02": {
+   "word": "syringe",
+   "translit": null
+  },
+  "im31-03": {
+   "word": "pill",
+   "translit": null
+  },
+  "im31-04": {
+   "word": "bandage",
+   "translit": null
+  },
+  "im31-05": {
+   "word": "thermometer",
+   "translit": null
+  },
+  "im31-06": {
+   "word": "wheelchair",
+   "translit": null
+  },
+  "im31-07": {
+   "word": "cane",
+   "translit": null
+  },
+  "im31-08": {
+   "word": "germ",
+   "translit": null
+  },
+  "im31-09": {
+   "word": "bone",
+   "translit": null
+  },
+  "im31-10": {
+   "word": "DNA",
+   "translit": null
+  },
+  "im32-01": {
+   "word": "microscope",
+   "translit": null
+  },
+  "im32-02": {
+   "word": "telescope",
+   "translit": null
+  },
+  "im32-03": {
+   "word": "test tube",
+   "translit": null
+  },
+  "im32-04": {
+   "word": "alembic",
+   "translit": null
+  },
+  "im32-05": {
+   "word": "petri dish",
+   "translit": null
+  },
+  "im32-06": {
+   "word": "scale",
+   "translit": null
+  },
+  "im32-07": {
+   "word": "compass",
+   "translit": null
+  },
+  "im32-08": {
+   "word": "magnifying glass",
+   "translit": null
+  },
+  "im32-09": {
+   "word": "hourglass",
+   "translit": null
+  },
+  "im32-10": {
+   "word": "atom",
+   "translit": null
+  },
+  "im33-01": {
+   "word": "folder",
+   "translit": null
+  },
+  "im33-02": {
+   "word": "calendar",
+   "translit": null
+  },
+  "im33-03": {
+   "word": "chart",
+   "translit": null
+  },
+  "im33-04": {
+   "word": "envelope",
+   "translit": null
+  },
+  "im33-05": {
+   "word": "mailbox",
+   "translit": null
+  },
+  "im33-06": {
+   "word": "package",
+   "translit": null
+  },
+  "im33-07": {
+   "word": "newspaper",
+   "translit": null
+  },
+  "im33-08": {
+   "word": "credit card",
+   "translit": null
+  },
+  "im33-09": {
+   "word": "coin",
+   "translit": null
+  },
+  "im33-10": {
+   "word": "scroll",
+   "translit": null
+  },
+  "im34-01": {
+   "word": "house",
+   "translit": null
+  },
+  "im34-02": {
+   "word": "building",
+   "translit": null
+  },
+  "im34-03": {
+   "word": "brick",
+   "translit": null
+  },
+  "im34-04": {
+   "word": "crane",
+   "translit": null
+  },
+  "im34-05": {
+   "word": "hut",
+   "translit": null
+  },
+  "im34-06": {
+   "word": "tent",
+   "translit": null
+  },
+  "im34-07": {
+   "word": "construction",
+   "translit": null
+  },
+  "im34-08": {
+   "word": "castle",
+   "translit": null
+  },
+  "im34-09": {
+   "word": "fountain",
+   "translit": null
+  },
+  "im34-10": {
+   "word": "moai",
+   "translit": null
+  },
+  "im35-01": {
+   "word": "planet",
+   "translit": null
+  },
+  "im35-02": {
+   "word": "Earth",
+   "translit": null
+  },
+  "im35-03": {
+   "word": "full moon",
+   "translit": null
+  },
+  "im35-04": {
+   "word": "comet",
+   "translit": null
+  },
+  "im35-05": {
+   "word": "rocket",
+   "translit": null
+  },
+  "im35-06": {
+   "word": "satellite",
+   "translit": null
+  },
+  "im35-07": {
+   "word": "flying saucer",
+   "translit": null
+  },
+  "im35-08": {
+   "word": "alien",
+   "translit": null
+  },
+  "im35-09": {
+   "word": "shooting star",
+   "translit": null
+  },
+  "im35-10": {
+   "word": "galaxy",
+   "translit": null
+  },
+  "im36-01": {
+   "word": "sailboat",
+   "translit": null
+  },
+  "im36-02": {
+   "word": "canoe",
+   "translit": null
+  },
+  "im36-03": {
+   "word": "speedboat",
+   "translit": null
+  },
+  "im36-04": {
+   "word": "taxi",
+   "translit": null
+  },
+  "im36-05": {
+   "word": "scooter",
+   "translit": null
+  },
+  "im36-06": {
+   "word": "tractor",
+   "translit": null
+  },
+  "im36-07": {
+   "word": "subway",
+   "translit": null
+  },
+  "im36-08": {
+   "word": "kick scooter",
+   "translit": null
+  },
+  "im36-09": {
+   "word": "parachute",
+   "translit": null
+  },
+  "im36-10": {
+   "word": "police car",
+   "translit": null
+  },
+  "im37-01": {
+   "word": "sushi",
+   "translit": null
+  },
+  "im37-02": {
+   "word": "ramen",
+   "translit": null
+  },
+  "im37-03": {
+   "word": "paella",
+   "translit": null
+  },
+  "im37-04": {
+   "word": "curry",
+   "translit": null
+  },
+  "im37-05": {
+   "word": "dumpling",
+   "translit": null
+  },
+  "im37-06": {
+   "word": "bento",
+   "translit": null
+  },
+  "im37-07": {
+   "word": "rice ball",
+   "translit": null
+  },
+  "im37-08": {
+   "word": "falafel",
+   "translit": null
+  },
+  "im37-09": {
+   "word": "salad",
+   "translit": null
+  },
+  "im37-10": {
+   "word": "stew",
+   "translit": null
+  },
+  "im38-01": {
+   "word": "croissant",
+   "translit": null
+  },
+  "im38-02": {
+   "word": "pretzel",
+   "translit": null
+  },
+  "im38-03": {
+   "word": "bagel",
+   "translit": null
+  },
+  "im38-04": {
+   "word": "pancakes",
+   "translit": null
+  },
+  "im38-05": {
+   "word": "waffle",
+   "translit": null
+  },
+  "im38-06": {
+   "word": "taco",
+   "translit": null
+  },
+  "im38-07": {
+   "word": "burrito",
+   "translit": null
+  },
+  "im38-08": {
+   "word": "sandwich",
+   "translit": null
+  },
+  "im38-09": {
+   "word": "popcorn",
+   "translit": null
+  },
+  "im38-10": {
+   "word": "hot dog",
+   "translit": null
+  },
+  "im39-01": {
+   "word": "custard",
+   "translit": null
+  },
+  "im39-02": {
+   "word": "pie",
+   "translit": null
+  },
+  "im39-03": {
+   "word": "cupcake",
+   "translit": null
+  },
+  "im39-04": {
+   "word": "candy",
+   "translit": null
+  },
+  "im39-05": {
+   "word": "lollipop",
+   "translit": null
+  },
+  "im39-06": {
+   "word": "honey",
+   "translit": null
+  },
+  "im39-07": {
+   "word": "shaved ice",
+   "translit": null
+  },
+  "im39-08": {
+   "word": "fortune cookie",
+   "translit": null
+  },
+  "im39-09": {
+   "word": "butter",
+   "translit": null
+  },
+  "im39-10": {
+   "word": "dango",
+   "translit": null
+  },
+  "im40-01": {
+   "word": "tea",
+   "translit": null
+  },
+  "im40-02": {
+   "word": "cocktail",
+   "translit": null
+  },
+  "im40-03": {
+   "word": "sake",
+   "translit": null
+  },
+  "im40-04": {
+   "word": "whiskey",
+   "translit": null
+  },
+  "im40-05": {
+   "word": "mate",
+   "translit": null
+  },
+  "im40-06": {
+   "word": "bubble tea",
+   "translit": null
+  },
+  "im40-07": {
+   "word": "tropical drink",
+   "translit": null
+  },
+  "im40-08": {
+   "word": "baby bottle",
+   "translit": null
+  },
+  "im40-09": {
+   "word": "drop",
+   "translit": null
+  },
+  "im40-10": {
+   "word": "toast",
+   "translit": null
+  },
+  "im41-01": {
+   "word": "wolf",
+   "translit": null
+  },
+  "im41-02": {
+   "word": "fox",
+   "translit": null
+  },
+  "im41-03": {
+   "word": "deer",
+   "translit": null
+  },
+  "im41-04": {
+   "word": "squirrel",
+   "translit": null
+  },
+  "im41-05": {
+   "word": "wild boar",
+   "translit": null
+  },
+  "im41-06": {
+   "word": "badger",
+   "translit": null
+  },
+  "im41-07": {
+   "word": "raccoon",
+   "translit": null
+  },
+  "im41-08": {
+   "word": "bat",
+   "translit": null
+  },
+  "im41-09": {
+   "word": "hedgehog",
+   "translit": null
+  },
+  "im41-10": {
+   "word": "skunk",
+   "translit": null
+  },
+  "im42-01": {
+   "word": "kangaroo",
+   "translit": null
+  },
+  "im42-02": {
+   "word": "koala",
+   "translit": null
+  },
+  "im42-03": {
+   "word": "panda",
+   "translit": null
+  },
+  "im42-04": {
+   "word": "camel",
+   "translit": null
+  },
+  "im42-05": {
+   "word": "llama",
+   "translit": null
+  },
+  "im42-06": {
+   "word": "sloth",
+   "translit": null
+  },
+  "im42-07": {
+   "word": "gorilla",
+   "translit": null
+  },
+  "im42-08": {
+   "word": "orangutan",
+   "translit": null
+  },
+  "im42-09": {
+   "word": "leopard",
+   "translit": null
+  },
+  "im42-10": {
+   "word": "bison",
+   "translit": null
+  },
+  "im43-01": {
+   "word": "T. rex",
+   "translit": null
+  },
+  "im43-02": {
+   "word": "brachiosaurus",
+   "translit": null
+  },
+  "im43-03": {
+   "word": "mammoth",
+   "translit": null
+  },
+  "im43-04": {
+   "word": "seal",
+   "translit": null
+  },
+  "im43-05": {
+   "word": "otter",
+   "translit": null
+  },
+  "im43-06": {
+   "word": "buffalo",
+   "translit": null
+  },
+  "im43-07": {
+   "word": "beaver",
+   "translit": null
+  },
+  "im43-08": {
+   "word": "ram",
+   "translit": null
+  },
+  "im43-09": {
+   "word": "poodle",
+   "translit": null
+  },
+  "im43-10": {
+   "word": "guide dog",
+   "translit": null
+  },
+  "im44-01": {
+   "word": "pine tree",
+   "translit": null
+  },
+  "im44-02": {
+   "word": "wheat",
+   "translit": null
+  },
+  "im44-03": {
+   "word": "clover",
+   "translit": null
+  },
+  "im44-04": {
+   "word": "sprout",
+   "translit": null
+  },
+  "im44-05": {
+   "word": "bouquet",
+   "translit": null
+  },
+  "im44-06": {
+   "word": "cherry blossom",
+   "translit": null
+  },
+  "im44-07": {
+   "word": "daisy",
+   "translit": null
+  },
+  "im44-08": {
+   "word": "hibiscus",
+   "translit": null
+  },
+  "im44-09": {
+   "word": "dry leaf",
+   "translit": null
+  },
+  "im44-10": {
+   "word": "wilted flower",
+   "translit": null
+  },
+  "im45-01": {
+   "word": "necktie",
+   "translit": null
+  },
+  "im45-02": {
+   "word": "blouse",
+   "translit": null
+  },
+  "im45-03": {
+   "word": "kimono",
+   "translit": null
+  },
+  "im45-04": {
+   "word": "bikini",
+   "translit": null
+  },
+  "im45-05": {
+   "word": "shorts",
+   "translit": null
+  },
+  "im45-06": {
+   "word": "high heels",
+   "translit": null
+  },
+  "im45-07": {
+   "word": "boot",
+   "translit": null
+  },
+  "im45-08": {
+   "word": "flip-flop",
+   "translit": null
+  },
+  "im45-09": {
+   "word": "hat",
+   "translit": null
+  },
+  "im45-10": {
+   "word": "lab coat",
+   "translit": null
+  },
+  "im46-01": {
+   "word": "ring",
+   "translit": null
+  },
+  "im46-02": {
+   "word": "diamond",
+   "translit": null
+  },
+  "im46-03": {
+   "word": "handbag",
+   "translit": null
+  },
+  "im46-04": {
+   "word": "coin purse",
+   "translit": null
+  },
+  "im46-05": {
+   "word": "top hat",
+   "translit": null
+  },
+  "im46-06": {
+   "word": "sunglasses",
+   "translit": null
+  },
+  "im46-07": {
+   "word": "graduation cap",
+   "translit": null
+  },
+  "im46-08": {
+   "word": "lipstick",
+   "translit": null
+  },
+  "im46-09": {
+   "word": "bead necklace",
+   "translit": null
+  },
+  "im46-10": {
+   "word": "vest",
+   "translit": null
+  },
+  "im47-01": {
+   "word": "trophy",
+   "translit": null
+  },
+  "im47-02": {
+   "word": "medal",
+   "translit": null
+  },
+  "im47-03": {
+   "word": "fishing rod",
+   "translit": null
+  },
+  "im47-04": {
+   "word": "skis",
+   "translit": null
+  },
+  "im47-05": {
+   "word": "sled",
+   "translit": null
+  },
+  "im47-06": {
+   "word": "badminton racket",
+   "translit": null
+  },
+  "im47-07": {
+   "word": "goal",
+   "translit": null
+  },
+  "im47-08": {
+   "word": "golf flag",
+   "translit": null
+  },
+  "im47-09": {
+   "word": "yo-yo",
+   "translit": null
+  },
+  "im47-10": {
+   "word": "diving mask",
+   "translit": null
+  },
+  "im48-01": {
+   "word": "clapperboard",
+   "translit": null
+  },
+  "im48-02": {
+   "word": "video camera",
+   "translit": null
+  },
+  "im48-03": {
+   "word": "theater",
+   "translit": null
+  },
+  "im48-04": {
+   "word": "circus",
+   "translit": null
+  },
+  "im48-05": {
+   "word": "film reel",
+   "translit": null
+  },
+  "im48-06": {
+   "word": "projector",
+   "translit": null
+  },
+  "im48-07": {
+   "word": "karaoke",
+   "translit": null
+  },
+  "im48-08": {
+   "word": "ticket",
+   "translit": null
+  },
+  "im48-09": {
+   "word": "paintbrush",
+   "translit": null
+  },
+  "im48-10": {
+   "word": "post horn",
+   "translit": null
+  },
+  "im49-01": {
+   "word": "shield",
+   "translit": null
+  },
+  "im49-02": {
+   "word": "swords",
+   "translit": null
+  },
+  "im49-03": {
+   "word": "dagger",
+   "translit": null
+  },
+  "im49-04": {
+   "word": "dragon",
+   "translit": null
+  },
+  "im49-05": {
+   "word": "unicorn",
+   "translit": null
+  },
+  "im49-06": {
+   "word": "magic wand",
+   "translit": null
+  },
+  "im49-07": {
+   "word": "crystal ball",
+   "translit": null
+  },
+  "im49-08": {
+   "word": "crown",
+   "translit": null
+  },
+  "im49-09": {
+   "word": "wizard",
+   "translit": null
+  },
+  "im49-10": {
+   "word": "fairy",
+   "translit": null
+  },
+  "im50-01": {
+   "word": "amphora",
+   "translit": null
+  },
+  "im50-02": {
+   "word": "anchor",
+   "translit": null
+  },
+  "im50-03": {
+   "word": "stone",
+   "translit": null
+  },
+  "im50-04": {
+   "word": "log",
+   "translit": null
+  },
+  "im50-05": {
+   "word": "telephone",
+   "translit": null
+  },
+  "im50-06": {
+   "word": "fax machine",
+   "translit": null
+  },
+  "im50-07": {
+   "word": "cassette tape",
+   "translit": null
+  },
+  "im50-08": {
+   "word": "megaphone",
+   "translit": null
+  },
+  "im50-09": {
+   "word": "antique key",
+   "translit": null
+  },
+  "im50-10": {
+   "word": "oil barrel",
+   "translit": null
+  }
+ }
+}

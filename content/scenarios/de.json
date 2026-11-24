@@ -1,0 +1,855 @@
+{
+ "language": "de",
+ "scenarios": {
+  "sc01": {
+   "npcName": "Hanna",
+   "turns": [
+    {
+     "npc": "Hallo! Reisepass, bitte.",
+     "npcPt": "Olá! Passaporte, por favor.",
+     "options": [
+      {
+       "text": "Hier, bitte.",
+       "textPt": "Aqui está."
+      },
+      {
+       "text": "Ich bin ein Reisepass.",
+       "textPt": "Eu sou um passaporte.",
+       "hint": "Soa como se você fosse o documento. Ao entregar, diga 'Hier, bitte'."
+      },
+      {
+       "text": "Danke, tschüss.",
+       "textPt": "Obrigado, tchau.",
+       "hint": "Ainda não é hora de se despedir: primeiro entregue o documento."
+      }
+     ]
+    },
+    {
+     "npc": "Haben Sie einen Koffer?",
+     "npcPt": "Você tem uma mala?",
+     "options": [
+      {
+       "text": "Ja, ich bin glücklich.",
+       "textPt": "Sim, estou feliz.",
+       "hint": "Não responde ao que foi perguntado."
+      },
+      {
+       "text": "Ja, einen Koffer.",
+       "textPt": "Sim, uma mala."
+      },
+      {
+       "text": "Ich mag Koffer.",
+       "textPt": "Eu gosto de malas.",
+       "hint": "É uma frase possível, mas não responde: diga se tem ou não mala."
+      }
+     ]
+    },
+    {
+     "npc": "Fenster oder Gang?",
+     "npcPt": "Janela ou corredor?",
+     "options": [
+      {
+       "text": "Ja, bitte.",
+       "textPt": "Sim, por favor.",
+       "hint": "A pergunta oferece duas opções; 'ja' não escolhe nenhuma. Diga 'Fenster' ou 'Gang'."
+      },
+      {
+       "text": "Sitz ist gut.",
+       "textPt": "Assento é bom.",
+       "hint": "Frase estranha e sem escolha. Diga qual lugar você quer."
+      },
+      {
+       "text": "Fenster, bitte.",
+       "textPt": "Janela, por favor."
+      }
+     ]
+    },
+    {
+     "npc": "Hier ist Ihre Bordkarte.",
+     "npcPt": "Aqui está seu cartão de embarque.",
+     "options": [
+      {
+       "text": "Danke! Welches Gate?",
+       "textPt": "Obrigado! Qual é o portão?"
+      },
+      {
+       "text": "Bitte schön.",
+       "textPt": "De nada.",
+       "hint": "'Bitte schön' é o que quem atende diz; o passageiro agradece com 'Danke'."
+      },
+      {
+       "text": "Guten Abend, Herr.",
+       "textPt": "Boa noite, senhor.",
+       "hint": "Fora de contexto: você ainda precisa saber o portão."
+      }
+     ]
+    }
+   ]
+  },
+  "sc02": {
+   "npcName": "Markus",
+   "turns": [
+    {
+     "npc": "Willkommen! Für wie viele Personen?",
+     "npcPt": "Bem-vindo! Quantas pessoas?",
+     "options": [
+      {
+       "text": "Mir geht's gut.",
+       "textPt": "Estou bem.",
+       "hint": "Responde a 'Wie geht's?', não à quantidade de pessoas. Diga 'Zwei, bitte'."
+      },
+      {
+       "text": "Zwei, bitte.",
+       "textPt": "Duas, por favor."
+      },
+      {
+       "text": "Ein Tisch ist groß.",
+       "textPt": "Uma mesa é grande.",
+       "hint": "Não responde à pergunta. Diga o número de pessoas."
+      }
+     ]
+    },
+    {
+     "npc": "Was möchten Sie?",
+     "npcPt": "O que você gostaria?",
+     "options": [
+      {
+       "text": "Ich mag Pizza.",
+       "textPt": "Eu gosto de pizza.",
+       "hint": "'Ich mag' fala de gosto geral. Para pedir, use 'Ich möchte...' ou 'Eine Pizza, bitte'."
+      },
+      {
+       "text": "Gib mir Pizza!",
+       "textPt": "Me dá pizza!",
+       "hint": "Imperativo seco e mandão, ainda por cima com 'du'. Prefira 'Eine Pizza, bitte'."
+      },
+      {
+       "text": "Eine Pizza, bitte.",
+       "textPt": "Uma pizza, por favor."
+      }
+     ]
+    },
+    {
+     "npc": "Etwas zu trinken?",
+     "npcPt": "Algo para beber?",
+     "options": [
+      {
+       "text": "Wasser, bitte.",
+       "textPt": "Água, por favor."
+      },
+      {
+       "text": "Ich trinke, ja.",
+       "textPt": "Eu bebo, sim.",
+       "hint": "Estranho: diga o que você quer beber."
+      },
+      {
+       "text": "Nicht essen, danke.",
+       "textPt": "Não comer, obrigado.",
+       "hint": "A pergunta é sobre beber (trinken), não comer, e o verbo não está conjugado. Diga 'Wasser, bitte'."
+      }
+     ]
+    },
+    {
+     "npc": "Hier ist Ihr Essen. Guten Appetit!",
+     "npcPt": "Aqui está sua comida. Aproveite!",
+     "options": [
+      {
+       "text": "Es tut mir leid.",
+       "textPt": "Sinto muito.",
+       "hint": "Não há motivo para pedir desculpas aqui."
+      },
+      {
+       "text": "Danke! Sieht lecker aus.",
+       "textPt": "Obrigado! Parece bom."
+      },
+      {
+       "text": "Tschüss!",
+       "textPt": "Tchau!",
+       "hint": "Você acabou de receber a comida; ainda não vai embora."
+      }
+     ]
+    }
+   ]
+  },
+  "sc03": {
+   "npcName": "Jonas",
+   "turns": [
+    {
+     "npc": "Hallo! Ich bin Jonas. Wie heißt du?",
+     "npcPt": "Oi! Eu sou o Sam. Qual é o seu nome?",
+     "options": [
+      {
+       "text": "Ich nenne mich Alex.",
+       "textPt": "Eu me chamo Alex.",
+       "hint": "Calque de 'eu me chamo' com verbo reflexivo. Em alemão diga 'Ich heiße Alex' ou 'Ich bin Alex'."
+      },
+      {
+       "text": "Freut mich! Ich bin Alex.",
+       "textPt": "Prazer! Eu sou o Alex."
+      },
+      {
+       "text": "Mir geht's gut, danke.",
+       "textPt": "Bem, obrigado.",
+       "hint": "Responde a 'Wie geht's?', não ao nome."
+      }
+     ]
+    },
+    {
+     "npc": "Freut mich! Woher kommst du?",
+     "npcPt": "Prazer! De onde você é?",
+     "options": [
+      {
+       "text": "Ich bin Brasilien.",
+       "textPt": "Eu sou Brasil.",
+       "hint": "Diz que você É o país. Use 'Ich komme aus Brasilien' ou 'Ich bin Brasilianer'."
+      },
+      {
+       "text": "Ich bin von Brasilianer.",
+       "textPt": "Eu sou de brasileiro.",
+       "hint": "'Brasilien' é o país; 'Brasilianer' é a nacionalidade. Diga 'Ich komme aus Brasilien' ou 'Ich bin Brasilianer'."
+      },
+      {
+       "text": "Ich komme aus Brasilien.",
+       "textPt": "Sou do Brasil."
+      }
+     ]
+    },
+    {
+     "npc": "Was machst du gern?",
+     "npcPt": "O que você gosta de fazer?",
+     "options": [
+      {
+       "text": "Ich mag Musik und Fußball.",
+       "textPt": "Eu gosto de música e futebol."
+      },
+      {
+       "text": "Ich gefalle Fußball.",
+       "textPt": "Eu estou gostando de futebol.",
+       "hint": "'Gefallen' funciona ao contrário (Fußball gefällt mir). Para hobby, diga 'Ich mag Fußball'."
+      },
+      {
+       "text": "Ich habe Hobby Fußball.",
+       "textPt": "Eu tenho hobby futebol.",
+       "hint": "Calque do português: faltam artigo e verbo certo. Diga 'Mein Hobby ist Fußball'."
+      }
+     ]
+    },
+    {
+     "npc": "Bleiben wir in Kontakt. Deine Nummer?",
+     "npcPt": "Vamos manter contato. Qual é o seu número?",
+     "options": [
+      {
+       "text": "Ja, ich bleibe in Kontakt.",
+       "textPt": "Sim, eu fico em contato.",
+       "hint": "Não responde à pergunta: diga o seu número."
+      },
+      {
+       "text": "Es ist 555-0123. Und deine?",
+       "textPt": "É 555-0123. E o seu?"
+      },
+      {
+       "text": "Es ist 555-0123. Und Sie?",
+       "textPt": "É 555-0123. E você?",
+       "hint": "Entre amigos use 'du': 'Sie' soa formal demais. Diga 'Und deine?'."
+      }
+     ]
+    }
+   ]
+  },
+  "sc04": {
+   "npcName": "Katrin",
+   "turns": [
+    {
+     "npc": "Guten Abend. Ihr Name, bitte?",
+     "npcPt": "Boa noite. Seu nome, por favor?",
+     "options": [
+      {
+       "text": "Ich bin müde.",
+       "textPt": "Estou cansado.",
+       "hint": "Pode ser verdade, mas pediram seu nome."
+      },
+      {
+       "text": "Mein Name ist Alex.",
+       "textPt": "Meu nome é Alex."
+      },
+      {
+       "text": "Guten Abend, tschüss.",
+       "textPt": "Boa noite, tchau.",
+       "hint": "Você acabou de chegar; não é hora de se despedir."
+      }
+     ]
+    },
+    {
+     "npc": "Haben Sie eine Reservierung?",
+     "npcPt": "Você tem uma reserva?",
+     "options": [
+      {
+       "text": "Ja, für zwei Nächte.",
+       "textPt": "Sim, para duas noites."
+      },
+      {
+       "text": "Ja, ich habe ein Zimmer.",
+       "textPt": "Sim, eu tenho um quarto.",
+       "hint": "Soa como se você já tivesse o quarto. Diga que tem uma reserva."
+      },
+      {
+       "text": "Nein, danke.",
+       "textPt": "Não, obrigado.",
+       "hint": "'Nein, danke' recusa uma oferta; aqui a pergunta é sobre reserva: 'Ja, ich habe reserviert'."
+      }
+     ]
+    },
+    {
+     "npc": "Hier ist Ihr Schlüssel. Zimmer 204.",
+     "npcPt": "Aqui está sua chave. Quarto 204.",
+     "options": [
+      {
+       "text": "Wo ist der Schlüssel?",
+       "textPt": "Onde está a chave?",
+       "hint": "Ela acabou de entregar a chave."
+      },
+      {
+       "text": "Ich bin 204.",
+       "textPt": "Eu sou 204.",
+       "hint": "Você não é o número do quarto."
+      },
+      {
+       "text": "Danke. Wo ist der Aufzug?",
+       "textPt": "Obrigado. Onde fica o elevador?"
+      }
+     ]
+    },
+    {
+     "npc": "Dort, links.",
+     "npcPt": "Ali, à esquerda.",
+     "options": [
+      {
+       "text": "Wie bitte?",
+       "textPt": "Desculpe, o quê?",
+       "hint": "Pedir para repetir é válido, mas a explicação foi simples; agradecer é mais natural."
+      },
+      {
+       "text": "Super, danke!",
+       "textPt": "Ótimo, obrigado!"
+      },
+      {
+       "text": "Ja, ich mag links.",
+       "textPt": "Sim, eu gosto de esquerda.",
+       "hint": "Não responde nem agradece. Fora de contexto."
+      }
+     ]
+    }
+   ]
+  },
+  "sc05": {
+   "npcName": "Sabine",
+   "turns": [
+    {
+     "npc": "Guten Morgen. Können Sie uns kurz informieren?",
+     "npcPt": "Bom dia. Pode nos atualizar sobre o projeto?",
+     "options": [
+      {
+       "text": "Klar. Das Projekt läuft gut.",
+       "textPt": "Claro. O projeto está indo bem."
+      },
+      {
+       "text": "Das Projekt ist in gutem Weg.",
+       "textPt": "O projeto está em bom caminho.",
+       "hint": "Calque de 'em bom caminho'. Em alemão: 'auf gutem Weg' (preposição 'auf') ou 'läuft gut'."
+      },
+      {
+       "text": "Nein, ich will nicht.",
+       "textPt": "Não, eu não quero.",
+       "hint": "Seco demais para uma reunião. Diga 'Klar' ou 'Natürlich'."
+      }
+     ]
+    },
+    {
+     "npc": "Was müssen wir noch tun?",
+     "npcPt": "O que ainda precisamos fazer?",
+     "options": [
+      {
+       "text": "Wir müssen zu testen die App.",
+       "textPt": "Precisamos testar o app.",
+       "hint": "Com 'müssen' o verbo vai no infinitivo, sem 'zu', no fim: 'Wir müssen die App testen'."
+      },
+      {
+       "text": "Wir müssen die App gestern testen.",
+       "textPt": "Temos que testar o app ontem.",
+       "hint": "'Gestern' é passado; aqui você fala do que falta fazer."
+      },
+      {
+       "text": "Wir müssen noch die App testen.",
+       "textPt": "Ainda precisamos testar o aplicativo."
+      }
+     ]
+    },
+    {
+     "npc": "Was halten Sie vom neuen Design?",
+     "npcPt": "O que você acha do novo design?",
+     "options": [
+      {
+       "text": "Ich habe Zustimmung, es ist cool.",
+       "textPt": "Eu sou de acordo, é legal.",
+       "hint": "Calque de 'sou de acordo'. Em alemão diga 'Ich bin einverstanden' ou 'Ich stimme zu'."
+      },
+      {
+       "text": "Ich finde es klar und modern.",
+       "textPt": "Acho que está claro e moderno."
+      },
+      {
+       "text": "Keine Ahnung, ist egal.",
+       "textPt": "Não sei, tanto faz.",
+       "hint": "Soa desinteressado numa reunião; dê uma opinião: 'Ich finde...'."
+      }
+     ]
+    },
+    {
+     "npc": "Bis wann können Sie fertig sein?",
+     "npcPt": "Quando você consegue terminar?",
+     "options": [
+      {
+       "text": "Ich bin fertig bis Freitag.",
+       "textPt": "Eu termino até sexta.",
+       "hint": "'Bin fertig' diz que já está pronto. Para prazo futuro: 'Ich schaffe es bis Freitag'."
+      },
+      {
+       "text": "Ich schaffe es in Freitag.",
+       "textPt": "Consigo terminar em sexta.",
+       "hint": "Dia da semana leva 'am' (am Freitag); para prazo, 'bis Freitag'."
+      },
+      {
+       "text": "Ich schaffe es bis Freitag.",
+       "textPt": "Consigo terminar até sexta."
+      }
+     ]
+    }
+   ]
+  },
+  "sc06": {
+   "npcName": "Lukas",
+   "turns": [
+    {
+     "npc": "Hallo! Brauchst du Hilfe?",
+     "npcPt": "Oi! Você precisa de ajuda?",
+     "options": [
+      {
+       "text": "Ja. Welche Uhr ist der Kurs?",
+       "textPt": "Sim. Qual hora é a aula?",
+       "hint": "Calque de 'qual hora'. Diga 'Um wie viel Uhr ist der Kurs?' ou 'Wann ist der Kurs?'."
+      },
+      {
+       "text": "Ja. Wie viel kostet der Kurs?",
+       "textPt": "Sim. Quanto custa a aula?",
+       "hint": "'Wie viel kostet' pergunta preço, não horário."
+      },
+      {
+       "text": "Ja. Um wie viel Uhr ist der Kurs?",
+       "textPt": "Sim. Que horas é a aula?"
+      }
+     ]
+    },
+    {
+     "npc": "Der Kurs ist um zehn. Noch Fragen?",
+     "npcPt": "A aula é às dez. Mais alguma dúvida?",
+     "options": [
+      {
+       "text": "Ja. Wann ist die Abgabe der Arbeit?",
+       "textPt": "Sim. Quando é a entrega do trabalho?"
+      },
+      {
+       "text": "Ja. Wann ist die Arbeit zum Abgeben?",
+       "textPt": "Sim. Quando é o trabalho para entregar?",
+       "hint": "Calque de 'para entregar'. Prazo de entrega é 'Abgabe': 'Wann ist die Abgabe?'."
+      },
+      {
+       "text": "Ja. Ich habe einen Zweifel.",
+       "textPt": "Sim. Eu tenho uma dúvida.",
+       "hint": "Falso cognato: 'Zweifel' é incerteza. Para ter uma dúvida diga 'Ich habe eine Frage'."
+      }
+     ]
+    },
+    {
+     "npc": "Die Abgabe ist am Montag. Noch etwas?",
+     "npcPt": "É para segunda. Mais alguma coisa?",
+     "options": [
+      {
+       "text": "Ja. Wo ist die Buchhandlung?",
+       "textPt": "Sim. Onde fica a livraria?",
+       "hint": "Falso amigo: 'Buchhandlung' é livraria. Biblioteca é 'Bibliothek'."
+      },
+      {
+       "text": "Ja. Wo ist die Bibliothek?",
+       "textPt": "Sim. Onde fica a biblioteca?"
+      },
+      {
+       "text": "Ja. Bibliothek wo ist?",
+       "textPt": "Sim. Biblioteca onde fica?",
+       "hint": "Ordem errada: o verbo vai na 2ª posição. Em alemão: 'Wo ist die Bibliothek?'."
+      }
+     ]
+    },
+    {
+     "npc": "Am Ende des Flurs, links.",
+     "npcPt": "No fim do corredor, à esquerda.",
+     "options": [
+      {
+       "text": "Super, danke! Ist sie jetzt offen?",
+       "textPt": "Ótimo, obrigado! Está aberta agora?"
+      },
+      {
+       "text": "Danke. Sie ist jetzt offen?",
+       "textPt": "Obrigado. Está aberta agora?",
+       "hint": "Pergunta de sim/não pede o verbo na frente: 'Ist sie jetzt offen?'."
+      },
+      {
+       "text": "Bitte schön.",
+       "textPt": "De nada.",
+       "hint": "'Bitte schön' responde a um agradecimento; aqui é você quem agradece."
+      }
+     ]
+    }
+   ]
+  },
+  "sc07": {
+   "npcName": "Julia",
+   "turns": [
+    {
+     "npc": "Hallo! Suchen Sie etwas?",
+     "npcPt": "Oi! Você procura algo?",
+     "options": [
+      {
+       "text": "Ja, ich brauche eine Jacke.",
+       "textPt": "Sim, preciso de uma jaqueta."
+      },
+      {
+       "text": "Ich schaue Sie an.",
+       "textPt": "Eu olho para você.",
+       "hint": "'Anschauen' é olhar para algo; a pergunta é sobre procurar: 'Ich suche eine Jacke'."
+      },
+      {
+       "text": "Ja, ich schaue Jacke.",
+       "textPt": "Sim, eu olho jaqueta.",
+       "hint": "Faltam o verbo certo e o artigo: 'Ich suche eine Jacke'."
+      }
+     ]
+    },
+    {
+     "npc": "Welche Größe haben Sie?",
+     "npcPt": "Qual é o seu tamanho?",
+     "options": [
+      {
+       "text": "Ich habe zwanzig Jahre.",
+       "textPt": "Tenho vinte anos.",
+       "hint": "Tamanho não é idade."
+      },
+      {
+       "text": "Meine Größe ist blau.",
+       "textPt": "Meu tamanho é azul.",
+       "hint": "Azul é cor; diga o tamanho (S, M, L)."
+      },
+      {
+       "text": "M, glaube ich.",
+       "textPt": "Médio, acho."
+      }
+     ]
+    },
+    {
+     "npc": "Die Umkleide ist dort.",
+     "npcPt": "O provador é ali.",
+     "options": [
+      {
+       "text": "Ich will dort schlafen.",
+       "textPt": "Quero dormir lá.",
+       "hint": "Estranho: provador é só para experimentar roupas."
+      },
+      {
+       "text": "Danke. Ich probiere sie an.",
+       "textPt": "Obrigado. Vou experimentar."
+      },
+      {
+       "text": "Das Zimmer ist schön.",
+       "textPt": "O quarto é bonito.",
+       "hint": "Não é um quarto; agradeça e vá experimentar."
+      }
+     ]
+    },
+    {
+     "npc": "Wie sitzt sie?",
+     "npcPt": "Como ficou?",
+     "options": [
+      {
+       "text": "Sie ist zu klein. Haben Sie eine größere?",
+       "textPt": "Está pequeno. Tem um maior?"
+      },
+      {
+       "text": "Sie ist sehr teuer.",
+       "textPt": "É muito caro.",
+       "hint": "Ela perguntou do caimento, não do preço."
+      },
+      {
+       "text": "Ich passe, danke.",
+       "textPt": "Eu caibo, obrigado.",
+       "hint": "'Ich passe' quer dizer 'passo a vez'; descreva a roupa: 'Sie passt gut'."
+      }
+     ]
+    }
+   ]
+  },
+  "sc08": {
+   "npcName": "Stefan",
+   "turns": [
+    {
+     "npc": "Sie wirken verloren. Kann ich helfen?",
+     "npcPt": "Você parece perdido. Posso ajudar?",
+     "options": [
+      {
+       "text": "Nein, ich bin Tourist.",
+       "textPt": "Não, sou turista.",
+       "hint": "Não é errado, mas você perde a chance de pedir ajuda."
+      },
+      {
+       "text": "Ja, wo ist die U-Bahn-Station?",
+       "textPt": "Sim, onde fica a estação de metrô?"
+      },
+      {
+       "text": "Ja, ich bin verloren die Straße.",
+       "textPt": "Sim, estou perdido a rua.",
+       "hint": "Gramática errada. Diga 'Ich habe mich verlaufen' ou pergunte onde fica o lugar."
+      }
+     ]
+    },
+    {
+     "npc": "Gehen Sie zwei Blocks geradeaus.",
+     "npcPt": "Siga reto por duas quadras.",
+     "options": [
+      {
+       "text": "Zwei Blocks geradeaus. Und dann?",
+       "textPt": "Reto duas quadras. E depois?"
+      },
+      {
+       "text": "Ich bin gestern geradeaus gegangen.",
+       "textPt": "Eu fui reto ontem.",
+       "hint": "Ela deu uma instrução, não falou do passado."
+      },
+      {
+       "text": "Zwei Blocks ist weit.",
+       "textPt": "Duas quadras é longe.",
+       "hint": "É só um comentário (e o plural pede 'sind'); confirme e pergunte o próximo passo."
+      }
+     ]
+    },
+    {
+     "npc": "Dann links an der Bank abbiegen.",
+     "npcPt": "Depois vire à esquerda no banco.",
+     "options": [
+      {
+       "text": "Links abbiegen ist Bank?",
+       "textPt": "Vire esquerda é banco?",
+       "hint": "Pergunta confusa. Confirme: 'Links an der Bank, richtig?'"
+      },
+      {
+       "text": "Ich biege rechts ab.",
+       "textPt": "Eu viro à direita.",
+       "hint": "Ela disse esquerda (links), não direita (rechts)."
+      },
+      {
+       "text": "Links an der Bank. Verstanden.",
+       "textPt": "Esquerda no banco. Entendi."
+      }
+     ]
+    },
+    {
+     "npc": "Sie ist neben dem Park.",
+     "npcPt": "Fica ao lado do parque.",
+     "options": [
+      {
+       "text": "Neben ist ein Park.",
+       "textPt": "Ao lado é um parque.",
+       "hint": "Frase invertida; não é preciso repetir."
+      },
+      {
+       "text": "Super! Danke für die Hilfe.",
+       "textPt": "Ótimo! Obrigado pela ajuda."
+      },
+      {
+       "text": "Ich mag keine Parks.",
+       "textPt": "Não gosto de parques.",
+       "hint": "Fora de contexto: agradeça pela ajuda."
+      }
+     ]
+    }
+   ]
+  },
+  "sc09": {
+   "npcName": "Dr. Wagner",
+   "turns": [
+    {
+     "npc": "Guten Morgen. Was führt Sie zu mir?",
+     "npcPt": "Bom dia. O que traz você aqui?",
+     "options": [
+      {
+       "text": "Ich bin Fieber seit Montag.",
+       "textPt": "Estou com febre desde segunda.",
+       "hint": "Para febre usa-se 'haben': 'Ich habe seit Montag Fieber'."
+      },
+      {
+       "text": "Ich bin satt von meinem Hals.",
+       "textPt": "Estou farto da minha garganta.",
+       "hint": "'Satt' é saciado de comida, não 'farto'. Para dor, diga 'Ich habe Halsschmerzen'."
+      },
+      {
+       "text": "Ich habe seit Tagen Halsschmerzen.",
+       "textPt": "Estou com dor de garganta há dias."
+      }
+     ]
+    },
+    {
+     "npc": "Haben Sie Allergien?",
+     "npcPt": "Você tem alguma alergia?",
+     "options": [
+      {
+       "text": "Nein, ich bin keine Allergie.",
+       "textPt": "Não, eu não sou alergia.",
+       "hint": "Alergia é substantivo; diga 'Ich habe keine Allergien' ou 'Ich bin nicht allergisch'."
+      },
+      {
+       "text": "Nein, keine, soweit ich weiß.",
+       "textPt": "Não, nenhuma que eu saiba."
+      },
+      {
+       "text": "Ja, ich habe Allergie von Nüssen.",
+       "textPt": "Sim, tenho alergia de nozes.",
+       "hint": "Preposição errada: 'Allergie gegen Nüsse' ou 'allergisch gegen Nüsse'."
+      }
+     ]
+    },
+    {
+     "npc": "Mund auf und sagen Sie aah.",
+     "npcPt": "Abra a boca e diga aah.",
+     "options": [
+      {
+       "text": "Aah... Ist es ernst, Herr Doktor?",
+       "textPt": "Aah... É sério, doutor?"
+      },
+      {
+       "text": "Aah... Ist ernst?",
+       "textPt": "Aah... É sério?",
+       "hint": "Em alemão o sujeito 'es' é obrigatório: 'Ist es ernst?'"
+      },
+      {
+       "text": "Ich will nicht, Entschuldigung.",
+       "textPt": "Não quero, desculpe.",
+       "hint": "Seco e incompleto; o exame é importante. Coopere e pergunte sobre o resultado."
+      }
+     ]
+    },
+    {
+     "npc": "Leichte Infektion. Ausruhen und Wasser trinken.",
+     "npcPt": "É uma infecção leve. Descanse e beba água.",
+     "options": [
+      {
+       "text": "Ich muss zu ruhen, danke.",
+       "textPt": "Eu devo descansar, obrigado.",
+       "hint": "Com 'müssen' o verbo fica no infinitivo, sem 'zu': 'Ich muss mich ausruhen'."
+      },
+      {
+       "text": "Muss ich zu der Arbeit gehen?",
+       "textPt": "Eu tenho que ir ao trabalho?",
+       "hint": "'Zu der' contrai para 'zur': 'Muss ich zur Arbeit gehen?'"
+      },
+      {
+       "text": "Danke, Herr Doktor. Soll ich Medikamente nehmen?",
+       "textPt": "Obrigado, doutor. Devo tomar remédio?"
+      }
+     ]
+    }
+   ]
+  },
+  "sc10": {
+   "npcName": "Frau Becker",
+   "turns": [
+    {
+     "npc": "Danke für Ihr Kommen. Erzählen Sie von sich.",
+     "npcPt": "Obrigada por vir. Fale sobre você.",
+     "options": [
+      {
+       "text": "Ich bin 25 Jahre und mag Pizza.",
+       "textPt": "Tenho 25 anos e gosto de pizza.",
+       "hint": "Idade leva 'alt': 'Ich bin 25 Jahre alt'. E a entrevista pede foco profissional."
+      },
+      {
+       "text": "Ich bin Designer mit drei Jahren Erfahrung.",
+       "textPt": "Sou designer com três anos de experiência."
+      },
+      {
+       "text": "Mein Name steht auf dem Papier.",
+       "textPt": "Meu nome está no papel.",
+       "hint": "Fora de contexto: ela quer saber da sua experiência."
+      }
+     ]
+    },
+    {
+     "npc": "Warum möchten Sie diese Stelle?",
+     "npcPt": "Por que você quer este emprego?",
+     "options": [
+      {
+       "text": "Ich mag Teamarbeit und will wachsen.",
+       "textPt": "Gosto de trabalho em equipe e quero crescer."
+      },
+      {
+       "text": "Weil ich Geld brauche, nur das.",
+       "textPt": "Porque preciso de dinheiro, só isso.",
+       "hint": "Honesto, mas mostra pouco interesse pela vaga."
+      },
+      {
+       "text": "Ich will, weil es cool ist.",
+       "textPt": "Quero porque é legal.",
+       "hint": "Falta o objeto ('Ich will sie, weil...') e a resposta é vaga e informal."
+      }
+     ]
+    },
+    {
+     "npc": "Was ist Ihre größte Stärke?",
+     "npcPt": "Qual é o seu maior ponto forte?",
+     "options": [
+      {
+       "text": "Ich bin der Beste der Welt.",
+       "textPt": "Sou o melhor do mundo.",
+       "hint": "Exagerado; prefira algo concreto e humilde."
+      },
+      {
+       "text": "Meine Stärke ist Gewichte heben.",
+       "textPt": "Meu ponto forte é levantar peso.",
+       "hint": "Possível, mas não é relevante para a vaga."
+      },
+      {
+       "text": "Ich bin organisiert und lerne schnell.",
+       "textPt": "Sou organizado e aprendo rápido."
+      }
+     ]
+    },
+    {
+     "npc": "Haben Sie Fragen an uns?",
+     "npcPt": "Você tem alguma pergunta para nós?",
+     "options": [
+      {
+       "text": "Keine Fragen. Tschüss.",
+       "textPt": "Sem perguntas. Tchau.",
+       "hint": "Seco demais; mostre interesse."
+      },
+      {
+       "text": "Ja. Wie sieht ein typischer Tag aus?",
+       "textPt": "Sim. Como é um dia típico?"
+      },
+      {
+       "text": "Ja, wie viel ich verdiene morgen?",
+       "textPt": "Sim, quanto vou ganhar amanhã?",
+       "hint": "Ordem: o verbo vai na 2ª posição ('Wie viel verdiene ich?'); salário logo assim soa pouco natural."
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
