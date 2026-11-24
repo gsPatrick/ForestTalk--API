@@ -5,7 +5,12 @@ module.exports = {
   PHASES_PER_CHAPTER: 10,
   TOTAL_PHASES: 250,
   SMALL_CHEST_PHASE: 5,
-  PHASE_COIN_REWARD: 10,
+  // Moedas por fase concluída na 1ª vez (era 10; economia mais difícil). O app decide e envia `coinsEarned`.
+  PHASE_COIN_REWARD: 4,
+  // Custo de reviver com moedas (era 40). O app aplica o valor; documentado aqui para manter a paridade.
+  REVIVE_COIN_COST: 60,
+  // Moedas dos baús (era 30/80, +40 de bônus da coleção completa; -60%). O app decide e envia em `coins`.
+  CHEST_COIN_REWARD: { small: 12, big: 32, collectionBonus: 16 },
   STARTING_COINS: 0,
   STARTING_POWER_UPS: 2,
   PHASES_PER_GAME: 50,

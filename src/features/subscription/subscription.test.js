@@ -3,7 +3,7 @@ const assert = require('node:assert/strict');
 const env = require('../../config/env');
 const { Subscription } = require('../../models');
 const { startServer, stopServer, request, newClient } = require('../../test/helpers');
-const { isPremium } = require('./premium-status.service');
+const { isPremium, isAdsFree } = require('./premium-status.service');
 
 const realFetch = global.fetch;
 let rcResponse; // resposta simulada do RevenueCat
@@ -32,11 +32,21 @@ beforeEach(() => {
   rcResponse = { status: 200, body: { subscriber: { entitlements: {} } } };
 });
 
-test('planos exigem auth e devolvem o plano único', async () => {
+test('planos exigem auth e devolvem Premium e Sem anúncios', async () => {
   assert.equal((await request('GET', '/v1/subscription/plans')).status, 401);
   const c = await newClient();
   const { body } = await c.get('/v1/subscription/plans');
-  assert.deepEqual(body.data, [{ id: 'premium_monthly', title: 'Mensal', price: 'R$ 39,90', period: '/mês', highlighted: true }]);
+  assert.deepEqual(body.data, [
+    {
+      id: 'premium_monthly',
+      title: 'Premium',
+      price: 'R$ 39,90',
+      period: '/mês',
+      highlighted: true,
+      note: 'Sem anúncios + Professor de IA + Simulações + vidas infinitas',
+    },
+    { id: 'ads_free_monthly', title: 'Sem anúncios', price: 'R$ 9,90', period: '/mês', note: 'Remove os anúncios' },
+  ]);
 });
 
 test('status inicial, assinar em modo de teste e cancelar', async () => {
@@ -44,7 +54,7 @@ test('status inicial, assinar em modo de teste e cancelar', async () => {
   assert.equal((await c.get('/v1/subscription')).body.data.isPremium, false);
   const sub = await c.post('/v1/subscription', { planId: 'premium_monthly' });
   assert.equal(sub.status, 200);
-  assert.deepEqual(sub.body.data, { isPremium: true, planId: 'premium_monthly', source: 'test', expiresAt: null });
+  assert.deepEqual(sub.body.data, { isPremium: true, adsFree: true, planId: 'premium_monthly', source: 'test', expiresAt: null });
   assert.equal(await isPremium(c.deviceId), true);
   const del = await c.del('/v1/subscription');
   assert.equal(del.body.data.isPremium, false);
@@ -108,4 +118,30 @@ test('premium vencido (expires_at no passado) deixa de valer', async () => {
   await Subscription.update({ status: 'active', expiresAt: new Date(Date.now() - 1000) }, { where: { deviceId: c.deviceId } });
   assert.equal(await isPremium(c.deviceId), false);
   assert.equal((await c.get('/v1/subscription')).body.data.isPremium, false);
+});
+
+test('plano só sem anúncios: adsFree sim, premium não (status, isPremium e requirePremium)', async () => {
+  const c = await newClient();
+  const sub = await c.post('/v1/subscription', { planId: 'ads_free_monthly' });
+  assert.equal(sub.status, 200);
+  assert.deepEqual(sub.body.data, { isPremium: false, adsFree: true, planId: 'ads_free_monthly', source: 'test', expiresAt: null });
+  assert.equal(await isPremium(c.deviceId), false);
+  assert.equal(await isAdsFree(c.deviceId), true);
+  assert.equal((await c.get('/v1/languages/en/progress')).body.data.isPremium, false);
+  const sim = await c.get('/v1/sim/scenarios');
+  assert.equal(sim.status, 403);
+  assert.equal(sim.body.error.code, 'PREMIUM_REQUIRED');
+  await c.post('/v1/subscription', { planId: 'premium_monthly' });
+  assert.equal(await isPremium(c.deviceId), true);
+  assert.equal(await isAdsFree(c.deviceId), true);
+  assert.equal((await c.get('/v1/subscription')).body.data.adsFree, true);
+});
+
+test('sem assinatura ou vencida: adsFree falso', async () => {
+  const c = await newClient();
+  assert.equal(await isAdsFree(c.deviceId), false);
+  assert.equal((await c.get('/v1/subscription')).body.data.adsFree, false);
+  await c.post('/v1/subscription', { planId: 'ads_free_monthly' });
+  await Subscription.update({ expiresAt: new Date(Date.now() - 1000) }, { where: { deviceId: c.deviceId } });
+  assert.equal(await isAdsFree(c.deviceId), false);
 });

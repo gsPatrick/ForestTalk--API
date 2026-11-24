@@ -53,7 +53,7 @@ const steps = [
     expect(Array.isArray(r.data) && r.data.length > 0, 'trilha vazia');
   }],
   ['completar fase 1', async () => {
-    const r = await call('POST', `/v1/languages/${LANG}/phases/1/complete`, { stars: 3, coinsEarned: 10 });
+    const r = await call('POST', `/v1/languages/${LANG}/phases/1/complete`, { stars: 3, coinsEarned: 4 });
     expectOk(r, 'complete');
   }],
   ['abrir progresso', async () => {

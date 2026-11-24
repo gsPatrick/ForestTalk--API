@@ -1,8 +1,9 @@
 const crypto = require('node:crypto');
 const env = require('../../config/env');
 const AppError = require('../../utils/app-error');
-const { sequelize, Subscription, WebhookEvent } = require('../../models');
-const { ACTIVATING_EVENTS } = require('./subscription.constants');
+const { sequelize, Subscription, WebhookEvent, Wallet } = require('../../models');
+const { ACTIVATING_EVENTS, planFromProductId } = require('./subscription.constants');
+const { creditPack, findByStoreProduct } = require('../shop/coin-packs.service');
 const { setActive, setInactive } = require('./subscription-activate.service');
 const { syncFromStore } = require('./subscription-restore.service');
 
@@ -31,6 +32,22 @@ async function findDeviceId(event, transaction) {
   return null;
 }
 
+/** Aparelho dono da carteira (compra avulsa não exige assinatura prévia). */
+async function findWalletDeviceId(event, transaction) {
+  const candidates = [event.app_user_id, event.original_app_user_id, ...(event.aliases ?? [])];
+  for (const id of candidates.filter(isDeviceId)) {
+    if (await Wallet.findByPk(id, { transaction })) return id;
+  }
+  return null;
+}
+
+/** Plano do evento: pelo product id; sem id reconhecível mantém o plano atual, senão Premium (padrão). */
+async function planOf(event, deviceId, transaction) {
+  const known = planFromProductId(event.product_id);
+  if (known || event.product_id) return known ?? undefined;
+  return (await Subscription.findByPk(deviceId, { transaction }))?.planId ?? undefined;
+}
+
 /** TRANSFER: o entitlement mudou de dono; confere na loja os dois lados. */
 async function applyTransfer(event, transaction) {
   const ids = [...(event.transferred_from ?? []), ...(event.transferred_to ?? [])].filter(isDeviceId);
@@ -43,7 +60,8 @@ async function applyTransfer(event, transaction) {
 async function applyEvent(event, deviceId, transaction) {
   const expiresAt = toDate(event.expiration_at_ms);
   if (ACTIVATING_EVENTS.includes(event.type)) {
-    return setActive({ deviceId, source: 'revenuecat', expiresAt }, { transaction });
+    const planId = await planOf(event, deviceId, transaction);
+    return setActive({ deviceId, planId, source: 'revenuecat', expiresAt }, { transaction });
   }
   if (event.type === 'CANCELLATION') {
     // Cancelou a renovação, mas o acesso vale até expirar.
@@ -69,7 +87,12 @@ async function handleWebhook(authHeader, { event }) {
       transaction,
     });
     if (!isNew) return { duplicate: true };
-    if (event.type === 'TRANSFER') await applyTransfer(event, transaction);
+    const pack = findByStoreProduct(event.product_id);
+    if (pack && event.type === 'NON_RENEWING_PURCHASE') {
+      // Compra avulsa de pacote de moedas: credita uma vez (o `event.id` acima barra reenvios).
+      const deviceId = await findWalletDeviceId(event, transaction);
+      if (deviceId) await creditPack(deviceId, pack, { transaction });
+    } else if (event.type === 'TRANSFER') await applyTransfer(event, transaction);
     else {
       const deviceId = await findDeviceId(event, transaction);
       if (deviceId) await applyEvent(event, deviceId, transaction);

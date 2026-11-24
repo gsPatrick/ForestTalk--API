@@ -6,7 +6,7 @@ const realFetch = global.fetch;
 
 async function premiumClient() {
   const c = await newClient();
-  await Subscription.upsert({ deviceId: c.deviceId, status: 'active', source: 'test' });
+  await Subscription.upsert({ deviceId: c.deviceId, planId: 'premium_monthly', status: 'active', source: 'test' });
   return c;
 }
 

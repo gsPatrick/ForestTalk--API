@@ -8,5 +8,7 @@ const router = Router();
 router.use(auth);
 router.get('/items', controller.items);
 router.post('/items/:id/buy', validate({ params: schema.buyParams }), controller.buy);
+router.get('/coin-packs', controller.coinPacks);
+router.post('/coin-packs/:id/buy', validate({ params: schema.buyParams }), controller.buyCoinPack);
 
 module.exports = router;

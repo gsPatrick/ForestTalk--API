@@ -2,6 +2,10 @@ const env = require('../../config/env');
 const { fetchSubscriber } = require('../../providers/revenuecat/revenuecat.client');
 const { activeEntitlement, entitlementEnd } = require('./revenuecat-entitlement');
 const { setActive, setInactive } = require('./subscription-activate.service');
+const { planFromProductId } = require('./subscription.constants');
+
+/** Plano do entitlement (pelo product id); undefined cai no padrão Premium do `setActive`. */
+const planOf = (entitlement) => planFromProductId(entitlement.product_identifier) ?? undefined;
 
 /** `POST /subscription/restore`: reativa o Premium se a loja (via RevenueCat) tiver compra ativa. */
 async function restore(deviceId) {
@@ -11,7 +15,7 @@ async function restore(deviceId) {
   }
   const entitlement = activeEntitlement(await fetchSubscriber(deviceId));
   if (!entitlement) return { restored: false };
-  await setActive({ deviceId, source: 'revenuecat', expiresAt: entitlementEnd(entitlement) });
+  await setActive({ deviceId, planId: planOf(entitlement), source: 'revenuecat', expiresAt: entitlementEnd(entitlement) });
   return { restored: true };
 }
 
@@ -20,7 +24,7 @@ async function syncFromStore(deviceId, options = {}) {
   if (!env.REVENUECAT_API_KEY) return;
   const entitlement = activeEntitlement(await fetchSubscriber(deviceId));
   if (!entitlement) return setInactive(deviceId, options);
-  return setActive({ deviceId, source: 'revenuecat', expiresAt: entitlementEnd(entitlement) }, options);
+  return setActive({ deviceId, planId: planOf(entitlement), source: 'revenuecat', expiresAt: entitlementEnd(entitlement) }, options);
 }
 
 module.exports = { restore, syncFromStore };

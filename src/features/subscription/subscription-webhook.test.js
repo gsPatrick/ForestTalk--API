@@ -68,3 +68,26 @@ test('webhook ignora ids inexistentes e eventos desconhecidos sem quebrar', asyn
   assert.equal((await send({ type: 'TEST', app_user_id: c.deviceId })).status, 200);
   assert.equal(await isPremium(c.deviceId), false);
 });
+
+test('webhook mapeia o produto para o plano (sem anúncios x Premium x desconhecido)', async () => {
+  const { isAdsFree } = require('./premium-status.service');
+  const c = await newClient();
+  await send({ type: 'INITIAL_PURCHASE', app_user_id: c.deviceId, product_id: 'com.foresttalk.app.ads_free_monthly' });
+  assert.equal(await isPremium(c.deviceId), false);
+  assert.equal(await isAdsFree(c.deviceId), true);
+  await send({ type: 'RENEWAL', app_user_id: c.deviceId }); // sem product_id: mantém o plano
+  assert.equal((await c.get('/v1/subscription')).body.data.planId, 'ads_free_monthly');
+  await send({ type: 'PRODUCT_CHANGE', app_user_id: c.deviceId, product_id: 'com.foresttalk.app.premium_monthly' });
+  assert.equal(await isPremium(c.deviceId), true);
+  await send({ type: 'PRODUCT_CHANGE', app_user_id: c.deviceId, product_id: 'produto.desconhecido' });
+  assert.equal((await c.get('/v1/subscription')).body.data.planId, 'premium_monthly');
+});
+
+test('webhook de pacote de moedas credita uma vez só (idempotente pelo event.id)', async () => {
+  const c = await newClient();
+  const ev = { id: `ev-pack-${c.deviceId}`, type: 'NON_RENEWING_PURCHASE', app_user_id: c.deviceId, product_id: 'com.foresttalk.app.pack_explorer' };
+  assert.equal((await webhook(ev, SECRET)).body.data.duplicate, false);
+  assert.equal((await webhook(ev, SECRET)).body.data.duplicate, true);
+  assert.deepEqual((await c.get('/v1/wallet')).body.data, { coins: 1500, powerUps: { fifty: 12, hint: 12 } });
+  assert.equal(await isPremium(c.deviceId), false); // pacote não ativa assinatura
+});
