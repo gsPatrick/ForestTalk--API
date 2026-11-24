@@ -4,7 +4,7 @@ const path = require('path');
 const env = require('../../config/env');
 const { validateCurriculum, validateEntries } = require('./content.validation');
 
-const GAMES = ['true_false', 'pairs', 'translation', 'pronunciation'];
+const GAMES = ['true_false', 'pairs', 'translation', 'pronunciation', 'image'];
 const cache = new Map();
 
 function readJson(...parts) {

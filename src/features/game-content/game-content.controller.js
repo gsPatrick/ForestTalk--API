@@ -16,4 +16,5 @@ module.exports = {
   pairs: handler('pairs'),
   translation: handler('translation'),
   pronunciation: handler('pronunciation'),
+  image: handler('image'),
 };

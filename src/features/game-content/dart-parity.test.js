@@ -5,7 +5,7 @@ const golden = require('./dart-golden.json');
 
 // `dart-golden.json` foi gerado pelo próprio app (MockGameContentRepository, Dart VM): a API deve
 // devolver os mesmos itens, na mesma ordem, com os mesmos distratores. Veja Registro em ConteudoJogos.md.
-const kindOf = (n) => (n <= 30 ? 'true-false' : n <= 60 ? 'pairs' : 'translation');
+const kindOf = (n) => (n <= 50 ? 'true-false' : n <= 100 ? 'pairs' : 'translation');
 const view = {
   'true-false': (i) => [i.id, i.isTrue, i.shownTranslation],
   pairs: (i) => i.id,

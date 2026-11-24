@@ -1,5 +1,6 @@
+const { PHASES_PER_GAME } = require('../../config/constants');
 // Validação básica do formato dos JSON de conteúdo (falha cedo e com mensagem clara).
-const EXPECTED = { true_false: [10], pairs: [8], translation: [10], pronunciation: [8] };
+const EXPECTED = { true_false: [10], pairs: [8], translation: [10], pronunciation: [8], image: [10] };
 
 function fail(message) {
   throw new Error(`Conteúdo inválido: ${message}`);
@@ -7,7 +8,7 @@ function fail(message) {
 
 function validateCurriculum(game, data) {
   const [count] = EXPECTED[game];
-  if (!data || !Array.isArray(data.phases) || data.phases.length !== 30) fail(`${game}/curriculum.json precisa de 30 fases`);
+  if (!data || !Array.isArray(data.phases) || data.phases.length !== PHASES_PER_GAME) fail(`${game}/curriculum.json precisa de ${PHASES_PER_GAME} fases`);
   data.phases.forEach((p, i) => {
     if (p.phase !== i + 1 || !p.theme || !Array.isArray(p.concepts)) fail(`${game}/curriculum.json fase ${i + 1} malformada`);
     if (p.concepts.length !== count) fail(`${game}/curriculum.json fase ${i + 1} deve ter ${count} conceitos`);

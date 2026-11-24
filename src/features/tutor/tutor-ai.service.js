@@ -8,6 +8,10 @@ const FOLLOW_UP = {
   fr: "Peux-tu m'en dire plus ?",
   it: 'Puoi dirmi di più?',
   ru: 'Можешь рассказать подробнее?',
+  de: 'Kannst du mir mehr erzählen?',
+  th: 'ช่วยเล่าให้ฟังเพิ่มได้ไหม',
+  ja: 'もう少し教えてくれますか？',
+  zh: '你能多讲一点吗？',
 };
 
 /** Saudação local (sem chamar o modelo): barata, sempre disponível e só no idioma estudado. */

@@ -103,8 +103,8 @@ const steps = [
     expect(status.data.isPremium === true, 'Premium não ativou');
   }],
   ['ler uma fase de cada jogo', async () => {
-    // Cada jogo cobre 30 fases: verdadeiro/falso 1–30, pares 31–60, tradução 61–90, pronúncia 91–120.
-    for (const [game, phase] of [['true-false', 1], ['pairs', 31], ['translation', 61], ['pronunciation', 91]]) {
+    // Cada jogo cobre 50 fases: V/F 1–50, pares 51–100, tradução 101–150, pronúncia 151–200, imagem 201–250.
+    for (const [game, phase] of [['true-false', 1], ['pairs', 51], ['translation', 101], ['pronunciation', 151], ['image', 201]]) {
       expectOk(await call('GET', `/v1/languages/${LANG}/phases/${phase}/${game}`), `jogo ${game}`);
     }
   }],

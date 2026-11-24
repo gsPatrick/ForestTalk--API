@@ -6,6 +6,7 @@ const env = require('./src/config/env');
 const routes = require('./src/routes');
 const { globalLimiter } = require('./src/middlewares/rate-limit');
 const { notFound, errorHandler } = require('./src/middlewares/error-handler');
+const { runMigrations } = require('./src/config/migrate');
 
 const app = express();
 
@@ -22,6 +23,7 @@ app.use(notFound);
 app.use(errorHandler);
 
 if (require.main === module) {
+  runMigrations();
   app.listen(env.PORT, () => console.log(`Forest Talk API em http://localhost:${env.PORT}${env.API_PREFIX}`));
 }
 

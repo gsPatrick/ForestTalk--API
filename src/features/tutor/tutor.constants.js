@@ -14,7 +14,7 @@ const TOPICS = [
   { id: 'business-negotiations', title: 'Business Negotiations' },
 ];
 
-const LEVELS = { en: 'Avançado', es: 'Iniciante', fr: 'Iniciante', it: 'Iniciante', ru: 'Iniciante' };
+const LEVELS = { en: 'Avançado', es: 'Iniciante', fr: 'Iniciante', it: 'Iniciante', ru: 'Iniciante', de: 'Iniciante', th: 'Iniciante', ja: 'Iniciante', zh: 'Iniciante' };
 const FREE_TITLE = 'Conversa Livre';
 
 module.exports = { GOALS, DEFAULT_GOAL, KEYS, MAX_DURATION_SECONDS, HISTORY_LIMIT, HISTORY_CONTEXT, TOPICS, LEVELS, FREE_TITLE };

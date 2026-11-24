@@ -21,9 +21,9 @@ test('perfil vazio: zeros e sem palavras', async () => {
   const { stats, words } = body.data;
   assert.deepEqual(words, []);
   assert.equal(stats.phasesCompleted, 0);
-  assert.equal(stats.totalPhases, 120);
-  assert.equal(stats.maxStars, 360);
-  assert.equal(stats.totalChapters, 12);
+  assert.equal(stats.totalPhases, 250);
+  assert.equal(stats.maxStars, 750);
+  assert.equal(stats.totalChapters, 25);
   assert.equal(stats.chaptersCompleted, 0);
   assert.equal(stats.wordsLearned, 0);
   assert.equal(stats.streakDays, 0);
@@ -32,27 +32,27 @@ test('perfil vazio: zeros e sem palavras', async () => {
   assert.equal(stats.animalsTotal, 12);
   assert.equal(stats.coins, 0);
   assert.equal(stats.isPremium, false);
-  assert.deepEqual(Object.keys(stats.perGame), ['true-false', 'pairs', 'translation', 'pronunciation']);
-  assert.deepEqual(stats.perGame.pairs, { done: 0, total: 30, stars: 0 });
+  assert.deepEqual(Object.keys(stats.perGame), ['true-false', 'pairs', 'translation', 'pronunciation', 'image']);
+  assert.deepEqual(stats.perGame.pairs, { done: 0, total: 50, stars: 0 });
 });
 
-test('após fases 1 e 31: contagens, perGame e palavras sem duplicata', async () => {
+test('após fases 1 e 51: contagens, perGame e palavras sem duplicata', async () => {
   const c = await newClient();
   await done(c, 1, 3);
-  await done(c, 31, 2);
+  await done(c, 51, 2);
   const { stats, words } = (await c.get('/v1/languages/en/profile')).body.data;
   assert.equal(stats.phasesCompleted, 2);
   assert.equal(stats.stars, 5);
   assert.equal(stats.chaptersCompleted, 0);
-  assert.deepEqual(stats.perGame['true-false'], { done: 1, total: 30, stars: 3 });
-  assert.deepEqual(stats.perGame.pairs, { done: 1, total: 30, stars: 2 });
+  assert.deepEqual(stats.perGame['true-false'], { done: 1, total: 50, stars: 3 });
+  assert.deepEqual(stats.perGame.pairs, { done: 1, total: 50, stars: 2 });
   assert.equal(stats.perGame.translation.done, 0);
   assert.equal(stats.wordsLearned, words.length);
   assert.ok(words.length > 0);
   assert.equal(new Set(words.map((w) => w.word)).size, words.length);
   assert.equal(words[0].game, 'true-false');
   assert.equal(words[0].phase, 1);
-  assert.ok(words.every((w) => w.phase === 1 || w.phase === 31));
+  assert.ok(words.every((w) => w.phase === 1 || w.phase === 51));
   assert.deepEqual(Object.keys(words[0]).sort(),
     ['emoji', 'example', 'examplePt', 'game', 'id', 'phase', 'pron', 'pt', 'theme', 'translit', 'word']);
   assert.equal(stats.streakDays, 1);

@@ -15,7 +15,7 @@
     "test": "NODE_ENV=test node --test --test-concurrency=1 \"src/**/*.test.js\"",
     "smoke:test": "node scripts/smoke-test.js",
     "check:size": "node scripts/check-file-size.js",
-    "start:prod": "sequelize-cli db:migrate && node app.js"
+    "start:prod": "node app.js"
   },
   "dependencies": {
     "compression": "^1.8.2",

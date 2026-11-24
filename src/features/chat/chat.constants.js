@@ -8,7 +8,7 @@ const CHARACTERS = [
   { id: 'teacher_carlos', emoji: '👨‍🏫', name: 'Prof. Carlos', description: 'Foco em pronúncia e dia a dia.', kind: 'teacher', persona: 'Professor Carlos, a teacher focused on pronunciation and everyday language' },
 ];
 
-const LANGUAGE_NAMES = { en: 'English', es: 'Spanish', fr: 'French', it: 'Italian', ru: 'Russian' };
+const LANGUAGE_NAMES = { en: 'English', es: 'Spanish', fr: 'French', it: 'Italian', ru: 'Russian', de: 'German', th: 'Thai', ja: 'Japanese', zh: 'Mandarin Chinese (Simplified)' };
 const MAX_TEXT = 500;
 // Memória: quantas trocas (aluno + personagem) vão no prompt e quantas mensagens ficam guardadas.
 const HISTORY_TURNS = 6;

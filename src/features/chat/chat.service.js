@@ -1,3 +1,4 @@
+const { TRANSLIT_LANGUAGE_CODES } = require('../../config/constants');
 const { aiUnavailable } = require('../../providers/openai/openai.errors');
 const { chatJson, isEnabled } = require('../../providers/openai/openai.client');
 const { chatLineSchema } = require('./chat-ai-schema');
@@ -10,12 +11,12 @@ const { consumeMessage, refundMessage } = require('./chat-usage.service');
 
 const str = (v) => (typeof v === 'string' && v.trim() ? v.trim() : null);
 
-/** Normaliza a resposta da IA para `ChatLine`; transliteração só no russo. */
+/** Normaliza a resposta da IA para `ChatLine`; transliteração só em ru/th/ja/zh. */
 function toLine(raw, languageCode) {
   const text = str(raw.text);
   if (!text) throw aiUnavailable('empty_text');
   const line = { text, translation: str(raw.translation) };
-  if (languageCode === 'ru') line.transliteration = str(raw.transliteration);
+  if (TRANSLIT_LANGUAGE_CODES.includes(languageCode)) line.transliteration = str(raw.transliteration);
   return line;
 }
 

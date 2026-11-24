@@ -6,11 +6,12 @@ const GAMES = {
   pairs: { id: 'pairs', block: 1, items: 8 },
   translation: { id: 'translation', block: 2, items: 10 },
   pronunciation: { id: 'pronunciation', block: 3, items: 8 },
+  image: { id: 'image', block: 4, items: 10 },
 };
 
 const PHASES_PER_CHAPTER = 10;
 
-/** Fase (1..30) dentro do jogo a partir da fase global. */
+/** Fase (1..50) dentro do jogo a partir da fase global. */
 const gamePhaseOf = (phaseNumber) => ((phaseNumber - 1) % PHASES_PER_GAME) + 1;
 
 /** A partir da fase 11 do jogo, 1 em cada 3 fases de Tradução é invertida (PT → idioma): 12, 15, ... 30. */

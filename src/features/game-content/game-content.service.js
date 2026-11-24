@@ -6,6 +6,7 @@ const { generateTrueFalse } = require('./true-false.generator');
 const { generatePairs } = require('./pairs.generator');
 const { generateTranslation } = require('./translation.generator');
 const { generatePronunciation } = require('./pronunciation.generator');
+const { generateImage } = require('./image.generator');
 
 const build = {
   'true-false': ({ languageCode, phaseNumber, phase }) => generateTrueFalse({ languageCode, phaseNumber, phase }),
@@ -18,9 +19,10 @@ const build = {
       chapterPhases: phases.filter((p) => p.chapter === phase.chapter),
     }),
   pronunciation: ({ phase }) => generatePronunciation({ phase }),
+  image: ({ languageCode, phaseNumber, phase }) => generateImage({ languageCode, phaseNumber, phase }),
 };
 
-/** Itens prontos da fase global `phaseNumber` para o jogo `kind` ('true-false' | 'pairs' | 'translation' | 'pronunciation'). */
+/** Itens prontos da fase global `phaseNumber` para o jogo `kind` ('true-false' | 'pairs' | 'translation' | 'pronunciation' | 'image'). */
 function getPhaseItems(kind, languageCode, phaseNumber) {
   if (!LANGUAGE_CODES.includes(languageCode)) throw AppError.notFound('Idioma não encontrado', 'LANGUAGE_NOT_FOUND');
   const game = GAMES[kind];

@@ -21,7 +21,7 @@ test('exige autenticação', async () => {
 test('valida idioma, fase, estrelas e baú (400)', async () => {
   const c = await newClient();
   assert.equal((await c.get('/v1/languages/xx/chapters')).status, 400);
-  assert.equal((await done(c, 121)).status, 400);
+  assert.equal((await done(c, 251)).status, 400);
   assert.equal((await done(c, 0)).status, 400);
   assert.equal((await done(c, 1, 4)).status, 400);
   assert.equal((await c.post('/v1/languages/en/chests/7/open', { coins: 30 })).status, 400);
@@ -30,19 +30,21 @@ test('valida idioma, fase, estrelas e baú (400)', async () => {
   assert.equal((await c.post('/v1/languages/en/phases/1/complete', { stars: 3 })).status, 400);
 });
 
-test('capítulos novos: 12 capítulos, a 1ª fase de cada jogo liberada, tipos de jogo por bloco', async () => {
+test('capítulos novos: 25 capítulos, a 1ª fase de cada jogo liberada, tipos de jogo por bloco', async () => {
   const c = await newClient();
   const { status, body } = await c.get('/v1/languages/en/chapters');
   assert.equal(status, 200);
-  assert.equal(body.data.length, 12);
+  assert.equal(body.data.length, 25);
   const phases = body.data.flatMap((ch) => ch.phases);
-  assert.equal(phases.length, 120);
-  assert.deepEqual(phases.filter((p) => p.status === 'available').map((p) => p.number), [1, 31, 61, 91]);
+  assert.equal(phases.length, 250);
+  assert.deepEqual(phases.filter((p) => p.status === 'available').map((p) => p.number), [1, 51, 101, 151, 201]);
   assert.deepEqual(phases[0], { id: 'p001', number: 1, chapterNumber: 1, gameType: 'true_false', status: 'available', stars: 0 });
-  assert.equal(phases[30].gameType, 'pairs');
-  assert.equal(phases[60].gameType, 'translation');
-  assert.equal(phases[90].gameType, 'pronunciation');
-  assert.equal(body.data[11].theme, 'parrot');
+  assert.equal(phases[50].gameType, 'pairs');
+  assert.equal(phases[100].gameType, 'translation');
+  assert.equal(phases[150].gameType, 'pronunciation');
+  assert.equal(phases[200].gameType, 'image');
+  assert.equal(phases[249].chapterNumber, 25);
+  assert.equal(body.data[19].theme, 'cat');
   assert.deepEqual(body.data[0].chests, [
     { afterPhaseNumber: 5, tier: 'small', opened: false },
     { afterPhaseNumber: 10, tier: 'big', opened: false },

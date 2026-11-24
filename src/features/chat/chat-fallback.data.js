@@ -42,4 +42,36 @@ module.exports = {
       { user: L('Да, я люблю животных!', 'Sim, eu amo animais!', 'Da, ya lyublyu zhivotnykh!'), ai: L('Я тоже! До скорой встречи. Пока!', 'Eu também! Até breve. Tchau!', 'Ya tozhe! Do skoroy vstrechi. Poka!') },
     ],
   },
+  de: {
+    greeting: L('Hallo! Ich freue mich, mit dir zu sprechen. Wie heißt du?', 'Oi! Fico feliz em falar com você. Qual é o seu nome?'),
+    turns: [
+      { user: L('Ich heiße Ana. Freut mich!', 'Meu nome é Ana. Prazer!'), ai: L('Freut mich, Ana! Wie geht es dir heute?', 'Prazer, Ana! Como você está hoje?') },
+      { user: L('Mir geht es gut, danke. Und dir?', 'Estou bem, obrigada. E você?'), ai: L('Sehr gut! Magst du Tiere?', 'Muito bem! Você gosta de animais?') },
+      { user: L('Ja, ich liebe Tiere!', 'Sim, eu adoro animais!'), ai: L('Ich auch! Bis bald. Tschüss!', 'Eu também! Até breve. Tchau!') },
+    ],
+  },
+  th: {
+    greeting: L('สวัสดี! ฉันดีใจที่ได้คุยกับคุณ คุณชื่ออะไร', 'Oi! Fico feliz em falar com você. Qual é o seu nome?', 'Sawatdi! Chan di chai thi dai khui kap khun. Khun chue arai?'),
+    turns: [
+      { user: L('ฉันชื่ออานา ยินดีที่ได้รู้จัก', 'Meu nome é Ana. Prazer!', 'Chan chue Ana. Yindi thi dai ru chak.'), ai: L('ยินดีที่ได้รู้จักเหมือนกัน อานา วันนี้เป็นอย่างไรบ้าง', 'Prazer, Ana! Como você está hoje?', 'Yindi thi dai ru chak muean kan, Ana. Wan ni pen yangrai bang?') },
+      { user: L('สบายดี ขอบคุณ แล้วคุณล่ะ', 'Estou bem, obrigada. E você?', 'Sabai di, khop khun. Laeo khun la?'), ai: L('ดีมาก! คุณชอบสัตว์ไหม', 'Muito bem! Você gosta de animais?', 'Di mak! Khun chop sat mai?') },
+      { user: L('ชอบ ฉันรักสัตว์!', 'Sim, eu adoro animais!', 'Chop, chan rak sat!'), ai: L('ฉันก็เหมือนกัน! แล้วคุยกันใหม่นะ ลาก่อน', 'Eu também! Até breve. Tchau!', 'Chan ko muean kan! Laeo khui kan mai na. La kon.') },
+    ],
+  },
+  ja: {
+    greeting: L('こんにちは！あなたと話せてうれしいです。お名前は？', 'Oi! Fico feliz em falar com você. Qual é o seu nome?', 'Konnichiwa! Anata to hanasete ureshii desu. O-namae wa?'),
+    turns: [
+      { user: L('アナです。はじめまして！', 'Meu nome é Ana. Prazer!', 'Ana desu. Hajimemashite!'), ai: L('はじめまして、アナさん！今日は元気ですか？', 'Prazer, Ana! Como você está hoje?', 'Hajimemashite, Ana-san! Kyō wa genki desu ka?') },
+      { user: L('元気です、ありがとう。あなたは？', 'Estou bem, obrigada. E você?', 'Genki desu, arigatō. Anata wa?'), ai: L('とても元気です！動物は好きですか？', 'Muito bem! Você gosta de animais?', 'Totemo genki desu! Dōbutsu wa suki desu ka?') },
+      { user: L('はい、動物が大好きです！', 'Sim, eu adoro animais!', 'Hai, dōbutsu ga daisuki desu!'), ai: L('私もです！また話しましょう。さようなら！', 'Eu também! Até breve. Tchau!', 'Watashi mo desu! Mata hanashimashō. Sayōnara!') },
+    ],
+  },
+  zh: {
+    greeting: L('你好！很高兴和你聊天。你叫什么名字？', 'Oi! Fico feliz em falar com você. Qual é o seu nome?', 'Nǐ hǎo! Hěn gāoxìng hé nǐ liáotiān. Nǐ jiào shénme míngzi?'),
+    turns: [
+      { user: L('我叫安娜。很高兴认识你！', 'Meu nome é Ana. Prazer!', 'Wǒ jiào Ānnà. Hěn gāoxìng rènshi nǐ!'), ai: L('很高兴认识你，安娜！你今天怎么样？', 'Prazer, Ana! Como você está hoje?', 'Hěn gāoxìng rènshi nǐ, Ānnà! Nǐ jīntiān zěnmeyàng?') },
+      { user: L('我很好，谢谢。你呢？', 'Estou bem, obrigada. E você?', 'Wǒ hěn hǎo, xièxie. Nǐ ne?'), ai: L('我也很好！你喜欢动物吗？', 'Muito bem! Você gosta de animais?', 'Wǒ yě hěn hǎo! Nǐ xǐhuan dòngwù ma?') },
+      { user: L('喜欢，我爱动物！', 'Sim, eu adoro animais!', 'Xǐhuan, wǒ ài dòngwù!'), ai: L('我也是！下次再聊。再见！', 'Eu também! Até breve. Tchau!', 'Wǒ yě shì! Xià cì zài liáo. Zàijiàn!') },
+    ],
+  },
 };

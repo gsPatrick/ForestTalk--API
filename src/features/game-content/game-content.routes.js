@@ -10,5 +10,6 @@ router.get('/:code/phases/:n/true-false', ...guard, controller.trueFalse);
 router.get('/:code/phases/:n/pairs', ...guard, controller.pairs);
 router.get('/:code/phases/:n/translation', ...guard, controller.translation);
 router.get('/:code/phases/:n/pronunciation', ...guard, controller.pronunciation);
+router.get('/:code/phases/:n/image', ...guard, controller.image);
 
 module.exports = router;

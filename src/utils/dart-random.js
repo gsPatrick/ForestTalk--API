@@ -56,7 +56,7 @@ function dartShuffle(list, nextInt) {
   return copy;
 }
 
-// `String.hashCode` da Dart VM não é portável; os idiomas são só 5 (valores medidos no Dart).
-const DART_LANGUAGE_HASH = { en: 140877528, es: 22745284, fr: 706175305, it: 383825714, ru: 252156293 };
+// `String.hashCode` da Dart VM não é portável; os idiomas são poucos (valores medidos no Dart: `'xx'.hashCode`).
+const DART_LANGUAGE_HASH = { en: 140877528, es: 22745284, fr: 706175305, it: 383825714, ru: 252156293, de: 617306330, th: 709610959, ja: 214180331, zh: 1027566836 };
 
 module.exports = { createDartRandom, dartShuffle, DART_LANGUAGE_HASH };

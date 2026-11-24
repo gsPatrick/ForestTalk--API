@@ -11,14 +11,14 @@ test('exige autenticação', async () => {
   assert.equal((await request('GET', '/v1/profile/languages')).status, 401);
 });
 
-test('aparelho vazio: 5 idiomas zerados na ordem', async () => {
+test('aparelho vazio: 9 idiomas zerados na ordem', async () => {
   const c = await newClient();
   const { status, body } = await c.get('/v1/profile/languages');
   assert.equal(status, 200);
-  assert.deepEqual(body.data.map((l) => l.code), ['en', 'es', 'fr', 'it', 'ru']);
+  assert.deepEqual(body.data.map((l) => l.code), ['en', 'es', 'fr', 'it', 'ru', 'de', 'th', 'ja', 'zh']);
   for (const l of body.data) {
     assert.deepEqual({ ...l, code: undefined }, {
-      code: undefined, phasesCompleted: 0, totalPhases: 120, stars: 0, maxStars: 360,
+      code: undefined, phasesCompleted: 0, totalPhases: 250, stars: 0, maxStars: 750,
       wordsLearned: 0, chaptersCompleted: 0, lastPlayedAt: null,
     });
   }
@@ -27,7 +27,7 @@ test('aparelho vazio: 5 idiomas zerados na ordem', async () => {
 test('após fases em en e es: números batem com /languages/:code/profile', async () => {
   const c = await newClient();
   await done(c, 'en', 1, 3);
-  await done(c, 'en', 31, 2);
+  await done(c, 'en', 51, 2);
   await done(c, 'es', 1, 1);
   const list = (await c.get('/v1/profile/languages')).body.data;
   const [en, es, fr] = list;

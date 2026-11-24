@@ -18,5 +18,5 @@ EXPOSE 3333
 HEALTHCHECK --interval=30s --timeout=5s --start-period=40s --retries=3 \
   CMD wget -qO- "http://127.0.0.1:${PORT}${API_PREFIX:-/api}/health" || exit 1
 
-# Cria/atualiza as tabelas e inicia a API
+# Inicia a API (o app.js aplica as migrações pendentes antes de abrir a porta)
 CMD ["npm", "run", "start:prod"]

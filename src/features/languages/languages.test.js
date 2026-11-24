@@ -5,10 +5,10 @@ const { startServer, stopServer, request } = require('../../test/helpers');
 before(startServer);
 after(stopServer);
 
-test('lista os 5 idiomas sem auth, no formato Language.toJson', async () => {
+test('lista os 9 idiomas sem auth, no formato Language.toJson', async () => {
   const { status, body } = await request('GET', '/v1/languages');
   assert.equal(status, 200);
-  assert.deepEqual(body.data.map((l) => l.code), ['en', 'es', 'fr', 'it', 'ru']);
+  assert.deepEqual(body.data.map((l) => l.code), ['en', 'es', 'fr', 'it', 'ru', 'de', 'th', 'ja', 'zh']);
   for (const l of body.data) {
     assert.deepEqual(Object.keys(l).sort(), ['code', 'flagEmoji', 'name', 'nativeName', 'sttLocale', 'ttsLocale', 'usesTransliteration']);
   }

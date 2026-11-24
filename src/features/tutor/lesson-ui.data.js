@@ -25,4 +25,24 @@ module.exports = {
     wrong: 'Почти, {name}. Правильный ответ {key}) {text}.',
     pick: 'Выбери A, B или C, {name}.',
   },
+  de: {
+    right: 'Richtig, {name}! Weiter zur nächsten.',
+    wrong: 'Fast, {name}. Die richtige Antwort ist {key}) {text}.',
+    pick: 'Wähle A, B oder C, {name}.',
+  },
+  th: {
+    right: 'ถูกต้อง {name}! ไปข้อต่อไปกัน',
+    wrong: 'เกือบถูกแล้ว {name} คำตอบที่ถูกคือ {key}) {text}',
+    pick: 'เลือก A, B หรือ C เพื่อตอบ {name}',
+  },
+  ja: {
+    right: '正解です、{name}さん！次に進みましょう。',
+    wrong: '惜しいです、{name}さん。正解は {key}) {text} です。',
+    pick: 'A、B、Cから選んでください、{name}さん。',
+  },
+  zh: {
+    right: '答对了，{name}！我们继续下一题。',
+    wrong: '差一点，{name}。正确答案是 {key}) {text}。',
+    pick: '请选择 A、B 或 C，{name}。',
+  },
 };

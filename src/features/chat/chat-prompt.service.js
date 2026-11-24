@@ -1,10 +1,15 @@
 const { CHARACTERS, LANGUAGE_NAMES } = require('./chat.constants');
+const { TRANSLIT_LANGUAGE_CODES } = require('../../config/constants');
+
+const TRANSLIT_HINT = { ru: 'simple Russian transliteration', th: 'simple RTGS romanization', ja: 'Hepburn romaji', zh: 'pinyin with tone marks' };
 
 // O system prompt é montado aqui, no servidor: o app nunca envia prompts.
 function systemPrompt(characterId, languageCode, context) {
   const character = CHARACTERS.find((c) => c.id === characterId);
   const language = LANGUAGE_NAMES[languageCode];
-  const translit = languageCode === 'ru' ? ' and "transliteration" (the Russian text in Latin letters)' : '';
+  const translit = TRANSLIT_LANGUAGE_CODES.includes(languageCode)
+    ? ` and "transliteration" (the ${language} text in Latin letters: ${TRANSLIT_HINT[languageCode]})`
+    : '';
   const known = context.vocabulary.map((v) => `${v.word} (${v.pt})`).join(', ');
   return [
     `You are ${character.persona}, chatting with a Brazilian Portuguese speaker who is learning ${language}.`,

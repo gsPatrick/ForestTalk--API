@@ -1,4 +1,4 @@
-const NAMES = { en: 'English', es: 'Spanish', fr: 'French', it: 'Italian', ru: 'Russian' };
+const NAMES = { en: 'English', es: 'Spanish', fr: 'French', it: 'Italian', ru: 'Russian', de: 'German', th: 'Thai', ja: 'Japanese', zh: 'Mandarin Chinese (Simplified)' };
 const clip = (s) => String(s ?? '').replace(/\s+/g, ' ').slice(0, 200);
 
 /** JSON Schema (modo estrito) da resposta do tutor. */
