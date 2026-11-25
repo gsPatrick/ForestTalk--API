@@ -29,7 +29,7 @@ test('perfil vazio: zeros e sem palavras', async () => {
   assert.equal(stats.streakDays, 0);
   assert.equal(stats.bestStreakDays, 0);
   assert.equal(stats.animalsOwned, 1);
-  assert.equal(stats.animalsTotal, 12);
+  assert.equal(stats.animalsTotal, 14);
   assert.equal(stats.coins, 0);
   assert.equal(stats.isPremium, false);
   assert.deepEqual(Object.keys(stats.perGame), ['true-false', 'pairs', 'translation', 'pronunciation', 'image']);

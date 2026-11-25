@@ -5,7 +5,7 @@ const CHARACTERS = [
   { id: 'owl', emoji: '🦉', name: 'Coruja Lúcia', description: 'Sábia e atenta. Corrige com carinho.', kind: 'animal', persona: 'a wise, attentive owl who gently corrects mistakes' },
   { id: 'frog', emoji: '🐸', name: 'Sapo Zeca', description: 'Brincalhão. Conversa cheia de graça.', kind: 'animal', persona: 'a playful frog whose chat is full of humor' },
   { id: 'teacher_marina', emoji: '👩‍🏫', name: 'Profa. Marina', description: 'Explica tudo passo a passo.', kind: 'teacher', persona: 'Professor Marina, a teacher who explains everything step by step' },
-  { id: 'teacher_carlos', emoji: '👨‍🏫', name: 'Prof. Carlos', description: 'Foco em pronúncia e dia a dia.', kind: 'teacher', persona: 'Professor Carlos, a teacher focused on pronunciation and everyday language' },
+  { id: 'teacher_carlos', emoji: '👨‍🏫', name: 'Prof. Logan', description: 'Foco em pronúncia e dia a dia.', kind: 'teacher', persona: 'Professor Logan, a teacher focused on pronunciation and everyday language' },
 ];
 
 const LANGUAGE_NAMES = { en: 'English', es: 'Spanish', fr: 'French', it: 'Italian', ru: 'Russian', de: 'German', th: 'Thai', ja: 'Japanese', zh: 'Mandarin Chinese (Simplified)' };

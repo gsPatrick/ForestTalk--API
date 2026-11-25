@@ -13,6 +13,8 @@ const ANIMALS = [
   { id: 'horse', name: 'Cavalo', emoji: '🐴', phrase: 'Galopa longe quem tem constância.', rarity: 'rare' },
   { id: 'kangaroo', name: 'Canguru', emoji: '🦘', phrase: 'Dê um grande salto: errar faz parte!', rarity: 'epic' },
   { id: 'giraffe', name: 'Girafa', emoji: '🦒', phrase: 'Olhe mais longe: seu vocabulário não para de crescer!', rarity: 'epic' },
+  { id: 'tiger', name: 'Tigre', emoji: '🐯', phrase: 'Com garra e foco, nenhuma frase é difícil demais.', rarity: 'epic' },
+  { id: 'panda', name: 'Panda', emoji: '🐼', phrase: 'Com calma e prazer, cada palavra vira hábito.', rarity: 'epic' },
   { id: 'elephant', name: 'Elefante', emoji: '🐘', phrase: 'Quem tem boa memória vai longe.', rarity: 'epic' },
   { id: 'frog', name: 'Sapinho', emoji: '🐸', phrase: 'Todo grande falante começou com um pulinho!', rarity: 'legendary' },
 ];

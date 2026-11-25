@@ -19,6 +19,8 @@ const CHARACTER_VOICES = {
   giraffe: { voice: 'XrExE9yKIg1WjnnlVkGX', name: 'Matilda' }, // Girafa: educada
   horse: { voice: 'CwhRBWXzGAHq8TQ4Fs17', name: 'Roger' }, // Cavalo: tranquilo
   kangaroo: { voice: 'IKne3meq5aSn9XLyUdCD', name: 'Charlie' }, // Canguru: energético
+  tiger: { voice: 'onwK4e9ZLuTAKqWW03F9', name: 'Daniel' }, // Tigre: firme, confiante
+  panda: { voice: 'EXAVITQu4vr4xnSDxMaL', name: 'Sarah' }, // Panda: calmo, gentil
   teacher_carlos: { voice: 'cjVigY5qzO86Huf0OWal', name: 'Eric' }, // pronúncia, dia a dia
 };
 
